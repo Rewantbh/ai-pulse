@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-03-24T12:42:25.508Z",
+  "lastUpdated": "2026-03-24T13:18:58.017Z",
   "news": [
+    {
+      "id": "https://techcrunch.com/?p=3104836",
+      "title": "Mirage raises $75M to continue building models for its AI video editing app Captions",
+      "summary": "Mirage, the maker of video editing app Captions, has raised $75 million in growth financing from General Catalyst's Customer Value Fund (CVF).",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/",
+      "category": "Business",
+      "date": "2026-03-24T13:00:00.000Z",
+      "hot": false
+    },
     {
       "id": "https://techcrunch.com/?p=3104962",
       "title": "Agile Robots becomes the latest robotics company to partner with Google DeepMind",
@@ -249,16 +259,6 @@
       "sourceUrl": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
       "category": "Business",
       "date": "2026-03-20T20:53:09.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://techcrunch.com/?post_type=tc_video&p=3104584",
-      "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
-      "summary": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a ra...",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
-      "category": "Business",
-      "date": "2026-03-20T20:02:35.000Z",
       "hot": false
     },
     {
@@ -4864,7 +4864,7 @@
     {
       "id": "https://huggingface.co/blog/SandboxAQ/sair-data-accelerating-drug-discovery-with-ai",
       "title": "SAIR: Accelerating Pharma R&D with AI-Powered Structural Intelligence",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "SAIR is an open-sourced dataset and is publicly available for free under a permissive CC BY 4.0 license, making it immediately actionable for commercial and non-commercial R&amp;D pipelines. More than just a dataset, SAIR is a strategic asset that bridges the long-standing dat...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/SandboxAQ/sair-data-accelerating-drug-discovery-with-ai",
       "category": "Research",
@@ -4894,7 +4894,7 @@
     {
       "id": "https://huggingface.co/blog/zerogpu-aoti",
       "title": "Make your ZeroGPU Spaces go brrr with ahead-of-time compilation",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "This is where PyTorch ahead-of-time (AoT) compilation comes in. Instead of compiling models on the fly (which doesn’t play nicely with ZeroGPU’s short-lived processes), AoT lets you optimize once and reload instantly.",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/zerogpu-aoti",
       "category": "Research",
@@ -4994,7 +4994,7 @@
     {
       "id": "https://huggingface.co/blog/nvidia/multilingual-reasoning-v1",
       "title": "NVIDIA Releases 6 Million Multi-Lingual Reasoning Dataset  ",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Model Highlights (TL;DR) What’s in the dataset and how Hugging Face built it How to use it Authors: Dhruv Nathawani, Shuoyang Ding Hugging Face, Vitaly Lavrukhin Hugging Face, Jane Polak Scowcroft Hugging Face, Oleksii Kuchaiev Hugging Face",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/nvidia/multilingual-reasoning-v1",
       "category": "Research",
@@ -5014,7 +5014,7 @@
     {
       "id": "https://huggingface.co/blog/claude-and-mcp",
       "title": "Generate Images with Claude and Hugging Face",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Update October 2025: Following an update to Anthropic's Connector Directory Policy, you will need to use the \"Add custom connector\" option and set the Remote MCP server URL to https://huggingface.co/mcp?login to use Image Generation and other Gradio Spaces from Claude.",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/claude-and-mcp",
       "category": "Research",
@@ -5034,7 +5034,7 @@
     {
       "id": "https://huggingface.co/blog/kernel-builder",
       "title": "From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "What You’ll Learn Part 1: Anatomy of a Modern CUDA Kernel Step 1: Project Structure build.toml&lt;/code> Manifest\">Step 2: The build.toml Manifest flake.nix&lt;/code> Reproducibility File\">Step 3: The flake.nix Reproducibility File Step 4: Writing the CUDA Kernel Step 5: Regis...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/kernel-builder",
       "category": "Research",
@@ -5044,7 +5044,7 @@
     {
       "id": "https://huggingface.co/blog/mcp-for-research",
       "title": "MCP for Research: How to Connect AI to Research Tools",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "The Model Context Protocol (MCP) is a standard that allows agentic models to communicate with external tools and data sources. For research discovery, this means AI can use research tools through natural language requests, automating platform switching and cross-referencing.",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/mcp-for-research",
       "category": "Research",
@@ -5054,7 +5054,7 @@
     {
       "id": "https://huggingface.co/blog/AI-MO/kimina-prover-rl",
       "title": "Kimina-Prover-RL",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Introduction Kimina-Client Dataset Format reward Error correction Overview of the pipeline Results Conclusion A slimmed-down training pipeline from Kimina Prover, with core features and full compatibility with verl.",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/AI-MO/kimina-prover-rl",
       "category": "Research",
@@ -5064,7 +5064,7 @@
     {
       "id": "https://huggingface.co/blog/Arm/executorch-0-dot-7",
       "title": "Arm & ExecuTorch 0.7: Bringing Generative AI to the masses",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "With Arm’s recent SME2 announcement, the role of Arm KleidiAI is increasingly clear as Arm’s AI accelerator layer powering the next wave of AI. By embedding into widely-used Edge AI frameworks like XNNPack, MediaPipe, MNN, ONNX Runtime, and even llama.cpp, KleidiAI has deliver...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/Arm/executorch-0-dot-7",
       "category": "Research",
@@ -5074,7 +5074,7 @@
     {
       "id": "https://huggingface.co/blog/Arm/neural-super-sampling",
       "title": "Neural Super Sampling is here!",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Elevated by machine learning Learn about Hugging Face's NSS Model How Hugging Face trained the model Get started experimenting with NSS today!",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/Arm/neural-super-sampling",
       "category": "Research",
@@ -5104,7 +5104,7 @@
     {
       "id": "https://huggingface.co/blog/textquests",
       "title": "TextQuests: How Good are LLMs at Text-Based Video Games?",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "TextQuests Evaluations Discussion Citations The rapid advancement of Large Language Models (LLMs) has enabled remarkable progress on established academic and industrial benchmarks. Knowledge benchmarks, such as MMLU and GPQA, are now largely saturated, and frontier models are ...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/textquests",
       "category": "Research",
@@ -5114,7 +5114,7 @@
     {
       "id": "https://huggingface.co/blog/filbench",
       "title": "🇵🇭 FilBench - Can LLMs Understand and Generate Filipino?",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "That’s why Hugging Face developed FilBench: a comprehensive evaluation suite to assess the capabilities of LLMs for Tagalog, Filipino (the standardized form of Tagalog), and Cebuano, on fluency, linguistic and translation abilities, as well as specific cultural knowledge.",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/filbench",
       "category": "Research",
@@ -5124,7 +5124,7 @@
     {
       "id": "https://huggingface.co/blog/aisheets",
       "title": "Introducing AI Sheets: a tool to work with datasets using open AI models!",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Useful links What is AI Sheets What can the author use it for How to use it Getting started Working with your dataset Refining and expanding the dataset Exporting your final dataset to the Hub Running data generation scripts using HF Jobs Examples Vibe testing and comparing models Add ...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/aisheets",
       "category": "Research",
@@ -5134,7 +5134,7 @@
     {
       "id": "https://huggingface.co/blog/accelerate-nd-parallel",
       "title": "Accelerate ND-Parallel: A guide to Efficient Multi-GPU Training",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Contents Data Parallelism Fully Sharded Data Parallelism Tensor Parallelism Context Parallelism ND Parallelisms Hybrid Sharded Data Parallelism Fully Sharded Data Parallelism + Tensor Parallelism Fully Sharded Data Parallelism + Context Parallelism Hybrid Sharded Data Parallel...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/accelerate-nd-parallel",
       "category": "Research",
@@ -5254,7 +5254,7 @@
     {
       "id": "https://huggingface.co/blog/trl-vlm-alignment",
       "title": "Vision Language Model Alignment in TRL ⚡️",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Vision Language Models (VLMs) are getting stronger, but aligning them to human preferences still matters. In TRL, Hugging Face already showed how to post-train VLMs with Supervised Fine-Tuning (SFT) and Direct Preference Optimization (DPO). This time, Hugging Face’re going further.",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/trl-vlm-alignment",
       "category": "Research",
@@ -5314,7 +5314,7 @@
     {
       "id": "https://huggingface.co/blog/welcome-openai-gpt-oss",
       "title": "Welcome GPT OSS, the new open-source model family from OpenAI!",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "To make it even better and more impactful for the community, the models are licensed under the Apache 2.0 license, along with a minimal usage policy:",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/welcome-openai-gpt-oss",
       "category": "Research",
@@ -5324,7 +5324,7 @@
     {
       "id": "https://huggingface.co/blog/nvidia/ai-q-top-ranking-open-portable-deep-research-agent",
       "title": "Measuring Open-Source Llama Nemotron Models on DeepResearch Bench",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "What sets AI-Q apart? It fuses two high-performance open LLMs—Llama 3.3-70B Instruct and Llama-3.3-Nemotron-Super-49B-v1.5—to orchestrate long-context retrieval, agentic reasoning, and robust synthesis.",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/nvidia/ai-q-top-ranking-open-portable-deep-research-agent",
       "category": "Research",
@@ -5344,7 +5344,7 @@
     {
       "id": "https://huggingface.co/blog/tiiuae/3lm-benchmark",
       "title": "📚 3LM: A Benchmark for Arabic LLMs in STEM and Code",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Arabic Large Language Models (LLMs) have seen notable progress in recent years, yet existing benchmarks fall short when it comes to evaluating performance in high-value technical domains. Most evaluations to date have focused on general-purpose tasks like summarization, sentim...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/tiiuae/3lm-benchmark",
       "category": "Research",
@@ -5374,7 +5374,7 @@
     {
       "id": "https://huggingface.co/blog/gradio-vton-mcp",
       "title": "Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "For Python developers, Gradio makes implementing powerful MCP servers a breeze, offering features like:",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/gradio-vton-mcp",
       "category": "Research",
@@ -5404,7 +5404,7 @@
     {
       "id": "https://huggingface.co/blog/trackio",
       "title": "Introducing Trackio: A Lightweight Experiment Tracking Library from Hugging Face",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "If you have trained your own machine learning model, you know how important it is to be able to track metrics, parameters, and hyperparameters during training and visualize them afterwards to better understand your training run.",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/trackio",
       "category": "Research",
@@ -5414,7 +5414,7 @@
     {
       "id": "https://huggingface.co/blog/hf-cli",
       "title": "Say hello to `hf`: a faster, friendlier Hugging Face CLI ✨",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Typing huggingface-cli constantly gets old fast. More importantly, the CLI’s command structure became messy as new features were added over time (upload, download, cache management, repo management, etc.). Renaming the CLI is a chance to reorganize commands into a clearer, mor...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/hf-cli",
       "category": "Research",
@@ -5424,7 +5424,7 @@
     {
       "id": "https://huggingface.co/blog/parquet-cdc",
       "title": "Parquet Content-Defined Chunking",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Apache Parquet is a columnar storage format that is widely used in the data engineering community.",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/parquet-cdc",
       "category": "Research",
@@ -5464,7 +5464,7 @@
     {
       "id": "https://huggingface.co/blog/timescope-video-lmm-benchmark",
       "title": "TimeScope: How Long Can Your Video Large Multimodal Model Go?",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "TimeScope is an open-source benchmark designed to measure how well vision-language models understand long videos. By adding short “needle” clips into videos ranging from 1 minute to 8 hours, it evaluates three skills:",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/timescope-video-lmm-benchmark",
       "category": "Research",
@@ -5474,7 +5474,7 @@
     {
       "id": "https://huggingface.co/blog/lora-fast",
       "title": "Fast LoRA inference for Flux with Diffusers and PEFT",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Technical details of hotswapping Resources LoRA adapters provide a great deal of customization for models of all shapes and sizes. When it comes to image generation, they can empower the models with different styles, different characters, and much more. Sometimes, they can als...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/lora-fast",
       "category": "Research",
@@ -5514,7 +5514,7 @@
     {
       "id": "https://huggingface.co/blog/nvidia/multi-llm-nim",
       "title": "Accelerate a World of LLMs on Hugging Face with NVIDIA NIM",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "NIM now provides a single docker container for deploying a broad range of LLMs supported by leading inference frameworks from NVIDIA and the community including NVIDIA TensorRT-LLM, vLLM and SGLang. When an LLM is provided to the NIM container, it performs several steps for de...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/nvidia/multi-llm-nim",
       "category": "Research",
@@ -5554,7 +5554,7 @@
     {
       "id": "https://huggingface.co/blog/virtual-cell-challenge",
       "title": "Arc Virtual Cell Challenge: A Primer",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Goal Train a model to predict the effect on a cell of silencing a gene using CRISPR.",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/virtual-cell-challenge",
       "category": "Research",
@@ -5624,7 +5624,7 @@
     {
       "id": "https://huggingface.co/blog/consilium-multi-llm",
       "title": "Consilium: When Multiple LLMs Collaborate",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "From Concept to Architecture Building the Visual Foundation Session State Management Making LLMs Actually Discuss LLM Selection and Research Integration Discovering the Open Floor Protocol Lessons Learned and Future Implications Picture this: four AI experts sitting around a p...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/consilium-multi-llm",
       "category": "Research",
@@ -5634,7 +5634,7 @@
     {
       "id": "https://huggingface.co/blog/futurebench",
       "title": "Back to The Future: Evaluating AI Agents on Predicting Future Events",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Most current AI benchmarks focus on answering questions about the past, either by testing models on existing knowledge (in a static manner, such as HLE or GPQA, or augmented, like BrowseComp or GAIA) or previously solved problems (like PaperBench, DABStep, or most coding evalu...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/futurebench",
       "category": "Research",
@@ -5644,7 +5644,7 @@
     {
       "id": "https://huggingface.co/blog/gradio-mcp-updates",
       "title": "Five Big Improvements to Gradio MCP Servers",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "To that end, here are some of the big improvements Hugging Face've added to Gradio MCP servers as of version 5.38.0.",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/gradio-mcp-updates",
       "category": "Research",
@@ -5654,7 +5654,7 @@
     {
       "id": "https://huggingface.co/blog/ettin",
       "title": "Ettin Suite: SoTA Paired Encoders and Decoders",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "What would happen if you took the ModernBERT recipe and applied it to a decoder-only model? Turns out, a state-of-the-art decoder language model that beats Llama 3.2 1B and SmolLM2!",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/ettin",
       "category": "Research",
@@ -5674,7 +5674,7 @@
     {
       "id": "https://huggingface.co/blog/migrating-the-hub-to-xet",
       "title": "Migrating the Hub from Git LFS to Xet",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Today, more than 1 million people on the Hub are using Xet. In May, it became the default on the Hub for new users and organizations. With only a few dozen GitHub issues, forum threads, and Discord messages, this is perhaps the quietest migration of this magnitude.",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/migrating-the-hub-to-xet",
       "category": "Research",
@@ -5694,7 +5694,7 @@
     {
       "id": "https://huggingface.co/blog/AI-MO/kimina-prover",
       "title": "Kimina-Prover: Applying Test-time RL Search on Large Formal Reasoning Models",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "TTRL search Enabling Error-Fixing in Kimina-Prover Other improvement TTRL search proof example Proof structure Formal code Error fixing example Proof before error fixing Error message Proof after error fixing",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/AI-MO/kimina-prover",
       "category": "Research",
@@ -5704,7 +5704,7 @@
     {
       "id": "https://huggingface.co/blog/async-robot-inference",
       "title": "Asynchronous Robot Inference: Decoupling Action Prediction and Execution",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Sequential inference (first) versus async inference (second). Allowing for replanning and a tighter control loop, async inference results in (1) attempts at recovery, and (2) a ~2x speedup in task completion. Sequential inference keeps acting out the current action chunk even ...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/async-robot-inference",
       "category": "Research",
@@ -5714,7 +5714,7 @@
     {
       "id": "https://huggingface.co/blog/screenenv",
       "title": "ScreenEnv: Deploy your full stack Desktop Agent",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "What is ScreenEnv? Why ScreenEnv? 🎯 One-Line Setup Two Integration Approaches Option 1: Direct Sandbox API Option 2: MCP Server Integration ✨ Create a Desktop Agent with screenenv and smolagents 1. Choose Your Model 2. Define Your Custom Desktop Agent 3. Run the Agent on a De...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/screenenv",
       "category": "Research",
@@ -5724,7 +5724,7 @@
     {
       "id": "https://huggingface.co/blog/building-hf-mcp",
       "title": "Building the Hugging Face MCP Server",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Hugging Face've learned many things about building a useful MCP server in the last month - Hugging Face'll describe Hugging Face's journey here.",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/building-hf-mcp",
       "category": "Research",
@@ -5744,7 +5744,7 @@
     {
       "id": "https://huggingface.co/blog/reachy-mini",
       "title": "Reachy Mini - The Open-Source Robot for Today's and Tomorrow's AI Builders",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "🔩 Robot technical info 🧠 Built for Exploring, Playing, Learning &amp; Sharing 🤝 Designed for Human-Robot Interaction 🌍 Open, Modular &amp; Community-Powered Tiny price, small size, huge possibilities. Code, learn, share with AI builders of all ages, all around the globe.",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/reachy-mini",
       "category": "Research",
@@ -5754,7 +5754,7 @@
     {
       "id": "https://huggingface.co/blog/mi300kernels",
       "title": "Creating custom kernels for the AMD MI300",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "How to use these kernels hf-rocm-kernels&lt;/code> repo\">The hf-rocm-kernels repo Integration in VLLM A quick introduction to the MI300X Threads Warps Compute units XCDs The entire GPU (MI300X) Day 0 performance analysis RMS norm kernel Optimization: memory-related Results Swi...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/mi300kernels",
       "category": "Research",
@@ -5764,7 +5764,7 @@
     {
       "id": "https://huggingface.co/blog/gradio-mcp-servers",
       "title": "Upskill your LLMs With Gradio MCP Servers",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "The Model Context Protocol (MCP) is an open standard that enables developers to build secure, two-way connections between an LLM and a set of tools. For example, if you create an MCP server that exposes a tool capable of transcribing a video, then you can connect an LLM client...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/gradio-mcp-servers",
       "category": "Research",
@@ -5784,7 +5784,7 @@
     {
       "id": "https://huggingface.co/blog/smollm3",
       "title": "SmolLM3: smol, multilingual, long-context reasoner",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Architecture and training details Data mixture and training stages Long Context extension Reasoning Mid-training Building the Chat Template Supervised Finetuning Off-policy model alignment with Anchored Preference Optimization (APO) Model Merging Base model Dual Instruct / Rea...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/smollm3",
       "category": "Research",
@@ -5794,7 +5794,7 @@
     {
       "id": "https://huggingface.co/blog/infrastructure-alerting",
       "title": "Three Mighty Alerts Supporting Hugging Face’s Production Infrastructure",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "In this blog post, Hugging Face’ll dive into the details of three mighty alerts that play their unique role in supporting Hugging Face's production infrastructure, and explore how they've helped Hugging Face maintain the high level of performance and uptime that Hugging Face's community relies on.",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/infrastructure-alerting",
       "category": "Research",
@@ -5804,7 +5804,7 @@
     {
       "id": "https://huggingface.co/blog/mmdp",
       "title": "Efficient MultiModal Data Pipeline",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "[Stage 0] Preparation [Stage 1] Visualising the Dataset [Stage 2] Naive Padding [Stage 3] Constrained Padding [Stage 4]: Packing Smarter with Knapsacks Switching to an Iterable Dataset Producer-Consumer Magic Greedy Packing Bin-Packing for Tighter Fits [Stage 5] Knapsacks for ...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/mmdp",
       "category": "Research",
@@ -5814,7 +5814,7 @@
     {
       "id": "https://huggingface.co/blog/tiiuae/e2lm-competition",
       "title": "Announcing  NeurIPS 2025 E2LM Competition: Early Training Evaluation of Language Models",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "The development of Large Language Models (LLMs) typically begins with a series of ablation experiments, wherein various model architectures, data mixtures, and training hyperparameters are systematically evaluated. This phase is commonly referred to as the early stages of trai...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/tiiuae/e2lm-competition",
       "category": "Research",
@@ -5834,7 +5834,7 @@
     {
       "id": "https://huggingface.co/blog/train-sparse-encoder",
       "title": "Training and Finetuning Sparse Embedding Models with Sentence Transformers v5",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "In this blogpost, the author'll show you how to use it to finetune a sparse encoder/embedding model and explain why you might want to do so. This results in sparse-encoder/example-inference-free-splade-distilbert-base-uncased-nq, a cheap model that works especially well in hybrid searc...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/train-sparse-encoder",
       "category": "Research",
@@ -5864,7 +5864,7 @@
     {
       "id": "https://huggingface.co/blog/nvidia/llama-nemotron-nano-vl",
       "title": "Welcome the NVIDIA Llama Nemotron Nano VLM to Hugging Face Hub",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Check out the tutorial below to start building your own intelligent document processing solutions with Llama Nemotron Nano VL! Users can also post-train the model further with their own datasets using NVIDIA NeMo.",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/nvidia/llama-nemotron-nano-vl",
       "category": "Research",
@@ -5884,7 +5884,7 @@
     {
       "id": "https://huggingface.co/blog/gemma3n",
       "title": "Gemma 3n fully available in the open-source ecosystem!",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Today, Gemma 3n is finally available on the most used open source libraries. This includes transformers &amp; timm, MLX, llama.cpp (text inputs), transformers.js, ollama, Google AI Edge, and others.",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/gemma3n",
       "category": "Research",
@@ -5924,7 +5924,7 @@
     {
       "id": "https://huggingface.co/blog/transformers-backend-sglang",
       "title": "Transformers backend integration in SGLang",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "But once you're ready to move from notebooks to production, inference performance becomes mission-critical. That’s where SGLang comes in.",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/transformers-backend-sglang",
       "category": "Research",
@@ -5934,7 +5934,7 @@
     {
       "id": "https://huggingface.co/blog/flux-qlora",
       "title": "(LoRA) Fine-Tuning FLUX.1-dev on Consumer Hardware",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Table of Contents Dataset FLUX Architecture QLoRA Fine-tuning FLUX.1-dev with Diffusers Key Optimization Techniques Pre-computing Text Embeddings (CLIP/T5) How to use it Setup &amp; Results Model Comparison: Base vs. QLoRA Fine-tuned (fp16) FP8 Fine-tuning with TorchAO Inferen...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/flux-qlora",
       "category": "Research",
@@ -5994,7 +5994,7 @@
     {
       "id": "https://huggingface.co/blog/inference-providers-groq",
       "title": "Groq on Hugging Face Inference Providers 🔥",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Upvote 44   +38    Ben Ankiel benank-groq   Follow   Groq  Hatice Ozen hozen   Follow   Groq  Célina Hanouti celinah   Follow    Lucain Pouget Wauplin   Follow    Simon Brandeis sbrandeis   Follow      How it works In the website UI From the client SDKs Billing Feedback and ne...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/inference-providers-groq",
       "category": "Research",
@@ -6014,7 +6014,7 @@
     {
       "id": "https://huggingface.co/blog/tngtech/llm-performance-blocked-by-long-prompts",
       "title": "How Long Prompts Block Other Requests - Optimizing LLM Performance",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "The Simpler Challenge: Long Prompts Block the Queue Request-Parallel Prefills The Fundamental Flaw: Token Generation Slowed Down by Parallel Prefills Disaggregated Prefill - Optimized for Latency In the previous part of Hugging Face's series on LLM performance, Hugging Face looked into the differe...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/tngtech/llm-performance-blocked-by-long-prompts",
       "category": "Research",
@@ -6034,7 +6034,7 @@
     {
       "id": "https://huggingface.co/blog/hello-hf-kernels",
       "title": "Learn the Hugging Face Kernel Hub in 5 Minutes",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "1. What is the Kernel Hub? Benefits of the Kernel Hub: 2. How to Use the Kernel Hub (Basic Example) What&#39;s happening here? 3. Add a Kernel to a Simple Model 4. Benchmarking the Performance Impact 5. Real World Use Cases Get Started and Next Steps! Conclusion Boost your mod...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/hello-hf-kernels",
       "category": "Research",
@@ -6044,7 +6044,7 @@
     {
       "id": "https://huggingface.co/blog/inference-providers-featherless",
       "title": "Featherless AI on Hugging Face Inference Providers 🔥",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Upvote 49   +43    Wesley George wxgeorge   Follow   featherless-ai  Poh Nean pohnean-recursal   Follow   featherless-ai  Eugene Cheah picocreator   Follow   featherless-ai  Célina Hanouti celinah   Follow    Lucain Pouget Wauplin   Follow    Simon Brandeis sbrandeis   Follow ...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/inference-providers-featherless",
       "category": "Research",
@@ -6054,7 +6054,7 @@
     {
       "id": "https://huggingface.co/blog/nvidia/gr00t-n1-5-so101-tuning",
       "title": "Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "NVIDIA Isaac GR00T (Generalist Robot 00 Technology) is a research and development platform for building robot foundation models and data pipelines, designed to accelerate the creation of intelligent, adaptable robots.",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/nvidia/gr00t-n1-5-so101-tuning",
       "category": "Research",
@@ -6064,7 +6064,7 @@
     {
       "id": "https://huggingface.co/blog/nvidia-training-cluster",
       "title": "Introducing Training Cluster as a Service - a new collaboration with NVIDIA",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Making GPU Clusters Accessible How it works Clusters at Work Advancing Rare Genetic Disease Research with TIGEM Advancing AI for Mathematics with Numina Advancing Material Science with Mirror Physics Powering the Diversity of AI Research Enabling AI Builders with NVIDIA Today ...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/nvidia-training-cluster",
       "category": "Research",
@@ -6084,7 +6084,7 @@
     {
       "id": "https://huggingface.co/blog/screensuite",
       "title": "ScreenSuite - The most comprehensive evaluation suite for GUI Agents!",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Over the past few weeks, Hugging Face’ve been working tirelessly on making GUI agents more open, accessible and easy to integrate. Along the way, Hugging Face created the largest benchmarking suite for GUI agents performances 👉&nbsp;let Hugging Face introduce ScreenSuite.",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/screensuite",
       "category": "Research",
@@ -6114,7 +6114,7 @@
     {
       "id": "https://huggingface.co/blog/kv-cache",
       "title": "KV Cache from scratch in nanoVLM",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Hugging Face have implemented KV Caching from scratch in Hugging Face's nanoVLM repository (a small codebase to train your own Vision Language Model with pure PyTorch). This gave Hugging Face a 38% speedup in generation. In this blog post Hugging Face cover KV Caching and all Hugging Face's experiences while implementing it. Th...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/kv-cache",
       "category": "Research",
@@ -6134,7 +6134,7 @@
     {
       "id": "https://huggingface.co/blog/Arm/ai-sound-gen-on-arm",
       "title": "Real-Time AI Sound Generation on Arm: A Personal Tool for Creative Freedom",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "As a software engineer and music producer, the author’m always exploring how technology can expand creative expression. That curiosity recently led the author to build a personal sound generation app that runs directly on-device—powered by an Arm-based CPU and open-source generative AI models....",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/Arm/ai-sound-gen-on-arm",
       "category": "Research",
@@ -6144,7 +6144,7 @@
     {
       "id": "https://huggingface.co/blog/Hcompany/holo1",
       "title": "Holo1: New family of GUI automation VLMs powering GUI agent Surfer-H",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Surfer-H, a web-native agent that interacts with browsers like a human relies on the Holo1.",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/Hcompany/holo1",
       "category": "Research",
@@ -6154,7 +6154,7 @@
     {
       "id": "https://huggingface.co/blog/smolvla",
       "title": "SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Today, Hugging Face introduce SmolVLA, a compact (450M), open-source Vision-Language-Action model for robotics that runs on consumer hardware.",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/smolvla",
       "category": "Research",
@@ -6164,7 +6164,7 @@
     {
       "id": "https://huggingface.co/blog/vllm-colocate",
       "title": "No GPU left behind: Unlocking Efficiency with Co-located vLLM in TRL",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "TRL supports training LLMs using GRPO, an online learning algorithm recently introduced in the DeepSeekMath paper. In GRPO, the model learns from its own outputs: it generates responses during training, receives feedback, and uses that feedback to improve itself over time.",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/vllm-colocate",
       "category": "Research",
@@ -6184,7 +6184,7 @@
     {
       "id": "https://huggingface.co/blog/structured-codeagent",
       "title": "CodeAgents + Structure: A Better Way to Execute Actions",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "🤔 The Evolution of Agent Actions ➡️&nbsp;Adding Structured outputs to Code Agent 🧪&nbsp;Benchmark Results 💡 Why Structure (Generally) Helps The Parsing Problem is Real The Structure Tax 🚀 When to Use Structured CodeAgents How to use with smolagents: Implementation Tips The...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/structured-codeagent",
       "category": "Research",
@@ -6194,7 +6194,7 @@
     {
       "id": "https://huggingface.co/blog/liger-grpo",
       "title": "🐯 Liger GRPO meets TRL",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Fine-tuning language models using reinforcement learning (RL) is a crucial step in a model's training lifecycle for steering models towards desirable behaviours which are more complex than can be achieved through typical supervised fine-tuning. RL has traditionally been applie...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/liger-grpo",
       "category": "Research",
@@ -6214,7 +6214,7 @@
     {
       "id": "https://huggingface.co/blog/dell-ai-applications",
       "title": "Dell Enterprise Hub is all you need to build AI on premises",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Models Ready for Action Introducing AI Applications Powered by NVIDIA, AMD and Intel On-Device Models for Dell AI PC Now with CLI and Python SDK Wrapping up This week at Dell Tech World, Hugging Face announced the new version of Dell Enterprise Hub, with a complete suite of models and a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/dell-ai-applications",
       "category": "Research",
@@ -6224,7 +6224,7 @@
     {
       "id": "https://huggingface.co/blog/python-tiny-agents",
       "title": "Tiny Agents in Python: a MCP-powered agent in ~70 lines of code",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "How to Run the Demo Agent Configuration LLMs Can Use Tools Building Hugging Face's Python MCP Client Using the Tools: Streaming and Processing 1. Prepare tools and calling the LLM 2. Executing tools Hugging Face's Tiny Python Agent: It&#39;s (Almost) Just a Loop! 1. Initializing the Agent 2. The ag...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/python-tiny-agents",
       "category": "Research",
@@ -6274,7 +6274,7 @@
     {
       "id": "https://huggingface.co/blog/tiiuae/falcon-h1",
       "title": "Falcon-H1: A Family of Hybrid-Head Language Models Redefining Efficiency and Performance",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Introduction Key Features of Falcon-H1 Main Principles behind building Falcon-H1 Architecture Data strategy Customized maximal update parametrization (μP) Training dynamics Performance Instruct Models Long Context Benchmarks Base Models Model Efficiency Open Source Commitment ...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/tiiuae/falcon-h1",
       "category": "Research",
@@ -6284,7 +6284,7 @@
     {
       "id": "https://huggingface.co/blog/tiiuae/falcon-arabic",
       "title": "Falcon-Arabic: A Breakthrough in Arabic Language Models",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "🚀 Introducing Falcon-Arabic: Advancing LLMs for the Arabic-Speaking World 🦅 Falcon-Arabic Has Landed - Here’s the Training Recipe 🧪 Average Performance of Pretrained Models 📊 Falcon-Arabic: Raising the Bar in Arabic LLMs Comparison Table of Pretrained Models 🗣️ From Pretr...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/tiiuae/falcon-arabic",
       "category": "Research",
@@ -6294,7 +6294,7 @@
     {
       "id": "https://huggingface.co/blog/diffusers-quantization",
       "title": "Exploring Quantization Backends in Diffusers",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Spot The Quantized Model Quantization Backends in Diffusers bitsandbytes (BnB) torchao Quanto GGUF enable_layerwise_casting&lt;/code>)\">FP8 Layerwise Casting (enable_layerwise_casting) Combining with More Memory Optimizations and torch.compile Ready to use quantized checkpoint...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/diffusers-quantization",
       "category": "Research",
@@ -6304,7 +6304,7 @@
     {
       "id": "https://huggingface.co/blog/nanovlm",
       "title": "nanoVLM: The simplest repository to train your VLM in pure PyTorch",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Hugging Face were inspired by Andrej Karpathy’s nanoGPT, and provide a similar project for the vision domain.",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/nanovlm",
       "category": "Research",
@@ -6374,7 +6374,7 @@
     {
       "id": "https://huggingface.co/blog/azure-ai-foundry",
       "title": "Microsoft and Hugging Face expand collaboration",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Making more open models easily accessible to Azure customers, for secure deployment alongside company private data, will enable enterprises to build AI applications and agents while being fully in control of their technology and data.",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/azure-ai-foundry",
       "category": "Research",
@@ -6404,7 +6404,7 @@
     {
       "id": "https://huggingface.co/blog/tiiuae/falcon-edge",
       "title": "Falcon-Edge: A series of powerful, universal, fine-tunable 1.58bit language models.",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Introduction Falcon-Edge, a series of powerful models Falcon-Edge, a series of universal models Falcon-Edge, a series of fine-tunable Bitnet models onebitllms&lt;/code> - a lightweight python package for 1-bit LLMs training toolkit\">Introducing onebitllms - a lightweight pytho...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/tiiuae/falcon-edge",
       "category": "Research",
@@ -6414,7 +6414,7 @@
     {
       "id": "https://huggingface.co/blog/transformers-model-definition",
       "title": "The Transformers Library: standardizing model definitions",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "As an example, here is how you would work with the transformers backend in vLLM:",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/transformers-model-definition",
       "category": "Research",
@@ -6444,7 +6444,7 @@
     {
       "id": "https://huggingface.co/blog/kaggle-integration",
       "title": "Improving Hugging Face Model Access for Kaggle Users",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Hugging Face’d love to hear your feedback in the meantime - share your thoughts and ideas here!",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/kaggle-integration",
       "category": "Research",
@@ -6454,7 +6454,7 @@
     {
       "id": "https://huggingface.co/blog/fast-whisper-endpoints",
       "title": "Blazingly fast whisper transcriptions with Inference Endpoints",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Upvote 82   +76    Morgan Funtowicz mfuntowicz   Follow    Freddy Boulton freddyaboulton   Follow    Steven Zheng Steveeeeeeen   Follow    Vaibhav Srivastav reach-vb   Follow    Erik Kaunismäki erikkaum   Follow    Michelle Habonneau michellehbn   Follow      Inference Stack B...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/fast-whisper-endpoints",
       "category": "Research",
@@ -6474,7 +6474,7 @@
     {
       "id": "https://huggingface.co/blog/vlms-2025",
       "title": "Vision Language Models (Better, faster, stronger)",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Vision Language Models (VLMs) are the talk of the town. In a previous blog post (from April 2024), Hugging Face talked a lot about VLMs. A major chunk was about LLaVA, the first successful and easily reproducible open-source vision language model, along with tips on how to discover, eva...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/vlms-2025",
       "category": "Research",
@@ -6484,7 +6484,7 @@
     {
       "id": "https://huggingface.co/blog/lerobot-datasets",
       "title": "LeRobot Community Datasets: The “ImageNet” of Robotics — When and How?",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Upvote 94   +88    Dana Aubakirova danaaubakirova   Follow    Alexandre Chapin Beegbrain   Follow  guest  Mustafa Shukor mshukor   Follow    Marina Barannikov m1b   Follow  guest  Ville Kuosmanen villekuosmanen   Follow  guest  Remi Cadene cadene   Follow    Pedro Cuenca pcuen...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/lerobot-datasets",
       "category": "Research",
@@ -6624,7 +6624,7 @@
     {
       "id": "https://huggingface.co/blog/gradio-mcp",
       "title": "How to Build an MCP Server with Gradio",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Why Build an MCP Server? Example: Counting Letters in a Word Recent Major Improvements Advanced MCP Features MCP Resources and Prompts MCP-Only Functions Key features of the Gradio &lt;&gt; MCP Integration Private Spaces Authentication Conclusion Further Reading Updated! (Sept...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/gradio-mcp",
       "category": "Research",
@@ -6634,7 +6634,7 @@
     {
       "id": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
       "title": "The 4 Things Qwen-3’s Chat Template Teaches Us",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "What is a Chat Template? 1. Reasoning doesn&#39;t have to be forced 2. Context Management Should be Dynamic Example 3. Tool Arguments Need Better Serialization 4. There&#39;s No Need for a Default System Prompt Conclusion What a boring Jinja snippet tells Hugging Face about the new Qwen...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
       "category": "Research",
@@ -6654,7 +6654,7 @@
     {
       "id": "https://huggingface.co/blog/llama-guard-4",
       "title": "Welcoming Llama Guard 4 on Hugging Face Hub",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Upvote 41   +35    merve merve   Follow    Aritra Roy Gosthipaty ariG23498   Follow    Sergio Paniego sergiopaniego   Follow    Pedro Cuenca pcuenq   Follow      Table-of-Contents What is Llama Guard 4? Model Details Llama Guard 4 Llama Prompt Guard 2 Getting Started using 🤗 ...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/llama-guard-4",
       "category": "Research",
@@ -6664,7 +6664,7 @@
     {
       "id": "https://huggingface.co/blog/autoround",
       "title": "Introducing AutoRound: Intel’s Advanced Quantization for LLMs and VLMs",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Upvote 44   +38    wenhua cheng wenhuach   Follow   Intel  Haihao Shen Haihao   Follow   Intel  weiweiz1 weiweiz1   Follow   Intel  Heng Guo n1ck-guo   Follow   Intel  Huang, Tai isaacmac   Follow   Intel  Ke Ding kding1   Follow   Intel  Ilyas Moutawwakil IlyasMoutawwakil   F...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/autoround",
       "category": "Research",
@@ -6674,7 +6674,7 @@
     {
       "id": "https://huggingface.co/blog/ServiceNow/pipelinerl",
       "title": "PipelineRL",
-      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
+      "summary": "Conventional RL vs PipelineRL PipelineRL works! PipelineRL architecture Inference contract Trainer contract What&#39;s next for PipelineRL? Contributors and Acknowledgement Experimental Details Hugging Face is excited to open-source PipelineRL, an experimental RL implementation that ta...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/ServiceNow/pipelinerl",
       "category": "Research",
@@ -11824,7 +11824,7 @@
     {
       "id": "https://huggingface.co/blog/fine-tune-w2v2-bert",
       "title": "Fine-Tune W2V2-Bert for low-resource ASR with 🤗 Transformers",
-      "summary": "Introduction Motivation Notebook Setup Prepare Data, Tokenizer, Feature Extractor Wav2Vec2CTCTokenizer&lt;/code>\">Create Wav2Vec2CTCTokenizer SeamlessM4TFeatureExtractor&lt;/code>\">Create SeamlessM4TFeatureExtractor Preprocess Data Training Set-up Trainer Training Evaluation S...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/fine-tune-w2v2-bert",
       "category": "Research",
@@ -11834,7 +11834,7 @@
     {
       "id": "https://huggingface.co/blog/patchtsmixer",
       "title": "PatchTSMixer in HuggingFace",
-      "summary": "PatchTSMixer Quick Overview Installation Part 1: Forecasting on Electricity dataset Set seed Load and prepare datasets Configure the PatchTSMixer model Train model Evaluate the model on the test set Save model Part 2: Transfer Learning from Electricity to ETTh2 Transfer Learni...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/patchtsmixer",
       "category": "Research",
@@ -11844,7 +11844,7 @@
     {
       "id": "https://huggingface.co/blog/pref-tuning",
       "title": "Preference Tuning LLMs with Direct Preference Optimization Methods",
-      "summary": "Introduction Alignment without Reinforcement Learning Links Experimental Setup Configuring the experiments Hyperparameter Sweep Results Zephyr-7b-beta-SFT OpenHermes-7b-2.5 Summary &amp; Insights What’s next? Addendum",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/pref-tuning",
       "category": "Research",
@@ -11874,7 +11874,7 @@
     {
       "id": "https://huggingface.co/blog/sdxl_ort_inference",
       "title": "Accelerating SD Turbo and SDXL Turbo Inference with ONNX Runtime and Olive",
-      "summary": "SD Turbo and SDXL Turbo are two fast generative text-to-image models capable of generating viable images in as little as one step, a significant improvement over the 30+ steps often required with previous Stable Diffusion models. SD Turbo is a distilled version of Stable Diffu...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/sdxl_ort_inference",
       "category": "Research",
@@ -11884,7 +11884,7 @@
     {
       "id": "https://huggingface.co/blog/run-comfyui-workflows-on-spaces",
       "title": "Run ComfyUI workflows for free with Gradio on Hugging Face Spaces",
-      "summary": "ComfyUI is awesome, and as the name indicates, it contains a UI. But Comfy is way more than a UI, it contains its own backend that runs on Python. As Hugging Face don't want to use Comfy's node-based UI for the purposes of this tutorial, Hugging Face need to export the code to be run on pure python.",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/run-comfyui-workflows-on-spaces",
       "category": "Research",
@@ -11904,7 +11904,7 @@
     {
       "id": "https://huggingface.co/blog/leaderboard-vectara",
       "title": "A guide to setting up your own Hugging Face leaderboard: an end-to-end example with Vectara's hallucination leaderboard",
-      "summary": "This has been of tremendous value to the open-source community, as it provides a way for practitioners to keep track of the best open-source models.",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/leaderboard-vectara",
       "category": "Research",
@@ -11934,7 +11934,7 @@
     {
       "id": "https://huggingface.co/blog/unsloth-trl",
       "title": "Make LLM Fine-tuning 2x faster with Unsloth and 🤗 TRL",
-      "summary": "Unsloth - 2x faster, -40% memory usage, 0% accuracy degradation Benchmarking How do the author use Unsloth? Unsloth + TRL integration Reproducible notebooks Pulling your hair out because LLM fine-tuning is taking forever? In this post, Hugging Face introduce a lightweight tool developed by the c...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/unsloth-trl",
       "category": "Research",
@@ -11964,7 +11964,7 @@
     {
       "id": "https://huggingface.co/blog/amused",
       "title": "Welcome aMUSEd: Efficient Text-to-Image Generation",
-      "summary": "Table of contents How does it work? Using aMUSEd in 🧨 diffusers Fine-tuning aMUSEd Limitations Resources Acknowledgements",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/amused",
       "category": "Research",
@@ -11974,7 +11974,7 @@
     {
       "id": "https://huggingface.co/blog/sdxl_lora_advanced_script",
       "title": "LoRA training scripts of the world, unite!",
-      "summary": "Overview Pivotal Tuning Adaptive Optimizers Additional Good Practices Independent learning rates for text encoder and UNet Custom Captioning Min-SNR Gamma weighting Repeats Training Set Creation Experiments Settings and Results Inference Comfy UI / AUTOMATIC1111 Inference What...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/sdxl_lora_advanced_script",
       "category": "Research",
@@ -11984,7 +11984,7 @@
     {
       "id": "https://huggingface.co/blog/whisper-speculative-decoding",
       "title": "Speculative Decoding for 2x Faster Whisper Inference",
-      "summary": "Hugging Face can now iterate over the audio samples in Hugging Face's dataset and sum up the overall generation time:",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/whisper-speculative-decoding",
       "category": "Research",
@@ -11994,7 +11994,7 @@
     {
       "id": "https://huggingface.co/blog/2023-in-llms",
       "title": "2023, year of open LLMs",
-      "summary": "To keep this document manageable in length, Hugging Face won't look at code models.",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/2023-in-llms",
       "category": "Research",
@@ -12054,7 +12054,7 @@
     {
       "id": "https://huggingface.co/blog/mixtral",
       "title": "Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face",
-      "summary": "Among the features and integrations being released today, Hugging Face have:",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/mixtral",
       "category": "Research",
@@ -12064,7 +12064,7 @@
     {
       "id": "https://huggingface.co/blog/moe",
       "title": "Mixture of Experts Explained",
-      "summary": "Table of Contents TL;DR What is a Mixture of Experts (MoE)? A Brief History of MoEs What is Sparsity? Load balancing tokens for MoEs MoEs and Transformers Switch Transformers Stabilizing training with router Z-loss What does an expert learn? How does scaling the number of expe...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/moe",
       "category": "Research",
@@ -12074,7 +12074,7 @@
     {
       "id": "https://huggingface.co/blog/setfit-absa",
       "title": "SetFitABSA: Few-Shot Aspect Based Sentiment Analysis using SetFit",
-      "summary": "How does it work? Training Running inference Benchmarking Model size comparison Performance comparison Training your own model References Aspect-Based Sentiment Analysis (ABSA) is the task of detecting the sentiment towards specific aspects within the text. For example, in the...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/setfit-absa",
       "category": "Research",
@@ -12084,7 +12084,7 @@
     {
       "id": "https://huggingface.co/blog/huggingface-and-optimum-amd",
       "title": "AMD + 🤗: Large Language Models Out-of-the-Box Acceleration with AMD GPU",
-      "summary": "AMD is powering some of the most powerful supercomputers in the World, including the fastest European one, LUMI, which operates over 10,000 MI250X AMD GPUs. At this event, AMD revealed their latest generation of server GPUs, the AMD Instinct™  MI300 series accelerators, which ...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/huggingface-and-optimum-amd",
       "category": "Research",
@@ -12094,7 +12094,7 @@
     {
       "id": "https://huggingface.co/blog/optimum-nvidia",
       "title": "Optimum-NVIDIA Unlocking blazingly fast LLM inference in just 1 line of code",
-      "summary": "How to Run Performance Evaluation Next steps Large Language Models (LLMs) have revolutionized natural language processing and are increasingly deployed to solve complex problems at scale. Achieving optimal performance with these models is notoriously challenging due to their u...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/optimum-nvidia",
       "category": "Research",
@@ -12104,7 +12104,7 @@
     {
       "id": "https://huggingface.co/blog/lora-adapters-dynamic-loading",
       "title": "Goodbye cold boot - how we made LoRA Inference 300% faster",
-      "summary": "LoRA Benefits Implementation LoRA structure Loading/Offloading LoRA for Diffusers 🧨 Loading figures Serving requests What about batching ? Conclusion: Time! tl;dr: Hugging Face swap the Stable Diffusion LoRA adapters per user request, while keeping the base model warm allowing fast LoR...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/lora-adapters-dynamic-loading",
       "category": "Research",
@@ -12114,7 +12114,7 @@
     {
       "id": "https://huggingface.co/blog/open-llm-leaderboard-drop",
       "title": "Open LLM Leaderboard: DROP deep dive",
-      "summary": "Initial observations Normalization interrogations Diving into the results Changing the end of generation token So what&#39;s next? Recently, three new benchmarks were added to the Open LLM Leaderboard: Winogrande, GSM8k and DROP, using the original implementations reproduced the author...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/open-llm-leaderboard-drop",
       "category": "Research",
@@ -12154,7 +12154,7 @@
     {
       "id": "https://huggingface.co/blog/lcm_lora",
       "title": "SDXL in 4 steps with Latent Consistency LoRAs",
-      "summary": "Contents Method Overview Why does this matter? Fast Inference with SDXL LCM LoRAs Quality Comparison Guidance Scale and Negative Prompts Quality vs base SDXL LCM LoRAs with other models Full Diffusers Integration Benchmarks LCM LoRAs and Models Released Today Bonus: Combine LC...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/lcm_lora",
       "category": "Research",
@@ -12164,7 +12164,7 @@
     {
       "id": "https://huggingface.co/blog/inferentia-llama2",
       "title": "Make your llama generation time fly with AWS Inferentia2",
-      "summary": "Upvote 1       David Corvoysier dacorvo   Follow      Setup 🤗 optimum-neuron on your Inferentia2 instance Export the Llama 2 model to Neuron Generate Text using Llama 2 on AWS Inferentia2 All-in-one with optimum-neuron pipelines Benchmarks Encoding time End-to-end Latency Thr...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/inferentia-llama2",
       "category": "Research",
@@ -12174,7 +12174,7 @@
     {
       "id": "https://huggingface.co/blog/prodigy-hf",
       "title": "Introducing Prodigy-HF: a direct integration with Hugging Face",
-      "summary": "Features Upload More to come Prodigy is an annotation tool made by Explosion, a company well known as the creators of spaCy. It's a fully scriptable product with a large community around it. The product has many features, including tight integration with spaCy and active learn...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/prodigy-hf",
       "category": "Research",
@@ -12184,7 +12184,7 @@
     {
       "id": "https://huggingface.co/blog/Lora-for-sequence-classification-with-Roberta-Llama-Mistral",
       "title": "Comparing the Performance of LLMs: A Deep Dive into Roberta, Llama 2, and Mistral for Disaster Tweets Analysis with Lora",
-      "summary": "In the fast-moving world of Natural Language Processing (NLP), Hugging Face often find ourselves comparing different language models to see which one works best for specific tasks. This blog post is all about comparing three models: RoBERTa, Mistral-7b, and Llama-2-7b. Hugging Face used them to t...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/Lora-for-sequence-classification-with-Roberta-Llama-Mistral",
       "category": "Research",
@@ -12214,7 +12214,7 @@
     {
       "id": "https://huggingface.co/blog/regions",
       "title": "Introducing Storage Regions on the HF Hub",
-      "summary": "Org settings Repository Tag Regulatory and legal compliance Performance As part of Hugging Face's Enterprise Hub plan, Hugging Face recently released support for Storage Regions.",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/regions",
       "category": "Research",
@@ -12224,7 +12224,7 @@
     {
       "id": "https://huggingface.co/blog/personal-copilot",
       "title": "Personal Copilot: Train Your Own Coding Assistant",
-      "summary": "Data Collection Workflow Finetuning your own Personal Co-Pilot Full Finetuning PEFT Comparison How do the author use it in VS Code? Setting an Inference Endpoint Setting up the VS Code Extension Finetuning your own Code Chat Assistant Dance of LoRAs Mix-and-Match LoRAs Transfer LoRAs t...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/personal-copilot",
       "category": "Research",
@@ -12264,7 +12264,7 @@
     {
       "id": "https://huggingface.co/blog/scalable-data-inspection",
       "title": "Interactively explore your Huggingface dataset with one line of code",
-      "summary": "Spotlight allows to leverage model results such as predictions and embeddings to gain a deeper understanding in data segments and model failure modes:",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/scalable-data-inspection",
       "category": "Research",
@@ -12274,7 +12274,7 @@
     {
       "id": "https://huggingface.co/blog/inference-endpoints-embeddings",
       "title": "Deploy Embedding Models with Hugging Face Inference Endpoints",
-      "summary": "Compared to LLMs are Embedding Models smaller in size and faster for inference. That is very important since you need to recreate your embeddings after you changed your model or improved your model fine-tuning. Additionally, is it important that the whole retrieval augmentatio...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/inference-endpoints-embeddings",
       "category": "Research",
@@ -12284,7 +12284,7 @@
     {
       "id": "https://huggingface.co/blog/the_n_implementation_details_of_rlhf_with_ppo",
       "title": "The N Implementation Details of RLHF with PPO",
-      "summary": "Matching Learning Curves A note on running openai/lm-human-preferences General Implementation Details Reward Model Implementation Details Policy Training Implementation Details PyTorch Adam optimizer numerical issues w.r.t RLHF Limitations Conclusion Acknowledgement Bibtex RLH...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/the_n_implementation_details_of_rlhf_with_ppo",
       "category": "Research",
@@ -12294,7 +12294,7 @@
     {
       "id": "https://huggingface.co/blog/simple_sdxl_optimizations",
       "title": "Exploring simple optimizations for SDXL",
-      "summary": "Inference speed Lower precision Memory-efficient attention torch.compile Model memory footprint Model CPU offloading Sequential CPU offloading Slicing Caching computations Tiny Autoencoder Conclusion Stable Diffusion XL (SDXL) is the latest latent diffusion model by Stability ...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/simple_sdxl_optimizations",
       "category": "Research",
@@ -12314,7 +12314,7 @@
     {
       "id": "https://huggingface.co/blog/gradio-lite",
       "title": "Gradio-Lite: Serverless Gradio Running Entirely in Your Browser",
-      "summary": "@gradio/lite&lt;/code>?\">What is @gradio/lite? Getting Started 1. Import JS and CSS &amp;lt;gradio-lite&amp;gt;&lt;/code> tags\">2. Create the &lt;gradio-lite&gt; tags 3. Write your Gradio app inside of the tags More Examples: Adding Additional Files and Requirements Multiple F...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/gradio-lite",
       "category": "Research",
@@ -12364,7 +12364,7 @@
     {
       "id": "https://huggingface.co/blog/ort-accelerating-hf-models",
       "title": "Accelerating over 130,000 Hugging Face models with ONNX Runtime",
-      "summary": "ONNX Runtime is a cross-platform machine learning tool that can be used to accelerate a wide variety of models, particularly those with ONNX support.",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/ort-accelerating-hf-models",
       "category": "Research",
@@ -12384,7 +12384,7 @@
     {
       "id": "https://huggingface.co/blog/sdxl_jax",
       "title": "🧨 Accelerating Stable Diffusion XL Inference with JAX on Cloud TPU v5e",
-      "summary": "Google Cloud TPUs are custom-designed AI accelerators, which are optimized for training and inference of large AI models, including state-of-the-art LLMs and generative AI models such as SDXL. The new Cloud TPU v5e is purpose-built to bring the cost-efficiency and performance ...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/sdxl_jax",
       "category": "Research",
@@ -12394,7 +12394,7 @@
     {
       "id": "https://huggingface.co/blog/chat-templates",
       "title": "Chat Templates: An End to the Silent Performance Killer",
-      "summary": "Tl;dr Introduction Templates: A way to save format information Why templates? Why bother doing this? Why not just pick a standard format? How do templates work? How do the author get started with templates? Conclusion: Template philosophy A spectre is haunting chat models - the spectre...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/chat-templates",
       "category": "Research",
@@ -12404,7 +12404,7 @@
     {
       "id": "https://huggingface.co/blog/ai-comic-factory",
       "title": "Deploying the AI Comic Factory using the Inference API",
-      "summary": "An example of such an application is the AI Comic Factory - a Space that has proved incredibly popular. Thousands of users have tried it to create their own AI comic panels, fostering its own community of regular users. They share their creations, with some even opening pull r...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/ai-comic-factory",
       "category": "Research",
@@ -12414,7 +12414,7 @@
     {
       "id": "https://huggingface.co/blog/ethics-soc-5",
       "title": "Ethics and Society Newsletter #5: Hugging Face Goes To Washington and Other Summer 2023 Musings",
-      "summary": "One of the most important things to know about “ethics” in AI is that it has to do with values. Ethics doesn’t tell you what’s right or wrong, it provides a vocabulary of values – transparency, safety, justice – and frameworks to prioritize among them. This summer, Hugging Face were abl...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/ethics-soc-5",
       "category": "Research",
@@ -12424,7 +12424,7 @@
     {
       "id": "https://huggingface.co/blog/trl-ddpo",
       "title": "Finetune Stable Diffusion Models with DDPO via TRL",
-      "summary": "Diffusion models (e.g., DALL-E 2, Stable Diffusion) are a class of generative models that are widely successful at generating images most notably of the photorealistic kind. However, the images generated by these models may not always be on par with human preference or human the author...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/trl-ddpo",
       "category": "Research",
@@ -12434,7 +12434,7 @@
     {
       "id": "https://huggingface.co/blog/Llama2-for-non-engineers",
       "title": "Non-engineers guide: Train a LLaMA 2 chatbot",
-      "summary": "In this tutorial Hugging Face will show you how anyone can build their own open-source ChatGPT without ever writing a single line of code! Hugging Face’ll use the LLaMA 2 base model, fine tune it for chat with an open-source instruction dataset and then deploy the model to a chat app you can shar...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/Llama2-for-non-engineers",
       "category": "Research",
@@ -12444,7 +12444,7 @@
     {
       "id": "https://huggingface.co/blog/llama-sagemaker-benchmark",
       "title": "Llama 2 on Amazon SageMaker a Benchmark",
-      "summary": "Benchmark Recommendations &amp; Insights Most Cost-Effective Deployment Best Throughput Deployment Best Latency Deployment Conclusions",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/llama-sagemaker-benchmark",
       "category": "Research",
@@ -12474,7 +12474,7 @@
     {
       "id": "https://huggingface.co/blog/inference-pro",
       "title": "Inference for PROs",
-      "summary": "Contents Supported Models Getting started with Inference For PROs Applications Chat with Llama 2 and Code Llama 34B Code infilling with Code Llama Stable Diffusion XL Messages API Generation Parameters Controlling Text Generation Controlling Image Generation Caching Streaming ...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/inference-pro",
       "category": "Research",
@@ -12494,7 +12494,7 @@
     {
       "id": "https://huggingface.co/blog/rocketmoney-case-study",
       "title": "Rocket Money x Hugging Face: Scaling Volatile ML Models in Production​",
-      "summary": "Hugging Face created Rocket Money (a personal finance app formerly known as Truebill) to help users improve their financial wellbeing. Users link their bank accounts to the app which then classifies and categorizes their transactions, identifying recurring patterns to provide a consolid...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/rocketmoney-case-study",
       "category": "Research",
@@ -12504,7 +12504,7 @@
     {
       "id": "https://huggingface.co/blog/gaussian-splatting",
       "title": "Introduction to 3D Gaussian Splatting",
-      "summary": "What is 3D Gaussian Splatting? How it works 1. Structure from Motion 2. Convert to Gaussians 3. Training 4. Differentiable Gaussian Rasterization Who cares? The future of graphics 3D Gaussian Splatting is a rasterization technique described in 3D Gaussian Splatting for Real-Ti...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/gaussian-splatting",
       "category": "Research",
@@ -12514,7 +12514,7 @@
     {
       "id": "https://huggingface.co/blog/object-detection-leaderboard",
       "title": "Object Detection Leaderboard",
-      "summary": "Table of Contents What&#39;s Object Detection? Metrics What&#39;s Average Precision and how to compute it? What&#39;s Average Recall and how to compute it? What are the variants of Average Precision and Average Recall? Object Detection Leaderboard How to pick the best model ba...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/object-detection-leaderboard",
       "category": "Research",
@@ -12524,7 +12524,7 @@
     {
       "id": "https://huggingface.co/blog/optimize-llm",
       "title": "Optimizing your LLM in production",
-      "summary": "2. Flash Attention: A Leap Forward 3. The Science Behind LLM Architectures: Strategic Selection for Long Text Inputs and Chat 3.1 Improving positional embeddings of LLMs 3.2 The key-value cache Conclusion Note: This blog post is also available as a documentation page on Transf...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/optimize-llm",
       "category": "Research",
@@ -12544,7 +12544,7 @@
     {
       "id": "https://huggingface.co/blog/wuerstchen",
       "title": "Introducing Würstchen: Fast Diffusion for Image Generation",
-      "summary": "What is Würstchen? Why another text-to-image model? How to use Würstchen? What image sizes does Würstchen work on? Models on the Hub Diffusers integration Optimisation Technique 1: Flash Attention Optimisation Technique 2: Torch Compile How was the model trained? Resources",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/wuerstchen",
       "category": "Research",
@@ -12554,7 +12554,7 @@
     {
       "id": "https://huggingface.co/blog/ram-efficient-pytorch-fsdp",
       "title": "Fine-tuning Llama 2 70B using PyTorch FSDP",
-      "summary": "Fully Sharded Data Parallelism (FSDP) is a paradigm in which the optimizer states, gradients and parameters are sharded across devices. During the forward pass, each FSDP unit performs an all-gather operation to get the complete weights, computation is performed followed by di...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/ram-efficient-pytorch-fsdp",
       "category": "Research",
@@ -12564,7 +12564,7 @@
     {
       "id": "https://huggingface.co/blog/overview-quantization-transformers",
       "title": "Overview of natively supported quantization schemes in 🤗 Transformers",
-      "summary": "Table of contents Resources Comparing bitsandbytes and auto-gptq What are the benefits of bitsandbytes? What are the benefits of autoGPTQ? What are the potential rooms of improvements of bitsandbytes? What are the potential rooms of improvements of autoGPTQ? Diving into speed ...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/overview-quantization-transformers",
       "category": "Research",
@@ -12574,7 +12574,7 @@
     {
       "id": "https://huggingface.co/blog/safecoder-vs-closed-source-code-assistants",
       "title": "SafeCoder vs. Closed-source Code Assistants",
-      "summary": "State-of-the-art models Transparency Customization IT flexibility Security and privacy Conclusion For decades, software developers have designed methodologies, processes, and tools that help them improve code quality and increase productivity. For instance, agile, test-driven ...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/safecoder-vs-closed-source-code-assistants",
       "category": "Research",
@@ -12584,7 +12584,7 @@
     {
       "id": "https://huggingface.co/blog/t2i-sdxl-adapters",
       "title": "Efficient Controllable Generation for SDXL with T2I-Adapters",
-      "summary": "Diffusers&lt;/code>\">Training T2I-Adapter-SDXL with diffusers diffusers&lt;/code>\">Using T2I-Adapter-SDXL in diffusers Try out the Demo More Results Lineart Guided Sketch Guided Canny Guided Depth Guided OpenPose Guided T2I-Adapter is an efficient plug-and-play model that prov...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/t2i-sdxl-adapters",
       "category": "Research",
@@ -12604,7 +12604,7 @@
     {
       "id": "https://huggingface.co/blog/falcon-180b",
       "title": "Spread Your Wings: Falcon 180B is here",
-      "summary": "Today, Hugging Face're excited to welcome TII's Falcon 180B to HuggingFace! Falcon 180B sets a new state-of-the-art for open models. It is the largest openly available language model, with 180 billion parameters, and was trained on a massive 3.5 trillion tokens using TII's RefinedWeb da...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/falcon-180b",
       "category": "Research",
@@ -12614,7 +12614,7 @@
     {
       "id": "https://huggingface.co/blog/fetch-case-study",
       "title": "Fetch Cuts ML Processing Latency by 50% Using Amazon SageMaker & Hugging Face",
-      "summary": "Consumer engagement and rewards company Fetch offers an application that lets users earn rewards on their purchases by scanning their receipts. The company also parses these receipts to generate insights into consumer behavior and provides those insights to brand partners. As ...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/fetch-case-study",
       "category": "Research",
@@ -12634,7 +12634,7 @@
     {
       "id": "https://huggingface.co/blog/audioldm2",
       "title": "AudioLDM 2, but faster ⚡️",
-      "summary": "Read to the end to find out how to generate a 10 second audio sample in just 1 second!",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/audioldm2",
       "category": "Research",
@@ -12654,7 +12654,7 @@
     {
       "id": "https://huggingface.co/blog/codellama",
       "title": "Code Llama: Llama 2 learns to code",
-      "summary": "Code LLMs are an exciting development for software engineers because they can boost productivity through code completion in IDEs, take care of repetitive or annoying tasks like writing docstrings, or create unit tests.",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/codellama",
       "category": "Research",
@@ -12664,7 +12664,7 @@
     {
       "id": "https://huggingface.co/blog/password-git-deprecation",
       "title": "Deprecation of Git Authentication using password",
-      "summary": "If you currently use your HF account password to authenticate with Git, please switch to using a personal access token or SSH keys before October 1st, 2023.",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/password-git-deprecation",
       "category": "Research",
@@ -12684,7 +12684,7 @@
     {
       "id": "https://huggingface.co/blog/gptq-integration",
       "title": "Making LLMs lighter with AutoGPTQ and transformers",
-      "summary": "Table of contents Resources A gentle summary of the GPTQ paper AutoGPTQ library – the one-stop library for efficiently leveraging GPTQ for LLMs Native support of GPTQ models in 🤗 Transformers Quantizing models with the Optimum library Running GPTQ models through Text-Generati...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/gptq-integration",
       "category": "Research",
@@ -12704,7 +12704,7 @@
     {
       "id": "https://huggingface.co/blog/safecoder",
       "title": "Introducing SafeCoder",
-      "summary": "Why SafeCoder? From StarCoder to SafeCoder Privacy and Security as a Core Principle Compliance as a Core Principle How does it work? Training your own SafeCoder model Deploying SafeCoder Using SafeCoder How can the author get SafeCoder? Today Hugging Face is announced SafeCoder - a co...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/safecoder",
       "category": "Research",
@@ -12714,7 +12714,7 @@
     {
       "id": "https://huggingface.co/blog/idefics",
       "title": "Introducing IDEFICS: An Open Reproduction of State-of-the-art Visual Langage Model",
-      "summary": "What is IDEFICS? Training Data Ethical evaluation License Getting Started with IDEFICS Hugging Face is excited to release IDEFICS (Image-aware Decoder Enhanced à la Flamingo with Interleaved Cross-attentionS), an open-access visual language model. IDEFICS is based on Flamingo, a state-...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/idefics",
       "category": "Research",
@@ -12744,7 +12744,7 @@
     {
       "id": "https://huggingface.co/blog/aws-marketplace",
       "title": "Hugging Face Hub on the AWS Marketplace: Pay with your AWS Account",
-      "summary": "You are now on the “subscribe” page, where you can see the summary of pricing and where you can subscribe. To subscribe to the offer, click “Subscribe”.",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/aws-marketplace",
       "category": "Research",
@@ -12754,7 +12754,7 @@
     {
       "id": "https://huggingface.co/blog/optimizing-bark",
       "title": "Optimizing Bark using 🤗 Transformers",
-      "summary": "Table of Contents Bark Architecture Load the Model and its Processor Optimization techniques Some set-ups Base case 1. 🤗 Better Transformer 2. Half-precision 3. CPU offload 4. Combine Using batching Benchmark results How to read the results? No batching Batch size set to 8 Co...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/optimizing-bark",
       "category": "Research",
@@ -12764,7 +12764,7 @@
     {
       "id": "https://huggingface.co/blog/deploy-deepfloydif-using-bentoml",
       "title": "Deploying Hugging Face Models with BentoML: DeepFloyd IF in Action",
-      "summary": "This is where BentoML comes into the picture. BentoML is an open-source platform for machine learning model serving and deployment. It is a unified framework for building, shipping, and scaling production-ready AI applications incorporating traditional, pre-trained, and genera...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/deploy-deepfloydif-using-bentoml",
       "category": "Research",
@@ -12774,7 +12774,7 @@
     {
       "id": "https://huggingface.co/blog/dpo-trl",
       "title": "Fine-tune Llama 2 with DPO",
-      "summary": "Reinforcement Learning from Human Feedback (RLHF) has become the de facto last training step of LLMs such as GPT-4 or Claude to ensure that the language model's outputs are aligned with human expectations such as chattiness or safety features. However, it brings some of the co...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/dpo-trl",
       "category": "Research",
@@ -12784,7 +12784,7 @@
     {
       "id": "https://huggingface.co/blog/swift-coreml-llm",
       "title": "Releasing Swift Transformers: Run On-Device LLMs in Apple Devices",
-      "summary": "Released Today Tasks Overview Conversion to Core ML Important lessons learned Optimization swift-transformers&lt;/code>\">swift-transformers Tokenizers Model and Hub wrappers Generation Algorithms Supported Models swift-chat&lt;/code>\">swift-chat Missing Parts / Coming Next Con...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/swift-coreml-llm",
       "category": "Research",
@@ -12794,7 +12794,7 @@
     {
       "id": "https://huggingface.co/blog/run-musicgen-as-an-api",
       "title": "Deploy MusicGen in no time with Inference Endpoints",
-      "summary": "Conclusion Read More MusicGen is a powerful music generation model that takes in text prompt and an optional melody to output music. This blog post will guide you through generating music with MusicGen using Inference Endpoints.",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/run-musicgen-as-an-api",
       "category": "Research",
@@ -12804,7 +12804,7 @@
     {
       "id": "https://huggingface.co/blog/huggy-lingo",
       "title": "Huggy Lingo: Using Machine Learning to Improve Language Metadata on the Hugging Face Hub",
-      "summary": "Tl;dr: Hugging Face're using machine learning to detect the language of Hub datasets with no language metadata, and librarian-bots to make pull requests to add this metadata.",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/huggy-lingo",
       "category": "Research",
@@ -12814,7 +12814,7 @@
     {
       "id": "https://huggingface.co/blog/encrypted-llm",
       "title": "Towards Encrypted Large Language Models with FHE",
-      "summary": "Despite the appeal of LLMs, privacy concerns persist surrounding user queries that are processed by these models. On the one hand, leveraging the power of LLMs is desirable, but on the other hand, there is a risk of leaking sensitive information to the LLM service provider. In...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/encrypted-llm",
       "category": "Research",
@@ -12834,7 +12834,7 @@
     {
       "id": "https://huggingface.co/blog/3d-assets",
       "title": "Practical 3D Asset Generation: A Step-by-Step Guide",
-      "summary": "Generative AI has become an instrumental part of artistic workflows for game development. However, as detailed in the author's earlier post, text-to-3D lags behind 2D in terms of practical applicability. This is beginning to change. Today, Hugging Face'll be revisiting practical workflows for 3D ...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/3d-assets",
       "category": "Research",
@@ -12844,7 +12844,7 @@
     {
       "id": "https://huggingface.co/blog/sd_distillation",
       "title": "Open-sourcing Knowledge Distillation Code and Weights of SD-Small and SD-Tiny",
-      "summary": "Knowledge Distillation Model Usage Speed in terms of inference latency Potential Limitations Fine-tuning SD-tiny model on portrait dataset LoRA Training Conclusion In recent times, the AI community has witnessed a remarkable surge in the development of larger and more performa...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/sd_distillation",
       "category": "Research",
@@ -12854,7 +12854,7 @@
     {
       "id": "https://huggingface.co/blog/stable-diffusion-xl-coreml",
       "title": "Stable Diffusion XL on Mac with Advanced Core ML Quantization",
-      "summary": "Everything is open source and available today, let’s get on with it.",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/stable-diffusion-xl-coreml",
       "category": "Research",
@@ -12874,7 +12874,7 @@
     {
       "id": "https://huggingface.co/blog/eu-ai-act-oss",
       "title": "AI Policy @🤗: Open ML Considerations in the EU AI Act",
-      "summary": "You can find more detail and context for those in the full paper here!",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/eu-ai-act-oss",
       "category": "Research",
@@ -12884,7 +12884,7 @@
     {
       "id": "https://huggingface.co/blog/agents-js",
       "title": "Introducing Agents.js: Give tools to your LLMs using JavaScript",
-      "summary": "Installation Usage Usage warning Custom LLMs 💬 Custom Tools 🛠️ Passing input files to the agent 🖼️ Demo 🎉 Hugging Face have recently been working on Agents.js at huggingface.js. It's a new library for giving tool access to LLMs from JavaScript in either the browser or the server. It...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/agents-js",
       "category": "Research",
@@ -12904,7 +12904,7 @@
     {
       "id": "https://huggingface.co/blog/game-jam-first-edition-results",
       "title": "Results of the Open Source AI Game Jam",
-      "summary": "The Theme: Expanding The Winner 🏆🥇 Participants Selection: Top 10 🥈🥉🏅 #1: Snip It #2: Yabbit Attack #3: Fish Dang Bot Rolling Land #4: Everchanging Quest #5: Word Conquest #6: Expanding Universe #7: Hexagon Tactics: The Expanding Arena #8: Galactic Domination #9: Apocalyp...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/game-jam-first-edition-results",
       "category": "Research",
@@ -12924,7 +12924,7 @@
     {
       "id": "https://huggingface.co/blog/diffusers-turns-1",
       "title": "Happy 1st anniversary 🤗 Diffusers!",
-      "summary": "Striving for photorealism Video pipelines Text-to-3D models Image editing pipelines Faster diffusion models Ethics and safety Support for LoRA Torch 2.0 optimizations Community highlights Building products with 🤗 Diffusers Looking forward 🤗&nbsp;Diffusers is happy to celebra...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/diffusers-turns-1",
       "category": "Research",
@@ -12944,7 +12944,7 @@
     {
       "id": "https://huggingface.co/blog/llama2",
       "title": "Llama 2 is here - get it on Hugging Face",
-      "summary": "The Llama 2 release introduces a family of pretrained and fine-tuned LLMs, ranging in scale from 7B to 70B parameters (7B, 13B, 70B). The pretrained models come with significant improvements over the Llama 1 models, including being trained on 40% more tokens, having a much lon...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/llama2",
       "category": "Research",
@@ -12954,7 +12954,7 @@
     {
       "id": "https://huggingface.co/blog/ai-webtv",
       "title": "Building an AI WebTV",
-      "summary": "Concept Architecture Implementing the pipeline The text-to-video model Calling the video chain Using a model hosted on a Space Post-processing Broadcasting the stream Observations and examples Characters and scene composition Simulation of dynamic scenes Styling and effects Fa...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/ai-webtv",
       "category": "Research",
@@ -12964,7 +12964,7 @@
     {
       "id": "https://huggingface.co/blog/os-llms",
       "title": "Open-Source Text Generation & LLM Ecosystem at Hugging Face",
-      "summary": "Text generation and conversational technologies have been around for ages. Earlier challenges in working with these technologies were controlling both the coherence and diversity of the text through inference parameters and discriminative biases. More coherent outputs were les...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/os-llms",
       "category": "Research",
@@ -12974,7 +12974,7 @@
     {
       "id": "https://huggingface.co/blog/stable-diffusion-finetuning-intel",
       "title": "Fine-tuning Stable Diffusion models on Intel CPUs",
-      "summary": "Like Transformer models, you can fine-tune Diffusion models to help them generate content that matches your business needs. Initially, fine-tuning was only possible on GPU infrastructure, but things are changing! A few months ago, Intel launched the fourth generation of Xeon C...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/stable-diffusion-finetuning-intel",
       "category": "Research",
@@ -13004,7 +13004,7 @@
     {
       "id": "https://huggingface.co/blog/ml-web-games",
       "title": "Making ML-powered web games with Transformers.js",
-      "summary": "Overview 1. Training the neural network Training data Model architecture Finetuning 2. Running in the browser with Transformers.js What is Transformers.js? Converting Hugging Face's model to ONNX Setting up Hugging Face's project Running the model in the browser 3. Game Design Taking advantage of r...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/ml-web-games",
       "category": "Research",
@@ -13014,7 +13014,7 @@
     {
       "id": "https://huggingface.co/blog/inference-endpoints-llm",
       "title": "Deploy LLMs with Hugging Face Inference Endpoints",
-      "summary": "Before Hugging Face start, let's refresh Hugging Face's knowledge about Inference Endpoints.",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/inference-endpoints-llm",
       "category": "Research",
@@ -13024,7 +13024,7 @@
     {
       "id": "https://huggingface.co/blog/text-to-webapp",
       "title": "Making a web app generator with open ML models",
-      "summary": "Using LLM in Node apps By running a model locally By using an API Architecture Initializing the project Configuring the Inference Endpoint Generating the HTML stream Tuning the prompt Using Tailwind Preventing hallucination Adding support for images Adding some UI Optimizing t...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/text-to-webapp",
       "category": "Research",
@@ -13034,7 +13034,7 @@
     {
       "id": "https://huggingface.co/blog/writer-case-study",
       "title": "Leveraging Hugging Face for complex generative AI use cases",
-      "summary": "39 December 3, 2024      RAGllmexpert-support-program  Expert Support case study: Bolstering a RAG app with LLM-as-a-Judge     29 October 28, 2024   Community   EditPreview      Upload images, audio, and videos by dragging in the text input, pasting, or clicking here. Tap or p...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/writer-case-study",
       "category": "Research",
@@ -13054,7 +13054,7 @@
     {
       "id": "https://huggingface.co/blog/bridgetower",
       "title": "Accelerating Vision-Language Models: BridgeTower on Habana Gaudi2",
-      "summary": "BridgeTower Hardware Benchmark dataloader_num_workers&lt;/code>\">Making use of dataloader_num_workers Hardware-accelerated data loading with Optimum Habana Reproducing this benchmark Conclusion Related Topics Update (29/08/2023): A benchmark on H100 was added to this blog post...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/bridgetower",
       "category": "Research",
@@ -13074,7 +13074,7 @@
     {
       "id": "https://huggingface.co/blog/ethics-soc-4",
       "title": "Ethics and Society Newsletter #4: Bias in Text-to-Image Models",
-      "summary": "Introduction Values and bias encoded in image generations Sources of Bias Detecting Bias Values and Bias Other updates Closing Remarks TL;DR: Hugging Face need better ways of evaluating bias in text-to-image models",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/ethics-soc-4",
       "category": "Research",
@@ -13084,7 +13084,7 @@
     {
       "id": "https://huggingface.co/blog/open-llm-leaderboard-mmlu",
       "title": "What's going on with the Open LLM Leaderboard?",
-      "summary": "What&#39;s the Open LLM Leaderboard? 1001 flavors of MMLU How Hugging Face automatically evaluate a model in today’s LLM world MMLU comes in all shapes and sizes: Looking at the prompts Now how do Hugging Face evaluate the model from these prompts? Conclusion Acknowledgements: Reproducibility has...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/open-llm-leaderboard-mmlu",
       "category": "Research",
@@ -13114,7 +13114,7 @@
     {
       "id": "https://huggingface.co/blog/panel-on-hugging-face",
       "title": "Panel on Hugging Face",
-      "summary": "Panel is an open-source Python library that lets you easily build powerful tools, dashboards and complex applications entirely in Python. It has a batteries-included philosophy, putting the PyData ecosystem, powerful data tables and much more at your fingertips. High-level rea...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/panel-on-hugging-face",
       "category": "Research",
@@ -13124,7 +13124,7 @@
     {
       "id": "https://huggingface.co/blog/policy-ntia-rfc",
       "title": "AI Policy @🤗: Response to the U.S. NTIA's Request for Comment on AI Accountability",
-      "summary": "Concretely, Hugging Face make the following recommendations for accountability mechanisms:",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/policy-ntia-rfc",
       "category": "Research",
@@ -13134,7 +13134,7 @@
     {
       "id": "https://huggingface.co/blog/mms_adapters",
       "title": "Fine-Tune MMS Adapter Models for low-resource ASR",
-      "summary": "Preserving the world's language diversity Fine-tuning MMS Training adaptive weights Notebook Setup Prepare Data, Tokenizer, Feature Extractor Wav2Vec2CTCTokenizer&lt;/code>\">Create Wav2Vec2CTCTokenizer Wav2Vec2FeatureExtractor&lt;/code>\">Create Wav2Vec2FeatureExtractor Preproc...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/mms_adapters",
       "category": "Research",
@@ -13144,7 +13144,7 @@
     {
       "id": "https://huggingface.co/blog/autoformer",
       "title": "Yes, Transformers are Effective for Time Series Forecasting (+ Autoformer)",
-      "summary": "A few months ago, Hugging Face introduced the Informer model (Zhou, Haoyi, et al., 2021), which is a Time Series Transformer that won the AAAI 2021 best paper award. Hugging Face also provided an example for multivariate probabilistic forecasting with Informer. In this post, Hugging Face discuss the questi...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/autoformer",
       "category": "Research",
@@ -13154,7 +13154,7 @@
     {
       "id": "https://huggingface.co/blog/fast-diffusers-coreml",
       "title": "Faster Stable Diffusion with Core ML on iPhone, iPad, and Mac",
-      "summary": "Contents New Core ML Optimizations Using Quantized and Optimized Stable Diffusion Models Converting and Optimizing Custom Models Using Less than 6 bits Conclusion WWDC’23 (Apple Worldwide Developers Conference) was held last week. A lot of the news focused on the Vision Pro an...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/fast-diffusers-coreml",
       "category": "Research",
@@ -13164,7 +13164,7 @@
     {
       "id": "https://huggingface.co/blog/livebook-app-deployment",
       "title": "Deploy Livebook notebooks as apps to Hugging Face Spaces",
-      "summary": "In this chat app, users can communicate only by sending audio messages, which are then automatically converted to text by the Whisper Machine Learning model.",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/livebook-app-deployment",
       "category": "Research",
@@ -13174,7 +13174,7 @@
     {
       "id": "https://huggingface.co/blog/content-guidelines-update",
       "title": "Announcing our new Content Guidelines and Policy",
-      "summary": "Moderating Machine Learning Content Consent as a Core Value As a community-driven platform that aims to advance Open, Collaborative, and Responsible Machine Learning, Hugging Face is thrilled to support and maintain a welcoming space for Hugging Face's entire community! In support of this goal, w...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/content-guidelines-update",
       "category": "Research",
@@ -13194,7 +13194,7 @@
     {
       "id": "https://huggingface.co/blog/huggingface-and-amd",
       "title": "Hugging Face and AMD partner on accelerating state-of-the-art models for CPU and GPU platforms",
-      "summary": "Today, Hugging Face're happy to announce that AMD has officially joined Hugging Face's Hardware Partner Program. Hugging Face's CEO Clement Delangue gave a keynote at AMD's Data Center and AI Technology Premiere in San Francisco to launch this exciting new collaboration.",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/huggingface-and-amd",
       "category": "Research",
@@ -13214,7 +13214,7 @@
     {
       "id": "https://huggingface.co/blog/open-llm-leaderboard-rlhf",
       "title": "Can foundation models label data like humans?",
-      "summary": "Here is an example from each of the instruct and code-instruct splits of Hugging Face's blind test set.",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/open-llm-leaderboard-rlhf",
       "category": "Research",
@@ -13224,7 +13224,7 @@
     {
       "id": "https://huggingface.co/blog/hf-hub-glam-guide",
       "title": "The Hugging Face Hub for Galleries, Libraries, Archives and Museums",
-      "summary": "You can read the whole post or jump to the most relevant sections!",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/hf-hub-glam-guide",
       "category": "Research",
@@ -13234,7 +13234,7 @@
     {
       "id": "https://huggingface.co/blog/hub-duckdb",
       "title": "DuckDB: analyze 50,000+ datasets stored on the Hugging Face Hub",
-      "summary": "Hugging Face is happy to share that Hugging Face recently added another feature to help you analyze datasets on the Hub; you can run SQL queries with DuckDB on any dataset stored on the Hub! According to the 2022 StackOverflow Developer Survey, SQL is the 3rd most popular programming language. W...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/hub-duckdb",
       "category": "Research",
@@ -13244,7 +13244,7 @@
     {
       "id": "https://huggingface.co/blog/fasttext",
       "title": "Welcome fastText to the Hugging Face Hub",
-      "summary": "Would you like to integrate your library to the Hub? fastText is a library for efficient learning of text representation and classification. Open-sourced by Meta AI in 2016, fastText integrates key ideas that have been influential in natural language processing and machine lea...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/fasttext",
       "category": "Research",
@@ -13254,7 +13254,7 @@
     {
       "id": "https://huggingface.co/blog/falcon",
       "title": "The Falcon has landed in the Hugging Face ecosystem",
-      "summary": "Table of Contents The Falcon models Demo Inference Inference of Falcon 40B Text Generation Inference Evaluation Fine-tuning with PEFT Fine-tuning Resources Conclusion Falcon is a new family of state-of-the-art language models created by the Technology Innovation Institute in A...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/falcon",
       "category": "Research",
@@ -13264,7 +13264,7 @@
     {
       "id": "https://huggingface.co/blog/unity-asr",
       "title": "AI Speech Recognition in Unity",
-      "summary": "Introduction Prerequisites Steps 1. Set up the Scene 2. Set up the Script 3. Record Microphone Input 4. Speech Recognition 5. Final Touches",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/unity-asr",
       "category": "Research",
@@ -13284,7 +13284,7 @@
     {
       "id": "https://huggingface.co/blog/game-jam",
       "title": "Announcing the Open Source AI Game Jam 🎮",
-      "summary": "Hugging Face're thrilled to announce the first ever Open Source AI Game Jam, where you will create a game using AI tools.",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/game-jam",
       "category": "Research",
@@ -13304,7 +13304,7 @@
     {
       "id": "https://huggingface.co/blog/sagemaker-huggingface-llm",
       "title": "Introducing the Hugging Face LLM Inference Container for Amazon SageMaker",
-      "summary": "You can find the code for the example also in the notebooks repository.",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/sagemaker-huggingface-llm",
       "category": "Research",
@@ -13314,7 +13314,7 @@
     {
       "id": "https://huggingface.co/blog/bertopic",
       "title": "Introducing BERTopic Integration with the Hugging Face Hub",
-      "summary": "Topic modelling is a method that can help uncover hidden themes or \"topics\" within a group of documents. By analyzing the words in the documents, Hugging Face can find patterns and connections that reveal these underlying topics. For example, a document about machine learning is more li...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/bertopic",
       "category": "Research",
@@ -13334,7 +13334,7 @@
     {
       "id": "https://huggingface.co/blog/train-optimize-sd-intel",
       "title": "Optimizing Stable Diffusion for Intel CPUs with NNCF and 🤗 Optimum",
-      "summary": "Stable Diffusion optimization Optimization workflow Going beyond Quantization-Aware Training Results What about the general-purpose Stable Diffusion model? Latent Diffusion models are game changers when it comes to solving text-to-image generation problems. Stable Diffusion is...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/train-optimize-sd-intel",
       "category": "Research",
@@ -13344,7 +13344,7 @@
     {
       "id": "https://huggingface.co/blog/4bit-transformers-bitsandbytes",
       "title": "Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA",
-      "summary": "Hugging Face present QLoRA, an efficient finetuning approach that reduces memory usage enough to finetune a 65B parameter model on a single 48GB GPU while preserving full 16-bit finetuning task performance. QLoRA backpropagates gradients through a frozen, 4-bit quantized pretrained lang...",
+      "summary": "Models  Datasets  Spaces  Buckets new Docs  Enterprise  Pricing       Log In Sign Up       429 Hugging Face had to rate limit your IP (2400:1a00:4b27:c51e:a97c:8959:efc9:58a3). To continue using Hugging Face's service, create a HF account or login to your existing account, and make sure you pass a...",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/4bit-transformers-bitsandbytes",
       "category": "Research",
