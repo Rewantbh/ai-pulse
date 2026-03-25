@@ -45,8 +45,18 @@ export const RSS_FEEDS = [
      category: "Research",
   },
   {
-    name: "Microsoft AI Blog",
-    url: "https://microsoft.ai/feed/?post_type=new",
+    name: "Microsoft AI News",
+    url: "https://news.microsoft.com/feed/",
     category: "Models",
+  },
+  {
+    name: "SiliconAngle AI",
+    url: "https://siliconangle.com/category/ai/feed/",
+    category: "Industry",
+  },
+  {
+    name: "MarkTechPost",
+    url: "https://www.marktechpost.com/feed/",
+    category: "Research",
   }
 ];
