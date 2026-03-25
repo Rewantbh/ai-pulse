@@ -62,7 +62,10 @@ export async function fetchAllNews(): Promise<NewsItem[]> {
   for (const feed of RSS_FEEDS) {
     try {
       console.log(`Fetching ${feed.name}...`);
+      const controller = new AbortController();
+      const timeoutId = setTimeout(() => controller.abort(), 30000); // 30s timeout for feed
       const response = await parser.parseURL(feed.url);
+      clearTimeout(timeoutId);
       
       for (const item of response.items) {
         if (!item.title || !item.link) continue;
@@ -75,8 +78,13 @@ export async function fetchAllNews(): Promise<NewsItem[]> {
         if (!summary || summary.trim().length < 5 || summary.toLowerCase().includes("a blog post by")) {
           try {
             console.log(`Poor summary for "${item.title}", fetching from page body...`);
-            const pageRes = await fetch(item.link);
+            
+            const controller = new AbortController();
+            const timeoutId = setTimeout(() => controller.abort(), 10000); // 10s timeout
+            
+            const pageRes = await fetch(item.link, { signal: controller.signal });
             const html = await pageRes.text();
+            clearTimeout(timeoutId);
             
             // Try to find the first real paragraph of text
             // Look for <p> tags that aren't navigation or footer
@@ -101,7 +109,7 @@ export async function fetchAllNews(): Promise<NewsItem[]> {
               }
             }
           } catch (e) {
-            console.error(`Failed to fetch fallback summary for ${item.link}`);
+            console.error(`Failed to fetch fallback summary for ${item.link}: ${e instanceof Error ? e.message : 'Unknown error'}`);
           }
         }
 
