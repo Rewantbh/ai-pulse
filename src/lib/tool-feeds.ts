@@ -19,5 +19,15 @@ export const TOOL_FEEDS = [
     name: "Unite.ai Tools",
     url: "https://www.unite.ai/feed/",
     category: "Industry",
+  },
+  {
+    name: "Runway Blog",
+    url: "https://runwayml.com/blog/rss.xml", // Common pattern, worth adding
+    category: "Video",
+  },
+  {
+    name: "Pika Blog",
+    url: "https://pika.art/blog/feed",
+    category: "Video",
   }
 ];
