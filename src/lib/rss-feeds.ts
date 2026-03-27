@@ -27,7 +27,7 @@ export const RSS_FEEDS = [
   },
   {
     name: "Anthropic Blog",
-    url: "https://www.anthropic.com/index.xml",
+    url: "https://www.anthropic.com/news/rss",
     category: "Models",
   },
   {
@@ -49,7 +49,7 @@ export const RSS_FEEDS = [
   },
   {
     name: "The Verge AI",
-    url: "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml",
+    url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
     category: "Tools",
   },
   {
@@ -61,11 +61,6 @@ export const RSS_FEEDS = [
     name: "MarkTechPost",
     url: "https://www.marktechpost.com/feed/",
     category: "Research",
-  },
-  {
-    name: "Artificial Intelligence News",
-    url: "https://www.artificialintelligence-news.com/feed/",
-    category: "Business",
   },
   {
     name: "ScienceDaily AI",
@@ -89,14 +84,14 @@ export const RSS_FEEDS = [
   },
   {
     name: "Axios Technology",
-    url: "https://api.axios.com/feed/category/technology/",
+    url: "https://www.axios.com/feeds/feed.rss",
     category: "Business",
   },
 
   // Curated Feeds & Newsletters
   {
     name: "AI Weekly",
-    url: "https://aiweekly.co/rss",
+    url: "https://aiweekly.co/issues.rss",
     category: "Curation",
   },
   {
