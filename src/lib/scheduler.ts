@@ -15,8 +15,8 @@ const syncAll = async () => {
   }
 };
 
-// News fetch: Every 30 minutes
-cron.schedule("*/30 * * * *", async () => {
+// News fetch: Every hour
+cron.schedule("0 * * * *", async () => {
   const now = new Date().toLocaleString("en-US", { timeZone: "Asia/Kathmandu" });
   console.log(`[${now}] Starting hourly news sync...`);
   try {
