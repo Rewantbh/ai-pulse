@@ -1,13 +1,24 @@
 import cron from "node-cron";
 import { fetchAllNews, saveNewsToFile } from "./news-fetcher";
 import { fetchAllTools, saveToolsToFile } from "./tools-fetcher";
+import { fetchAllTweets } from "./twitter-fetcher";
 
 const syncAll = async () => {
   const now = new Date().toLocaleString("en-US", { timeZone: "Asia/Kathmandu" });
   console.log(`[${now}] Starting full sync (News + Tools)...`);
   try {
-    const [news, tools] = await Promise.all([fetchAllNews(), fetchAllTools()]);
-    await saveNewsToFile(news);
+    const [news, tools, tweets] = await Promise.all([
+      fetchAllNews(),
+      fetchAllTools(),
+      fetchAllTweets()
+    ]);
+    
+    // Merge RSS news and Twitter tweets
+    const combinedNews = [...news, ...tweets].sort(
+      (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
+    );
+
+    await saveNewsToFile(combinedNews);
     await saveToolsToFile(tools);
     console.log(`[${now}] Full sync complete.`);
   } catch (error) {
@@ -20,8 +31,11 @@ cron.schedule("0 * * * *", async () => {
   const now = new Date().toLocaleString("en-US", { timeZone: "Asia/Kathmandu" });
   console.log(`[${now}] Starting hourly news sync...`);
   try {
-    const news = await fetchAllNews();
-    await saveNewsToFile(news);
+    const [news, tweets] = await Promise.all([fetchAllNews(), fetchAllTweets()]);
+    const combinedNews = [...news, ...tweets].sort(
+      (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
+    );
+    await saveNewsToFile(combinedNews);
     console.log(`[${now}] Hourly news sync complete.`);
   } catch (error) {
     console.error("Hourly news sync failed:", error);
