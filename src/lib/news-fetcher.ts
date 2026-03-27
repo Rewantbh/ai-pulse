@@ -57,59 +57,42 @@ function neutralizeSummary(text: string, source: string): string {
 }
 
 export async function fetchAllNews(): Promise<NewsItem[]> {
-  const allItems: NewsItem[] = [];
-
-  for (const feed of RSS_FEEDS) {
+  const allItems: NewsItem[][] = await Promise.all(RSS_FEEDS.map(async (feed) => {
     try {
       console.log(`Fetching ${feed.name}...`);
       const controller = new AbortController();
-      const timeoutId = setTimeout(() => controller.abort(), 30000); // 30s timeout for feed
+      const timeoutId = setTimeout(() => controller.abort(), 30000); // 30s timeout per feed
       const response = await parser.parseURL(feed.url);
       clearTimeout(timeoutId);
       
+      const feedItems: NewsItem[] = [];
       for (const item of response.items) {
         if (!item.title || !item.link) continue;
 
-        // Simple summary extraction
         let summary = item.contentSnippet || item.content || "";
         
-        // Fallback: If summary is still empty, we will try to fetch it from the page metadata
-        // Note: For now we'll do this synchronously here, but in production we'd want to parallelize or async it better.
+        // Fallback: Fetch from page if summary is poor
         if (!summary || summary.trim().length < 5 || summary.toLowerCase().includes("a blog post by")) {
           try {
-            console.log(`Poor summary for "${item.title}", fetching from page body...`);
+            const pageController = new AbortController();
+            const pageTimeout = setTimeout(() => pageController.abort(), 8000); // 8s timeout
             
-            const controller = new AbortController();
-            const timeoutId = setTimeout(() => controller.abort(), 10000); // 10s timeout
-            
-            const pageRes = await fetch(item.link, { signal: controller.signal });
+            const pageRes = await fetch(item.link, { signal: pageController.signal });
             const html = await pageRes.text();
-            clearTimeout(timeoutId);
+            clearTimeout(pageTimeout);
             
-            // Try to find the first real paragraph of text
-            // Look for <p> tags that aren't navigation or footer
             const paragraphs = html.match(/<p[^>]*>(.*?)<\/p>/gi);
             if (paragraphs) {
               for (const p of paragraphs) {
                 const text = p.replace(/<[^>]+>/g, '').trim();
-                // Skip short paragraphs (like "By Author") or common boilerplates
                 if (text.length > 60 && !text.includes("Hugging Face")) {
                   summary = text;
                   break;
                 }
               }
             }
-            
-            // Final fallback to meta if body extraction failed
-            if (!summary || summary.trim().length < 5) {
-              const metaMatch = html.match(/<meta name="description" content="([^"]+)"/i) || 
-                                html.match(/<meta property="og:description" content="([^"]+)"/i);
-              if (metaMatch && metaMatch[1]) {
-                summary = metaMatch[1];
-              }
-            }
           } catch (e) {
-            console.error(`Failed to fetch fallback summary for ${item.link}: ${e instanceof Error ? e.message : 'Unknown error'}`);
+            // Silently fail for individual page fetches to keep the sync moving
           }
         }
 
@@ -117,7 +100,7 @@ export async function fetchAllNews(): Promise<NewsItem[]> {
           summary = summary.substring(0, 277) + "...";
         }
 
-        allItems.push({
+        feedItems.push({
           id: item.guid || item.link,
           title: item.title,
           summary: neutralizeSummary(summary, feed.name),
@@ -128,14 +111,18 @@ export async function fetchAllNews(): Promise<NewsItem[]> {
           hot: false,
         });
       }
+      return feedItems;
     } catch (error) {
       console.error(`Error fetching ${feed.name}:`, error);
+      return [];
     }
-  }
+  }));
 
+  const flatItems = allItems.flat();
+  
   // Deduplicate by URL
   const uniqueItemsMap = new Map<string, NewsItem>();
-  allItems.forEach((item) => {
+  flatItems.forEach((item) => {
     if (!uniqueItemsMap.has(item.sourceUrl)) {
       uniqueItemsMap.set(item.sourceUrl, item);
     }
