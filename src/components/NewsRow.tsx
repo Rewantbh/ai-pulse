@@ -7,7 +7,7 @@ export function NewsRow({ item }: { item: NewsItem }) {
 
   const copyToClipboard = (e: React.MouseEvent) => {
     e.stopPropagation();
-    const text = `📢 ${item.title}\n\n${item.summary || ""}\n\nRead more: ${item.sourceUrl}`;
+    const text = `📢 ${item.title}\n\n${item.summary || ""}\n\nVia ${item.source}\nRead more: ${item.sourceUrl}`;
     navigator.clipboard.writeText(text).then(() => {
       setCopied(true);
       setTimeout(() => setCopied(false), 2000);

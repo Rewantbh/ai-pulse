@@ -18,6 +18,11 @@ export interface NewsItem {
   category: string;
   date: string;
   hot: boolean;
+  // Extra fields for structured copy
+  access?: string;
+  pricing?: string;
+  usage?: string;
+  officialUrl?: string;
 }
 
 /**
@@ -27,9 +32,14 @@ function neutralizeSummary(text: string, source: string): string {
   if (!text) return "";
   
   let result = text.trim();
+
+  // Remove RSS boilerplate
+  result = result.replace(/The post .* appeared first on .*/gi, "");
+  result = result.replace(/This article originally appeared on .*/gi, "");
+  result = result.replace(/Read more at .*/gi, "");
   
   // Basic pronoun replacement
-  const sourceName = source.replace(/ (Blog|News|Weekly)/i, "");
+  const sourceName = source.replace(/ (Blog|News|Weekly|Tech|Daily|Report)/i, "");
   
   const replacements: [RegExp, string][] = [
     [/\bwe are\b/gi, `${sourceName} is`],
@@ -50,10 +60,38 @@ function neutralizeSummary(text: string, source: string): string {
   result = result.charAt(0).toUpperCase() + result.slice(1);
   
   // Remove marketing fluff
-  result = result.replace(/\b(excited to announce|thrilled to share|proud to present)\b/gi, "announced");
-  result = result.replace(/\b(check it out|stay tuned|click here)\b/gi, "");
+  result = result.replace(/\b(excited to announce|thrilled to share|proud to present|we're happy to|happy to share)\b/gi, "announced");
+  result = result.replace(/\b(check it out|stay tuned|click here|read more|learn more|full story)\b/gi, "");
+  result = result.replace(/\b(I am|I'm|I've)\b/gi, "the author");
+  
+  // Ensure neutral tone
+  result = result.replace(/\b(amazing|incredible|game-changing|revolutionary|groundbreaking|stunning)\b/gi, "notable");
+  
+  return result.trim();
+}
 
-  return result;
+/**
+ * Extracts structured metadata from text (Pricing, Access, etc)
+ */
+function extractToolMetadata(html: string, summary: string) {
+  const text = (summary + " " + html.substring(0, 1000)).toLowerCase();
+  
+  let access = "Not specified";
+  if (text.includes("waitlist")) access = "Waitlist / Early Access";
+  else if (text.includes("open beta") || text.includes("public beta")) access = "Open Beta";
+  else if (text.includes("generally available") || text.includes("is now live")) access = "Public Release";
+  else if (text.includes("invite only")) access = "Invite Only";
+
+  let pricing = "Not specified";
+  if (text.includes("free forever") || text.includes("free to use")) pricing = "Free";
+  else if (text.includes("subscription") || text.includes("starting at") || text.includes("$")) {
+    const priceMatch = text.match(/\$\d+(\.\d+)?/);
+    pricing = priceMatch ? `Paid (from ${priceMatch[0]})` : "Paid / Subscription";
+  } else if (text.includes("freemium") || text.includes("free tier")) {
+    pricing = "Freemium";
+  }
+
+  return { access, pricing };
 }
 
 export async function fetchAllNews(): Promise<NewsItem[]> {
@@ -105,15 +143,55 @@ export async function fetchAllNews(): Promise<NewsItem[]> {
           summary = summary.substring(0, 277) + "...";
         }
 
+        // Title Cleanup (Fix for redundancy and generic titles)
+        let cleanTitle = item.title.trim();
+        let cleanSummary = summary.trim();
+
+        // 1. Generic Title Resolution: If title is just the source name or too short, extract from summary
+        const genericTitles = [feed.name, "News", "Update", "Blog", "Daily", "Weekly"];
+        if (genericTitles.some(g => cleanTitle.toLowerCase() === g.toLowerCase()) || cleanTitle.length < 10) {
+          const firstSentence = cleanSummary.split(/[.!?](?=\s|$)/)[0];
+          if (firstSentence && firstSentence.length > 10 && firstSentence.length < 120) {
+            cleanTitle = firstSentence;
+          }
+        }
+
+        // 2. Redundancy Fix: If summary starts with the title, remove it from the summary
+        const titleWords = cleanTitle.toLowerCase().split(/\s+/).slice(0, 5).join(" ");
+        if (cleanSummary.toLowerCase().startsWith(titleWords) || cleanSummary.toLowerCase().startsWith(cleanTitle.toLowerCase().substring(0, 20))) {
+          // Remove the title sentence from the summary if it's the same
+          const sentences = cleanSummary.split(/[.!?](?=\s|$)/);
+          if (sentences.length > 1) {
+            cleanSummary = sentences.slice(1).join(". ").trim();
+          }
+        }
+
+        // 3. Length Constraints
+        if (cleanTitle.length > 100) {
+          cleanTitle = cleanTitle.substring(0, 97) + "...";
+        }
+        if (cleanSummary.length > 280) {
+          cleanSummary = cleanSummary.substring(0, 277) + "...";
+        }
+
+        // Extra Extraction for Tools
+        let toolMeta = {};
+        if (feed.category === "Tools" || feed.name.toLowerCase().includes("blog")) {
+          toolMeta = extractToolMetadata(summary, item.content || "");
+        }
+
         feedItems.push({
           id: item.guid || item.link,
-          title: item.title,
-          summary: neutralizeSummary(summary, feed.name),
+          title: cleanTitle,
+          summary: neutralizeSummary(cleanSummary, feed.name),
           source: feed.name,
           sourceUrl: item.link,
           category: feed.category,
           date: item.isoDate || new Date().toISOString(),
           hot: false,
+          ...toolMeta,
+          usage: item.contentSnippet?.substring(0, 150), // Fallback for "What it does"
+          officialUrl: feed.url.replace(/\/feed.*/, "").replace(/\/rss.*/, "").split('/')[0] + "//" + new URL(feed.url).hostname, // Simplified tool home page
         });
       }
       return feedItems;
