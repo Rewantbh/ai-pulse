@@ -5,6 +5,10 @@ async function main() {
   const tools = await fetchAllTools();
   await saveToolsToFile(tools);
   console.log("Tools sync complete.");
+  process.exit(0);
 }
 
-main().catch(console.error);
+main().catch((err) => {
+  console.error(err);
+  process.exit(1);
+});

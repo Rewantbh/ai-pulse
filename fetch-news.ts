@@ -11,6 +11,10 @@ async function main() {
 
   await saveNewsToFile(combinedNews);
   console.log(`Unified fetch complete. Fetched ${news.length} RSS items and ${tweets.length} tweets.`);
+  process.exit(0);
 }
 
-main().catch(console.error);
+main().catch((err) => {
+  console.error(err);
+  process.exit(1);
+});

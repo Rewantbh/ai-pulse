@@ -35,13 +35,23 @@ export async function fetchAllTools(): Promise<ToolItem[]> {
     try {
       console.log(`Fetching tools from ${feed.name}...`);
       
-      // Implement a strict 20s timeout wrapper for the RSS parser
-      const fetchPromise = parser.parseURL(feed.url);
-      const timeoutPromise = new Promise((_, reject) => 
-        setTimeout(() => reject(new Error("Timeout after 20s")), 20000)
-      );
-
-      const response = await (Promise.race([fetchPromise, timeoutPromise]) as Promise<any>);
+      const response = await new Promise<any>((resolve, reject) => {
+        const timeoutId = setTimeout(() => reject(new Error("Timeout after 20s")), 20000);
+        parser.parseURL(feed.url)
+          .then(res => {
+            clearTimeout(timeoutId);
+            resolve(res);
+          })
+          .catch(err => {
+            clearTimeout(timeoutId);
+            reject(err);
+          });
+      }).catch(e => {
+        console.error(`Error fetching tools from ${feed.name}:`, e.message);
+        return null;
+      });
+      
+      if (!response) return [];
       const feedItems: ToolItem[] = [];
 
       response.items.forEach((item: any) => {
