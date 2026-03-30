@@ -9,6 +9,7 @@ export interface TwitterData {
     tweets: {
       text: string;
       url: string;
+      date?: string; // Optional per-tweet date
     }[];
   }[];
 }
@@ -19,6 +20,7 @@ export async function fetchAllTweets(): Promise<NewsItem[]> {
 
   try {
     const data: TwitterData = JSON.parse(fs.readFileSync(filePath, "utf-8"));
+    console.log(`[Twitter Fetcher] Raw lastUpdated from JSON: ${data.lastUpdated}`);
     const newsItems: NewsItem[] = [];
 
     data.handles.forEach((handle) => {
@@ -62,7 +64,7 @@ export async function fetchAllTweets(): Promise<NewsItem[]> {
           source: `X: ${handle.name}`,
           sourceUrl: tweet.url,
           category: "Tools",
-          date: new Date().toISOString(), 
+          date: tweet.date || data.lastUpdated || new Date().toISOString(), 
           hot: true,
         });
       });

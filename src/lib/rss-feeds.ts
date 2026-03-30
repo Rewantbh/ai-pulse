@@ -6,6 +6,11 @@ export const RSS_FEEDS = [
     category: "Models",
   },
   {
+    name: "Anthropic News",
+    url: "https://www.anthropic.com/index.xml",
+    category: "Models",
+  },
+  {
     name: "Google AI Blog",
     url: "https://blog.google/technology/ai/rss/",
     category: "Research",
@@ -23,11 +28,6 @@ export const RSS_FEEDS = [
   {
     name: "Microsoft AI Blog",
     url: "https://blogs.microsoft.com/ai/feed/",
-    category: "Models",
-  },
-  {
-    name: "Anthropic Blog",
-    url: "https://www.anthropic.com/news/rss",
     category: "Models",
   },
   {
@@ -92,11 +92,6 @@ export const RSS_FEEDS = [
   {
     name: "AI Weekly",
     url: "https://aiweekly.co/issues.rss",
-    category: "Curation",
-  },
-  {
-    name: "The AI Report",
-    url: "https://theaireport.com/feed/",
     category: "Curation",
   },
   {

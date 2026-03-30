@@ -3,7 +3,20 @@ import { RSS_FEEDS } from "./rss-feeds";
 import fs from "fs";
 import path from "path";
 
+const USER_AGENTS = [
+  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+  "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+  "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/604.1",
+  "Mozilla/5.0 (iPad; CPU OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/122.0.6261.89 Mobile/15E148 Safari/604.1",
+];
+
+const getRandomUserAgent = () => USER_AGENTS[Math.floor(Math.random() * USER_AGENTS.length)];
+
 const parser = new Parser({
+  headers: {
+    "User-Agent": getRandomUserAgent(),
+  },
   customFields: {
     item: [["content:encoded", "contentEncoded"]],
   },
@@ -109,7 +122,8 @@ export async function fetchAllNews(): Promise<NewsItem[]> {
       if (!response) return [];
       
       const feedItems: NewsItem[] = [];
-      for (const item of response.items) {
+      const itemsToProcess = response.items.slice(0, 15); // Take only top 15 from each feed
+      for (const item of itemsToProcess) {
         if (!item.title || !item.link) continue;
 
         let summary = item.contentSnippet || item.content || "";
@@ -120,7 +134,12 @@ export async function fetchAllNews(): Promise<NewsItem[]> {
             const pageController = new AbortController();
             const pageTimeout = setTimeout(() => pageController.abort(), 8000); // 8s timeout
             
-            const pageRes = await fetch(item.link, { signal: pageController.signal });
+            const pageRes = await fetch(item.link, { 
+              signal: pageController.signal,
+              headers: {
+                "User-Agent": getRandomUserAgent(),
+              },
+            });
             const html = await pageRes.text();
             clearTimeout(pageTimeout);
             
@@ -194,6 +213,7 @@ export async function fetchAllNews(): Promise<NewsItem[]> {
           officialUrl: feed.url.replace(/\/feed.*/, "").replace(/\/rss.*/, "").split('/')[0] + "//" + new URL(feed.url).hostname, // Simplified tool home page
         });
       }
+      console.log(`Fetched ${feedItems.length} items from ${feed.name}`);
       return feedItems;
     } catch (error) {
       console.error(`Error fetching ${feed.name}:`, error);
