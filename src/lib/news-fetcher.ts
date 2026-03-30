@@ -111,13 +111,16 @@ export async function fetchAllNews(): Promise<NewsItem[]> {
   const allItems: NewsItem[][] = await Promise.all(RSS_FEEDS.map(async (feed) => {
     try {
       console.log(`Fetching ${feed.name}...`);
-      const controller = new AbortController();
-      const timeoutId = setTimeout(() => controller.abort(), 30000); // 30s timeout per feed
-      const response = await parser.parseURL(feed.url).catch(e => {
+      
+      const fetchPromise = parser.parseURL(feed.url);
+      const timeoutPromise = new Promise((_, reject) => 
+        setTimeout(() => reject(new Error("Timeout after 30s")), 30000)
+      );
+
+      const response = await (Promise.race([fetchPromise, timeoutPromise]) as Promise<any>).catch(e => {
         console.error(`Failed to parse XML for ${feed.name}:`, e.message);
         return null;
       });
-      clearTimeout(timeoutId);
       
       if (!response) return [];
       

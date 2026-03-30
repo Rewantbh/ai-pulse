@@ -3,7 +3,21 @@ import { TOOL_FEEDS } from "./tool-feeds";
 import fs from "fs";
 import path from "path";
 
-const parser = new Parser();
+const USER_AGENTS = [
+  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+  "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+  "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/604.1",
+  "Mozilla/5.0 (iPad; CPU OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/122.0.6261.89 Mobile/15E148 Safari/604.1",
+];
+
+const getRandomUserAgent = () => USER_AGENTS[Math.floor(Math.random() * USER_AGENTS.length)];
+
+const parser = new Parser({
+  headers: {
+    "User-Agent": getRandomUserAgent(),
+  }
+});
 
 export interface ToolItem {
   id: string;
@@ -17,14 +31,20 @@ export interface ToolItem {
 }
 
 export async function fetchAllTools(): Promise<ToolItem[]> {
-  const allTools: ToolItem[] = [];
-
-  for (const feed of TOOL_FEEDS) {
+  const allToolsResults = await Promise.all(TOOL_FEEDS.map(async (feed) => {
     try {
       console.log(`Fetching tools from ${feed.name}...`);
-      const response = await parser.parseURL(feed.url);
       
-      response.items.forEach((item) => {
+      // Implement a strict 20s timeout wrapper for the RSS parser
+      const fetchPromise = parser.parseURL(feed.url);
+      const timeoutPromise = new Promise((_, reject) => 
+        setTimeout(() => reject(new Error("Timeout after 20s")), 20000)
+      );
+
+      const response = await (Promise.race([fetchPromise, timeoutPromise]) as Promise<any>);
+      const feedItems: ToolItem[] = [];
+
+      response.items.forEach((item: any) => {
         if (!item.title || !item.link) return;
 
         // Filter Product Hunt for AI if specified
@@ -61,7 +81,7 @@ export async function fetchAllTools(): Promise<ToolItem[]> {
           pricing = "Paid";
         }
 
-        allTools.push({
+        feedItems.push({
           id: item.guid || item.link,
           name: title,
           description: description,
@@ -72,10 +92,14 @@ export async function fetchAllTools(): Promise<ToolItem[]> {
           date: item.isoDate || new Date().toISOString(),
         });
       });
-    } catch (error) {
-      console.error(`Error fetching tools from ${feed.name}:`, error);
+      return feedItems;
+    } catch (error: any) {
+      console.error(`Error fetching tools from ${feed.name}:`, error.message);
+      return [];
     }
-  }
+  }));
+
+  const allTools: ToolItem[] = allToolsResults.flat();
 
   // Deduplicate by URL
   const uniqueToolsMap = new Map<string, ToolItem>();
