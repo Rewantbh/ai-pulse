@@ -1,6 +1,31 @@
 {
-  "lastUpdated": "2026-04-01T06:24:05.312Z",
+  "lastUpdated": "2026-04-01T07:59:51.837Z",
   "news": [
+    {
+      "id": "https://huggingface.co/blog/tiiuae/falcon-perception",
+      "title": "Falcon Perception",
+      "summary": "The problem: why do perception systems end up as pipelines? The architecture: early fusion, hybrid attention, and an efficient dense interface One Backbone, Two Behaviors Chain-of-Perception: coarse-to-fine supervision for dense outputs Specialized Heads, Minimal Overhead PBen...",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/tiiuae/falcon-perception",
+      "category": "Research",
+      "date": "2026-04-01T07:13:20.000Z",
+      "hot": false,
+      "access": "Not specified",
+      "pricing": "Not specified",
+      "officialUrl": "https://huggingface.co"
+    },
+    {
+      "id": "https://www.marktechpost.com/?p=78737",
+      "title": "Hugging Face Releases TRL v1.0: A Unified Post-Training Stack for SFT, Reward Modeling, DPO, and ...",
+      "summary": "Hugging Face has officially released TRL (Transformer Reinforcement Learning) v1.0, marking a pivotal transition for the library from a research-oriented repository to a stable, production-ready framework. For AI professionals and developers, this release codifies the Post-Tra...",
+      "source": "MarkTechPost",
+      "sourceUrl": "https://www.marktechpost.com/2026/04/01/hugging-face-releases-trl-v1-0-a-unified-post-training-stack-for-sft-reward-modeling-dpo-and-grpo-workflows/",
+      "category": "Research",
+      "date": "2026-04-01T07:04:43.000Z",
+      "hot": false,
+      "usage": "Hugging Face has officially released TRL (Transformer Reinforcement Learning) v1.0, marking a pivotal transition for the library from a research-orien",
+      "officialUrl": "https://www.marktechpost.com"
+    },
     {
       "id": "https://www.marktechpost.com/?p=78732",
       "title": "Google AI Releases Veo 3.1 Lite: Giving Developers Low Cost High Speed Video Generation via The G...",
@@ -1066,18 +1091,6 @@
       "hot": false,
       "usage": "\"I could start this next big set of transformations with AI, but I couldn't finish.\"\nThe post AI Now Causing CEOs to Resign in Fear appeared first on ",
       "officialUrl": "https://futurism.com"
-    },
-    {
-      "id": "https://www.marktechpost.com/?p=78679",
-      "title": "Chroma Releases Context-1: A 20B Agentic Search Model for Multi-Hop Retrieval, Context Management...",
-      "summary": "In the current AI landscape, the ‘context window’ has become a blunt instrument. MarkTechPost’ve been told that if MarkTechPost simply expand the memory of a frontier model, the retrieval problem disappears. But as any AI professionals building RAG (Retrieval-Augmented Generation) systems knows, ...",
-      "source": "MarkTechPost",
-      "sourceUrl": "https://www.marktechpost.com/2026/03/29/chroma-releases-context-1-a-20b-agentic-search-model-for-multi-hop-retrieval-context-management-and-scalable-synthetic-task-generation/",
-      "category": "Research",
-      "date": "2026-03-29T08:25:09.000Z",
-      "hot": false,
-      "usage": "In the current AI landscape, the ‘context window’ has become a blunt instrument. We’ve been told that if we simply expand the memory of a frontier mod",
-      "officialUrl": "https://www.marktechpost.com"
     },
     {
       "id": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model",
@@ -2596,19 +2609,6 @@
       "pricing": "Not specified",
       "usage": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed.",
       "officialUrl": "https://deepmind.google"
-    },
-    {
-      "id": "https://huggingface.co/blog/moe-transformers",
-      "title": "Mixture of Experts (MoEs) in Transformers",
-      "summary": "Over the past few years, scaling dense language models has driven most progress in LLMs. From early models like the original ULMFiT (~30M parameters) or GPT-2 (1.5B parameters, which at the time was considered \"too dangerous to release\" 🧌), and eventually to today’s hundred-b...",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog/moe-transformers",
-      "category": "Research",
-      "date": "2026-02-26T00:00:00.000Z",
-      "hot": false,
-      "access": "Not specified",
-      "pricing": "Not specified",
-      "officialUrl": "https://huggingface.co"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260219040756.htm",
