@@ -1,23 +1,20 @@
-export const RSS_FEEDS = [
-  // Core AI Companies & Labs
+export interface NewsSource {
+  name: string;
+  url: string;
+  category: string;
+  scraperMode?: boolean;
+}
+
+export const RSS_FEEDS: NewsSource[] = [
+  // Core AI Companies & Labs (RSS Enabled)
   {
     name: "OpenAI News",
     url: "https://openai.com/news/rss.xml",
     category: "Models",
   },
   {
-    name: "Anthropic News",
-    url: "https://www.anthropic.com/index.xml",
-    category: "Models",
-  },
-  {
     name: "Google AI Blog",
     url: "https://blog.google/technology/ai/rss/",
-    category: "Research",
-  },
-  {
-    name: "Google Research Blog",
-    url: "https://feeds.feedburner.com/blogspot/gJZg",
     category: "Research",
   },
   {
@@ -41,16 +38,65 @@ export const RSS_FEEDS = [
     category: "Events",
   },
 
-  // General AI & Tech News
+  // Labs (Scraper Required - No Native RSS)
+  {
+    name: "Anthropic News",
+    url: "https://www.anthropic.com/news",
+    category: "Models",
+    scraperMode: true,
+  },
+  {
+    name: "Meta AI Blog",
+    url: "https://ai.meta.com/blog/",
+    category: "Models",
+    scraperMode: true,
+  },
+  {
+    name: "Mistral AI News",
+    url: "https://mistral.ai/news/",
+    category: "Models",
+    scraperMode: true,
+  },
+  {
+    name: "Perplexity Hub",
+    url: "https://www.perplexity.ai/hub",
+    category: "Insights",
+    scraperMode: true,
+  },
+  {
+    name: "Cohere Blog",
+    url: "https://cohere.com/blog",
+    category: "Models",
+    scraperMode: true,
+  },
+  {
+    name: "Suno Blog",
+    url: "https://suno.com/blog",
+    category: "Audio",
+    scraperMode: true,
+  },
+  {
+    name: "Pika Blog",
+    url: "https://pika.art/blog",
+    category: "Video",
+    scraperMode: true,
+  },
+
+  // Major Tech Publishers (FutureTools Parity)
+  {
+    name: "The Verge AI",
+    url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+    category: "Industry",
+  },
   {
     name: "TechCrunch AI",
     url: "https://techcrunch.com/category/artificial-intelligence/feed",
     category: "Business",
   },
   {
-    name: "The Verge AI",
-    url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-    category: "Tools",
+    name: "VentureBeat AI",
+    url: "https://venturebeat.com/category/ai/feed",
+    category: "Industry",
   },
   {
     name: "Wired AI",
@@ -58,46 +104,29 @@ export const RSS_FEEDS = [
     category: "Industry",
   },
   {
-    name: "MarkTechPost",
-    url: "https://www.marktechpost.com/feed/",
-    category: "Research",
-  },
-  {
-    name: "ScienceDaily AI",
-    url: "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-    category: "Research",
-  },
-  {
-    name: "Science News AI",
-    url: "https://www.sciencenews.org/topic/artificial-intelligence/feed",
-    category: "Research",
-  },
-  {
-    name: "MIT Technology Review AI",
-    url: "https://www.technologyreview.com/topic/artificial-intelligence/feed/",
-    category: "Policy",
-  },
-  {
-    name: "Futurism AI",
-    url: "https://futurism.com/categories/ai-artificial-intelligence/feed",
+    name: "ZDNet AI",
+    url: "https://www.zdnet.com/topic/artificial-intelligence/rss.xml",
     category: "Industry",
   },
   {
-    name: "Axios Technology",
-    url: "https://www.axios.com/feeds/feed.rss",
+    name: "Engadget AI",
+    url: "https://www.engadget.com/tag/ai/rss.xml",
+    category: "Tools",
+  },
+  {
+    name: "Unite.ai",
+    url: "https://www.unite.ai/feed/",
+    category: "Research",
+  },
+  {
+    name: "Decrypt AI",
+    url: "https://decrypt.co/feed",
+    category: "Tech",
+  },
+  {
+    name: "TechRepublic AI",
+    url: "https://www.techrepublic.com/rssfeeds/topic/artificial-intelligence/",
     category: "Business",
-  },
-
-  // Curated Feeds & Newsletters
-  {
-    name: "AI Weekly",
-    url: "https://aiweekly.co/issues.rss",
-    category: "Curation",
-  },
-  {
-    name: "AI Hub",
-    url: "https://aihub.org/feed/",
-    category: "Community",
   },
 
   // Research & Academic
@@ -110,5 +139,10 @@ export const RSS_FEEDS = [
     name: "MIT News ML",
     url: "https://news.mit.edu/rss/topic/machine-learning",
     category: "Research",
-  }
+  },
+  {
+    name: "AI Weekly",
+    url: "https://aiweekly.co/issues.rss",
+    category: "Curation",
+  },
 ];

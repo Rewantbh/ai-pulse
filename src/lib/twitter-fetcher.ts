@@ -64,7 +64,7 @@ export async function fetchAllTweets(): Promise<NewsItem[]> {
           source: `X: ${handle.name}`,
           sourceUrl: tweet.url,
           category: "Tools",
-          date: tweet.date || data.lastUpdated || new Date().toISOString(), 
+          date: tweet.date || data.lastUpdated || new Date().toISOString(),
           hot: true,
         });
       });
