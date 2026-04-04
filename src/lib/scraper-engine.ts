@@ -9,6 +9,20 @@ const USER_AGENTS = [
 const getRandomUserAgent = () => USER_AGENTS[Math.floor(Math.random() * USER_AGENTS.length)];
 
 /**
+ * Extract date from URL or HTML crumbs
+ */
+function extractDateFromUrl(url: string): string | null {
+  const match = url.match(/\/(\d{4})\/(\d{2})\/(\d{2})\//) || url.match(/\/(\d{4})\/(\d{1,2})\//);
+  if (match) {
+    const year = match[1];
+    const month = match[2].padStart(2, "0");
+    const day = match[3] ? match[3].padStart(2, "0") : "01";
+    return `${year}-${month}-${day}T00:00:00Z`;
+  }
+  return null;
+}
+
+/**
  * Enhanced Scraper Engine for RSS-less AI Blogs
  */
 export async function scrapeNewsFromSource(source: NewsSource): Promise<NewsItem[]> {
@@ -65,6 +79,8 @@ export async function scrapeNewsFromSource(source: NewsSource): Promise<NewsItem
           text = slug ? slug.charAt(0).toUpperCase() + slug.slice(1) : `${source.name} Update`;
         }
 
+        const extractedDate = extractDateFromUrl(href) || new Date().toISOString();
+
         items.push({
           id: href,
           title: text.substring(0, 100),
@@ -72,7 +88,7 @@ export async function scrapeNewsFromSource(source: NewsSource): Promise<NewsItem
           source: source.name,
           sourceUrl: href,
           category: source.category,
-          date: new Date().toISOString(),
+          date: extractedDate,
           hot: true
         });
       }

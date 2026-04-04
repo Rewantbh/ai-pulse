@@ -147,8 +147,20 @@ export async function fetchAllNews(): Promise<NewsItem[]> {
     }
   });
 
+  // Strict Freshness Filter: Only news from the last 24 hours
+  const ONE_DAY_AGO = Date.now() - (24 * 3600 * 1000);
+  const freshItems = Array.from(uniqueItemsMap.values()).filter((item) => {
+    try {
+      const pubDate = new Date(item.date).getTime();
+      return pubDate > ONE_DAY_AGO;
+    } catch (e) {
+      // If date is unparseable but we just fetched it, keep it (edge case)
+      return true; 
+    }
+  });
+
   // Sort by date descending
-  return Array.from(uniqueItemsMap.values()).sort(
+  return freshItems.sort(
     (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
   );
 }
