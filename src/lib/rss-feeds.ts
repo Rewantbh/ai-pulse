@@ -145,4 +145,10 @@ export const RSS_FEEDS: NewsSource[] = [
     url: "https://aiweekly.co/issues.rss",
     category: "Curation",
   },
+  {
+    name: "X / Twitter (Top AI Voices)",
+    url: "https://x.com/search?q=AI%20news&src=typed_query",
+    category: "Social",
+    scraperMode: true, // Handled via unified twitter-fetcher
+  },
 ];
