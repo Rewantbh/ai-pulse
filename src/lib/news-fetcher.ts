@@ -32,14 +32,54 @@ export interface NewsItem {
 }
 
 /**
+ * Drops general tech fluff (gas apps, router tips) if it doesn't mention AI keys.
+ */
+function isAIContent(title: string, summary: string, source: string): boolean {
+  const aiKeywords = [
+    "ai", "gpt", "llm", "claude", "gemini", "anthropic", "openai", "mistral", 
+    "llama", "perpective", "suno", "pika", "model", "neural", "machine learning",
+    "deep learning", "chatbot", "generative", "stable diffusion", "midjourney", 
+    "copilot", "chatgpt", "gpu", "nvidia", "huggingface", "robot"
+  ];
+  const combined = (title + " " + summary).toLowerCase();
+  
+  // High-authority AI sources get a free pass
+  const aiSources = ["Anthropic", "Mistral", "OpenAI", "Suno", "Pika", "Cohere", "Perplexity"];
+  if (aiSources.some(s => source.includes(s))) return true;
+
+  // For general sources, require at least one AI keyword
+  return aiKeywords.some(kw => combined.includes(kw));
+}
+
+/**
+ * Removes newsletter promos, author bios, and social CTAs from RSS summaries.
+ */
+function cleanSummary(text: string): string {
+  if (!text) return "";
+  let result = text.trim();
+  
+  // Remove common boilerplate
+  result = result.replace(/Subscribe to our newsletter.*/gi, "");
+  result = result.replace(/Sign up for our daily.*/gi, "");
+  result = result.replace(/Follow us on (X|Twitter|Facebook|LinkedIn).*/gi, "");
+  result = result.replace(/About the author:.*/gi, "");
+  result = result.replace(/Image credit:.*/gi, "");
+  result = result.replace(/Source:.*/gi, "");
+  result = result.replace(/Read more at .*/gi, "");
+  result = result.replace(/The post .* appeared first on .*/gi, "");
+  
+  // Remove newsletter intro styles (e.g. "This is the Stepback...")
+  result = result.replace(/This is (the|our) [\w\s]+ newsletter.*/gi, "");
+  
+  return result.trim();
+}
+
+/**
  * Transforms first-person narratives into neutral, third-person perspective.
  */
 function neutralizeSummary(text: string, source: string): string {
   if (!text) return "";
-  let result = text.trim();
-  result = result.replace(/The post .* appeared first on .*/gi, "");
-  result = result.replace(/This article originally appeared on .*/gi, "");
-  result = result.replace(/Read more at .*/gi, "");
+  let result = cleanSummary(text);
   
   const sourceName = source.replace(/ (Blog|News|Weekly|Tech|Daily|Report)/i, "");
   const replacements: [RegExp, string][] = [
@@ -101,18 +141,23 @@ async function fetchInBatches(sources: NewsSource[], batchSize = 6): Promise<New
           
           let summary = item.contentSnippet || item.content || "";
           
+          // Signal-to-Noise Filter: Drop non-AI content from general sources
+          if (!isAIContent(item.title, summary, source.name)) {
+            continue;
+          }
+
           // Neutralize and clean
           let cleanTitle = item.title.trim();
-          let cleanSummary = summary.trim();
+          let neutralizedSummary = neutralizeSummary(summary.trim(), source.name);
 
           // Length Constraints
           if (cleanTitle.length > 100) cleanTitle = cleanTitle.substring(0, 97) + "...";
-          if (cleanSummary.length > 280) cleanSummary = cleanSummary.substring(0, 277) + "...";
+          if (neutralizedSummary.length > 280) neutralizedSummary = neutralizedSummary.substring(0, 277) + "...";
 
           feedItems.push({
             id: item.guid || item.link,
             title: cleanTitle,
-            summary: neutralizeSummary(cleanSummary, source.name),
+            summary: neutralizedSummary,
             source: source.name,
             sourceUrl: item.link,
             category: source.category,
@@ -147,12 +192,12 @@ export async function fetchAllNews(): Promise<NewsItem[]> {
     }
   });
 
-  // Strict Freshness Filter: Only news from the last 24 hours
-  const ONE_DAY_AGO = Date.now() - (24 * 3600 * 1000);
+  // Recent & Relevant Filter: Only news from the last 72 hours (3 days)
+  const THREE_DAYS_AGO = Date.now() - (72 * 3600 * 1000);
   const freshItems = Array.from(uniqueItemsMap.values()).filter((item) => {
     try {
       const pubDate = new Date(item.date).getTime();
-      return pubDate > ONE_DAY_AGO;
+      return pubDate > THREE_DAYS_AGO;
     } catch (e) {
       // If date is unparseable but we just fetched it, keep it (edge case)
       return true; 

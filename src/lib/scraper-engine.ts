@@ -23,20 +23,20 @@ function extractDateFromUrl(url: string): string | null {
 }
 
 /**
- * Deep Metadata Verification (Fetches article page for HIDDEN dates)
+ * Deep Metadata & Summary Extraction (Fetches article page for HIDDEN content)
  */
-async function verifyArticleDate(url: string): Promise<string | null> {
+async function verifyArticleDateAndSummary(url: string, sourceName: string): Promise<{ date: string | null; summary: string | null }> {
   try {
     const response = await fetch(url, {
       headers: { "User-Agent": getRandomUserAgent() },
       next: { revalidate: 3600 }
     });
-    if (!response.ok) return null;
+    if (!response.ok) return { date: null, summary: null };
     
     // Only need the first few KB for metadata
     const html = await response.text();
     
-    // Look for article:published_time or og:updated_time or <time>
+    // 1. Date Extraction
     const metaDate = (
       html.match(/property="article:published_time"\s+content="([^"]+)"/i)?.[1] ||
       html.match(/property="og:updated_time"\s+content="([^"]+)"/i)?.[1] ||
@@ -44,9 +44,31 @@ async function verifyArticleDate(url: string): Promise<string | null> {
       html.match(/"published_at":"([^"]+)"/i)?.[1]
     );
 
-    return metaDate ? new Date(metaDate).toISOString() : null;
+    // 2. Summary Extraction (Look for the first <p> after title or similar content)
+    // We filter out very short strings and boilerplate
+    const paragraphs = html.match(/<p[^>]*>([\s\S]*?)<\/p>/gi);
+    let extractedSummary = "";
+    if (paragraphs) {
+      for (const p of paragraphs) {
+        const text = p.replace(/<[^>]+>/g, "").trim();
+        if (text.length > 50 && !text.includes("newsletter") && !text.includes("cookie")) {
+          extractedSummary = text.substring(0, 250);
+          break;
+        }
+      }
+    }
+
+    // Default fallback if no good paragraph found
+    if (!extractedSummary) {
+      extractedSummary = `${sourceName} released a major industry update. Click to read the full report on their technical blog.`;
+    }
+
+    return { 
+      date: metaDate ? new Date(metaDate).toISOString() : null,
+      summary: extractedSummary
+    };
   } catch {
-    return null;
+    return { date: null, summary: null };
   }
 }
 
@@ -99,19 +121,24 @@ export async function scrapeNewsFromSource(source: NewsSource): Promise<NewsItem
         foundUrls.add(href);
         const urlDate = extractDateFromUrl(href);
         
-        // DEEP VERIFICATION: If no date in URL, fetch page to find hidden meta-date
-        const verifiedDate = urlDate || await verifyArticleDate(href);
+        // DEEP VERIFICATION: If no date in URL, fetch page to find hidden meta-date AND summary
+        const verification = urlDate 
+          ? { date: urlDate, summary: null } 
+          : await verifyArticleDateAndSummary(href, source.name);
         
+        // Fallback summary if we didn't do deep verification or it failed
+        const finalSummary = verification.summary || `${source.name} released a major industry update. Click to read the full report on their technical blog.`;
+
         // DROP POLICY: If we can't prove it's fresh, we don't show it
-        if (!verifiedDate) {
+        if (!verification.date) {
           console.log(`[Scraper] Dropped unverified item: ${href}`);
           continue;
         }
 
-        // FRESHNESS GATE: Only keep if within last 24h
-        const ONE_DAY_AGO = Date.now() - (24 * 3600 * 1000);
-        if (new Date(verifiedDate).getTime() < ONE_DAY_AGO) {
-          console.log(`[Scraper] Dropped stale item (${verifiedDate}): ${href}`);
+        // FRESHNESS GATE: Only keep if within last 72h (Parity with RSS)
+        const THREE_DAYS_AGO = Date.now() - (72 * 3600 * 1000);
+        if (new Date(verification.date).getTime() < THREE_DAYS_AGO) {
+          console.log(`[Scraper] Dropped stale item (${verification.date}): ${href}`);
           continue;
         }
 
@@ -123,11 +150,11 @@ export async function scrapeNewsFromSource(source: NewsSource): Promise<NewsItem
         items.push({
           id: href,
           title: text.substring(0, 100),
-          summary: `${source.name} released a major industry update regarding their latest LLM developments. See full architecture details on their official technical blog.`,
+          summary: finalSummary,
           source: source.name,
           sourceUrl: href,
           category: source.category,
-          date: verifiedDate,
+          date: verification.date,
           hot: true
         });
       }
