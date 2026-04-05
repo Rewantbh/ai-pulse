@@ -68,7 +68,7 @@ export async function scrapeNewsFromSource(source: NewsSource): Promise<NewsItem
         (source.name.includes("Perplexity") && href.includes("/hub/")) ||
         (source.name.includes("Cohere") && (href.includes("/blog/") || href.includes("/post/"))) ||
         (source.name.includes("Suno") && href.includes("/blog/")) ||
-        (source.name.includes("Pika") && href.includes("/blog/"))
+        (source.name.includes("Pika") && href.includes("/blog/") && !href.endsWith("/announcement"))
       );
 
       if (isArticle) {
