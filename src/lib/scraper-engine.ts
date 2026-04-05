@@ -23,6 +23,34 @@ function extractDateFromUrl(url: string): string | null {
 }
 
 /**
+ * Deep Metadata Verification (Fetches article page for HIDDEN dates)
+ */
+async function verifyArticleDate(url: string): Promise<string | null> {
+  try {
+    const response = await fetch(url, {
+      headers: { "User-Agent": getRandomUserAgent() },
+      next: { revalidate: 3600 }
+    });
+    if (!response.ok) return null;
+    
+    // Only need the first few KB for metadata
+    const html = await response.text();
+    
+    // Look for article:published_time or og:updated_time or <time>
+    const metaDate = (
+      html.match(/property="article:published_time"\s+content="([^"]+)"/i)?.[1] ||
+      html.match(/property="og:updated_time"\s+content="([^"]+)"/i)?.[1] ||
+      html.match(/<time[^>]+datetime="([^"]+)"/i)?.[1] ||
+      html.match(/"published_at":"([^"]+)"/i)?.[1]
+    );
+
+    return metaDate ? new Date(metaDate).toISOString() : null;
+  } catch {
+    return null;
+  }
+}
+
+/**
  * Enhanced Scraper Engine for RSS-less AI Blogs
  */
 export async function scrapeNewsFromSource(source: NewsSource): Promise<NewsItem[]> {
@@ -33,9 +61,6 @@ export async function scrapeNewsFromSource(source: NewsSource): Promise<NewsItem
       headers: { 
         "User-Agent": getRandomUserAgent(),
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
-        "Accept-Language": "en-US,en;q=0.9",
-        "Cache-Control": "no-cache",
-        "Pragma": "no-cache"
       },
       next: { revalidate: 3600 }
     });
@@ -46,7 +71,6 @@ export async function scrapeNewsFromSource(source: NewsSource): Promise<NewsItem
     const items: NewsItem[] = [];
     const baseUrl = new URL(source.url).origin;
 
-    // Pattern 1: Link-First strategy (most common)
     const linkFirstRegex = /<a[^>]+href="([^"]+)"[^>]*>([\s\S]*?)<\/a>/gi;
     const foundUrls = new Set<string>();
 
@@ -73,13 +97,28 @@ export async function scrapeNewsFromSource(source: NewsSource): Promise<NewsItem
 
       if (isArticle) {
         foundUrls.add(href);
-        // If text is empty (image link), use a generic title based on URL
+        const urlDate = extractDateFromUrl(href);
+        
+        // DEEP VERIFICATION: If no date in URL, fetch page to find hidden meta-date
+        const verifiedDate = urlDate || await verifyArticleDate(href);
+        
+        // DROP POLICY: If we can't prove it's fresh, we don't show it
+        if (!verifiedDate) {
+          console.log(`[Scraper] Dropped unverified item: ${href}`);
+          continue;
+        }
+
+        // FRESHNESS GATE: Only keep if within last 24h
+        const ONE_DAY_AGO = Date.now() - (24 * 3600 * 1000);
+        if (new Date(verifiedDate).getTime() < ONE_DAY_AGO) {
+          console.log(`[Scraper] Dropped stale item (${verifiedDate}): ${href}`);
+          continue;
+        }
+
         if (text.length < 10) {
           const slug = href.split("/").filter(Boolean).pop()?.replace(/-/g, " ");
           text = slug ? slug.charAt(0).toUpperCase() + slug.slice(1) : `${source.name} Update`;
         }
-
-        const extractedDate = extractDateFromUrl(href) || new Date().toISOString();
 
         items.push({
           id: href,
@@ -88,14 +127,14 @@ export async function scrapeNewsFromSource(source: NewsSource): Promise<NewsItem
           source: source.name,
           sourceUrl: href,
           category: source.category,
-          date: extractedDate,
+          date: verifiedDate,
           hot: true
         });
       }
-      if (items.length >= 10) break;
+      if (items.length >= 5) break; // Limit deep extraction to top 5 candidates
     }
 
-    console.log(`[Scraper] Successfully extracted ${items.length} items from ${source.name}`);
+    console.log(`[Scraper] Successfully extracted ${items.length} verified items from ${source.name}`);
     return items;
   } catch (e: any) {
     console.error(`[Scraper] Failed to scrape ${source.name}:`, e.message);
