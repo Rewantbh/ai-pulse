@@ -73,11 +73,72 @@ async function verifyArticleDateAndSummary(url: string, sourceName: string): Pro
 }
 
 /**
+ * Custom Scraper for FutureTools.io/news
+ */
+async function scrapeFutureTools(source: NewsSource): Promise<NewsItem[]> {
+  try {
+    const response = await fetch(source.url, {
+      headers: { "User-Agent": getRandomUserAgent() },
+      next: { revalidate: 3600 }
+    });
+    if (!response.ok) return [];
+    const html = await response.text();
+    
+    const items: NewsItem[] = [];
+    const THREE_DAYS_AGO = Date.now() - (72 * 3600 * 1000);
+    
+    // Split by date headers
+    const segments = html.split(/<h2[^>]*>(?:Yesterday — )?([A-Z][a-z]+, [A-Z][a-z]+ \d{1,2}, \d{4})<\/h2>/i);
+    
+    // segments[0] is everything before first date
+    for (let i = 1; i < segments.length; i += 2) {
+      const dateStr = segments[i];
+      const content = segments[i + 1];
+      const parsedDate = new Date(dateStr);
+      
+      if (isNaN(parsedDate.getTime())) continue;
+      if (parsedDate.getTime() < THREE_DAYS_AGO) continue;
+
+      // Extract items from this date segment
+      const itemRegex = /<a[^>]+href="([^"]+)"[^>]*>[\s\S]*?<p[^>]*>([\s\S]*?)<\/p>[\s\S]*?<\/a>/gi;
+      let match;
+      while ((match = itemRegex.exec(content)) !== null) {
+        let href = match[1];
+        let title = match[2].replace(/<[^>]+>/g, "").trim();
+        
+        if (href.startsWith("/")) href = new URL(source.url).origin + href;
+        if (title.length < 10) continue;
+
+        items.push({
+          id: href,
+          title: title.substring(0, 100),
+          summary: `${source.name} highlights: ${title}. Read more on the original source.`,
+          source: source.name,
+          sourceUrl: href,
+          category: source.category,
+          date: parsedDate.toISOString(),
+          hot: true
+        });
+      }
+    }
+    
+    return items;
+  } catch (e: any) {
+    console.error(`[Scraper] FutureTools failed:`, e.message);
+    return [];
+  }
+}
+
+/**
  * Enhanced Scraper Engine for RSS-less AI Blogs
  */
 export async function scrapeNewsFromSource(source: NewsSource): Promise<NewsItem[]> {
   try {
     console.log(`[Scraper] Starting deep crawl for ${source.name}: ${source.url}`);
+    
+    if (source.name === "FutureTools News") {
+      return await scrapeFutureTools(source);
+    }
     
     const response = await fetch(source.url, {
       headers: { 

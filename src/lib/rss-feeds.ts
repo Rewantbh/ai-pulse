@@ -131,11 +131,6 @@ export const RSS_FEEDS: NewsSource[] = [
 
   // Research & Academic
   {
-    name: "arXiv cs.AI",
-    url: "https://rss.arxiv.org/rss/cs.AI",
-    category: "Papers",
-  },
-  {
     name: "MIT News ML",
     url: "https://news.mit.edu/rss/topic/machine-learning",
     category: "Research",
@@ -150,5 +145,11 @@ export const RSS_FEEDS: NewsSource[] = [
     url: "https://x.com/search?q=AI%20news&src=typed_query",
     category: "Social",
     scraperMode: true, // Handled via unified twitter-fetcher
+  },
+  {
+    name: "FutureTools News",
+    url: "https://futuretools.io/news",
+    category: "Curation",
+    scraperMode: true,
   },
 ];
