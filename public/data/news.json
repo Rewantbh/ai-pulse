@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2026-04-08T10:35:21.354Z",
+  "lastUpdated": "2026-04-08T11:46:24.761Z",
   "news": [
+    {
+      "id": "feafbcfc-6e50-4791-8995-9ff75be843ae",
+      "title": "I found a 'DISM' command that reclaims Windows 11 system storage - but you'll have to use it wisely",
+      "summary": "A feature called Reserved Storage retains a small amount of storage for updates - here's how to disable it, and when it makes the most sense to do so.",
+      "source": "ZDNet AI",
+      "sourceUrl": "https://www.zdnet.com/article/windows-reserved-storage-setting-turn-off-and-why/",
+      "category": "Industry",
+      "date": "2026-04-08T11:16:43.000Z",
+      "hot": false,
+      "officialUrl": "https://www.zdnet.com"
+    },
     {
       "id": "909d4ad7-597b-40c0-8fa9-4f520a71e41b",
       "title": "Why you shouldn't buy cheap DisplayPort cables - the 'Death Pin' can put your GPU at serious risk",
@@ -11,6 +22,17 @@
       "date": "2026-04-08T10:30:39.000Z",
       "hot": false,
       "officialUrl": "https://www.zdnet.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/?p=4354597",
+      "title": "Utah Lets an AI Chatbot Renew Some Psychiatric Prescriptions in New Pilot",
+      "summary": "Utah’s latest AI health pilot does not let a bot diagnose or start treatment. It does let one renew a narrow set of psychiatric meds under a tightly staged review process.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-utah-ai-chatbot-psychiatric-prescription-renewals/",
+      "category": "Business",
+      "date": "2026-04-08T10:20:49.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "https://decrypt.co/?p=363611",
@@ -33,160 +55,6 @@
       "date": "2026-04-08T05:40:19.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "oai:arXiv.org:2604.04937v1",
-      "title": "Pramana: Fine-Tuning Large Language Models for Epistemic Reasoning through Navya-Nyaya",
-      "summary": "ArXiv:2604.04937v1 Announce Type: new \nAbstract: Large language models produce fluent text but struggle with systematic reasoning, often hallucinating confident but unfounded claims. When Apple researchers added irrelevant context to mathematical problems, LLM performance degr...",
-      "source": "arXiv cs.AI",
-      "sourceUrl": "https://arxiv.org/abs/2604.04937",
-      "category": "Papers",
-      "date": "2026-04-08T04:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://rss.arxiv.org"
-    },
-    {
-      "id": "oai:arXiv.org:2604.04938v1",
-      "title": "Operational Noncommutativity in Sequential Metacognitive Judgments",
-      "summary": "ArXiv:2604.04938v1 Announce Type: new \nAbstract: Metacognition, understood as the monitoring and regulation of one's own cognitive processes, is inherently sequential: an agent evaluates an internal state, updates it, and may then re-evaluate under modified criteria. Order eff...",
-      "source": "arXiv cs.AI",
-      "sourceUrl": "https://arxiv.org/abs/2604.04938",
-      "category": "Papers",
-      "date": "2026-04-08T04:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://rss.arxiv.org"
-    },
-    {
-      "id": "oai:arXiv.org:2604.04940v1",
-      "title": "ReVEL: Multi-Turn Reflective LLM-Guided Heuristic Evolution via Structured Performance Feedback",
-      "summary": "ArXiv:2604.04940v1 Announce Type: new \nAbstract: Designing effective heuristics for NP-hard combinatorial optimization problems remains a challenging and expertise-intensive task. Existing applications of large language models (LLMs) primarily rely on one-shot code synthesis, ...",
-      "source": "arXiv cs.AI",
-      "sourceUrl": "https://arxiv.org/abs/2604.04940",
-      "category": "Papers",
-      "date": "2026-04-08T04:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://rss.arxiv.org"
-    },
-    {
-      "id": "oai:arXiv.org:2604.04941v1",
-      "title": "Algebraic Structure Discovery for Real World Combinatorial Optimisation Problems: A General Frame...",
-      "summary": "ArXiv:2604.04941v1 Announce Type: new \nAbstract: Many combinatorial optimisation problems hide algebraic structures that, once exposed, shrink the search space and improve the chance of finding the global optimal solution. arXiv cs.AI present a general framework that (the auth...",
-      "source": "arXiv cs.AI",
-      "sourceUrl": "https://arxiv.org/abs/2604.04941",
-      "category": "Papers",
-      "date": "2026-04-08T04:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://rss.arxiv.org"
-    },
-    {
-      "id": "oai:arXiv.org:2604.05018v1",
-      "title": "PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing",
-      "summary": "ArXiv:2604.05018v1 Announce Type: new \nAbstract: Synthesizing unstructured research materials into manuscripts is an essential yet under-explored challenge in AI-driven scientific discovery. Existing autonomous writers are rigidly coupled to specific experimental pipelines, an...",
-      "source": "arXiv cs.AI",
-      "sourceUrl": "https://arxiv.org/abs/2604.05018",
-      "category": "Papers",
-      "date": "2026-04-08T04:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://rss.arxiv.org"
-    },
-    {
-      "id": "oai:arXiv.org:2604.05070v1",
-      "title": "Part-Level 3D Gaussian Vehicle Generation with Joint and Hinge Axis Estimation",
-      "summary": "ArXiv:2604.05070v1 Announce Type: new \nAbstract: Simulation is essential for autonomous driving, yet current frameworks often model vehicles as rigid assets and fail to capture part-level articulation. With perception algorithms increasingly leveraging dynamics such as wheel s...",
-      "source": "arXiv cs.AI",
-      "sourceUrl": "https://arxiv.org/abs/2604.05070",
-      "category": "Papers",
-      "date": "2026-04-08T04:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://rss.arxiv.org"
-    },
-    {
-      "id": "oai:arXiv.org:2604.05075v1",
-      "title": "MMORF: A Multi-agent Framework for Designing Multi-objective Retrosynthesis Planning Systems",
-      "summary": "ArXiv:2604.05075v1 Announce Type: new \nAbstract: Multi-objective retrosynthesis planning is a critical chemistry task requiring dynamic balancing of quality, safety, and cost objectives. Language model-based multi-agent systems (MAS) offer a promising approach for this task: l...",
-      "source": "arXiv cs.AI",
-      "sourceUrl": "https://arxiv.org/abs/2604.05075",
-      "category": "Papers",
-      "date": "2026-04-08T04:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://rss.arxiv.org"
-    },
-    {
-      "id": "oai:arXiv.org:2604.05081v1",
-      "title": "MedGemma 1.5 Technical Report",
-      "summary": "ArXiv:2604.05081v1 Announce Type: new \nAbstract: arXiv cs.AI introduce MedGemma 1.5 4B, the latest model in the MedGemma collection. MedGemma 1.5 expands on MedGemma 1 by integrating additional capabilities: high-dimensional medical imaging (CT/MRI volumes and histopathology w...",
-      "source": "arXiv cs.AI",
-      "sourceUrl": "https://arxiv.org/abs/2604.05081",
-      "category": "Papers",
-      "date": "2026-04-08T04:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://rss.arxiv.org"
-    },
-    {
-      "id": "oai:arXiv.org:2604.05116v1",
-      "title": "Uncertainty-Guided Latent Diagnostic Trajectory Learning for Sequential Clinical Diagnosis",
-      "summary": "ArXiv:2604.05116v1 Announce Type: new \nAbstract: Clinical diagnosis requires sequential evidence acquisition under uncertainty. However, most Large Language Model (LLM) based diagnostic systems assume fully observed patient information and therefore do not explicitly model how...",
-      "source": "arXiv cs.AI",
-      "sourceUrl": "https://arxiv.org/abs/2604.05116",
-      "category": "Papers",
-      "date": "2026-04-08T04:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://rss.arxiv.org"
-    },
-    {
-      "id": "oai:arXiv.org:2604.05136v1",
-      "title": "Non-monotonic causal discovery with Kolmogorov-Arnold Fuzzy Cognitive Maps",
-      "summary": "ArXiv:2604.05136v1 Announce Type: new \nAbstract: Fuzzy Cognitive Maps constitute a neuro-symbolic paradigm for modeling complex dynamic systems, widely adopted for their inherent interpretability and recurrent inference capabilities. However, the standard FCM formulation, char...",
-      "source": "arXiv cs.AI",
-      "sourceUrl": "https://arxiv.org/abs/2604.05136",
-      "category": "Papers",
-      "date": "2026-04-08T04:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://rss.arxiv.org"
-    },
-    {
-      "id": "oai:arXiv.org:2604.05142v1",
-      "title": "A mathematical theory of evolution for self-designing AIs",
-      "summary": "ArXiv:2604.05142v1 Announce Type: new \nAbstract: As artificial intelligence systems (AIs) become increasingly produced by recursive self-improvement, a form of evolution may emerge, in which the traits of AI systems are shaped by the success of earlier AIs in designing and pro...",
-      "source": "arXiv cs.AI",
-      "sourceUrl": "https://arxiv.org/abs/2604.05142",
-      "category": "Papers",
-      "date": "2026-04-08T04:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://rss.arxiv.org"
-    },
-    {
-      "id": "oai:arXiv.org:2604.05157v1",
-      "title": "IntentScore: Intent-Conditioned Action Evaluation for Computer-Use Agents",
-      "summary": "ArXiv:2604.05157v1 Announce Type: new \nAbstract: Computer-Use Agents (CUAs) leverage large language models to execute GUI operations on desktop environments, yet they generate actions without evaluating action quality, leading to irreversible errors that cascade through subseq...",
-      "source": "arXiv cs.AI",
-      "sourceUrl": "https://arxiv.org/abs/2604.05157",
-      "category": "Papers",
-      "date": "2026-04-08T04:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://rss.arxiv.org"
-    },
-    {
-      "id": "oai:arXiv.org:2604.05162v1",
-      "title": "Bypassing the CSI Bottleneck: MARL-Driven Spatial Control for Reflector Arrays",
-      "summary": "ArXiv:2604.05162v1 Announce Type: new \nAbstract: Reconfigurable Intelligent Surfaces (RIS) are pivotal for next-generation smart radio environments, yet their practical deployment is severely bottlenecked by the intractable computational overhead of Channel State Information (...",
-      "source": "arXiv cs.AI",
-      "sourceUrl": "https://arxiv.org/abs/2604.05162",
-      "category": "Papers",
-      "date": "2026-04-08T04:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://rss.arxiv.org"
-    },
-    {
-      "id": "oai:arXiv.org:2604.05165v1",
-      "title": "Learning to Focus: CSI-Free Hierarchical MARL for Reconfigurable Reflectors",
-      "summary": "ArXiv:2604.05165v1 Announce Type: new \nAbstract: Reconfigurable Intelligent Surfaces (RIS) has a potential to engineer smart radio environments for next-generation millimeter-wave (mmWave) networks. However, the prohibitive computational overhead of Channel State Information (...",
-      "source": "arXiv cs.AI",
-      "sourceUrl": "https://arxiv.org/abs/2604.05165",
-      "category": "Papers",
-      "date": "2026-04-08T04:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://rss.arxiv.org"
     },
     {
       "id": "70da2963-a917-4a7c-9da7-d0260b6ff2c3",
@@ -530,6 +398,126 @@
       "officialUrl": "https://www.techrepublic.com"
     },
     {
+      "id": "https://x.com/capcutapp/status/2041691702663245837?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "title": "CapCut Rolls Out Dreamina Seedance 2.0 in U.S., Offers Free Trial and 90% Off Pro",
+      "summary": "FutureTools News highlights: CapCut Rolls Out Dreamina Seedance 2.0 in U.S., Offers Free Trial and 90% Off Pro. Read more on the original source.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://x.com/capcutapp/status/2041691702663245837?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-04-06T18:15:00.000Z",
+      "hot": true
+    },
+    {
+      "id": "https://www.wsj.com/tech/ai/elon-musk-asks-for-openais-nonprofit-to-get-any-damages-from-his-lawsuit-76089f6f?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "title": "Musk Seeks OpenAI Nonprofit to Receive Any Damages in Amended Lawsuit",
+      "summary": "FutureTools News highlights: Musk Seeks OpenAI Nonprofit to Receive Any Damages in Amended Lawsuit. Read more on the original source.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.wsj.com/tech/ai/elon-musk-asks-for-openais-nonprofit-to-get-any-damages-from-his-lawsuit-76089f6f?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-04-06T18:15:00.000Z",
+      "hot": true
+    },
+    {
+      "id": "https://nypost.com/2026/04/07/us-news/ghost-murmur-a-never-used-secret-tool-deployed-to-find-lost-airman-in-iran-in-daring-mission/?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "title": "CIA Used Ghost Murmur Quantum Magnetometry Tool to Find Downed Airman in Iran",
+      "summary": "FutureTools News highlights: CIA Used Ghost Murmur Quantum Magnetometry Tool to Find Downed Airman in Iran. Read more on the original source.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://nypost.com/2026/04/07/us-news/ghost-murmur-a-never-used-secret-tool-deployed-to-find-lost-airman-in-iran-in-daring-mission/?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-04-06T18:15:00.000Z",
+      "hot": true
+    },
+    {
+      "id": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "title": "Anthropic Previews Claude Mythos System Card, Limits Model to Defensive Cybersecurity Partners",
+      "summary": "FutureTools News highlights: Anthropic Previews Claude Mythos System Card, Limits Model to Defensive Cybersecurity Partners. Read more on the original source.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-04-06T18:15:00.000Z",
+      "hot": true
+    },
+    {
+      "id": "https://www.anthropic.com/glasswing?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "title": "Anthropic launches Project Glasswing with Big Tech to secure critical software using Claude Mythos P",
+      "summary": "FutureTools News highlights: Anthropic launches Project Glasswing with Big Tech to secure critical software using Claude Mythos Preview. Read more on the original source.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.anthropic.com/glasswing?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-04-06T18:15:00.000Z",
+      "hot": true
+    },
+    {
+      "id": "https://claude.com/blog/how-and-when-to-use-subagents-in-claude-code?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "title": "Claude: Guide to Using Subagents in Claude Code and When Delegation Is Worth It",
+      "summary": "FutureTools News highlights: Claude: Guide to Using Subagents in Claude Code and When Delegation Is Worth It. Read more on the original source.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://claude.com/blog/how-and-when-to-use-subagents-in-claude-code?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-04-06T18:15:00.000Z",
+      "hot": true
+    },
+    {
+      "id": "https://techcrunch.com/2026/04/07/spotifys-prompted-playlist-feature-will-now-work-for-podcasts-too/?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "title": "Spotify Expands AI Prompted Playlists to Include Podcasts",
+      "summary": "FutureTools News highlights: Spotify Expands AI Prompted Playlists to Include Podcasts. Read more on the original source.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://techcrunch.com/2026/04/07/spotifys-prompted-playlist-feature-will-now-work-for-podcasts-too/?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-04-06T18:15:00.000Z",
+      "hot": true
+    },
+    {
+      "id": "https://z.ai/blog/glm-5.1?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "title": "Z.ai unveils GLM-5.1 flagship agentic coding model, sets new SWE-Bench Pro state of the art",
+      "summary": "FutureTools News highlights: Z.ai unveils GLM-5.1 flagship agentic coding model, sets new SWE-Bench Pro state of the art. Read more on the original source.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://z.ai/blog/glm-5.1?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-04-06T18:15:00.000Z",
+      "hot": true
+    },
+    {
+      "id": "https://x.com/kevinweil/status/2041573799775367525?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "title": "OpenAI Prism Launches Paper Review AI Workflow to Boost Scientific Rigor and Reproducibility",
+      "summary": "FutureTools News highlights: OpenAI Prism Launches Paper Review AI Workflow to Boost Scientific Rigor and Reproducibility. Read more on the original source.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://x.com/kevinweil/status/2041573799775367525?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-04-06T18:15:00.000Z",
+      "hot": true
+    },
+    {
+      "id": "https://x.com/venturetwins/status/2041554747086553093?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "title": "Mysterious HappyHorse-1.0 Tops Leaderboard in Text-to-Video and Image-to-Video",
+      "summary": "FutureTools News highlights: Mysterious HappyHorse-1.0 Tops Leaderboard in Text-to-Video and Image-to-Video. Read more on the original source.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://x.com/venturetwins/status/2041554747086553093?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-04-06T18:15:00.000Z",
+      "hot": true
+    },
+    {
+      "id": "https://x.com/theworldlabs/status/2041554646561677701?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "title": "World Labs Rolls Out Marble 1.1 and Marble 1.1-Plus Model Updates",
+      "summary": "FutureTools News highlights: World Labs Rolls Out Marble 1.1 and Marble 1.1-Plus Model Updates. Read more on the original source.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://x.com/theworldlabs/status/2041554646561677701?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-04-06T18:15:00.000Z",
+      "hot": true
+    },
+    {
+      "id": "https://www.reuters.com/business/autos-transportation/intel-join-musks-terafab-mega-ai-chip-project-2026-04-07/?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "title": "Intel Joins Musk Terafab AI Chip Project With SpaceX, Tesla for Robots and Data Centers",
+      "summary": "FutureTools News highlights: Intel Joins Musk Terafab AI Chip Project With SpaceX, Tesla for Robots and Data Centers. Read more on the original source.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.reuters.com/business/autos-transportation/intel-join-musks-terafab-mega-ai-chip-project-2026-04-07/?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-04-06T18:15:00.000Z",
+      "hot": true
+    },
+    {
       "id": "https://techcrunch.com/?p=3109661",
       "title": "Iran threatens ‘Stargate’ AI data centers",
       "summary": "Iran said it will target U.S.-linked data centers with new missile strikes, as the war between the U.S. and Iran escalates.",
@@ -627,6 +615,116 @@
       "date": "2026-04-06T00:00:00.000Z",
       "hot": false,
       "officialUrl": "https://aiweekly.co"
+    },
+    {
+      "id": "https://www.wsj.com/tech/ai/what-to-know-about-openais-ideas-for-a-world-with-superintelligence-e97d6e7b?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "title": "OpenAI proposes AI taxes and worker benefits plan for a superintelligence era",
+      "summary": "FutureTools News highlights: OpenAI proposes AI taxes and worker benefits plan for a superintelligence era. Read more on the original source.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.wsj.com/tech/ai/what-to-know-about-openais-ideas-for-a-world-with-superintelligence-e97d6e7b?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-04-05T18:15:00.000Z",
+      "hot": true
+    },
+    {
+      "id": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "title": "GitHub Copilot CLI adds Rubber Duck for cross-model second-opinion code reviews",
+      "summary": "FutureTools News highlights: GitHub Copilot CLI adds Rubber Duck for cross-model second-opinion code reviews. Read more on the original source.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-04-05T18:15:00.000Z",
+      "hot": true
+    },
+    {
+      "id": "https://www.anthropic.com/news/google-broadcom-partnership-compute?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "title": "Anthropic partners with Google and Broadcom for multi-gigawatt TPU compute starting 2027",
+      "summary": "FutureTools News highlights: Anthropic partners with Google and Broadcom for multi-gigawatt TPU compute starting 2027. Read more on the original source.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.anthropic.com/news/google-broadcom-partnership-compute?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-04-05T18:15:00.000Z",
+      "hot": true
+    },
+    {
+      "id": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "title": "OpenAI CEO Sam Altman faces scrutiny in New Yorker investigation citing internal documents",
+      "summary": "FutureTools News highlights: OpenAI CEO Sam Altman faces scrutiny in New Yorker investigation citing internal documents. Read more on the original source.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-04-05T18:15:00.000Z",
+      "hot": true
+    },
+    {
+      "id": "https://www.cnbc.com/2026/04/06/openai-asks-california-ag-to-probe-musks-anti-competitive-behavior-.html?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "title": "OpenAI urges California, Delaware AGs to probe Musk&#x27;s anti-competitive conduct",
+      "summary": "FutureTools News highlights: OpenAI urges California, Delaware AGs to probe Musk&#x27;s anti-competitive conduct. Read more on the original source.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.cnbc.com/2026/04/06/openai-asks-california-ag-to-probe-musks-anti-competitive-behavior-.html?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-04-05T18:15:00.000Z",
+      "hot": true
+    },
+    {
+      "id": "https://www.theinformation.com/articles/openai-ceo-cfo-diverge-ipo-timing?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "title": "OpenAI CEO Altman Pushes Early IPO as CFO Friar Raises Readiness Concerns",
+      "summary": "FutureTools News highlights: OpenAI CEO Altman Pushes Early IPO as CFO Friar Raises Readiness Concerns. Read more on the original source.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.theinformation.com/articles/openai-ceo-cfo-diverge-ipo-timing?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-04-05T18:15:00.000Z",
+      "hot": true
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-04-06/openai-anthropic-google-unite-to-combat-model-copying-in-china?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "title": "OpenAI, Anthropic and Google team up to curb model copying by Chinese rivals",
+      "summary": "FutureTools News highlights: OpenAI, Anthropic and Google team up to curb model copying by Chinese rivals. Read more on the original source.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-06/openai-anthropic-google-unite-to-combat-model-copying-in-china?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-04-05T18:15:00.000Z",
+      "hot": true
+    },
+    {
+      "id": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "title": "Google launches offline AI dictation app AI Edge Eloquent for iOS",
+      "summary": "FutureTools News highlights: Google launches offline AI dictation app AI Edge Eloquent for iOS. Read more on the original source.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-04-05T18:15:00.000Z",
+      "hot": true
+    },
+    {
+      "id": "https://www.axios.com/2026/04/06/meta-open-source-ai-models?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "title": "Meta plans to open-source versions of its next AI models under Alexandr Wang",
+      "summary": "FutureTools News highlights: Meta plans to open-source versions of its next AI models under Alexandr Wang. Read more on the original source.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.axios.com/2026/04/06/meta-open-source-ai-models?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-04-05T18:15:00.000Z",
+      "hot": true
+    },
+    {
+      "id": "https://openai.com/index/introducing-openai-safety-fellowship/?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "title": "OpenAI Launches Safety Fellowship for External Researchers, Applications Open Through May 3",
+      "summary": "FutureTools News highlights: OpenAI Launches Safety Fellowship for External Researchers, Applications Open Through May 3. Read more on the original source.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://openai.com/index/introducing-openai-safety-fellowship/?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-04-05T18:15:00.000Z",
+      "hot": true
+    },
+    {
+      "id": "https://x.com/bensig/status/2041236952998171118?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "title": "MemPalace AI Memory System Claims First Perfect LongMemEval Score, Beats Rivals",
+      "summary": "FutureTools News highlights: MemPalace AI Memory System Claims First Perfect LongMemEval Score, Beats Rivals. Read more on the original source.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://x.com/bensig/status/2041236952998171118?utm_source=futuretools.io&amp;utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-04-05T18:15:00.000Z",
+      "hot": true
     },
     {
       "id": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
