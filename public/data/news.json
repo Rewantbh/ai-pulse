@@ -1,10 +1,43 @@
 {
-  "lastUpdated": "2026-04-09T21:48:50.456Z",
+  "lastUpdated": "2026-04-09T22:35:22.654Z",
   "news": [
+    {
+      "id": "https://www.theverge.com/policy/909557/openai-florida-investigation",
+      "title": "Florida launches investigation into OpenAI",
+      "summary": "Florida Attorney General James Uthmeier is launching an investigation into OpenAI over public safety and national security risks, as reported earlier by Reuters. In a statement on Thursday, Uthmeier says there are concerns that OpenAI's data and technology are \"falling into th...",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/policy/909557/openai-florida-investigation",
+      "category": "Industry",
+      "date": "2026-04-09T22:17:06.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=363902",
+      "title": "TD Cuts Bitcoin Giant Strategy's Price Target, Calls Ethereum Treasury Sharplink a ‘Buy’",
+      "summary": "TD Cowen remains positive on $55 billion Bitcoin treasury pioneer Strategy, despite trimming its price target yet again.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/363902/td-cuts-bitcoin-giant-strategy-price-target-ethereum-treasury-sharplink-buy",
+      "category": "Tech",
+      "date": "2026-04-09T22:09:21.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://decrypt.co/?p=363880",
+      "title": "'AI Should Advance Mankind, Not Destroy It': Why Florida Is Taking Aim at OpenAI",
+      "summary": "The Florida attorney general's probe into AI giant OpenAI cites national security and child safety risks tied to ChatGPT.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/363880/ai-advance-mankind-not-destroy-why-florida-investigating-openai",
+      "category": "Tech",
+      "date": "2026-04-09T21:57:09.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
     {
       "id": "https://techcrunch.com/?p=3111133",
       "title": "ChatGPT finally offers $100/month Pro plan",
-      "summary": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously subscriptions jumped from $20 to $200 per month.",
+      "summary": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month.",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
       "category": "Business",
@@ -167,17 +200,6 @@
       "officialUrl": "https://www.zdnet.com"
     },
     {
-      "id": "https://blogs.nvidia.com/?p=92122",
-      "title": "National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources",
-      "summary": "This National Robotics Week, NVIDIA is highlighting the breakthroughs that are bringing AI into the physical world — as well as the growing wave of robots transforming industries, from agricultural and manufacturing to energy and beyond. Advancements in robot learning, simulat...",
-      "source": "NVIDIA Blog",
-      "sourceUrl": "https://blogs.nvidia.com/blog/national-robotics-week-2026/",
-      "category": "Events",
-      "date": "2026-04-09T16:45:59.000Z",
-      "hot": false,
-      "officialUrl": "https://blogs.nvidia.com"
-    },
-    {
       "id": "https://decrypt.co/?p=363821",
       "title": "Treasury Secretary Bessent Slams Crypto Industry 'Nihilists' as Clarity Act Remains in Limbo",
       "summary": "Several obstacles to the Clarity Act, which have remained unsolved for months, stand in the way of its passage before a looming deadline.",
@@ -218,28 +240,6 @@
       "sourceUrl": "https://decrypt.co/363809/stablecoin-giant-tether-launches-toolkit-for-building-local-offline-ai-apps",
       "category": "Tech",
       "date": "2026-04-09T15:09:32.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "https://decrypt.co/?p=363804",
-      "title": "Bithumb Files to Seize Bitcoin From Holdouts After $43B Blunder",
-      "summary": "The South Korean exchange is pursuing formal legal remedies to recover 7 BTC after voluntary return requests failed.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/363804/bithumb-files-to-seize-bitcoin-from-holdouts-after-43b-blunder",
-      "category": "Tech",
-      "date": "2026-04-09T15:02:22.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "https://decrypt.co/?p=363737",
-      "title": "Nunchuk Launches Open-Source Bitcoin Tools for AI Agents With 'Bounded Authority'",
-      "summary": "Nunchuk releases open-source tools that allow AI agents to interact with Bitcoin wallets while keeping humans in control over spending.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/363737/nunchuk-open-source-bitcoin-tools-ai-agents-bounded-authority",
-      "category": "Tech",
-      "date": "2026-04-09T14:57:29.000Z",
       "hot": false,
       "officialUrl": "https://decrypt.co"
     },
@@ -343,6 +343,17 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
+      "id": "https://blogs.nvidia.com/?p=92122",
+      "title": "National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources",
+      "summary": "This National Robotics Week, NVIDIA is highlighting the breakthroughs that are bringing AI into the physical world — as well as the growing wave of robots transforming industries, from agricultural and manufacturing to energy and beyond. Advancements in robot learning, simulat...",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/national-robotics-week-2026/",
+      "category": "Events",
+      "date": "2026-04-09T09:45:59.000Z",
+      "hot": false,
+      "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
       "id": "69d577be09d358586818c994",
       "title": "This AI Wearable From Ex-Apple Engineers Looks Like an iPod Shuffle",
       "summary": "Two former Apple Vision Pro developers made an AI wearable that only listens when you tap it. They hope to win where other AI gadgets have fumbled: privacy.",
@@ -365,22 +376,22 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
-      "id": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
-      "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
-      "summary": "Explore the official terms and conditions for the OpenAI Full Fan Mode Contest, including eligibility, entry steps, judging criteria, and prize details. Learn how to participate, submit your entry on Instagram, and win IPL match tickets.",
+      "id": "https://openai.com/index/cyber-agent",
+      "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+      "summary": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.",
       "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
+      "sourceUrl": "https://openai.com/index/cyber-agent",
       "category": "Models",
       "date": "2026-04-09T00:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
     },
     {
-      "id": "https://openai.com/index/cyber-agent",
-      "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
-      "summary": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.",
+      "id": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
+      "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
+      "summary": "Explore the official terms and conditions for the OpenAI Full Fan Mode Contest, including eligibility, entry steps, judging criteria, and prize details. Learn how to participate, submit your entry on Instagram, and win IPL match tickets.",
       "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/cyber-agent",
+      "sourceUrl": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
       "category": "Models",
       "date": "2026-04-09T00:00:00.000Z",
       "hot": false,
@@ -836,17 +847,6 @@
       "date": "2026-04-07T18:49:50.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity",
-      "title": "A new Anthropic model found security problems &#8216;in every major operating system and web brow...",
-      "summary": "Anthropic is debuting a new AI model as part of a cybersecurity partnership with Nvidia, Google, Amazon Web Services, Apple, Microsoft, and other companies. Project Glasswing, as it's called, is billed as a way for large companies, and potentially even the government, to flag ...",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity",
-      "category": "Industry",
-      "date": "2026-04-07T18:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
     },
     {
       "id": "https://www.techrepublic.com/?p=4354874",
