@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2026-04-11T17:04:39.900Z",
+  "lastUpdated": "2026-04-11T17:56:08.460Z",
   "news": [
+    {
+      "id": "https://techcrunch.com/?p=3111667",
+      "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+      "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+      "category": "Business",
+      "date": "2026-04-11T17:18:22.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
     {
       "id": "https://decrypt.co/?p=364080",
       "title": "New Tools Aim to Make AI 'Vibe Coding' Safer for Crypto",
@@ -398,44 +409,11 @@
       "officialUrl": "https://www.wired.com"
     },
     {
-      "id": "https://openai.com/academy/custom-gpts",
-      "title": "Using custom GPTs",
-      "summary": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
+      "id": "https://openai.com/academy/responsible-and-safe-use",
+      "title": "Responsible and safe use of AI",
+      "summary": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
       "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/academy/custom-gpts",
-      "category": "Models",
-      "date": "2026-04-10T00:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://openai.com/academy/customer-success",
-      "title": "ChatGPT for customer success teams",
-      "summary": "Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals.",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/academy/customer-success",
-      "category": "Models",
-      "date": "2026-04-10T00:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://openai.com/academy/applications-of-ai",
-      "title": "Applications of AI at OpenAI",
-      "summary": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/academy/applications-of-ai",
-      "category": "Models",
-      "date": "2026-04-10T00:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://openai.com/academy/search-and-deep-research",
-      "title": "Research with ChatGPT",
-      "summary": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/academy/search-and-deep-research",
+      "sourceUrl": "https://openai.com/academy/responsible-and-safe-use",
       "category": "Models",
       "date": "2026-04-10T00:00:00.000Z",
       "hot": false,
@@ -453,22 +431,22 @@
       "officialUrl": "https://openai.com"
     },
     {
-      "id": "https://openai.com/academy/financial-services",
-      "title": "Financial services",
-      "summary": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely.",
+      "id": "https://openai.com/academy/getting-started",
+      "title": "Getting started with ChatGPT",
+      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
       "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/academy/financial-services",
+      "sourceUrl": "https://openai.com/academy/getting-started",
       "category": "Models",
       "date": "2026-04-10T00:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
     },
     {
-      "id": "https://openai.com/academy/responsible-and-safe-use",
-      "title": "Responsible and safe use of AI",
-      "summary": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
+      "id": "https://openai.com/academy/operations",
+      "title": "ChatGPT for operations teams",
+      "summary": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
       "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/academy/responsible-and-safe-use",
+      "sourceUrl": "https://openai.com/academy/operations",
       "category": "Models",
       "date": "2026-04-10T00:00:00.000Z",
       "hot": false,
@@ -486,6 +464,17 @@
       "officialUrl": "https://openai.com"
     },
     {
+      "id": "https://openai.com/academy/applications-of-ai",
+      "title": "Applications of AI at OpenAI",
+      "summary": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/academy/applications-of-ai",
+      "category": "Models",
+      "date": "2026-04-10T00:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://openai.com"
+    },
+    {
       "id": "https://openai.com/academy/research",
       "title": "ChatGPT for research",
       "summary": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
@@ -497,22 +486,22 @@
       "officialUrl": "https://openai.com"
     },
     {
-      "id": "https://openai.com/academy/image-generation",
-      "title": "Creating images with ChatGPT",
-      "summary": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.",
+      "id": "https://openai.com/academy/customer-success",
+      "title": "ChatGPT for customer success teams",
+      "summary": "Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals.",
       "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/academy/image-generation",
+      "sourceUrl": "https://openai.com/academy/customer-success",
       "category": "Models",
       "date": "2026-04-10T00:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
     },
     {
-      "id": "https://openai.com/academy/personalization",
-      "title": "Personalizing ChatGPT",
-      "summary": "Learn how to personalize ChatGPT using custom instructions and memory to get more relevant, consistent, and tailored responses.",
+      "id": "https://openai.com/academy/skills",
+      "title": "Using skills",
+      "summary": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
       "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/academy/personalization",
+      "sourceUrl": "https://openai.com/academy/skills",
       "category": "Models",
       "date": "2026-04-10T00:00:00.000Z",
       "hot": false,
@@ -530,11 +519,11 @@
       "officialUrl": "https://openai.com"
     },
     {
-      "id": "https://openai.com/academy/getting-started",
-      "title": "Getting started with ChatGPT",
-      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+      "id": "https://openai.com/academy/personalization",
+      "title": "Personalizing ChatGPT",
+      "summary": "Learn how to personalize ChatGPT using custom instructions and memory to get more relevant, consistent, and tailored responses.",
       "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/academy/getting-started",
+      "sourceUrl": "https://openai.com/academy/personalization",
       "category": "Models",
       "date": "2026-04-10T00:00:00.000Z",
       "hot": false,
@@ -552,11 +541,33 @@
       "officialUrl": "https://openai.com"
     },
     {
-      "id": "https://openai.com/academy/sales",
-      "title": "ChatGPT for sales teams",
-      "summary": "Learn how sales teams use ChatGPT to research accounts, personalize outreach, manage deals, and improve pipeline and conversion.",
+      "id": "https://openai.com/academy/custom-gpts",
+      "title": "Using custom GPTs",
+      "summary": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
       "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/academy/sales",
+      "sourceUrl": "https://openai.com/academy/custom-gpts",
+      "category": "Models",
+      "date": "2026-04-10T00:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://openai.com"
+    },
+    {
+      "id": "https://openai.com/academy/search-and-deep-research",
+      "title": "Research with ChatGPT",
+      "summary": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/academy/search-and-deep-research",
+      "category": "Models",
+      "date": "2026-04-10T00:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://openai.com"
+    },
+    {
+      "id": "https://openai.com/academy/projects",
+      "title": "Using projects in ChatGPT",
+      "summary": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/academy/projects",
       "category": "Models",
       "date": "2026-04-10T00:00:00.000Z",
       "hot": false,
@@ -910,50 +921,6 @@
       "date": "2026-04-08T21:05:13.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3110560",
-      "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
-      "summary": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
-      "category": "Business",
-      "date": "2026-04-08T20:09:14.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/?p=4354911",
-      "title": "Why Operationalizing AI Security Is the Next Great Enterprise Hurdle",
-      "summary": "NWN launches an AI-powered security platform to tackle tool sprawl, alert fatigue, and modern cyber threats in the era of agentic enterprises.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-nwn-ai-security-platform-tool-sprawl-alert-fatigue/",
-      "category": "Business",
-      "date": "2026-04-08T17:50:11.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/?p=4354897",
-      "title": "10 ChatGPT AI Prompts L1 SOC Analysts Can Use in Their Daily Work",
-      "summary": "Discover 10 practical ChatGPT prompts SOC analysts can use to speed up triage, analyze threats, improve documentation, and enhance incident response workflows.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-chatgpt-prompts-soc-analysts-incident-response/",
-      "category": "Business",
-      "date": "2026-04-08T17:34:50.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/?p=4354891",
-      "title": "AI Is Slashing 16,000 Jobs a Month in the US (Gen Z Hit the Hardest)",
-      "summary": "Goldman Sachs research suggests AI is erasing 16,000 TechRepublic AI jobs per month, with entry-level workers and women facing the sharpest early impact.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-ai-job-losses-entry-level-tech-layoffs/",
-      "category": "Business",
-      "date": "2026-04-08T17:11:15.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
     }
   ]
 }
