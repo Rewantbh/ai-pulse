@@ -1,6 +1,72 @@
 {
-  "lastUpdated": "2026-04-27T16:22:56.467Z",
+  "lastUpdated": "2026-04-27T17:48:29.430Z",
   "news": [
+    {
+      "id": "https://decrypt.co/?p=365674",
+      "title": "Google Employees Demand CEO Block Military AI Contracts in Open Letter",
+      "summary": "Some 580 Google employees have signed the letter to CEO Sundar Pichai, citing ethical concerns over military use of AI.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/365674/google-employees-demand-ceo-block-military-ai-contracts-in-open-letter",
+      "category": "Tech",
+      "date": "2026-04-27T17:44:42.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3116576",
+      "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+      "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft get more cash in a revenue-share agreement.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+      "category": "Business",
+      "date": "2026-04-27T17:40:38.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3116624",
+      "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
+      "summary": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+      "category": "Business",
+      "date": "2026-04-27T17:24:21.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=365657",
+      "title": "Trump Walks Back Prediction Market Criticism, Says 'Smart People' He Knows Like Them",
+      "summary": "Trump said last week he didn’t like prediction markets, but then changed his tune, arguing the U.S. should not get left behind in the space.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/365657/trump-prediction-markets-smart-people-like-them",
+      "category": "Tech",
+      "date": "2026-04-27T17:15:53.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://decrypt.co/?p=365661",
+      "title": "Crypto Exchange Gemini Launches Agentic Trading Feature for AI Agents",
+      "summary": "Gemini has integrated AI models like Claude and ChatGPT to execute automated trading strategies via an open protocol.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/365661/crypto-exchange-gemini-agentic-trading-feature-ai-agents",
+      "category": "Tech",
+      "date": "2026-04-27T16:56:47.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://www.techrepublic.com/?p=4357172",
+      "title": "China Startup Secures $8.4B in Credit Lines for Orbital Data Center Push",
+      "summary": "China’s Orbital Chenguang secured major credit lines for space-based data centers as AI demand strains power, land, and cooling capacity.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-china-orbital-data-centers-apac/",
+      "category": "Business",
+      "date": "2026-04-27T16:25:42.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
     {
       "id": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract",
       "title": "Microsoft and OpenAI’s famed AGI agreement is dead",
@@ -33,6 +99,17 @@
       "date": "2026-04-27T16:05:57.000Z",
       "hot": false,
       "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://www.techrepublic.com/?p=4357129",
+      "title": "The Prompt Engineering Cheat Sheet: How to Write Better AI Prompts",
+      "summary": "Learn prompt engineering with this practical cheat sheet that covers frameworks, techniques, and tips for producing more accurate and useful AI outputs.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-prompt-engineering-cheat-sheet-guide/",
+      "category": "Business",
+      "date": "2026-04-27T15:59:45.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
@@ -233,6 +310,28 @@
       "officialUrl": "https://www.zdnet.com"
     },
     {
+      "id": "https://openai.com/index/open-source-codex-orchestration-symphony",
+      "title": "An open-source spec for orchestration: Symphony",
+      "summary": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/open-source-codex-orchestration-symphony",
+      "category": "Models",
+      "date": "2026-04-27T00:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://openai.com"
+    },
+    {
+      "id": "https://openai.com/index/choco",
+      "title": "Choco automates food distribution with AI agents",
+      "summary": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/choco",
+      "category": "Models",
+      "date": "2026-04-27T00:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://openai.com"
+    },
+    {
       "id": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
       "title": "How to build scalable web apps with OpenAI's Privacy Filter",
       "summary": "",
@@ -242,17 +341,6 @@
       "date": "2026-04-27T00:00:00.000Z",
       "hot": false,
       "officialUrl": "https://huggingface.co"
-    },
-    {
-      "id": "https://decrypt.co/?p=365532",
-      "title": "Coachella Uses Google DeepMind AI to Test the Future of Live Entertainment",
-      "summary": "Coachella is experimenting with AI-built artist tools, immersive digital worlds, and 3D performance archives that could shape future fan experiences.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/365532/coachella-google-deepmind-ai-test-future-live-entertainment",
-      "category": "Tech",
-      "date": "2026-04-26T19:04:43.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
     },
     {
       "id": "https://openai.com/index/our-principles",
@@ -268,24 +356,13 @@
     {
       "id": "https://techcrunch.com/?p=3116489",
       "title": "To buy this Bay Area home, you’ll need Anthropic equity",
-      "summary": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
+      "summary": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of San Francisco.",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
       "category": "Business",
       "date": "2026-04-26T15:30:00.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=365511",
-      "title": "Your AI Agent Can Now Groan While Untangling Your Vibe Coded Mess",
-      "summary": "A new GitHub plugin makes your coding agent emit escalating human moans as it suffers through your spaghetti code.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/365511/ai-agent-groan-endless-toil-vibecoding-suffering",
-      "category": "Tech",
-      "date": "2026-04-26T13:01:02.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
     },
     {
       "id": "https://aiweekly.co/issues/100-years-from-now-the-allowance",
@@ -331,17 +408,6 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "https://decrypt.co/?p=365489",
-      "title": "Elon Musk’s Grok Most Likely Among Top AI Models to Reinforce Delusions: Study",
-      "summary": "Researchers found that xAI's Grok was the riskiest AI model tested, often validating delusions and offering dangerous advice.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/365489/elon-musk-grok-most-likely-ai-reinforce-delusions-study",
-      "category": "Tech",
-      "date": "2026-04-25T19:01:03.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
       "id": "https://techcrunch.com/?p=3116460",
       "title": "OpenAI CEO apologizes to Tumbler Ridge community",
       "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
@@ -351,17 +417,6 @@
       "date": "2026-04-25T17:17:56.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=365556",
-      "title": "Bitcoin Hit Its Highest Price Since January—Why VanEck Analysts See More Potential Gains",
-      "summary": "Bitcoin hash rate recovery and negative funding rates signal potential gains ahead, according to the ETF provider's latest network analysis.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/365556/bitcoin-highest-price-january-why-vaneck-analysts-more-gains",
-      "category": "Tech",
-      "date": "2026-04-25T16:31:33.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
     },
     {
       "id": "https://techcrunch.com/?p=3116411",
@@ -418,17 +473,6 @@
       "hot": true
     },
     {
-      "id": "https://decrypt.co/?p=365509",
-      "title": "Brazil Issues Sweeping Ban Against Prediction Market Platforms",
-      "summary": "Brazil’s Finance Ministry cited investor protection concerns and rising gambling addiction as it blocked platforms like Polymarket and Kalshi.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/365509/brazil-sweeping-ban-against-prediction-market-platforms",
-      "category": "Tech",
-      "date": "2026-04-24T21:19:05.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
       "id": "https://www.techrepublic.com/?p=4356912",
       "title": "DeepSeek Drops Cheaper V4 AI as Huawei Jumps In",
       "summary": "DeepSeek launches V4 AI model with Huawei chip support, offering lower costs and intensifying global AI competition.",
@@ -471,50 +515,6 @@
       "date": "2026-04-24T19:00:00.000Z",
       "hot": false,
       "officialUrl": "https://blog.google"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3116207",
-      "title": "Google to invest up to $40B in Anthropic in cash and compute",
-      "summary": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
-      "category": "Business",
-      "date": "2026-04-24T18:00:03.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "69ea1e41ace51dfd0585df9d",
-      "title": "AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials",
-      "summary": "Isomorphic Labs president Max Jaderberg said at WIRED Health in London that the startup has built a “broad and exciting pipeline of new medicines.”",
-      "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/",
-      "category": "Industry",
-      "date": "2026-04-24T17:17:36.000Z",
-      "hot": false,
-      "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson",
-      "title": "How Project Maven taught the military to love AI",
-      "summary": "In the first 24 hours of the assault on Iran, the The Verge AI military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was made possible by AI systems that speed up the targeting process. Ch...",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson",
-      "category": "Industry",
-      "date": "2026-04-24T17:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
-      "id": "https://news.mit.edu/2026/mit-scientists-build-worlds-largest-collection-olympiad-level-math-problems-open-0424",
-      "title": "MIT scientists build the world’s largest collection of Olympiad-level math problems, and open it ...",
-      "summary": "New dataset of 30,000-plus competition math problems from 47 countries gives AI researchers a harder test — and students worldwide a better training ground.",
-      "source": "MIT News ML",
-      "sourceUrl": "https://news.mit.edu/2026/mit-scientists-build-worlds-largest-collection-olympiad-level-math-problems-open-0424",
-      "category": "Research",
-      "date": "2026-04-24T17:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://news.mit.edu"
     }
   ]
 }
