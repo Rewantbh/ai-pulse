@@ -1,6 +1,39 @@
 {
-  "lastUpdated": "2026-04-29T21:39:36.248Z",
+  "lastUpdated": "2026-04-29T22:53:05.117Z",
   "news": [
+    {
+      "id": "https://techcrunch.com/?p=3117649",
+      "title": "Google Cloud surpasses $20B but says growth was capacity-constrained",
+      "summary": "Google Cloud topped $20B in quarterly revenue for the first time, fueled by surging demand for AI. But capacity constraints mean it could have grown even faster.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
+      "category": "Business",
+      "date": "2026-04-29T22:20:48.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=366100",
+      "title": "Google and Microsoft Just Proved the AI Trade Is Alive—While OpenAI Is Sweating",
+      "summary": "Alphabet and Microsoft crushed Q1 estimates on the same day, with Google Cloud up 63% and Microsoft's AI business hitting a $37 billion run rate.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/366100/google-microsoft-ai-trade-openai-revenue-estimates",
+      "category": "Tech",
+      "date": "2026-04-29T22:14:49.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://news.mit.edu/2026/smarter-way-to-debias-ai-vision-models-0429",
+      "title": "Solving the “Whac-a-mole dilemma”: A smarter way to debias AI vision models",
+      "summary": "A new debiasing technique called WRING avoids creating or amplifying biases that can occur with existing debiasing approaches.",
+      "source": "MIT News ML",
+      "sourceUrl": "https://news.mit.edu/2026/smarter-way-to-debias-ai-vision-models-0429",
+      "category": "Research",
+      "date": "2026-04-29T21:40:00.000Z",
+      "hot": false,
+      "officialUrl": "https://news.mit.edu"
+    },
     {
       "id": "https://decrypt.co/?p=366097",
       "title": "Labor Department Launches AI Apprenticeship Portal as Trump Admin Continues AI Policy Push",
@@ -79,6 +112,28 @@
       "officialUrl": "https://decrypt.co"
     },
     {
+      "id": "https://www.techrepublic.com/?p=4357664",
+      "title": "AWS to Resell OpenAI Products After Microsoft Loses Exclusive License",
+      "summary": "Amazon is bringing OpenAI's models and Codex to AWS after Microsoft’s shift away from exclusivity, giving cloud customers more ways to use AI tools.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-amazon-openai-aws-microsoft-cloud-ai/",
+      "category": "Business",
+      "date": "2026-04-29T20:09:57.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/?p=4357658",
+      "title": "New Apple Rumor: iOS 27 Could Add AI Editing Tools to Photos",
+      "summary": "Apple reportedly plans new AI editing tools for Photos in iOS 27, including image expansion, spatial photo reframing, and smarter enhancements.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-apple-photos-ai-editing-tools-ios-27/",
+      "category": "Business",
+      "date": "2026-04-29T19:41:32.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
       "id": "https://decrypt.co/?p=366077",
       "title": "Celsius Founder Alex Mashinsky Banned From Crypto Industry in $10 Million FTC Settlement",
       "summary": "The settlement represents a massive reduction from an initial $4.7 billion judgment against the Celsius founder.",
@@ -110,6 +165,17 @@
       "date": "2026-04-29T19:15:42.000Z",
       "hot": false,
       "officialUrl": "https://www.zdnet.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/?p=4357630",
+      "title": "SAS Launches AI Governance Tools to Tame Agentic AI in the Enterprise",
+      "summary": "SAS expands Viya with governed AI agents, copilots, and new governance tools aimed at helping enterprises manage shadow AI and build trust in automation.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-sas-agentic-ai-governance-tools/",
+      "category": "Business",
+      "date": "2026-04-29T19:13:21.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "https://techcrunch.com/?post_type=tc_podcast&p=3117569",
@@ -354,6 +420,17 @@
       "officialUrl": "https://decrypt.co"
     },
     {
+      "id": "https://www.techrepublic.com/?p=4248378",
+      "title": "This $30 Subscription Will Bring AI Into Your Business",
+      "summary": "Tap into the power of OpenAI, Meta, Midjourney, and additional powerful AI models with 1min.AI.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/1minai-pro-plan-lifetime-subscription/",
+      "category": "Business",
+      "date": "2026-04-29T14:00:36.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
       "id": "https://www.theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout",
       "title": "Larry’s risky business",
       "summary": "Oracular spectacular? | Image: Cath Virginia / The Verge\t\n\nIf you want to know whether the AI bubble is bursting, there's only one publicly traded company that will tell you: Oracle.\nThat's right, the database company. Oracle has burned its boats and pivoted to AI, but not in ...",
@@ -530,17 +607,6 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "c13be819-64e0-4fc7-afb3-0fceacbe099e",
-      "title": "Over 80% of US government agencies already use AI agents - and it's only the beginning",
-      "summary": "A new survey finds most government leaders believe that by 2030, the public sector will consist of humans and AI agents working together.",
-      "source": "ZDNet AI",
-      "sourceUrl": "https://www.zdnet.com/article/government-adoption-of-ai-agents-may-outpace-the-private-sector/",
-      "category": "Industry",
-      "date": "2026-04-28T19:12:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.zdnet.com"
-    },
-    {
       "id": "https://techcrunch.com/?p=3117138",
       "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
       "summary": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
@@ -572,6 +638,28 @@
       "date": "2026-04-28T18:15:00.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/?p=4357460",
+      "title": "Samsung Galaxy Glasses Leak: Pricing, Specs, and Launch Timeline Revealed",
+      "summary": "Samsung’s rumored smart glasses may challenge Meta with AI features, display-free design, leaked pricing, and a possible 2027 AR roadmap.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-samsung-smart-glasses-ai-leak/",
+      "category": "Business",
+      "date": "2026-04-28T16:38:05.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/?p=4357450",
+      "title": "Apple’s $599 Mac mini Sells Out, Resurfaces on eBay Above Retail",
+      "summary": "Apple’s sold-out $599 M4 Mac mini is getting marked up on eBay as buyers chase compact machines for local AI work while supplies stay tight.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-apple-mac-mini-ai-ebay-markups/",
+      "category": "Business",
+      "date": "2026-04-28T16:18:12.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "https://blogs.nvidia.com/?p=92732",
@@ -607,6 +695,17 @@
       "officialUrl": "https://huggingface.co"
     },
     {
+      "id": "https://www.techrepublic.com/?p=4357446",
+      "title": "Google, Kaggle Relaunch Free AI Course Focused on ‘Vibe Coding’",
+      "summary": "Google and Kaggle’s free AI agents course returns June 15-19, with vibe coding lessons, live sessions, and a hands-on capstone project.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-google-kaggle-ai-agents-course-vibe-coding/",
+      "category": "Business",
+      "date": "2026-04-28T15:53:45.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
       "id": "https://techcrunch.com/?p=3116933",
       "title": "YouTube is testing an AI-powered search feature that shows guided answers",
       "summary": "YouTube is rolling out the new AI search feature to Premium subscribers in the U.S. on an opt-in basis.",
@@ -618,15 +717,15 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "https://techcrunch.com/?p=3116810",
-      "title": "BCI startup Neurable looks to license its ‘mind-reading’ tech for consumer wearables",
-      "summary": "The startup specializes in \"non-invasive\" \"mind-reading\" tech — a kind of neural data collection that, its CEO hopes, will have all sorts of consumer applications.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/",
+      "id": "https://www.techrepublic.com/?p=4325473",
+      "title": "Stop Juggling AI Tools — This Lifetime Deal Puts GPT‑4o and More in One Place",
+      "summary": "Harness multiple top-tier models like GPT‑4o, Claude, Gemini, and more in one unified platform, now $75.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/chatplayground-ai/",
       "category": "Business",
-      "date": "2026-04-28T13:19:34.000Z",
+      "date": "2026-04-28T13:00:24.000Z",
       "hot": false,
-      "officialUrl": "https://techcrunch.com"
+      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "69ef5ad6cbaa77bdcc0d5088",
@@ -640,6 +739,17 @@
       "officialUrl": "https://www.wired.com"
     },
     {
+      "id": "https://www.techrepublic.com/?p=4344993",
+      "title": "Visual Studio 2026 Brings AI Deeper Into Development and It’s 90% Off Right Now",
+      "summary": "Microsoft's latest 64-bit IDE adds AI-assisted coding, faster performance, and advanced collaboration tools.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/microsoft-visual-studio-professional-2026/",
+      "category": "Business",
+      "date": "2026-04-28T12:30:40.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
       "id": "69e6619787b133ef85891068",
       "title": "The Bloomberg Terminal Is Getting an AI Makeover, Like It or Not",
       "summary": "WIRED spoke with Bloomberg’s chief technology officer about the big, chatbot-style changes coming to the iconic platform for traders.",
@@ -651,15 +761,15 @@
       "officialUrl": "https://www.wired.com"
     },
     {
-      "id": "https://openai.com/index/our-commitment-to-community-safety",
-      "title": "Our commitment to community safety",
-      "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/our-commitment-to-community-safety",
-      "category": "Models",
-      "date": "2026-04-28T00:00:00.000Z",
+      "id": "https://www.techrepublic.com/?p=4357305",
+      "title": "Google Cloud Next AI Keynote: 5 Takeaways for IT Leaders",
+      "summary": "Thomas Kurian’s Google Cloud Next keynote framed Google’s agentic AI vision. Here are five key takeaways for IT leaders.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-google-cloud-next-keynote-agentic-ai-takeaways/",
+      "category": "Business",
+      "date": "2026-04-28T07:53:08.000Z",
       "hot": false,
-      "officialUrl": "https://openai.com"
+      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "https://openai.com/index/openai-on-aws",
@@ -667,6 +777,17 @@
       "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
       "source": "OpenAI News",
       "sourceUrl": "https://openai.com/index/openai-on-aws",
+      "category": "Models",
+      "date": "2026-04-28T00:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://openai.com"
+    },
+    {
+      "id": "https://openai.com/index/our-commitment-to-community-safety",
+      "title": "Our commitment to community safety",
+      "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/our-commitment-to-community-safety",
       "category": "Models",
       "date": "2026-04-28T00:00:00.000Z",
       "hot": false,
@@ -751,6 +872,50 @@
       "category": "Curation",
       "date": "2026-04-28T00:00:00.000Z",
       "hot": true
+    },
+    {
+      "id": "https://www.techrepublic.com/?p=4357191",
+      "title": "China Shuts Down Meta’s $2.5B Bid for AI Startup Manus",
+      "summary": "China has blocked Meta’s $2.5 billion Manus AI acquisition, raising new questions about cross-border AI deals and who controls agent technology.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-china-blocks-meta-2-5b-manus-ai-deal/",
+      "category": "Business",
+      "date": "2026-04-27T18:10:26.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/?p=4357172",
+      "title": "China Startup Secures $8.4B in Credit Lines for Orbital Data Center Push",
+      "summary": "China’s Orbital Chenguang secured major credit lines for space-based data centers as AI demand strains power, land, and cooling capacity.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-china-orbital-data-centers-apac/",
+      "category": "Business",
+      "date": "2026-04-27T16:25:42.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/?p=4357129",
+      "title": "The Prompt Engineering Cheat Sheet: How to Write Better AI Prompts",
+      "summary": "Learn prompt engineering with this practical cheat sheet that covers frameworks, techniques, and tips for producing more accurate and useful AI outputs.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-prompt-engineering-cheat-sheet-guide/",
+      "category": "Business",
+      "date": "2026-04-27T15:59:45.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/?p=4357123",
+      "title": "EU Funds Sovereign Cloud Infrastructure with €180 Million Contract",
+      "summary": "The European Commission has awarded a €180 million contract to four providers—Post Telecom, STACKIT, Scaleway, and Proximus—to provide sovereign cloud services, ensuring EU data remains under European legal and strategic control.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/eu-180-million-sovereign-cloud-contract/",
+      "category": "Business",
+      "date": "2026-04-27T14:27:27.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "https://openai.com/index/openai-available-at-fedramp-moderate",
