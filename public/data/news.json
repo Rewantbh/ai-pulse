@@ -1,6 +1,61 @@
 {
-  "lastUpdated": "2026-04-30T18:51:48.420Z",
+  "lastUpdated": "2026-04-30T20:07:03.769Z",
   "news": [
+    {
+      "id": "https://decrypt.co/?p=366262",
+      "title": "OpenAI Rolls Out Advanced Account Security for ChatGPT Users",
+      "summary": "OpenAI's new opt-in security feature requires passkeys, limits recovery options, and excludes chats from training.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/366262/openai-advanced-account-security-chatgpt-users",
+      "category": "Tech",
+      "date": "2026-04-30T19:51:43.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://decrypt.co/?p=366247",
+      "title": "Ubuntu Linux Is Adding AI Features—Its Users Are Worried",
+      "summary": "Canonical announced plans to bake AI into Linux's most popular distro. The community that chose Ubuntu specifically to avoid this kind of thing was not thrilled.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/366247/ubuntu-linux-adding-ai-features-users-worried",
+      "category": "Tech",
+      "date": "2026-04-30T19:33:26.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3118095",
+      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
+      "summary": "OpenAI will begin rolling out it cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+      "category": "Business",
+      "date": "2026-04-30T19:27:41.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+      "title": "All the evidence unveiled so far in Musk v. Altman",
+      "summary": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab ev...",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+      "category": "Industry",
+      "date": "2026-04-30T19:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "69ef85e487c24c30ec9667da",
+      "title": "Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?",
+      "summary": "In this episode of Uncanny Valley, Wired AI get into how the Elon Musk-Sam Altman trial goes way beyond their rivalry and could have major implications both for OpenAI and also the AI industry at large.",
+      "source": "Wired AI",
+      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-musk-v-altman-doj-guts-voting-rights-unit-is-ai-job-apocalypse-overhyped/",
+      "category": "Industry",
+      "date": "2026-04-30T18:54:54.000Z",
+      "hot": false,
+      "officialUrl": "https://www.wired.com"
+    },
     {
       "id": "https://decrypt.co/?p=366241",
       "title": "North Korean Hackers Have Stolen $6 Billion in Crypto—Including 76% of 2026's Spoils: TRM",
@@ -11,6 +66,17 @@
       "date": "2026-04-30T18:42:53.000Z",
       "hot": false,
       "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://www.techrepublic.com/?p=4357814",
+      "title": "AWS Expands Amazon Connect Into AI Tools for Hiring, Healthcare, and Supply Chains",
+      "summary": "AWS expanded Amazon Connect into four agentic AI tools for supply chain, hiring, customer service, and healthcare workflows, with humans still in control.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-aws-amazon-connect-agentic-ai-tools/",
+      "category": "Business",
+      "date": "2026-04-30T18:34:28.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "https://techcrunch.com/?p=3117592",
@@ -354,17 +420,6 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/921073/openai-sam-altman-new-cybersecurity-model-gpt-5-5-cyber",
-      "title": "OpenAI’s new security model is for ‘critical cyber defenders’ only",
-      "summary": "OpenAI is preparing to launch a new frontier cybersecurity model, GPT-5.5-Cyber. CEO Sam Altman said the model will not be available to the general public, but will be first rolled out to a select group of trusted \"cyber defenders\" in order for institutions to shore up their c...",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/921073/openai-sam-altman-new-cybersecurity-model-gpt-5-5-cyber",
-      "category": "Industry",
-      "date": "2026-04-30T11:09:01.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
       "id": "69d4101c428586112bdcd3cb",
       "title": "These Men Allegedly Profit Off Teaching People How to Make AI Porn",
       "summary": "Three Arizona women have filed a lawsuit against a group of men that alleges they used the women’s photos to make AI porn influencers, then offered online courses showing others how to do it.",
@@ -541,17 +596,6 @@
       "officialUrl": "https://www.wired.com"
     },
     {
-      "id": "https://techcrunch.com/?p=3117669",
-      "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
-      "summary": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
-      "category": "Business",
-      "date": "2026-04-29T23:02:23.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
       "id": "https://decrypt.co/?p=366100",
       "title": "Google and Microsoft Just Proved the AI Trade Is Alive—While OpenAI Is Sweating",
       "summary": "Alphabet and Microsoft crushed Q1 estimates on the same day, with Google Cloud up 63% and Microsoft's AI business hitting a $37 billion run rate.",
@@ -607,28 +651,6 @@
       "officialUrl": "https://www.wired.com"
     },
     {
-      "id": "https://decrypt.co/?p=366090",
-      "title": "Key Senator Pushes for Vote on Clarity Act—But Hurdles Remain",
-      "summary": "Thom Tillis, a swing GOP vote on the Senate Banking Committee, says his colleagues should take up a months-delayed vote on the crypto bill.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/366090/key-senator-clarity-act-vote-hurdles-remain",
-      "category": "Tech",
-      "date": "2026-04-29T20:31:47.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "https://decrypt.co/?p=366087",
-      "title": "Meta Launches USDC Stablecoin Creator Payouts on Solana and Polygon via Stripe",
-      "summary": "Facebook and Instagram parent company Meta is now offering stablecoin payouts to content creators in certain countries.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/366087/meta-launches-usdc-stablecoin-creator-payouts-on-solana-and-polygon-via-stripe",
-      "category": "Tech",
-      "date": "2026-04-29T20:10:14.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
       "id": "https://www.techrepublic.com/?p=4357664",
       "title": "AWS to Resell OpenAI Products After Microsoft Loses Exclusive License",
       "summary": "Amazon is bringing OpenAI's models and Codex to AWS after Microsoft’s shift away from exclusivity, giving cloud customers more ways to use AI tools.",
@@ -660,17 +682,6 @@
       "date": "2026-04-29T19:41:32.000Z",
       "hot": false,
       "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=366077",
-      "title": "Celsius Founder Alex Mashinsky Banned From Crypto Industry in $10 Million FTC Settlement",
-      "summary": "The settlement represents a massive reduction from an initial $4.7 billion judgment against the Celsius founder.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/366077/celsius-founder-alex-mashinsky-banned-crypto-industry-10m-ftc-settlement",
-      "category": "Tech",
-      "date": "2026-04-29T19:39:10.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
     },
     {
       "id": "https://www.techrepublic.com/?p=4357630",
@@ -759,17 +770,6 @@
       "date": "2026-04-29T10:00:00.000Z",
       "hot": false,
       "officialUrl": "https://news.mit.edu"
-    },
-    {
-      "id": "69ea1d45ace51dfd0585df99",
-      "title": "How AI Could Help Combat Antibiotic Resistance",
-      "summary": "At WIRED Health, British surgeon Ara Darzi said AI is set to transform the diagnosis and treatment of drug-resistant infections. But a lack of incentives means innovation may not reach patients.",
-      "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/wired-health-2026-tackling-antimicrobial-resistance-ara-darzi/",
-      "category": "Industry",
-      "date": "2026-04-29T09:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.wired.com"
     },
     {
       "id": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
