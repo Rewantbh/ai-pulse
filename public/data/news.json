@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2026-05-07T23:48:25.690Z",
+  "lastUpdated": "2026-05-08T02:28:00.753Z",
   "news": [
+    {
+      "id": "69fd130464b2ad9bfec628ae",
+      "title": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
+      "summary": "Leaders at the tech giant were skeptical of OpenAI—but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
+      "source": "Wired AI",
+      "sourceUrl": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
+      "category": "Industry",
+      "date": "2026-05-08T01:42:14.000Z",
+      "hot": false,
+      "officialUrl": "https://www.wired.com"
+    },
+    {
+      "id": "2eb4b533-9a32-4901-bd90-65deb2c909f7",
+      "title": "After using Lenovo's $2,600 Yoga, I'm taking premium Windows laptops seriously again",
+      "summary": "Lenovo's Pro 9i Aura Edition is a powerful laptop that fields strong, sustained performance, a vivid display, and a robust cooling system.",
+      "source": "ZDNet AI",
+      "sourceUrl": "https://www.zdnet.com/article/lenovo-pro-9i-aura-edition-review/",
+      "category": "Industry",
+      "date": "2026-05-08T01:01:01.000Z",
+      "hot": false,
+      "officialUrl": "https://www.zdnet.com"
+    },
     {
       "id": "https://decrypt.co/?p=367154",
       "title": "Solv Protocol Will Dump LayerZero, Migrate $700M Tokenized Bitcoin Tech to Chainlink",
@@ -58,7 +80,7 @@
     },
     {
       "id": "https://decrypt.co/?p=367193",
-      "title": "Chrome Deletes Its Own Privacy Promise for Sneaky On-Device AI",
+      "title": "Chrome Deleted Its Own Privacy Promise for Sneaky On-Device AI",
       "summary": "Chrome is quietly installing a 4GB AI on your devices. And now, its latest version has removed the disclosure that promised to keep your data off Google’s servers.",
       "source": "Decrypt AI",
       "sourceUrl": "https://decrypt.co/367193/chrome-removes-privacy-claim-gemini-nano-google",
@@ -275,17 +297,6 @@
       "date": "2026-05-07T16:32:16.000Z",
       "hot": false,
       "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "2eb4b533-9a32-4901-bd90-65deb2c909f7",
-      "title": "This Lenovo laptop might be its most competitive Dell XPS rival yet - my test results prove it",
-      "summary": "Lenovo's Pro 9i Aura Edition is a powerful laptop that boasts strong sustained performance, a vivid display, and a robust cooling system.",
-      "source": "ZDNet AI",
-      "sourceUrl": "https://www.zdnet.com/article/lenovo-pro-9i-aura-edition-review/",
-      "category": "Industry",
-      "date": "2026-05-07T16:26:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.zdnet.com"
     },
     {
       "id": "69ebbc844d198adf5e58ce70",
@@ -541,6 +552,17 @@
       "officialUrl": "https://openai.com"
     },
     {
+      "id": "https://openai.com/index/simplex",
+      "title": "Simplex rethinks software development with Codex",
+      "summary": "Simplex boosts software development with ChatGPT Enterprise and Codex, reducing design, build, and testing time while scaling AI-driven workflows.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/simplex",
+      "category": "Models",
+      "date": "2026-05-07T00:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://openai.com"
+    },
+    {
       "id": "https://aiweekly.co/issues/anthropic-just-had-ais-biggest-week-of-2026",
       "title": "AI Weekly Issue #490: Anthropic just had AI's biggest week of 2026",
       "summary": "In five days Anthropic's Q1 revenue grew 80-fold to a reported $44B annual run rate, the company committed $200B to Google Cloud, signed a SpaceX compute deal, shipped Claude Code Auto Mode, and launched ten financial-services agents with Jamie Dimon. In the same week the EU f...",
@@ -594,17 +616,6 @@
       "date": "2026-05-06T20:18:00.000Z",
       "hot": false,
       "officialUrl": "https://www.theverge.com"
-    },
-    {
-      "id": "a55d6a6a-e589-44a8-8561-9c2aac8e0b8a",
-      "title": "Roku sued for allegedly bricking TVs - see which models are affected, and your best alternatives",
-      "summary": "Many users are reporting that Roku TVs get stuck in boot loops, show black screens, or are otherwise unusable.",
-      "source": "ZDNet AI",
-      "sourceUrl": "https://www.zdnet.com/article/roku-is-being-sued-for-allegedly-bricking-tvs/",
-      "category": "Industry",
-      "date": "2026-05-06T20:13:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.zdnet.com"
     },
     {
       "id": "https://www.techrepublic.com/?p=4358274",
@@ -717,17 +728,6 @@
       "officialUrl": "https://blog.google"
     },
     {
-      "id": "69fa0baec827f546ccf61407",
-      "title": "Hackers Hate AI Slop Even More Than You Do",
-      "summary": "It's not just you. Scammers, hackers, and other cybercriminals are complaining about “AI shit” flooding platforms where they discuss cyberattacks and other illegal activity.",
-      "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/",
-      "category": "Industry",
-      "date": "2026-05-06T15:49:12.000Z",
-      "hot": false,
-      "officialUrl": "https://www.wired.com"
-    },
-    {
       "id": "https://blogs.nvidia.com/?p=92837",
       "title": "NVIDIA Spectrum-X — the Open, AI-Native Ethernet Fabric — Sets the Standard for Gigascale AI, Now...",
       "summary": "The race to build the world’s most powerful AI factories demands networking that keeps pace with the ambitions of AI itself.  NVIDIA Spectrum-X Ethernet scale-out infrastructure stands at the forefront of that race as the most advanced AI networking technology available today,...",
@@ -750,22 +750,22 @@
       "officialUrl": "https://deepmind.google"
     },
     {
-      "id": "https://openai.com/index/introducing-b2b-signals",
-      "title": "How frontier firms are pulling ahead",
-      "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
+      "id": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+      "title": "Introducing ChatGPT Futures: Class of 2026",
+      "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
       "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/introducing-b2b-signals",
+      "sourceUrl": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
       "category": "Models",
       "date": "2026-05-06T00:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
     },
     {
-      "id": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-      "title": "Introducing ChatGPT Futures: Class of 2026",
-      "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
+      "id": "https://openai.com/index/introducing-b2b-signals",
+      "title": "How frontier firms are pulling ahead",
+      "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
       "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+      "sourceUrl": "https://openai.com/index/introducing-b2b-signals",
       "category": "Models",
       "date": "2026-05-06T00:00:00.000Z",
       "hot": false,
@@ -876,17 +876,6 @@
       "officialUrl": "https://blogs.nvidia.com"
     },
     {
-      "id": "https://openai.com/index/gpt-5-5-instant-system-card",
-      "title": "GPT-5.5 Instant System Card",
-      "summary": "",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/gpt-5-5-instant-system-card",
-      "category": "Models",
-      "date": "2026-05-05T10:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com"
-    },
-    {
       "id": "https://openai.com/index/mrc-supercomputer-networking",
       "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
       "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
@@ -909,165 +898,15 @@
       "officialUrl": "https://openai.com"
     },
     {
-      "id": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
-      "title": "New ways to buy ChatGPT ads",
-      "summary": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.",
+      "id": "https://openai.com/index/gpt-5-5-instant-system-card",
+      "title": "GPT-5.5 Instant System Card",
+      "summary": "",
       "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+      "sourceUrl": "https://openai.com/index/gpt-5-5-instant-system-card",
       "category": "Models",
-      "date": "2026-05-05T00:00:00.000Z",
+      "date": "2026-05-05T10:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://openclaw.ai/blog/openclaw-rough-week?utm_source=futuretools.io&amp;utm_medium=newspage",
-      "title": "OpenClaw Apologizes for Release Issues, Plans Smaller Core and LTS",
-      "summary": "FutureTools News highlights: OpenClaw Apologizes for Release Issues, Plans Smaller Core and LTS. Read more on the original source.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://openclaw.ai/blog/openclaw-rough-week?utm_source=futuretools.io&amp;utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-05-05T00:00:00.000Z",
-      "hot": true
-    },
-    {
-      "id": "https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel?utm_source=futuretools.io&amp;utm_medium=newspage",
-      "title": "Google DeepMind Workers Vote to Unionize Over AI Military Contracts",
-      "summary": "FutureTools News highlights: Google DeepMind Workers Vote to Unionize Over AI Military Contracts. Read more on the original source.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel?utm_source=futuretools.io&amp;utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-05-05T00:00:00.000Z",
-      "hot": true
-    },
-    {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/924017/google-microsoft-xai-government-review?utm_source=futuretools.io&amp;utm_medium=newspage",
-      "title": "Google, Microsoft, xAI to Let US Review New AI Models Before Release",
-      "summary": "FutureTools News highlights: Google, Microsoft, xAI to Let US Review New AI Models Before Release. Read more on the original source.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/924017/google-microsoft-xai-government-review?utm_source=futuretools.io&amp;utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-05-05T00:00:00.000Z",
-      "hot": true
-    },
-    {
-      "id": "https://about.fb.com/news/2026/05/ai-age-assurance-teens/?utm_source=futuretools.io&amp;utm_medium=newspage",
-      "title": "Meta Expands AI Age Assurance to Place Teens in Safer Accounts",
-      "summary": "FutureTools News highlights: Meta Expands AI Age Assurance to Place Teens in Safer Accounts. Read more on the original source.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://about.fb.com/news/2026/05/ai-age-assurance-teens/?utm_source=futuretools.io&amp;utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-05-05T00:00:00.000Z",
-      "hot": true
-    },
-    {
-      "id": "https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright?utm_source=futuretools.io&amp;utm_medium=newspage",
-      "title": "Meta sued by book publishers over alleged Llama AI copyright copying",
-      "summary": "FutureTools News highlights: Meta sued by book publishers over alleged Llama AI copyright copying. Read more on the original source.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright?utm_source=futuretools.io&amp;utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-05-05T00:00:00.000Z",
-      "hot": true
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/?utm_source=futuretools.io&amp;utm_medium=newspage",
-      "title": "Google Adds Multi-Token Prediction Drafters to Speed Gemma 4 Inference",
-      "summary": "FutureTools News highlights: Google Adds Multi-Token Prediction Drafters to Speed Gemma 4 Inference. Read more on the original source.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/?utm_source=futuretools.io&amp;utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-05-05T00:00:00.000Z",
-      "hot": true
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/servicenow-autonomous-ai-agents-enterprises/?utm_source=futuretools.io&amp;utm_medium=newspage",
-      "title": "NVIDIA and ServiceNow Partner on Autonomous AI Agents for Enterprises",
-      "summary": "FutureTools News highlights: NVIDIA and ServiceNow Partner on Autonomous AI Agents for Enterprises. Read more on the original source.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://blogs.nvidia.com/blog/servicenow-autonomous-ai-agents-enterprises/?utm_source=futuretools.io&amp;utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-05-05T00:00:00.000Z",
-      "hot": true
-    },
-    {
-      "id": "https://openai.com/index/new-ways-to-buy-chatgpt-ads/?utm_source=futuretools.io&amp;utm_medium=newspage",
-      "title": "OpenAI Expands ChatGPT Ads With Self-Serve Manager and CPC Bidding",
-      "summary": "FutureTools News highlights: OpenAI Expands ChatGPT Ads With Self-Serve Manager and CPC Bidding. Read more on the original source.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://openai.com/index/new-ways-to-buy-chatgpt-ads/?utm_source=futuretools.io&amp;utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-05-05T00:00:00.000Z",
-      "hot": true
-    },
-    {
-      "id": "https://openai.com/index/gpt-5-5-instant/?utm_source=futuretools.io&amp;utm_medium=newspage",
-      "title": "OpenAI launches GPT-5.5 Instant as smarter default ChatGPT model",
-      "summary": "FutureTools News highlights: OpenAI launches GPT-5.5 Instant as smarter default ChatGPT model. Read more on the original source.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://openai.com/index/gpt-5-5-instant/?utm_source=futuretools.io&amp;utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-05-05T00:00:00.000Z",
-      "hot": true
-    },
-    {
-      "id": "https://www.anthropic.com/news/finance-agents?utm_source=futuretools.io&amp;utm_medium=newspage",
-      "title": "Anthropic Releases Claude Agent Templates for Finance and Insurance",
-      "summary": "FutureTools News highlights: Anthropic Releases Claude Agent Templates for Finance and Insurance. Read more on the original source.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://www.anthropic.com/news/finance-agents?utm_source=futuretools.io&amp;utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-05-05T00:00:00.000Z",
-      "hot": true
-    },
-    {
-      "id": "https://www.perplexity.ai/hub/blog/announcing-premium-health-sources?utm_source=futuretools.io&amp;utm_medium=newspage",
-      "title": "Perplexity Launches Premium Health Sources for Medical Answers",
-      "summary": "FutureTools News highlights: Perplexity Launches Premium Health Sources for Medical Answers. Read more on the original source.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://www.perplexity.ai/hub/blog/announcing-premium-health-sources?utm_source=futuretools.io&amp;utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-05-05T00:00:00.000Z",
-      "hot": true
-    },
-    {
-      "id": "https://x.com/exec_sum/status/2051697983197225029?utm_source=futuretools.io&amp;utm_medium=newspage",
-      "title": "Nvidia, PulteGroup Partner With Span to Put AI Mini Data Centers in New Homes",
-      "summary": "FutureTools News highlights: Nvidia, PulteGroup Partner With Span to Put AI Mini Data Centers in New Homes. Read more on the original source.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://x.com/exec_sum/status/2051697983197225029?utm_source=futuretools.io&amp;utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-05-05T00:00:00.000Z",
-      "hot": true
-    },
-    {
-      "id": "https://x.com/alex_whedon/status/2051663268704636937?utm_source=futuretools.io&amp;utm_medium=newspage",
-      "title": "Subquadratic Unveils SubQ LLM With 12M-Token Context and Sparse Attention",
-      "summary": "FutureTools News highlights: Subquadratic Unveils SubQ LLM With 12M-Token Context and Sparse Attention. Read more on the original source.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://x.com/alex_whedon/status/2051663268704636937?utm_source=futuretools.io&amp;utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-05-05T00:00:00.000Z",
-      "hot": true
-    },
-    {
-      "id": "https://www.theinformation.com/articles/anthropic-commits-spending-200-billion-googles-cloud-chips?utm_source=futuretools.io&amp;utm_medium=newspage",
-      "title": "Anthropic to Spend $200B on Google Cloud and AI Chips Over Five Years",
-      "summary": "FutureTools News highlights: Anthropic to Spend $200B on Google Cloud and AI Chips Over Five Years. Read more on the original source.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://www.theinformation.com/articles/anthropic-commits-spending-200-billion-googles-cloud-chips?utm_source=futuretools.io&amp;utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-05-05T00:00:00.000Z",
-      "hot": true
-    },
-    {
-      "id": "https://x.com/brian_armstrong/status/2051616759145185723?utm_source=futuretools.io&amp;utm_medium=newspage",
-      "title": "Coinbase Cuts 14% of Staff in Push to Become AI-Native",
-      "summary": "FutureTools News highlights: Coinbase Cuts 14% of Staff in Push to Become AI-Native. Read more on the original source.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://x.com/brian_armstrong/status/2051616759145185723?utm_source=futuretools.io&amp;utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-05-05T00:00:00.000Z",
-      "hot": true
     }
   ]
 }
