@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2026-05-12T21:21:18.800Z",
+  "lastUpdated": "2026-05-12T22:40:49.547Z",
   "news": [
+    {
+      "id": "https://decrypt.co/?p=367683",
+      "title": "Hackers Insert Malware Into Mistral AI Software Download",
+      "summary": "Microsoft Threat Intelligence said attackers placed malicious code inside a Mistral AI software download distributed through a Python package.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/367683/hackers-insert-malware-mistral-ai",
+      "category": "Tech",
+      "date": "2026-05-12T22:26:18.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
     {
       "id": "https://decrypt.co/?p=367659",
       "title": "Fake OpenAI Repo Hit #1 on Hugging Face—And Stole Passwords While It Trended",
@@ -288,6 +299,17 @@
       "officialUrl": "https://www.zdnet.com"
     },
     {
+      "id": "https://openai.com/academy/codex-for-work/how-finance-teams-use-codex",
+      "title": "How finance teams use Codex",
+      "summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/academy/codex-for-work/how-finance-teams-use-codex",
+      "category": "Models",
+      "date": "2026-05-12T15:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://openai.com"
+    },
+    {
       "id": "https://news.mit.edu/2026/universal-ai-pathway-to-ai-fluency-accessible-to-anyone-0512",
       "title": "Universal AI is “a pathway to AI fluency that’s accessible and approachable to anyone, anywhere”",
       "summary": "New AI education program from MIT Open Learning debuts with AI-powered personalization and a free introductory course for learners everywhere.",
@@ -363,28 +385,6 @@
       "date": "2026-05-12T12:08:25.000Z",
       "hot": false,
       "officialUrl": "https://www.zdnet.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=367530",
-      "title": "Morning Minute: Circle Stock Soars After Q1 Beat, $222M Arc Raise",
-      "summary": "Circle just beat earnings and raised fresh capital for its new Arc blockchain, while Michael Saylor explained how and why he'd sell Bitcoin.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/367530/morning-minute-circle-stock-soars-after-q1-beat-222m-arc-raise",
-      "category": "Tech",
-      "date": "2026-05-12T11:55:03.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "https://decrypt.co/?p=367533",
-      "title": "Senate Banking Panel Releases CLARITY Act Draft Ahead of Thursday Markup",
-      "summary": "The draft text contained provisions that could permanently exempt Bitcoin and Ethereum from securities law.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/367533/senate-banking-panel-releases-clarity-act-draft-ahead-of-thursday-markup",
-      "category": "Tech",
-      "date": "2026-05-12T11:48:47.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
     },
     {
       "id": "https://techcrunch.com/?p=3121201",
@@ -475,11 +475,33 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
+      "id": "https://openai.com/index/nvidia",
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/nvidia",
+      "category": "Models",
+      "date": "2026-05-12T00:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://openai.com"
+    },
+    {
       "id": "https://openai.com/index/what-parameter-golf-taught-us",
       "title": "What Parameter Golf taught us about AI-assisted research",
       "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
       "source": "OpenAI News",
       "sourceUrl": "https://openai.com/index/what-parameter-golf-taught-us",
+      "category": "Models",
+      "date": "2026-05-12T00:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://openai.com"
+    },
+    {
+      "id": "https://openai.com/index/autoscout24",
+      "title": "AutoScout24 scales engineering with AI-powered workflows",
+      "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/autoscout24",
       "category": "Models",
       "date": "2026-05-12T00:00:00.000Z",
       "hot": false,
