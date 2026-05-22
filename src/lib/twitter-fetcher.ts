@@ -1,4 +1,4 @@
-import { NewsItem } from "./news-fetcher";
+import { NewsItem, neutralizeSummary } from "./news-fetcher";
 import fs from "fs";
 import path from "path";
 
@@ -53,14 +53,17 @@ export async function fetchAllTweets(): Promise<NewsItem[]> {
           .replace(/\s+/g, " ") // Collapse whitespace
           .trim();
 
-        if (cleanSummary.length > 280) {
-          cleanSummary = cleanSummary.substring(0, 277) + "...";
+        // Neutralize and format into professional third-person neutral style
+        let neutralizedSummary = neutralizeSummary(cleanSummary, `X: ${handle.name}`);
+
+        if (neutralizedSummary.length > 1500) {
+          neutralizedSummary = neutralizedSummary.substring(0, 1497) + "...";
         }
 
         newsItems.push({
           id: tweet.url,
           title: title,
-          summary: cleanSummary,
+          summary: neutralizedSummary,
           source: `X: ${handle.name}`,
           sourceUrl: tweet.url,
           category: "Tools",

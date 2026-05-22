@@ -152,4 +152,15 @@ export const RSS_FEEDS: NewsSource[] = [
     category: "Curation",
     scraperMode: true,
   },
+  {
+    name: "LangChain Blog",
+    url: "https://www.langchain.com/blog",
+    category: "Tools",
+    scraperMode: true,
+  },
+  {
+    name: "LlamaIndex Blog",
+    url: "https://medium.com/feed/llamaindex-blog",
+    category: "Tools",
+  },
 ];

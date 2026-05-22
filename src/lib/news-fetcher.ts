@@ -1,6 +1,6 @@
 import Parser from "rss-parser";
 import { RSS_FEEDS, NewsSource } from "./rss-feeds";
-import { scrapeNewsFromSource } from "./scraper-engine";
+import { scrapeNewsFromSource, verifyArticleDateAndSummary } from "./scraper-engine";
 import fs from "fs";
 import path from "path";
 
@@ -31,21 +31,26 @@ export interface NewsItem {
   officialUrl?: string;
 }
 
-/**
- * Drops general tech fluff (gas apps, router tips) if it doesn't mention AI keys.
- */
 function isAIContent(title: string, summary: string, source: string): boolean {
   const aiKeywords = [
-    "ai", "gpt", "llm", "claude", "gemini", "anthropic", "openai", "mistral", 
-    "llama", "perpective", "suno", "pika", "model", "neural", "machine learning",
+    "ai", "gpt", "llm", "llms", "claude", "gemini", "anthropic", "openai", "mistral", 
+    "llama", "perspective", "suno", "pika", "model", "neural", "machine learning",
     "deep learning", "chatbot", "generative", "stable diffusion", "midjourney", 
-    "copilot", "chatgpt", "gpu", "nvidia", "huggingface", "robot"
+    "copilot", "chatgpt", "gpu", "nvidia", "huggingface", "robot", "robotic",
+    "agent", "agentic", "workflow", "workflows", "swarm", "swarms", "reasoning", 
+    "autonomous", "deepseek", "qwen", "grok", "xai", "autogen", "crewai", "langchain", 
+    "llamaindex", "rag", "embedding", "vector database", "multi-agent", "function calling", 
+    "tool use", "action transformer", "vlm", "vla", "reinforcement learning", "rlhf"
   ];
   const combined = (title + " " + summary).toLowerCase();
   
-  // High-authority AI sources get a free pass
-  const aiSources = ["Anthropic", "Mistral", "OpenAI", "Suno", "Pika", "Cohere", "Perplexity"];
-  if (aiSources.some(s => source.includes(s))) return true;
+  // High-authority AI sources get a free pass (including tech giants and specialized agent labs)
+  const aiSources = [
+    "Anthropic", "Mistral", "OpenAI", "Suno", "Pika", "Cohere", "Perplexity",
+    "Google", "DeepMind", "NVIDIA", "Meta", "Microsoft", "Hugging Face",
+    "LangChain", "LlamaIndex", "xAI", "Cognition", "DeepSeek", "FutureTools"
+  ];
+  if (aiSources.some(s => source.toLowerCase().includes(s.toLowerCase()))) return true;
 
   // For general sources, require at least one AI keyword
   return aiKeywords.some(kw => combined.includes(kw));
@@ -77,17 +82,28 @@ function cleanSummary(text: string): string {
 /**
  * Transforms first-person narratives into neutral, third-person perspective.
  */
-function neutralizeSummary(text: string, source: string): string {
+export function neutralizeSummary(text: string, source: string): string {
   if (!text) return "";
   let result = cleanSummary(text);
   
-  const sourceName = source.replace(/ (Blog|News|Weekly|Tech|Daily|Report)/i, "");
+  const sourceName = source.replace(/(Blog|News|Weekly|Tech|Daily|Report|X:)/gi, "").trim() || source;
+  
+  // 1. Contractions and multi-word phrases first to avoid partial matching bugs (supporting straight and curly apostrophes)
   const replacements: [RegExp, string][] = [
+    [/\b(I am|I['’]m)\b/gi, "the author is"],
+    [/\bI['’]ve\b/gi, "the author has"],
+    [/\bI['’]d\b/gi, "the author would"],
+    [/\bI['’]ll\b/gi, "the author will"],
     [/\bwe are\b/gi, `${sourceName} is`],
+    [/\bwe['’]re\b/gi, `${sourceName} is`],
+    [/\bwe['’]ve\b/gi, `${sourceName} has`],
+    [/\bwe['’]d\b/gi, `${sourceName} would`],
+    [/\bwe['’]ll\b/gi, `${sourceName} will`],
+    
+    // 2. Standalone pronouns
     [/\bwe\b/gi, sourceName],
     [/\bour\b/gi, `${sourceName}'s`],
     [/\bus\b/gi, sourceName],
-    [/\bi am\b/gi, `the author is`],
     [/\bi\b/gi, `the author`],
     [/\bmy\b/gi, `the author's`],
     [/\bme\b/gi, `the author`],
@@ -98,9 +114,8 @@ function neutralizeSummary(text: string, source: string): string {
   });
 
   result = result.charAt(0).toUpperCase() + result.slice(1);
-  result = result.replace(/\b(excited to announce|thrilled to share|proud to present|we're happy to|happy to share)\b/gi, "announced");
+  result = result.replace(/\b(excited to announce|thrilled to share|proud to present|we['’]re happy to|happy to share|excited to share)\b/gi, "announced");
   result = result.replace(/\b(check it out|stay tuned|click here|read more|learn more|full story)\b/gi, "");
-  result = result.replace(/\b(I am|I'm|I've)\b/gi, "the author");
   result = result.replace(/\b(amazing|incredible|game-changing|revolutionary|groundbreaking|stunning)\b/gi, "notable");
   
   return result.trim();
@@ -119,15 +134,33 @@ async function fetchInBatches(sources: NewsSource[], batchSize = 6): Promise<New
     const batchResults = await Promise.all(batch.map(async (source) => {
       try {
         if (source.scraperMode) {
-          return await scrapeNewsFromSource(source);
+          const items = await scrapeNewsFromSource(source);
+          return items.map(item => ({
+            ...item,
+            summary: neutralizeSummary(item.summary, source.name).substring(0, 1500)
+          }));
         }
 
-        // Standard RSS Parser
-        const response = await new Promise<any>((resolve, reject) => {
+        // Standard RSS Parser (fetch + clean bare ampersands)
+        const response = await new Promise<any>(async (resolve, reject) => {
           const timeoutId = setTimeout(() => reject(new Error("Timeout after 30s")), 30000);
-          parser.parseURL(source.url)
-            .then(res => { clearTimeout(timeoutId); resolve(res); })
-            .catch(err => { clearTimeout(timeoutId); reject(err); });
+          try {
+            const res = await fetch(source.url, {
+              headers: { "User-Agent": getRandomUserAgent() }
+            });
+            if (!res.ok) throw new Error(`HTTP ${res.status}`);
+            const xmlText = await res.text();
+            
+            // Clean up unescaped ampersands that break XML parser
+            const cleanedXml = xmlText.replace(/&(?!(?:[a-zA-Z0-9]+|#[0-9]+|#x[0-9a-fA-F]+);)/g, "&amp;");
+            
+            const parsed = await parser.parseString(cleanedXml);
+            clearTimeout(timeoutId);
+            resolve(parsed);
+          } catch (err) {
+            clearTimeout(timeoutId);
+            reject(err);
+          }
         }).catch(e => {
           console.error(`[Error] Failed to parse XML for ${source.name}:`, e.message);
           return null;
@@ -139,11 +172,37 @@ async function fetchInBatches(sources: NewsSource[], batchSize = 6): Promise<New
         for (const item of response.items.slice(0, 15)) {
           if (!item.title || !item.link) continue;
           
-          let summary = item.contentSnippet || item.content || "";
+          let rawSummary = item.contentSnippet || item.content || "";
           
           // Signal-to-Noise Filter: Drop non-AI content from general sources
-          if (!isAIContent(item.title, summary, source.name)) {
+          if (!isAIContent(item.title, rawSummary, source.name)) {
             continue;
+          }
+
+          let summary = "";
+          let rawContent = item.contentEncoded || item.content || item.contentSnippet || "";
+          if (rawContent) {
+            const cleanText = rawContent.replace(/<[^>]+>/g, "").replace(/\s+/g, " ").trim();
+            const sentences = cleanText.split(/(?<=[.!?])\s+/)
+              .map((s: string) => s.trim())
+              .filter((s: string) => s.length > 25 && !/subscribe|newsletter|follow us|sign up|read more|click here|written by|copyright/i.test(s));
+            
+            if (sentences.length >= 5) {
+              summary = sentences.slice(0, 6).join(" ");
+            }
+          }
+
+          // If RSS payload didn't yield at least 5 sentences, deep crawl the article link!
+          if (!summary || summary.split(/(?<=[.!?])\s+/).length < 5) {
+            const verification = await verifyArticleDateAndSummary(item.link, source.name);
+            if (verification.summary && !verification.summary.includes("released a major industry update")) {
+              summary = verification.summary;
+            }
+          }
+
+          // Fallback to basic snippet if all else failed
+          if (!summary) {
+            summary = item.contentSnippet || item.content || `${source.name} released a major industry update. Click to read the full report on their technical blog.`;
           }
 
           // Neutralize and clean
@@ -152,7 +211,7 @@ async function fetchInBatches(sources: NewsSource[], batchSize = 6): Promise<New
 
           // Length Constraints
           if (cleanTitle.length > 100) cleanTitle = cleanTitle.substring(0, 97) + "...";
-          if (neutralizedSummary.length > 280) neutralizedSummary = neutralizedSummary.substring(0, 277) + "...";
+          if (neutralizedSummary.length > 1500) neutralizedSummary = neutralizedSummary.substring(0, 1497) + "...";
 
           feedItems.push({
             id: item.guid || item.link,

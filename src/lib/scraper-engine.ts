@@ -25,7 +25,7 @@ function extractDateFromUrl(url: string): string | null {
 /**
  * Deep Metadata & Summary Extraction (Fetches article page for HIDDEN content)
  */
-async function verifyArticleDateAndSummary(url: string, sourceName: string): Promise<{ date: string | null; summary: string | null }> {
+export async function verifyArticleDateAndSummary(url: string, sourceName: string): Promise<{ date: string | null; summary: string | null }> {
   try {
     const response = await fetch(url, {
       headers: { "User-Agent": getRandomUserAgent() },
@@ -33,28 +33,48 @@ async function verifyArticleDateAndSummary(url: string, sourceName: string): Pro
     });
     if (!response.ok) return { date: null, summary: null };
     
-    // Only need the first few KB for metadata
     const html = await response.text();
     
-    // 1. Date Extraction
+    // 1. Date Extraction (Standard og tags, time tags, or JSON-LD schema)
     const metaDate = (
       html.match(/property="article:published_time"\s+content="([^"]+)"/i)?.[1] ||
       html.match(/property="og:updated_time"\s+content="([^"]+)"/i)?.[1] ||
       html.match(/<time[^>]+datetime="([^"]+)"/i)?.[1] ||
-      html.match(/"published_at":"([^"]+)"/i)?.[1]
+      html.match(/"published_at":"([^"]+)"/i)?.[1] ||
+      html.match(/"datePublished"\s*:\s*"([^"]+)"/i)?.[1] ||
+      html.match(/"dateModified"\s*:\s*"([^"]+)"/i)?.[1]
     );
 
-    // 2. Summary Extraction (Look for the first <p> after title or similar content)
-    // We filter out very short strings and boilerplate
-    const paragraphs = html.match(/<p[^>]*>([\s\S]*?)<\/p>/gi);
+    // 2. Summary Extraction (Focus on body content tags to skip nav link descriptions)
+    const bodyContentMatch = (
+      html.match(/<article[^>]*>([\s\S]*?)<\/article>/i)?.[1] ||
+      html.match(/<div[^>]+class="[^"]*richtext[^"]*"[^>]*>([\s\S]*?)<\/div>/i)?.[1] ||
+      html.match(/<div[^>]+class="[^"]*post-body[^"]*"[^>]*>([\s\S]*?)<\/div>/i)?.[1] ||
+      html.match(/<div[^>]+class="[^"]*content[^"]*"[^>]*>([\s\S]*?)<\/div>/i)?.[1] ||
+      html
+    );
+
+    const paragraphs = bodyContentMatch.match(/<p[^>]*>([\s\S]*?)<\/p>/gi);
     let extractedSummary = "";
     if (paragraphs) {
+      const sentences: string[] = [];
       for (const p of paragraphs) {
-        const text = p.replace(/<[^>]+>/g, "").trim();
-        if (text.length > 50 && !text.includes("newsletter") && !text.includes("cookie")) {
-          extractedSummary = text.substring(0, 250);
-          break;
+        const text = p.replace(/<[^>]+>/g, "").replace(/\s+/g, " ").trim();
+        // Skip short snippets, cookie consents, or sign-up boilerplate
+        if (text.length > 40 && !/cookie|consent|newsletter|subscribe|privacy policy|terms of service|copyright/i.test(text)) {
+          // Split paragraph into sentences
+          const pSentences = text.split(/(?<=[.!?])\s+/);
+          for (const s of pSentences) {
+            const cleanS = s.trim();
+            if (cleanS.length > 25 && !/subscribe|newsletter|follow us|sign up|read more|click here|written by|copyright/i.test(cleanS)) {
+              sentences.push(cleanS);
+            }
+          }
         }
+        if (sentences.length >= 6) break;
+      }
+      if (sentences.length > 0) {
+        extractedSummary = sentences.slice(0, 6).join(" ");
       }
     }
 
@@ -65,7 +85,7 @@ async function verifyArticleDateAndSummary(url: string, sourceName: string): Pro
 
     return { 
       date: metaDate ? new Date(metaDate).toISOString() : null,
-      summary: extractedSummary
+      summary: extractedSummary.substring(0, 1500)
     };
   } catch {
     return { date: null, summary: null };
@@ -87,8 +107,8 @@ async function scrapeFutureTools(source: NewsSource): Promise<NewsItem[]> {
     const items: NewsItem[] = [];
     const THREE_DAYS_AGO = Date.now() - (72 * 3600 * 1000);
     
-    // Split by date headers
-    const segments = html.split(/<h2[^>]*>(?:Yesterday — )?([A-Z][a-z]+, [A-Z][a-z]+ \d{1,2}, \d{4})<\/h2>/i);
+    // Split by date headers (e.g. "Today — Thursday, May 21, 2026" or "Yesterday — Wednesday..." or "Tuesday, May 19, 2026")
+    const segments = html.split(/<h2[^>]*>(?:(?:Today|Yesterday) — )?([A-Z][a-z]+, [A-Z][a-z]+ \d{1,2}, \d{4})<\/h2>/i);
     
     // segments[0] is everything before first date
     for (let i = 1; i < segments.length; i += 2) {
@@ -99,25 +119,60 @@ async function scrapeFutureTools(source: NewsSource): Promise<NewsItem[]> {
       if (isNaN(parsedDate.getTime())) continue;
       if (parsedDate.getTime() < THREE_DAYS_AGO) continue;
 
-      // Extract items from this date segment
-      const itemRegex = /<a[^>]+href="([^"]+)"[^>]*>[\s\S]*?<p[^>]*>([\s\S]*?)<\/p>[\s\S]*?<\/a>/gi;
-      let match;
-      while ((match = itemRegex.exec(content)) !== null) {
-        let href = match[1];
-        let title = match[2].replace(/<[^>]+>/g, "").trim();
+      if (!content) continue;
+
+      // Split by individual card wrappers
+      const cards = content.split(/<div class="rounded-xl border/i);
+      
+      for (let j = 1; j < cards.length; j++) {
+        const cardHtml = cards[j];
         
+        const hrefMatch = cardHtml.match(/href="([^"]+)"/i);
+        let href = hrefMatch ? hrefMatch[1] : "";
+        if (!href) continue;
+        
+        href = href.replace(/&amp;/g, "&");
         if (href.startsWith("/")) href = new URL(source.url).origin + href;
+
+        const titleMatch = cardHtml.match(/<p class="select-text[^"]*">([\s\S]*?)<\/p>/i) || cardHtml.match(/<p[^>]*>([\s\S]*?)<\/p>/i);
+        let title = titleMatch ? titleMatch[1].replace(/<[^>]+>/g, "").trim() : "";
         if (title.length < 10) continue;
+
+        const summaryMatch = cardHtml.match(/<p class="text-sm leading-relaxed text-foreground\/85">([\s\S]*?)<\/p>/i) || cardHtml.match(/<p[^>]*class="[^"]*leading-relaxed[^"]*">([\s\S]*?)<\/p>/i);
+        let summary = summaryMatch ? summaryMatch[1].replace(/<[^>]+>/g, "").trim() : "";
+        
+        // Deep-crawl to get a high-quality, at least 5-sentence summary of the actual target article
+        let deepSummary = null;
+        if (href) {
+          const verification = await verifyArticleDateAndSummary(href, source.name);
+          if (verification.summary && !verification.summary.includes("released a major industry update")) {
+            deepSummary = verification.summary;
+          }
+        }
+
+        if (deepSummary) {
+          summary = deepSummary;
+        } else if (!summary) {
+          summary = `${source.name} highlights: ${title}. Read more on the original source.`;
+        }
+
+        const isPaywalled = cardHtml.includes("Paywalled") || cardHtml.includes("bg-red-400") || cardHtml.includes("border-l-red-400");
+        const isMattPick = cardHtml.includes("Matt's picks") || cardHtml.includes("bg-highlight") || cardHtml.includes("bg-yellow-400");
+
+        // Clean up double quotes and entities
+        title = title.replace(/&quot;/g, '"').replace(/&#x27;/g, "'").replace(/&amp;/g, "&");
+        summary = summary.replace(/&quot;/g, '"').replace(/&#x27;/g, "'").replace(/&amp;/g, "&");
 
         items.push({
           id: href,
           title: title.substring(0, 100),
-          summary: `${source.name} highlights: ${title}. Read more on the original source.`,
+          summary: summary.substring(0, 1500),
           source: source.name,
           sourceUrl: href,
           category: source.category,
           date: parsedDate.toISOString(),
-          hot: true
+          hot: isMattPick,
+          access: isPaywalled ? "paywalled" : undefined
         });
       }
     }
@@ -175,7 +230,8 @@ export async function scrapeNewsFromSource(source: NewsSource): Promise<NewsItem
         (source.name.includes("Perplexity") && href.includes("/hub/")) ||
         (source.name.includes("Cohere") && (href.includes("/blog/") || href.includes("/post/"))) ||
         (source.name.includes("Suno") && href.includes("/blog/")) ||
-        (source.name.includes("Pika") && href.includes("/blog/") && !href.endsWith("/announcement"))
+        (source.name.includes("Pika") && href.includes("/blog/") && !href.endsWith("/announcement")) ||
+        (source.name.includes("LangChain") && href.includes("/blog/") && href !== "https://www.langchain.com/blog")
       );
 
       if (isArticle) {
