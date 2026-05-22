@@ -1,6 +1,39 @@
 {
-  "lastUpdated": "2026-05-22T17:48:22.263Z",
+  "lastUpdated": "2026-05-22T19:27:29.867Z",
   "news": [
+    {
+      "id": "https://decrypt.co/?p=368804",
+      "title": "Bitcoin Billionaire Books First SpaceX Mars Mission",
+      "summary": "F2Pool co-founder Chun Wang plans a Starship flyby of Mars, before SpaceX attempts to land humans on the surface.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/368804/bitcoin-billionaire-spacex-mars",
+      "category": "Tech",
+      "date": "2026-05-22T19:23:47.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://decrypt.co/?p=368796",
+      "title": "GameStop Seeks to Boost Share Count as eBay Pursuit Continues After Rejection",
+      "summary": "Gaming retailer GameStop wants to add 1.5 billion shares to its authorized share count as it seeks to maximize financial flexibility.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/368796/gamestop-seeks-boost-share-count-ebay-pursuit-continues-after-rejection",
+      "category": "Tech",
+      "date": "2026-05-22T18:42:42.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
+      "title": "Catch up on the Dialogues stage at Google I/O 2026.",
+      "summary": "Products Developer tools Gemini app NotebookLM See all Infrastructure &amp; cloud Global network Google Cloud See all Technology Safety &amp; Security Health See all : Platforms Android Google Play Wear OS See all Devices Pixel Google Nest Fitbit Chromebooks See all : This week at the author/O, the Dialogues stage brought together Google leaders, scientific minds and creative visionaries on the technological breakthroughs helping to shape society and Google AI's future. Get the latest news from Google in your inbox.",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
+      "category": "Research",
+      "date": "2026-05-22T18:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://blog.google"
+    },
     {
       "id": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen",
       "title": "Elon, stop trying to make Grok happen",
@@ -145,6 +178,17 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
+      "id": "https://techcrunch.com/?post_type=tc_video&p=3125550",
+      "title": "SpaceX files to go public, and the math requires a little faith",
+      "summary": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total addressable market, a pay package tied to establishing a Mars colony, and a valuation target that would make it the largest IPO in American […]",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
+      "category": "Business",
+      "date": "2026-05-22T14:30:00.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
       "id": "c2be05cd-a2ef-4f2b-82e5-ad4d118d96b3",
       "title": "This Costco deal cuts the price of membership to $45 - here's how to get it",
       "summary": "If you've been thinking about joining Costco, the wholesale retailer is offering a gift card of up to $40 for new members, effectively dropping the price of your membership.",
@@ -257,13 +301,23 @@
     {
       "id": "https://openai.com/index/gartner-2026-agentic-coding-leader",
       "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-      "summary": "Loading…ShareOpenAI has been recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents. OpenAI believe this evaluation reflects OpenAI's progress in supporting enterprise-scale deployments of Codex, which is used by more than 4 million people each week and companies including Cisco⁠, Datadog⁠, Dell Technologies⁠, and NVIDIA⁠. Since Gartner&#x27;s evaluation earlier this year, OpenAI have significantly improved Codex with the introduction of GPT‑5.5⁠, as well as stronger tool use, faster performance, and deeper support for enterprise software development workflows. 2026 Gartner Magic Quadrant™ for Enterprise AI Coding Agents.",
+      "summary": "Loading…OpenAI has been recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents. OpenAI believe this evaluation reflects OpenAI's progress in supporting enterprise-scale deployments of Codex, which is used by more than 4 million people each week and companies including Cisco⁠, Datadog⁠, Dell Technologies⁠, and NVIDIA⁠. Since Gartner&#x27;s evaluation earlier this year, OpenAI have significantly improved Codex with the introduction of GPT‑5.5⁠, as well as stronger tool use, faster performance, and deeper support for enterprise software development workflows. 2026 Gartner Magic Quadrant™ for Enterprise AI Coding Agents.",
       "source": "OpenAI News",
       "sourceUrl": "https://openai.com/index/gartner-2026-agentic-coding-leader",
       "category": "Models",
       "date": "2026-05-22T00:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
+    },
+    {
+      "id": "https://www.perplexity.ai/hub/blog/perplexity-is-open-sourcing-bumblebee?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Perplexity Open-Sources Bumblebee Security Scanner for Developer Machines",
+      "summary": "Perplexity has open-sourced Bumblebee, a read-only security scanner built to protect developer machines from supply-chain threats. Used internally to secure systems behind Perplexity, Comet, and Computer, Bumblebee scans for risky packages, editor extensions, browser extensions, and AI agent configs like MCP. It supports three profiles: baseline, project, and deep. Crucially, it never invokes package managers or runs install scripts, preventing scanners from triggering the attacks they detect. Available as an open-source Go project for macOS and Linux.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.perplexity.ai/hub/blog/perplexity-is-open-sourcing-bumblebee?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-05-22T00:00:00.000Z",
+      "hot": false
     },
     {
       "id": "https://www.theverge.com/news/935967/microsoft-copilot-floating-button-office-excel-apps-removal?utm_source=futuretools.io&utm_medium=newspage",
@@ -318,7 +372,7 @@
     {
       "id": "https://openai.com/index/gartner-2026-agentic-coding-leader/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "OpenAI Named a Leader in Gartner Magic Quadrant for AI Coding Agents",
-      "summary": "Loading…ShareOpenAI has been recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents. FutureTools believe this evaluation reflects FutureTools's progress in supporting enterprise-scale deployments of Codex, which is used by more than 4 million people each week and companies including Cisco⁠, Datadog⁠, Dell Technologies⁠, and NVIDIA⁠. Since Gartner's evaluation earlier this year, FutureTools have significantly improved Codex with the introduction of GPT‑5.5⁠, as well as stronger tool use, faster performance, and deeper support for enterprise software development workflows. 2026 Gartner Magic Quadrant™ for Enterprise AI Coding Agents.",
+      "summary": "Loading…OpenAI has been recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents. FutureTools believe this evaluation reflects FutureTools's progress in supporting enterprise-scale deployments of Codex, which is used by more than 4 million people each week and companies including Cisco⁠, Datadog⁠, Dell Technologies⁠, and NVIDIA⁠. Since Gartner's evaluation earlier this year, FutureTools have significantly improved Codex with the introduction of GPT‑5.5⁠, as well as stronger tool use, faster performance, and deeper support for enterprise software development workflows. 2026 Gartner Magic Quadrant™ for Enterprise AI Coding Agents.",
       "source": "FutureTools News",
       "sourceUrl": "https://openai.com/index/gartner-2026-agentic-coding-leader/?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
@@ -368,17 +422,6 @@
       "date": "2026-05-21T21:00:00.000Z",
       "hot": false,
       "officialUrl": "https://news.mit.edu"
-    },
-    {
-      "id": "https://decrypt.co/?p=368686",
-      "title": "Young Adults Involved in AI Romance Hide Full Use From Partners 69% of the Time",
-      "summary": "Researchers found regular AI companion use among partnered young adults was linked to lower relationship stability and communication quality.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/368686/young-adults-involved-ai-romance-hide-from-human-partners",
-      "category": "Tech",
-      "date": "2026-05-21T20:56:20.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
     },
     {
       "id": "6a0e1aa0a38dc9cb19f6714e",
@@ -489,17 +532,6 @@
       "date": "2026-05-21T17:30:45.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "a4e54925-06c9-41cd-9c09-cce04a2c354c",
-      "title": "Switch to adaptive chargers? My advice after testing low-power options for a year",
-      "summary": "Adaptive charging aims to reduce battery wear by keeping speeds low, but are the optimizations worth it?",
-      "source": "ZDNet AI",
-      "sourceUrl": "https://www.zdnet.com/article/i-converted-to-adaptive-chargers-and-already-feel-safer/",
-      "category": "Industry",
-      "date": "2026-05-21T17:00:42.000Z",
-      "hot": false,
-      "officialUrl": "https://www.zdnet.com"
     },
     {
       "id": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal",
@@ -669,7 +701,7 @@
     {
       "id": "https://openai.com/index/adventhealth",
       "title": "AdventHealth advances whole-person care with OpenAI",
-      "summary": "By treating AI adoption as the outcome, AdventHealth eases clinician workload, improves workflows, and unlocks more time for patient care. Reduction in time spent on administrative tasks Loading…ShareAdventHealth is deploying ChatGPT for Healthcare to reduce administrative burden and streamline clinical workflows across its system. By automating time-intensive documentation and support tasks, care teams are reclaiming hours each week and allowing clinicians to focus more directly on patients. The result is not just operational efficiency, but expanded clinical capacity, faster access to care, and a measurable improvement in the patient experience. AdventHealth is a hospital system operating across nine states, serving millions of patients each year.",
+      "summary": "By treating AI adoption as the outcome, AdventHealth eases clinician workload, improves workflows, and unlocks more time for patient care. Reduction in time spent on administrative tasks Loading…AdventHealth is deploying ChatGPT for Healthcare to reduce administrative burden and streamline clinical workflows across its system. By automating time-intensive documentation and support tasks, care teams are reclaiming hours each week and allowing clinicians to focus more directly on patients. The result is not just operational efficiency, but expanded clinical capacity, faster access to care, and a measurable improvement in the patient experience. AdventHealth is a hospital system operating across nine states, serving millions of patients each year.",
       "source": "OpenAI News",
       "sourceUrl": "https://openai.com/index/adventhealth",
       "category": "Models",
@@ -696,17 +728,6 @@
       "sourceUrl": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
       "category": "Business",
       "date": "2026-05-21T00:28:31.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3124883",
-      "title": "Anthropic says it’s about to have its first profitable quarter",
-      "summary": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
-      "category": "Business",
-      "date": "2026-05-21T00:21:21.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
     },
@@ -801,17 +822,6 @@
       "date": "2026-05-20T23:30:06.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3124533",
-      "title": "Clouted wants to take the guesswork out of making short videos go viral",
-      "summary": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
-      "category": "Business",
-      "date": "2026-05-20T22:30:45.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
     },
     {
       "id": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
@@ -924,17 +934,6 @@
       "officialUrl": "https://news.mit.edu"
     },
     {
-      "id": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "title": "The next phase of OpenAI’s Education for Countries",
-      "summary": "At the Education World Forum in London, OpenAI shares early learnings from Education for Countries and welcomes Singapore to the program. Loading…ShareA new era of agentic AI is here. With more than 900 million people using ChatGPT each week, and more than 4 million using Codex, agents have the potential to place far greater creative, intellectual, and technical power in the hands of every student - helping young people turn ideas into action, pursue ambitions that once felt out of reach, and become the creators and builders of what comes next. OpenAI cares deeply about how AI affects cognition, learning, and development over time; as these tools advance rapidly, responsible deployment cannot be an afterthought. It requires large-scale, government-led research partnerships that tailor AI to educational contexts in close partnership with educators, build confidence in responsible adoption, and create the evidence base for safe and effective use. This is the model OpenAI has pioneered through Education for Countries, launched at Davos earlier this year.",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "category": "Models",
-      "date": "2026-05-20T00:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com"
-    },
-    {
       "id": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "summary": "(opens in a new window)Read the companion remarks(opens in a new window)Loading…ShareFor nearly 80 years, mathematicians have studied a deceptively simple question: if you place nnn points in the plane, how many pairs of points can be exactly distance 111 apart? This is the planar unit distance problem, first posed by Paul Erdős in 1946. It is one of the best-known questions in combinatorial geometry, easy to state and remarkably difficult to resolve. The 2005 book Research Problems in Discrete Geometry, by Brass, Moser, and Pach, calls it “possibly the best known (and simplest to explain) problem in combinatorial geometry.” Noga Alon, a leading combinatorialist at Princeton, describes it as “one of Erdős’ favorite problems.” Erdős even offered a monetary prize for resolving this problem. Today, OpenAI share a breakthrough on the unit distance problem. Since Erdős’s original work, the prevailing belief has been that the “square grid” constructions depicted further below were essentially optimal for maximizing the number of unit-distance pairs.",
@@ -948,9 +947,20 @@
     {
       "id": "https://openai.com/index/ramp",
       "title": "How Ramp engineers accelerate code review with Codex",
-      "summary": "Teams use Codex with GPT‑5.5 to review code and develop an agent to manage on-call rotation work, improving the developer experience and boosting productivity. Loading…ShareAt Ramp, engineers are using Codex with GPT‑5.5 to accelerate code review and develop internal agentic tooling, helping teams get substantive pull request feedback in minutes instead of hours. Thanks to its reasoning capabilities, Codex with GPT‑5.5 is uniquely able to reduce the amount of manual, hands-on work they’d otherwise have to do. Ramp’s AI Developer Experience team is using Codex to improve software development velocity and code quality. “Codex code review is industry gold standard. OpenAI has been relying on it for a long time here at Ramp,” explains Austin Ray, who leads AI DevEx.",
+      "summary": "Teams use Codex with GPT‑5.5 to review code and develop an agent to manage on-call rotation work, improving the developer experience and boosting productivity. Loading…At Ramp, engineers are using Codex with GPT‑5.5 to accelerate code review and develop internal agentic tooling, helping teams get substantive pull request feedback in minutes instead of hours. Thanks to its reasoning capabilities, Codex with GPT‑5.5 is uniquely able to reduce the amount of manual, hands-on work they’d otherwise have to do. Ramp’s AI Developer Experience team is using Codex to improve software development velocity and code quality. “Codex code review is industry gold standard. OpenAI has been relying on it for a long time here at Ramp,” explains Austin Ray, who leads AI DevEx.",
       "source": "OpenAI News",
       "sourceUrl": "https://openai.com/index/ramp",
+      "category": "Models",
+      "date": "2026-05-20T00:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://openai.com"
+    },
+    {
+      "id": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "title": "The next phase of OpenAI’s Education for Countries",
+      "summary": "At the Education World Forum in London, OpenAI shares early learnings from Education for Countries and welcomes Singapore to the program. Loading…A new era of agentic AI is here. With more than 900 million people using ChatGPT each week, and more than 4 million using Codex, agents have the potential to place far greater creative, intellectual, and technical power in the hands of every student - helping young people turn ideas into action, pursue ambitions that once felt out of reach, and become the creators and builders of what comes next. OpenAI cares deeply about how AI affects cognition, learning, and development over time; as these tools advance rapidly, responsible deployment cannot be an afterthought. It requires large-scale, government-led research partnerships that tailor AI to educational contexts in close partnership with educators, build confidence in responsible adoption, and create the evidence base for safe and effective use. This is the model OpenAI has pioneered through Education for Countries, launched at Davos earlier this year.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/the-next-phase-of-education-for-countries",
       "category": "Models",
       "date": "2026-05-20T00:00:00.000Z",
       "hot": false,
@@ -980,7 +990,7 @@
     {
       "id": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "OpenAI Model Disproves Longstanding Discrete Geometry Conjecture",
-      "summary": "(opens in a new window)Read the companion remarks(opens in a new window)Loading…ShareFor nearly 80 years, mathematicians have studied a deceptively simple question: if you place nnn points in the plane, how many pairs of points can be exactly distance 111 apart? This is the planar unit distance problem, first posed by Paul Erdős in 1946. It is one of the best-known questions in combinatorial geometry, easy to state and remarkably difficult to resolve. The 2005 book Research Problems in Discrete Geometry, by Brass, Moser, and Pach, calls it “possibly the best known (and simplest to explain) problem in combinatorial geometry.” Noga Alon, a leading combinatorialist at Princeton, describes it as “one of Erdős’ favorite problems.” Erdős even offered a monetary prize for resolving this problem. Today, FutureTools share a breakthrough on the unit distance problem. Since Erdős’s original work, the prevailing belief has been that the “square grid” constructions depicted further below were essentially optimal for maximizing the number of unit-distance pairs.",
+      "summary": "(opens in a new window)Read the companion remarks(opens in a new window)Loading…For nearly 80 years, mathematicians have studied a deceptively simple question: if you place nnn points in the plane, how many pairs of points can be exactly distance 111 apart? This is the planar unit distance problem, first posed by Paul Erdős in 1946. It is one of the best-known questions in combinatorial geometry, easy to state and remarkably difficult to resolve. The 2005 book Research Problems in Discrete Geometry, by Brass, Moser, and Pach, calls it “possibly the best known (and simplest to explain) problem in combinatorial geometry.” Noga Alon, a leading combinatorialist at Princeton, describes it as “one of Erdős’ favorite problems.” Erdős even offered a monetary prize for resolving this problem. Today, FutureTools share a breakthrough on the unit distance problem. Since Erdős’s original work, the prevailing belief has been that the “square grid” constructions depicted further below were essentially optimal for maximizing the number of unit-distance pairs.",
       "source": "FutureTools News",
       "sourceUrl": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
@@ -1022,7 +1032,7 @@
     {
       "id": "https://openai.com/index/introducing-openai-for-singapore",
       "title": "Introducing OpenAI for Singapore",
-      "summary": "ShareToday at the ATx Summit in Singapore, OpenAI is launching OpenAI for Singapore, a partnership with the Ministry of Digital Development and Information (MDDI) to support Singapore’s National AI strategy. Singapore is a global leader in AI and has made it central to its plans for economic growth, public services, and how people learn, work, and build. It recognised early that AI is becoming core infrastructure for economies and societies, with the potential to drive greater productivity, creativity, scientific progress, and economic opportunity. As intelligence becomes more like a utility, OpenAI for Singapore is designed to support Singapore’s ambition to become an AI-powered economy. Backed by a commitment of more than S$300 million, the initiative will focus on three key areas: At the centre of the partnership is the establishment of OpenAI's Applied AI Lab in Singapore, OpenAI’s first outside the United States.",
+      "summary": "Today at the ATx Summit in Singapore, OpenAI is launching OpenAI for Singapore, a partnership with the Ministry of Digital Development and Information (MDDI) to support Singapore’s National AI strategy. Singapore is a global leader in AI and has made it central to its plans for economic growth, public services, and how people learn, work, and build. It recognised early that AI is becoming core infrastructure for economies and societies, with the potential to drive greater productivity, creativity, scientific progress, and economic opportunity. As intelligence becomes more like a utility, OpenAI for Singapore is designed to support Singapore’s ambition to become an AI-powered economy. Backed by a commitment of more than S$300 million, the initiative will focus on three key areas: At the centre of the partnership is the establishment of OpenAI's Applied AI Lab in Singapore, OpenAI’s first outside the United States.",
       "source": "OpenAI News",
       "sourceUrl": "https://openai.com/index/introducing-openai-for-singapore",
       "category": "Models",
@@ -1040,72 +1050,6 @@
       "date": "2026-05-19T20:00:48.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/?p=4359543",
-      "title": "Microsoft Launches New Surface AI PCs for Business Buyers",
-      "summary": "Microsoft launched new Surface for Business PCs with Intel Core Ultra Series 3 chips, AI features, 5G options, and enterprise security tools.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-microsoft-surface-for-business-ai-pc-refresh/",
-      "category": "Business",
-      "date": "2026-05-19T19:12:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/?p=4359537",
-      "title": "Anthropic Just Bought a Developer Tool Used by OpenAI, Google",
-      "summary": "Anthropic acquired SDK startup Stainless, signaling a deeper push into developer tooling as AI labs compete beyond model performance.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-anthropic-acquires-stainless-developer-tools/",
-      "category": "Business",
-      "date": "2026-05-19T19:03:22.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
-      "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
-      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
-      "category": "Research",
-      "date": "2026-05-19T18:38:09.000Z",
-      "hot": false,
-      "officialUrl": "https://huggingface.co"
-    },
-    {
-      "id": "https://www.techrepublic.com/?p=4359533",
-      "title": "Agentic AI, Strong Racks, Weak Fabric: Inside Dell’s AI Bet",
-      "summary": "Dell sharpens its AI vision with agentic endpoints, an AI-ready platform, and factory-built racks, but its muted networking story raises questions about how far its AI Factory can scale.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-dell-ai-factory-nvidia-networking-gap/",
-      "category": "Business",
-      "date": "2026-05-19T18:21:25.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/?p=4359528",
-      "title": "Apple’s Siri Could Get a Grammarly-Like AI Writing Tool at WWDC",
-      "summary": "Apple’s iOS 27 may add AI writing tools, prompt-built shortcuts, AI wallpapers, and a smarter Siri as WWDC 2026 approaches in June.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-apple-siri-ai-writing-tools-wwdc/",
-      "category": "Business",
-      "date": "2026-05-19T18:11:33.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/?p=4359525",
-      "title": "Apple Intelligence Powers New Accessibility Features for iPhone, Mac",
-      "summary": "Apple Intelligence will upgrade VoiceOver, Voice Control, captions, and Vision Pro wheelchair controls in new accessibility features coming later this year.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-apple-intelligence-accessibility/",
-      "category": "Business",
-      "date": "2026-05-19T18:05:17.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
     }
   ]
 }
