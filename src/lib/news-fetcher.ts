@@ -86,7 +86,7 @@ export function neutralizeSummary(text: string, source: string): string {
   if (!text) return "";
   let result = cleanSummary(text);
   
-  const sourceName = source.replace(/(Blog|News|Weekly|Tech|Daily|Report|X:)/gi, "").trim() || source;
+  const sourceName = source.replace(/\b(Blog|News|Weekly|Tech|Daily|Report)\b|X:/gi, "").trim() || source;
   
   // 1. Contractions and multi-word phrases first to avoid partial matching bugs (supporting straight and curly apostrophes)
   const replacements: [RegExp, string][] = [
@@ -180,15 +180,18 @@ async function fetchInBatches(sources: NewsSource[], batchSize = 6): Promise<New
           }
 
           let summary = "";
+          let rssFallback = "";
           let rawContent = item.contentEncoded || item.content || item.contentSnippet || "";
           if (rawContent) {
             const cleanText = rawContent.replace(/<[^>]+>/g, "").replace(/\s+/g, " ").trim();
             const sentences = cleanText.split(/(?<=[.!?])\s+/)
               .map((s: string) => s.trim())
-              .filter((s: string) => s.length > 25 && !/subscribe|newsletter|follow us|sign up|read more|click here|written by|copyright/i.test(s));
+              .filter((s: string) => s.length > 25 && !/subscribe|newsletter|follow us|sign up|read more|click here|written by|copyright|transition period|consent|cookie|our partners|privacy settings|browser settings|personal data/i.test(s));
             
             if (sentences.length >= 5) {
               summary = sentences.slice(0, 6).join(" ");
+            } else if (sentences.length >= 2) {
+              rssFallback = sentences.slice(0, 6).join(" ");
             }
           }
 
@@ -196,13 +199,28 @@ async function fetchInBatches(sources: NewsSource[], batchSize = 6): Promise<New
           if (!summary || summary.split(/(?<=[.!?])\s+/).length < 5) {
             const verification = await verifyArticleDateAndSummary(item.link, source.name);
             if (verification.summary && !verification.summary.includes("released a major industry update")) {
-              summary = verification.summary;
+              const crawlSentences = verification.summary.split(/(?<=[.!?])\s+/)
+                .map((s: string) => s.trim())
+                .filter((s: string) => s.length > 25 && !/subscribe|newsletter|follow us|sign up|read more|click here|written by|copyright|transition period|consent|cookie|our partners/i.test(s));
+              
+              if (crawlSentences.length >= 3) {
+                summary = crawlSentences.slice(0, 6).join(" ");
+              }
             }
           }
 
-          // Fallback to basic snippet if all else failed
+          // Fallback hierarchy if we couldn't get a high-quality 3+ sentence summary from deep crawl
           if (!summary) {
-            summary = item.contentSnippet || item.content || `${source.name} released a major industry update. Click to read the full report on their technical blog.`;
+            const cleanSnippet = (item.contentSnippet || item.content || "").trim();
+            const isSnippetInvalid = /transition period|consent|cookie|our partners|privacy settings|browser settings|personal data/i.test(cleanSnippet);
+            
+            if (rssFallback && !/transition period|consent|cookie|our partners|privacy settings|browser settings|personal data/i.test(rssFallback)) {
+              summary = rssFallback;
+            } else if (cleanSnippet && !isSnippetInvalid) {
+              summary = cleanSnippet;
+            } else {
+              summary = `${source.name} released a major industry update. Click to read the full report on their technical blog.`;
+            }
           }
 
           // Neutralize and clean

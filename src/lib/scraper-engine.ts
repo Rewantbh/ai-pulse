@@ -61,12 +61,12 @@ export async function verifyArticleDateAndSummary(url: string, sourceName: strin
       for (const p of paragraphs) {
         const text = p.replace(/<[^>]+>/g, "").replace(/\s+/g, " ").trim();
         // Skip short snippets, cookie consents, or sign-up boilerplate
-        if (text.length > 40 && !/cookie|consent|newsletter|subscribe|privacy policy|terms of service|copyright/i.test(text)) {
+        if (text.length > 40 && !/cookie|consent|newsletter|subscribe|privacy policy|terms of service|copyright|transition period|our partners|privacy settings|browser settings|personal data/i.test(text)) {
           // Split paragraph into sentences
           const pSentences = text.split(/(?<=[.!?])\s+/);
           for (const s of pSentences) {
             const cleanS = s.trim();
-            if (cleanS.length > 25 && !/subscribe|newsletter|follow us|sign up|read more|click here|written by|copyright/i.test(cleanS)) {
+            if (cleanS.length > 25 && !/subscribe|newsletter|follow us|sign up|read more|click here|written by|copyright|transition period|consent|cookie|our partners|privacy settings|browser settings|personal data/i.test(cleanS)) {
               sentences.push(cleanS);
             }
           }
