@@ -137,7 +137,7 @@ async function fetchInBatches(sources: NewsSource[], batchSize = 6): Promise<New
           const items = await scrapeNewsFromSource(source);
           return items.map(item => ({
             ...item,
-            summary: neutralizeSummary(item.summary, source.name).substring(0, 1500)
+            summary: neutralizeSummary(item.summary, item.source).substring(0, 1500)
           }));
         }
 
@@ -269,8 +269,8 @@ export async function fetchAllNews(): Promise<NewsItem[]> {
     }
   });
 
-  // Recent & Relevant Filter: Only news from the last 72 hours (3 days)
-  const THREE_DAYS_AGO = Date.now() - (72 * 3600 * 1000);
+  // Recent & Relevant Filter: Only news from the last 120 hours (5 days)
+  const THREE_DAYS_AGO = Date.now() - (120 * 3600 * 1000);
   const freshItems = Array.from(uniqueItemsMap.values()).filter((item) => {
     try {
       const pubDate = new Date(item.date).getTime();

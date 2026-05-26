@@ -6,14 +6,14 @@ async function main() {
   const [news, tweets] = await Promise.all([fetchAllNews(), fetchAllTweets()]);
   
   const allItems = [...news, ...tweets];
-  const THREE_DAYS_AGO = Date.now() - (72 * 3600 * 1000);
+  const THREE_DAYS_AGO = Date.now() - (120 * 3600 * 1000);
   
   const combinedNews = allItems
     .filter(item => new Date(item.date).getTime() > THREE_DAYS_AGO)
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
   await saveNewsToFile(combinedNews);
-  console.log(`Unified fetch complete. Final count after 72h filter: ${combinedNews.length} items.`);
+  console.log(`Unified fetch complete. Final count after 120h filter: ${combinedNews.length} items.`);
   process.exit(0);
 }
 

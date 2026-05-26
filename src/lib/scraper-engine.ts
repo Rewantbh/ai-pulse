@@ -105,7 +105,7 @@ async function scrapeFutureTools(source: NewsSource): Promise<NewsItem[]> {
     const html = await response.text();
     
     const items: NewsItem[] = [];
-    const THREE_DAYS_AGO = Date.now() - (72 * 3600 * 1000);
+    const THREE_DAYS_AGO = Date.now() - (120 * 3600 * 1000);
     
     // Split by date headers (e.g. "Today — Thursday, May 21, 2026" or "Yesterday — Wednesday..." or "Tuesday, May 19, 2026")
     const segments = html.split(/<h2[^>]*>(?:(?:Today|Yesterday) — )?([A-Z][a-z]+, [A-Z][a-z]+ \d{1,2}, \d{4})<\/h2>/i);
@@ -159,15 +159,20 @@ async function scrapeFutureTools(source: NewsSource): Promise<NewsItem[]> {
         const isPaywalled = cardHtml.includes("Paywalled") || cardHtml.includes("bg-red-400") || cardHtml.includes("border-l-red-400");
         const isMattPick = cardHtml.includes("Matt's picks") || cardHtml.includes("bg-highlight") || cardHtml.includes("bg-yellow-400");
 
+        // Extract original source name from the FutureTools news card
+        const cardSourceMatch = cardHtml.match(/<p class="select-none"[^>]*>([\s\S]*?)<\/p>/i);
+        let cardSource = cardSourceMatch ? cardSourceMatch[1].replace(/<[^>]+>/g, "").trim() : source.name;
+
         // Clean up double quotes and entities
         title = title.replace(/&quot;/g, '"').replace(/&#x27;/g, "'").replace(/&amp;/g, "&");
         summary = summary.replace(/&quot;/g, '"').replace(/&#x27;/g, "'").replace(/&amp;/g, "&");
+        cardSource = cardSource.replace(/&quot;/g, '"').replace(/&#x27;/g, "'").replace(/&amp;/g, "&");
 
         items.push({
           id: href,
           title: title.substring(0, 100),
           summary: summary.substring(0, 1500),
-          source: source.name,
+          source: cardSource,
           sourceUrl: href,
           category: source.category,
           date: parsedDate.toISOString(),
@@ -252,8 +257,8 @@ export async function scrapeNewsFromSource(source: NewsSource): Promise<NewsItem
           continue;
         }
 
-        // FRESHNESS GATE: Only keep if within last 72h (Parity with RSS)
-        const THREE_DAYS_AGO = Date.now() - (72 * 3600 * 1000);
+        // FRESHNESS GATE: Only keep if within last 120h (5 days - Parity with RSS)
+        const THREE_DAYS_AGO = Date.now() - (120 * 3600 * 1000);
         if (new Date(verification.date).getTime() < THREE_DAYS_AGO) {
           console.log(`[Scraper] Dropped stale item (${verification.date}): ${href}`);
           continue;
