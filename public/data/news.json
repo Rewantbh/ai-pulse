@@ -1,6 +1,50 @@
 {
-  "lastUpdated": "2026-05-26T20:02:18.631Z",
+  "lastUpdated": "2026-05-26T22:03:03.610Z",
   "news": [
+    {
+      "id": "https://blogs.nvidia.com/?p=93322",
+      "title": "NVIDIA Vera CPU Is ‘Packing a Heavy-Hitting Punch’ Against Competition",
+      "summary": "The shift to agentic AI creates a new CPU requirement for the AI factory: fast cores, massive memory bandwidth and the ability to sustain high performance when all cores are active. Initial benchmark results published by Phoronix today show that the NVIDIA Vera CPU meets this need. For this first public look, the benchmark scope was centered on the agentic workloads Vera was designed for in the modern data center. The Vera CPU delivers the throughput AI factories need while optimizing platform power. Eighty-eight NVIDIA custom Olympus cores, 1.2TB/s of memory bandwidth and a high-speed, on-chip fabric results in a CPU platform that combines core performance and memory bandwidth in an efficient power envelope. NVIDIA Olympus Delivers Aggressive Performance At the heart of Vera are custom NVIDIA Olympus CPU cores.",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/vera-cpu-phoronix/",
+      "category": "Events",
+      "date": "2026-05-26T21:15:15.000Z",
+      "hot": false,
+      "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=369068",
+      "title": "This Half-Gigabyte AI Model Runs Local Agents on Your Phone",
+      "summary": "OpenBMB's 1B-parameter model brings MCP support and agentic tool use to on-device AI—but it has trouble with logic traps.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/369068/openbmb-minicpm5-half-gigabyte-ai-model-local-agents-phone",
+      "category": "Tech",
+      "date": "2026-05-26T20:59:20.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "6a15cbcd5f7c39896f97f1b0",
+      "title": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation",
+      "summary": "Pope Leo at the presentation of his first encyclical in the Vatican: Magnifica Humanitas.Photograph: Elisabetta Trevisan/Getty ImagesCommentLoaderSave StorySave this storyCommentLoaderSave StorySave this storyWhen Pope Leo XIV presented his first encyclical on artificial intelligence at the Vatican on Monday, he invited Christopher Olah, cofounder of Anthropic, to speak. The move signaled an unprecedented alliance between the Catholic church and Silicon Valley. But to understand how this partnership came about, Wired AI need to go back to Anthropic&#x27;s founding. Anthropic launched in 2021 after a group of OpenAI researchers, including Dario and Daniela Amodei, left to form a rival lab. They did so with a clear conviction: Artificial intelligence models were becoming too powerful to be developed exclusively according to the logic of competition and speed. Since then, Anthropic has built its public image around the concept of AI safety.",
+      "source": "Wired AI",
+      "sourceUrl": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
+      "category": "Industry",
+      "date": "2026-05-26T20:46:03.000Z",
+      "hot": false,
+      "officialUrl": "https://www.wired.com"
+    },
+    {
+      "id": "6a15ce2905d6069616b2583f",
+      "title": "What Pope Leo XIV’s First Encyclical Says About the Power of AI",
+      "summary": "Anthropic cofounder Chris Olah shakes hands with Pope Leo XIV ahead of the presentation of the first encyclical.Photograph: Alberto Pizzoli/Getty ImagesCommentLoaderSave StorySave this storyCommentLoaderSave StorySave this storyAn algorithm decides what Wired AI see, another filters what Wired AI read, and still others enter into the processes that govern work, information, and collective choices. In the encyclical Magnifica Humanitas. the first signed by Pope Leo XIV and published on May 25, artificial intelligence is not viewed as just another technology; it is part of the invisible infrastructure of Wired AI's contemporary daily lives. But the text is not conceived as an exclusively technological reflection. Pope Leo XIV places the issue of AI within the tradition of the social doctrine of the Catholic Church and directly invokes—while updating it—the Rerum Novarum of Pope Leo XIII (published on May 15, 1891) in the year of its 135th anniversary. That encyclical addressed the question of labor at the height of the industrial revolution in the late 19th century.",
+      "source": "Wired AI",
+      "sourceUrl": "https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai/",
+      "category": "Industry",
+      "date": "2026-05-26T20:17:47.000Z",
+      "hot": false,
+      "officialUrl": "https://www.wired.com"
+    },
     {
       "id": "https://decrypt.co/?p=369043",
       "title": "Spain Blocks Prediction Markets Kalshi, Polymarket for Potential Gambling Law Violations",
@@ -145,17 +189,6 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "https://decrypt.co/?p=369000",
-      "title": "Crypto Industry Fights Senator Warren's Claim That Coinbase, Ripple Bank Charter Approvals Are Il...",
-      "summary": "The Digital Chamber urged the OCC on Tuesday to defend its recent national bank charter approvals for crypto firms, which Sen. Elizabeth Warren slammed as improper.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/369000/crypto-industry-fights-warren-claim-coinbase-ripple-bank-charters-illegal",
-      "category": "Tech",
-      "date": "2026-05-26T14:00:55.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
       "id": "https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web",
       "title": "Sundar Pichai on AI, the future of search, and what’s happening to the web",
       "summary": "Today, the author is talking with Google and Alphabet CEO Sundar Pichai, in a conversation The Verge AI recorded just after the Google the author/O developer conference. This is the fifth year Sundar and the author have sat down after the author/O, and it’s become one of the author's favorite Decoder traditions. There’s always a lot of news at the author/O, and this year was no exception — Google has powerful new Gemini models, it’s putting AI agents in everything, and it’s making huge changes to Search on both the web and YouTube that will once again reshape the information ecosystem. That’s a lot to talk about, and Sundar and the author got into all of it. But the author also realized it’s been a long time since the author would asked Sundar the Decoder questions about structure and decision making, so the author started there. You’ll hear Sundar say he realized he needed to rethink how Google worked a few years ago in response to ChatGPT, and he made a lot of executive changes and big decisions to get the company in a more aggressive posture.",
@@ -187,17 +220,6 @@
       "date": "2026-05-26T13:17:03.000Z",
       "hot": false,
       "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=368996",
-      "title": "Lucky Trader Rides $341 World Cup Meme Coin Buy to 14,000% Gains",
-      "summary": "The trader still has over $100,000 worth of unrealized gains in the World Cup token, ahead of the start of the tournament next month.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/368996/lucky-trader-rides-341-world-cup-meme-coin-buy-to-14000-gains",
-      "category": "Tech",
-      "date": "2026-05-26T13:10:49.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
     },
     {
       "id": "https://www.techrepublic.com/?p=4325473",
@@ -233,17 +255,6 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
-      "id": "https://decrypt.co/?p=368990",
-      "title": "Morning Minute: Trump Hints That Iran Deal May Be Close, Markets Rebound",
-      "summary": "Markets bounced back on Trump's “largely negotiated” U.S.-Iran deal, but further airstrikes underscore the fragile geopolitical position.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/368990/morning-minute-trump-hints-that-iran-deal-may-be-close-markets-rebound",
-      "category": "Tech",
-      "date": "2026-05-26T12:26:49.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
       "id": "https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines",
       "title": "AI warfare is already here",
       "summary": "The Convention on Certain Conventional Weapons, an international forum that focuses on lethal autonomous systems, is hosted twice a year at the United Nations in Geneva. When Branka Marijan attended in November 2017, she thought the five-day sessions - which dealt largely in hypotheticals, speculating on a world where warfare was fought with killer robots - would be business as usual. After all, this was technology some thought might never be developed, and likely never deployed. That year, she quickly realized, was different. That distant, imagined future was suddenly closer and realer than ever. On the first day, some attendees watched … Read the  at The Verge.",
@@ -253,17 +264,6 @@
       "date": "2026-05-26T12:00:00.000Z",
       "hot": false,
       "officialUrl": "https://www.theverge.com"
-    },
-    {
-      "id": "69dfb53e4d1ff65c342bbbf4",
-      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
-      "summary": "ANIMATION: Saratta ChuengsatiansupCommentLoaderSave StorySave this storyCommentLoaderSave StorySave this story“Hi, the author's name is Peter, and the author is a Claudeholic.” It was August 2025 and Peter Steinberger was addressing a meetup in London called Claude Code Anonymous. Steinberger and some fellow addicts had arranged the event to network with people like themselves—techies swept up by coding tools such as Anthropic’s paradigm-busting Claude Code. “the author dedicate pretty much all the author's waking time to this, yet it doesn’t feel enough,” he told the gathering in a cozy, brick-walled room. A few months later, Anthropic released a new version of Claude Code, and the ranks of Claudeholics exploded. Called Opus 4.5, it could handle more complicated programming tasks, retain much more in its memory, run for many hours on end, and manage a team of AI subagents.",
-      "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
-      "category": "Industry",
-      "date": "2026-05-26T10:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.wired.com"
     },
     {
       "id": "6a064cd02957216c2557a056",
@@ -299,11 +299,11 @@
       "officialUrl": "https://www.wired.com"
     },
     {
-      "id": "69d67d849dad1bfe79e89acb",
-      "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
-      "summary": "Photo-illustrations: Jobanny Cabrera; Getty ImagesCommentLoaderSave StorySave this storyCommentLoaderSave StorySave this storyNearly half of Americans say they use AI to find information and generate ideas. As social media devolves into slop—and Google into a glorified landing page for Reddit threads and content farms—most of Wired AI are starved for something reliable. Plus, chatbots are so helpful, aren’t they? The first time the author interacted with one, the author asked if it knew it was a huge drain on resources. Half an hour later, the author had a new recipe for vegan cream cheese. Instead, the author found a human-created one that the LLM might have scraped.",
+      "id": "69dfb53e4d1ff65c342bbbf4",
+      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
+      "summary": "ANIMATION: Saratta ChuengsatiansupCommentLoaderSave StorySave this storyCommentLoaderSave StorySave this story“Hi, the author's name is Peter, and the author is a Claudeholic.” It was August 2025 and Peter Steinberger was addressing a meetup in London called Claude Code Anonymous. Steinberger and some fellow addicts had arranged the event to network with people like themselves—techies swept up by coding tools such as Anthropic’s paradigm-busting Claude Code. “the author dedicate pretty much all the author's waking time to this, yet it doesn’t feel enough,” he told the gathering in a cozy, brick-walled room. A few months later, Anthropic released a new version of Claude Code, and the ranks of Claudeholics exploded. Called Opus 4.5, it could handle more complicated programming tasks, retain much more in its memory, run for many hours on end, and manage a team of AI subagents.",
       "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/fact-checking-ai/",
+      "sourceUrl": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
       "category": "Industry",
       "date": "2026-05-26T10:00:00.000Z",
       "hot": false,
@@ -332,6 +332,17 @@
       "officialUrl": "https://www.wired.com"
     },
     {
+      "id": "69d67d849dad1bfe79e89acb",
+      "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
+      "summary": "Photo-illustrations: Jobanny Cabrera; Getty ImagesCommentLoaderSave StorySave this storyCommentLoaderSave StorySave this storyNearly half of Americans say they use AI to find information and generate ideas. As social media devolves into slop—and Google into a glorified landing page for Reddit threads and content farms—most of Wired AI are starved for something reliable. Plus, chatbots are so helpful, aren’t they? The first time the author interacted with one, the author asked if it knew it was a huge drain on resources. Half an hour later, the author had a new recipe for vegan cream cheese. Instead, the author found a human-created one that the LLM might have scraped.",
+      "source": "Wired AI",
+      "sourceUrl": "https://www.wired.com/story/fact-checking-ai/",
+      "category": "Industry",
+      "date": "2026-05-26T10:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.wired.com"
+    },
+    {
       "id": "6a07834ec1cea500f29718fa",
       "title": "7 Ways to Get So Good at AI, People Will Think You Are AI",
       "summary": "Photo-Illustration: Jobanny Cabrera; Getty ImagesCommentLoaderSave StorySave this storyCommentLoaderSave StorySave this storySam Liang is appalled as the author confess the author's technique for recording an interview: running the Voice Memos app on an iPhone and transferring the transcript manually to a Google Doc. The CEO of Otter, a transcription service for analyzing meetings, looks at the author as if the author tried to call into Wired AI's video chat using a rotary phone. He believes, naturally, that the author should switch to Otter. It’s all part of a new identity at work (and maybe at home): the AI native. Time-saving productivity tools like next-gen note-takers, task-based agents, and chatty inbox assistants are exploding in popularity as they invade every nook and cranny of Wired AI's digital lives. While it’s critical to keep concerns about security and hallucinations top of mind when using any AI feature, early adopters are developing a fluency that will likely pay dividends for years to come.",
@@ -354,15 +365,14 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
-      "id": "6a0f271b730e71e90fb72877",
-      "title": "US Law Enforcement Warns of ‘Anti-Tech Extremism’ as AI Hatred Grows",
-      "summary": "Photo-Illustration: WIRED Staff; Getty ImagesCommentLoaderSave StorySave this storyCommentLoaderSave StorySave this storyIn the wake of attacks on CEOs, a nationwide protest movement targeting data centers, and increasing concerns about AI job replacement, federal intelligence agencies and domestic law enforcement are circulating reports with a new domestic target in mind: anti-technology extremists. WIRED has made this article free for all to read because it is primarily based on reporting from Freedom of Information Act requests. Please consider subscribing to support Wired AI's journalism. More than 1,000 pages of unpublished reports from the Department of Homeland Security, FBI, and fusion centers obtained by WIRED show a national shift taking place to surveil this new and worryingly broad category of people and activities deemed an emerging threat. This new effort follows President Donald Trump&#x27;s National Security Presidential Memo 7, which instructs the Department of Justice to target anyone holding “anti-American,” “anti-Christian,” and &quot;anti-capitalism” beliefs. Earlier this month, Trump&#x27;s counterterrorism czar, Sebastian Gorka, released a public counterterrorism strategy claiming that left-wing extremists are one of the three top counterterrorism priorities facing the United States.",
-      "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/us-law-enforcement-warns-of-anti-tech-extremism/",
-      "category": "Industry",
-      "date": "2026-05-26T09:30:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.wired.com"
+      "id": "https://x.com/adcock_brett/status/2059351113984557262?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Figure Signs Deal With Catalyst Brands to Deploy Humanoid Robots",
+      "summary": "JavaScript is not available. Brett Adcock on X has detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using x.com. You can see a list of supported browsers in Brett Adcock on X's Help Center.",
+      "source": "Brett Adcock on X",
+      "sourceUrl": "https://x.com/adcock_brett/status/2059351113984557262?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-05-26T00:00:00.000Z",
+      "hot": false
     },
     {
       "id": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/?utm_source=futuretools.io&utm_medium=newspage",
@@ -429,17 +439,6 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "6a0342514988748cf644de02",
-      "title": "The AI Era Is Creating a Bug-Hunting Arms Race",
-      "summary": "Photo-Illustration: Skye Battles; Getty ImagesCommentLoaderSave StorySave this storyCommentLoaderSave StorySave this storyA decade ago, programs to reward researchers for submitting software vulnerability findings were just starting to go mainstream. Vulnerability disclosure and “bug bounty” programs represented a paradigm shift years in the making—moving institutions from hostility and defensiveness about security research findings to acknowledgement that receiving input and releasing fixes was necessary. When Apple finally announced a bug bounty in 2016, the top reward was $200,000. It rose to $1 million in 2019 and $2 million last year. But all of that is about to change again. As agentic AI models become more adept at both autonomously identifying software vulnerabilities and developing exploits for them—in other words, identifying weaknesses and creating hacking tools—vulnerability disclosure programs are being flooded just as organizations are finding more bugs than ever themselves.",
-      "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
-      "category": "Industry",
-      "date": "2026-05-25T10:30:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.wired.com"
-    },
-    {
       "id": "https://www.techrepublic.com/?p=4360033",
       "title": "Turn Prompts Into Pro Visual Content Fast For Just $64",
       "summary": "Build professional-grade visuals instantly with ARTA AI.",
@@ -504,6 +503,36 @@
       "hot": false
     },
     {
+      "id": "https://openai.com/index/grupo-folha-grupo-uol-partnership/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "OpenAI partners with Grupo Folha and UOL to bring Brazilian journalism to ChatGPT",
+      "summary": "OpenAI's first media partnership in Brazil will bring Folha de S.Paulo and UOL's journalism to ChatGPT. Loading…ShareStarting today, more than 900 million weekly active ChatGPT users around the world will be able to access high-quality journalism and see summaries based on Folha de S.Paulo and UOL's reporting. This is OpenAI’s first media partnership in Brazil and grounded in a broader effort to work collaboratively with news organizations around the world. By partnering with publishers across multiple markets, including in the United States, UK, France, Germany and now Brazil, OpenAI aims to integrate trusted reporting into AI-powered experiences and help bring journalism into ChatGPT in ways that emphasize attribution, transparency, and links back to original sources. According to Sérgio Dávila, Editor-in-Chief of Folha de S.Paulo, “The interest of an artificial intelligence giant like OpenAI in displaying content produced by Folha de S.Paulo and UOL only reinforces the importance of professional journalism.” “Folha de S.Paulo and UOL are among Brazil's most relevant sources of original reporting.",
+      "source": "openai.com",
+      "sourceUrl": "https://openai.com/index/grupo-folha-grupo-uol-partnership/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-05-25T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://www.techtimes.com/articles/317080/20260525/apple-registers-genai-subdomain-ahead-wwdc-siri-overhaul-finally-arrives-ios-27.htm?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Apple Registers GenAI Subdomain Ahead of WWDC as iOS 27 Siri Overhaul Looms",
+      "summary": "Apple registered the subdomain genai.apple.com two weeks before WWDC 2026 opens June 8, signaling new generative AI infrastructure. iOS 27 is expected to debut a rebuilt Siri powered by Google Gemini running on Apple's Private Cloud Compute, with personal context awareness, on-screen understanding, and a new Search or Ask gesture tied to the Dynamic Island. Apple also settled a $250 million class action lawsuit alleging it falsely advertised Siri capabilities on iPhone 15 Pro and iPhone 16 devices.",
+      "source": "techtimes.com",
+      "sourceUrl": "https://www.techtimes.com/articles/317080/20260525/apple-registers-genai-subdomain-ahead-wwdc-siri-overhaul-finally-arrives-ios-27.htm?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-05-25T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Anthropic Co-Founder Chris Olah Addresses Pope Leo XIV’s AI Encyclical at Vatican",
+      "summary": "On Monday May 25, 2026, Pope Leo XIV released an encyclical on the topic of AI: \"Magnifica humanitas: On safeguarding the human person in the time of artificial Intelligence.\" Anthropic co-founder Chris Olah was invited to speak at the presentation of the encyclical in the Vatican City, doing so as part of Anthropic’s initiative to widen the conversation on the important questions raised by AI. Below are his full remarks. Good morning to all of you. It’s an honor to be here today. the author want to begin with something that may sound strange coming from the co-founder of an AI company—and someone who chose this work out of a desire to help things go well for humankind. Every frontier AI lab—including Anthropic—operates inside a set of incentives and constraints that can sometimes conflict with doing the right thing.",
+      "source": "anthropic.com",
+      "sourceUrl": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-05-25T00:00:00.000Z",
+      "hot": false
+    },
+    {
       "id": "https://techcrunch.com/?p=3125822",
       "title": "Everyone is navigating AI security in real time — even Google",
       "summary": "TechCrunch AI released a major industry update. Click to read the full report on their technical blog.",
@@ -535,36 +564,6 @@
       "date": "2026-05-24T12:00:00.000Z",
       "hot": false,
       "officialUrl": "https://www.theverge.com"
-    },
-    {
-      "id": "https://openai.com/index/grupo-folha-grupo-uol-partnership/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "OpenAI partners with Grupo Folha and UOL to bring Brazilian journalism to ChatGPT",
-      "summary": "OpenAI's first media partnership in Brazil will bring Folha de S.Paulo and UOL's journalism to ChatGPT. Loading…ShareStarting today, more than 900 million weekly active ChatGPT users around the world will be able to access high-quality journalism and see summaries based on Folha de S.Paulo and UOL's reporting. This is OpenAI’s first media partnership in Brazil and grounded in a broader effort to work collaboratively with news organizations around the world. By partnering with publishers across multiple markets, including in the United States, UK, France, Germany and now Brazil, OpenAI aims to integrate trusted reporting into AI-powered experiences and help bring journalism into ChatGPT in ways that emphasize attribution, transparency, and links back to original sources. According to Sérgio Dávila, Editor-in-Chief of Folha de S.Paulo, “The interest of an artificial intelligence giant like OpenAI in displaying content produced by Folha de S.Paulo and UOL only reinforces the importance of professional journalism.” “Folha de S.Paulo and UOL are among Brazil's most relevant sources of original reporting.",
-      "source": "openai.com",
-      "sourceUrl": "https://openai.com/index/grupo-folha-grupo-uol-partnership/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-05-24T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Anthropic Co-Founder Chris Olah Addresses Pope Leo XIV’s AI Encyclical at Vatican",
-      "summary": "On Monday May 25, 2026, Pope Leo XIV released an encyclical on the topic of AI: \"Magnifica humanitas: On safeguarding the human person in the time of artificial Intelligence.\" Anthropic co-founder Chris Olah was invited to speak at the presentation of the encyclical in the Vatican City, doing so as part of Anthropic’s initiative to widen the conversation on the important questions raised by AI. Below are his full remarks. Good morning to all of you. It’s an honor to be here today. the author want to begin with something that may sound strange coming from the co-founder of an AI company—and someone who chose this work out of a desire to help things go well for humankind. Every frontier AI lab—including Anthropic—operates inside a set of incentives and constraints that can sometimes conflict with doing the right thing.",
-      "source": "anthropic.com",
-      "sourceUrl": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-05-24T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://www.techtimes.com/articles/317080/20260525/apple-registers-genai-subdomain-ahead-wwdc-siri-overhaul-finally-arrives-ios-27.htm?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Apple Registers GenAI Subdomain Ahead of WWDC as iOS 27 Siri Overhaul Looms",
-      "summary": "Apple registered the subdomain genai.apple.com two weeks before WWDC 2026 opens June 8, signaling new generative AI infrastructure. iOS 27 is expected to debut a rebuilt Siri powered by Google Gemini running on Apple's Private Cloud Compute, with personal context awareness, on-screen understanding, and a new Search or Ask gesture tied to the Dynamic Island. Apple also settled a $250 million class action lawsuit alleging it falsely advertised Siri capabilities on iPhone 15 Pro and iPhone 16 devices.",
-      "source": "techtimes.com",
-      "sourceUrl": "https://www.techtimes.com/articles/317080/20260525/apple-registers-genai-subdomain-ahead-wwdc-siri-overhaul-finally-arrives-ios-27.htm?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-05-24T00:00:00.000Z",
-      "hot": false
     },
     {
       "id": "https://techcrunch.com/?p=3125548",
@@ -842,17 +841,6 @@
       "category": "Curation",
       "date": "2026-05-22T00:00:00.000Z",
       "hot": false
-    },
-    {
-      "id": "https://news.mit.edu/2026/whitney-newey-erwin-plein-nemmers-prize-economics-0521",
-      "title": "MIT economist Whitney Newey awarded Erwin Plein Nemmers Prize in Economics",
-      "summary": "MIT economist&nbsp;Whitney Newey PhD ’83, the Ford Professor of Economics, emeritus, has received the 2026&nbsp;Erwin Plein Nemmers Prize in Economics.The&nbsp;biennial Nemmers prizes from Northwestern University recognize top scholars for their lasting contributions to new knowledge, outstanding achievements, and the development of significant new modes of analysis.The university cited Newey — whose research has focused on econometrics — for producing “a body of work that has shaped the field of semiparametric econometrics, guided both econometricians and empirical researchers over several decades, and helped lay the foundations for modern machine learning-based inference.”Newey will interact with Northwestern faculty and students through programming scheduled to occur during the 2026-27 academic year. The prize also includes a $300,000 award.“the author is delighted, deeply honored, and very grateful,” says Newey of the honor. “the author is thrilled to have worked on and now work on ideas and approaches that are important for modern, machine learning-based inference and modern empirical economics more generally, most of this with such capable collaborators. This prize will expedite this work.”Newey has been a leading figure in econometric theory for more than four decades, shaping both research and training in the field. He has done pathbreaking work on variance estimation, nonparametric simultaneous equations, consumer surplus estimation with general heterogeneity, and...",
-      "source": "MIT News ML",
-      "sourceUrl": "https://news.mit.edu/2026/whitney-newey-erwin-plein-nemmers-prize-economics-0521",
-      "category": "Research",
-      "date": "2026-05-21T21:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://news.mit.edu"
     }
   ]
 }
