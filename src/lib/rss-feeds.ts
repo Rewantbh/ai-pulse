@@ -104,9 +104,19 @@ export const RSS_FEEDS: NewsSource[] = [
     category: "Industry",
   },
   {
-    name: "ZDNet AI",
-    url: "https://www.zdnet.com/topic/artificial-intelligence/rss.xml",
-    category: "Industry",
+    name: "MIT Technology Review AI",
+    url: "https://www.technologyreview.com/topic/artificial-intelligence/feed/",
+    category: "Research",
+  },
+  {
+    name: "CNBC Tech",
+    url: "https://www.cnbc.com/id/19854910/device/rss/rss.html",
+    category: "Business",
+  },
+  {
+    name: "Mashable Tech",
+    url: "https://mashable.com/feeds/rss/tech",
+    category: "Tech",
   },
   {
     name: "Engadget AI",
@@ -162,5 +172,29 @@ export const RSS_FEEDS: NewsSource[] = [
     name: "LlamaIndex Blog",
     url: "https://medium.com/feed/llamaindex-blog",
     category: "Tools",
+  },
+  {
+    name: "Leonardo AI Blog",
+    url: "https://leonardo.ai/news/",
+    category: "Tools",
+    scraperMode: true,
+  },
+  {
+    name: "ElevenLabs Blog",
+    url: "https://elevenlabs.io/blog",
+    category: "Audio",
+    scraperMode: true,
+  },
+  {
+    name: "Runway Blog",
+    url: "https://runwayml.com/blog/",
+    category: "Video",
+    scraperMode: true,
+  },
+  {
+    name: "Bing Search Blog",
+    url: "https://blogs.bing.com/search",
+    category: "Insights",
+    scraperMode: true,
   },
 ];

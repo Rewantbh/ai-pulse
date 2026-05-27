@@ -48,7 +48,8 @@ function isAIContent(title: string, summary: string, source: string): boolean {
   const aiSources = [
     "Anthropic", "Mistral", "OpenAI", "Suno", "Pika", "Cohere", "Perplexity",
     "Google", "DeepMind", "NVIDIA", "Meta", "Microsoft", "Hugging Face",
-    "LangChain", "LlamaIndex", "xAI", "Cognition", "DeepSeek", "FutureTools"
+    "LangChain", "LlamaIndex", "xAI", "Cognition", "DeepSeek", "FutureTools",
+    "Leonardo", "ElevenLabs", "Runway", "Bing", "MIT Technology Review"
   ];
   if (aiSources.some(s => source.toLowerCase().includes(s.toLowerCase()))) return true;
 

@@ -236,7 +236,11 @@ export async function scrapeNewsFromSource(source: NewsSource): Promise<NewsItem
         (source.name.includes("Cohere") && (href.includes("/blog/") || href.includes("/post/"))) ||
         (source.name.includes("Suno") && href.includes("/blog/")) ||
         (source.name.includes("Pika") && href.includes("/blog/") && !href.endsWith("/announcement")) ||
-        (source.name.includes("LangChain") && href.includes("/blog/") && href !== "https://www.langchain.com/blog")
+        (source.name.includes("LangChain") && href.includes("/blog/") && href !== "https://www.langchain.com/blog") ||
+        (source.name.includes("Leonardo") && (href.includes("/news/") || href.includes("/blog/"))) ||
+        (source.name.includes("ElevenLabs") && href.includes("/blog/")) ||
+        (source.name.includes("Runway") && (href.includes("/blog/") || href.includes("/research/"))) ||
+        (source.name.includes("Bing") && (href.includes("/search/") || href.includes("/blog/")))
       );
 
       if (isArticle) {
