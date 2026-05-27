@@ -63,7 +63,23 @@ function cleanSummary(text: string): string {
   if (!text) return "";
   let result = text.trim();
   
-  // Remove common boilerplate
+  // 1. Remove Wired/tech blog comment and save story boilerplates
+  result = result.replace(/\b(CommentLoader|Save Story|Save this story)\b/gi, "");
+  
+  // 2. Remove leading image credit lines/paragraphs
+  result = result.replace(/^\|\s*(?:Image|Photo|Illustration|Photo-Illustration):?[^|•\n]{1,150}?(?:Getty Images|Getty|Verge|Wired|Reuters|AP|AFP|Bloomberg|Staff)[^|•\n]*?(?:\s+(?=[A-Z])|\s*$)/gi, "");
+  result = result.replace(/^[^|•\n]{1,150}?\|\s*(?:Getty Images|AFP|Reuters|AP|Bloomberg|Getty|Unsplash|Shutterstock)(?:\s+(?=[A-Z])|\s*$)/gi, "");
+  result = result.replace(/^[^|•\n]{1,150}?•\s*(?:Getty Images|AFP|Reuters|AP|Bloomberg|Getty|Unsplash|Shutterstock)(?:\s+(?=[A-Z])|\s*$)/gi, "");
+  result = result.replace(/^(?:Image|Photo|Illustration|Photo-Illustration):\s*[^.\n]{1,150}?(?:Getty|Verge|Wired|Reuters|AP|AFP|Bloomberg|Staff)[^.\n]*?\.?(?:\s+(?=[A-Z])|\s*$)/gi, "");
+
+  // Cleanup any leftover leading punctuation or brand fragments from partial matches
+  result = result.replace(/^[\s,;|-]*(?:Getty Images|Getty|Verge|Wired|Reuters|AFP|AP|Bloomberg|Staff)\b/gi, "");
+  result = result.replace(/^[\s,;|-]+/g, "");
+
+  // 3. Remove common trailing boilerplate (including cut-off Verge feed footers)
+  result = result.replace(/\bRead the \w* at The Verge\b.*/gi, "");
+  result = result.replace(/\bRead the article\b.*/gi, "");
+  result = result.replace(/\bRead the full story\b.*/gi, "");
   result = result.replace(/Subscribe to our newsletter.*/gi, "");
   result = result.replace(/Sign up for our daily.*/gi, "");
   result = result.replace(/Follow us on (X|Twitter|Facebook|LinkedIn).*/gi, "");
@@ -79,14 +95,8 @@ function cleanSummary(text: string): string {
   return result.trim();
 }
 
-/**
- * Transforms first-person narratives into neutral, third-person perspective.
- */
-export function neutralizeSummary(text: string, source: string): string {
-  if (!text) return "";
-  let result = cleanSummary(text);
-  
-  const sourceName = source.replace(/\b(Blog|News|Weekly|Tech|Daily|Report)\b|X:/gi, "").trim() || source;
+function applyPronounReplacements(text: string, sourceName: string): string {
+  let result = text;
   
   // 1. Contractions and multi-word phrases first to avoid partial matching bugs (supporting straight and curly apostrophes)
   const replacements: [RegExp, string][] = [
@@ -112,6 +122,32 @@ export function neutralizeSummary(text: string, source: string): string {
   replacements.forEach(([regex, replacement]) => {
     result = result.replace(regex, replacement);
   });
+
+  return result;
+}
+
+/**
+ * Transforms first-person narratives into neutral, third-person perspective.
+ */
+export function neutralizeSummary(text: string, source: string): string {
+  if (!text) return "";
+  let cleaned = cleanSummary(text);
+  
+  const sourceName = source.replace(/\b(Blog|News|Weekly|Tech|Daily|Report)\b|X:/gi, "").trim() || source;
+  
+  // Split by quotation marks (double quotes and curly quotes) to avoid replacing pronouns inside direct speech/quotes
+  const segments = cleaned.split(/(["“‘].*?["”’])/g);
+  
+  for (let i = 0; i < segments.length; i++) {
+    const seg = segments[i];
+    // A simple heuristic: if a segment starts and ends with quotes, we preserve it as is
+    const isQuoted = /^[“"‘].*[”"’]$/.test(seg.trim());
+    if (!isQuoted) {
+      segments[i] = applyPronounReplacements(seg, sourceName);
+    }
+  }
+  
+  let result = segments.join("");
 
   result = result.charAt(0).toUpperCase() + result.slice(1);
   result = result.replace(/\b(excited to announce|thrilled to share|proud to present|we['’]re happy to|happy to share|excited to share)\b/gi, "announced");
