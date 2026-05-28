@@ -67,11 +67,11 @@ function cleanSummary(text: string): string {
   // 1. Remove Wired/tech blog comment and save story boilerplates
   result = result.replace(/\b(CommentLoader|Save Story|Save this story)\b/gi, "");
   
-  // 2. Remove leading image credit lines/paragraphs
-  result = result.replace(/^\|\s*(?:Image|Photo|Illustration|Photo-Illustration):?[^|•\n]{1,150}?(?:Getty Images|Getty|Verge|Wired|Reuters|AP|AFP|Bloomberg|Staff)[^|•\n]*?(?:\s+(?=[A-Z])|\s*$)/gi, "");
-  result = result.replace(/^[^|•\n]{1,150}?\|\s*(?:Getty Images|AFP|Reuters|AP|Bloomberg|Getty|Unsplash|Shutterstock)(?:\s+(?=[A-Z])|\s*$)/gi, "");
-  result = result.replace(/^[^|•\n]{1,150}?•\s*(?:Getty Images|AFP|Reuters|AP|Bloomberg|Getty|Unsplash|Shutterstock)(?:\s+(?=[A-Z])|\s*$)/gi, "");
-  result = result.replace(/^(?:Image|Photo|Illustration|Photo-Illustration):\s*[^.\n]{1,150}?(?:Getty|Verge|Wired|Reuters|AP|AFP|Bloomberg|Staff)[^.\n]*?\.?(?:\s+(?=[A-Z])|\s*$)/gi, "");
+  // 2. Remove leading image credit lines/paragraphs (with/without caption, general and case-insensitive)
+  result = result.replace(/^(?:[^|\n]{1,300}?)\s*\|\s*(?:Image|Photo|Illustration|Photo-Illustration):?\s*[^.\n]{1,100}?(?:\.|\s|$)/gi, "");
+  result = result.replace(/^(?:Image|Photo|Illustration|Photo-Illustration):\s*[^.\n]{1,200}?(?:\.|\s+(?=[A-Z])|$)/gi, "");
+  result = result.replace(/^\|\s*(?:Image|Photo|Illustration|Photo-Illustration):?\s*[^.\n]{1,200}?(?:\.|\s+(?=[A-Z])|$)/gi, "");
+  result = result.replace(/^[^|•\n]{1,150}?[|•]\s*(?:Getty Images|Getty|Verge|Wired|Reuters|AP|AFP|Bloomberg|Staff|Unsplash|Shutterstock)(?:\s+(?=[A-Z])|\s*$)/gi, "");
 
   // Cleanup any leftover leading punctuation or brand fragments from partial matches
   result = result.replace(/^[\s,;|-]*(?:Getty Images|Getty|Verge|Wired|Reuters|AFP|AP|Bloomberg|Staff)\b/gi, "");
@@ -111,13 +111,19 @@ function applyPronounReplacements(text: string, sourceName: string): string {
     [/\bwe['’]d\b/gi, `${sourceName} would`],
     [/\bwe['’]ll\b/gi, `${sourceName} will`],
     
-    // 2. Standalone pronouns
-    [/\bwe\b/gi, sourceName],
-    [/\bour\b/gi, `${sourceName}'s`],
-    [/\bus\b/gi, sourceName],
-    [/\bi\b/gi, `the author`],
-    [/\bmy\b/gi, `the author's`],
-    [/\bme\b/gi, `the author`],
+    // 2. Standalone pronouns (Case-sensitive to avoid country/acronym collisions like "US" -> United States)
+    [/\bwe\b/g, sourceName],
+    [/\bWe\b/g, sourceName],
+    [/\bour\b/g, `${sourceName}'s`],
+    [/\bOur\b/g, `${sourceName}'s`],
+    [/\bus\b/g, sourceName],
+    [/\bUs\b/g, sourceName],
+    [/\bi\b/g, `the author`],
+    [/\bI\b/g, `the author`],
+    [/\bmy\b/g, `the author's`],
+    [/\bMy\b/g, `the author's`],
+    [/\bme\b/g, `the author`],
+    [/\bMe\b/g, `the author`],
   ];
 
   replacements.forEach(([regex, replacement]) => {
