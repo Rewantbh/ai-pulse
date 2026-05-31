@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2026-05-31T11:32:03.259Z",
+  "lastUpdated": "2026-05-31T13:23:20.798Z",
   "news": [
+    {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
+      "title": "I went looking for the AI weed vape that gives you Bitcoin for smoking",
+      "summary": "The crypto weed vape found the author on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man exhaling a plume of vapor, the words \"every hit delivers Bitcoin\" emblazoned across it. It claimed to be advertising a device called Gudtrip, and the author thought everything about it sounded fake. What the author eventually found, after weeks of searching, dozens of emails, and a reporting effort that spanned continents, was somehow even dumber than the author would imagined. the author's first port of call was Gudtrip's website, which only made the vape seem more like a prank. The company's description of the pr …",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
+      "category": "Industry",
+      "date": "2026-05-31T13:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
     {
       "id": "6a15a969fafbd32f2a6d2b95",
       "title": "How Turkey Hacked the Hair Transplant Industry",
@@ -826,17 +837,6 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
-      "id": "https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca",
-      "title": "A $2,000 AI-generated film will make its debut at Tribeca",
-      "summary": "Next month's Tribeca Festival will include the premiere of an AI-generated film: Dreams of Violets. The 75-minute film is a fictional dramatization of the Iranian government's mass killing of protestors in January, with the people and images fully created by AI, as reported earlier by The Hollywood Reporter. Dreams of Violets cost $2,000 to make and is \"based on journalistic reports, photographs, and eyewitness accounts,\" according to a press release. It was created by Ash and Pooya Koosha, two brothers who left Iran in 2009. Pooya cofounded Fountain 0, the company behind the film, while Ash serves as CEO. Fountain 0 says Dreams of Violets …",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca",
-      "category": "Industry",
-      "date": "2026-05-28T16:08:45.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
       "id": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
       "title": "Catch up on 12 major I/O 2026 moments",
       "summary": "Relive some of Google AI's top onstage moments this year, including the debut of Google AI's newest models, updates to Search and more. Zahra Thompson Contributor, The Keyword Share x.com Facebook LinkedIn Mail Copy link class ProgressiveImage { EVENTS = { TRANSITION_END: 'transitionend', }; CSS_CLASSES = { BLUR: 'uni-progressive-image--blur', NO_BLUR: 'uni-progressive-image--no-blur', }; init(el) { this.el = el; this._events(); this._upgradeImage(); } _upgradeImage() { // For gif format images Google AI don't include data-srcset and data-sizes // Google AI can safely remove the blur filter. if (!this.el.dataset.srcset || !this.el.dataset.sizes) { this.el.classList.add(this.CSS_CLASSES.NO_BLUR); return; } this.el.setAttribute('srcset', this.el.dataset.srcset); this.el.setAttribute('sizes', this.el.dataset.sizes); requestAnimationFrame(() => { this.el.classList.add(this.CSS_CLASSES.NO_BLUR); }); } _events() { // Once the transition completes is safe to clean some attributes this.el.addEventListener(this.EVENTS.TRANSITION_END, () => { this.el.classList.remove(this.CSS_CLASSES.BLUR, this.CSS_CLASSES.NO_BLUR); this.el.removeAttribute('data-srcset'); this.el.removeAttribute('data-sizes'); }); } } document.addEventListener('DOMContentLoaded', () => { const images = document.querySelectorAll('[data-component=\"uni-progressive-image\"]'); images.forEach((el) => { el.setAttribute('data-component-initialized', true); new ProgressiveImage().init(el); }); }); Your browser does not suppo...",
@@ -1388,16 +1388,6 @@
       "date": "2026-05-26T14:54:10.000Z",
       "hot": false,
       "officialUrl": "https://www.technologyreview.com"
-    },
-    {
-      "id": "https://elevenlabs.io/blog/introducing-music-v2",
-      "title": "Introducing Music v2",
-      "summary": "0:001.0xLearn moreTry Music v2On this page Music v2 delivers better vocals, instrumentation, and arrangement across every genre, with improved multilingual support and a set of new capabilities. Music v2 powers three ElevenLabs platforms, each built for a different use case: Alongside this release, ElevenLabs&#x27;ve cut both Music v1 and Music v2 pricing by up to 50% for ElevenAPI and up to 40% for ElevenCreative self-serve customers. Music v2 introduces a new set of capabilities and improvements when compared to ElevenLabs's previous model, from new ways to control and shape a track, to handling vocal and compositional complexity at a level that wasn&#x27;t possible before. A single song can move from opera to heavy metal and back, sustain fast rap and dense lyrical delivery, and embed non-musical sound effects directly within the track, all without breaking musical coherence.",
-      "source": "ElevenLabs Blog",
-      "sourceUrl": "https://elevenlabs.io/blog/introducing-music-v2",
-      "category": "Audio",
-      "date": "2026-05-26T12:00:00.000Z",
-      "hot": true
     }
   ]
 }
