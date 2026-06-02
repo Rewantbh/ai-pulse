@@ -64,13 +64,13 @@ function cleanSummary(text: string): string {
   if (!text) return "";
   let result = text.trim();
   
-  // 1. Remove Wired/tech blog comment and save story boilerplates
-  result = result.replace(/\b(CommentLoader|Save Story|Save this story)\b/gi, "");
+  // 1. Remove Wired/tech blog comment and save story boilerplates (no word boundaries because they get mashed together in HTML-to-text conversion)
+  result = result.replace(/(CommentLoader|Save Story|Save this story)/gi, " ");
   
   // 2. Remove leading image credit lines/paragraphs (with/without caption, general and case-insensitive)
-  result = result.replace(/^(?:[^|\n]{1,300}?)\s*\|\s*(?:Image|Photo|Illustration|Photo-Illustration):?\s*[^.\n]{1,100}?(?:\.|\s|$)/gi, "");
-  result = result.replace(/^(?:Image|Photo|Illustration|Photo-Illustration):\s*[^.\n]{1,200}?(?:\.|\s+(?=[A-Z])|$)/gi, "");
-  result = result.replace(/^\|\s*(?:Image|Photo|Illustration|Photo-Illustration):?\s*[^.\n]{1,200}?(?:\.|\s+(?=[A-Z])|$)/gi, "");
+  result = result.replace(/^(?:[^|\n]{1,300}?)\s*\|\s*(?:Image|Photo|Illustration|Photo-Illustration|Photograph|Picture):?\s*[^.\n]{1,100}?(?:Getty Images|Getty|Verge|Wired|Reuters|AP|AFP|Bloomberg|Staff|Unsplash|Shutterstock)(?:\s+(?=[A-Z])|\s|$)/gi, "");
+  result = result.replace(/^(?:Image|Photo|Illustration|Photo-Illustration|Photograph|Picture):\s*[^.\n]{1,200}?(?:Getty Images|Getty|Verge|Wired|Reuters|AP|AFP|Bloomberg|Staff|Unsplash|Shutterstock)[^.\n]*?\.?(?:\s+(?=[A-Z])|\s*$)/gi, "");
+  result = result.replace(/^\|\s*(?:Image|Photo|Illustration|Photo-Illustration|Photograph|Picture):?\s*[^.\n]{1,200}?(?:Getty Images|Getty|Verge|Wired|Reuters|AP|AFP|Bloomberg|Staff|Unsplash|Shutterstock)[^.\n]*?\.?(?:\s+(?=[A-Z])|\s*$)/gi, "");
   result = result.replace(/^[^|•\n]{1,150}?[|•]\s*(?:Getty Images|Getty|Verge|Wired|Reuters|AP|AFP|Bloomberg|Staff|Unsplash|Shutterstock)(?:\s+(?=[A-Z])|\s*$)/gi, "");
 
   // Cleanup any leftover leading punctuation or brand fragments from partial matches
@@ -92,6 +92,9 @@ function cleanSummary(text: string): string {
   
   // Remove newsletter intro styles (e.g. "This is the Stepback...")
   result = result.replace(/This is (the|our) [\w\s]+ newsletter.*/gi, "");
+  
+  // Collapse excessive spaces from inline removals
+  result = result.replace(/\s+/g, " ");
   
   return result.trim();
 }
