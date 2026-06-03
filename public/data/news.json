@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T23:16:48.391Z",
+  "lastUpdated": "2026-06-03T02:06:25.221Z",
   "news": [
     {
       "id": "108315623",
@@ -8,7 +8,7 @@
       "source": "CNBC Tech",
       "sourceUrl": "https://www.cnbc.com/2026/06/02/palo-alto-ceo-customer-meeting-requests-surged-ai-security-concerns.html",
       "category": "Business",
-      "date": "2026-06-02T22:55:23.000Z",
+      "date": "2026-06-02T23:33:29.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
     },
@@ -125,7 +125,7 @@
     {
       "id": "06orF1H7Cysw5dfdUZ4ey6h",
       "title": "What we learned at Microsoft Build: Autopilots, MAI-Thinking-1, and Nvidia RTX Spark",
-      "summary": "Microsoft is so keen to help you deploy AI agents, it's building its own version of OpenClaw &mdash; and a new agentic OS based on Android rather than Windows. CEO Satya Nadella doubled down on AI agents and tools during his keynote at the company's annual Microsoft Build conference for developers on Tuesday. That included a first look at Project Soltera, an Android-based software platform which Microsoft calls \"a chip-to-cloud platform designed for an open, multiple agent world that expands how agents are built, deployed and experienced.\" You can watch the Microsoft Build 2026 keynote for yourself, or Mashable can give you the highlights. The MAI family of modelsNadella unveiled Microsoft's first reasoning AI model, the first in a new suite of MAI models. This is the tech giant attempting to reduce its reliance on models from its longtime partner OpenAI. In fact, this Build has been described by some observers as Microsoft's AI independence day.",
+      "summary": "Microsoft is so keen to help you deploy AI agents, it's building its own version of OpenClaw &mdash; and a new agentic OS based on Android rather than Windows. CEO Satya Nadella doubled down on AI agents and tools during his keynote at the company's annual Microsoft Build conference for developers on Tuesday. That included a first look at Project Soltera, an Android-based software platform which Microsoft calls \"a chip-to-cloud platform designed for an open, multiple agent world that expands how agents are built, deployed and experienced.\" You can watch the Microsoft Build 2026 keynote for yourself, or Mashable can give you the highlights.The MAI family of modelsNadella unveiled Microsoft's first reasoning AI model, the first in a new suite of MAI models. This is the tech giant attempting to reduce its reliance on models from its longtime partner OpenAI. In fact, this Build has been described by some observers as Microsoft's AI independence day. MAI-Thinking-1 is a mid-sized, 35-billion-parameter model with a 128,000-context window, and Microsoft was keen to emphasize its low token cost compared to similar models.",
       "source": "Mashable Tech",
       "sourceUrl": "https://mashable.com/tech/microsoft-build-2026-keynote-everything-we-learned",
       "category": "Tech",
@@ -1348,59 +1348,6 @@
       "date": "2026-05-29T03:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
-      "title": "A shared playbook for trustworthy third party evaluations",
-      "summary": "What matters for effective independent evaluations of safeguards and capabilities for frontier models. Loading…ShareIndependent, trusted third party evaluations play a critical role⁠ in strengthening the safety ecosystem. These evaluations are conducted on frontier models to provide additional evidence for claims about critical capabilities and safety mitigations. In this post, OpenAI share lessons OpenAI has learned so far, and recommend approaches for designing evaluations that can validly assess frontier models that OpenAI hope help inform emerging standards in the space. Earlier, many evaluations treated models like chatbots: the evaluation prompted a model as though it were a user asking a question, the model answered, and an evaluator judged the output. Today’s frontier models can do much more: they can use tools, keep track of information across many steps, and act within a larger workflow.",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
-      "category": "Models",
-      "date": "2026-05-29T00:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://huggingface.co/blog/torch-profiler",
-      "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
-      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog/torch-profiler",
-      "category": "Research",
-      "date": "2026-05-29T00:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://huggingface.co"
-    },
-    {
-      "id": "https://aiweekly.co/issues/ais-labor-war-just-went-global",
-      "title": "AI Weekly Issue #497: AI's labor war just went global",
-      "summary": "This was the week the AI-and-work conflict broke into the open simultaneously across four jurisdictions. Wikipedia editors are organizing a strike over Wikimedia layoffs. Amazon employees gamed its internal AI ranking into uselessness. Chinese courts began enforcing a framework that bars AI-justified layoffs. A UK thinktank, with TUC backing, called for employees to get a real say over how AI is rolled out in their workplaces. None of it is coordinated.",
-      "source": "AI Weekly",
-      "sourceUrl": "https://aiweekly.co/issues/ais-labor-war-just-went-global",
-      "category": "Curation",
-      "date": "2026-05-29T00:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://aiweekly.co"
-    },
-    {
-      "id": "https://www.youtube.com/watch?v=7TG78vIYI-Q",
-      "title": "All The AI News You Missed From The Past Week (Full Breakdown)",
-      "summary": "Watch Matt Wolfe's latest YouTube video where he breaks down all of the most important AI news from the past week.",
-      "source": "Matt Wolfe on YouTube",
-      "sourceUrl": "https://www.youtube.com/watch?v=7TG78vIYI-Q",
-      "category": "Curation",
-      "date": "2026-05-29T00:00:00.000Z",
-      "hot": true
-    },
-    {
-      "id": "https://x.com/CodexReleases/status/2060416347847196778?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "OpenAI Codex Adds Windows Computer Use and Mobile Remote Access",
-      "summary": "JavaScript is not available. Codex Releases on X has detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using x.com. You can see a list of supported browsers in Codex Releases on X's Help Center.",
-      "source": "Codex Releases on X",
-      "sourceUrl": "https://x.com/CodexReleases/status/2060416347847196778?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-05-29T00:00:00.000Z",
-      "hot": false
     }
   ]
 }
