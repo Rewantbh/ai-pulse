@@ -1,6 +1,61 @@
 {
-  "lastUpdated": "2026-06-03T02:06:25.221Z",
+  "lastUpdated": "2026-06-03T06:17:51.236Z",
   "news": [
+    {
+      "id": "108314789",
+      "title": "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developers",
+      "summary": "At its Build developer conference, Microsoft announced a series of generative AI models to try and crack a market controlled by OpenAI, Anthropic and Google.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html",
+      "category": "Business",
+      "date": "2026-06-03T05:47:51.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "108315054",
+      "title": "Big Tech's AI ambitions pose a major power test for Europe",
+      "summary": "Japan's SoftBank on Saturday announced plans to build 3.1 GW of AI data centers in the northern Hauts-de-France region by 2031.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/06/03/big-techs-ai-power-test-europe-softbank-france.html",
+      "category": "Business",
+      "date": "2026-06-03T05:03:01.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "108315023",
+      "title": "Investors bet humanoid robots will transform industry and homes over the next decade",
+      "summary": "“Be ready for it,” said one fund manager who sees enormous opportunities in the space.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/06/03/humanoid-robots-trillion-dollar-ai-market.html",
+      "category": "Business",
+      "date": "2026-06-03T05:00:01.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://news.mit.edu/2026/mit-researchers-teach-ai-models-to-interpret-charts-0603",
+      "title": "MIT researchers teach AI models to interpret charts",
+      "summary": "To accelerate and refine decision-making in a fast-paced, global marketplace, enterprises may deploy generative artificial intelligence models to help summarize and interpret the charts that often fill market summaries and financial reports.But even the latest vision-language models sometimes struggle with this task, since it requires a model to integrate visual, numerical, and linguistic understanding. A company that invests in a state-of-the-art model might still receive inaccurate or incomplete information.To fill this performance gap, researchers from MIT and the MIT-IBM Computing Research Lab developed a multifaceted resource for AI users that is specifically designed to teach vision-language models (VLMs) how to effectively interpret charts.&nbsp;They used a novel data generation method to build a state-of-the-art dataset&nbsp;that includes more than a million varied charts. The dataset also encodes many visual, linguistic, and numerical components of each chart image, which enable models to robustly reason about the information in a chart.The researchers used this dataset, called ChartNet, to train a series of open-source VLMs.&nbsp; Many of these smaller models significantly outperformed orders of magnitude larger, commercial models on tasks like data extraction and chart summarization.By enabling open-source models to outperform their commercial counterparts, ChartNet could allow small firms with limited budgets to more readily utilize AI. The open-source dataset ...",
+      "source": "MIT News ML",
+      "sourceUrl": "https://news.mit.edu/2026/mit-researchers-teach-ai-models-to-interpret-charts-0603",
+      "category": "Research",
+      "date": "2026-06-03T04:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://news.mit.edu"
+    },
+    {
+      "id": "https://decrypt.co/?p=369811",
+      "title": "Microsoft Reveals '1,000x More Reliable' Quantum Chip as Bitcoin Threat Draws Nearer",
+      "summary": "Microsoft said AI helped speed Majorana 2 development, adding to growing concerns about when quantum computers could threaten Bitcoin's cryptography.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/369811/microsoft-1000x-more-reliable-quantum-chip-bitcoin-threat-draws-nearer",
+      "category": "Tech",
+      "date": "2026-06-03T03:31:03.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
     {
       "id": "108315623",
       "title": "Palo Alto CEO says customer meeting requests have surged amid AI security concerns",
@@ -57,17 +112,6 @@
       "officialUrl": "https://decrypt.co"
     },
     {
-      "id": "108315033",
-      "title": "Marvell stock soars 32% as Nvidia's Huang says it could be the next trillion-dollar company",
-      "summary": "Marvell Technology posted its best day ever after Nvidia CEO Jensen Huang made the \"trillion-dollar\" prediction.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/06/02/jensen-huang-nvidia-marvell-technology-trillion-dollar-ai.html",
-      "category": "Business",
-      "date": "2026-06-02T20:59:27.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
       "id": "https://decrypt.co/?p=369788",
       "title": "Strategy Shares Fall for Second Straight Day After $56 Billion Bitcoin Giant Sells BTC",
       "summary": "Shares in the leading Bitcoin treasury firm Strategy (MSTR) are now more than 70% off their 52-week high after the company sold BTC.",
@@ -77,17 +121,6 @@
       "date": "2026-06-02T20:43:39.000Z",
       "hot": false,
       "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "108314789",
-      "title": "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developers",
-      "summary": "At its Build developer conference, Microsoft announced a series of generative AI models to try and crack a market controlled by OpenAI, Anthropic and Google.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html",
-      "category": "Business",
-      "date": "2026-06-02T20:42:45.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "108315320",
@@ -551,17 +584,6 @@
       "officialUrl": "https://www.wired.com"
     },
     {
-      "id": "https://decrypt.co/?p=369725",
-      "title": "Anthropic Expands Access to Claude Mythos After AI Giant Files for IPO",
-      "summary": "Just a day after the nearly $1 trillion AI giant revealed IPO plans, Anthropic is letting more firms access its powerful Claude Mythos model.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/369725/anthropic-expands-access-claude-mythos-ai-giant-files-ipo",
-      "category": "Tech",
-      "date": "2026-06-02T15:29:05.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
       "id": "02vGfI4KjzdRoZyZKC81rEC",
       "title": "Snag a pair of Sony WH-CH720N headphones for their lowest price yet",
       "summary": "SAVE $90.25: As of June 2, get a pair of Sony WH-CH720N Noise Cancelling Wireless Headphones for $89.74 at Amazon, down from their usual price of $179.99. That's a discount of 50% and the lowest price Mashable has seen. Opens in a new window Credit: Amazon Sony WH-CH720N Noise Cancelling Wireless Headphones $89.74 at Amazon $179.99 Save $90.25 &nbsp; Get Deal A great pair of headphones is a must if you're going to be spending any time out and about. While earbuds get the job done nicely, sometimes you get even more out of a pair of over-ear headphones. Mashable has found a pair that both sound fantastic and can save you some serious cash if you head over to Amazon right now. As of June 2, get a pair of Sony WH-CH720N Noise Cancelling Wireless Headphones for $89.74 at Amazon, down from their usual price of $179.99.",
@@ -635,17 +657,6 @@
       "sourceUrl": "https://www.cnbc.com/2026/06/02/5-things-to-know-before-the-stock-market-opens.html",
       "category": "Business",
       "date": "2026-06-02T12:09:05.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "108314847",
-      "title": "Nvidia's new PC chips represent CEO Huang's bid to win at every layer of AI stack",
-      "summary": "Nvidia's announced entry into the PC chip market sent shares of AMD, Intel and Qualcomm lower as Wall Street recognized the threat.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/06/02/nvidias-new-pc-chips-are-ceos-bid-to-own-every-part-of-ai-stack.html",
-      "category": "Business",
-      "date": "2026-06-02T12:00:01.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
     },
@@ -769,6 +780,166 @@
       "date": "2026-06-02T02:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
+    },
+    {
+      "id": "https://www.anthropic.com/news/expanding-project-glasswing?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Anthropic Expands Project Glasswing to 150 Organizations Across 15+ Countries",
+      "summary": "Project Glasswing is anthropic.com's collaborative effort to secure the world’s most important software. In early April, anthropic.com announced that roughly 50 initial partners had access to Claude Mythos Preview, and since then, they’ve been deploying the model to scan their codebases for vulnerabilities. anthropic.com recently described how these partners have so far found more than 10,000 high- or critical-severity security flaws. anthropic.com is now expanding Project Glasswing. Following several weeks of close collaboration with anthropic.com's Project Glasswing partners, the security industry, open-source software maintainers, and the US government, anthropic.com is extending the partnership to approximately 150 new organizations. Each one will need to meet anthropic.com's security requirements before they gain access.",
+      "source": "anthropic.com",
+      "sourceUrl": "https://www.anthropic.com/news/expanding-project-glasswing?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-06-02T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://www.perplexity.ai/hub/blog/the-data-center-moves-to-your-machine?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Perplexity launches hybrid local-server inference orchestrator",
+      "summary": "Perplexity has announced a hybrid local-server inference orchestrator for its Personal Computer product, launching in July 2026. The system automatically routes tasks between on-device models and cloud-based frontier models, keeping sensitive data like financial records and health information local while sending compute-intensive work to servers. Unveiled in partnership with Intel, it also supports NVIDIA RTX Spark silicon. Perplexity argues the architecture reduces centralized infrastructure demand and improves data sovereignty without requiring countries to build dedicated data centers.",
+      "source": "perplexity.ai",
+      "sourceUrl": "https://www.perplexity.ai/hub/blog/the-data-center-moves-to-your-machine?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-06-02T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Anthropic adds dynamic multi-agent workflows to Claude Code",
+      "summary": "Claude Code can now write and orchestrate its own multi-agent harness on the fly. Here's how dynamic workflows work, and the patterns that get the most out of them.",
+      "source": "claude.com",
+      "sourceUrl": "https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-06-02T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "White House Orders AI Cybersecurity Push and Voluntary Frontier Model Reviews",
+      "summary": "President Trump signed an executive order on June 2, 2026, directing federal agencies to strengthen AI cybersecurity within 30 days. CISA must issue binding directives to harden civilian systems and expand AI-enabled defensive tools. The Treasury Department will form a voluntary AI cybersecurity clearinghouse with industry to scan and patch software vulnerabilities. A separate voluntary framework will allow AI developers to submit frontier models for classified government review up to 30 days before release. The order explicitly prohibits mandatory licensing or preclearance requirements for AI models.",
+      "source": "whitehouse.gov",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-06-02T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://openai.com/index/codex-for-every-role-tool-workflow/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "OpenAI Expands Codex With Role-Specific Plugins and Shareable Sites",
+      "summary": "New role-specific plugins, Sites, and annotations help teams do more with Codex. Loading…ShareMore than 5 million people now use Codex every week. Codex started as a tool for software development, but it's increasingly useful for more kinds of work. Non-developers—including analysts, marketers, operators, designers, researchers, investors, and bankers—make up about 20% of overall Codex users⁠ and are growing more than 3x as fast as developers. Today, openai.com is introducing new ways to do more of your work with Codex: plugins that adapt Codex to your role and tools, annotations that help you refine the result in place, and a preview of the ability to create interactive websites and apps you can share with your workspace using a URL. Inside OpenAI, non-technical teams use Codex to build internal apps, prepare executive materials, create dashboards, and turn creative briefs into work that reflects brand and design constraints.",
+      "source": "openai.com",
+      "sourceUrl": "https://openai.com/index/codex-for-every-role-tool-workflow/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-06-02T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://quantum.microsoft.com/en-us/insights/blogs/majorana-2-scalable-quantum-processor?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Microsoft Unveils Majorana 2 Scalable Quantum Processor With More Reliable Qubits",
+      "summary": "Your previous authentication attempt was unsuccessful. Would you like to try again?",
+      "source": "quantum.microsoft.com",
+      "sourceUrl": "https://quantum.microsoft.com/en-us/insights/blogs/majorana-2-scalable-quantum-processor?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-06-02T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Microsoft AI Launches Seven MAI Models and Superintelligence Lab",
+      "summary": "Models Latest models Discover the latest MAI models, designed for real-world intelligence MAI-Code-1-Flash MAI-Image-2.5 MAI-Transcribe-1.5 All models MAI-Thinking-1 Built for the complex problems that matter most, with competitive reasoning and top SWE-Bench Pro results at a mid-weight price. Helps your engineering team write better code faster, with a lightweight, agentic model built into GitHub Copilot and VS Code. Create notable, design-ready images from any text or photo prompt, with best-in-class Arena ELO scores at a lower price. Turn noisy audio into precise, domain-specific transcripts, with leading FLEURS and Artificial Analysis accuracy scores. Featured stories The latest breakthroughs and updates from within microsoft.ai's team",
+      "source": "microsoft.ai",
+      "sourceUrl": "https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-06-02T00:00:00.000Z",
+      "hot": true
+    },
+    {
+      "id": "https://devblogs.microsoft.com/microsoft365dev/frontier-tuning-teaching-ai-to-work-the-way-you-do/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Microsoft unveils Frontier Tuning private preview for business-specific AI",
+      "summary": "Today at Microsoft Build, devblogs.microsoft.com introduced Frontier Tuning, a new approach to making AI work the way your business does by applying reinforcement learning inside your compliance boundary with your own data, processes, and conventions. devblogs.microsoft.com is announcing private preview, available through Forward Deployed Engineers, and upcoming availability in Microsoft Copilot Studio and Microsoft Foundry. Frontier Tuning has three parts that work together: the environment where learning happens; the unique inputs you provide from your own business; and the tuned output models, skills, and harness that the system produces. Together, these three pieces form a loop that gets sharper with every agent interaction. As knowledge in your environment grows, the models and harness evolve with it, so your agents keep getting better at the work you actually do. Frontier Tuning fits into how you already build and operate agents.",
+      "source": "devblogs.microsoft.com",
+      "sourceUrl": "https://devblogs.microsoft.com/microsoft365dev/frontier-tuning-teaching-ai-to-work-the-way-you-do/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-06-02T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/02/introducing-microsoft-scout-your-always-on-personal-agent/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Microsoft Introduces Scout, an Always-On Personal Agent for Microsoft 365",
+      "summary": "Microsoft has introduced Scout, its first Autopilot agent for Microsoft 365, a new category of always-on agents that work autonomously on your behalf without needing to be prompted each time. Scout integrates with Teams, Outlook, OneDrive, and SharePoint, scheduling meetings, blocking calendar time for deliverables, and flagging risks like stalled decisions. It uses Work IQ to learn user priorities over time and is powered by OpenClaw open-source technology. Scout is currently in private preview for Frontier organizations requiring a GitHub Copilot license.",
+      "source": "microsoft.com",
+      "sourceUrl": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/02/introducing-microsoft-scout-your-always-on-personal-agent/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-06-02T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://blogs.windows.com/windowsdeveloper/2026/06/02/build-2026-furthering-windows-as-the-trusted-platform-for-development/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Microsoft Advances Windows as Trusted Development Platform at Build 2026",
+      "summary": "Build is one of blogs.windows.com's favorite moments each year &#8211; a chance to connect with the global developer community and share what blogs.windows.com has been building. Over the past year, blogs.windows.com have connected with many developers pushing the boundaries of what’s possible on Windows. What blogs.windows.com consistently hear is that you want a platform that meets you where you are, removes friction and gives you the flexibility to choose how and where you build across local and cloud, across platforms, languages and frameworks. That feedback has shaped everything blogs.windows.com is announcing today. The foundation of great development starts with strong fundamentals, coupled with a great developer experience. blogs.windows.com is continuing to raise the bar on Windows 11 quality and deeply focused on making Windows more secure, more reliable across the shell &#8211; from Explorer to Start to Search – with a simple goal to reduce cognitive load.",
+      "source": "blogs.windows.com",
+      "sourceUrl": "https://blogs.windows.com/windowsdeveloper/2026/06/02/build-2026-furthering-windows-as-the-trusted-platform-for-development/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-06-02T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/02/announcing-the-new-work-iq-apis/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Microsoft Work IQ APIs to launch for AI agents on June 16",
+      "summary": "Microsoft will make its Work IQ APIs generally available on June 16, 2026, offering developers a new way to build AI agents that interact with Microsoft 365 data. Work IQ acts as a semantic intelligence layer, continuously processing email, calendar, meetings, chats, files, and organizational data to give agents business context rather than raw data. The APIs claim 2x faster processing, 80% fewer tokens than traditional APIs, and collapse tool calling into just 10 generic tools via MCP. Pricing uses consumption-based Copilot Credits.",
+      "source": "microsoft.com",
+      "sourceUrl": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/02/announcing-the-new-work-iq-apis/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-06-02T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://blogs.bing.com/search/June-2026/Announcing-Microsoft-Web-IQ?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Microsoft Launches Web IQ Grounding APIs for AI Agents",
+      "summary": "AI applications are only as good as the information they reason from. Without fresh, high-quality web data, they are less dependable. Today, Microsoft is launching Web IQ: a suite of AI-native grounding APIs built for the agentic era, connecting AI systems and agents to fresh, real-world intelligence from across the web &mdash; including web pages, news, images, and videos. The systems that define the agentic era will be the ones that can retrieve fresh, authoritative evidence quickly, transform it into useful context, and do so within the latency and efficiency budgets that multi-step reasoning demands. Model capability alone no longer determines whether an AI system is useful. What matters is how effectively the full system connects models to the world, including information created after models were trained, and information too vast to encode in model weights.",
+      "source": "blogs.bing.com",
+      "sourceUrl": "https://blogs.bing.com/search/June-2026/Announcing-Microsoft-Web-IQ?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-06-02T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://commandline.microsoft.com/project-solara-build-2026/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Microsoft Unveils Project Solara Platform for Agent-First Devices",
+      "summary": "What changes when agents become both a new unit of programming and an emerging new unit of human-to-machine interaction? The mission of Project Solara, a new software platform coupled with tailored hardware solutions, is to pioneer agent-first experiences that are shaped around you: your agents, your tasks, your environment, under your control. So, what’s different this time from previous generations of computers? Agents and AI accelerate the creation of even more specialized computers without incurring the full cost and tradeoffs that in the past limited the creation, diversity, and specialization of those new forms. commandline.microsoft.com imagine a diverse ecosystem of agent-first devices, from small to large, from fixed to hypermobile, from personal to professional. commandline.microsoft.com is starting this journey with two concepts designed for the enterprise—and commandline.microsoft.com is excited to navigate this transformation with you all.&nbsp;",
+      "source": "commandline.microsoft.com",
+      "sourceUrl": "https://commandline.microsoft.com/project-solara-build-2026/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-06-02T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://blogs.windows.com/devices/2026/06/02/building-the-next-generation-of-devices-for-developers-surface-rtx-spark-dev-box/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Microsoft Unveils Surface RTX Spark Dev Box for Developers",
+      "summary": "Software developers are some of the most ambitious makers blogs.windows.com serve. They push devices harder, ask more of their tools and expect their environment to help define the pace of modern software creation. Development today means longer running jobs, larger models and a growing need to prototype and iterate locally rather than paying for every cloud call. That is why blogs.windows.com embarked on a project to build two new Surface devices designed specifically for the needs of these makers. Earlier this week, blogs.windows.com introduced Surface Laptop Ultra, a high-performance laptop built for developers, creators and technical professionals who need serious performance wherever they work. Today at Microsoft Build, blogs.windows.com is introducing Surface RTX Spark Dev Box, a compact developer PC engineered with NVIDIA RTX Spark superchip and built on the Windows developer platform, designed for local-first AI development.",
+      "source": "blogs.windows.com",
+      "sourceUrl": "https://blogs.windows.com/devices/2026/06/02/building-the-next-generation-of-devices-for-developers-surface-rtx-spark-dev-box/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-06-02T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "GitHub launches Copilot app for agent-native desktop development",
+      "summary": "Mario Rodriguez leads the GitHub Product team as Chief Product Officer. His core identity is being a learner and his passion is creating developer tools—so much so that he has spent the last 20 years living that mission in leadership roles across Microsoft and GitHub. Mario most recently oversaw GitHub’s AI strategy and the GitHub Copilot product line, launching and growing Copilot across thousands of organizations and millions of users. Mario spends time outside of GitHub with his wife and two daughters. He also co-chairs and founded a charter school in an effort to progress education in rural regions of the United States.",
+      "source": "github.blog",
+      "sourceUrl": "https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-06-02T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://news.microsoft.com/source/2026/06/02/mayo-clinic-and-microsoft-collaborate-to-develop-a-frontier-ai-model-for-healthcare/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Microsoft and Mayo Clinic Partner on Frontier AI Model for Healthcare",
+      "summary": "ROCHESTER, Minn., and REDMOND, Wash. &#8211; Mayo Clinic and Microsoft today announced a strategic collaboration to develop and deploy a frontier AI model designed specifically for healthcare, making Mayo Clinic’s knowledge, expertise and integrated model of care available to more people when and where they need it. The collaboration combines Mayo Clinic’s global healthcare expertise, de-identified clinical health data and longitudinal insights with Microsoft’s advanced AI, cloud, engineering and superintelligence capabilities. Together, the organizations are developing a frontier AI model capable of supporting the broadest scope of clinical reasoning and healthcare use cases. The model is designed to synthesize diverse clinical data to support earlier diagnoses, more personalized treatment decisions and better patient outcomes. By expanding access to actionable insights and supporting care teams in complex decision-making, the collaboration aims to address some of healthcare’s most&nbsp;challenging problems.",
+      "source": "news.microsoft.com",
+      "sourceUrl": "https://news.microsoft.com/source/2026/06/02/mayo-clinic-and-microsoft-collaborate-to-develop-a-frontier-ai-model-for-healthcare/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-06-02T00:00:00.000Z",
+      "hot": false
     },
     {
       "id": "https://x.com/bfl_ai/status/2061800769226252721?utm_source=futuretools.io&utm_medium=newspage",
@@ -1137,21 +1308,21 @@
       "officialUrl": "https://www.wired.com"
     },
     {
-      "id": "https://blogs.windows.com/devices/2026/05/31/introducing-surface-laptop-ultra-made-for-world-makers/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Microsoft Unveils Surface Laptop Ultra With NVIDIA Blackwell RTX GPU",
-      "summary": "The world is full of makers. Only a few make the world. For those building the systems, the breakthroughs and the infrastructure the world runs on and gets changed by. The ones who see limits as flaws and have the vision to push past them. Surface Laptop Ultra is the most powerful Surface Laptop ever built. Engineered with NVIDIA from the silicon up, optimized for RTX Spark, built on Windows.",
-      "source": "blogs.windows.com",
-      "sourceUrl": "https://blogs.windows.com/devices/2026/05/31/introducing-surface-laptop-ultra-made-for-world-makers/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-05-31T00:00:00.000Z",
-      "hot": false
-    },
-    {
       "id": "https://nvidianews.nvidia.com/news/nvidia-drive-hyperion-becomes-the-global-platform-for-a-robotaxi-ready-world?utm_source=futuretools.io&utm_medium=newspage",
       "title": "NVIDIA Expands DRIVE Hyperion Robotaxi Platform With Global Partners",
       "summary": "NVIDIA has announced a major expansion of its DRIVE Hyperion level ready robotaxi platform at GTC Taipei, adding global partners across Asia, Europe, and the Middle East. Foxconn will deploy robotaxis in Kaohsiung, Taiwan starting in 2028, with airport-to-city routes planned. VinFast and Autobrains will bring level 4 vehicles to Southeast Asia. Uber and Autobrains will launch a robotaxi program in Munich. HUMAIN will deploy DRIVE Hyperion-powered robotaxis in Saudi Arabia.",
       "source": "nvidianews.nvidia.com",
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-drive-hyperion-becomes-the-global-platform-for-a-robotaxi-ready-world?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-05-31T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://blogs.windows.com/devices/2026/05/31/introducing-surface-laptop-ultra-made-for-world-makers/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Microsoft Unveils Surface Laptop Ultra With NVIDIA Blackwell RTX GPU",
+      "summary": "The world is full of makers. Only a few make the world. For those building the systems, the breakthroughs and the infrastructure the world runs on and gets changed by. The ones who see limits as flaws and have the vision to push past them. Surface Laptop Ultra is the most powerful Surface Laptop ever built. Engineered with NVIDIA from the silicon up, optimized for RTX Spark, built on Windows.",
+      "source": "blogs.windows.com",
+      "sourceUrl": "https://blogs.windows.com/devices/2026/05/31/introducing-surface-laptop-ultra-made-for-world-makers/?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-05-31T00:00:00.000Z",
       "hot": false
@@ -1337,17 +1508,6 @@
       "date": "2026-05-29T10:00:00.000Z",
       "hot": false,
       "officialUrl": "https://www.technologyreview.com"
-    },
-    {
-      "id": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
-      "title": "Strengthening societal resilience with Rosalind Biodefense",
-      "summary": "Advancing biological preparedness with trusted developers and government partners. ShareAI is accelerating progress across biology and the life sciences, creating new opportunities to advance scientific discovery, strengthen public health, and build resilience against biological threats. As these capabilities become more powerful, the institutions working to prevent, detect, and respond to biological threats need equally powerful tools. OpenAI believe frontier AI should meaningfully advantage those defenders—and that doing so requires responsible deployment structures and trusted access models that put advanced capabilities in the hands of vetted partners who are building new biodefense applications, tools and initiatives to bolster societal resilience. That’s why today OpenAI is announcing two new steps to advance defensive acceleration in biology: The steps OpenAI&#x27;re taking today are part of a broader strategy to ensure advanced AI meaningfully advantages those working to prevent, detect, and respond to biological threats.",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
-      "category": "Models",
-      "date": "2026-05-29T03:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com"
     }
   ]
 }
