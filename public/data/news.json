@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2026-06-06T11:24:45.478Z",
+  "lastUpdated": "2026-06-06T12:50:29.161Z",
   "news": [
+    {
+      "id": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
+      "title": "Here comes new Siri again",
+      "summary": "The Verge AI's first glimpse of the new AI Siri came all the way back at WWDC 2024. Apple has been on its back foot, AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move. At WWDC on Monday, Apple appears to be getting ready to reintroduce The Verge AI to the new Siri. As a reminder, The Verge AI met the new Siri in 2024 when Apple \"launched\" Apple Intelligence. Siri came with a new glowing border, different voice options, and the ability to punt questions to ChatGPT.",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
+      "category": "Industry",
+      "date": "2026-06-06T12:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "https://huggingface.co/blog/build-small-hackathon/persona-atlas",
+      "title": "Persona Atlas: Mapping How Famous Minds Think",
+      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/build-small-hackathon/persona-atlas",
+      "category": "Research",
+      "date": "2026-06-06T11:42:01.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
+    },
     {
       "id": "6a22cc27b915788fd5f61da5",
       "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
@@ -44,17 +66,6 @@
       "date": "2026-06-05T22:27:16.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
-      "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
-      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
-      "category": "Research",
-      "date": "2026-06-05T22:18:46.000Z",
-      "hot": false,
-      "officialUrl": "https://huggingface.co"
     },
     {
       "id": "108317504",
@@ -968,17 +979,6 @@
       "hot": true
     },
     {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
-      "title": "As AI gets better, it reveals an empty promise",
-      "summary": "This week The Verge AI has got tandem hands-ons with Google's new Gemini AI agent - Spark - from the author's colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that it's scary. Spark knew that David's dog is named Frida and knew the first name of Jay's wife, even though neither of them explicitly provided this information to Google. But what's scary to the author is how all of this stuff seems geared toward a future of \"productivity\" that completely misses what needs to be fixed in The Verge AI's world. \"Productivity\" is often pitched as a panacea for what befalls The Verge AI in The Verge AI's personal lives, even going so far as to implicate The Verge AI's moral worthiness …",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
-      "category": "Industry",
-      "date": "2026-06-03T17:45:35.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
       "id": "https://blogs.nvidia.com/?p=93940",
       "title": "NVIDIA Research Unlocks Advanced Grasping, Smarter Autonomous Driving and Agent Training at Scale",
       "summary": "What makes a robot gripper useful isn’t that it can pick up one object — it’s that it can pick up the next one, and the one after that, with a tool it’s never held before. What makes an autonomous vehicle system safe isn’t just that it can reason through a situation — it’s that it can do so quickly enough on the hardware actually installed in the car. What makes a virtual agent capable is exposure to as many different environments as possible before it faces the real world. At this year’s Computer Vision and Pattern Recognition (CVPR) conference, NVIDIA Research is presenting three papers that address each of these challenges — and share a common theme: training at scale creates systems that generalize across diverse applications. The three papers cover different challenges in physical AI research: GraspGen-X, the first foundation model for zero-shot grasping, was trained on billions of simulated grasps to work with any gripper it’s shown. LCDrive introduces a model that replaces expensive text-based reasoning with compact latent representations, letting autonomous vehicles think faster on embedded hardware.",
@@ -1534,27 +1534,6 @@
       "date": "2026-06-01T13:51:18.000Z",
       "hot": false,
       "officialUrl": "https://huggingface.co"
-    },
-    {
-      "id": "https://openai.com/index/stargate-michigan-data-center",
-      "title": "Building the infrastructure for the Intelligence Age in Michigan",
-      "summary": "This project is moving forward because OpenAI have worked to build it in partnership with the community and because Governor Whitmer has helped create the conditions for Michigan to lead on projects like this. From the beginning, OpenAI's goal has been to build infrastructure in a way that does right by the people and communities helping make it possible. That means making a clear set of commitments. First, local residents will not bear the cost of the infrastructure required to support this project. The infrastructure and energy needed for The Barn will be paid for by the project, and costs will not be passed on to local ratepayers. To be clear, consumers will be protected from paying more in electricity bills because of this project.",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/stargate-michigan-data-center",
-      "category": "Models",
-      "date": "2026-06-01T12:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://elevenlabs.io/blog/warsaw-summit-homecoming",
-      "title": "Homecoming: bringing the ElevenLabs Summit to Warsaw",
-      "summary": "0:001.0xKopernik 33rd high school classToday, ElevenLabs is hosting the ElevenLabs Summit in Warsaw - bringing together around 2,500 founders, leaders, researchers, developers, operators, artists, and institutions from across Poland and Europe. It’s taking place in Poland&#x27;s National Opera theatre, Teatr Wielki, a venue where art and engineering combine to push the limits of human voice, in a way that feels fitting for the conversations ElevenLabs will have today. This is an exciting time to host a summit in Warsaw. Over ElevenLabs's lifetimes, Poland has been through a remarkable transformation. It&#x27;s now a trillion-dollar economy, on the cusp of joining the G20, and home to engineers building some of the world&#x27;s most important tech companies. For much of modern history, countries in ElevenLabs's region adapted to technologies built elsewhere.",
-      "source": "ElevenLabs Blog",
-      "sourceUrl": "https://elevenlabs.io/blog/warsaw-summit-homecoming",
-      "category": "Audio",
-      "date": "2026-06-01T12:00:00.000Z",
-      "hot": true
     }
   ]
 }
