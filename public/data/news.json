@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-06T05:05:43.299Z",
+  "lastUpdated": "2026-06-06T07:44:34.120Z",
   "news": [
     {
       "id": "108317216",
@@ -22,17 +22,6 @@
       "date": "2026-06-05T22:27:16.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
-      "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
-      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
-      "category": "Research",
-      "date": "2026-06-05T22:18:46.000Z",
-      "hot": false,
-      "officialUrl": "https://huggingface.co"
     },
     {
       "id": "108317504",
@@ -524,17 +513,6 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-      "category": "Research",
-      "date": "2026-06-04T18:57:45.000Z",
-      "hot": false,
-      "officialUrl": "https://huggingface.co"
-    },
-    {
       "id": "6a209308bb0dd697e44ac997",
       "title": "The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked",
       "summary": "This week on Uncanny Valley, Wired AI discuss why the race among the top AI companies to go public has just gotten started but is already creating bizarre repercussions—including numerous San Francisco real estate listings preferring Anthropic stock instead of cash. They also get into why Donald Trump’s new executive order on AI safety is underwhelming and how hackers were able to use Instagram’s AI chatbot to access high-profile accounts like President Barack Obama’s. Plus, Wired AI report on how a DOGE whistleblower is suing Elon Musk for defamation after the billionaire publicly called him a liar—and the next thing he knew, his life was in danger. You can follow Brian Barrett on Bluesky at @brbarrett, Zoë Schiffer on Bluesky at @zoeschiffer, and Leah Feiger on Bluesky at @leahfeiger. Write to Wired AI at [email&#160;protected]. If you&#x27;re on an iPhone or iPad, open the app called Podcasts, or just tap this link.",
@@ -711,17 +689,6 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
-      "id": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
-      "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
-      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
-      "category": "Research",
-      "date": "2026-06-04T12:24:58.000Z",
-      "hot": false,
-      "officialUrl": "https://huggingface.co"
-    },
-    {
       "id": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress",
       "title": "AI leaders call for tougher protections against AI-aided bioweapons",
       "summary": "AICloseAIPosts from this topic will be added to your daily email digest and your homepage feed. NewsCloseNewsPosts from this topic will be added to your daily email digest and your homepage feed. ScienceCloseSciencePosts from this topic will be added to your daily email digest and your homepage feed. AI industry rivals rarely agree, but they’re all concerned their technology could be used to develop biological weapons. AI industry rivals rarely agree, but they’re all concerned their technology could be used to develop biological weapons. Robert HartCloseRobert HartAI ReporterPosts from this author will be added to your daily email digest and your homepage feed.",
@@ -819,17 +786,6 @@
       "date": "2026-06-04T00:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://huggingface.co/blog/hf-cli-for-agents",
-      "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
-      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog/hf-cli-for-agents",
-      "category": "Research",
-      "date": "2026-06-04T00:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://huggingface.co"
     },
     {
       "id": "https://aiweekly.co/issues/microsoft-proves-it-doesnt-need-openai-alphabet-raises-85b",
@@ -1023,17 +979,6 @@
       "officialUrl": "https://blog.google"
     },
     {
-      "id": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
-      "title": "Direct Preference Optimization Beyond Chatbots",
-      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
-      "category": "Research",
-      "date": "2026-06-03T12:55:11.000Z",
-      "hot": false,
-      "officialUrl": "https://huggingface.co"
-    },
-    {
       "id": "https://openai.com/index/wasmer",
       "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
       "summary": "Teams use Codex with GPT‑5.5 to take on more ambitious projects and complete them 10x to 20x faster. Loading…ShareEngineers at Wasmer experienced a breakthrough this year: They figured out how to run Node.js workloads inside a WebAssembly sandbox, enabling developers to run JavaScript apps, MCPs, and agents without Docker. This effort would have taken one year without Codex, but with Codex, it took two weeks. Now, they’re the first cloud host to provide full Node.js at the edge layer. Wasmer is a young company with a small team and a big goal: an edge computing platform that scales across local and global environments without platform restrictions. “The kinds of projects that we are taking on are incredibly ambitious, and it would have taken us ages to do them without AI,” says Syrus Akbary Nieto, Founder and CEO.",
@@ -1041,17 +986,6 @@
       "sourceUrl": "https://openai.com/index/wasmer",
       "category": "Models",
       "date": "2026-06-03T12:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://openai.com/index/public-policy-agenda",
-      "title": "OpenAI public policy agenda",
-      "summary": "Loading…ShareMission and principles OpenAI’s mission is to ensure that artificial general intelligence (AGI) benefits all of humanity. OpenAI's work is guided by five core principles⁠ that shape how OpenAI build AI and how OpenAI engage in public policy: OpenAI believe AI has the potential to reshape how people work, learn, create, and participate in society, and that democracies will play an essential role in helping broaden access to opportunity, mitigate risks, and ensure people have real agency to shape the AI future they want. That’s why OpenAI is committed to making OpenAI's technology freely and safely accessible. OpenAI's user base reflects that commitment:⁠ OpenAI have as many women as men using OpenAI's tools, more users both under and over age 30 than any other AI platform, and more users earning under $100,000 than over $100,000—mirroring the broader global workforce. That’s why OpenAI engages with governments and civil society around the world: to help policymakers understand OpenAI's technology and its impacts, improve how governments function and deliver value to their constituents, expand the ability of people to participate in and benefit from democratic institutions, and shape policies that advance OpenAI's mission of ensuring that AGI benefits all of humanity.",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/public-policy-agenda",
-      "category": "Models",
-      "date": "2026-06-03T10:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
     },
@@ -1067,6 +1001,17 @@
       "officialUrl": "https://openai.com"
     },
     {
+      "id": "https://openai.com/index/public-policy-agenda",
+      "title": "OpenAI public policy agenda",
+      "summary": "Loading…ShareMission and principles OpenAI’s mission is to ensure that artificial general intelligence (AGI) benefits all of humanity. OpenAI's work is guided by five core principles⁠ that shape how OpenAI build AI and how OpenAI engage in public policy: OpenAI believe AI has the potential to reshape how people work, learn, create, and participate in society, and that democracies will play an essential role in helping broaden access to opportunity, mitigate risks, and ensure people have real agency to shape the AI future they want. That’s why OpenAI is committed to making OpenAI's technology freely and safely accessible. OpenAI's user base reflects that commitment:⁠ OpenAI have as many women as men using OpenAI's tools, more users both under and over age 30 than any other AI platform, and more users earning under $100,000 than over $100,000—mirroring the broader global workforce. That’s why OpenAI engages with governments and civil society around the world: to help policymakers understand OpenAI's technology and its impacts, improve how governments function and deliver value to their constituents, expand the ability of people to participate in and benefit from democratic institutions, and shape policies that advance OpenAI's mission of ensuring that AGI benefits all of humanity.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/public-policy-agenda",
+      "category": "Models",
+      "date": "2026-06-03T10:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://openai.com"
+    },
+    {
       "id": "https://news.mit.edu/2026/mit-researchers-teach-ai-models-to-interpret-charts-0603",
       "title": "MIT researchers teach AI models to interpret charts",
       "summary": "To accelerate and refine decision-making in a fast-paced, global marketplace, enterprises may deploy generative artificial intelligence models to help summarize and interpret the charts that often fill market summaries and financial reports.But even the latest vision-language models sometimes struggle with this task, since it requires a model to integrate visual, numerical, and linguistic understanding. A company that invests in a state-of-the-art model might still receive inaccurate or incomplete information.To fill this performance gap, researchers from MIT and the MIT-IBM Computing Research Lab developed a multifaceted resource for AI users that is specifically designed to teach vision-language models (VLMs) how to effectively interpret charts.&nbsp;They used a novel data generation method to build a state-of-the-art dataset&nbsp;that includes more than a million varied charts. The dataset also encodes many visual, linguistic, and numerical components of each chart image, which enable models to robustly reason about the information in a chart.The researchers used this dataset, called ChartNet, to train a series of open-source VLMs.&nbsp; Many of these smaller models significantly outperformed orders of magnitude larger, commercial models on tasks like data extraction and chart summarization.By enabling open-source models to outperform their commercial counterparts, ChartNet could allow small firms with limited budgets to more readily utilize AI. The open-source dataset ...",
@@ -1076,17 +1021,6 @@
       "date": "2026-06-03T04:00:00.000Z",
       "hot": false,
       "officialUrl": "https://news.mit.edu"
-    },
-    {
-      "id": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
-      "title": "Adding MCP Tools to Reachy Mini",
-      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
-      "category": "Research",
-      "date": "2026-06-03T00:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://huggingface.co"
     },
     {
       "id": "https://cohere.com/blog/coplot",
@@ -1190,17 +1124,6 @@
       "category": "Insights",
       "date": "2026-06-02T16:59:46.000Z",
       "hot": true
-    },
-    {
-      "id": "https://huggingface.co/blog/Hcompany/holo31",
-      "title": "Holo3.1: Fast & Local Computer Use Agents",
-      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog/Hcompany/holo31",
-      "category": "Research",
-      "date": "2026-06-02T14:13:23.000Z",
-      "hot": false,
-      "officialUrl": "https://huggingface.co"
     },
     {
       "id": "https://openai.com/index/travelers",
@@ -1501,28 +1424,6 @@
       "date": "2026-06-01T16:00:00.000Z",
       "hot": false,
       "officialUrl": "https://blog.google"
-    },
-    {
-      "id": "https://huggingface.co/blog/JetBrains/mellum2-launch",
-      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
-      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog/JetBrains/mellum2-launch",
-      "category": "Research",
-      "date": "2026-06-01T15:45:17.000Z",
-      "hot": false,
-      "officialUrl": "https://huggingface.co"
-    },
-    {
-      "id": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
-      "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
-      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
-      "category": "Research",
-      "date": "2026-06-01T13:51:18.000Z",
-      "hot": false,
-      "officialUrl": "https://huggingface.co"
     },
     {
       "id": "https://openai.com/index/stargate-michigan-data-center",
