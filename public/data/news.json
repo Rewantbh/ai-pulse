@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2026-06-07T22:00:50.821Z",
+  "lastUpdated": "2026-06-07T23:11:49.645Z",
   "news": [
+    {
+      "id": "https://blogs.nvidia.com/?p=94133",
+      "title": "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure",
+      "summary": "NVIDIA and Doosan Group are expanding their collaboration to advance new opportunities across physical AI, robotics and AI factory infrastructure, spanning Doosan Robotics, Doosan Bobcat, Doosan Enerbility and Doosan Corporation Electro-Materials BG. The collaboration will bring together NVIDIA’s full-stack accelerated computing platforms with Doosan Group’s capabilities in industrial automation, power generation and advanced electronics materials to support next-generation AI infrastructure. Doosan Group’s businesses span several layers of the AI factory ecosystem, from intelligent robotics systems to the full spectrum of large-scale power solutions and advanced electronics materials for AI data center equipment. NVIDIA and Doosan will explore how NVIDIA’s physical AI stack, NVIDIA DSX AI factory platform, NVIDIA MGX and accelerated computing platforms can support these areas. Advancing Physical AI and Robotics Doosan Robotics is integrating NVIDIA Isaac Sim and NVIDIA Isaac Lab open robotics frameworks, NVIDIA Cosmos open world foundation models, the open source Newton physics engine and NVIDIA Jetson Thor to advance its Agentic Robot OS — an AI-powered platform connecting perception, reasoning, simulation, learning and on-device inference. By integrating NVIDIA’s physical AI technologies, Doosan Robotics aims to help industrial robots better perceive, reason and act in complex and dynamic environments.",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/",
+      "category": "Events",
+      "date": "2026-06-07T23:00:36.000Z",
+      "hot": false,
+      "officialUrl": "https://blogs.nvidia.com"
+    },
     {
       "id": "https://techcrunch.com/?p=3130284",
       "title": "Is this the dawn of the Tokenpocalypse?",
@@ -1213,17 +1224,6 @@
       "category": "Curation",
       "date": "2026-06-03T00:00:00.000Z",
       "hot": false
-    },
-    {
-      "id": "https://blogs.nvidia.com/?p=93790",
-      "title": "Industrial Software Leaders Build Secure, Autonomous AI Engineers With NVIDIA NemoClaw",
-      "summary": "Accelerated computing has revolutionized industrial engineering, compressing simulation times from weeks to hours. Today’s remaining challenges sit in the end-to-end workflow surrounding the simulations: computer-aided design, meshing, simulation setup and debugging, as well as post-processing and generating summary reports of these processes. At GTC Taipei at COMPUTEX, NVIDIA and more than a dozen engineering software providers are showcasing how autonomous AI agents automate this entire workflow. These AI engineers are based on NVIDIA NemoClaw, an open blueprint for building specialized, long-running agents with a secure runtime and frontier models. NemoClaw includes a choice of harness — meaning it can be integrated with various orchestration frameworks enterprises use to deploy and coordinate agents, such as OpenClaw and Hermes — as well as a model router and NVIDIA NeMo libraries for customization. Users can easily deploy NemoClaw from NVIDIA DGX Spark personal AI supercomputers, as well as through enterprise data centers and cloud service providers.",
-      "source": "NVIDIA Blog",
-      "sourceUrl": "https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw/",
-      "category": "Events",
-      "date": "2026-06-02T22:00:58.000Z",
-      "hot": false,
-      "officialUrl": "https://blogs.nvidia.com"
     }
   ]
 }
