@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2026-06-07T19:12:13.276Z",
+  "lastUpdated": "2026-06-07T20:44:48.456Z",
   "news": [
+    {
+      "id": "https://techcrunch.com/?p=3130284",
+      "title": "Is this the dawn of the Tokenpocalypse?",
+      "summary": "TechCrunch AI is likely to see more price increases as the big AI companies plan to go public.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+      "category": "Business",
+      "date": "2026-06-07T20:26:13.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
+      "title": "Amazing Digital Dentures (a failed project)",
+      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
+      "category": "Research",
+      "date": "2026-06-07T19:44:27.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
+    },
     {
       "id": "https://decrypt.co/?p=370232",
       "title": "Frontier AI Models Can Find Crypto's Biggest Bugs. Experts Warn the Industry Isn't Ready",
@@ -66,6 +88,17 @@
       "date": "2026-06-07T07:00:15.000Z",
       "hot": false,
       "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
+      "id": "https://aiweekly.co/issues/wall-street-cant-agree-if-the-ai-bubble-just-burst",
+      "title": "AI Weekly Issue #500: $1.3 trillion vanished Friday. Bubble, or just profit-taking?",
+      "summary": "AI and chip stocks shed roughly $1.3 trillion on Friday, the semiconductor sector's worst day since 2020, after a hot jobs report spiked interest-rate fears and Broadcom's outlook rattled the chip trade. The sharpest people in finance flatly disagree on what it means: the bubble finally cracking, or profit-taking after a euphoric run. Here is the case for each, with the receipts. You're reading the weekly brief. Below are the other ways to follow the story — every channel free, easy to leave. Both camps are credible, and Friday did not settle it.",
+      "source": "AI Weekly",
+      "sourceUrl": "https://aiweekly.co/issues/wall-street-cant-agree-if-the-ai-bubble-just-burst",
+      "category": "Curation",
+      "date": "2026-06-07T00:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://aiweekly.co"
     },
     {
       "id": "https://decrypt.co/?p=370237",
@@ -667,15 +700,15 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "https://techcrunch.com/?p=3129805",
-      "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
-      "summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
-      "category": "Business",
-      "date": "2026-06-04T22:29:50.000Z",
+      "id": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+      "category": "Research",
+      "date": "2026-06-04T18:57:45.000Z",
       "hot": false,
-      "officialUrl": "https://techcrunch.com"
+      "officialUrl": "https://huggingface.co"
     },
     {
       "id": "6a209308bb0dd697e44ac997",
@@ -821,6 +854,17 @@
       "officialUrl": "https://blogs.nvidia.com"
     },
     {
+      "id": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+      "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+      "category": "Research",
+      "date": "2026-06-04T12:24:58.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
+    },
+    {
       "id": "https://openai.com/index/endava-frontiers",
       "title": "How Endava is redesigning software delivery around AI agents",
       "summary": "By making AI part of daily work, Endava is accelerating delivery and reshaping enterprise workflows. Loading…ShareEndava is a global technology services company that has spent more than 25 years helping enterprises solve complex business problems through technology. Today, that mission increasingly centers on AI. But for Endava, adopting AI meant more than introducing new tools. It required rethinking workflows, leadership behaviors, and how teams collaborate across the business. OpenAI sat down with Matthew Cloke, CTO, to hear how Endava is embedding AI across the organization, redesigning software delivery around agents, and creating a culture where experimentation is expected—not optional.",
@@ -885,6 +929,28 @@
       "date": "2026-06-04T00:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
+    },
+    {
+      "id": "https://huggingface.co/blog/hf-cli-for-agents",
+      "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/hf-cli-for-agents",
+      "category": "Research",
+      "date": "2026-06-04T00:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
+    },
+    {
+      "id": "https://aiweekly.co/issues/microsoft-proves-it-doesnt-need-openai-alphabet-raises-85b",
+      "title": "AI Weekly Issue #499: Microsoft proves it doesn't need OpenAI; Alphabet raises $85B",
+      "summary": "Microsoft used its own developer conference to show it can live without OpenAI, Florida's attorney general sued OpenAI and went after Sam Altman personally, researchers and a new Workday product made plain that nobody trusts AI agents yet, and Alphabet raised a record $85 billion the same week the Fed flagged AI as a systemic risk. The money is moving faster than the trust. You're reading the weekly brief. Below are the other ways to follow the story — every channel free, easy to leave. Step back from the week's launches and the number that matters is the spend. Alphabet's $85 billion raise was the loudest signal, but it sits inside a wall of them.",
+      "source": "AI Weekly",
+      "sourceUrl": "https://aiweekly.co/issues/microsoft-proves-it-doesnt-need-openai-alphabet-raises-85b",
+      "category": "Curation",
+      "date": "2026-06-04T00:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://aiweekly.co"
     },
     {
       "id": "https://blog.reve.com/posts/the-layout-bet/?utm_source=futuretools.io&utm_medium=newspage",
@@ -1023,6 +1089,17 @@
       "officialUrl": "https://blog.google"
     },
     {
+      "id": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+      "title": "Direct Preference Optimization Beyond Chatbots",
+      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+      "category": "Research",
+      "date": "2026-06-03T12:55:11.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
+    },
+    {
       "id": "https://openai.com/index/wasmer",
       "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
       "summary": "Teams use Codex with GPT‑5.5 to take on more ambitious projects and complete them 10x to 20x faster. Loading…ShareEngineers at Wasmer experienced a breakthrough this year: They figured out how to run Node.js workloads inside a WebAssembly sandbox, enabling developers to run JavaScript apps, MCPs, and agents without Docker. This effort would have taken one year without Codex, but with Codex, it took two weeks. Now, they’re the first cloud host to provide full Node.js at the edge layer. Wasmer is a young company with a small team and a big goal: an edge computing platform that scales across local and global environments without platform restrictions. “The kinds of projects that we are taking on are incredibly ambitious, and it would have taken us ages to do them without AI,” says Syrus Akbary Nieto, Founder and CEO.",
@@ -1065,6 +1142,17 @@
       "date": "2026-06-03T04:00:00.000Z",
       "hot": false,
       "officialUrl": "https://news.mit.edu"
+    },
+    {
+      "id": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+      "title": "Adding MCP Tools to Reachy Mini",
+      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+      "category": "Research",
+      "date": "2026-06-03T00:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
     },
     {
       "id": "https://cohere.com/blog/coplot",
