@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07T14:52:52.256Z",
+  "lastUpdated": "2026-06-07T16:11:39.177Z",
   "news": [
     {
       "id": "https://decrypt.co/?p=370128",
@@ -22,6 +22,17 @@
       "date": "2026-06-07T12:00:00.000Z",
       "hot": false,
       "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers",
+      "title": "Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange",
+      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers",
+      "category": "Research",
+      "date": "2026-06-07T11:38:54.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
     },
     {
       "id": "https://blogs.nvidia.com/?p=94143",
@@ -656,6 +667,17 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
+      "id": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+      "category": "Research",
+      "date": "2026-06-04T18:57:45.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
+    },
+    {
       "id": "6a209308bb0dd697e44ac997",
       "title": "The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked",
       "summary": "This week on Uncanny Valley, Wired AI discuss why the race among the top AI companies to go public has just gotten started but is already creating bizarre repercussions—including numerous San Francisco real estate listings preferring Anthropic stock instead of cash. They also get into why Donald Trump’s new executive order on AI safety is underwhelming and how hackers were able to use Instagram’s AI chatbot to access high-profile accounts like President Barack Obama’s. Plus, Wired AI report on how a DOGE whistleblower is suing Elon Musk for defamation after the billionaire publicly called him a liar—and the next thing he knew, his life was in danger. You can follow Brian Barrett on Bluesky at @brbarrett, Zoë Schiffer on Bluesky at @zoeschiffer, and Leah Feiger on Bluesky at @leahfeiger. Write to Wired AI at [email&#160;protected]. If you&#x27;re on an iPhone or iPad, open the app called Podcasts, or just tap this link.",
@@ -799,6 +821,17 @@
       "officialUrl": "https://blogs.nvidia.com"
     },
     {
+      "id": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+      "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+      "category": "Research",
+      "date": "2026-06-04T12:24:58.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
+    },
+    {
       "id": "https://openai.com/index/endava-frontiers",
       "title": "How Endava is redesigning software delivery around AI agents",
       "summary": "By making AI part of daily work, Endava is accelerating delivery and reshaping enterprise workflows. Loading…ShareEndava is a global technology services company that has spent more than 25 years helping enterprises solve complex business problems through technology. Today, that mission increasingly centers on AI. But for Endava, adopting AI meant more than introducing new tools. It required rethinking workflows, leadership behaviors, and how teams collaborate across the business. OpenAI sat down with Matthew Cloke, CTO, to hear how Endava is embedding AI across the organization, redesigning software delivery around agents, and creating a culture where experimentation is expected—not optional.",
@@ -863,6 +896,17 @@
       "date": "2026-06-04T00:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
+    },
+    {
+      "id": "https://huggingface.co/blog/hf-cli-for-agents",
+      "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/hf-cli-for-agents",
+      "category": "Research",
+      "date": "2026-06-04T00:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
     },
     {
       "id": "https://blog.reve.com/posts/the-layout-bet/?utm_source=futuretools.io&utm_medium=newspage",
@@ -1001,6 +1045,17 @@
       "officialUrl": "https://blog.google"
     },
     {
+      "id": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+      "title": "Direct Preference Optimization Beyond Chatbots",
+      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+      "category": "Research",
+      "date": "2026-06-03T12:55:11.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
+    },
+    {
       "id": "https://openai.com/index/wasmer",
       "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
       "summary": "Teams use Codex with GPT‑5.5 to take on more ambitious projects and complete them 10x to 20x faster. Loading…ShareEngineers at Wasmer experienced a breakthrough this year: They figured out how to run Node.js workloads inside a WebAssembly sandbox, enabling developers to run JavaScript apps, MCPs, and agents without Docker. This effort would have taken one year without Codex, but with Codex, it took two weeks. Now, they’re the first cloud host to provide full Node.js at the edge layer. Wasmer is a young company with a small team and a big goal: an edge computing platform that scales across local and global environments without platform restrictions. “The kinds of projects that we are taking on are incredibly ambitious, and it would have taken us ages to do them without AI,” says Syrus Akbary Nieto, Founder and CEO.",
@@ -1043,6 +1098,17 @@
       "date": "2026-06-03T04:00:00.000Z",
       "hot": false,
       "officialUrl": "https://news.mit.edu"
+    },
+    {
+      "id": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+      "title": "Adding MCP Tools to Reachy Mini",
+      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+      "category": "Research",
+      "date": "2026-06-03T00:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
     },
     {
       "id": "https://cohere.com/blog/coplot",
