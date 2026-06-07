@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2026-06-07T16:11:39.177Z",
+  "lastUpdated": "2026-06-07T17:46:58.932Z",
   "news": [
+    {
+      "id": "https://techcrunch.com/?p=3130278",
+      "title": "OpenAI is still working on that ‘super app’",
+      "summary": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+      "category": "Business",
+      "date": "2026-06-07T16:23:22.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
     {
       "id": "https://decrypt.co/?p=370128",
       "title": "Claude Opus 4.8 Review: Better At What’s It Good At, Worse At What It’s Not",
@@ -553,7 +564,7 @@
     {
       "id": "https://blogs.nvidia.com/?p=94093",
       "title": "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI",
-      "summary": "Home to cutting-edge sovereign AI infrastructure and robotics innovators, as well as one of the world’s most passionate gaming communities, South Korea is one of the world’s centers of AI. NVIDIA founder and CEO Jensen Huang is in Seoul this week to meet the partners and builders behind that work.  here for live updates. Saturday, June 6, 11:50 p.m. PT NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs On Friday in Seoul, Huang headed to T1 Base Camp — a PC bang owned by T1, one of Korea’s top esports teams. There, he met with T1’s reigning League of Legends World Champion team, including six-time World Champion Lee “Faker” Sang-hyeok to unveil RTX Spark.",
+      "summary": "Home to cutting-edge sovereign AI infrastructure and robotics innovators, as well as one of the world’s most passionate gaming communities, South Korea is one of the world’s centers of AI. NVIDIA founder and CEO Jensen Huang is in Seoul this week to meet the partners and builders behind that work.  here for live updates. PT First Pitch for the Doosan Bears Sunday at Jamsil Stadium in Seoul, NVIDIA founder and CEO Jensen Huang threw out the first pitch for the mighty Doosan Bears, joined by Doosan Group chairman Park Jeong-won on the field. &nbsp; Saturday, June 6, 11 p.m. PT NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs On Friday in Seoul, Huang headed to T1 Base Camp — a PC bang owned by T1, one of Korea’s top esports teams.",
       "source": "NVIDIA Blog",
       "sourceUrl": "https://blogs.nvidia.com/blog/korea-ecosystem-2026/",
       "category": "Events",
@@ -909,6 +920,17 @@
       "officialUrl": "https://huggingface.co"
     },
     {
+      "id": "https://aiweekly.co/issues/microsoft-proves-it-doesnt-need-openai-alphabet-raises-85b",
+      "title": "AI Weekly Issue #499: Microsoft proves it doesn't need OpenAI; Alphabet raises $85B",
+      "summary": "Microsoft used its own developer conference to show it can live without OpenAI, Florida's attorney general sued OpenAI and went after Sam Altman personally, researchers and a new Workday product made plain that nobody trusts AI agents yet, and Alphabet raised a record $85 billion the same week the Fed flagged AI as a systemic risk. The money is moving faster than the trust. You're reading the weekly brief. Below are the other ways to follow the story — every channel free, easy to leave. Step back from the week's launches and the number that matters is the spend. Alphabet's $85 billion raise was the loudest signal, but it sits inside a wall of them.",
+      "source": "AI Weekly",
+      "sourceUrl": "https://aiweekly.co/issues/microsoft-proves-it-doesnt-need-openai-alphabet-raises-85b",
+      "category": "Curation",
+      "date": "2026-06-04T00:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://aiweekly.co"
+    },
+    {
       "id": "https://blog.reve.com/posts/the-layout-bet/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Reve Unveils Layout-Based Reve 2.0 Image Generation Model",
       "summary": ".post-cover-video{opacity:1} (function () { // The boomerang is baked into the file (forward + 6s hold on the generated-images // frame + reversed leg), so it just loops natively — no JS reverse (browsers can't // play video backwards smoothly). This only reveals it once frames are painting. var wrap = document.querySelector('.post-cover-wrap'); if (!wrap) return; var v = wrap.querySelector('.post-cover-video'); var btn = wrap.querySelector('.post-cover-play'); var reveal = function () { v.classList.add('is-playing'); }; // Autoplay blocked (e.g. X/Twitter in-app browser): show the poster frame + a play button // so it never just holds white. var showPlay = function () { reveal(); if (btn) btn.hidden = false; }; if (!v.paused && v.currentTime > 0 && !v.ended) reveal(); // already playing before this ran v.addEventListener('playing', function () { reveal(); if (btn) btn.hidden = true; }); if (btn) btn.addEventListener('click', function () { var r = v.play(); if (r && r.catch) r.catch(function () {}); }); var tryPlay = v.play(); // attempt programmatic autoplay if (tryPlay && tryPlay.catch) tryPlay.catch(showPlay); // rejected => blocked setTimeout(function () { if (v.paused) showPlay(); }, 1200); // resolved but never painted => fallback })(); Modern image models use text as their internal representation: a Large Language Model (LLM) expands the user prompt into a long-form description, which a diffusion model then renders as pixels. Text is expressive, but it is fundamentally",
@@ -1191,16 +1213,6 @@
       "date": "2026-06-02T19:00:08.000Z",
       "hot": false,
       "officialUrl": "https://blogs.nvidia.com"
-    },
-    {
-      "id": "https://blogs.bing.com/search/June-2026/Announcing-Microsoft-Web-IQ",
-      "title": "Announcing Microsoft Web IQ",
-      "summary": "AI applications are only as good as the information they reason from. Without fresh, high-quality web data, they are less dependable. Today, Microsoft is launching Web IQ: a suite of AI-native grounding APIs built for the agentic era, connecting AI systems and agents to fresh, real-world intelligence from across the web &mdash; including web pages, news, images, and videos. The systems that define the agentic era will be the ones that can retrieve fresh, authoritative evidence quickly, transform it into useful context, and do so within the latency and efficiency budgets that multi-step reasoning demands. Model capability alone no longer determines whether an AI system is useful. What matters is how effectively the full system connects models to the world, including information created after models were trained, and information too vast to encode in model weights.",
-      "source": "Bing Search Blog",
-      "sourceUrl": "https://blogs.bing.com/search/June-2026/Announcing-Microsoft-Web-IQ",
-      "category": "Insights",
-      "date": "2026-06-02T16:59:46.000Z",
-      "hot": true
     }
   ]
 }
