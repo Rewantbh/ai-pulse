@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07T00:03:17.706Z",
+  "lastUpdated": "2026-06-07T05:05:06.068Z",
   "news": [
     {
       "id": "https://decrypt.co/?p=370237",
@@ -887,17 +887,6 @@
       "officialUrl": "https://huggingface.co"
     },
     {
-      "id": "https://aiweekly.co/issues/microsoft-proves-it-doesnt-need-openai-alphabet-raises-85b",
-      "title": "AI Weekly Issue #499: Microsoft proves it doesn't need OpenAI; Alphabet raises $85B",
-      "summary": "Microsoft used its own developer conference to show it can live without OpenAI, Florida's attorney general sued OpenAI and went after Sam Altman personally, researchers and a new Workday product made plain that nobody trusts AI agents yet, and Alphabet raised a record $85 billion the same week the Fed flagged AI as a systemic risk. The money is moving faster than the trust. You're reading the weekly brief. Below are the other ways to follow the story — every channel free, easy to leave. Step back from the week's launches and the number that matters is the spend. Alphabet's $85 billion raise was the loudest signal, but it sits inside a wall of them.",
-      "source": "AI Weekly",
-      "sourceUrl": "https://aiweekly.co/issues/microsoft-proves-it-doesnt-need-openai-alphabet-raises-85b",
-      "category": "Curation",
-      "date": "2026-06-04T00:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://aiweekly.co"
-    },
-    {
       "id": "https://blog.reve.com/posts/the-layout-bet/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Reve Unveils Layout-Based Reve 2.0 Image Generation Model",
       "summary": ".post-cover-video{opacity:1} (function () { // The boomerang is baked into the file (forward + 6s hold on the generated-images // frame + reversed leg), so it just loops natively — no JS reverse (browsers can't // play video backwards smoothly). This only reveals it once frames are painting. var wrap = document.querySelector('.post-cover-wrap'); if (!wrap) return; var v = wrap.querySelector('.post-cover-video'); var btn = wrap.querySelector('.post-cover-play'); var reveal = function () { v.classList.add('is-playing'); }; // Autoplay blocked (e.g. X/Twitter in-app browser): show the poster frame + a play button // so it never just holds white. var showPlay = function () { reveal(); if (btn) btn.hidden = false; }; if (!v.paused && v.currentTime > 0 && !v.ended) reveal(); // already playing before this ran v.addEventListener('playing', function () { reveal(); if (btn) btn.hidden = true; }); if (btn) btn.addEventListener('click', function () { var r = v.play(); if (r && r.catch) r.catch(function () {}); }); var tryPlay = v.play(); // attempt programmatic autoplay if (tryPlay && tryPlay.catch) tryPlay.catch(showPlay); // rejected => blocked setTimeout(function () { if (v.paused) showPlay(); }, 1200); // resolved but never painted => fallback })(); Modern image models use text as their internal representation: a Large Language Model (LLM) expands the user prompt into a long-form description, which a diffusion model then renders as pixels. Text is expressive, but it is fundamentally",
@@ -1267,28 +1256,6 @@
       "date": "2026-06-02T06:00:36.000Z",
       "hot": false,
       "officialUrl": "https://blogs.nvidia.com"
-    },
-    {
-      "id": "https://blogs.nvidia.com/?p=93325",
-      "title": "NVIDIA Jetson Brings Agentic AI to the Physical World",
-      "summary": "Agentic AI is getting physical. At COMPUTEX on Tuesday, NVIDIA announced NVIDIA JetPack 7.2 and NVIDIA NemoClaw support on NVIDIA Jetson. JetPack 7.2 brings agentic AI skills, Yocto project support, NVIDIA CUDA 13 on NVIDIA Jetson Orin, a substantial performance gain on Jetson AGX Orin 32GB module and Multi-Instance GPU (MIG) support on NVIDIA Jetson Thor. NVIDIA&#8217;s Asier Arrnaz shows how Build-a-Claw brings AI to the edge, a personalized, always-on assistant running right on NVIDIA Jetson. The launch coincides with the GTC Taipei Build-a-Claw event, bringing the popular hands-on event from GTC San Jose to Taiwan, one of the world&#8217;s premier global technology hubs. The release lands NemoClaw, NVIDIA&#8217;s agentic AI framework, on the production-grade Jetson stack — taking agentic AI from servers and workstations into the physical world, across robotics, inspection and industrial automation.",
-      "source": "NVIDIA Blog",
-      "sourceUrl": "https://blogs.nvidia.com/blog/jetson-agentic-ai-physical-world/",
-      "category": "Events",
-      "date": "2026-06-02T02:00:40.000Z",
-      "hot": false,
-      "officialUrl": "https://blogs.nvidia.com"
-    },
-    {
-      "id": "https://openai.com/index/codex-for-knowledge-work",
-      "title": "Codex is becoming a productivity tool for everyone",
-      "summary": "(opens in a new window)Loading…ShareOpenAI today released a new report⁠(opens in a new window), The Next Era of Knowledge Work, showing how Codex is no longer just a coding tool. Increasingly, it’s helping people across professions automate routine work, move faster, and eliminate the bottlenecks of modern knowledge work. Codex now has more than 5 million weekly active users, up more than 6x since the launch of the desktop app in February. While developers remain the largest user group, knowledge workers now represent about 20 percent of users and are growing more than three times as fast. The data suggests a broader shift is underway. Knowledge workers primarily use Codex to create reports, spreadsheets, presentations, contracts, and other work products.",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/codex-for-knowledge-work",
-      "category": "Models",
-      "date": "2026-06-02T02:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com"
     }
   ]
 }
