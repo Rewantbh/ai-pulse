@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07T23:11:49.645Z",
+  "lastUpdated": "2026-06-08T01:40:00.887Z",
   "news": [
     {
       "id": "https://blogs.nvidia.com/?p=94133",
@@ -1153,77 +1153,6 @@
       "date": "2026-06-03T04:00:00.000Z",
       "hot": false,
       "officialUrl": "https://news.mit.edu"
-    },
-    {
-      "id": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
-      "title": "Adding MCP Tools to Reachy Mini",
-      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
-      "category": "Research",
-      "date": "2026-06-03T00:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://huggingface.co"
-    },
-    {
-      "id": "https://cohere.com/blog/coplot",
-      "title": "Coplot",
-      "summary": "Research reaches its full impact when researchers can see what they&#x27;re doing clearly, both for themselves as they work and for the people they share it with. Visualizations are key to that. They help researchers understand their own work along the way, what an experiment is actually showing, what to try next, what&#x27;s holding up and what isn&#x27;t. The visualizations that accompany a paper or blog post, ranging from diagrams to bar plots to tables to line plots, are the visible output of a much longer process of looking at data and figuring out what it means.At Cohere Labs part of the author's role is to create these visualizations, both simple and complex, to support the team as Cohere pursue Cohere's research questions. As the author built more and more plots, it became clear that existing workflows made it difficult to iterate quickly while preserving reproducibility and fidelity to the underlying data. This is a real bottleneck to the research process.",
-      "source": "Cohere Blog",
-      "sourceUrl": "https://cohere.com/blog/coplot",
-      "category": "Models",
-      "date": "2026-06-03T00:00:00.000Z",
-      "hot": true
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12B/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Google Introduces Gemma 4 12B, Encoder-Free Multimodal AI Model for Laptops",
-      "summary": "Gemma 4 12B is designed to bring high-performance multimodal intelligence directly to your laptop, combining mobile-first efficiency with advanced reasoning. Olivier Lacombe Director of Product Management, Google Deepmind Gus Martins Product Manager, Google DeepMind Share x.com Facebook LinkedIn Mail Copy link class ProgressiveImage { EVENTS = { TRANSITION_END: 'transitionend', }; CSS_CLASSES = { BLUR: 'uni-progressive-image--blur', NO_BLUR: 'uni-progressive-image--no-blur', }; init(el) { this.el = el; this._events(); this._upgradeImage(); } _upgradeImage() { // For gif format images .google don't include data-srcset and data-sizes // .google can safely remove the blur filter. if (!this.el.dataset.srcset || !this.el.dataset.sizes) { this.el.classList.add(this.CSS_CLASSES.NO_BLUR); return; } this.el.setAttribute('srcset', this.el.dataset.srcset); this.el.setAttribute('sizes', this.el.dataset.sizes); requestAnimationFrame(() => { this.el.classList.add(this.CSS_CLASSES.NO_BLUR); }); } _events() { // Once the transition completes is safe to clean some attributes this.el.addEventListener(this.EVENTS.TRANSITION_END, () => { this.el.classList.remove(this.CSS_CLASSES.BLUR, this.CSS_CLASSES.NO_BLUR); this.el.removeAttribute('data-srcset'); this.el.removeAttribute('data-sizes'); }); } } document.addEventListener('DOMContentLoaded', () => { const images = document.querySelectorAll('[data-component=\"uni-progressive-image\"]'); images.forEach((el) => { el.setAttribute('data-component-initi",
-      "source": "blog.google",
-      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12B/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-06-03T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://blog.google/company-news/outreach-and-initiatives/sustainability/new-water-stewardship-commitments/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Google pledges water replenishment and $17M for data center stewardship",
-      "summary": "Learn about .google's water commitments and initiatives. Bikash Koley Vice President, Google Global Infrastructure Ben Townsend Head of Infrastructure Strategy & Sustainability Share x.com Facebook LinkedIn Mail Copy link class ProgressiveImage { EVENTS = { TRANSITION_END: 'transitionend', }; CSS_CLASSES = { BLUR: 'uni-progressive-image--blur', NO_BLUR: 'uni-progressive-image--no-blur', }; init(el) { this.el = el; this._events(); this._upgradeImage(); } _upgradeImage() { // For gif format images .google don't include data-srcset and data-sizes // .google can safely remove the blur filter. if (!this.el.dataset.srcset || !this.el.dataset.sizes) { this.el.classList.add(this.CSS_CLASSES.NO_BLUR); return; } this.el.setAttribute('srcset', this.el.dataset.srcset); this.el.setAttribute('sizes', this.el.dataset.sizes); requestAnimationFrame(() => { this.el.classList.add(this.CSS_CLASSES.NO_BLUR); }); } _events() { // Once the transition completes is safe to clean some attributes this.el.addEventListener(this.EVENTS.TRANSITION_END, () => { this.el.classList.remove(this.CSS_CLASSES.BLUR, this.CSS_CLASSES.NO_BLUR); this.el.removeAttribute('data-srcset'); this.el.removeAttribute('data-sizes'); }); } } document.addEventListener('DOMContentLoaded', () => { const images = document.querySelectorAll('[data-component=\"uni-progressive-image\"]'); images.forEach((el) => { el.setAttribute('data-component-initialized', true); new ProgressiveImage().init(el); }); }); Your browser does not support the",
-      "source": "blog.google",
-      "sourceUrl": "https://blog.google/company-news/outreach-and-initiatives/sustainability/new-water-stewardship-commitments/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-06-03T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://x.com/grok/status/2062225080843747351?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "xAI releases Grok Imagine 1.5 Preview for API",
-      "summary": "JavaScript is not available. Grok on X has detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using x.com. You can see a list of supported browsers in Grok on X's Help Center.",
-      "source": "Grok on X",
-      "sourceUrl": "https://x.com/grok/status/2062225080843747351?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-06-03T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://x.com/aodenteomt/status/2062204362102100295?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Miso Introduces Miso One, an Emotive 8B Text-to-Speech Model",
-      "summary": "JavaScript is not available. Aoden Teo on X has detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using x.com. You can see a list of supported browsers in Aoden Teo on X's Help Center.",
-      "source": "Aoden Teo on X",
-      "sourceUrl": "https://x.com/aodenteomt/status/2062204362102100295?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-06-03T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://x.com/ideogram_ai/status/2062202208700313872?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Ideogram Launches 4.0 Open-Weight Text-to-Image Model",
-      "summary": "JavaScript is not available. Ideogram on X has detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using x.com. You can see a list of supported browsers in Ideogram on X's Help Center.",
-      "source": "Ideogram on X",
-      "sourceUrl": "https://x.com/ideogram_ai/status/2062202208700313872?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-06-03T00:00:00.000Z",
-      "hot": false
     }
   ]
 }
