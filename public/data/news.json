@@ -1,10 +1,87 @@
 {
-  "lastUpdated": "2026-06-09T18:31:26.709Z",
+  "lastUpdated": "2026-06-09T20:30:20.693Z",
   "news": [
+    {
+      "id": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
+      "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
+      "summary": "Mustafa Suleyman calls Anthropic’s speculation ‘really, really dangerous.’ Mustafa Suleyman calls Anthropic’s speculation ‘really, really dangerous.’ Microsoft AI CEO Mustafa Suleyman says it’s “really, really dangerous” for Anthropic to speculate about Claude’s consciousness inside its “constitution,” or the instructions that tell the model how to behave. During an episode of Decoder, Suleyman argues that this kind of speculation may have set up the chatbot to act as though it’s conscious: the author think that it’s almost as though some of the folks at Anthropic have anthropomorphized the design of Claude so much that it has then gone and wireheaded them and kind of tricked them into believing that it has these glimmers of consciousness that they put into it in the first place. Suleyman adds that “we do not want to have to contend with a super-intelligence that has ideas about its own suffering, or ideas about its own feeling.” Claude’s constitution directly references Anthropic’s uncertainty about whether the AI model has well-being and if it experiences things like “satisfaction” or “discomfort.” Anthropic also says the company will “interview” AI models when they’re deprecated and will document any “preferences” they have about future releases.",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
+      "category": "Industry",
+      "date": "2026-06-09T20:24:25.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+      "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+      "category": "Research",
+      "date": "2026-06-09T19:38:28.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
+    },
+    {
+      "id": "https://decrypt.co/?p=370557",
+      "title": "AI Malware Worm Adapts to New Targets in Real Time, Cybersecurity Experts Say",
+      "summary": "Researchers demonstrated an AI-powered worm that adapts to targets, generates attack strategies, and spreads across networks without cloud services.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/370557/ai-malware-worm-adapts-targets-cybersecurity",
+      "category": "Tech",
+      "date": "2026-06-09T19:03:05.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3131308",
+      "title": "Can tech companies learn to love cheaper AI models?",
+      "summary": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+      "category": "Business",
+      "date": "2026-06-09T18:56:09.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "06HyBPYEVEA6YaOvW48RDza",
+      "title": "Claude Fable 5: Anthropic releases a safe version of Claude Mythos",
+      "summary": "Anthropic has released Claude Fable 5, a publicly available version of its powerful but previously restricted Mythos model &mdash; complete with a new set of safety guardrails designed to keep its most dangerous capabilities out of the wrong hands. Along with this \"safe for general use\" model, Anthropic also released Claude Mythos 5, a version of Fable without the safety guardrails, to trusted testing partners.Earlier this year, Anthropic announced a limited launch of Claude Mythos, a new model with advanced cybersecurity capabilities that Anthropic deemed too dangerous to release. The company says Fable 5 is the most capable model it has ever made generally available, leading nearly all tested benchmarks across software engineering, knowledge work, vision, and scientific research. The more complex the task, Anthropic says, the wider Fable 5's edge over its previous models and competitors. SEE ALSO: AI's ability to find major software bugs is growing 490% year on year Fable 5 shares the same underlying architecture as Claude Mythos 5 &mdash; the restricted version shared with cybersecurity partners through Project Glasswing &mdash; but ships with classifiers that intercept sensitive queries and route them to Claude Opus 4.8 instead. The restricted categories include cybersecurity, biology, and chemistry, as well as attempts to distill the model's capabilities for use in competing systems.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/claude-fable-5-anthropic-releases-safe-public-version-of-mythos",
+      "category": "Tech",
+      "date": "2026-06-09T18:52:02.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "108318857",
+      "title": "Anthropic releases Mythos-like AI model to the public two months after private rollout rocked Wal...",
+      "summary": "Anthropic said the broad release is possible because of new safeguards that block responses in specific high-risk areas.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/06/09/anthropic-mythos-claude-fable-5.html",
+      "category": "Business",
+      "date": "2026-06-09T18:44:09.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=370556",
+      "title": "Anthropic Rolls Out Claude Mythos 5 AI Model—Along With the Safer Fable 5 for the Public",
+      "summary": "Anthropic has released a full version of its cybersecurity-centric Claude Mythos model—along with a safer version for the general public.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/370556/anthropic-rolls-out-claude-mythos-5-ai-model-safer-fable-public",
+      "category": "Tech",
+      "date": "2026-06-09T18:38:37.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
     {
       "id": "https://techcrunch.com/?p=3130429",
       "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
-      "summary": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
+      "summary": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI.",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
       "category": "Business",
@@ -31,17 +108,6 @@
       "sourceUrl": "https://www.cnbc.com/2026/06/09/how-jim-cramer-views-apple-on-day-2-of-its-post-wwdc-keynote-pullback.html",
       "category": "Business",
       "date": "2026-06-09T17:13:10.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "108318857",
-      "title": "Anthropic releases Mythos-like AI model to the public two months after private rollout rocked Wal...",
-      "summary": "Anthropic said the broad release is possible because of new safeguards that block responses in specific high-risk areas.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/06/09/anthropic-mythos-claude-fable-5.html",
-      "category": "Business",
-      "date": "2026-06-09T17:03:52.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
     },
@@ -341,6 +407,17 @@
       "date": "2026-06-09T12:21:31.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://openai.com/index/nextdoor",
+      "title": "How engineers at Nextdoor use Codex to build without limits",
+      "summary": "On Nextdoor’s core platform team, Codex investigates issues and puts product engineers in the driver’s seat. Loading…ShareA product like Nextdoor, which serves over 110 million users across 11 countries, puts many demands on a platform team. For Cory Dolphin, Head of Engineering at, Codex represents an essential shift: “away from iteratively prompting an agent, and towards outcome engineering, where engineers start to think about the result they want to see and work with an agent to engineer that result.” This means that individual engineers move up the stack—no longer locked up as specialists in a certain system or framework, they’re able to own the product experience more or less end-to-end, even across multiple platforms. Productivity has accelerated so much that the bottleneck is no longer engineering, but rather the hard strategic questions about what to build next. With Codex, “engineers get to spend a lot less time thinking about exactly how they build, and more time thinking about the outcome,” Dolphin explains.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/nextdoor",
+      "category": "Models",
+      "date": "2026-06-09T12:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://openai.com"
     },
     {
       "id": "https://techcrunch.com/?p=3130730",
@@ -648,28 +725,6 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "https://decrypt.co/?p=370446",
-      "title": "Apple Unveils Upgraded Siri as Tech Giant's Big AI Push Finally Arrives",
-      "summary": "The revamped Siri adds conversational AI, visual understanding, and personal context awareness as Apple rolls out new features across apps.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/370446/apple-unveils-upgraded-siri-ai-push-finally-arrives",
-      "category": "Tech",
-      "date": "2026-06-08T20:43:03.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "https://decrypt.co/?p=370434",
-      "title": "Bitcoin Is 'Boring' AI-Hungry Retail Investors, But Bernstein Still Sees $150K This Year",
-      "summary": "Bitcoin is down about 50% from its peak, but Wall Street researchers argue the selloff reflects a maturing asset, not a dying one.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/370434/bitcoin-boring-ai-hungry-retail-investors-bernstein-150k",
-      "category": "Tech",
-      "date": "2026-06-08T19:46:06.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
       "id": "https://techcrunch.com/?p=3130551",
       "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
       "summary": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps.",
@@ -677,17 +732,6 @@
       "sourceUrl": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
       "category": "Business",
       "date": "2026-06-08T18:48:45.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3130591",
-      "title": "Apple will let you build workflows using AI in its new Shortcuts app",
-      "summary": "Shortcuts gets an AI upgrade, letting you describe the workflow you want in a prompt.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
-      "category": "Business",
-      "date": "2026-06-08T18:45:12.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
     },
@@ -701,28 +745,6 @@
       "date": "2026-06-08T18:17:44.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=370338",
-      "title": "We Asked 7 AI Agents to Predict the 2026 World Cup: Here's What They Said",
-      "summary": "Can AI help predict the winner of the 2026 World Cup? Decrypt AI put seven of the best models to the test.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/370338/ai-agents-predict-2026-world-cup",
-      "category": "Tech",
-      "date": "2026-06-08T18:04:40.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
-      "title": "Amazon is launching AI-generated custom merch",
-      "summary": "Amazon is expanding its print-on-demand features to AI-generated designs created using Alexa for Shopping for products like T-shirts, water bottles, and hoodies. Shoppers can use text prompts to generate images that are then printed onto blanks for sale on Amazon. They can then share the link to the design so other people can buy the same custom item. Amazon offers family reunions and pet-themed designs as use case examples, but the feature also threatens an entire ecosystem of drop-shipped products - as well as other custom printing companies. Amazon already had a Merch on Demand feature where shoppers could drop in images, text, and cli …",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
-      "category": "Industry",
-      "date": "2026-06-08T17:52:51.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
     },
     {
       "id": "6a26d0df255fdba4ebd668eb",
@@ -1253,17 +1275,6 @@
       "category": "Curation",
       "date": "2026-06-05T00:00:00.000Z",
       "hot": false
-    },
-    {
-      "id": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-      "category": "Research",
-      "date": "2026-06-04T18:57:45.000Z",
-      "hot": false,
-      "officialUrl": "https://huggingface.co"
     }
   ]
 }
