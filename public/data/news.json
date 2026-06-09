@@ -1,6 +1,94 @@
 {
-  "lastUpdated": "2026-06-09T16:29:17.332Z",
+  "lastUpdated": "2026-06-09T18:31:26.709Z",
   "news": [
+    {
+      "id": "https://techcrunch.com/?p=3130429",
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+      "summary": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "category": "Business",
+      "date": "2026-06-09T18:04:24.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "108318834",
+      "title": "SpaceX IPO explained: The price is set, but retail allocation still up in the air",
+      "summary": "Charles Schwab, Fidelity, Robinhood, SoFi and Morgan Stanley's E-Trade are among the brokerage platforms making SpaceX shares available.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/06/09/spacex-ipo-explained-stock-price-date.html",
+      "category": "Business",
+      "date": "2026-06-09T17:28:35.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "108318842",
+      "title": "How Jim Cramer views Apple on Day 2 of its post-WWDC keynote pullback",
+      "summary": "\"We're not going to trade Apple. That's an own, don't trade,\" Jim Cramer said. Still, \"you cannot call the bottom here.\"",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/06/09/how-jim-cramer-views-apple-on-day-2-of-its-post-wwdc-keynote-pullback.html",
+      "category": "Business",
+      "date": "2026-06-09T17:13:10.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "108318857",
+      "title": "Anthropic releases Mythos-like AI model to the public two months after private rollout rocked Wal...",
+      "summary": "Anthropic said the broad release is possible because of new safeguards that block responses in specific high-risk areas.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/06/09/anthropic-mythos-claude-fable-5.html",
+      "category": "Business",
+      "date": "2026-06-09T17:03:52.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "6a2701c8e306f8dd75903241",
+      "title": "Anthropic Offers Mythos Upgrade for Cyber Partners and a ‘Safe’ Version for the Rest of You",
+      "summary": "Anthropic CEO Dario Amodei.Photograph: Ludovic Marin/Getty Images Anthropic released two new AI models called Claude Fable 5 and Claude Mythos 5 on Tuesday, which the company says have greater capabilities than the Mythos Preview model it released in April to a limited set of tech industry partners. Anthropic has said the initial, limited release stemmed from concerns that the model’s capabilities could be exploited by bad actors to develop hacking tools that could catch defenders off guard. Anthropic is currently only releasing Claude Mythos 5 to a limited set of industry partners, many of which received access to Mythos Preview, and the company says it is collaborating with the US government on the rollout. Claude Fable 5, which is being publicly released, uses the same underlying model as Mythos 5, but will have “guardrails” in place at launch, the company said Tuesday, that will block the model from answering many user questions related to cybersecurity, biology, and chemistry. These requests will instead be rerouted to an older AI model, Claude Opus 4.8. If Anthropic suspects a user is trying to conduct distillation—training a smaller AI model off a larger AI model’s responses—on Claude Fable 5, those requests will also be rerouted to Claude Opus 4.8, the company says.",
+      "source": "Wired AI",
+      "sourceUrl": "https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/",
+      "category": "Industry",
+      "date": "2026-06-09T17:00:46.000Z",
+      "hot": false,
+      "officialUrl": "https://www.wired.com"
+    },
+    {
+      "id": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
+      "title": "Anthropic releases its first Mythos-class model Claude Fable",
+      "summary": "It says new safeguards make it possible to release a Mythos-class model it previously said was too risky to make public. It says new safeguards make it possible to release a Mythos-class model it previously said was too risky to make public. Anthropic just announced Claude Fable 5, a new AI model it said is the most powerful model it has ever made widely available. According to the company, Fable 5 “shows exceptional performance in software engineering, knowledge work, and vision,” with its lead over other models growing as tasks become longer and more complex. Fable 5 marks the first broad release from Anthropic’s Mythos class of AI models, after the company said the family was so capable at cybersecurity tasks that it was too dangerous to release publicly. Anthropic said the release was “made possible by new safeguards that block responses in specific high-risk areas,” with the system falling back to Claude Opus 4.8 — a model it praised for “honesty” when it launched last month.",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
+      "category": "Industry",
+      "date": "2026-06-09T17:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3131081",
+      "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
+      "summary": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
+      "category": "Business",
+      "date": "2026-06-09T17:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "01VmMV64ogQTyy4xpxPs0Ji",
+      "title": "Its official: OpenAI files IPO",
+      "summary": "OpenAI has officially filed for an IPO, setting the stage for a blockbuster year of IPOs, as both SpaceX and Anthropic are also going publicOn Monday, OpenAI published a statement on its website announcing that it had confidentially filed for an initial public offering, or IPO, with the U.S. Securities and Exchange Commission.\"We recently submitted a confidential S-1,\" OpenAI said. \"We expect it to leak so we&rsquo;re just announcing it.\"OpenAI did not share any specific details regarding the terms or size of the IPO. However, the company did explicitly address the timing of the IPO, in that there is no timeline for when OpenAI plans to go public.\"We have not decided on timing yet; it may be a while because there are things we want to do that are likely easier as a private company,\" reads OpenAI's statement. \"But it&rsquo;s a complicated set of tradeoffs and this gives us the option to go public sooner if that ends up being best.\"While the company isn't sharing much, it's been previously reported by Reuters that OpenAI is eyeing an IPO as early as September at a valuation of $1 trillion.While OpenAI may be seen as the AI industry leader, one of its biggest competitors, Anthropic, beat the company to the punch with its own IPO plans. Anthropic announced last week that it filed to go public with the SEC.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/openai-files-ipo",
+      "category": "Tech",
+      "date": "2026-06-09T16:26:57.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
     {
       "id": "01f2O57jVWbxZynfhEEsNBv",
       "title": "These 9 early Prime Day outdoor deals will get you prepped for summer",
@@ -33,6 +121,17 @@
       "date": "2026-06-09T16:09:14.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/article/news-gcc-ai-cloud-hiring-apac-india/",
+      "title": "India GCCs Lead AI and Cloud Hiring as IT Services Trail",
+      "summary": "India’s Global Capability Centers are pulling ahead of IT services firms in AI and cloud hiring, as multinationals bring more sensitive, high-value technology work in-house.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-gcc-ai-cloud-hiring-apac-india/",
+      "category": "Business",
+      "date": "2026-06-09T16:00:41.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "https://decrypt.co/?p=370522",
@@ -147,7 +246,7 @@
     {
       "id": "https://techcrunch.com/?p=3131057",
       "title": "Sandstone raises $30M to bring AI to in-house legal teams",
-      "summary": "Sandstone's Series A was led by Lightspeed Partners, with participation from Sequoia.",
+      "summary": "Sandstone's Series A comes just six months after a Sequoia-led seed round.",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
       "category": "Business",
@@ -187,6 +286,17 @@
       "date": "2026-06-09T13:16:41.000Z",
       "hot": false,
       "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/?p=4351422",
+      "title": "This AI Tool Builds Polished Presentations in Seconds",
+      "summary": "PowerPresent AI converts topics, prompts, and documents into polished, export-ready presentations in seconds.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/powerpresent-ai-lifetime-subscription/",
+      "category": "Business",
+      "date": "2026-06-09T13:00:58.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "015og5qDIrUc693VVFx4mon",
@@ -266,17 +376,6 @@
       "officialUrl": "https://huggingface.co"
     },
     {
-      "id": "07sOskiD2TLbq8MWxhryIyR",
-      "title": "iRobot Roomba Max 705 drops to its best-ever price before Prime Day",
-      "summary": "SAVE $400: As of June 9, the iRobot Roomba Max 705 is on sale for $499 at Amazon. That's a 45% discount on the list price. Opens in a new window Credit: iRobot iRobot Roomba Max 705 $499 at Amazon $899.99 Save $400.99 &nbsp; Get Deal Prime Day is just around the corner, but you don't have to wait to score a robot vacuum deal. Amazon's Daily Deals are still packed with discounts, including this latest offer on the iRobot Roomba Max 705 robot vacuum. As of June 9, it's currently down to its best-ever price, with $400 off the list price. This takes the price down from $899.99 to $499.This Roomba robot vacuum uses dual rubber brushes that flex and allow it to adjust to different floor types.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/june-9-irobot-roomba-max-705-deal",
-      "category": "Tech",
-      "date": "2026-06-09T10:41:01.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
       "id": "https://www.technologyreview.com/?p=1137830",
       "title": "Learning to lead in a hybrid human-AI enterprise",
       "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce. Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordinating complex tasks, interacting with multiple tools and environments across an organization. In early applications that center on customer service, HR, and sales, adoption of agentic AI has led to productivity gains of 30-50%. Their autonomy positions agents more as collaborators than tools, working side-by-side with human employees in blended teams that look poised to upend traditional workplace dynamics.&nbsp; More than three-quarters of HR leaders believe that the deployment of AI agents will transform existing workplace norms, driving a complete reappraisal of how roles and responsibilities are distributed, how skills are prioritized, and how workplace culture is shaped. Though many admit they’re in the early or preparatory phase of this shift, 86% of chief HR officers predict that navigating digital labor shaped by agentic AI will be a central component of their role in the years ahead. Fluency in the change management aspect of agentic AI adoption will be a crucial differentiator when it comes to unlocking the full potential of the technology going forward, believes Ateet Jayaswal, chief culture and employee experience officer at Wipro, a leading technology services and consu...",
@@ -323,7 +422,7 @@
     {
       "id": "https://techcrunch.com/?p=3130646",
       "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
-      "summary": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
+      "summary": "Can Apple's new AI glow-up put to bed accusations that it's losing an all-important industry race?",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
       "category": "Business",
@@ -351,6 +450,26 @@
       "date": "2026-06-09T00:00:00.000Z",
       "hot": false,
       "officialUrl": "https://aiweekly.co"
+    },
+    {
+      "id": "https://www.anthropic.com/news/claude-fable-5-mythos-5?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Anthropic launches Claude Fable 5, a Mythos-class model for general use",
+      "summary": "Today anthropic.com is launching Claude Fable 5: a Mythos-class1 model that anthropic.com has made safe for general use. Fable 5’s capabilities exceed those of any model anthropic.com has ever made generally available. It is state-of-the-art on nearly all tested benchmarks of AI capability, showing exceptional performance in software engineering, knowledge work, vision, scientific research, and many other areas. The longer and more complex the task, the larger Fable 5’s lead over anthropic.com's other models. Releasing a model this capable comes with risks. Without safeguards, Fable 5’s capabilities in areas like cybersecurity could be misused to cause serious damage.",
+      "source": "anthropic.com",
+      "sourceUrl": "https://www.anthropic.com/news/claude-fable-5-mythos-5?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-06-09T00:00:00.000Z",
+      "hot": true
+    },
+    {
+      "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Google Adds Near Real-Time Voice Translation With Gemini 3.5 Live Translate",
+      "summary": "Gemini 3.5 Live Translate is .google's latest audio model, delivering near real-time speech-to-speech translation in over 70 languages. Your browser does not support the audio element. Twenty years ago, translation at Google began as one of .google's pioneering machine learning experiments to turn the science of language into the magic of human connection. That experiment has come a long way with over a trillion words being translated for billions of users across .google's products every month. Today, .google is taking .google's next step with the release of Gemini 3.5 Live Translate, .google's latest audio model for live speech-to-speech translation. The model automatically detects 70+ languages and generates smooth, natural-sounding translated speech that preserves the speakers' intonation, pacing and pitch.",
+      "source": "blog.google",
+      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-06-09T00:00:00.000Z",
+      "hot": false
     },
     {
       "id": "108318399",
@@ -518,17 +637,6 @@
       "officialUrl": "https://decrypt.co"
     },
     {
-      "id": "108318409",
-      "title": "Nvidia CEO Jensen Huang declines Senate testimony on AI, China and exports",
-      "summary": "Sen. Elizabeth Warren said Nvidia’s CEO should answer questions publicly as lawmakers scrutinize AI chip sales to China and export controls.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/06/08/nvidia-jensen-huang-senate-elizabeth-warren-ai-china-export-controls.html",
-      "category": "Business",
-      "date": "2026-06-08T20:54:34.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
       "id": "https://techcrunch.com/?p=3130751",
       "title": "Apple bets cheaper AI will woo small developers",
       "summary": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
@@ -551,17 +659,6 @@
       "officialUrl": "https://decrypt.co"
     },
     {
-      "id": "108318228",
-      "title": "Corning strikes another multibillion-dollar AI deal. What the new Amazon pact means for the stock",
-      "summary": "Amazon joins the laundry list of partnerships Corning has secured in 2026, which includes Meta Platforms and Nvidia.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/06/08/corning-strikes-another-big-ai-deal-what-the-new-amazon-pact-means-for-the-stock.html",
-      "category": "Business",
-      "date": "2026-06-08T20:33:32.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
       "id": "https://decrypt.co/?p=370434",
       "title": "Bitcoin Is 'Boring' AI-Hungry Retail Investors, But Bernstein Still Sees $150K This Year",
       "summary": "Bitcoin is down about 50% from its peak, but Wall Street researchers argue the selloff reflects a maturing asset, not a dying one.",
@@ -571,17 +668,6 @@
       "date": "2026-06-08T19:46:06.000Z",
       "hot": false,
       "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3130429",
-      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
-      "summary": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-      "category": "Business",
-      "date": "2026-06-08T19:41:32.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
     },
     {
       "id": "https://techcrunch.com/?p=3130551",
@@ -602,17 +688,6 @@
       "sourceUrl": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
       "category": "Business",
       "date": "2026-06-08T18:45:12.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3130579",
-      "title": "Apple’s Image Playground doesn’t suck anymore",
-      "summary": "Apple's AI image generator is getting a makeover that could make it more competitive.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/",
-      "category": "Business",
-      "date": "2026-06-08T18:38:07.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
     },
@@ -672,17 +747,6 @@
       "officialUrl": "https://www.techrepublic.com"
     },
     {
-      "id": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc",
-      "title": "Apple announces Siri AI and its next generation of Apple Intelligence",
-      "summary": "Two years after first revealing its plans for Apple Intelligence and a smarter Siri that never fully materialized, at WWDC, Apple just revealed a new set of AI features and a smarter, more personalized Siri. Apple calls Siri AI an \"entirely new version of Siri\" and says it's both more conversational and more capable than the previous version of the smart assistant. In conversations, it has a more expressive voice that can be customized by pace, expressivity, and accent. Siri AI will be accessible systemwide, capable of reading what's onscreen and interacting with your apps. But Apple's SVP of software engineering Craig Federighi said it w …",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc",
-      "category": "Industry",
-      "date": "2026-06-08T17:34:24.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
       "id": "6a26b0960da90d8bb836006c",
       "title": "Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report",
       "summary": "Mark Zuckerberg, chief executive officer of Meta Platforms.Photograph: David Paul Morris/Bloomberg/Getty Images One day after WIRED revealed that Meta had quietly embedded an unreleased face-recognition system into an app installed on more than 50 million phones, the company removed it, according to a WIRED analysis of the latest version’s code. The most recent version of Meta AI, a companion app for its line of smart glasses, strips out the unactivated software components that powered the system Meta internally called NameTag. The version published the day of WIRED’s report included several code libraries explicitly named for face recognition. Friday’s release includes none of them. Andy Stone, Meta&#x27;s vice president of communications, told WIRED on Monday that the feature is purely exploratory, adding: “No final decision has been made on what to do here, if anything.” On Thursday, WIRED reported that Meta had quietly integrated substantial portions of the NameTag system into the Meta AI app.",
@@ -692,17 +756,6 @@
       "date": "2026-06-08T17:31:11.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=5719",
-      "title": "What is Zcash (ZEC)? The Privacy Coin Using Zero-Knowledge Proofs",
-      "summary": "Zcash is a privacy-focused cryptocurrency that enables users to hide key details of transactions by leveraging zk-SNARKs.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/resources/zcash",
-      "category": "Tech",
-      "date": "2026-06-08T17:13:52.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
     },
     {
       "id": "https://www.techrepublic.com/?p=4361710",
@@ -845,6 +898,16 @@
       "date": "2026-06-08T00:00:00.000Z",
       "hot": false,
       "officialUrl": "https://huggingface.co"
+    },
+    {
+      "id": "https://x.com/DavidSHolz/status/2064140944149189055?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Midjourney Begins Sending Invites for First Hardware Launch",
+      "summary": "JavaScript is not available. David on X has detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using x.com. You can see a list of supported browsers in David on X's Help Center.",
+      "source": "David on X",
+      "sourceUrl": "https://x.com/DavidSHolz/status/2064140944149189055?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-06-08T00:00:00.000Z",
+      "hot": false
     },
     {
       "id": "https://openai.com/index/openai-submits-confidential-s-1/?utm_source=futuretools.io&utm_medium=newspage",
@@ -1088,17 +1151,6 @@
       "officialUrl": "https://blog.google"
     },
     {
-      "id": "https://www.techrepublic.com/article/news-ai-scam-compounds-risk-apac-southeast-asia/",
-      "title": "Southeast Asia Scam Compounds Turn AI Into a Cybersecurity Threat",
-      "summary": "Scam compounds across Southeast Asia are using AI, malware, and automation to scale fraud, forcing APAC security teams to rethink phishing, identity, and mobile-risk controls.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-ai-scam-compounds-risk-apac-southeast-asia/",
-      "category": "Business",
-      "date": "2026-06-05T12:31:01.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
       "id": "6a1f0c2a17089511ccc0b20c",
       "title": "OpenAI and Anthropic May Be Rivals, but Investors Aren’t Picking Sides",
       "summary": "OpenAI and Anthropic have battled for workers, customers, and public attention. The rival AI labs have been on opposite sides of policy proposals, and their CEOs were the only ones not to link hands among a dozen industry leaders at a business summit earlier this year. But they do have one big area of overlap: their investors. About 90 venture capital firms and other money managers have invested in both OpenAI and Anthropic over the past few years, according to a WIRED analysis of data from PitchBook, a platform that tracks startup investments. OpenAI shares about 42 percent of its overall investors with Anthropic, according to the data. Roughly a third of Anthropic investors are also OpenAI backers, including major firms like Sequoia Capital, Greylock, Founders Fund, Redpoint Ventures, Emerson Collective, and Sound Ventures.",
@@ -1106,17 +1158,6 @@
       "sourceUrl": "https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/",
       "category": "Industry",
       "date": "2026-06-05T10:30:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "6a1f33e35f9c33fb9739237b",
-      "title": "Why Apple Might Put Cameras Into Its Next AirPods",
-      "summary": "If you were to ding Apple’s privacy credentials in one move, you could do worse than to launch AirPods with cameras. Whether or not they come to market, all of Apple’s existing ubiquitous earbuds would become a question mark for everyone in their vicinity: Are they recording the author right now? According to Bloomberg’s well-sourced Mark Gurman, Apple has designed camera-equipped AirPods to allow Siri “to see” the wearer’s surroundings. They’re in the late stages of testing with Apple employees as part of an “AI device push.” However, a source who asked to remain anonymous because they are not authorized to speak publicly about the matter tells WIRED that Apple will likely delay the camera AirPods. While the hardware is ready, Siri&#x27;s visual intelligence is not up to par.",
-      "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/why-apple-might-put-cameras-into-its-next-airpods/",
-      "category": "Industry",
-      "date": "2026-06-05T10:00:00.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
     },
@@ -1223,17 +1264,6 @@
       "date": "2026-06-04T18:57:45.000Z",
       "hot": false,
       "officialUrl": "https://huggingface.co"
-    },
-    {
-      "id": "https://www.techrepublic.com/?p=4361463",
-      "title": "Gartner SRM 2026 Signals a Cybersecurity Shift From Prevention to Resilience",
-      "summary": "Gartner SRM 2026 put resilience, identity, and AI agent governance at the center of cybersecurity strategy as prevention loses ground.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-gartner-srm-2026-resilience-ai-security/",
-      "category": "Business",
-      "date": "2026-06-04T17:51:34.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
     }
   ]
 }
