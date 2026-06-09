@@ -1,6 +1,72 @@
 {
-  "lastUpdated": "2026-06-09T22:09:25.316Z",
+  "lastUpdated": "2026-06-09T23:50:28.153Z",
   "news": [
+    {
+      "id": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
+      "title": "I tried Siri AI, and so far it actually works",
+      "summary": "Parents want one thing, and one thing only, out of AI: to add a list of soccer games or \"spirit week\" theme days from an email or a poorly formatted flyer onto their calendar in one shot. And the author have good news for parents with iPhones - the new Siri can finally do this. After stumbling through its first launch of an AI-imbued Siri, Apple is trying again. The newly upgraded Siri AI can chat with you about what might be killing the roses in your yard, put together a shopping list for the hardware store, and set a reminder to lay down some compost in that flower bed. It can reference information in your email and calendar to make its recommenda …",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
+      "category": "Industry",
+      "date": "2026-06-09T23:43:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3131312",
+      "title": "How Justin Ernest invested nearly $400M into hot startups without a traditional VC fund",
+      "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest startups like Anthropic, Anduril, and SpaceX.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-400m-into-hot-startups-without-a-traditional-vc-fund/",
+      "category": "Business",
+      "date": "2026-06-09T23:17:51.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "108319125",
+      "title": "Entergy CEO pushes back on fears that AI data centers will drive up electricity bills",
+      "summary": "Entergy CEO Drew Marsh said data centers can be a win for local communities rather than a burden on residents.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/06/09/entergy-ceo-pushes-back-fears-ai-data-centers-drive-up-electricity-bills.html",
+      "category": "Business",
+      "date": "2026-06-09T22:49:27.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://blogs.nvidia.com/?p=94324",
+      "title": "NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute",
+      "summary": "NVIDIA GPUs with Confidential Computing are now used for confidential inference in Apple’s Private Cloud Compute (PCC), as it expands beyond Apple’s data centers to Google Cloud. Unveiled during Apple’s annual WWDC gathering for developers from around the globe, NVIDIA GPUs will support server-side inference for Apple Foundation Models, custom-built by Apple and Google, leveraging the technologies behind the Gemini family of models. NVIDIA is collaborating with Apple and Google to support some of the next-generation Apple Intelligence features, using NVIDIA Blackwell GPUs with Confidential Computing integrated into Private Cloud Compute’s hardware security architecture running on Google Cloud. Confidential Computing Matters for the Era of AI Experiences NVIDIA Confidential Computing provides a hardware-based security layer for accelerated AI workloads. The technology protects data while it’s being processed by isolating workloads in trusted execution environments and enabling systems to cryptographically verify that the infrastructure has not been tampered with before any sensitive data is sent to the server. For end users, NVIDIA Confidential Computing means that no one, not even the system’s builders, can look at their data, chats or conversations.",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/",
+      "category": "Events",
+      "date": "2026-06-09T22:34:27.000Z",
+      "hot": false,
+      "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
+      "id": "108319043",
+      "title": "Jim Cramer says tech stocks are losing the qualities that made them the leaders of the rally",
+      "summary": "CNBC's Jim Cramer said tech stocks are losing key traits that fueled their leadership since 2023.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/06/09/jim-cramer-tech-stocks-losing-qualities-leaders-rally.html",
+      "category": "Business",
+      "date": "2026-06-09T22:30:41.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "108319167",
+      "title": "Super Micro stock tumbles on $7 billion financing plans as company touts AI server orders",
+      "summary": "Super Micro is the latest company tied to the AI boom to announce that it's tapping the capital markets.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/06/09/super-micro-stock-tumbles-on-7-billion-financing-plans.html",
+      "category": "Business",
+      "date": "2026-06-09T22:29:25.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
     {
       "id": "https://decrypt.co/?p=370599",
       "title": "Crypto Tax Bills Face Pushback in House Committee Hearing",
@@ -47,7 +113,7 @@
     },
     {
       "id": "https://techcrunch.com/?p=3130823",
-      "title": "Hey Siri, here’s what I actually want from AI",
+      "title": "Hey, Siri, here’s what I actually want from AI",
       "summary": "The author is desperate for a personal AI assistant, but do the author really want to become the kind of person who can't function without the friendly robot voice in the author's phone?",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
@@ -552,6 +618,17 @@
       "officialUrl": "https://www.technologyreview.com"
     },
     {
+      "id": "https://openai.com/index/notion",
+      "title": "What Codex unlocks for Notion",
+      "summary": "How Notion uses Codex to one-shot specs and multiply its engineering power. Loading…At Notion, Codex is changing how engineers build. The company is rethinking the software primitives and abstractions it builds so that agents can use them. When bringing a new engineer onto the team, they&#x27;re hiring for curiosity and open-mindedness, since the years of experience the field would normally call for don&#x27;t exist yet. And managers who hadn&#x27;t written production code in years are back in the codebase, shipping alongside their teams. Ryan Nystrom runs AI Product Engineering at Notion.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/notion",
+      "category": "Models",
+      "date": "2026-06-09T10:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://openai.com"
+    },
+    {
       "id": "https://www.techrepublic.com/?p=4361765",
       "title": "OpenAI Starts IPO Process With Confidential SEC Filing",
       "summary": "OpenAI has submitted a confidential IPO filing, but the ChatGPT maker says it has not decided on timing or disclosed deal terms.",
@@ -628,6 +705,16 @@
       "officialUrl": "https://aiweekly.co"
     },
     {
+      "id": "https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "NVIDIA GPUs to Support Apple Intelligence in Private Cloud Compute",
+      "summary": "NVIDIA GPUs with Confidential Computing are now used for confidential inference in Apple’s Private Cloud Compute (PCC), as it expands beyond Apple’s data centers to Google Cloud. Unveiled during Apple’s annual WWDC gathering for developers from around the globe, NVIDIA GPUs will support server-side inference for Apple Foundation Models, custom-built by Apple and Google, leveraging the technologies behind the Gemini family of models. NVIDIA is collaborating with Apple and Google to support some of the next-generation Apple Intelligence features, using NVIDIA Blackwell GPUs with Confidential Computing integrated into Private Cloud Compute’s hardware security architecture running on Google Cloud. NVIDIA Confidential Computing provides a hardware-based security layer for accelerated AI workloads. The technology protects data while it’s being processed by isolating workloads in trusted execution environments and enabling systems to cryptographically verify that the infrastructure has not been tampered with before any sensitive data is sent to the server. For end users, NVIDIA Confidential Computing means that no one, not even the system’s builders, can look at their data, chats or conversations.",
+      "source": "blogs.nvidia.com",
+      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-06-09T00:00:00.000Z",
+      "hot": false
+    },
+    {
       "id": "https://claude.com/blog/whats-new-in-claude-managed-agents?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Claude Managed Agents add scheduling and secure environment variable vaults",
       "summary": "Anthropic has launched two public beta features for Claude Managed Agents on the Claude Platform. Scheduled deployments let agents run on a cron schedule, automatically starting new sessions for recurring tasks like nightly data syncs or weekly compliance scans, with no scheduler to build or host. Environment variable vaults securely store API keys for CLI tools, attaching credentials at the network boundary so agents never see raw keys. Supported CLIs include Browserbase, KERNEL, Notion, Ramp, and Sentry. Rakuten, Actively AI, and Ando are already using scheduled deployments.",
@@ -658,17 +745,6 @@
       "hot": false
     },
     {
-      "id": "108318399",
-      "title": "Jim Cramer says sovereign AI is Nvidia's powerful new growth driver",
-      "summary": "CNBC's Jim Cramer said Nvidia's growing sovereign AI business could help reduce the company's dependence on hyperscalers.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/06/08/jim-cramer-says-sovereign-ai-is-nvidias-powerful-new-growth-driver.html",
-      "category": "Business",
-      "date": "2026-06-08T23:00:01.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
       "id": "https://techcrunch.com/?p=3130875",
       "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
       "summary": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.",
@@ -689,28 +765,6 @@
       "date": "2026-06-08T22:39:57.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "108318419",
-      "title": "Jim Cramer warns key pillars of the bull market are beginning to crumble",
-      "summary": "CNBC's Jim Cramer said that he's becoming more cautious on stocks after several pillars of his bullish outlook have come under pressure.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/06/08/jim-cramer-key-pillars-of-bull-market-beginning-to-crumble.html",
-      "category": "Business",
-      "date": "2026-06-08T22:18:39.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions",
-      "title": "Apple is using AI to fix Safari’s extension problem",
-      "summary": "Apple is trying to solve one of Safari's biggest weaknesses with AI. Safari has long lacked the robust library of extensions that its rivals have, mainly due to the stringent development requirements from Apple. But now, Apple is inviting users to essentially vibe-code their own extensions. In a demo shared by Apple, the company showed how you can ask Safari to create an extension by describing it. \"Save and track cooking recipes from around the web,\" the prompt said. \"Click the toolbar button to see your saved recipes and add notes to each.\" From there, Safari used Apple Intelligence to generate a \"Recipe Keeper\" extension that's supposed …",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions",
-      "category": "Industry",
-      "date": "2026-06-08T22:14:17.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
     },
     {
       "id": "https://decrypt.co/?p=370467",
@@ -735,17 +789,6 @@
       "officialUrl": "https://decrypt.co"
     },
     {
-      "id": "108310471",
-      "title": "OpenAI confidentially files for IPO, prepping Wall Street for mega AI debut",
-      "summary": "OpenAI's confidential filing lands days before SpaceX is set to go public and a week after Anthropic announced its confidential disclosure with the SEC.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/06/08/openai-confidentially-files-for-ipo-prepping-wall-street-for-ai-debut.html",
-      "category": "Business",
-      "date": "2026-06-08T21:39:02.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
       "id": "6a0f4123270531d462da761b",
       "title": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
       "summary": "OpenAI CEO Sam Altman.Photograph: Daniel Heuer/Getty Images OpenAI has filed confidential paperwork for an initial public offering, the company announced on Monday, kicking off what could be a monthslong process toward debuting on a US stock exchange. The move makes it the third company to file for what could be a trillion-dollar IPO this year. Tech companies pursuing the most powerful AI models, including publicly traded giants Alphabet, Amazon, Meta, and Microsoft, are hungry for tens of billions dollars each to build out more data centers and recruit scientists to grow their services. An IPO would be yet another fundraising opportunity for OpenAI after the company privately raised $122 billion in March. Going public, which brings many workers closer to a life-altering payday and increases transparency about a business’ financial health, could also boost employee morale and customer confidence as OpenAI tries to regain its position as the clear front-runner in frontier AI. OpenAI did not specify timing for the IPO nor how much it plans to raise.",
@@ -764,17 +807,6 @@
       "sourceUrl": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
       "category": "Business",
       "date": "2026-06-08T21:29:57.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3130496",
-      "title": "Apple plays catch-up at WWDC",
-      "summary": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
-      "category": "Business",
-      "date": "2026-06-08T21:15:42.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
     },
