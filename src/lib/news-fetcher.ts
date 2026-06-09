@@ -92,9 +92,14 @@ function cleanSummary(text: string): string {
   
   // Remove newsletter intro styles (e.g. "This is the Stepback...")
   result = result.replace(/This is (the|our) [\w\s]+ newsletter.*/gi, "");
+
+  // Remove Verge-specific topic/author Close feed boilerplates
+  result = result.replace(/(?:ShareGift\s*)?(?:Image:\s*)?[\w\s-]+Close[\w\s-]+Posts from this (topic|author) will be added to your daily email digest and your homepage feed\.?/gi, "");
   
   // Collapse excessive spaces from inline removals
   result = result.replace(/\s+/g, " ");
+  // Clean up any double periods resulting from inline removals
+  result = result.replace(/\s*\.\s*\./g, ".");
   
   return result.trim();
 }
