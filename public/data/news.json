@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-10T22:28:25.687Z",
+  "lastUpdated": "2026-06-10T23:55:33.805Z",
   "news": [
     {
       "id": "https://openai.com/index/using-codex-to-simulate-black-holes",
@@ -11,6 +11,28 @@
       "date": "2026-06-11T00:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
+    },
+    {
+      "id": "108319902",
+      "title": "Jim Cramer says one of SpaceX's biggest risks is this group of investors",
+      "summary": "CNBC's Jim Cramer said one of the biggest risks facing the SpaceX IPO is speculators who may rush to sell shares shortly after the stock begins trading.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/06/10/jim-cramer-says-one-of-spacexs-biggest-risks-is-this-group-of-investors.html",
+      "category": "Business",
+      "date": "2026-06-10T23:00:01.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3131988",
+      "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+      "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+      "category": "Business",
+      "date": "2026-06-10T22:31:19.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
     },
     {
       "id": "108318947",
@@ -59,7 +81,7 @@
     {
       "id": "https://openai.com/index/openai-on-oracle-cloud",
       "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-      "summary": "Use your existing Oracle cloud commitment to give teams access to OpenAI’s most advanced models and Codex, without creating a new purchasing path. Loading…ShareEnterprises often want to deploy AI through the procurement processes and governance frameworks they already trust. To help make that happen, OpenAI and Oracle are partnering to make OpenAI frontier models and Codex easier to access for Oracle Cloud Infrastructure (OCI) customers. In the coming weeks, Oracle customers will be able to apply eligible Oracle Customer Hub (UCM) credits toward OpenAI models and Codex through OCI. This gives customers a path to access OpenAI models under their existing purchasing workflow and cloud commitment. With OpenAI models, teams can build AI applications, analyze complex information, automate workflows, and create new customer and employee experiences.",
+      "summary": "Use your existing Oracle cloud commitment to give teams access to OpenAI’s most advanced models and Codex, without creating a new purchasing path. Loading…ShareEnterprises often want to deploy AI through the procurement processes and governance frameworks they already trust. To help make that happen, OpenAI and Oracle are partnering to make OpenAI frontier models and Codex easier to access for Oracle Cloud Infrastructure (OCI) customers. In the coming weeks, Oracle customers will be able to apply eligible Oracle Cloud Universal Credits (UCM) toward OpenAI models and Codex through OCI. This gives customers a path to access OpenAI models under their existing purchasing workflow and cloud commitment. With OpenAI models, teams can build AI applications, analyze complex information, automate workflows, and create new customer and employee experiences.",
       "source": "OpenAI News",
       "sourceUrl": "https://openai.com/index/openai-on-oracle-cloud",
       "category": "Models",
@@ -279,7 +301,7 @@
     {
       "id": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
       "title": "DiffusionGemma: 4x faster text generation",
-      "summary": "DeepMind's newest open experimental model delivers up to 4x faster inference on dedicated GPUs and opens the door to exploring speed-critical, interactive local workflows. Your browser does not support the audio element. Today, DeepMind is introducing DiffusionGemma, an experimental open model that explores text diffusion, an exceptionally fast approach to text generation. Released under an Apache 2.0 license, this 26B Mixture of Experts (MoE) model moves beyond the sequential token-by-token processing of typical autoregressive Large Language Models (LLMs). Instead, it generates entire blocks of text simultaneously, delivering up to 4x faster text generation on GPUs. Built upon the industry-leading intelligence-per-parameter of DeepMind's Gemma 4 family and cutting-edge Gemini Diffusion research, DiffusionGemma integrates a novel diffusion head designed to maximize generation speed.",
+      "summary": "DeepMind's newest open experimental model delivers up to 4x faster inference on dedicated GPUs and opens the door to exploring speed-critical, interactive local workflows. Today, DeepMind is introducing DiffusionGemma, an experimental open model that explores text diffusion, an exceptionally fast approach to text generation. Released under an Apache 2.0 license, this 26B Mixture of Experts (MoE) model moves beyond the sequential token-by-token processing of typical autoregressive Large Language Models (LLMs). Instead, it generates entire blocks of text simultaneously, delivering up to 4x faster text generation on GPUs. Built upon the industry-leading intelligence-per-parameter of DeepMind's Gemma 4 family and cutting-edge Gemini Diffusion research, DiffusionGemma integrates a novel diffusion head designed to maximize generation speed. While autoregressive Gemma 4 models remain the standard for high-quality production outputs, DiffusionGemma is designed for researchers and developers exploring speed-critical, interactive local workflows such as in-line editing, rapid iteration, and generating non-linear text structures.",
       "source": "DeepMind Blog",
       "sourceUrl": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
       "category": "Research",
@@ -562,6 +584,16 @@
       "hot": true
     },
     {
+      "id": "https://www.anthropic.com/institute/recursive-self-improvement?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Anthropic Explores Progress Toward Recursive AI Self-Improvement",
+      "summary": "For most of AI’s history, humans drove every step in its development cycle. But at Anthropic, anthropic.com is delegating a growing share of AI development to AI systems themselves, which is speeding up anthropic.com's work. Taken far enough, and given enough compute, that trend points to an AI system capable of fully autonomously designing and developing its own successor. This is called recursive self-improvement. anthropic.com is not there yet, and recursive self-improvement is not inevitable. But it could come sooner than most institutions are prepared for.",
+      "source": "anthropic.com",
+      "sourceUrl": "https://www.anthropic.com/institute/recursive-self-improvement?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-06-10T00:00:00.000Z",
+      "hot": false
+    },
+    {
       "id": "https://darioamodei.com/post/policy-on-the-ai-exponential?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Anthropic CEO Dario Amodei Outlines Policy for the AI Exponential",
       "summary": "In one of the side plots to The Lord of the Rings, two of the Hobbits attempt to rouse Treebeard—a wise but ponderous sentient tree—to defend his forest from an army that is cutting it down. The problem is that Treebeard operates at a very different speed than the Hobbits. It takes him a full day simply to say hello to another tree, so getting him and his peers to act fast enough is nearly impossible. The intersection of AI and darioamodei.com's political institutions feels a bit like the Hobbits and Treebeard. AI is advancing at a lightning pace—in only four years, AI models have gone from barely being able to write a coherent line of code to writing most of the code at major AI companies. Similar gains have been made in biology, physics, math, finance, law, translation, and many other fields.",
@@ -574,7 +606,7 @@
     {
       "id": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Google unveils DiffusionGemma for up to 4x faster text generation",
-      "summary": ".google's newest open experimental model delivers up to 4x faster inference on dedicated GPUs and opens the door to exploring speed-critical, interactive local workflows. Your browser does not support the audio element. Today, .google is introducing DiffusionGemma, an experimental open model that explores text diffusion, an exceptionally fast approach to text generation. Released under an Apache 2.0 license, this 26B Mixture of Experts (MoE) model moves beyond the sequential token-by-token processing of typical autoregressive Large Language Models (LLMs). Instead, it generates entire blocks of text simultaneously, delivering up to 4x faster text generation on GPUs. Built upon the industry-leading intelligence-per-parameter of .google's Gemma 4 family and cutting-edge Gemini Diffusion research, DiffusionGemma integrates a novel diffusion head designed to maximize generation speed.",
+      "summary": ".google's newest open experimental model delivers up to 4x faster inference on dedicated GPUs and opens the door to exploring speed-critical, interactive local workflows. Today, .google is introducing DiffusionGemma, an experimental open model that explores text diffusion, an exceptionally fast approach to text generation. Released under an Apache 2.0 license, this 26B Mixture of Experts (MoE) model moves beyond the sequential token-by-token processing of typical autoregressive Large Language Models (LLMs). Instead, it generates entire blocks of text simultaneously, delivering up to 4x faster text generation on GPUs. Built upon the industry-leading intelligence-per-parameter of .google's Gemma 4 family and cutting-edge Gemini Diffusion research, DiffusionGemma integrates a novel diffusion head designed to maximize generation speed. While autoregressive Gemma 4 models remain the standard for high-quality production outputs, DiffusionGemma is designed for researchers and developers exploring speed-critical, interactive local workflows such as in-line editing, rapid iteration, and generating non-linear text structures.",
       "source": "blog.google",
       "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
@@ -624,17 +656,6 @@
       "date": "2026-06-09T22:34:27.000Z",
       "hot": false,
       "officialUrl": "https://blogs.nvidia.com"
-    },
-    {
-      "id": "108319043",
-      "title": "Jim Cramer says tech stocks are losing the qualities that made them the leaders of the rally",
-      "summary": "CNBC's Jim Cramer said tech stocks are losing key traits that fueled their leadership since 2023.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/06/09/jim-cramer-tech-stocks-losing-qualities-leaders-rally.html",
-      "category": "Business",
-      "date": "2026-06-09T22:30:41.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
@@ -690,17 +711,6 @@
       "date": "2026-06-09T19:38:28.000Z",
       "hot": false,
       "officialUrl": "https://huggingface.co"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3131308",
-      "title": "Can tech companies learn to love cheaper AI models?",
-      "summary": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
-      "category": "Business",
-      "date": "2026-06-09T18:56:09.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
     },
     {
       "id": "6a2701c8e306f8dd75903241",
