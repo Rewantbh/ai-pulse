@@ -1,6 +1,72 @@
 {
-  "lastUpdated": "2026-06-10T20:19:43.622Z",
+  "lastUpdated": "2026-06-10T22:28:25.687Z",
   "news": [
+    {
+      "id": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "summary": "Codex helps Chi-kwan Chan to refine and test algorithms that simulate the movement of electrons and ions around a black hole. Loading…ShareThe gravity around a black hole is so extreme that nothing, not even light, can escape once it gets close enough. Astrophysicists like Chi-kwan Chan study black holes with computer simulations and observations. But current algorithms and computing power limit how realistic those simulations can be. With Codex, Chan—a researcher at the University of Arizona and Steward Observatory—is tackling this problem. Black holes are among the best places to test Einstein’s general theory of relativity, he said.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "category": "Models",
+      "date": "2026-06-11T00:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://openai.com"
+    },
+    {
+      "id": "108318947",
+      "title": "Oracle beats on earnings, but stock drops on plans to raise another $20 billion",
+      "summary": "Oracle topped quarterly expectations, but free cash flow is negative, and the company plans to raise more capital for data center projects.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/06/10/oracle-orcl-q4-earnings-report-2026.html",
+      "category": "Business",
+      "date": "2026-06-10T22:05:47.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=370706",
+      "title": "Google's DiffusionGemma AI Hits 1,000 Tokens Per Second—And It's Free",
+      "summary": "DiffusionGemma hits 1,000 tokens per second by ditching word-by-word generation entirely. It just doesn't run on most people's machines yet.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/370706/google-new-open-model-generates-text-diffusiongemma",
+      "category": "Tech",
+      "date": "2026-06-10T22:01:03.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://decrypt.co/?p=370704",
+      "title": "Anthropic CEO Warns AI Is Getting Too Powerful—While Releasing Powerful AI",
+      "summary": "In a new essay, Dario Amodei called for binding safety rules for frontier models as his company heads toward an IPO.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/370704/anthropic-ceo-ai-too-powerful-regulation-cant-wait",
+      "category": "Tech",
+      "date": "2026-06-10T21:31:33.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3131872",
+      "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+      "summary": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+      "category": "Business",
+      "date": "2026-06-10T20:19:31.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://openai.com/index/openai-on-oracle-cloud",
+      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "summary": "Use your existing Oracle cloud commitment to give teams access to OpenAI’s most advanced models and Codex, without creating a new purchasing path. Loading…ShareEnterprises often want to deploy AI through the procurement processes and governance frameworks they already trust. To help make that happen, OpenAI and Oracle are partnering to make OpenAI frontier models and Codex easier to access for Oracle Cloud Infrastructure (OCI) customers. In the coming weeks, Oracle customers will be able to apply eligible Oracle Customer Hub (UCM) credits toward OpenAI models and Codex through OCI. This gives customers a path to access OpenAI models under their existing purchasing workflow and cloud commitment. With OpenAI models, teams can build AI applications, analyze complex information, automate workflows, and create new customer and employee experiences.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/openai-on-oracle-cloud",
+      "category": "Models",
+      "date": "2026-06-10T20:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://openai.com"
+    },
     {
       "id": "https://decrypt.co/?p=370691",
       "title": "Tether, Nvidia and Amazon Back Humanoid Robotics Firm NEURA in $1.4 Billion Funding Round",
@@ -59,7 +125,7 @@
     {
       "id": "00EHiEJR7e4HUqdYsIaQUZg",
       "title": "Is Gemini down? Google acknowledges something went wrong errors.",
-      "summary": "Google's Gemini AI assistant is currently down for a significant number of users, with outage reports on Downdetector beginning to spike around 6 a.m. ET on Wednesday morning and continuing to build into the early afternoon. Google first acknowledged the issue in an update on its official status page at 8:40 p.m. ET.Google confirms the disruption began at 6:26 a.m. ET, affecting Gemini across all major platforms &mdash; web, macOS, iOS, and Android &mdash; as well as Gemini in Chrome. Users are reporting error codes 1099 and 1076, as well as an error message that reads, \"Something went wrong.\"Google's status page classifies the problem as a \"Service disruption\" rather than a \"Service outage,\" but Gemini is functionally unavailable for many users.According to Google, its engineering team has identified a potential mitigation that is currently being worked on, though no estimated resolution time has been provided.",
+      "summary": "UTC Google has provided a new status update indicating its engineering team has applied mitigations and is continuing to investigate the root cause of the outage. The company says it is seeing signs of recovery and will continue to monitor the situation. Google's next update is expected by 3:30 PM ET. Google's Gemini AI assistant is currently down for a significant number of users, with outage reports on Downdetector beginning to spike around 6 a.m. ET on Wednesday morning and continuing to build into the early afternoon. Google first acknowledged the issue in an update on its official status page at 8:40 p.m.",
       "source": "Mashable Tech",
       "sourceUrl": "https://mashable.com/tech/google-gemini-down-google-acknowledges-problem",
       "category": "Tech",
@@ -200,6 +266,17 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
+      "id": "https://www.techrepublic.com/article/news-eu-meta-whatsapp-ai-chatbots-emea/",
+      "title": "EU Orders Meta to Reopen WhatsApp to AI Rivals",
+      "summary": "EU regulators ordered Meta to restore WhatsApp access for rival AI assistants while an antitrust probe into its policy continues.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-eu-meta-whatsapp-ai-chatbots-emea/",
+      "category": "Business",
+      "date": "2026-06-10T16:25:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
       "id": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
       "title": "DiffusionGemma: 4x faster text generation",
       "summary": "DeepMind's newest open experimental model delivers up to 4x faster inference on dedicated GPUs and opens the door to exploring speed-critical, interactive local workflows. Your browser does not support the audio element. Today, DeepMind is introducing DiffusionGemma, an experimental open model that explores text diffusion, an exceptionally fast approach to text generation. Released under an Apache 2.0 license, this 26B Mixture of Experts (MoE) model moves beyond the sequential token-by-token processing of typical autoregressive Large Language Models (LLMs). Instead, it generates entire blocks of text simultaneously, delivering up to 4x faster text generation on GPUs. Built upon the industry-leading intelligence-per-parameter of DeepMind's Gemma 4 family and cutting-edge Gemini Diffusion research, DiffusionGemma integrates a novel diffusion head designed to maximize generation speed.",
@@ -266,6 +343,17 @@
       "officialUrl": "https://mashable.com"
     },
     {
+      "id": "https://www.techrepublic.com/?p=4361958",
+      "title": "AI Data Centers Put Australia’s Power Grid Under New Pressure",
+      "summary": "Australia’s energy operator warned that fast-growing AI data centers could create new power grid stability risks as compute demand rises across APAC.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-ai-data-centers-grid-risk-apac-australia/",
+      "category": "Business",
+      "date": "2026-06-10T15:15:46.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
       "id": "https://techcrunch.com/?p=3131430",
       "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
       "summary": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers.",
@@ -310,17 +398,6 @@
       "officialUrl": "https://www.wired.com"
     },
     {
-      "id": "108319167",
-      "title": "Super Micro stock falls 13% on $7 billion financing plans as company touts AI server orders",
-      "summary": "Super Micro is the latest company tied to the AI boom to announce that it's tapping the capital markets.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/06/09/super-micro-stock-tumbles-on-7-billion-financing-plans.html",
-      "category": "Business",
-      "date": "2026-06-10T13:37:18.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
       "id": "https://techcrunch.com/?p=3131144",
       "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
       "summary": "The funding round was led by Norwest, with participation from S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
@@ -352,17 +429,6 @@
       "date": "2026-06-10T13:07:56.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=370479",
-      "title": "Myriad Taps Chainlink to Power FIFA World Cup Prediction Markets",
-      "summary": "The integration builds on Myriad’s use of the Chainlink Runtime Environment to power its prediction market infrastructure.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/370479/myriad-taps-chainlink-to-power-fifa-world-cup-prediction-markets",
-      "category": "Tech",
-      "date": "2026-06-10T13:01:04.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
     },
     {
       "id": "https://www.techrepublic.com/?p=4311123",
@@ -496,6 +562,16 @@
       "hot": true
     },
     {
+      "id": "https://darioamodei.com/post/policy-on-the-ai-exponential?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Anthropic CEO Dario Amodei Outlines Policy for the AI Exponential",
+      "summary": "In one of the side plots to The Lord of the Rings, two of the Hobbits attempt to rouse Treebeard—a wise but ponderous sentient tree—to defend his forest from an army that is cutting it down. The problem is that Treebeard operates at a very different speed than the Hobbits. It takes him a full day simply to say hello to another tree, so getting him and his peers to act fast enough is nearly impossible. The intersection of AI and darioamodei.com's political institutions feels a bit like the Hobbits and Treebeard. AI is advancing at a lightning pace—in only four years, AI models have gone from barely being able to write a coherent line of code to writing most of the code at major AI companies. Similar gains have been made in biology, physics, math, finance, law, translation, and many other fields.",
+      "source": "darioamodei.com",
+      "sourceUrl": "https://darioamodei.com/post/policy-on-the-ai-exponential?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-06-10T00:00:00.000Z",
+      "hot": false
+    },
+    {
       "id": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Google unveils DiffusionGemma for up to 4x faster text generation",
       "summary": ".google's newest open experimental model delivers up to 4x faster inference on dedicated GPUs and opens the door to exploring speed-critical, interactive local workflows. Your browser does not support the audio element. Today, .google is introducing DiffusionGemma, an experimental open model that explores text diffusion, an exceptionally fast approach to text generation. Released under an Apache 2.0 license, this 26B Mixture of Experts (MoE) model moves beyond the sequential token-by-token processing of typical autoregressive Large Language Models (LLMs). Instead, it generates entire blocks of text simultaneously, delivering up to 4x faster text generation on GPUs. Built upon the industry-leading intelligence-per-parameter of .google's Gemma 4 family and cutting-edge Gemini Diffusion research, DiffusionGemma integrates a novel diffusion head designed to maximize generation speed.",
@@ -623,17 +699,6 @@
       "sourceUrl": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
       "category": "Business",
       "date": "2026-06-09T18:56:09.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3130429",
-      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
-      "summary": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-      "category": "Business",
-      "date": "2026-06-09T18:04:24.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
     },
@@ -1006,17 +1071,6 @@
       "officialUrl": "https://deepmind.google"
     },
     {
-      "id": "https://www.techrepublic.com/?p=4344993",
-      "title": "Visual Studio 2026 Brings AI Deeper Into Development and It’s 93% Off Right Now",
-      "summary": "Microsoft's latest 64-bit IDE adds AI-assisted coding, faster performance, and advanced collaboration tools.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/microsoft-visual-studio-professional-2026/",
-      "category": "Business",
-      "date": "2026-06-08T12:30:40.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
       "id": "https://elevenlabs.io/blog/uk-mou-and-expansion",
       "title": "ElevenLabs partners with the UK Government to bring voice AI to public services, as it expands Londo",
       "summary": "0:001.0xToday, ElevenLabs signed a Memorandum of Understanding with the UK&#x27;s Department for Science, Innovation and Technology (DSIT) to find new ways to use voice AI to improve public services, deepen ElevenLabs's work on AI security, and invest in the UK&#x27;s position as a global hub for voice and audio AI talent. ElevenLabs want to make the UK one of the best places in the world to build, deploy and use AI, so alongside this partnership, ElevenLabs is also expanding ElevenLabs's UK operations, doubling ElevenLabs's headcount this year, and building out ElevenLabs's executive team in London. The high-level agreement covers three areas of collaboration: “Voice AI could make a real difference to how people access public services - whether that’s helping someone with a visual impairment listen to information, supporting people with low literacy to understand it more easily, or making them easier to use for the elderly,” said AI Minister Kanishka Narayan. “Through this partnership, we’ll test how these tools work in practice - building ElevenLabs's understanding of AI security and supporting the development of homegrown AI talent. Done right, this technology won’t just be cutting-edge - it will make a real difference to how people get the help and opportunities they need.”",
@@ -1254,17 +1308,6 @@
       "date": "2026-06-07T00:00:00.000Z",
       "hot": false,
       "officialUrl": "https://aiweekly.co"
-    },
-    {
-      "id": "https://www.techrepublic.com/article/ai-upgrades-security-flaws-and-spacexs-record-ipo-define-the-week-in-tech/",
-      "title": "AI Upgrades, Security Flaws, and SpaceX’s Record IPO Define the Week in Tech",
-      "summary": "See what you missed in Daily Tech Insider from June 1–5.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/ai-upgrades-security-flaws-and-spacexs-record-ipo-define-the-week-in-tech/",
-      "category": "Business",
-      "date": "2026-06-05T20:48:52.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
     }
   ]
 }
