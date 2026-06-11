@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T06:06:07.256Z",
+  "lastUpdated": "2026-06-11T07:26:31.626Z",
   "news": [
     {
       "id": "https://techcrunch.com/?p=3132032",
@@ -73,6 +73,17 @@
       "summary": "Codex helps Chi-kwan Chan to refine and test algorithms that simulate the movement of electrons and ions around a black hole. Loading…ShareThe gravity around a black hole is so extreme that nothing, not even light, can escape once it gets close enough. Astrophysicists like Chi-kwan Chan study black holes with computer simulations and observations. But current algorithms and computing power limit how realistic those simulations can be. With Codex, Chan—a researcher at the University of Arizona and Steward Observatory—is tackling this problem. Black holes are among the best places to test Einstein’s general theory of relativity, he said.",
       "source": "OpenAI News",
       "sourceUrl": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "category": "Models",
+      "date": "2026-06-11T00:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://openai.com"
+    },
+    {
+      "id": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "summary": "OpenAI announces support for the EU Code of Practice on Transparency of AI-generated content, building on years of provenance work. Loading…SharePeople are using AI to create and edit content in new ways. As these tools become more capable and more widely used, people should have context about the content they see online. Today, following publication of the European Commission’s Code of Practice on Transparency of AI-Generated Content⁠(opens in a new window), OpenAI is announcing its support for the Code and the ambition behind it. The Code is an important step in implementing the EU AI Act and building a more transparent digital ecosystem. OpenAI's support builds on years of internal research, product development, and cooperation with the wider ecosystem to strengthen provenance for AI-generated content.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
       "category": "Models",
       "date": "2026-06-11T00:00:00.000Z",
       "hot": false,
@@ -724,6 +735,17 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
+      "id": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+      "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+      "category": "Research",
+      "date": "2026-06-09T19:38:28.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
+    },
+    {
       "id": "6a2701c8e306f8dd75903241",
       "title": "Anthropic Offers Mythos Upgrade for Cyber Partners and a ‘Safe’ Version for the Rest of You",
       "summary": "Anthropic CEO Dario Amodei.Photograph: Ludovic Marin/Getty Images Anthropic released two new AI models called Claude Fable 5 and Claude Mythos 5 on Tuesday, which the company says have greater capabilities than the Mythos Preview model it released in April to a limited set of tech industry partners. Anthropic has said the initial, limited release stemmed from concerns that the model’s capabilities could be exploited by bad actors to develop hacking tools that could catch defenders off guard. Anthropic is currently only releasing Claude Mythos 5 to a limited set of industry partners, many of which received access to Mythos Preview, and the company says it is collaborating with the US government on the rollout. Claude Fable 5, which is being publicly released, uses the same underlying model as Mythos 5, but will have “guardrails” in place at launch, the company said Tuesday, that will block the model from answering many user questions related to cybersecurity, biology, and chemistry. These requests will instead be rerouted to an older AI model, Claude Opus 4.8. If Anthropic suspects a user is trying to conduct distillation—training a smaller AI model off a larger AI model’s responses—on Claude Fable 5, those requests will also be rerouted to Claude Opus 4.8, the company says.",
@@ -755,6 +777,17 @@
       "date": "2026-06-09T16:00:41.000Z",
       "hot": false,
       "officialUrl": "https://www.techrepublic.com"
+    },
+    {
+      "id": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+      "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
+      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+      "category": "Research",
+      "date": "2026-06-09T15:56:23.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
     },
     {
       "id": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
@@ -812,6 +845,17 @@
       "officialUrl": "https://openai.com"
     },
     {
+      "id": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "category": "Research",
+      "date": "2026-06-09T10:46:19.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
+    },
+    {
       "id": "https://www.technologyreview.com/?p=1137830",
       "title": "Learning to lead in a hybrid human-AI enterprise",
       "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce. Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordinating complex tasks, interacting with multiple tools and environments across an organization. In early applications that center on customer service, HR, and sales, adoption of agentic AI has led to productivity gains of 30-50%. Their autonomy positions agents more as collaborators than tools, working side-by-side with human employees in blended teams that look poised to upend traditional workplace dynamics.&nbsp; More than three-quarters of HR leaders believe that the deployment of AI agents will transform existing workplace norms, driving a complete reappraisal of how roles and responsibilities are distributed, how skills are prioritized, and how workplace culture is shaped. Though many admit they’re in the early or preparatory phase of this shift, 86% of chief HR officers predict that navigating digital labor shaped by agentic AI will be a central component of their role in the years ahead. Fluency in the change management aspect of agentic AI adoption will be a crucial differentiator when it comes to unlocking the full potential of the technology going forward, believes Ateet Jayaswal, chief culture and employee experience officer at Wipro, a leading technology services and consu...",
@@ -865,6 +909,17 @@
       "date": "2026-06-09T00:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
+    },
+    {
+      "id": "https://huggingface.co/blog/github-ci-hf-jobs",
+      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/github-ci-hf-jobs",
+      "category": "Research",
+      "date": "2026-06-09T00:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
     },
     {
       "id": "https://cohere.com/blog/north-mini-code",
@@ -1113,6 +1168,17 @@
       "officialUrl": "https://openai.com"
     },
     {
+      "id": "https://huggingface.co/blog/openenv-agentic-rl",
+      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/openenv-agentic-rl",
+      "category": "Research",
+      "date": "2026-06-08T00:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
+    },
+    {
       "id": "https://x.com/DavidSHolz/status/2064140944149189055?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Midjourney Begins Sending Invites for First Hardware Launch",
       "summary": "Midjourney founder David Holz has begun sending out invites for the company's first hardware product launch. Holz noted a limited number of spots remain and encouraged anyone who believes they should have received an invite but hasn't to reach out directly. No details about the hardware itself were disclosed in the announcement. This marks a significant expansion for Midjourney beyond its AI image generation software into physical hardware products.",
@@ -1205,7 +1271,7 @@
     {
       "id": "https://www.aboutamazon.com/news/retail/design-merch-with-ai-alexa-for-shopping?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Amazon’s Alexa for Shopping Adds AI Custom Merch Design",
-      "summary": "Amazon has added an AI-powered custom merchandise design feature to Alexa for Shopping, available now to all U.S. customers via the Amazon Shopping app or Amazon.com. Users describe an idea in a text prompt, and the tool generates a design in seconds for products including T-shirts, hoodies, tumblers, and water bottles. Designs can be shared with friends and family, who can each order their own. Production is handled through Amazon's Merch on Demand service with Prime-eligible shipping.",
+      "summary": "Aboutamazon.com is reinventing online shopping to make it faster and easier and to make customers’ lives better every day. 4 AI-powered innovations—personalized size recommendations, review highlights, re-imagined size charts, and fit insights—are helping customers shop with confidence.",
       "source": "aboutamazon.com",
       "sourceUrl": "https://www.aboutamazon.com/news/retail/design-merch-with-ai-alexa-for-shopping?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
