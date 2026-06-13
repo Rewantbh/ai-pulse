@@ -1,9 +1,53 @@
 {
-  "lastUpdated": "2026-06-13T00:16:29.974Z",
+  "lastUpdated": "2026-06-13T04:58:52.645Z",
   "news": [
     {
+      "id": "https://techcrunch.com/?p=3132661",
+      "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its m...",
+      "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "category": "Business",
+      "date": "2026-06-13T02:26:30.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "6a2cb115c4e89ad1b960af2e",
+      "title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
+      "summary": "Anthropic says it’s disabling two AI models it launched earlier this week, Claude Fable 5 and Mythos 5, to comply with an export control directive it received Friday afternoon from the US government citing national security concerns. The unprecedented incident marks the latest flashpoint between Anthropic and the Trump administration. While the company says the order asked it to suspend access to “any foreign national, whether inside or outside the United States, including foreign national Anthropic employees,” it has removed access for all of its customers to ensure compliance. Earlier this year, Trump’s Department of Defense labeled Anthropic a “supply chain risk” after the Claude-maker sought to draw red lines over how the US military could use its technology. The designation effectively barred government agencies and contractors from using Anthropic’s technology. Anthropic responded by filing lawsuits against the Trump administration.",
+      "source": "Wired AI",
+      "sourceUrl": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
+      "category": "Industry",
+      "date": "2026-06-13T02:26:10.000Z",
+      "hot": false,
+      "officialUrl": "https://www.wired.com"
+    },
+    {
+      "id": "108321536",
+      "title": "Anthropic disables access to Fable 5 and Mythos 5 to comply with government directive",
+      "summary": "Anthropic said it disabled access to its Fable 5 and Mythos 5 models to comply with an export control directive from the U.S. government.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/06/12/anthropic-disables-access-to-fable-5-and-mythos-5-to-comply-with-government-directive.html",
+      "category": "Business",
+      "date": "2026-06-13T01:36:34.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "108321532",
+      "title": "OpenAI says it's engaging 'constructively' with state AGs about concerns",
+      "summary": "The Wall Street Journal reported that a coalition of state attorneys general have opened an investigation into OpenAI.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/06/12/openai-says-its-engaging-constructively-with-state-ags-.html",
+      "category": "Business",
+      "date": "2026-06-13T00:29:18.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
       "id": "6a2c7c29161b556b6e9d61c5",
-      "title": "Meta Employees Absolutely Hate Zuckerberg’s Plan for a Companywide AI Hackathon",
+      "title": "Meta Employees Absolutely Hate Mark Zuckerberg’s Plan for a Companywide AI Hackathon",
       "summary": "Photo Meta CEO Mark Zuckerberg’s internal announcement on Friday about a “large” companywide AI hackathon next month quickly sparked frustration and disbelief among employees. In internal messages seen by WIRED, some workers wrote that added responsibilities in the wake of recent mass layoffs at the tech giant had left them with little time to join such ancillary activities. Others said they felt discouraged from participating because of what they viewed as low morale and declining trust in management across the company. “I’m literally preoccupied with keeping the lights on for the author's team,” one employee wrote on Friday. “I have no incentive to participate, let alone have the time to do so.” In a post shared to Meta’s roughly 70,000 employees, Zuckerberg framed the hackathon as a way for staff to build camaraderie at a time of widespread internal unrest.",
       "source": "Wired AI",
       "sourceUrl": "https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/",
@@ -497,17 +541,6 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
-      "id": "108318598",
-      "title": "ChatGPT hits a billion monthly app users despite souring public AI sentiment",
-      "summary": "ChatGPT reached a billion monthly users in May despite growing unease over its ethical and environmental impacts.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/06/12/chatgpt-a-billion-monthly-app-users-despite-souring-public-ai-sentiment.html",
-      "category": "Business",
-      "date": "2026-06-12T06:07:18.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
       "id": "https://techcrunch.com/?p=3131650",
       "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
       "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation.",
@@ -561,6 +594,16 @@
       "date": "2026-06-12T00:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
+    },
+    {
+      "id": "https://www.anthropic.com/news/fable-mythos-access?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Anthropic: US Directs Suspension of Foreign National Access to Fable 5 and Mythos 5",
+      "summary": "The US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees. The net effect of this order is that anthropic.com must abruptly disable Fable 5 and Mythos 5 for all anthropic.com's customers to ensure compliance. Access to all other Anthropic models will not be affected. anthropic.com received the directive from the government today at 5:21pm (ET). The letter did not provide specific details of its national security concern. anthropic.com's understanding is that the government believes it has become aware of a method of bypassing, or “jailbreaking” Fable 5.",
+      "source": "anthropic.com",
+      "sourceUrl": "https://www.anthropic.com/news/fable-mythos-access?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-06-12T00:00:00.000Z",
+      "hot": true
     },
     {
       "id": "https://www.youtube.com/watch?v=nydHKXjwu0U&pp=0gcJCUELAYcqIYzv",
@@ -713,17 +756,6 @@
       "officialUrl": "https://www.techrepublic.com"
     },
     {
-      "id": "https://techcrunch.com/?p=3132127",
-      "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
-      "summary": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
-      "category": "Business",
-      "date": "2026-06-11T14:23:43.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
       "id": "https://blogs.nvidia.com/?p=94388",
       "title": "Save Big and Play Bigger: GeForce NOW Summer Sale Brings Major Membership Savings",
       "summary": "The GeForce NOW summer sale kicked off today with limited-time savings of up to $70 off a 12-month membership, making now the perfect time to upgrade to get the best of the cloud and see just how far Ultimate gaming can go. PC gamers are driven by one thing: the love of the game. But getting there can be complicated — setups take space, hardware takes planning and downloads take time. GeForce NOW removes the barriers and delivers instant access to games, high-performance GeForce RTX power in the cloud and the ability to play across nearly any device — all with one membership. Regular upgrades and new features continue to expand the experience, building the value of that membership over time. Plus, GeForce NOW is always delivering new games — including epic adventures across Tyria.",
@@ -779,17 +811,6 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
-      "id": "https://techcrunch.com/?p=3132032",
-      "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
-      "summary": "The decision comes as India emerges as the world’s largest GCC market.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
-      "category": "Business",
-      "date": "2026-06-11T04:02:19.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
       "id": "6a2a08f154bb7ed626c0a043",
       "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
       "summary": "Anthropic is backtracking on a policy that would have covertly limited competitors from using its new AI model, Claude Fable 5, to develop other AI models. The company changed course after the move received significant backlash from the AI research community. “We’re changing Fable 5’s safeguards for frontier LLM development to make them visible,” Anthropic said in a statement to WIRED. “We made the wrong trade-off and we apologize for not getting the balance right.” Anthropic released Claude Fable 5, a version of its latest AI model with additional safety guardrails designed to prevent misuse, earlier this week. Some of the safeguards Anthropic decided on were unsurprising: The company said it would reroute users who asked questions about cybersecurity, biology, or chemistry to a less capable AI model to reduce the chances of someone using the advanced AI to carry out a cyberattack or build a bioweapon.",
@@ -823,22 +844,22 @@
       "officialUrl": "https://openai.com"
     },
     {
-      "id": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "summary": "Codex helps Chi-kwan Chan to refine and test algorithms that simulate the movement of electrons and ions around a black hole. Loading…ShareThe gravity around a black hole is so extreme that nothing, not even light, can escape once it gets close enough. Astrophysicists like Chi-kwan Chan study black holes with computer simulations and observations. But current algorithms and computing power limit how realistic those simulations can be. With Codex, Chan—a researcher at the University of Arizona and Steward Observatory—is tackling this problem. Black holes are among the best places to test Einstein’s general theory of relativity, he said.",
+      "id": "https://openai.com/index/openai-to-acquire-ona",
+      "title": "OpenAI to acquire Ona",
+      "summary": "Expands Codex with secure, customer-controlled cloud infrastructure for long-running agents across software and knowledge work. Loading…ShareGiving Codex a persistent place to workGiving Codex a persistent place to workScaling Codex across production workflowsWhat’s nextTable of contents Today OpenAI is announcing that OpenAI will acquire Ona⁠(opens in a new window), bringing its secure cloud execution and orchestration technology into OpenAI's rapidly expanding Codex ecosystem. More than 5 million people use Codex each week to research, analyze, build, and automate their work—up 400% from earlier this year. Codex began as a tool for software developers and now helps a wider range of people do complex work from an initial request through to a finished result. As Codex becomes more capable, its most valuable work is unfolding over hours or days, rather than minutes.",
       "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "sourceUrl": "https://openai.com/index/openai-to-acquire-ona",
       "category": "Models",
       "date": "2026-06-11T00:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
     },
     {
-      "id": "https://openai.com/index/openai-to-acquire-ona",
-      "title": "OpenAI to acquire Ona",
-      "summary": "Expands Codex with secure, customer-controlled cloud infrastructure for long-running agents across software and knowledge work. Loading…ShareGiving Codex a persistent place to workGiving Codex a persistent place to workScaling Codex across production workflowsWhat’s nextTable of contents Today OpenAI is announcing that OpenAI will acquire Ona⁠(opens in a new window), bringing its secure cloud execution and orchestration technology into OpenAI's rapidly expanding Codex ecosystem. More than 5 million people use Codex each week to research, analyze, build, and automate their work—up 400% from earlier this year. Codex began as a tool for software developers and now helps a wider range of people do complex work from an initial request through to a finished result. As Codex becomes more capable, its most valuable work is unfolding over hours or days, rather than minutes.",
+      "id": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "summary": "Codex helps Chi-kwan Chan to refine and test algorithms that simulate the movement of electrons and ions around a black hole. Loading…ShareThe gravity around a black hole is so extreme that nothing, not even light, can escape once it gets close enough. Astrophysicists like Chi-kwan Chan study black holes with computer simulations and observations. But current algorithms and computing power limit how realistic those simulations can be. With Codex, Chan—a researcher at the University of Arizona and Steward Observatory—is tackling this problem. Black holes are among the best places to test Einstein’s general theory of relativity, he said.",
       "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/openai-to-acquire-ona",
+      "sourceUrl": "https://openai.com/index/using-codex-to-simulate-black-holes",
       "category": "Models",
       "date": "2026-06-11T00:00:00.000Z",
       "hot": false,
@@ -1099,17 +1120,6 @@
       "officialUrl": "https://www.techrepublic.com"
     },
     {
-      "id": "6a29601a2286375b80444c6d",
-      "title": "Wrongful Arrest Exposes Failures in One of the Oldest Police Face-Recognition Tools in the US",
-      "summary": "A Florida man was wrongfully arrested for attempting to illegally lure a child after police relied on a face-recognition match that was inaccurate, according to a lawsuit filed on Wednesday, even though he lived more than 300 miles from the scene and says he had never set foot in the city where the crime took place. Robert Dillon, a 52-year-old commercial crabber from Fort Myers, was arrested after FACES—a face-recognition system operated by Florida’s Pinellas County Sheriff&#x27;s Office—matched his face against a photo of a man on a computer screen taken with a cell phone. The system returned a “93 percent match on facial features,” according to police-investigatory notes. The scores it emits represent how much two images look alike to the algorithm. Not how likely it is that they show the same person. FACES holds tens of millions of Florida mug shots and driver&#x27;s license photos and is one of the longest-running police face-recognition databases in the United States.",
-      "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/wrongful-arrest-tests-one-of-the-oldest-police-face-recognition-tools-in-the-us/",
-      "category": "Industry",
-      "date": "2026-06-10T14:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.wired.com"
-    },
-    {
       "id": "https://www.techrepublic.com/article/news-apac-meta-reliance-india-ai-data-center/",
       "title": "Meta Taps Reliance for First India AI Data Center",
       "summary": "Meta signed its first India AI data center deal with Reliance, leasing capacity at a 168 MW Jamnagar facility with options to scale.",
@@ -1216,21 +1226,21 @@
       "hot": false
     },
     {
-      "id": "https://venturebeat.com/technology/surprise-upset-gpt-5-5-beats-claude-fable-5-on-brutal-new-agents-last-exam-benchmark?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "OpenAI’s GPT-5.5 tops Claude Fable 5 on Agents’ Last Exam benchmark",
-      "summary": "UC Berkeley's Center for Responsible, Decentralized Intelligence has launched Agents' Last Exam (ALE), a new benchmark testing AI on real professional workflows across 55 industries. OpenAI's GPT-5.5 via the Codex harness topped the leaderboard with a 24.0% pass rate, beating Anthropic's newly released Claude Fable 5, which scored 22.0%. The benchmark covers 1,490 tasks including 3D modeling and neuroimaging analysis, uses deterministic grading, and keeps 90% of tasks private to prevent contamination. Even top models score 0.0% on the hardest tier.",
-      "source": "venturebeat.com",
-      "sourceUrl": "https://venturebeat.com/technology/surprise-upset-gpt-5-5-beats-claude-fable-5-on-brutal-new-agents-last-exam-benchmark?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-06-10T00:00:00.000Z",
-      "hot": false
-    },
-    {
       "id": "https://singularityhub.com/2026/06/10/after-decades-of-failure-undruggable-cancers-begin-to-give-way/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "SingularityHub: AI Speeds Search for Drugs Targeting Undruggable Cancers",
       "summary": "New drugs are taking on the slippery molecular switches that fuel deadly cancers—and AI is speeding up the hunt. Scar-like tissue forms around tumors in pancreatic cancer / National Cancer Institute on Unsplash For decades, a handful of molecular switches has haunted the nightmares of cancer researchers. The switches trigger runaway tumor growth and cause the disease to spread across the body in multiple cancers. In theory, this makes them perfect treatment targets. Blocking even one could lead to drugs that are effective against a variety of cancers.",
       "source": "singularityhub.com",
       "sourceUrl": "https://singularityhub.com/2026/06/10/after-decades-of-failure-undruggable-cancers-begin-to-give-way/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-06-10T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://venturebeat.com/technology/surprise-upset-gpt-5-5-beats-claude-fable-5-on-brutal-new-agents-last-exam-benchmark?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "OpenAI’s GPT-5.5 tops Claude Fable 5 on Agents’ Last Exam benchmark",
+      "summary": "UC Berkeley's Center for Responsible, Decentralized Intelligence has launched Agents' Last Exam (ALE), a new benchmark testing AI on real professional workflows across 55 industries. OpenAI's GPT-5.5 via the Codex harness topped the leaderboard with a 24.0% pass rate, beating Anthropic's newly released Claude Fable 5, which scored 22.0%. The benchmark covers 1,490 tasks including 3D modeling and neuroimaging analysis, uses deterministic grading, and keeps 90% of tasks private to prevent contamination. Even top models score 0.0% on the hardest tier.",
+      "source": "venturebeat.com",
+      "sourceUrl": "https://venturebeat.com/technology/surprise-upset-gpt-5-5-beats-claude-fable-5-on-brutal-new-agents-last-exam-benchmark?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-06-10T00:00:00.000Z",
       "hot": false
@@ -1411,7 +1421,7 @@
     {
       "id": "https://www.anthropic.com/news/claude-fable-5-mythos-5?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Anthropic launches Claude Fable 5, a Mythos-class model for general use",
-      "summary": "Today anthropic.com is launching Claude Fable 5: a Mythos-class1 model that anthropic.com has made safe for general use. Fable 5’s capabilities exceed those of any model anthropic.com has ever made generally available. It is state-of-the-art on nearly all tested benchmarks of AI capability, showing exceptional performance in software engineering, knowledge work, vision, scientific research, and many other areas. The longer and more complex the task, the larger Fable 5’s lead over anthropic.com's other models. Releasing a model this capable comes with risks. Without safeguards, Fable 5’s capabilities in areas like cybersecurity could be misused to cause serious damage.",
+      "summary": "Claude Mythos 5 and Fable 5 access unavailable anthropic.com is suspending access to Claude Fable 5 and Claude Mythos 5. anthropic.com apologize for this disruption to anthropic.com's customers and are working to restore access as soon as possible. Today anthropic.com is launching Claude Fable 5: a Mythos-class1 model that anthropic.com has made safe for general use. Fable 5’s capabilities exceed those of any model anthropic.com has ever made generally available. It is state-of-the-art on nearly all tested benchmarks of AI capability, showing exceptional performance in software engineering, knowledge work, vision, scientific research, and many other areas.",
       "source": "anthropic.com",
       "sourceUrl": "https://www.anthropic.com/news/claude-fable-5-mythos-5?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
@@ -1480,28 +1490,6 @@
       "date": "2026-06-08T06:00:57.000Z",
       "hot": false,
       "officialUrl": "https://blogs.nvidia.com"
-    },
-    {
-      "id": "https://blogs.nvidia.com/?p=94137",
-      "title": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure",
-      "summary": "NVIDIA and LG Group are building an AI factory to accelerate LG Group’s next wave of AI-driven businesses, spanning robotics, autonomous driving, data center technologies and GPU cloud services. The AI factory will provide LG Group with accelerated computing infrastructure to train, simulate, validate and deploy AI-based applications across its key businesses. The collaboration brings together NVIDIA’s full-stack, end-to-end AI factory platform with LG Group’s global leadership in consumer electronics, robotics, mobility components, smart spaces and data center technologies. Together, the companies are connecting AI model development, physical AI data generation, robot simulation and training, edge deployment and factory-scale digital twins into a unified workflow for building physical AI systems. Advancing Physical AI and Robotics The combination of LG’s production technology data and know-how from global manufacturing sites with NVIDIA’s AI infrastructure and digital twin technologies will help enhance AI-driven manufacturing AI competitiveness. The two companies will collaborate to build an autonomous manufacturing ecosystem in which the entire process — from raw material procurement to production, logistics and customer delivery — is connected in real time through data and AI, and establish it as a new global smart factory standard.",
-      "source": "NVIDIA Blog",
-      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
-      "category": "Events",
-      "date": "2026-06-08T03:00:50.000Z",
-      "hot": false,
-      "officialUrl": "https://blogs.nvidia.com"
-    },
-    {
-      "id": "https://openai.com/index/built-to-benefit-everyone-our-plan",
-      "title": "Built to benefit everyone: our plan",
-      "summary": "Loading…ShareEvery few generations, a new technology changes everything. Imagine electricity reaching a rural American town in the 1920s. Before power lines arrived, daily life was shaped by physical limits: hauling water, washing clothes by hand, preserving food with ice, and ending much of the day when the sun went down. Electricity did not transform every household overnight, and many of its benefits reached people unevenly. But as access spread, ordinary life changed. Light at night extended the day.",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/built-to-benefit-everyone-our-plan",
-      "category": "Models",
-      "date": "2026-06-08T01:30:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com"
     }
   ]
 }
