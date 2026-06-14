@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T19:16:00.457Z",
+  "lastUpdated": "2026-06-14T20:46:16.431Z",
   "news": [
     {
       "id": "https://decrypt.co/?p=371033",
@@ -584,6 +584,17 @@
       "officialUrl": "https://mashable.com"
     },
     {
+      "id": "https://huggingface.co/blog/allenai/olmo-eval",
+      "title": "olmo-eval: An evaluation workbench for the model development loop",
+      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/allenai/olmo-eval",
+      "category": "Research",
+      "date": "2026-06-12T15:56:10.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
+    },
+    {
       "id": "https://techcrunch.com/?post_type=tc_podcast&p=3132406",
       "title": "It’s hot IPO summer, and the MANGOS are ripe",
       "summary": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;— Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half&#160;of that&#160;bunch is heading to public markets in the same window,&#160;and&#160;it&#8217;s&#160;a stress test for investors, for valuations, and for [&#8230;]",
@@ -909,6 +920,17 @@
       "officialUrl": "https://openai.com"
     },
     {
+      "id": "https://huggingface.co/blog/torch-mlp-fusion",
+      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/torch-mlp-fusion",
+      "category": "Research",
+      "date": "2026-06-11T00:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
+    },
+    {
       "id": "https://aiweekly.co/issues/your-ai-can-now-spend-your-money-visa-wired-it-into-chatgpt",
       "title": "AI Weekly Issue #502: Your AI can now spend your money — Visa wired it into ChatGPT",
       "summary": "Visa just wired ChatGPT to shop and pay on your behalf — an AI agent can now buy at any Visa merchant without you clicking \"buy.\" It capped a week where the labs pushed autonomy and capital to new highs: Anthropic put Claude Fable 5, its most powerful public model, into everyone's hands; Jeff Bezos came out of stealth with Prometheus, a $41B startup building an \"artificial general engineer.\" A self-replicating worm hit 73 of Microsoft's own GitHub repositories through AI coding tools. Anthropic broke with the White House over preempting state AI laws; a German court ruled Google is liable for what its AI Overviews say. The agents got more capable this week — and a lot more autonomous. You're reading the weekly brief. Below are the other ways to follow the story — every channel free, easy to leave. This week the product race and the capital race became the same race — and the labs started fighting over how to even keep score.",
@@ -983,7 +1005,7 @@
     {
       "id": "https://fortune.com/2026/06/11/anthropic-fable-5-silent-downgrade-backlash-national-security-transparency/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Anthropic to flag AI requests rejected or rerouted for national security",
-      "summary": "Anthropic reversed a controversial policy for its Claude Fable 5 model after backlash from the developer community. At launch, Fable 5 silently rerouted questions about cybersecurity, biology, and chemistry to less capable models, and degraded performance for AI development tasks without notifying users. Critics accused Anthropic of using safety measures to suppress competition. The company now says flagged requests will visibly fall back to Opus 4.8, with API refusals including a stated reason. Anthropic said it made the wrong tradeoff and apologized.",
+      "summary": "Anthropic is changing course after facing criticism for quietly downgrading certain requests to its most capable AI model. On Tuesday, the $965 billion company released a version of its most capable model, Mythos. Anthropic revealed Mythos in April, but held back any Mythos-class models from the public partly because the company said it was extremely adept at skirting cybersecurity defenses and was too dangerous to release. This week, though, it opted to release the Mythos-class model, Fable 5, even as its capabilities “exceed those of every model we’ve previously made generally available,” according to Anthropic. Dianne Na Penn, Anthropic’s head of product management, research, and labs, previously told Fortune the company felt comfortable releasing Fable 5 because it feels “more confident with our safety guardrails in place.” Yet, it was one of those guardrails, buried in a 319-page safety document, that earlier this week prompted a wave of backlash from AI researchers and other users online, and has now prompted the company to improve its transparency.",
       "source": "fortune.com",
       "sourceUrl": "https://fortune.com/2026/06/11/anthropic-fable-5-silent-downgrade-backlash-national-security-transparency/?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
