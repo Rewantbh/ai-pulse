@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-13T23:05:56.627Z",
+  "lastUpdated": "2026-06-14T01:42:18.345Z",
   "news": [
     {
       "id": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
@@ -507,6 +507,17 @@
       "officialUrl": "https://mashable.com"
     },
     {
+      "id": "https://huggingface.co/blog/allenai/olmo-eval",
+      "title": "olmo-eval: An evaluation workbench for the model development loop",
+      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/allenai/olmo-eval",
+      "category": "Research",
+      "date": "2026-06-12T15:56:10.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
+    },
+    {
       "id": "https://techcrunch.com/?post_type=tc_podcast&p=3132406",
       "title": "It’s hot IPO summer, and the MANGOS are ripe",
       "summary": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;— Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half&#160;of that&#160;bunch is heading to public markets in the same window,&#160;and&#160;it&#8217;s&#160;a stress test for investors, for valuations, and for [&#8230;]",
@@ -920,6 +931,17 @@
       "officialUrl": "https://openai.com"
     },
     {
+      "id": "https://huggingface.co/blog/torch-mlp-fusion",
+      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/torch-mlp-fusion",
+      "category": "Research",
+      "date": "2026-06-11T00:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
+    },
+    {
       "id": "https://aiweekly.co/issues/your-ai-can-now-spend-your-money-visa-wired-it-into-chatgpt",
       "title": "AI Weekly Issue #502: Your AI can now spend your money — Visa wired it into ChatGPT",
       "summary": "Visa just wired ChatGPT to shop and pay on your behalf — an AI agent can now buy at any Visa merchant without you clicking \"buy.\" It capped a week where the labs pushed autonomy and capital to new highs: Anthropic put Claude Fable 5, its most powerful public model, into everyone's hands; Jeff Bezos came out of stealth with Prometheus, a $41B startup building an \"artificial general engineer.\" A self-replicating worm hit 73 of Microsoft's own GitHub repositories through AI coding tools. Anthropic broke with the White House over preempting state AI laws; a German court ruled Google is liable for what its AI Overviews say. The agents got more capable this week — and a lot more autonomous. You're reading the weekly brief. Below are the other ways to follow the story — every channel free, easy to leave. This week the product race and the capital race became the same race — and the labs started fighting over how to even keep score.",
@@ -994,7 +1016,7 @@
     {
       "id": "https://fortune.com/2026/06/11/anthropic-fable-5-silent-downgrade-backlash-national-security-transparency/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Anthropic to flag AI requests rejected or rerouted for national security",
-      "summary": "Anthropic reversed a controversial policy for its Claude Fable 5 model after backlash from the developer community. At launch, Fable 5 silently rerouted questions about cybersecurity, biology, and chemistry to less capable models, and degraded performance for AI development tasks without notifying users. Critics accused Anthropic of using safety measures to suppress competition. The company now says flagged requests will visibly fall back to Opus 4.8, with API refusals including a stated reason. Anthropic said it made the wrong tradeoff and apologized.",
+      "summary": "Anthropic is changing course after facing criticism for quietly downgrading certain requests to its most capable AI model. On Tuesday, the $965 billion company released a version of its most capable model, Mythos. Anthropic revealed Mythos in April, but held back any Mythos-class models from the public partly because the company said it was extremely adept at skirting cybersecurity defenses and was too dangerous to release. This week, though, it opted to release the Mythos-class model, Fable 5, even as its capabilities “exceed those of every model we’ve previously made generally available,” according to Anthropic. Dianne Na Penn, Anthropic’s head of product management, research, and labs, previously told Fortune the company felt comfortable releasing Fable 5 because it feels “more confident with our safety guardrails in place.” Yet, it was one of those guardrails, buried in a 319-page safety document, that earlier this week prompted a wave of backlash from AI researchers and other users online, and has now prompted the company to improve its transparency.",
       "source": "fortune.com",
       "sourceUrl": "https://fortune.com/2026/06/11/anthropic-fable-5-silent-downgrade-backlash-national-security-transparency/?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
@@ -1278,6 +1300,17 @@
       "officialUrl": "https://blogs.nvidia.com"
     },
     {
+      "id": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+      "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
+      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+      "category": "Research",
+      "date": "2026-06-09T15:56:23.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
+    },
+    {
       "id": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
       "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
       "summary": "Gemini 3.5 Live Translate is DeepMind's latest audio model, delivering near real-time speech-to-speech translation in over 70 languages. Your browser does not support the audio element. Twenty years ago, translation at Google began as one of DeepMind's pioneering machine learning experiments to turn the science of language into the magic of human connection. That experiment has come a long way with over a trillion words being translated for billions of users across DeepMind's products every month. Today, DeepMind is taking DeepMind's next step with the release of Gemini 3.5 Live Translate, DeepMind's latest audio model for live speech-to-speech translation. The model automatically detects 70+ languages and generates smooth, natural-sounding translated speech that preserves the speakers' intonation, pacing and pitch.",
@@ -1322,6 +1355,17 @@
       "officialUrl": "https://openai.com"
     },
     {
+      "id": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "category": "Research",
+      "date": "2026-06-09T10:46:19.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
+    },
+    {
       "id": "https://www.technologyreview.com/?p=1137830",
       "title": "Learning to lead in a hybrid human-AI enterprise",
       "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce. Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordinating complex tasks, interacting with multiple tools and environments across an organization. In early applications that center on customer service, HR, and sales, adoption of agentic AI has led to productivity gains of 30-50%. Their autonomy positions agents more as collaborators than tools, working side-by-side with human employees in blended teams that look poised to upend traditional workplace dynamics.&nbsp; More than three-quarters of HR leaders believe that the deployment of AI agents will transform existing workplace norms, driving a complete reappraisal of how roles and responsibilities are distributed, how skills are prioritized, and how workplace culture is shaped. Though many admit they’re in the early or preparatory phase of this shift, 86% of chief HR officers predict that navigating digital labor shaped by agentic AI will be a central component of their role in the years ahead. Fluency in the change management aspect of agentic AI adoption will be a crucial differentiator when it comes to unlocking the full potential of the technology going forward, believes Ateet Jayaswal, chief culture and employee experience officer at Wipro, a leading technology services and consu...",
@@ -1353,88 +1397,6 @@
       "date": "2026-06-09T09:16:45.000Z",
       "hot": false,
       "officialUrl": "https://www.technologyreview.com"
-    },
-    {
-      "id": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-      "title": "Industrial policy for the Intelligence Age",
-      "summary": "(opens in a new window)ShareUpdate from June 9: OpenAI is grateful for the significant interest in Industrial Policy for the Intelligence Age. After receiving more than 400 responses, OpenAI is no longer accepting additional submissions through the inbox newindustrialpolicy@openai.com⁠ and are currently reviewing potential grant recipients. As OpenAI move toward superintelligence, incremental policy updates won’t be enough. To kick-start this much needed conversation, OpenAI is offering a slate of people-first policy ideas⁠(opens in a new window) designed to expand opportunity, share prosperity, and build resilient institutions—ensuring that advanced AI benefits everyone. These ideas are ambitious, but intentionally early and exploratory. OpenAI offer them not as a comprehensive or final set of recommendations, but as a starting point for discussion that OpenAI invite others to build on, refine, challenge, or choose among through the democratic process.",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-      "category": "Models",
-      "date": "2026-06-09T00:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://cohere.com/blog/north-mini-code",
-      "title": "North mini code",
-      "summary": "Today Cohere&#x27;re launching North Mini Code open-source. A mixture-of-experts (MoE) model, North Mini Code is Cohere&#x27;s first agentic coding model, and the inaugural member of Cohere's next generation of powerful models. At 30B total parameters with just 3B active, North Mini Code delivers strong software development performance without demanding extensive hardware to match. Efficient by design, it&#x27;s built to run where you need it. Freely available under an Apache 2.0 license, North Mini Code advances Cohere’s mission to make sovereign AI a practical reality, giving developers direct access to agentic coding capabilities. Cohere&#x27;re building in the open, because the future of AI should be shaped by the people running, testing, and improving it.",
-      "source": "Cohere Blog",
-      "sourceUrl": "https://cohere.com/blog/north-mini-code",
-      "category": "Models",
-      "date": "2026-06-09T00:00:00.000Z",
-      "hot": true
-    },
-    {
-      "id": "https://aiweekly.co/issues/musks-175-trillion-bet-isnt-a-rocket-company",
-      "title": "AI Weekly Issue #501: Musk's $1.75 Trillion Bet Isn't a Rocket Company",
-      "summary": "Musk takes SpaceX public Friday at $1.75 trillion, the largest IPO ever. Look past the rocket and you find the actual wager: an AI arm that lost $6.4 billion last year, a plan to put a million data-center satellites in orbit, and a valuation that has more than doubled since December. Below: how the pieces fit, what Apple's opposite bet tells AI, and the launch of AI TV. You're reading the weekly brief. Below are the other ways to follow the story — every channel free, easy to leave. The headline number on the SpaceX IPO is $1.75 trillion, the largest debut in stock-market history, priced at $135 a share, trading Friday under the ticker SPCX.",
-      "source": "AI Weekly",
-      "sourceUrl": "https://aiweekly.co/issues/musks-175-trillion-bet-isnt-a-rocket-company",
-      "category": "Curation",
-      "date": "2026-06-09T00:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://aiweekly.co"
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "NVIDIA GPUs to Support Apple Intelligence in Private Cloud Compute",
-      "summary": "NVIDIA GPUs with Confidential Computing are now used for confidential inference in Apple’s Private Cloud Compute (PCC), as it expands beyond Apple’s data centers to Google Cloud. Unveiled during Apple’s annual WWDC gathering for developers from around the globe, NVIDIA GPUs will support server-side inference for Apple Foundation Models, custom-built by Apple and Google, leveraging the technologies behind the Gemini family of models. NVIDIA is collaborating with Apple and Google to support some of the next-generation Apple Intelligence features, using NVIDIA Blackwell GPUs with Confidential Computing integrated into Private Cloud Compute’s hardware security architecture running on Google Cloud. NVIDIA Confidential Computing provides a hardware-based security layer for accelerated AI workloads. The technology protects data while it’s being processed by isolating workloads in trusted execution environments and enabling systems to cryptographically verify that the infrastructure has not been tampered with before any sensitive data is sent to the server. For end users, NVIDIA Confidential Computing means that no one, not even the system’s builders, can look at their data, chats or conversations.",
-      "source": "blogs.nvidia.com",
-      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-06-09T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://claude.com/blog/whats-new-in-claude-managed-agents?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Claude Managed Agents add scheduling and secure environment variable vaults",
-      "summary": "Anthropic has launched two public beta features for Claude Managed Agents on the Claude Platform. Scheduled deployments let agents run on a cron schedule, automatically starting new sessions for recurring tasks like nightly data syncs or weekly compliance scans, with no scheduler to build or host. Environment variable vaults securely store API keys for CLI tools, attaching credentials at the network boundary so agents never see raw keys. Supported CLIs include Browserbase, KERNEL, Notion, Ramp, and Sentry. Rakuten, Actively AI, and Ando are already using scheduled deployments.",
-      "source": "claude.com",
-      "sourceUrl": "https://claude.com/blog/whats-new-in-claude-managed-agents?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-06-09T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://www.anthropic.com/news/claude-fable-5-mythos-5?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Anthropic launches Claude Fable 5, a Mythos-class model for general use",
-      "summary": "Claude Mythos 5 and Fable 5 access unavailable anthropic.com is suspending access to Claude Fable 5 and Claude Mythos 5. anthropic.com apologize for this disruption to anthropic.com's customers and are working to restore access as soon as possible. Today anthropic.com is launching Claude Fable 5: a Mythos-class1 model that anthropic.com has made safe for general use. Fable 5’s capabilities exceed those of any model anthropic.com has ever made generally available. It is state-of-the-art on nearly all tested benchmarks of AI capability, showing exceptional performance in software engineering, knowledge work, vision, scientific research, and many other areas.",
-      "source": "anthropic.com",
-      "sourceUrl": "https://www.anthropic.com/news/claude-fable-5-mythos-5?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-06-09T00:00:00.000Z",
-      "hot": true
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Google Adds Near Real-Time Voice Translation With Gemini 3.5 Live Translate",
-      "summary": "Gemini 3.5 Live Translate is .google's latest audio model, delivering near real-time speech-to-speech translation in over 70 languages. Your browser does not support the audio element. Twenty years ago, translation at Google began as one of .google's pioneering machine learning experiments to turn the science of language into the magic of human connection. That experiment has come a long way with over a trillion words being translated for billions of users across .google's products every month. Today, .google is taking .google's next step with the release of Gemini 3.5 Live Translate, .google's latest audio model for live speech-to-speech translation. The model automatically detects 70+ languages and generates smooth, natural-sounding translated speech that preserves the speakers' intonation, pacing and pitch.",
-      "source": "blog.google",
-      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-06-09T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://www.electrify.video/news/electrify-partners-with-the-rundown?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Electrify Partners With The Rundown on AI Video News",
-      "summary": "Founded by Rowan Cheung, The Rundown has become one of the most trusted sources of AI news, insights and education for entrepreneurs, professionals and anyone trying to keep up with one of the fastest-moving technologies in the world. At Electrify, electrify.video is drawn to founders who build trusted knowledge brands around genuine expertise. Rowan is a perfect example. He has built The Rundown into an essential resource for millions of people by helping them cut through the noise and understand what matters. As part of the partnership, Rowan and his team will continue to lead The Rundown's editorial direction and long-term vision. Electrify will provide operational support, expertise and shared resources to help the business continue expanding across new formats, products and audiences.",
-      "source": "electrify.video",
-      "sourceUrl": "https://www.electrify.video/news/electrify-partners-with-the-rundown?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-06-09T00:00:00.000Z",
-      "hot": false
     }
   ]
 }
