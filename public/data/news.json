@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2026-06-14T22:05:02.215Z",
+  "lastUpdated": "2026-06-14T23:44:50.516Z",
   "news": [
+    {
+      "id": "108320978",
+      "title": "Trump heads to G7 summit in France after reaching deal to end war with Iran",
+      "summary": "The G7 is likely to address the Iran peace deal, as well as Russia's war against Ukraine, which continues to rage in eastern Europe.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/06/14/trump-g7-iran-deal-france-ukraine.html",
+      "category": "Business",
+      "date": "2026-06-14T22:30:57.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
     {
       "id": "108321192",
       "title": "SpaceX market cap tops $2 trillion after shares of Elon Musk's rocket company gain 19% on debut",
@@ -75,17 +86,6 @@
       "sourceUrl": "https://www.cnbc.com/2026/06/14/ceo-of-.html",
       "category": "Business",
       "date": "2026-06-14T14:03:30.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "108320978",
-      "title": "Trump heads to G7 summit in France as world awaits Iran deal",
-      "summary": "The Iran war has drawn the world's focus, but the G7 is also likely to address Russia's war against Ukraine, which continues to rage in eastern Europe.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/06/14/trump-g7-iran-deal-france-ukraine.html",
-      "category": "Business",
-      "date": "2026-06-14T12:00:02.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
     },
@@ -1276,17 +1276,6 @@
       "category": "Curation",
       "date": "2026-06-10T00:00:00.000Z",
       "hot": false
-    },
-    {
-      "id": "https://blogs.nvidia.com/?p=94324",
-      "title": "NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute",
-      "summary": "NVIDIA GPUs with Confidential Computing are now used for confidential inference in Apple’s Private Cloud Compute (PCC), as it expands beyond Apple’s data centers to Google Cloud. Unveiled during Apple’s annual WWDC gathering for developers from around the globe, NVIDIA GPUs will support server-side inference for Apple Foundation Models, custom-built by Apple and Google, leveraging the technologies behind the Gemini family of models. NVIDIA is collaborating with Apple and Google to support some of the next-generation Apple Intelligence features, using NVIDIA Blackwell GPUs with Confidential Computing integrated into Private Cloud Compute’s hardware security architecture running on Google Cloud. Confidential Computing Matters for the Era of AI Experiences NVIDIA Confidential Computing provides a hardware-based security layer for accelerated AI workloads. The technology protects data while it’s being processed by isolating workloads in trusted execution environments and enabling systems to cryptographically verify that the infrastructure has not been tampered with before any sensitive data is sent to the server. For end users, NVIDIA Confidential Computing means that no one, not even the system’s builders, can look at their data, chats or conversations.",
-      "source": "NVIDIA Blog",
-      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/",
-      "category": "Events",
-      "date": "2026-06-09T22:34:27.000Z",
-      "hot": false,
-      "officialUrl": "https://blogs.nvidia.com"
     }
   ]
 }
