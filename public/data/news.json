@@ -1,6 +1,39 @@
 {
-  "lastUpdated": "2026-06-17T21:27:40.689Z",
+  "lastUpdated": "2026-06-17T22:57:04.647Z",
   "news": [
+    {
+      "id": "6a32b1965d83af3b972aa74b",
+      "title": "The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy",
+      "summary": "The Trump administration’s move to impose export controls on Anthropic’s most powerful AI technology followed a spat over the company granting South Korean telecom giant SK Telecom access to its Claude Mythos model, according to people familiar with the matter. US officials were concerned about what they alleged were SK Telecom’s ties to China, those people said. Those concerns appear to have compounded when Amazon later flagged vulnerabilities to the White House it identified in Fable 5, a highly safeguarded version of Mythos that Anthropic released to the public on June 9. The Amazon researchers claimed that it was possible to circumvent some of Fable 5’s guardrails and access Mythos’ formidable cybercapabilities, though Anthropic and outside cybersecurity experts have argued these risks are not unique to Claude. The confluence of events is what ultimately led the White House to determine that it could not trust Anthropic to safeguard its most advanced AI technology, according to a person close to the administration. On Friday, the Trump administration ordered Anthropic to revoke access to Mythos and Fable 5 for all foreign nationals, including immigrants inside the US.",
+      "source": "Wired AI",
+      "sourceUrl": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+      "category": "Industry",
+      "date": "2026-06-17T22:52:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.wired.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=371486",
+      "title": "Michigan Federal Judge Rules Sports Prediction Markets Are Not Under CFTC Purview",
+      "summary": "The judge said Polymarket is not likely to succeed on the merits of its case against Michigan state regulators.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/371486/michigan-federal-judge-sports-prediction-markets-not-under-cftc-purview",
+      "category": "Tech",
+      "date": "2026-06-17T22:06:19.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "06QurMPbdWlqt0j6lQSaTb4",
+      "title": "Apple isnt done with the iPhone Air. Whats in store for the Air 2?",
+      "summary": "Last year, the iPhone Air was a solid first attempt at an ultra-thin iPhone, but it had issues. It sounds like Apple is aware of that, too.Bloomberg's resident Apple insider Mark Gurman reported on Wednesday that Apple is looking to launch the next iPhone Air in spring 2027 with a couple of key upgrades. First, Gurman said that Apple will reportedly add a second camera lens to the phone's backside, turning a monocular phone into a binocular one. It will be an ultrawide lens, so fans of telephoto zoom might be disappointed, but given that the original model only had one 48MP lens, that's a big deal. SEE ALSO: The latest iPhone Fold rumors, leaks, and renders: Everything Mashable know so far Second, Gurman reported that Apple will be improving the device's relatively disappointing battery life, which isn't a surprise. There isn't any info on how Apple engineers will accomplish this, given the phone's extremely small form factor, but nonetheless, it sounds like Apple wants the next iPhone Air to be a longer-lasting device.This report reaffirms previous reporting from The Information, namely the idea that the new iPhone Air will launch next spring rather than this fall.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/apple-iphone-air-2-camera-battery-rumors",
+      "category": "Tech",
+      "date": "2026-06-17T21:30:38.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
     {
       "id": "https://decrypt.co/?p=371474",
       "title": "SpaceX Surge Could Be Worth Billions for FTX—Will Creditors Benefit?",
@@ -705,6 +738,16 @@
       "officialUrl": "https://aiweekly.co"
     },
     {
+      "id": "https://openai.com/index/introducing-life-sci-bench/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "OpenAI Introduces LifeSciBench to Evaluate AI in Life Science Research",
+      "summary": "An expert-written, expert-reviewed benchmark grounded in real-world life science research (opens in a new window)Loading…ShareAgentic AI systems are becoming increasingly capable of performing scientific tasks. However, their usefulness to life science researchers depends on how well they handle the complexity of real research. That work rarely looks like a single fact-recall question or a clean prediction problem. Researchers interpret incomplete evidence, reconcile conflicting results, design difficult experiments, troubleshoot assays, evaluate translational risk, and decide what to do next under uncertainty. Current benchmarks do not fully capture these capabilities.",
+      "source": "openai.com",
+      "sourceUrl": "https://openai.com/index/introducing-life-sci-bench/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-06-17T00:00:00.000Z",
+      "hot": false
+    },
+    {
       "id": "https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Anthropic, Google DeepMind CEOs urge U.S.-led AI coalition at G7",
       "summary": "Anthropic CEO Dario Amodei and Google DeepMind CEO Demis Hassabis called for a U.S.-led AI coalition at a closed-door G7 lunch in Évian-les-Bains, France, attended by about a dozen tech executives including OpenAI's Sam Altman and President Trump. Amodei proposed international cooperation on structured access to frontier models, chip trade excluding China, and AI risks in cyber and bioterrorism. Canadian PM Mark Carney agreed the U.S. could lead. The meeting followed Anthropic's forced disabling of its Fable 5 and Mythos 5 models due to U.S. export controls.",
@@ -1127,17 +1170,6 @@
       "category": "Curation",
       "date": "2026-06-16T00:00:00.000Z",
       "hot": false
-    },
-    {
-      "id": "6a3064c45bbd7ab055d9636a",
-      "title": "Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’",
-      "summary": "Meta did an “atrocious” job of rolling out a new artificial intelligence division and will aim to “rekindle” a more cheerful internal culture through better communication, career growth, and even snacks, a top executive told employees on Monday in an internal post seen by WIRED. The comments made by Andrew Bosworth, Meta’s chief technology officer, follow reporting by WIRED last week that revealed widespread dissatisfaction within the Applied AI engineering unit. Meta formed the division of about 6,500 engineers and product managers in March to work on projects aimed at improving the company’s generative AI models. But what workers described as the menial nature of the work prompted one to describe it as “a gulag.” Bosworth cited recent employee feedback as shaping the changes he was announcing. “We’ve undermined the trust you have that your specific expertise and contribution will be valued, that you will grow and advance your career, and that this will be a place where you can actually have an impact,” Bosworth wrote.",
-      "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/",
-      "category": "Industry",
-      "date": "2026-06-15T21:33:46.000Z",
-      "hot": false,
-      "officialUrl": "https://www.wired.com"
     },
     {
       "id": "https://www.technologyreview.com/?p=1138983",
