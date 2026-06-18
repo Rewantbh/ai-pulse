@@ -1,6 +1,50 @@
 {
-  "lastUpdated": "2026-06-18T00:14:23.655Z",
+  "lastUpdated": "2026-06-18T05:14:17.217Z",
   "news": [
+    {
+      "id": "108323665",
+      "title": "Google Gemini co-lead Noam Shazeer leaves for OpenAI",
+      "summary": "Google's vice president of engineering and a co-leader of its Gemini AI models announced Wednesday he is leaving the company to join OpenAI.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/06/18/google-gemini-co-lead-noam-shazeer-leaves-for-openai.html",
+      "category": "Business",
+      "date": "2026-06-18T03:21:21.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
+      "title": "Midjourney Medical goes from generating ‘cat images’ to full-body ultrasound scans",
+      "summary": "The AI image generator says this side project will be ‘in many ways superior to even MRI machines.’ The AI image generator says this side project will be ‘in many ways superior to even MRI machines.’ Midjourney CEO David Holz just showed off the company’s first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from the “cat pictures” produced by its AI image generator. Dubbed The Midjourney Scanner, it’s an ultrasound-based full-body scanner that uses a ring of sensors to capture vertical slices of the inside of your body, looking at the composition of your muscle, fat, bone, and organs to start. Holz said ideally, you could do this once a year or every single day, as it “aims for image quality comparable to MRI in many ways.” He mentioned that one way he’d like to use it would be to see how his body changes in response to diet and workout changes, saying, “I’m not the most measured man on Earth yet, you know, but maybe the author want to have that daily [measurable information].",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
+      "category": "Industry",
+      "date": "2026-06-18T03:12:31.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3134048",
+      "title": "How to turn off AI in your Google Docs",
+      "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+      "category": "Business",
+      "date": "2026-06-18T01:23:51.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=371487",
+      "title": "France to Phase Out Non-Quantum Encryption as Bitcoin Security Concerns Grow",
+      "summary": "French authorities said that government cybersecurity researchers will stop certifying security products that lack quantum-resistant encryption beginning in 2027.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/371487/france-phase-out-non-quantum-encryption-bitcoin-security-concerns-grow",
+      "category": "Tech",
+      "date": "2026-06-18T00:31:06.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
     {
       "id": "https://decrypt.co/?p=371451",
       "title": "Psychologists Say Patients Are Bringing AI Into Therapy Sessions: Survey",
@@ -366,7 +410,7 @@
     {
       "id": "6a3065c2f47e703174d70436",
       "title": "The White House Wants Anthropic to Block All Jailbreaks. That May Not Be Possible",
-      "summary": "The Trump administration’s disagreement with Anthropic over its most advanced AI models appears to be fast coming to a head. Trump officials tell Inner Loop that if Anthropic wants to rerelease Claude Fable 5, the AI model that they took offline with export controls last week over concerns about jailbreaking—a method of using prompts to get around a model’s safeguards—the company will need to take steps to actually address what the government alleges are vulnerabilities. Anthropic has said for days that the administration’s concerns are overblown and that the effects of the jailbreaks are minimal. It reiterated this position to the Commerce Department and the Office of the National Cyber Director, Sean Cairncross, in a technical meeting on Monday. But officials say they are past arguing whether the jailbreaks are significant, since the National Security Agency concluded that there are ways to disable guardrails on Fable 5, which are put in place to prevent users from accessing capabilities of the Mythos model related to cybersecurity, chemistry, and biology At this stage, the administration essentially views the situation as Anthropic’s problem to fix, according to three people familiar with discussions.",
+      "summary": "The Trump administration’s disagreement with Anthropic over its most advanced AI models appears to be fast coming to a head. Trump officials tell Inner Loop that if Anthropic wants to rerelease Claude Fable 5, the AI model that they took offline with export controls last week over concerns about jailbreaking—a method of using prompts to get around a model’s safeguards—the company will need to take steps to actually address what the government alleges are vulnerabilities. Anthropic has said for days that the administration’s concerns are overblown and that the effects of the jailbreaks are minimal. It reiterated this position to the Commerce Department and the Office of the National Cyber Director, Sean Cairncross, in a technical meeting on Monday. But officials say they are past arguing whether the jailbreaks are significant, since the National Security Agency concluded that there are ways to disable guardrails on Fable 5, which are put in place to prevent users from accessing capabilities of the Mythos model related to cybersecurity, chemistry, and biology. At this stage, the administration essentially views the situation as Anthropic’s problem to fix, according to three people familiar with discussions.",
       "source": "Wired AI",
       "sourceUrl": "https://www.wired.com/story/the-white-house-wants-anthropic-to-block-all-jailbreaks-that-may-not-be-possible/",
       "category": "Industry",
@@ -727,6 +771,16 @@
       "officialUrl": "https://aiweekly.co"
     },
     {
+      "id": "https://www.midjourney.com/medical/blogpost?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Midjourney Unveils Medical Ultrasonic CT and Spa Initiatives",
+      "summary": "Midjourney, known for AI image generation, has announced Midjourney Medical, featuring a full-body ultrasonic CT scanner and a planned spa. The Midjourney Scanner submerges users in water and uses a ring of 500,000 ultrasonic sensors to produce MRI-quality 3D body maps in under 60 seconds. A San Francisco spa integrating the scanners is planned for 2027, with a third-generation custom silicon scanner in 2028 and a goal of 50,000 scanners worldwide by 2031. The investor-free lab aims to make routine body scanning globally accessible.",
+      "source": "midjourney.com",
+      "sourceUrl": "https://www.midjourney.com/medical/blogpost?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-06-17T00:00:00.000Z",
+      "hot": true
+    },
+    {
       "id": "https://openai.com/index/introducing-life-sci-bench/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "OpenAI Introduces LifeSciBench to Evaluate AI in Life Science Research",
       "summary": "An expert-written, expert-reviewed benchmark grounded in real-world life science research (opens in a new window)Loading…ShareAgentic AI systems are becoming increasingly capable of performing scientific tasks. However, their usefulness to life science researchers depends on how well they handle the complexity of real research. That work rarely looks like a single fact-recall question or a clean prediction problem. Researchers interpret incomplete evidence, reconcile conflicting results, design difficult experiments, troubleshoot assays, evaluate translational risk, and decide what to do next under uncertainty. Current benchmarks do not fully capture these capabilities.",
@@ -1015,17 +1069,6 @@
       "officialUrl": "https://www.techrepublic.com"
     },
     {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion",
-      "title": "SpaceX is officially buying Cursor for $60 billion",
-      "summary": "Days after its massive IPO, SpaceX says it is spending $60 billion to buy Cursor - a bet designed to help Elon Musk's sprawling rocket / AI / social media behemoth win over lucrative enterprise customers and close the gap with AI rivals like Anthropic and OpenAI. The takeover was not entirely unexpected: SpaceX announced a peculiar arrangement in April in which it agreed to either acquire the programming platform for $60 billion or pay a $10 billion breakup fee. The company had been holding off completing the deal while going public. In an SEC filing, SpaceX said it expects the deal to close during the third quarter of 2026. Musk has pr …",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion",
-      "category": "Industry",
-      "date": "2026-06-16T11:41:31.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
       "id": "6a273969bb3096b9cac2310f",
       "title": "‘Pretty Crazy’ Token Usage Is Testing Bosses’ Bet on AI",
       "summary": "At the software company 8x8, employees are using Anthropic’s Claude to draft emails, analyze customer feedback, and write code, but so far, their growing reliance on the artificial intelligence chatbot hasn’t troubled the finance team. While other Silicon Valley companies, such as Meta, Uber, and Salesforce, have publicly expressed concerns about the growing cost of generative AI tools and have begun introducing usage caps in some cases, 8x8 says it finds itself in the black. Over the past 18 months, the company estimates it has saved about $5 million in annual costs by canceling subscriptions to dozens of software and educational tools it deemed unnecessary in part because Claude could provide similar capabilities. So far, 8x8’s annualized bill for Claude is “well below” that figure, says Joel Neeb, the company’s chief transformation and business operations officer. Neeb expects the savings and costs to eventually even out as 8x8 encourages more employees to adopt AI and it incorporates the tech into more complicated work. But for now, there’s still a huge gap, which “makes my chief financial officer happy,” he tells WIRED.",
@@ -1161,6 +1204,16 @@
       "hot": false
     },
     {
+      "id": "https://www.midjourney.com/updates/draft-mode-for-v8-1-and-new-feature-previews?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Midjourney Adds Draft Mode for V8.1 and Previews New Features",
+      "summary": "Midjourney has launched Draft Mode for its V8.1 model, generating 24 images per job at lower resolution and quality while consuming only half the fast hours of a standard V8.1 SD job. Users can click Vary on any draft image to render it at full quality and resolution. The feature is toggled via the lightning bolt button in the menubar. Midjourney also introduced a --preview flag letting users test early, unpolished model versions, with feedback requested in the Discord ideas-and-features channel.",
+      "source": "midjourney.com",
+      "sourceUrl": "https://www.midjourney.com/updates/draft-mode-for-v8-1-and-new-feature-previews?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-06-16T00:00:00.000Z",
+      "hot": false
+    },
+    {
       "id": "https://www.technologyreview.com/?p=1138983",
       "title": "Why do South Koreans love AI so much?",
       "summary": "When the author landed in Seoul after a grueling 12-hour flight from San Francisco, the author walked through an unmanned immigration checkpoint, where a machine scanned the author's face and passport. On the subway home, people were glued to their phones (powered by flawless 5G even underground), as MIT Technology Review AI raced past platforms lined with LED screens of ads celebrating K-pop idols’ birthdays. When the author got off the station in Gangnam, a cartoon-eyed robot on wheels was waiting patiently at a crosswalk to deliver someone’s dinner. Internet cafés dotted the sidewalks, crammed with teenagers playing computer games, maybe hoping to become the next legendary pro gamer. the author stood at a bus stop with interactive touch screens showing real-time bus schedule updates. It will soon become an “AI bus stop,” the Gangnam district announced in June, with a kiosk that answers riders’ questions in multiple languages.",
@@ -1225,6 +1278,16 @@
       "officialUrl": "https://openai.com"
     },
     {
+      "id": "https://freefable.org/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Security Leaders Urge U.S. to Lift Export Controls on Anthropic’s Fable, Mythos Models",
+      "summary": "Dear Secretary Lutnick and National Cyber Director Cairncross, freefable.org, the undersigned executives and technical leaders from across the United States and its allies, write to you to ask you to lift the export control directives on Anthropic&rsquo;s Fable and Mythos large language models and commit to an open, scientific and transparent process of handling AI risk assessments in the future. First, freefable.org would like to state that freefable.org believe that: It is freefable.org's understanding that underlying model capabilities in the original research that triggered this action: As a result, this action has taken the best models away from defenders, created market uncertainty, and risked America&rsquo;s AI leadership without any real risk to justify it. Not all of freefable.org agree that AI regulation is the right way forward.",
+      "source": "freefable.org",
+      "sourceUrl": "https://freefable.org/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-06-14T00:00:00.000Z",
+      "hot": false
+    },
+    {
       "id": "https://openai.com/index/introducing-openai-partner-network/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "OpenAI Launches Partner Network With $150M to Accelerate Enterprise AI",
       "summary": "Loading…ShareHelping enterprises move from ambition to outcome with AIHelping enterprises move from ambition to outcome with AIHow the OpenAI Partner Network worksBuilding a global ecosystem for AI transformationExpanding access to AI’s benefitsTable of contents The limiting factor for seeing value from AI in the enterprise is no longer model capabilities. Instead, it’s how organizations repeatably identify the right use cases, redesign workflows, integrate with existing systems, and drive adoption and change management at scale. Helping every organization adopt OpenAI frontier models and products and turn them into measurable impact requires an ecosystem of trusted partners with deep industry expertise, global delivery capacity, and customer relationships. Today, openai.com is announcing the OpenAI Partner Network to deliver just that. The OpenAI Partner Network is a new program for partners around the world to build, sell, and deliver AI solutions with OpenAI.",
@@ -1240,16 +1303,6 @@
       "summary": "The author has been thinking a lot about the future of the firm in an AI-driven economy. This transition is different than any previous platform shift. In the past, snscratchpad.com used digital systems to enhance human capital. This is the first time snscratchpad.com can create a real cognitive loop between people and digital systems. That is a mind-bender, because it changes how snscratchpad.com even conceptualize work inside an enterprise. What is at stake is not some digital tool or system and its use, but how organizations continue to learn, build IP, differentiate, and thrive in a world where AI models can continuously absorb the expertise of humans and organizations and commoditize it.",
       "source": "snscratchpad.com",
       "sourceUrl": "https://snscratchpad.com/posts/frontier-ecosystem/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-06-14T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://freefable.org/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Security Leaders Urge U.S. to Lift Export Controls on Anthropic’s Fable, Mythos Models",
-      "summary": "Dear Secretary Lutnick and National Cyber Director Cairncross, freefable.org, the undersigned executives and technical leaders from across the United States and its allies, write to you to ask you to lift the export control directives on Anthropic&rsquo;s Fable and Mythos large language models and commit to an open, scientific and transparent process of handling AI risk assessments in the future. First, freefable.org would like to state that freefable.org believe that: It is freefable.org's understanding that underlying model capabilities in the original research that triggered this action: As a result, this action has taken the best models away from defenders, created market uncertainty, and risked America&rsquo;s AI leadership without any real risk to justify it. Not all of freefable.org agree that AI regulation is the right way forward.",
-      "source": "freefable.org",
-      "sourceUrl": "https://freefable.org/?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-06-14T00:00:00.000Z",
       "hot": false
