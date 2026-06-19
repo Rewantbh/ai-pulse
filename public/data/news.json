@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T19:30:36.612Z",
+  "lastUpdated": "2026-06-19T20:53:31.030Z",
   "news": [
     {
       "id": "https://decrypt.co/?p=371699",
@@ -234,8 +234,8 @@
     },
     {
       "id": "https://techcrunch.com/?p=3134483",
-      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
-      "summary": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+      "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
+      "summary": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
       "category": "Business",
@@ -439,17 +439,6 @@
       "officialUrl": "https://www.wired.com"
     },
     {
-      "id": "https://decrypt.co/?p=371570",
-      "title": "HIVE Stock Spikes as Bitcoin Miner Lands $220M AI Infra Deal",
-      "summary": "The crypto miner has signed a landmark three-year GPU contract with Bell Canada and Cohere—as Canada races to build AI systems it actually owns.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/371570/hives-220m-ai-deal-bitcoin-mining",
-      "category": "Tech",
-      "date": "2026-06-18T19:05:59.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
       "id": "https://techcrunch.com/?p=3134243",
       "title": "Almost half of US singles feel negatively about AI in dating, Match says",
       "summary": "About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and conversation starters.",
@@ -470,6 +459,17 @@
       "date": "2026-06-18T18:22:13.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+      "title": "MosaicLeaks: Can your research agent keep a secret?",
+      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+      "category": "Research",
+      "date": "2026-06-18T18:13:13.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
     },
     {
       "id": "https://techcrunch.com/?p=3134218",
@@ -733,6 +733,28 @@
       "date": "2026-06-18T03:12:31.000Z",
       "hot": false,
       "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "https://huggingface.co/blog/peft-beyond-lora",
+      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/peft-beyond-lora",
+      "category": "Research",
+      "date": "2026-06-18T00:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
+    },
+    {
+      "id": "https://huggingface.co/blog/is-it-agentic-enough",
+      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/is-it-agentic-enough",
+      "category": "Research",
+      "date": "2026-06-18T00:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
     },
     {
       "id": "https://x.com/haydenfield/status/2067833674356121979?utm_source=futuretools.io&utm_medium=newspage",
@@ -1046,6 +1068,17 @@
       "officialUrl": "https://www.techrepublic.com"
     },
     {
+      "id": "https://huggingface.co/blog/allenai/molmomotion",
+      "title": "MolmoMotion: Language-guided 3D motion forecasting",
+      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/allenai/molmomotion",
+      "category": "Research",
+      "date": "2026-06-17T15:26:44.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
+    },
+    {
       "id": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
       "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
       "summary": "Products Developer tools Gemini app NotebookLM See all Infrastructure &amp; cloud Global network Google Cloud See all Technology Safety &amp; Security Health See all : Platforms Android Google Play Wear OS See all Devices Pixel Google Nest Fitbit Chromebooks See all : Leadership Sundar Pichai, CEO More authors See all Inside Google Around the globe Life at Google See all : Giving a diagnosis is the first step in treating a patient. Once a diagnosis is established, the challenge becomes managing a health condition over time — tracking symptoms across multiple appointments, parsing guidelines as they’re updated and fine-tuning medications. Research published today in “Nature” shows the capabilities of the Articulate Medical Intelligence Explorer (AMIE), Google AI's best-in-class research AI system for medical reasoning and conversations, evolving from one-off diagnostic conversations to long-term disease management using drug formularies and clinical guidelines.",
@@ -1112,6 +1145,17 @@
       "officialUrl": "https://www.techrepublic.com"
     },
     {
+      "id": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+      "category": "Research",
+      "date": "2026-06-17T10:18:05.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
+    },
+    {
       "id": "https://openai.com/index/ai-chemist-improves-reaction",
       "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
       "summary": "With Molecule.one’s Maria, GPT‑5.4 found a surprising additive boosting Chan-Lam Coupling yields for over 80% of tested substrates. ShareWhy the chemistry problem mattersWhy the chemistry problem mattersConnecting GPT-5.4 to Maria AI and LabWhat OpenAI foundLimitationsPreparednessWhat&#x27;s nextTable of contents OpenAI’s work in science is motivated by a simple belief: advanced AI can become a powerful partner for scientists, helping them explore more ideas, connect distant concepts, design better experiments, and accelerate discoveries that benefit humanity. OpenAI have already shared early examples of models contributing to novel results in mathematics, including work on the unit distance problem⁠, in theoretical physics, through a new result on gluon amplitudes⁠, and in biology, where GPT‑5 helped lower the cost of cell-free protein synthesis⁠ in an automated lab. OpenAI also introduced GPT‑Rosalind⁠, a purpose-built model to support life sciences research and drug discovery workflows. This project extends that trajectory into medicinal chemistry, where progress cannot be measured by reasoning alone.",
@@ -1121,6 +1165,17 @@
       "date": "2026-06-17T10:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
+    },
+    {
+      "id": "https://huggingface.co/blog/zai-org/glm-52-blog",
+      "title": "GLM-5.2: Built for Long-Horizon Tasks",
+      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/zai-org/glm-52-blog",
+      "category": "Research",
+      "date": "2026-06-17T09:01:25.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
     },
     {
       "id": "https://www.techrepublic.com/?p=4133860",
@@ -1154,6 +1209,17 @@
       "date": "2026-06-17T00:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
+    },
+    {
+      "id": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+      "title": "Agentic Resource Discovery: Let agents search",
+      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+      "category": "Research",
+      "date": "2026-06-17T00:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
     },
     {
       "id": "https://aiweekly.co/issues/america-blocked-its-best-ai-china-just-raised-74-billion",
