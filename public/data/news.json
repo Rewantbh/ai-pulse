@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T23:02:01.732Z",
+  "lastUpdated": "2026-06-21T01:58:11.837Z",
   "news": [
     {
       "id": "https://techcrunch.com/?p=3134719",
@@ -1460,107 +1460,6 @@
       "date": "2026-06-16T09:00:00.000Z",
       "hot": false,
       "officialUrl": "https://www.technologyreview.com"
-    },
-    {
-      "id": "https://openai.com/index/deployment-simulation",
-      "title": "Predicting model behavior before release by simulating deployment",
-      "summary": "Using realistic conversation contexts to better estimate undesired model behavior before release. ShareIntroductionIntroductionHow Deployment Simulation worksHow OpenAI tested Deployment SimulationDeployment Simulation significantly expands pre-deployment risk assessmentReducing evaluation awarenessTool simulation for agentic trajectoriesWildChat and external auditingLimitationsConclusionTable of contents Before releasing a new model, labs need to understand not just what it can do, but how it is likely to behave in real-world use, including where it might introduce new risks. This becomes even more important as capabilities increase. As part of OpenAI's pre-deployment safety review, OpenAI leverage targeted evaluations, red-teaming, and other checks to understand model behavior. OpenAI has now started using a method for simulating model deployments before they happen, which adds a complementary signal: a deployment-like preview of how a candidate model may behave before it reaches users.",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/deployment-simulation",
-      "category": "Models",
-      "date": "2026-06-16T00:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://www.theverge.com/tech/950492/snap-specs-ar-glasses-launch-date-preorder?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Snap to launch AR glasses for the public at a premium price",
-      "summary": "The new Specs are priced at $2,195, and you can preorder them starting today. The new Specs are priced at $2,195, and you can preorder them starting today. Snap is finally launching augmented glasses for the public. Specs, which Snap describes as “a wearable computer built into see-through augmented reality glasses,” will cost $2,195. You can preorder a pair of Specs now at specs.com with a $200 refundable deposit, and Snap says they’re expected to ship “this fall” in the US, UK, and France. This is a big moment for Snap: The company made a big entry into smart glasses with its original Spectacles in 2016, and the company has been toiling away on nonpublic AR versions of Spectacles over the past few years.",
-      "source": "theverge.com",
-      "sourceUrl": "https://www.theverge.com/tech/950492/snap-specs-ar-glasses-launch-date-preorder?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-06-16T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://www.cnet.com/tech/computing/qualcomm-snapdragon-reality-elite-chip-xreal-aura-glasses-awe-2026/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Xreal Aura Android XR Glasses to Launch This Fall With New Qualcomm Chip",
-      "summary": "In May, the author was wowed when the author demoed the surprisingly powerful VR-like experience inside Xreal and Google&apos;s Project Aura glasses, which are now being called Xreal Aura and are arriving this fall.&#xA0; They pack a Samsung Galaxy XR-like experience into a pair of glasses that plugs into a phone-sized processor puck. But it turns out that the processor they pack is actually better than the one in the Samsung Galaxy XR. And the specs of Qualcomm&apos;s new chip suggest a wave of VR headsets that could be aiming to supercharge their onboard AI capabilities. Qualcomm&apos;s newly announced Snapdragon Reality Elite chip, unveiled at the Augmented World Expo conference in Long Beach, California, is the renamed successor to Qualcomm&apos;s previous line of VR/AR chips that ran in the Samsung Galaxy XR, the&#xA0;Meta Quest and many other devices. According to Qualcomm, its GPU is up to 60% better than the Snapdragon XR2 Plus Gen 2 in the Galaxy XR, the CPU is up to 30% better and an AI-focused neural processing unit is up to 160% better for AI-related tasks.",
-      "source": "cnet.com",
-      "sourceUrl": "https://www.cnet.com/tech/computing/qualcomm-snapdragon-reality-elite-chip-xreal-aura-glasses-awe-2026/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-06-16T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Microsoft Launches Copilot Cowork for AI-Powered Enterprise Automation",
-      "summary": "Microsoft has launched Copilot Cowork into general availability worldwide, its fastest-growing Frontier program feature. After three months of preview, over half of the Fortune 500 is already using it, including Accenture, Zurich Insurance, and Capital Group. Cowork executes complex, long-running, multi-tool tasks end-to-end, running on Anthropic models including Opus 4.8 and Sonnet 4.6. Pricing is usage-based via Copilot Credits, with PayGo at $0.01 per credit, and requires a Microsoft 365 Copilot subscription.",
-      "source": "microsoft.com",
-      "sourceUrl": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-06-16T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://openai.com/index/deployment-simulation/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "OpenAI debuts Deployment Simulation to predict model behavior before release",
-      "summary": "Using realistic conversation contexts to better estimate undesired model behavior before release. ShareIntroductionIntroductionHow Deployment Simulation worksHow openai.com tested Deployment SimulationDeployment Simulation significantly expands pre-deployment risk assessmentReducing evaluation awarenessTool simulation for agentic trajectoriesWildChat and external auditingLimitationsConclusionTable of contents Before releasing a new model, labs need to understand not just what it can do, but how it is likely to behave in real-world use, including where it might introduce new risks. This becomes even more important as capabilities increase. As part of openai.com's pre-deployment safety review, openai.com leverage targeted evaluations, red-teaming, and other checks to understand model behavior. openai.com has now started using a method for simulating model deployments before they happen, which adds a complementary signal: a deployment-like preview of how a candidate model may behave before it reaches users.",
-      "source": "openai.com",
-      "sourceUrl": "https://openai.com/index/deployment-simulation/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-06-16T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://z.ai/blog/glm-5.2?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Z.ai Launches GLM-5.2 for Long-Horizon AI Tasks",
-      "summary": "Z.ai has launched GLM-5.2, a flagship model built for long-horizon AI tasks featuring a stable 1M-token context window. The model introduces IndexShare architecture, which reduces per-token FLOPs by 2.9× at 1M context, and improves speculative decoding acceptance length by 20%. On FrontierSWE benchmarks, GLM-5.2 trails Claude Opus 4.8 by just 1% while beating GPT-5.5 by 1%. Released under an MIT license with no regional restrictions, it scores 81.0 on Terminal-Bench 2.1, making it the top open-source model.",
-      "source": "z.ai",
-      "sourceUrl": "https://z.ai/blog/glm-5.2?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-06-16T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://x.com/midjourney/status/2066994481770213697?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Midjourney to Announce First Hardware Project at San Francisco Launch Event",
-      "summary": "Midjourney will announce its first hardware project on Wednesday, June 17, at 6pm PT during an in-person launch event in San Francisco. The AI image generation company, best known for its text-to-image tools, plans to livestream the event for those unable to attend in person. A limited number of in-person invites were made available to local attendees who replied to the post. No details about the nature of the hardware have been revealed ahead of the announcement.",
-      "source": "Midjourney on X",
-      "sourceUrl": "https://x.com/midjourney/status/2066994481770213697?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-06-16T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://x.com/nickadobos/status/2066929277757800833?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Anysphere Teases New Cursor AI Model Launching in Coming Weeks",
-      "summary": "Anysphere, the company behind Cursor AI, is teasing a new proprietary model set to launch within the next couple of weeks. Announced at the Compile event, the model is reportedly the same size as Claude Opus and GPT-4.5, and has been trained from scratch rather than built on a Kimi base. It uses 10 to 20 times more compute than Cursor's Composer feature and is designed to be generally intelligent, not limited to coding tasks alone.",
-      "source": "Nick Dobos on X",
-      "sourceUrl": "https://x.com/nickadobos/status/2066929277757800833?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-06-16T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://x.com/SpaceX/status/2066873915717136548?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "SpaceX Exercises Option to Acquire Cursor in All-Stock AI Deal",
-      "summary": "SpaceX has exercised an option to acquire Cursor, the AI coding assistant, in an all-stock transaction, with the stated goal of building the world's most useful AI models. Over the past several months, SpaceX AI and Cursor have been jointly training a new model together. That model is expected to be released soon through both the Cursor platform and Grok Build, marking a significant step in SpaceX's expanding artificial intelligence ambitions.",
-      "source": "SpaceX on X",
-      "sourceUrl": "https://x.com/SpaceX/status/2066873915717136548?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-06-16T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://www.midjourney.com/updates/draft-mode-for-v8-1-and-new-feature-previews?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Midjourney Adds Draft Mode for V8.1 and Previews New Features",
-      "summary": "Midjourney has launched Draft Mode for its V8.1 model, generating 24 images per job at lower resolution and quality while consuming only half the fast hours of a standard V8.1 SD job. Users can click Vary on any draft image to render it at full quality and resolution. The feature is toggled via the lightning bolt button in the menubar. Midjourney also introduced a --preview flag letting users test early, unpolished model versions, with feedback requested in the Discord ideas-and-features channel.",
-      "source": "midjourney.com",
-      "sourceUrl": "https://www.midjourney.com/updates/draft-mode-for-v8-1-and-new-feature-previews?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-06-16T00:00:00.000Z",
-      "hot": false
     }
   ]
 }
