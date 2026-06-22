@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2026-06-22T02:00:45.450Z",
+  "lastUpdated": "2026-06-22T06:41:21.908Z",
   "news": [
+    {
+      "id": "https://blogs.nvidia.com/?p=94841",
+      "title": "Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI’s Biggest Machines",
+      "summary": "Hot tubs sit at about 38 to 40 degrees Celsius, warm enough that most people can only soak for about 15 minutes. NVIDIA’s newest AI servers can run their cooling liquid even hotter — up to 45 degrees Celsius, or 113 degrees Fahrenheit. That higher temperature limit is precisely what makes them more energy efficient. The Rubin generation of NVIDIA AI infrastructure is the world’s first to achieve 100% liquid cooling — every chip, every networking component, cooled entirely by liquid in a closed loop with no fans anywhere in the system. This liquid cooling methodology is outlined in the NVIDIA DSX AI factory reference design, a guide that outlines best practices to design, build and operate the entire AI factory infrastructure stack. Although each generation offers significantly more computing power for each watt, full liquid-cooled AI compute infrastructure enables data centers to dramatically reduce cooling energy consumption — making a meaningful difference to overall data center energy use at hyperscale.",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
+      "category": "Events",
+      "date": "2026-06-22T05:00:22.000Z",
+      "hot": false,
+      "officialUrl": "https://blogs.nvidia.com"
+    },
     {
       "id": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
       "title": "Samsung Electronics brings ChatGPT and Codex to employees",
@@ -1242,17 +1253,6 @@
       "date": "2026-06-17T09:00:39.000Z",
       "hot": false,
       "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://news.mit.edu/2026/could-ai-tell-you-where-you-left-your-keys-0617",
-      "title": "Could AI tell you where you left your keys?",
-      "summary": "An auto factory worker can remember the storage bin where she left a partly assembled component the night before, and quickly return to that spot to pick it up. But robots that may work side-by-side with her would struggle to develop and access this same type of “spatiotemporal” memory.Now, MIT researchers have developed a long-term memory framework that allows robots to rapidly form and recall a detailed mental model of complicated, large-scale environments.In the future, this advance could allow the factory worker to send a robotic assistant to fetch the item, simply by asking it to “go and grab the component we started assembling last night.”This new method combines advanced map representations with rich descriptions of the environment that the robot gathers as it travels over a long period of time. The robot can quickly access this memory to answer complex queries about its environment in plain language.This memory framework, which answers questions more accurately than state-of-the-art methods, runs fast enough for a mobile robot to use in real-time.In addition to its potential uses in robotics, this method could have applications in augmented reality systems that aid maintenance workers in anomaly detection or assist commuters in wayfinding.“If we want robots to work side-by-side with humans and interact better with humans, they must speak the same language. The robot must be able to reason about time and space the same way humans do. That is essentially what our met...",
-      "source": "MIT News ML",
-      "sourceUrl": "https://news.mit.edu/2026/could-ai-tell-you-where-you-left-your-keys-0617",
-      "category": "Research",
-      "date": "2026-06-17T04:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://news.mit.edu"
     }
   ]
 }
