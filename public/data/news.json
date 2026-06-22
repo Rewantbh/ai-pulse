@@ -1,6 +1,171 @@
 {
-  "lastUpdated": "2026-06-22T07:30:39.713Z",
+  "lastUpdated": "2026-06-22T13:12:39.221Z",
   "news": [
+    {
+      "id": "https://blogs.nvidia.com/?p=94825",
+      "title": "At ISC, JUPITER Shows What Exascale Science Looks Like",
+      "summary": "JUPITER, Europe’s first exascale supercomputer at Germany’s Forschungszentrum Jülich, runs on NVIDIA Grace Hopper Superchips and NVIDIA Quantum-X800 InfiniBand networking — and it’s had a busy year. As the international supercomputing community gathers at ISC in Hamburg this week, four projects running on JUPITER point to what exascale computing can actually do: map the human brain at cellular scale, simulate the entire Earth’s climate at 1-kilometer resolution, build AI systems for the next generation of wireless networks and simulate a universal 50-qubit quantum computer. “With JUPITER, Europe doesn’t just join the exascale era — it leads it, across the widest range of science and AI of any system worldwide,” said Thomas Lippert, director of the Jülich Supercomputing Centre and professor at Goethe University Frankfurt. Four projects, detailed below, share a throughline: scientific problems that were out of reach on previous hardware are now tractable at exascale. A Foundation Model for Mapping the Brain The Jülich Brain Atlas project — anchored at Jülich’s Institute of Neuroscience and Medicine with partner Helmholtz AI, partner hospital and other Helmholtz institutions — has produced CytoNet, a foundation model for brain microarchitecture analysis. The complexity of the human brain is astonishing.",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/",
+      "category": "Events",
+      "date": "2026-06-22T13:00:48.000Z",
+      "hot": false,
+      "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
+      "id": "https://blogs.nvidia.com/?p=94851",
+      "title": "NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure",
+      "summary": "For the past two years, the U.S. National Science Foundation’s National Artificial Intelligence Research Resource (NAIRR) pilot program has driven innovative research across the U.S. for over 700 projects — spanning protein prediction and infectious disease outbreak management. NVIDIA contributed to the NAIRR pilot through a cloud-based resource that gives researchers dedicated access to a minimum of four NVIDIA DGX nodes for at least a month. NVIDIA also provided technical support to onboard and assist the researchers throughout their projects. With NVIDIA’s AI infrastructure support and DGX reference architecture providing dedicated resources, researchers have collapsed workflow timelines and uncovered notable technologies that will reshape and advance industries such as healthcare, agriculture and energy.",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/",
+      "category": "Events",
+      "date": "2026-06-22T13:00:38.000Z",
+      "hot": false,
+      "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
+      "id": "https://blogs.nvidia.com/?p=94818",
+      "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
+      "summary": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science. The supercomputers will use the HPE Cray Supercomputing GX5000 architecture with the NVIDIA Vera Rubin platform, combining NVIDIA Vera CPUs, NVIDIA Rubin GPUs and NVIDIA Quantum-X800 InfiniBand networking. Under the planned configuration, Mission will include NVIDIA Vera Rubin GPU nodes and 2,300 standalone NVIDIA Vera CPUs using the HPE Cray Supercomputing GX240 blade. Veritas will feature approximately 1,150 standalone NVIDIA Vera CPUs to complement NVIDIA Vera Rubin nodes. Veritas will arrive alongside Mission and Vision and serve the Laboratory Directed Research and Development program, helping accelerate agentic AI for science. The system will test these technologies for use in larger systems being built out at LANL.",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/",
+      "category": "Events",
+      "date": "2026-06-22T13:00:20.000Z",
+      "hot": false,
+      "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
+      "id": "https://blogs.nvidia.com/?p=94790",
+      "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Di...",
+      "summary": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code, coming soon — turn work that once took hours or days on CPUs into real-time, GPU-accelerated pipelines. They’re a part of NVIDIA CUDA-X, a collection of tools and libraries that deliver dramatically higher performance across application domains, including AI and high-performance computing. These performance gains are large and have real impact. Across disciplines, scientists are using AI and accelerated computing to generate data and insights with instruments and surveys faster than ever. For example, running on NVIDIA GB200 NVL72 systems, cuPhoton speeds loading, reading, processing and analysis of FITS data — the standard astronomical file format — from observatories and telescopes.",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
+      "category": "Events",
+      "date": "2026-06-22T13:00:20.000Z",
+      "hot": false,
+      "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
+      "id": "https://blogs.nvidia.com/?p=94802",
+      "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
+      "summary": "The next era of AI will not be defined by compute alone. Its growth will be determined by energy. As accelerated computing scales across AI factories, agentic AI, industrial AI, edge computing and physical AI — including robotics and autonomous systems — global electricity demand is rising at unprecedented speed. In many regions, expanding grid infrastructure to meet that need requires years of permitting, transmission upgrades, land acquisition and capital investment. This challenge is reshaping how the world thinks about energy infrastructure for AI. Eco Wave Power, a member of the NVIDIA Inception startup program’s Sustainable Futures initiative, is developing technology — powered by NVIDIA AI infrastructure and digital twins — that converts energy from ocean waves into clean electricity using existing marine infrastructure.",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/",
+      "category": "Events",
+      "date": "2026-06-22T13:00:13.000Z",
+      "hot": false,
+      "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
+      "id": "108324655",
+      "title": "Tencent tests AI assistant in China's most popular app as it looks to catch up with rivals",
+      "summary": "WeChat is an indispensable part of daily life in China and Tencent is trying to tap into its huge user base to expand use of its AI services.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/06/22/tencent-ai-assistant-wechat-china.html",
+      "category": "Business",
+      "date": "2026-06-22T12:53:53.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=371760",
+      "title": "Bitcoin 'Resilient' After Hawkish Fed, But No 'Return of Demand': Analysts",
+      "summary": "With ETF outflows persisting and selling \"nearly exhausted,\" analysts say Bitcoin is range-bound and waiting for a catalyst.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/371760/bitcoin-resilient-after-hawkish-fed-but-no-return-of-demand-analysts",
+      "category": "Tech",
+      "date": "2026-06-22T12:12:25.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "05H5uZ9Xs7C6plr5Za754E0",
+      "title": "The 4 best iPads of 2026: Should you buy the 2026 iPad Air with M4 chip?",
+      "summary": "At this point, iPads can do (almost) anything your laptop can do thanks to iPadOS 26. Not to mention, the iPad Air with M4 just got a memory boost up to 12GB, putting it a tier above some laptops. Whether you want to stream, browse the internet, illustrate, or edit videos, you can do it on the iPad. Recent developments in the Pro and Air models also set them up as gaming devices.The rapid pace of Apple's update schedule makes shopping for a tablet all the more difficult. So, Mashable tested every model to help you find the best iPad for you.And if you are ready to buy, the best time to do so is during Prime Day, which runs June 23 to June 26. Mashable hope to see new, all-time low prices during Prime Day, but what's the price to beat?How much will iPads be on Prime Day?Since Mashable can't predict the future, Mashable can only rely on past data to know how cheap iPads will be during Prime Day.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/roundup/best-ipads-2026",
+      "category": "Tech",
+      "date": "2026-06-22T11:50:16.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "05ayk4RwLY2Rq52BvLllpLS",
+      "title": "The best deals this week, according to Mashables team of shopping experts",
+      "summary": "Mashable is always looking for new and inventive ways to hit you with big savings on popular items. Mashable cover hundreds of deals every month. Mashable has also launched a Mashable Deals text group. The daily deals that Mashable send to this group are researched and assessed by the team with the same level of care that Mashable dedicate to the rest of Mashable's shopping content. You can find a live hub for those deals right here.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/gifts/best-deals-this-week",
+      "category": "Tech",
+      "date": "2026-06-22T11:40:56.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/?p=4363041",
+      "title": "Anthropic’s Fable 5 Withdrawal Underscores Importance and Difficulty of ‘sovereign AI’ Strategies",
+      "summary": "Anthropic’s abrupt Fable 5 withdrawal due to US export controls underscores the urgent need for UK and European sovereign AI infrastructure.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/fable-5-withdrawal-underscores-difficulty-sovereign-ai/",
+      "category": "Business",
+      "date": "2026-06-22T11:23:08.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+      "title": "Read this before you vibe-code another app",
+      "summary": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until months after the site went live that he realized there was a problem: a hidden SQL injection risk. It could've left the site open for an attacker to read or alter data they shouldn't have access to. \"It was just a glaring oversight on my part. It was a complete blindspot in my state of learning this new technology and understanding it, and I'm sure there are others making the same mistake,\" said Starr, a project manager in the tech sector.",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+      "category": "Industry",
+      "date": "2026-06-22T11:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "00RU7CN3lUnz1QfcyEuh3o2",
+      "title": "The best AirPods deals ahead of Prime Day — AirPods Pro 3 are at a record-low price",
+      "summary": "The best early Prime Day deals on AirPods: Best AirPods Pro 3 Deal Apple AirPods Pro 3 $179.99 (save $70) Get Deal Best AirPods 4 Deal Apple AirPods 4 $99 (save $30 at Amazon) Get Deal Best AirPods 4 with ANC deal Apple AirPods 4 with ANC $148.99 (save $30 at Amazon) Get Deal Best Apple headphones deal Apple AirPods Max 2 $499 (save $50 at Amazon) Get Deal Amazon Prime Day season is upon Mashable, and the mega-retailer isn't waiting until the sale proper to drop deals on AirPods.While Prime Day usually takes place in mid-July, it got bumped up in the schedule this year: the four-day sale will now take place from June 23 to June 26. With less than a day left before the sale, Apple products are starting to get marked down. Already, a classic $99 deal on Apple AirPods 4 wireless earbuds is available at Amazon, and Mashable is expecting even more discounts to drop during the sale itself. SEE ALSO: Prime Day is almost here: Mashable found 50+ early deals And if you prefer AirPods with active noise-cancellation, you're in luck. Mashable has seen the Apple AirPods Pro 3 as low as $179.99. Also at Amazon, you can grab a deal on the AirPods 4 with ANC earbuds starting at $148.99, saving you $30.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/best-early-prime-day-airpods-deals-2026",
+      "category": "Tech",
+      "date": "2026-06-22T10:57:50.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "05Cz3E2qAQwOi1ctwFauiWZ",
+      "title": "All of Apples iPads are on sale ahead of Prime Day, but you should probably wait to buy",
+      "summary": "The best early Prime Day iPad deals: Best iPad deal Apple iPad, 11-inch (A16, 128GB, WiFi) $299 (Save $50) Get Deal Best iPad Air deal Apple iPad Air, 11-inch (M4, 128GB, WiFi) $559 (Save $40) Get Deal Best iPad Pro deal Apple iPad Pro, 11-inch (M5, 256GB, WiFi) $899.99 (Save $99.01) Get Deal Is your summer travel booked? If you're getting ready to jet set or hit the road but don't want to lug your laptop around, then it might be time to consider a tablet. Mashable's favorites for performance and overall value are Apple's iPads. So with Prime Day kicking off tomorrow, and running until June 26, Mashable is looking for the best deals on Apple's tablets.Prime Day doesn't officially start until tomorrow, but iPads are already on sale. Don't get too excited, though. While Mashable found deals on every single iPad model, the markdowns are pretty minor.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/best-early-prime-day-ipad-deals-2026",
+      "category": "Tech",
+      "date": "2026-06-22T10:53:20.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "6a33f50c6f296421860803f8",
+      "title": "World Cup Scams Are Getting Harder to Spot",
+      "summary": ". You got a World Cup ticket. It arrived in your inbox with a QR code, professional branding, and a confirmation email that looked like the real thing. For years, spotting a scam was relatively simple. A suspicious email address, broken English, or an obvious typo were often enough to raise suspicion. But at the 2026 FIFA World Cup, those old warning signs are disappearing. AI-generated websites, deepfake videos, fabricated audio, and convincing phishing campaigns are making it easier than ever for criminals to impersonate legitimate organizations.",
+      "source": "Wired AI",
+      "sourceUrl": "https://www.wired.com/story/world-cup-scams-are-getting-harder-to-spot/",
+      "category": "Industry",
+      "date": "2026-06-22T09:30:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.wired.com"
+    },
+    {
+      "id": "00zTqktySmGrYibaOhvtLlf",
+      "title": "New Apple AirTags are finally on sale at Amazon — save $10 with this record-low deal",
+      "summary": "SAVE $10: As of June 22, the Apple AirTag four-pack is on sale for $89 at Amazon. That's a 10% discount on the list price. Opens in a new window Credit: Apple Apple AirTag 4-Pack (2nd Generation) $89 at Amazon $99 Save $10 &nbsp; Get Deal Prime Day is a great opportunity to save on Apple products such as AirTags, and with the event starting tomorrow, Amazon has already launched a best-ever deal on 2nd generation trackers. As of June 22, the Apple AirTag 4-Pack (2nd Generation) is down to $89 at Amazon. That's the best-ever price and saves you $10 on list price. Mashable Deals Be the first to know!",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/june-22-apple-airtags-deal",
+      "category": "Tech",
+      "date": "2026-06-22T09:03:23.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
     {
       "id": "https://blogs.nvidia.com/?p=94841",
       "title": "Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI’s Biggest Machines",
@@ -22,17 +187,6 @@
       "date": "2026-06-21T23:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "00XFQv5gZnGhqKcMkAe7l2d",
-      "title": "Score 100TB of encrypted cloud storage for life during Deal Days",
-      "summary": "TL;DR: Get a lifetime subscription to 100TB of Internxt encrypted cloud storage for $974.97 (reg. $9,900) through June 28 at 11:59 p.m. Opens in a new window Credit: Internxt Internxt Cloud Storage Lifetime Subscription: 100TB $974.97 $9,900 Save $8,925.03 &nbsp; Get Deal Cloud storage is one of those expenses that tends to grow alongside your files. The more photos, videos, projects, and backups you accumulate, the more capacity you need. Deal Days, Mashable&rsquo;s version of Prime Day, is bringing steep discounts on software and tech through June 28, including the Internxt Cloud Storage Lifetime Subscription: 100TB for $974.97 (reg. $9,900).With 100TB of capacity, Internxt is built for businesses, agencies, creative teams, and anyone managing an abundant collections of files.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/june-21-internxt-cloud-storage-lifetime-subscription-100tb",
-      "category": "Tech",
-      "date": "2026-06-21T22:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
     },
     {
       "id": "https://decrypt.co/?p=371722",
@@ -79,17 +233,6 @@
       "officialUrl": "https://decrypt.co"
     },
     {
-      "id": "04Nu2VW8QimE3BwOQ2PMw9I",
-      "title": "T-Mobile is giving away the Apple iPhone 17 for free — how to claim",
-      "summary": "TL;DR: The iPhone 17e, iPhone 17, or iPhone 17 Pro are available for free with T-Mobile. Here's everything you need to know to qualify for this promotion. Opens in a new window Credit: Apple Apple iPhone 17 Free when you trade in your eligible phone on an Experience More or Experience Beyond plan. Shop Now Opens in a new window Credit: Apple Apple iPhone 17 Pro Free when you switch to T-Mobile and bring your number on an Experience More or Experience Beyond plan. Tim Cook says iPhone price increases are unavoidable due to an ongoing memory chip price crunch that won't end anytime soon. That's bad news for iPhone aficionados, but fortunately, mobile carriers like T-Mobile are continuing to drop free deals for savvy shoppers.Want to switch networks or finally upgrade?",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/june-20-free-apple-iphone-deal",
-      "category": "Tech",
-      "date": "2026-06-21T10:35:18.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
       "id": "6414b6effd989ed72a05dc47",
       "title": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
       "summary": "ChatGPT, Google Gemini, and other tools like them are making artificial intelligence available to the masses. Wired AI can now get all sorts of responses back on almost any topic imaginable. These chatbots can compose sonnets, write code, get philosophical, and automate tasks. However, while you can just type anything you like into ChatGPT and get it to understand you, there are ways of getting more interesting and useful results out of the bot. This “prompt engineering” is becoming a specialized skill of its own. Sometimes all it takes is the addition of a few more words or an extra line of instruction and you can get ChatGPT responses that are a level above what everyone else is seeing—and Wired AI&#x27;ve included several examples below.",
@@ -99,17 +242,6 @@
       "date": "2026-06-21T10:30:00.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "01Vl5OwZ67biIogtnGixnS5",
-      "title": "Don’t pay $199 for Windows 11 Pro when it’s currently just $13",
-      "summary": "TL;DR: Microsoft Windows 11 Pro is down to just $12.97, giving users an easy OS upgrade with advanced security, productivity tools, gaming features, and Copilot AI. Opens in a new window Credit: Microsoft Microsoft Windows 11 Pro $12.97 $199 Save $186.03 &nbsp; Get Deal Some upgrades just feel right. This is one of them.If your PC has been running a little sluggish or you&rsquo;ve been meaning to&nbsp;bring your system up to speed, Windows 11 Pro is just $12.97 (reg. $199) &mdash; a rare, time-sensitive offer that rewards quick, savvy decisions. Mashable Deals Be the first to know! Get editor selected deals texted right to your phone!",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/june-21-microsoft-windows-11-pro-deal",
-      "category": "Tech",
-      "date": "2026-06-21T09:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
     },
     {
       "id": "https://techcrunch.com/?p=3134719",
@@ -198,28 +330,6 @@
       "date": "2026-06-20T10:00:00.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "03mgPIvyvB9dcMjBy0Ra24T",
-      "title": "Get lifetime access to Claude, Gemini, and Gemini for just $55 — the lowest price ever",
-      "summary": "TL;DR: Through June 28, ChatPlayground AI&rsquo;s Unlimited Lifetime Plan is down to its lowest price ever: $54.97 (reg. Opens in a new window Credit: ChatPlayground AI ChatPlayground AI: Lifetime Subscription (Unlimited Plan) $54.97 $619 Save $564.03 &nbsp; Get Deal There are plenty of AI tools available today, but very few let you compare the industry&rsquo;s biggest names in one workspace. A one-time payment of $54.97 isn&rsquo;t just a good price for ChatPlayground AI &mdash; it&rsquo;s the lowest price anywhere for lifetime access.That&rsquo;s a big deal if you&rsquo;ve been exploring AI tools and finding yourself buried under tabs and subscription fees. Mashable Deals Be the first to know! Get editor selected deals texted right to your phone! Get editor selected deals texted right to your phone!",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/june-20-chatplayground-ai-unlimited-plan-lifetime-subscriptions",
-      "category": "Tech",
-      "date": "2026-06-20T09:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
-      "id": "047xOEYOnOEecsjWgBrVQtN",
-      "title": "Get Claude, ChatGPT, and Gemini in a single lifetime AI platform for under $70",
-      "summary": "TL;DR: Get lifetime access to the 1min.AI Advanced Business Plan for $69.97 (reg. $540) and access writing, image, PDF, audio, and video AI tools in one platform. Opens in a new window Credit: 1minAI 1min.AI Advanced Business Plan Lifetime Subscription $69.97 $540 Save $470.03 &nbsp; Get Deal At a certain point, using AI starts to feel less like trying cool tools and more like managing a chaotic collection of browser tabs, subscriptions, and disconnected workflows. That&rsquo;s the very problem 1min.AI is trying to solve.For a one-time $69.97, users can get lifetime access to the 1min.AI Advanced Business Plan instead of paying the regular $540 price. That&rsquo;s a huge difference for a platform designed to consolidate a huge range of AI tools into one dashboard. Mashable Deals Be the first to know!",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/june-20-1minai-advanced-business-plan-lifetime-subscription",
-      "category": "Tech",
-      "date": "2026-06-20T09:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
     },
     {
       "id": "https://techcrunch.com/?p=3134219",
@@ -400,7 +510,7 @@
     {
       "id": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
       "title": "Barret Zoph is out at OpenAI again after just five months",
-      "summary": "He rejoined the company in January after a stint as co-founder of Mira Murati’s competitor, Thinking Machines Lab. He rejoined the company in January after a stint as co-founder of Mira Murati’s competitor, Thinking Machines Lab. Five months after returning to OpenAI, Barret Zoph — the company’s head of enterprise AI sales — has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati. Shortly after Zoph returned to OpenAI, the company said he would lead its push into enterprise — a significant role at OpenAI, since in recent months it had vowed to stop chasing so-called “side quests” and focus on key revenue drivers like enterprise and coding ahead of its planned IPO. OpenAI confirmed to The Verge that Zoph will be departing.",
+      "summary": "He rejoined the company in January after a stint as cofounder of Mira Murati’s competitor, Thinking Machines Lab. He rejoined the company in January after a stint as cofounder of Mira Murati’s competitor, Thinking Machines Lab. Five months after returning to OpenAI, Barret Zoph — the company’s head of enterprise AI sales — has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as cofounder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati. Shortly after Zoph returned to OpenAI, the company said he would lead its push into enterprise — a significant role at OpenAI, since in recent months it had vowed to stop chasing so-called “side quests” and focus on key revenue drivers like enterprise and coding ahead of its planned IPO. OpenAI confirmed to The Verge that Zoph will be departing.",
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
       "category": "Industry",
@@ -483,17 +593,6 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
-      "id": "https://decrypt.co/?p=371613",
-      "title": "China’s Z.AI Releases GLM-5.2: A Model That Rivals Claude Opus—Using Zero Nvidia Chips",
-      "summary": "Z.ai's GLM-5.2 sits within 1% of Claude Opus 4.8 on long-horizon coding benchmarks, runs entirely on Huawei silicon, and undercuts Western frontier models by up to 82% per token.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/371613/china-z-ai-glm-5-2-model-rivals-claude-opus",
-      "category": "Tech",
-      "date": "2026-06-18T21:26:34.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
       "id": "https://techcrunch.com/?p=3134299",
       "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
       "summary": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
@@ -503,17 +602,6 @@
       "date": "2026-06-18T21:20:13.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=371606",
-      "title": "Midjourney Pivots From AI Images to Medical Imaging, Aiming to Build a Better MRI Alternative",
-      "summary": "Image generation company Midjourney is developing a full-body imaging system that combines ultrasound tech with AI smarts.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/371606/midjourney-pivots-ai-images-medical-imaging-build-better-mri",
-      "category": "Tech",
-      "date": "2026-06-18T21:18:41.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
     },
     {
       "id": "6a3421d2c4345807635a205c",
@@ -655,17 +743,6 @@
       "sourceUrl": "https://www.cnbc.com/2026/06/18/apples-upcoming-price-hikes-are-good-for-the-company-not-so-good-for-consumers.html",
       "category": "Business",
       "date": "2026-06-18T15:55:50.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "108323704",
-      "title": "Godfather of AI blasts Musk's xAI as 'failure,' says labs are risking a 'big bubble explosion'",
-      "summary": "Yann LeCun's comments renew a long-running spat with Musk and cast doubt over valuations of some of the world's biggest AI companies.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/06/18/yann-lecun-elon-musk-xai-failure-ai-labs-bubble-risk.html",
-      "category": "Business",
-      "date": "2026-06-18T15:01:09.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
     },
@@ -1079,17 +1156,6 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
-      "id": "6a303ac712f94a9969889fad",
-      "title": "Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital",
-      "summary": "Courtesy of Courtesy of Will Knight; Getty Images At IO-AI Tech, a startup about 45 minutes north of downtown Shenzhen, China, the author glimpsed a wacky new frontier of blue-collar work. Workers wearing the company&#x27;s VR headsets, handheld controllers, and motion-tracking gear remotely control humanoid robots for workplaces like factory floors and convenience stores. The company wants the robots to do useful work, like stocking shelves and picking items out of bins, but it also wants to gather training data that could one day let the bots operate autonomously. To show off the tech, the company invited the author to its offices, where the author was allowed to control 10 humanoid robotic hands, each from a different company, using a custom motion-tracking glove. The device instantly transferred the author's finger movements to all 50 robotic digits. the author is a little embarrassed to say that the first thing the author tried with this futuristic gear was getting all 10 hands to flip the bird.",
-      "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/",
-      "category": "Industry",
-      "date": "2026-06-17T18:25:35.000Z",
-      "hot": false,
-      "officialUrl": "https://www.wired.com"
-    },
-    {
       "id": "https://www.techrepublic.com/article/news-neat-infocomm-ai-meeting-rooms/",
       "title": "Modernizing Meeting Spaces: How Agentic Control and Intelligent Framing Redefine Hybrid Work",
       "summary": "Neat is using agentic AI, intelligent framing, and flexible room modes to turn passive video endpoints into “thinking spaces,” giving IT a blueprint to modernize meeting rooms for hybrid work.",
@@ -1099,28 +1165,6 @@
       "date": "2026-06-17T18:18:32.000Z",
       "hot": false,
       "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
-      "title": "Two-thirds of Americans think AI is advancing too quickly",
-      "summary": "According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has increased dramatically since 2024, when only 33 percent reported using them. Specifically, ChatGPT's usage has doubled since 2023, with 44 percent of respondents saying they've used it. But opinions remain negative, with only 16 percent saying that AI will have a positive impact on society. Interestingly, it's the younger generations who both report using AI more and who are inclined to have a more pessimistic view. 66 percent of Americans betw …",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
-      "category": "Industry",
-      "date": "2026-06-17T17:20:24.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
-      "id": "6a3065c2f47e703174d70436",
-      "title": "The White House Wants Anthropic to Block All Jailbreaks. That May Not Be Possible",
-      "summary": "The Trump administration’s disagreement with Anthropic over its most advanced AI models appears to be fast coming to a head. Trump officials tell Inner Loop that if Anthropic wants to rerelease Claude Fable 5, the AI model that they took offline with export controls last week over concerns about jailbreaking—a method of using prompts to get around a model’s safeguards—the company will need to take steps to actually address what the government alleges are vulnerabilities. Anthropic has said for days that the administration’s concerns are overblown and that the effects of the jailbreaks are minimal. It reiterated this position to the Commerce Department and the Office of the National Cyber Director, Sean Cairncross, in a technical meeting on Monday. But officials say they are past arguing whether the jailbreaks are significant, since the National Security Agency concluded that there are ways to disable guardrails on Fable 5, which are put in place to prevent users from accessing capabilities of the Mythos model related to cybersecurity, chemistry, and biology. At this stage, the administration essentially views the situation as Anthropic’s problem to fix, according to three people familiar with discussions.",
-      "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/the-white-house-wants-anthropic-to-block-all-jailbreaks-that-may-not-be-possible/",
-      "category": "Industry",
-      "date": "2026-06-17T17:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.wired.com"
     },
     {
       "id": "https://www.techrepublic.com/article/news-apple-private-icloud-email-domain/",
@@ -1185,72 +1229,6 @@
       "sourceUrl": "https://www.techrepublic.com/article/news-google-android-june-2026-system-updates/",
       "category": "Business",
       "date": "2026-06-17T13:26:16.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/article/singapore-ai-security-risk-apac/",
-      "title": "Why Singapore’s AI Lead May Also Be Its Biggest Security Risk",
-      "summary": "Singapore’s enterprises are among the most AI-ready in the world. They are also walking into a threat environment built to exploit that.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/singapore-ai-security-risk-apac/",
-      "category": "Business",
-      "date": "2026-06-17T12:19:55.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/article/news-spacex-amazon-ai-valuation/",
-      "title": "SpaceX Passes Amazon in Market Value as AI Infrastructure Bets Surge",
-      "summary": "SpaceX’s $2.7 trillion valuation puts Starlink, launch services, AI infrastructure, and vendor concentration risk in sharper focus for enterprise technology buyers.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-spacex-amazon-ai-valuation/",
-      "category": "Business",
-      "date": "2026-06-17T11:32:22.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-      "category": "Research",
-      "date": "2026-06-17T10:18:05.000Z",
-      "hot": false,
-      "officialUrl": "https://huggingface.co"
-    },
-    {
-      "id": "https://openai.com/index/ai-chemist-improves-reaction",
-      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-      "summary": "With Molecule.one’s Maria, GPT‑5.4 found a surprising additive boosting Chan-Lam Coupling yields for over 80% of tested substrates. ShareWhy the chemistry problem mattersWhy the chemistry problem mattersConnecting GPT-5.4 to Maria AI and LabWhat OpenAI foundLimitationsPreparednessWhat&#x27;s nextTable of contents OpenAI’s work in science is motivated by a simple belief: advanced AI can become a powerful partner for scientists, helping them explore more ideas, connect distant concepts, design better experiments, and accelerate discoveries that benefit humanity. OpenAI have already shared early examples of models contributing to novel results in mathematics, including work on the unit distance problem⁠, in theoretical physics, through a new result on gluon amplitudes⁠, and in biology, where GPT‑5 helped lower the cost of cell-free protein synthesis⁠ in an automated lab. OpenAI also introduced GPT‑Rosalind⁠, a purpose-built model to support life sciences research and drug discovery workflows. This project extends that trajectory into medicinal chemistry, where progress cannot be measured by reasoning alone.",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/ai-chemist-improves-reaction",
-      "category": "Models",
-      "date": "2026-06-17T10:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://huggingface.co/blog/zai-org/glm-52-blog",
-      "title": "GLM-5.2: Built for Long-Horizon Tasks",
-      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog/zai-org/glm-52-blog",
-      "category": "Research",
-      "date": "2026-06-17T09:01:25.000Z",
-      "hot": false,
-      "officialUrl": "https://huggingface.co"
-    },
-    {
-      "id": "https://www.techrepublic.com/?p=4133860",
-      "title": "7 Best AI Art Generators for 2026: Top Tools for Stunning Digital Art",
-      "summary": "This is a comprehensive list of the best AI art generators. Explore the advanced technology that transforms imagination into notable artworks.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/best-ai-art-generators/",
-      "category": "Business",
-      "date": "2026-06-17T09:00:39.000Z",
       "hot": false,
       "officialUrl": "https://www.techrepublic.com"
     }
