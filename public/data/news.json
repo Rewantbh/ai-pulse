@@ -1,6 +1,50 @@
 {
-  "lastUpdated": "2026-06-23T00:10:26.368Z",
+  "lastUpdated": "2026-06-23T04:39:26.863Z",
   "news": [
+    {
+      "id": "https://news.mit.edu/2026/new-chip-could-help-tiny-robots-traverse-complex-environments-0623",
+      "title": "New chip could help tiny robots traverse complex environments",
+      "summary": "A new chip developed by MIT researchers could help tiny, low-power UAVs avoid obstacles as they zip around tight corners inside an industrial HVAC system to check for gas leaks.The chip allows small autonomous robots and other battery-limited devices to construct detailed 3D maps of their environments in real-time using only about as much power as a single LED. A robot could use such a map to plan a collision-free path to reach its goal.Typically, generating such thorough maps requires power-hungry systems and a great deal of memory to build and store 3D representations of the obstacles in a robot’s environment.The MIT researchers took a different approach by combining an extremely efficient mapping algorithm with specialized hardware designed to accelerate its workload, which minimizes memory and power consumption.&nbsp;This system-on-a-chip consumes only about 6 milliwatts of power, a fraction of the power required by other systems.&nbsp;This low-power operation could also make the chip well-suited for lightweight augmented reality headsets that can be worn for extended periods, for applications like educational medical simulation or detailed repair and assembly work.“This paper showcases a key example of how you can leverage co-design of the algorithm and hardware to really push energy efficiency. While there has been a lot of work looking into compact 3D maps, what stands out about this work is that it also ensures that the process to generate those maps is as efficien...",
+      "source": "MIT News ML",
+      "sourceUrl": "https://news.mit.edu/2026/new-chip-could-help-tiny-robots-traverse-complex-environments-0623",
+      "category": "Research",
+      "date": "2026-06-23T04:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://news.mit.edu"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3132769",
+      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "category": "Business",
+      "date": "2026-06-23T01:27:55.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "108325064",
+      "title": "Tesla faces federal probe after Model 3 slams into Texas home, killing 76-year-old",
+      "summary": "Harris County authorities said that the driver, Michael Butler, said that he had been using Tesla's partially automated driving systems.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/06/22/tesla-nhtsa-model-3-crash-autopilot-katy-texas.html",
+      "category": "Business",
+      "date": "2026-06-23T00:44:14.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3135162",
+      "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+      "summary": "OpenAI is attempting to tackle the security issues of the open source software community.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+      "category": "Business",
+      "date": "2026-06-23T00:11:31.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
     {
       "id": "03pG6O6lL2AW6pUGOvJX1ck",
       "title": "Prime Day 2026: Live updates on Apple, Samsung, DJI, Kindle, and more Amazon deals",
@@ -44,17 +88,6 @@
       "date": "2026-06-22T22:35:24.000Z",
       "hot": false,
       "officialUrl": "https://mashable.com"
-    },
-    {
-      "id": "108325064",
-      "title": "Tesla faces federal probe after Model 3 slams into Texas home, killing 76-year-old",
-      "summary": "Harris County authorities said that the driver, Michael Butler, said that he had been using Tesla's partially automated driving systems.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/06/22/tesla-nhtsa-model-3-crash-autopilot-katy-texas.html",
-      "category": "Business",
-      "date": "2026-06-22T22:18:22.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "02EQHjPjdnVD14DbxXLiM9t",
@@ -420,22 +453,22 @@
       "officialUrl": "https://blogs.nvidia.com"
     },
     {
-      "id": "https://blogs.nvidia.com/?p=94818",
-      "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
-      "summary": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science. The supercomputers will use the HPE Cray Supercomputing GX5000 architecture with the NVIDIA Vera Rubin platform, combining NVIDIA Vera CPUs, NVIDIA Rubin GPUs and NVIDIA Quantum-X800 InfiniBand networking. Under the planned configuration, Mission will include NVIDIA Vera Rubin GPU nodes and 2,300 standalone NVIDIA Vera CPUs using the HPE Cray Supercomputing GX240 blade. Veritas will feature approximately 1,150 standalone NVIDIA Vera CPUs to complement NVIDIA Vera Rubin nodes. Veritas will arrive alongside Mission and Vision and serve the Laboratory Directed Research and Development program, helping accelerate agentic AI for science. The system will test these technologies for use in larger systems being built out at LANL.",
+      "id": "https://blogs.nvidia.com/?p=94790",
+      "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Di...",
+      "summary": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code, coming soon — turn work that once took hours or days on CPUs into real-time, GPU-accelerated pipelines. They’re a part of NVIDIA CUDA-X, a collection of tools and libraries that deliver dramatically higher performance across application domains, including AI and high-performance computing. These performance gains are large and have real impact. Across disciplines, scientists are using AI and accelerated computing to generate data and insights with instruments and surveys faster than ever. For example, running on NVIDIA GB200 NVL72 systems, cuPhoton speeds loading, reading, processing and analysis of FITS data — the standard astronomical file format — from observatories and telescopes.",
       "source": "NVIDIA Blog",
-      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/",
+      "sourceUrl": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
       "category": "Events",
       "date": "2026-06-22T13:00:20.000Z",
       "hot": false,
       "officialUrl": "https://blogs.nvidia.com"
     },
     {
-      "id": "https://blogs.nvidia.com/?p=94790",
-      "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Di...",
-      "summary": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code, coming soon — turn work that once took hours or days on CPUs into real-time, GPU-accelerated pipelines. They’re a part of NVIDIA CUDA-X, a collection of tools and libraries that deliver dramatically higher performance across application domains, including AI and high-performance computing. These performance gains are large and have real impact. Across disciplines, scientists are using AI and accelerated computing to generate data and insights with instruments and surveys faster than ever. For example, running on NVIDIA GB200 NVL72 systems, cuPhoton speeds loading, reading, processing and analysis of FITS data — the standard astronomical file format — from observatories and telescopes.",
+      "id": "https://blogs.nvidia.com/?p=94818",
+      "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
+      "summary": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science. The supercomputers will use the HPE Cray Supercomputing GX5000 architecture with the NVIDIA Vera Rubin platform, combining NVIDIA Vera CPUs, NVIDIA Rubin GPUs and NVIDIA Quantum-X800 InfiniBand networking. Under the planned configuration, Mission will include NVIDIA Vera Rubin GPU nodes and 2,300 standalone NVIDIA Vera CPUs using the HPE Cray Supercomputing GX240 blade. Veritas will feature approximately 1,150 standalone NVIDIA Vera CPUs to complement NVIDIA Vera Rubin nodes. Veritas will arrive alongside Mission and Vision and serve the Laboratory Directed Research and Development program, helping accelerate agentic AI for science. The system will test these technologies for use in larger systems being built out at LANL.",
       "source": "NVIDIA Blog",
-      "sourceUrl": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
+      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/",
       "category": "Events",
       "date": "2026-06-22T13:00:20.000Z",
       "hot": false,
@@ -507,22 +540,22 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
-      "id": "https://openai.com/index/daybreak-securing-the-world",
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "summary": "New tools, partnerships, and the full version of GPT‑5.5‑Cyber to move past vulnerability discovery and onto the acceleration of end-to-end patch automation. Loading…ShareCyber defense at an inflection pointCyber defense at an inflection pointFrom findings to fixes with Codex SecurityUpdating GPT-5.5-Cyber: pairing capability with permissivenessWorking with the security ecosystemPatch the Planet: landing fixes in open-sourceProtecting critical infrastructure and sensitive systemsWhat comes nextTable of contents OpenAI is expanding Daybreak⁠ to help democratize patching vulnerable software at machine speed. For example, OpenAI has applied OpenAI's models to discover and generate patches for critical vulnerabilities⁠ in major browsers, network infrastructure, and operating systems such as FreeBSD and the Linux kernel. To scale the impact of these capabilities: AI has changed the physics of cybersecurity.",
+      "id": "https://openai.com/index/patch-the-planet",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "summary": "Loading…ShareHow Patch the Planet worksHow Patch the Planet worksEarly field notes and findings from developersWhat OpenAI Daybreak is already findingOperating systemsNetworkBrowsersShared infrastructure, shared defenseTable of contents OpenAI is introducing Patch the Planet, a Daybreak⁠ initiative built with Trail of Bits to help maintainers strengthen the critical open-source software the world relies on. OpenAI is pairing AI-assisted security research using OpenAI's most cyber-capable models with expert human review to not only identify vulnerabilities, but help patch them. AI is accelerating vulnerability discovery, but discovery alone does not protect users. Many maintainers are already being asked to sort through more reports, more quickly, with the same limited time and resources. Patch the Planet is built to reduce that burden, not add to it: security engineers review findings before they reach maintainers, work with projects to develop patches and tests, and build reusable workflows that help teams continue improving security after the first fixes land.",
       "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/daybreak-securing-the-world",
+      "sourceUrl": "https://openai.com/index/patch-the-planet",
       "category": "Models",
       "date": "2026-06-22T10:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
     },
     {
-      "id": "https://openai.com/index/patch-the-planet",
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "summary": "Loading…ShareHow Patch the Planet worksHow Patch the Planet worksEarly field notes and findings from developersWhat OpenAI Daybreak is already findingOperating systemsNetworkBrowsersShared infrastructure, shared defenseTable of contents OpenAI is introducing Patch the Planet, a Daybreak⁠ initiative built with Trail of Bits to help maintainers strengthen the critical open-source software the world relies on. OpenAI is pairing AI-assisted security research using OpenAI's most cyber-capable models with expert human review to not only identify vulnerabilities, but help patch them. AI is accelerating vulnerability discovery, but discovery alone does not protect users. Many maintainers are already being asked to sort through more reports, more quickly, with the same limited time and resources. Patch the Planet is built to reduce that burden, not add to it: security engineers review findings before they reach maintainers, work with projects to develop patches and tests, and build reusable workflows that help teams continue improving security after the first fixes land.",
+      "id": "https://openai.com/index/daybreak-securing-the-world",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "summary": "New tools, partnerships, and the full version of GPT‑5.5‑Cyber to move past vulnerability discovery and onto the acceleration of end-to-end patch automation. Loading…ShareCyber defense at an inflection pointCyber defense at an inflection pointFrom findings to fixes with Codex SecurityUpdating GPT-5.5-Cyber: pairing capability with permissivenessWorking with the security ecosystemPatch the Planet: landing fixes in open-sourceProtecting critical infrastructure and sensitive systemsWhat comes nextTable of contents OpenAI is expanding Daybreak⁠ to help democratize patching vulnerable software at machine speed. For example, OpenAI has applied OpenAI's models to discover and generate patches for critical vulnerabilities⁠ in major browsers, network infrastructure, and operating systems such as FreeBSD and the Linux kernel. To scale the impact of these capabilities: AI has changed the physics of cybersecurity.",
       "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/patch-the-planet",
+      "sourceUrl": "https://openai.com/index/daybreak-securing-the-world",
       "category": "Models",
       "date": "2026-06-22T10:00:00.000Z",
       "hot": false,
@@ -773,28 +806,6 @@
       "date": "2026-06-19T18:00:00.000Z",
       "hot": false,
       "officialUrl": "https://news.mit.edu"
-    },
-    {
-      "id": "https://techcrunch.com/?post_type=tc_video&p=3134608",
-      "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
-      "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails. Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is […]",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
-      "category": "Business",
-      "date": "2026-06-19T16:08:17.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://techcrunch.com/?post_type=tc_podcast&p=3134607",
-      "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
-      "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails. Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is […]",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
-      "category": "Business",
-      "date": "2026-06-19T16:01:03.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
     },
     {
       "id": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
