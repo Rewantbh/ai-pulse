@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2026-06-25T04:42:55.646Z",
+  "lastUpdated": "2026-06-25T05:15:38.819Z",
   "news": [
+    {
+      "id": "108325286",
+      "title": "Anthropic's latest hiring spree reveals where it's building AI data centers next",
+      "summary": "The AI lab is hiring for AI data center roles in Australia and Japan as it rushes to expand compute capacity overseas.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/06/25/anthropic-global-ai-data-center-push.html",
+      "category": "Business",
+      "date": "2026-06-25T05:00:01.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
     {
       "id": "108326515",
       "title": "SK Hynix surges 12% after Micron earnings; blockbuster Nasdaq listing",
@@ -528,17 +539,6 @@
       "date": "2026-06-24T14:54:46.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "108325855",
-      "title": "OpenAI unveils first chip as part of Broadcom deal in effort to 'build the full stack'",
-      "summary": "Eight months after announcing a custom chip deal, OpenAI and Broadcom are revealing their first joint project: Jalapeño.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/06/24/openai-and-broadcom-reveal-jalapeno-first-ai-chip-in-partnership.html",
-      "category": "Business",
-      "date": "2026-06-24T14:53:26.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
@@ -1079,22 +1079,22 @@
       "officialUrl": "https://blogs.nvidia.com"
     },
     {
-      "id": "https://blogs.nvidia.com/?p=94818",
-      "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
-      "summary": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science. The supercomputers will use the HPE Cray Supercomputing GX5000 architecture with the NVIDIA Vera Rubin platform, combining NVIDIA Vera CPUs, NVIDIA Rubin GPUs and NVIDIA Quantum-X800 InfiniBand networking. Under the planned configuration, Mission will include NVIDIA Vera Rubin GPU nodes and 2,300 standalone NVIDIA Vera CPUs using the HPE Cray Supercomputing GX240 blade. Veritas will feature approximately 1,150 standalone NVIDIA Vera CPUs to complement NVIDIA Vera Rubin nodes. Veritas will arrive alongside Mission and Vision and serve the Laboratory Directed Research and Development program, helping accelerate agentic AI for science. The system will test these technologies for use in larger systems being built out at LANL.",
+      "id": "https://blogs.nvidia.com/?p=94790",
+      "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Di...",
+      "summary": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code, coming soon — turn work that once took hours or days on CPUs into real-time, GPU-accelerated pipelines. They’re a part of NVIDIA CUDA-X, a collection of tools and libraries that deliver dramatically higher performance across application domains, including AI and high-performance computing. These performance gains are large and have real impact. Across disciplines, scientists are using AI and accelerated computing to generate data and insights with instruments and surveys faster than ever. For example, running on NVIDIA GB200 NVL72 systems, cuPhoton speeds loading, reading, processing and analysis of FITS data — the standard astronomical file format — from observatories and telescopes.",
       "source": "NVIDIA Blog",
-      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/",
+      "sourceUrl": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
       "category": "Events",
       "date": "2026-06-22T13:00:20.000Z",
       "hot": false,
       "officialUrl": "https://blogs.nvidia.com"
     },
     {
-      "id": "https://blogs.nvidia.com/?p=94790",
-      "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Di...",
-      "summary": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code, coming soon — turn work that once took hours or days on CPUs into real-time, GPU-accelerated pipelines. They’re a part of NVIDIA CUDA-X, a collection of tools and libraries that deliver dramatically higher performance across application domains, including AI and high-performance computing. These performance gains are large and have real impact. Across disciplines, scientists are using AI and accelerated computing to generate data and insights with instruments and surveys faster than ever. For example, running on NVIDIA GB200 NVL72 systems, cuPhoton speeds loading, reading, processing and analysis of FITS data — the standard astronomical file format — from observatories and telescopes.",
+      "id": "https://blogs.nvidia.com/?p=94818",
+      "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
+      "summary": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science. The supercomputers will use the HPE Cray Supercomputing GX5000 architecture with the NVIDIA Vera Rubin platform, combining NVIDIA Vera CPUs, NVIDIA Rubin GPUs and NVIDIA Quantum-X800 InfiniBand networking. Under the planned configuration, Mission will include NVIDIA Vera Rubin GPU nodes and 2,300 standalone NVIDIA Vera CPUs using the HPE Cray Supercomputing GX240 blade. Veritas will feature approximately 1,150 standalone NVIDIA Vera CPUs to complement NVIDIA Vera Rubin nodes. Veritas will arrive alongside Mission and Vision and serve the Laboratory Directed Research and Development program, helping accelerate agentic AI for science. The system will test these technologies for use in larger systems being built out at LANL.",
       "source": "NVIDIA Blog",
-      "sourceUrl": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
+      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/",
       "category": "Events",
       "date": "2026-06-22T13:00:20.000Z",
       "hot": false,
