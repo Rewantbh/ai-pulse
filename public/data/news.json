@@ -1,6 +1,103 @@
 {
-  "lastUpdated": "2026-06-25T13:34:11.110Z",
+  "lastUpdated": "2026-06-25T16:18:53.296Z",
   "news": [
+    {
+      "id": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+      "title": "Which tokens does a hybrid model predict better?",
+      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+      "category": "Research",
+      "date": "2026-06-25T16:11:42.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
+    },
+    {
+      "id": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+      "title": "Our latest Google Finance upgrades, including a new app",
+      "summary": "With new updates to Google Finance, you can track your investment portfolio and stay on top of market intel. Plus, Google AI is introducing a new Android app. Barine Tee Principal Engineer, Search Share x.com Facebook LinkedIn Mail Copy link class ProgressiveImage { EVENTS = { TRANSITION_END: 'transitionend', }; CSS_CLASSES = { BLUR: 'uni-progressive-image--blur', NO_BLUR: 'uni-progressive-image--no-blur', }; init(el) { this.el = el; this._events(); this._upgradeImage(); } _upgradeImage() { // For gif format images Google AI don't include data-srcset and data-sizes // Google AI can safely remove the blur filter. if (!this.el.dataset.srcset || !this.el.dataset.sizes) { this.el.classList.add(this.CSS_CLASSES.NO_BLUR); return; } this.el.setAttribute('srcset', this.el.dataset.srcset); this.el.setAttribute('sizes', this.el.dataset.sizes); requestAnimationFrame(() => { this.el.classList.add(this.CSS_CLASSES.NO_BLUR); }); } _events() { // Once the transition completes is safe to clean some attributes this.el.addEventListener(this.EVENTS.TRANSITION_END, () => { this.el.classList.remove(this.CSS_CLASSES.BLUR, this.CSS_CLASSES.NO_BLUR); this.el.removeAttribute('data-srcset'); this.el.removeAttribute('data-sizes'); }); } } document.addEventListener('DOMContentLoaded', () => { const images = document.querySelectorAll('[data-component=\"uni-progressive-image\"]'); images.forEach((el) => { el.setAttribute('data-component-initialized', true); new ProgressiveImage().init(el); }); }); Invest...",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+      "category": "Research",
+      "date": "2026-06-25T16:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://blog.google"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3136038",
+      "title": "From Fortnite to robots: General Intuition raises $2.3B on bet that video games can train AI agen...",
+      "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "category": "Business",
+      "date": "2026-06-25T16:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "108326521",
+      "title": "Apple stock drops 5% on MacBook and iPad price hikes due to memory crunch",
+      "summary": "Tim Cook said last week that Apple would hike prices due to surging memory and storage costs.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/06/25/apple-macbook-ipad-price-hike-memory.html",
+      "category": "Business",
+      "date": "2026-06-25T15:58:29.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3136123",
+      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+      "summary": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+      "category": "Business",
+      "date": "2026-06-25T14:55:38.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://suno.com/blog/introducing-spark",
+      "title": "Introducing Spark: Supporting the Next Generation of Independent ArtistsBy Paul Sinclair, Chief Musi",
+      "summary": "Making it as an independent artist isn&#x27;t easy. Every day, Suno meet talented artists with great ideas, unique perspectives, and a clear vision for their music, but who may not have the resources or connections to take the next step.At Suno, Suno want to help create a future where more artists have the opportunity to develop their craft, find their audience, and build sustainable creative careers. That&#x27;s why Suno&#x27;re launching Spark, a new incubator program designed to help independent artists bring their music projects to life through grants, mentorship, and dedicated marketing support.Independent artists have always played an outsized role in shaping music and culture. Spark is shaped by what Suno hear from artists. Through artist partnerships, product feedback sessions, community programs, and writing camps, Suno has worked closely with musicians, songwriters, producers, and creators at every stage of their careers.Again and again, emerging artists tell Suno the same thing: they need more than tools. They need support, exposure, and new ways to turn their creativity into opportunity.Spark’s goal is to help more artists turn ideas into finished projects, connect those projects with fans, and build new opportunities to grow their careers both on and beyond Suno.",
+      "source": "Suno Blog",
+      "sourceUrl": "https://suno.com/blog/introducing-spark",
+      "category": "Audio",
+      "date": "2026-06-25T14:30:00.000Z",
+      "hot": true
+    },
+    {
+      "id": "https://www.technologyreview.com/?p=1137848",
+      "title": "Repositioning retail for the AI era",
+      "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inventory moves through supply chains, how engineers ship code faster, and how retailers respond to customer behavior in real time. As legacy retailers navigate a fragmented and hyper-competitive landscape, AI is becoming an operating philosophy. At Macy’s, that philosophy is more often defined by what senior director of engineering Murali Murugan describes as an “AI-first” approach. “AI first isn’t about adding intelligence on top,” Murugan says. “It’s about redesigning how decisions happen so the business moves faster and every experience feels more relevant by default.” Rather than layering AI onto existing workflows, Macy’s is embedding intelligence directly into systems that include personalization, search, operational planning, and software development itself.The company’s strategy is reflective of a larger shift taking place across retail: moving from isolated AI pilots toward integrated systems designed to compress, as Murugan puts it, “the gap between the signal and the action.” Early efforts focused on narrow, high-impact use cases like search recommendations and customer engagement, where measurable gains in conversion and reduced friction quickly built internal momentum.",
+      "source": "MIT Technology Review AI",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+      "category": "Research",
+      "date": "2026-06-25T14:22:59.000Z",
+      "hot": false,
+      "officialUrl": "https://www.technologyreview.com"
+    },
+    {
+      "id": "https://cohere.com/blog/automating-fork-maintenance-with-ai-agents",
+      "title": "Automating fork maintenance with ai agents",
+      "summary": "You sync, things break, you fix them, you verify, you ship. A few weeks later, upstream moves again. This post describes a general method for automating that cycle using AI coding agents. Cohere apply it to Cohere's fork of vLLM, walking through a concrete case where a routine upstream release silently broke Cohere&#x27;s cohere-transcribe-03-2026 ASR model on Cohere's fork, with the fix flowing back upstream as a vLLM PR. In practice, this approach has compressed the time to absorb a new upstream release from weeks to days, with humans only reviewing the outcome. The skills powering this workflow are open-sourced at cohere-ai/vllm-skills.",
+      "source": "Cohere Blog",
+      "sourceUrl": "https://cohere.com/blog/automating-fork-maintenance-with-ai-agents",
+      "category": "Models",
+      "date": "2026-06-25T14:19:00.000Z",
+      "hot": true
+    },
+    {
+      "id": "04xglzWsN7VPCQgffv0WPwb",
+      "title": "The 55+ best Prime Day tech deals, chosen by a tech editor on a tight budget",
+      "summary": "The best Prime Day tech deals: Day three Best overall Bose QuietComfort Noise-Cancelling Headphones $179 at Amazon (save $180) Get Deal Best earbuds deal Apple AirPods Pro 3 $179 at Amazon (save $70) Get Deal Best Kindle deal Amazon Kindle Paperwhite $124.99 at Amazon (save $35) Get Deal Best Amazon Device Deal Amazon Echo Dot Max $64.99 at Amazon (save $35) Get Deal Best Apple laptop deal so far Apple MacBook Air, 13 inches (M5, 16GB RAM, 512GB SSD) $949 at Amazon (save $150) Get Deal Best Deal Under $50 Anker Smart Display Charger, 45W $25.99 at Amazon (save $15) Get Deal Best portable power station deal Jackery Explorer v2 Power Station, 1070Wh $399.99 at Amazon (save $399.01) Get Deal Best Samsung TV Deal Samsung The Frame 55-inch QLED Art TV $697.99 at Amazon (save $400) Get Deal Best Apple Watch Deal Apple Watch Series 11 (GPS, 42mm) $279 at Amazon (save $120) Get Deal Best Memory Deal SanDisk Portable SSD, 1TB $135.99 at Amazon (save $24) Get Deal the author is Mashable's tech editor, and the author love the author's job. the author get to test the coolest new tech products before anyone else, and the author literally get paid to nerd out over the latest noise-cancelling headphones, smart glasses, robots, and laptops. On a more depressing note, all year long, the author has been reporting on endless price hikes, but now that Prime Day 2026 has arrived, the author can finally write about price drops.So, until Prime Day ends tomorrow, the author is sharing all of the ...",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/best-amazon-prime-day-tech-live-deals-2026",
+      "category": "Tech",
+      "date": "2026-06-25T13:52:08.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
     {
       "id": "https://techcrunch.com/?p=3136081",
       "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
@@ -11,17 +108,6 @@
       "date": "2026-06-25T13:30:00.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "108326521",
-      "title": "Apple raises prices on MacBook and iPad due to memory crunch, hints at more to come",
-      "summary": "Tim Cook said last week that Apple would hike prices due to surging memory and storage costs.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/06/25/apple-macbook-ipad-price-hike-memory.html",
-      "category": "Business",
-      "date": "2026-06-25T13:04:19.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "https://blogs.nvidia.com/?p=95467",
@@ -123,17 +209,6 @@
       "officialUrl": "https://mashable.com"
     },
     {
-      "id": "03zWeZDafuStAg34m1XaIRe",
-      "title": "The best Prime Day laptop deals are live — shop MacBooks, Windows PCs, and gaming laptops",
-      "summary": "The best Prime Day laptop deals at a glance: Best MacBook deal Apple MacBook Air, 13-inch (M5, 16GB RAM, 512GB SSD) $949 (save $150) Get Deal Best Windows laptop deal Microsoft Surface Laptop 7, 15-inch (Snapdragon X Elite, 16GB RAM, 1TB SSD) $1,229.99 (save $970) Get Deal Best gaming laptop deal Acer Nitro V 16S AI (AMD Ryzen 7 260, Nvidia GeForce RTX 5060, 32GB RAM, 1TB SSD) $1,099.99 (save $300) Get Deal The ongoing global RAM shortage has led many PC makers to raise their laptop prices this year. Even Apple's MacBooks are at risk of price bumps in the near future. Mercifully, Amazon's annual Prime Day sale is offering some sweet RAMageddon relief this week, slashing prices on select PCs through to the sale's end on June 26.As Mashable's resident expert on all things laptops, the author have to tell you that Amazon carries a much smaller selection of Windows laptops, gaming laptops, and Chromebooks than other major retailers&nbsp;&mdash;&nbsp;especially Best Buy, which happens to be running a competing Tech Fest sale this week. the author has rounded up Amazon's most worth-it laptop deals below and made sure they aren't available cheaper elsewhere. But don't feel like you need to be loyal to Amazon just because Prime Day is hogging the spotlight right now. SEE ALSO: The 35+ best Prime Day tech deals, according to a tech editor on a budget the author will continue to update the following list with the best Prime Day laptop deals as the sale progresses, so check back often.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/best-prime-day-laptop-deals-live-2026",
-      "category": "Tech",
-      "date": "2026-06-25T11:43:11.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
       "id": "6a3946beead7f254c141ec7c",
       "title": "World Cup Teams Are in a Race for AI Dominance",
       "summary": "The sheer scale of data being recorded at this summer’s World Cup is unprecedented. FIFA, the tournament organiser, will track around 150 million data points per match. Inside the ball alone, sensors monitoring IMUs (Inertial Measurement Units) will log 500 movements per second to trace the ball’s motion. If that sounds excessive, Patrick Lucey can go further. “The thing with soccer is that there are more permutations (in a game) than there are atoms in the universe,” he says. Lucey is chief scientist at Stats Perform, the data and AI company whose work underpins almost the entire global soccer ecosystem.",
@@ -143,17 +218,6 @@
       "date": "2026-06-25T11:00:00.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "045HFCARLSkUOb9xVNaXFS4",
-      "title": "Until June 29, get Claude, Gemini, and ChatGPT for life for $70",
-      "summary": "TL;DR:&nbsp;1min.AI gives you lifetime access to AI models like GPT, Claude, and Gemini, but instead of charging you every month, it&rsquo;s only $70 for life. Opens in a new window Credit: 1minAI 1min.AI Advanced Business Plan Lifetime Subscription $69.97 $540 Save $470.03 &nbsp; Get Deal Most AI tools do one thing well. The problem is that most workflows need more than one thing, and paying separately for a writing tool, an image editor, an audio platform, and a video tool adds up to a lot of monthly bills fast. 1min.AI new all-in-one AI platform that gives you access to the same popular AI models like ChatGPT, Gemini, and Claude, but instead of paying for them every month, you can get them all for life for $69.97 (reg. $540).1min.AI gives you access to a wide range of AI models so you&rsquo;re not locked into one tool&rsquo;s strengths or blind spots. On the writing side, you&rsquo;ll get access to AI for blog generation, keyword research, rewriting, summarizing, paraphrasing, grammar checking, and social media comment generation across LinkedIn, Twitter, and Facebook.Image tools go well beyond a basic generator, with editing and manipulation capabilities that cover tasks even a professional designer would reach for a separate app to do.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/june-25-1minai-advanced-business-plan-lifetime-subscription",
-      "category": "Tech",
-      "date": "2026-06-25T10:47:12.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
     },
     {
       "id": "https://decrypt.co/?p=372065",
@@ -187,6 +251,16 @@
       "date": "2026-06-25T09:06:19.000Z",
       "hot": false,
       "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "https://cohere.com/blog/cohere-security-ai-agent-north-wiz",
+      "title": "Cohere security ai agent north wiz",
+      "summary": "At Cohere, Cohere build secure, sovereign AI for mission-critical environments across regulated industries and governments. Cohere's security posture has to scale with a codebase that moves fast, a cloud footprint that grows constantly, and a threat landscape that is constantly evolving. Using Cohere North, Cohere's enterprise AI agent platform, Cohere found a way to automate Cohere's incident response workflows. This post details how Cohere connected Cohere's cloud security platform Wiz to North, through a custom Model Context Protocol (MCP) server. A security agent that handles the entire incident response workflow, from triaging critical findings to drafting IR reports, creating tickets, and updating Wiz status — all from a single prompt. Wiz surfaces the toxic combinations of risk factors that create critical attack paths, such as an internet-facing VM with a critical vulnerability and high-privilege IAM access.",
+      "source": "Cohere Blog",
+      "sourceUrl": "https://cohere.com/blog/cohere-security-ai-agent-north-wiz",
+      "category": "Models",
+      "date": "2026-06-25T07:31:00.000Z",
+      "hot": true
     },
     {
       "id": "108325286",
@@ -442,17 +516,6 @@
       "officialUrl": "https://www.wired.com"
     },
     {
-      "id": "108325530",
-      "title": "Nvidia's Huang calls black market data centers made of smuggled parts a 'dead end'",
-      "summary": "Washington regulators and the Trump administration are increasingly wary of China getting ahold of advanced AI software and hardware.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/06/24/nvidia-huang-data-center-smuggled-chips.html",
-      "category": "Business",
-      "date": "2026-06-24T18:22:40.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
       "id": "https://decrypt.co/?p=371990",
       "title": "Binance Withdraws MiCA License Application in Greece, Leaving EU Users in Limbo",
       "summary": "Crypto exchange Binance formally withdrew its MiCA license application in Greece, one week after a report said it would be denied.",
@@ -583,17 +646,6 @@
       "date": "2026-06-24T15:15:00.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3135687",
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "summary": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "category": "Business",
-      "date": "2026-06-24T14:54:46.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
     },
     {
       "id": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
@@ -753,17 +805,6 @@
       "category": "Curation",
       "date": "2026-06-24T00:00:00.000Z",
       "hot": false
-    },
-    {
-      "id": "https://techcrunch.com/?p=3135480",
-      "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
-      "summary": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
-      "category": "Business",
-      "date": "2026-06-23T23:30:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
     },
     {
       "id": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
@@ -1144,22 +1185,22 @@
       "hot": true
     },
     {
-      "id": "https://openai.com/index/daybreak-securing-the-world",
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "summary": "New tools, partnerships, and the full version of GPT‑5.5‑Cyber to move past vulnerability discovery and onto the acceleration of end-to-end patch automation. Loading…ShareCyber defense at an inflection pointCyber defense at an inflection pointFrom findings to fixes with Codex SecurityUpdating GPT-5.5-Cyber: pairing capability with permissivenessWorking with the security ecosystemPatch the Planet: landing fixes in open-sourceProtecting critical infrastructure and sensitive systemsWhat comes nextTable of contents OpenAI is expanding Daybreak⁠ to help democratize patching vulnerable software at machine speed. For example, OpenAI has applied OpenAI's models to discover and generate patches for critical vulnerabilities⁠ in major browsers, network infrastructure, and operating systems such as FreeBSD and the Linux kernel. To scale the impact of these capabilities: AI has changed the physics of cybersecurity.",
+      "id": "https://openai.com/index/patch-the-planet",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "summary": "Loading…ShareHow Patch the Planet worksHow Patch the Planet worksEarly field notes and findings from developersWhat OpenAI Daybreak is already findingOperating systemsNetworkBrowsersShared infrastructure, shared defenseTable of contents OpenAI is introducing Patch the Planet, a Daybreak⁠ initiative built with Trail of Bits to help maintainers strengthen the critical open-source software the world relies on. OpenAI is pairing AI-assisted security research using OpenAI's most cyber-capable models with expert human review to not only identify vulnerabilities, but help patch them. AI is accelerating vulnerability discovery, but discovery alone does not protect users. Many maintainers are already being asked to sort through more reports, more quickly, with the same limited time and resources. Patch the Planet is built to reduce that burden, not add to it: security engineers review findings before they reach maintainers, work with projects to develop patches and tests, and build reusable workflows that help teams continue improving security after the first fixes land.",
       "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/daybreak-securing-the-world",
+      "sourceUrl": "https://openai.com/index/patch-the-planet",
       "category": "Models",
       "date": "2026-06-22T10:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
     },
     {
-      "id": "https://openai.com/index/patch-the-planet",
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "summary": "Loading…ShareHow Patch the Planet worksHow Patch the Planet worksEarly field notes and findings from developersWhat OpenAI Daybreak is already findingOperating systemsNetworkBrowsersShared infrastructure, shared defenseTable of contents OpenAI is introducing Patch the Planet, a Daybreak⁠ initiative built with Trail of Bits to help maintainers strengthen the critical open-source software the world relies on. OpenAI is pairing AI-assisted security research using OpenAI's most cyber-capable models with expert human review to not only identify vulnerabilities, but help patch them. AI is accelerating vulnerability discovery, but discovery alone does not protect users. Many maintainers are already being asked to sort through more reports, more quickly, with the same limited time and resources. Patch the Planet is built to reduce that burden, not add to it: security engineers review findings before they reach maintainers, work with projects to develop patches and tests, and build reusable workflows that help teams continue improving security after the first fixes land.",
+      "id": "https://openai.com/index/daybreak-securing-the-world",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "summary": "New tools, partnerships, and the full version of GPT‑5.5‑Cyber to move past vulnerability discovery and onto the acceleration of end-to-end patch automation. Loading…ShareCyber defense at an inflection pointCyber defense at an inflection pointFrom findings to fixes with Codex SecurityUpdating GPT-5.5-Cyber: pairing capability with permissivenessWorking with the security ecosystemPatch the Planet: landing fixes in open-sourceProtecting critical infrastructure and sensitive systemsWhat comes nextTable of contents OpenAI is expanding Daybreak⁠ to help democratize patching vulnerable software at machine speed. For example, OpenAI has applied OpenAI's models to discover and generate patches for critical vulnerabilities⁠ in major browsers, network infrastructure, and operating systems such as FreeBSD and the Linux kernel. To scale the impact of these capabilities: AI has changed the physics of cybersecurity.",
       "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/patch-the-planet",
+      "sourceUrl": "https://openai.com/index/daybreak-securing-the-world",
       "category": "Models",
       "date": "2026-06-22T10:00:00.000Z",
       "hot": false,
