@@ -1,10 +1,32 @@
 {
-  "lastUpdated": "2026-06-28T12:14:38.157Z",
+  "lastUpdated": "2026-06-28T14:22:33.507Z",
   "news": [
+    {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+      "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+      "summary": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But they also turned to his ChatGPT logs. Prosecutors said that Rinderknecht had ChatGPT generate images of fire, asked the chatbot, \"Why am I so angry all the time?\", and ranted to it about how the wealthy were destroying the world. They also pointed to a screen recording in which Rinderknecht asked ChatGPT whether someone could be blamed for a fire if it was lit by their …",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+      "category": "Industry",
+      "date": "2026-06-28T14:12:06.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=372248",
+      "title": "The Future Cyberpunk Imagined Is Here: How Much Did It Get Right?",
+      "summary": "From AI to brain implants, cyberpunk got more right than many people realize. Its biggest prediction, however, wasn't the technology.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/372248/future-cyberpunk-imagined-here",
+      "category": "Tech",
+      "date": "2026-06-28T13:01:04.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
     {
       "id": "https://aiweekly.co/issues/the-cutting-edge-across-the-board",
       "title": "AI Weekly Issue #508: The Cutting Edge, Across the Board",
-      "summary": "The cutting edge, and the cutting edge already on the clock. On the frontier this week: OpenAI shipped its strongest model to ~20 vetted partners, DeepSeek open-sourced the tricks that make models fast, and a new paper squeezed more reasoning out of far less memory. The edge also left the screen: humanoid robots got their first real safety stack, and China gave AI agents ID cards. And it's already at work: GPT-5 Pro cracked a three-year immunology mystery, six of the world's top-10 banks bet $200M on AI fraud detection, and coding agents landed on every phone. The lag between a lab result and a deployed system used to be years.",
+      "summary": "One week, the whole frontier. In models, the open weights now run from a 1.6-trillion-parameter behemoth to a 230M model on a Raspberry Pi. In world models and robotics, a startup is training agents on video games to drive real robots and Yann LeCun's team made world models 48× faster. In medicine, GPT-5 Pro cracked a three-year immunology mystery and a founder used Claude to read his own cancer scans. And the agents doing all this reached every phone — and a fresh attack surface. Below: the marquee advances, the deep cuts, and where it's already paying off.",
       "source": "AI Weekly",
       "sourceUrl": "https://aiweekly.co/issues/the-cutting-edge-across-the-board",
       "category": "Curation",
@@ -703,17 +725,6 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
-      "id": "https://decrypt.co/?p=372130",
-      "title": "Anthropic Urges Congress to Crack Down on AI Distillation By Chinese Rivals",
-      "summary": "Anthropic alleged that Alibaba-affiliated operators used nearly 25,000 fraudulent accounts to generate 28.8 million Claude exchanges.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/372130/anthropic-urges-congress-crack-down-ai-distillation-chinese-rivals",
-      "category": "Tech",
-      "date": "2026-06-25T21:13:37.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
       "id": "https://techcrunch.com/?p=3136499",
       "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
       "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
@@ -994,17 +1005,6 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
-      "title": "The $27 million Al proxy war over Alex Bores ends in a draw",
-      "summary": "Images. The expensive, $27 million political proxy war between Anthropic and OpenAI came to a draw last night when Alex Bores, a New York state Assemblyman whose popularity surged after being targeted by a pro-AI super PAC, narrowly lost the Democratic primary to represent New York's 12th Congressional district. Prior to the race, Bores, a former tech industry employee, had coauthored and successfully passed the high-profile RAISE Act, which had implemented guardrails and safety requirements on frontier AI companies; a version of his bill was signed into state law last year. But the legislation drew the ire of Leading the Future, a $100 million su …",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
-      "category": "Industry",
-      "date": "2026-06-24T17:25:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
       "id": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
       "title": "Introducing computer use in Gemini 3.5 Flash",
       "summary": "Computer use is now a built-in tool in Gemini 3.5 Flash to build agents that can interact across platforms. Your browser does not support the audio element. Computer use is now a built-in tool supported in Gemini 3.5 Flash, delivering DeepMind's best performance yet for agentic computer use tasks. Previously only available as a standalone Gemini 2.5 computer use model, computer use is now integrated natively in the main Gemini Flash model. Gemini already excels at function calling and using built-in tools like Search and Maps grounding. With built-in computer use capability, developers can now use 3.5 Flash to reliably build custom agents that can see, reason and take action across browser, mobile and desktop environments.",
@@ -1195,39 +1195,6 @@
       "date": "2026-06-23T17:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://blogs.nvidia.com/?p=94905",
-      "title": "How Businesses Are Building Specialized AI They Can Trust",
-      "summary": "Editor’s note: This post is part of the Nemotron Labs blog series, which explores how the latest open models, datasets and training techniques help businesses build specialized AI systems and applications on NVIDIA platforms. Each post highlights practical ways to use an open stack to deliver real value in production — from transparent research copilots to scalable AI agents. Companies are asking how to build specialized AI that fits with the way their workflows actually run. The first wave of enterprise AI was about access. Companies experimented with new frontier and open models, ran pilots and explored how AI can help. Now, specialized agents — systems of models that can reason, use tools and take action even for the most complex workflows — put more useful AI within reach of the people who already know the work best.",
-      "source": "NVIDIA Blog",
-      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/",
-      "category": "Events",
-      "date": "2026-06-23T13:00:07.000Z",
-      "hot": false,
-      "officialUrl": "https://blogs.nvidia.com"
-    },
-    {
-      "id": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-      "title": "Helping build shared standards for advanced AI",
-      "summary": "Loading…ShareIncreasingly capable models can strengthen cyber defense, accelerate scientific discovery, and expand access to expertise. But they can also create safety and security risks if their capabilities are misunderstood, their safeguards are inadequate, or governments lack the information they need to respond. To realize the benefits safely and confidently, societies will need institutions with the technical and governance capacity to evaluate, secure, and govern increasingly capable systems. That is one reason OpenAI helped found the Appia Foundation⁠(opens in a new window), hosted by the Linux Foundation. Appia will develop open, modular specifications intended to translate international standards and established frameworks into practical assessment criteria across the AI value chain. Its work can help develop a critical missing trust layer by which third parties check conformity with standards, producing clearer and more reusable evidence when models, infrastructure, and applications are developed by different organizations.",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-      "category": "Models",
-      "date": "2026-06-23T13:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://huggingface.co/blog/ibm-research/cuga-apps",
-      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
-      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog/ibm-research/cuga-apps",
-      "category": "Research",
-      "date": "2026-06-23T12:51:55.000Z",
-      "hot": false,
-      "officialUrl": "https://huggingface.co"
     }
   ]
 }
