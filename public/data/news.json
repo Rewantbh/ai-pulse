@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T00:02:06.157Z",
+  "lastUpdated": "2026-06-28T04:24:11.075Z",
   "news": [
     {
       "id": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
@@ -1260,17 +1260,6 @@
       "date": "2026-06-23T06:00:09.000Z",
       "hot": false,
       "officialUrl": "https://blogs.nvidia.com"
-    },
-    {
-      "id": "https://news.mit.edu/2026/new-chip-could-help-tiny-robots-traverse-complex-environments-0623",
-      "title": "New chip could help tiny robots traverse complex environments",
-      "summary": "A new chip developed by MIT researchers could help tiny, low-power UAVs avoid obstacles as they zip around tight corners inside an industrial HVAC system to check for gas leaks.The chip allows small autonomous robots and other battery-limited devices to construct detailed 3D maps of their environments in real-time using only about as much power as a single LED. A robot could use such a map to plan a collision-free path to reach its goal.Typically, generating such thorough maps requires power-hungry systems and a great deal of memory to build and store 3D representations of the obstacles in a robot’s environment.The MIT researchers took a different approach by combining an extremely efficient mapping algorithm with specialized hardware designed to accelerate its workload, which minimizes memory and power consumption.&nbsp;This system-on-a-chip consumes only about 6 milliwatts of power, a fraction of the power required by other systems.&nbsp;This low-power operation could also make the chip well-suited for lightweight augmented reality headsets that can be worn for extended periods, for applications like educational medical simulation or detailed repair and assembly work.“This paper showcases a key example of how you can leverage co-design of the algorithm and hardware to really push energy efficiency. While there has been a lot of work looking into compact 3D maps, what stands out about this work is that it also ensures that the process to generate those maps is as efficien...",
-      "source": "MIT News ML",
-      "sourceUrl": "https://news.mit.edu/2026/new-chip-could-help-tiny-robots-traverse-complex-environments-0623",
-      "category": "Research",
-      "date": "2026-06-23T04:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://news.mit.edu"
     }
   ]
 }
