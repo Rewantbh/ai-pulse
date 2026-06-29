@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T22:58:50.344Z",
+  "lastUpdated": "2026-06-29T00:06:48.124Z",
   "news": [
     {
       "id": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
@@ -33,6 +33,17 @@
       "date": "2026-06-28T19:05:39.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://openai.com/index/hp-frontier-partnership",
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "summary": "Loading…ShareFrom pilot wins to enterprise deploymentFrom pilot wins to enterprise deploymentFrontier as a connective layerBuilding an AI-driven operating modelTable of contents Enterprise transformation rarely starts all at once. More often, it begins when small teams prove a new way of working is possible. That was the case with HP Inc., which just announced it will scale activation of its OpenAI Frontier strategic partnership, following a series of successful pilots across different areas. The strategic partnership extends how HP is deploying frontier capabilities to help its global efforts to enhance customer-facing experiences and accelerate transformation across its operations. Once scaled, the strategic partnership will focus on deploying AI across the organization in areas ranging from customer and partner-facing solutions and experiences, customer telemetry insights and reporting, employee productivity, and software development.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/hp-frontier-partnership",
+      "category": "Models",
+      "date": "2026-06-28T17:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://openai.com"
     },
     {
       "id": "07gjrtIEmHmJmTbDOm5GluR",
@@ -1112,88 +1123,6 @@
       "date": "2026-06-24T06:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://blogs.nvidia.com/?p=94934",
-      "title": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale",
-      "summary": "Building AI systems at scale is demanding, requiring low-latency inference, fast vector search, strong GPU price-performance and infrastructure that can grow without multiplying operational complexity. NVIDIA’s latest work with Amazon Web Services (AWS) addresses each of those constraints. Across Amazon OpenSearch and Amazon EC2, NVIDIA AI infrastructure is giving enterprises more practical paths to deploy AI at production scale. EC2 G7 instances powered by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs expand the compute layer for AI, graphics, video and data analytics workloads, while the NVIDIA cuVS library accelerates the retrieval layer by making GPU-powered vector indexing the default in OpenSearch Serverless. And with AWS achieving NVIDIA Exemplar Cloud status for NVIDIA GB300, customers can trust they’re receiving peak optimized performance for their training workloads. NVIDIA RTX PRO 4500 Blackwell Server Edition Multi-Workload GPUs Power New Amazon EC2 G7 Instances Amazon EC2 G7 instances bring NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs to AWS for AI inference, graphics, spatial computing and GPU-accelerated data analytics — delivering a new instance type engineered for production workloads that need performance without the operational overhead of a customer-managed GPU platform.",
-      "source": "NVIDIA Blog",
-      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/",
-      "category": "Events",
-      "date": "2026-06-24T00:05:37.000Z",
-      "hot": false,
-      "officialUrl": "https://blogs.nvidia.com"
-    },
-    {
-      "id": "https://huggingface.co/blog/ffasr-leaderboard",
-      "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
-      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog/ffasr-leaderboard",
-      "category": "Research",
-      "date": "2026-06-24T00:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://huggingface.co"
-    },
-    {
-      "id": "https://www.cnet.com/tech/services-and-software/proposed-class-action-targets-ai-gas-pricing-in-california/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Kalibrate Faces Lawsuit Over AI Fuel Pricing at California Gas Stations",
-      "summary": "Californians who&apos;ve felt the pinch of average gas prices as high as $6 to $7 a gallon in recent months may have some eventual recourse if a proposed class action lawsuit goes through. The lawsuit, filed on June 22 in the Eastern District of California, accuses several major gas station operators of manipulating pump prices by using AI-driven pricing software from&#xA0;Kalibrate Fuel Systems, a tool that allegedly uses competitor data to influence fuel costs. The complaint targets more than 1,700 gas stations across the state, including BP, Walmart, Marathon Petroleum, 7-Eleven, Albertsons and Circle K.&#xA0; Plaintiffs argue that, where the automated software is widely used, prices rose by about 30 cents per gallon above what normal competition would have produced. The lawsuit calls it \"an illegal algorithmic price-fixing scheme orchestrated by the algorithmic pricing company Kalibrate and some of the state&apos;s largest fuel retailers.\"&#xA0; California has the highest average gas prices in the country, and even small increases from pricing software can have a big impact on drivers.",
-      "source": "cnet.com",
-      "sourceUrl": "https://www.cnet.com/tech/services-and-software/proposed-class-action-targets-ai-gas-pricing-in-california/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-06-24T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Figma Adds AI Motion Graphics and Shader Tools",
-      "summary": "You can also work directly with code on the Figma Design canvas, thanks to code layers. You can also work directly with code on the Figma Design canvas, thanks to code layers. Figma has revealed some new design and coding product updates at its annual Config conference that aim to help creatives “push their ideas further” and automate tedious tasks with AI. Part of this is a reimagined canvas that’s now optimized for full-stack development, according to Figma, bringing teams, AI agents, tools, and materials “together in one place.” Notable callouts include coding layers that let you tweak the code of your projects without leaving the Figma Design canvas, and AI-generated motion graphics effects, which allow you to make animations and transition effects by simply describing them to Figma’s chatbot interface. Otherwise, here’s Figma’s overview of everything that was announced:",
-      "source": "theverge.com",
-      "sourceUrl": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-06-24T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://www.digitaltrends.com/computing/gemini-in-chrome-can-now-see-exactly-what-youre-looking-at-on-screen/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Google Gemini in Chrome Can Now See What You’re Viewing",
-      "summary": "Google is making Gemini a lot more aware of what&rsquo;s happening inside Chrome. The company has started rolling out a new &ldquo;Select from screen&rdquo; feature that lets users highlight specific text or images from a webpage and send them directly to Gemini, making conversations with the AI assistant far more contextual. The new feature appears inside Gemini in Chrome&rsquo;s &ldquo;+&rdquo; menu and works much like a built-in screenshot tool. Once activated, users can select any text or image visible in the current browser tab, which is then automatically attached to a Gemini prompt. Instead of manually describing what&rsquo;s on a webpage, users can simply point Gemini at the exact content they want help with. Varun Mirchandani / Digital Trends Google is rolling out the capability as part of Chrome 149, although some users may need to restart their browser before it appears.",
-      "source": "digitaltrends.com",
-      "sourceUrl": "https://www.digitaltrends.com/computing/gemini-in-chrome-can-now-see-exactly-what-youre-looking-at-on-screen/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-06-24T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Google Introduces Computer Use in Gemini 3.5 Flash",
-      "summary": "Computer use is now a built-in tool in Gemini 3.5 Flash to build agents that can interact across platforms. Your browser does not support the audio element. Computer use is now a built-in tool supported in Gemini 3.5 Flash, delivering .google's best performance yet for agentic computer use tasks. Previously only available as a standalone Gemini 2.5 computer use model, computer use is now integrated natively in the main Gemini Flash model. Gemini already excels at function calling and using built-in tools like Search and Maps grounding. With built-in computer use capability, developers can now use 3.5 Flash to reliably build custom agents that can see, reason and take action across browser, mobile and desktop environments.",
-      "source": "blog.google",
-      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-06-24T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://www.perplexity.ai/hub/blog/introducing-computer-for-counsel?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Perplexity Introduces Computer for Counsel for Legal Professionals",
-      "summary": "Perplexity has launched Computer for Counsel, an AI tool for legal professionals that connects research databases, document repositories, contract tools, and matter-management systems to Perplexity Computer. Powered by 20+ frontier AI models, it handles research, document gathering, and contract triage so lawyers can focus on core legal work. Premium integrations include Midpage for case law, Deel for employment compliance, and LegalZoom for contract templates. It works within Microsoft 365 and Google Workspace and is available to Enterprise and Max subscribers.",
-      "source": "perplexity.ai",
-      "sourceUrl": "https://www.perplexity.ai/hub/blog/introducing-computer-for-counsel?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-06-24T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "OpenAI and Broadcom unveil Jalapeño LLM inference chip",
-      "summary": "Loading…ShareDesigned to be the best inference platform for LLMsDesigned to be the best inference platform for LLMsNine-month tape-out, accelerated by OpenAI modelsBuilding a multi-generation platform with partnersMaking advanced AI more broadly availableTable of contents OpenAI and Broadcom (NASDAQ: AVGO) today unveiled Jalapeño, OpenAI’s first Intelligence Processor: an accelerator architected around OpenAI’s vision for the future of LLM inference, and the first AI accelerator in a multi-generation compute platform the companies are building together to make advanced AI faster, more reliable, and more accessible to more people. Jalapeño was delivered to OpenAI CEO Sam Altman and President Greg Brockman by Broadcom President and CEO Hock Tan and President Charlie Kawwas, marking an important step in OpenAI’s strategy to build the full stack behind its models and products. OpenAI designed the chip from scratch around its deep understanding of LLM fundamentals, informed by its roadmap of models, kernels, serving systems, and product needs, with partners Broadcom and Celestica, helping industrialize the platform through chip implementation, board, rack system integration, high-performance networking, and scalable production systems. Jalapeño is designed with flexibility to work with all LLMs guided by OpenAI’s insights into the inference needs of current and future AI models across the industry. Engineering samples of the Jalapeño chip are running ML workloads in the lab at pro",
-      "source": "openai.com",
-      "sourceUrl": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-06-24T00:00:00.000Z",
-      "hot": false
     }
   ]
 }
