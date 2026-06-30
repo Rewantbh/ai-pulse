@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2026-06-30T03:25:44.760Z",
+  "lastUpdated": "2026-06-30T05:17:51.697Z",
   "news": [
+    {
+      "id": "108328163",
+      "title": "Alphabet stock pops 4% on Dow debut, but the tech giant faces major AI questions",
+      "summary": "Alphabet shares rose Monday as the company joined the Dow, but the blue-chip milestone comes as the stock remains under pressure.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/06/29/alphabet-googl-stock-dow-average.html",
+      "category": "Business",
+      "date": "2026-06-30T04:03:13.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3137448",
+      "title": "The AI jobs debate just got messier",
+      "summary": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+      "category": "Business",
+      "date": "2026-06-30T04:01:00.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
     {
       "id": "https://techcrunch.com/?p=3137107",
       "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
@@ -154,17 +176,6 @@
       "date": "2026-06-29T19:00:00.000Z",
       "hot": false,
       "officialUrl": "https://news.mit.edu"
-    },
-    {
-      "id": "108328163",
-      "title": "Alphabet stock pops 4% on Dow debut, but the tech giant faces major AI questions",
-      "summary": "Alphabet shares rose Monday as the company joined the Dow, but the blue-chip milestone comes as the stock remains under pressure.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/06/29/alphabet-googl-stock-dow-average.html",
-      "category": "Business",
-      "date": "2026-06-29T18:58:04.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
@@ -849,17 +860,6 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
-      "id": "https://techcrunch.com/?p=3136677",
-      "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
-      "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. AI labs may never recover this enormous market.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-      "category": "Business",
-      "date": "2026-06-27T12:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
       "id": "108327765",
       "title": "Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies",
       "summary": "Anthropic disabled access to its Fable 5 and Mythos 5 models to comply with a government export control directive citing \"national security authorities.\"",
@@ -1212,17 +1212,6 @@
       "category": "Models",
       "date": "2026-06-25T07:31:00.000Z",
       "hot": true
-    },
-    {
-      "id": "https://news.mit.edu/2026/improving-ai-agent-speed-and-energy-efficiency-0625",
-      "title": "Improving the speed and energy-efficiency of AI agents",
-      "summary": "Agentic workflows are artificial intelligence-powered software systems that chain together multiple models and external tools to tackle complicated tasks, like analyzing a video and answering questions about it.But the way these highly fragmented systems are designed and deployed often causes inefficiencies that can lead to wasted computation, energy, and cost.&nbsp;To improve efficiency, researchers from MIT and Microsoft developed an intelligent system that streamlines the process of designing agentic workflows and automatically optimizes how those workflows are implemented.&nbsp;With this new method, a developer can describe what they want the agentic workflow to do in plain language, without needing to specify all the details of their application in advance.&nbsp;The system automatically figures out the best models and tools to use, as well as the ideal hardware configuration and computational resource allocation when the workflow is executed by a cloud provider.It adjusts those configurations on the fly based on each user’s priorities, such as minimizing costs or maximizing speed.When tested on several agentic workloads, this new system reduced the number of computational units needed for deployment, significantly cutting energy requirements and costs compared to traditional approaches without hampering performance.“Agentic workflows are getting very complicated and quickly becoming the backbone of what cloud providers are doing. Energy usage is a huge concern, so we ...",
-      "source": "MIT News ML",
-      "sourceUrl": "https://news.mit.edu/2026/improving-ai-agent-speed-and-energy-efficiency-0625",
-      "category": "Research",
-      "date": "2026-06-25T04:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://news.mit.edu"
     }
   ]
 }
