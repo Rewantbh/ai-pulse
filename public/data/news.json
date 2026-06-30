@@ -1,6 +1,160 @@
 {
-  "lastUpdated": "2026-06-30T13:07:11.321Z",
+  "lastUpdated": "2026-06-30T16:01:48.255Z",
   "news": [
+    {
+      "id": "https://www.theverge.com/column/959433/libby-ai-filter",
+      "title": "Libby will filter out AI content, kind of",
+      "summary": "The ebook-lending app’s filters will rely on AI content being self-labeled. The ebook-lending app’s filters will rely on AI content being self-labeled. “AI is the new frontier for us,” says Marc DeBevoise, who took over as the new CEO of OverDrive last week. OverDrive is best known for the ebook lending app Libby that is available through tens of thousands of public libraries. Like the rest of the digital publishing industry, it’s poised to face massive disruption from a huge wave of AI-generated books. To prepare for the AI onslaught, Libby is now getting ready to introduce AI content controls, allowing readers to select in the app’s settings whether they want to see AI-generated content or not.",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/column/959433/libby-ai-filter",
+      "category": "Industry",
+      "date": "2026-06-30T15:30:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "https://news.mit.edu/2026/agentic-ai-and-what-do-we-want-it-be-0630",
+      "title": "Q&A: What is agentic AI today, and what do we want it to be?",
+      "summary": "The deployment of automated software systems called AI agents has recently exploded. A November 2025 report by&nbsp;MIT Sloan School of Management and Boston Consulting Group found that 35 percent of surveyed businesses had already deployed AI agents, while another 44 percent planned to implement agentic AI soon.&nbsp;To understand the fundamentals and potential impacts of these increasingly popular tools, MIT News spoke with Phillip Isola, an associate professor in the Department of Electrical Engineering and Computer Science (EECS) and a member of the Computer Science and Artificial Intelligence Laboratory (CSAIL), who studies the intelligence AI agents possess, as well as the underlying models and mechanisms that power agentic AI systems.Q:&nbsp;What is agentic AI and how is it different from generative AI models like ChatGPT and Claude?A:&nbsp;Agentic AI is AI that takes actions in the world. These actions could be a physical action, like robotic manipulation, or a digital action, like booking a flight. On the other hand, MIT  ML think of generative AI as making up stories, poems, art, and images, rather than taking actions for MIT  ML.&nbsp;The word “agent” is just a brand name. It usually means AI that is going to help people interact with an application, a website, or the physical world. Most agents MIT  ML encounter today are digital agents, like customer service agents you can talk with about product complaints.&nbsp;Most companies that offer agents use the same f...",
+      "source": "MIT News ML",
+      "sourceUrl": "https://news.mit.edu/2026/agentic-ai-and-what-do-we-want-it-be-0630",
+      "category": "Research",
+      "date": "2026-06-30T15:30:00.000Z",
+      "hot": false,
+      "officialUrl": "https://news.mit.edu"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3137526",
+      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+      "summary": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+      "category": "Business",
+      "date": "2026-06-30T15:08:42.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=372422",
+      "title": "TD Cowen Slashes Strategy Price Target, Citing Ongoing Bitcoin Weakness",
+      "summary": "Strategy's stock price started sliding again on Tuesday, one day after breaking a nine-day losing streak.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/372422/td-cowen-slashes-strategy-price-target-bitcoin-weakness",
+      "category": "Tech",
+      "date": "2026-06-30T15:05:41.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://blogs.nvidia.com/?p=95780",
+      "title": "How NVIDIA’s Inference Software Stack Powers the Lowest Token Cost",
+      "summary": "As organizations move from AI pilots to production AI factories, infrastructure decisions have shifted from peak chip specifications to cost per token: how many useful tokens they can deliver per dollar, per watt and within required latency targets. Codesigned with NVIDIA GPUs, CPUs, networking and systems, and strengthened by a broad open source ecosystem, NVIDIA’s full-stack inference software continuously improves hardware performance. On the NVIDIA Blackwell platform, the software stack has already reduced token costs by up to 5x on the DeepSeek V4 model in just one month. SemiAnalysis InferenceX results comparing token cost and interactivity for NVIDIA GB300 NVL72 systems with SGLang and the NVIDIA Dynamo inference framework. Leading companies and inference providers are already seeing the compounding value of NVIDIA’s inference software stack on Blackwell: Baseten used the NVIDIA TensorRT-LLM open source library to serve DeepSeek V4 Pro on Blackwell GPUs for reasoning, coding and long-context workloads, applying proprietary runtime optimizations to deliver up to 50% more tokens per second. Cognition is using the NVIDIA Dynamo inference framework to manage inference GPUs, giving its team a ready-made path to scale reinforcement learning workloads without needing to build that infrastructure from scratch.",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/",
+      "category": "Events",
+      "date": "2026-06-30T15:00:57.000Z",
+      "hot": false,
+      "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
+      "id": "https://blogs.nvidia.com/?p=95748",
+      "title": "How Jaiveer Singh Is Helping Robots — and Developers — Move Faster",
+      "summary": "When Jaiveer Singh talks about robots, he doesn’t begin with spectacle. He begins with infrastructure: the boards inside machines, the software that lets developers see through a robot&#8217;s cameras and the engineering required before a robot can leave a demo floor to do something useful. As a robotics software engineer who leads the team behind NVIDIA Isaac ROS (Robot Operating System), Singh works on the connective tissue of the physical AI era. Built on the open source ROS 2 framework, Isaac ROS brings CUDA-accelerated libraries and AI models to developers building autonomous mobile robots, manipulation systems and humanoids. “My goal is to make sure everyone feels like they are a part of the robotics future,” Singh said. For Singh, that future began in middle school, building with LEGO Mindstorms, a popular line of programmable robotics kits.",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/",
+      "category": "Events",
+      "date": "2026-06-30T15:00:49.000Z",
+      "hot": false,
+      "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
+      "id": "108328654",
+      "title": "AWS puts $1 billion into new AI unit to embed engineers with customers, joining growing wave",
+      "summary": "AWS FDEs will look to leave behind self-sufficient teams with new AI solutions and capabilities in a matter of weeks, the company said.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/06/30/aws-amazon-ai-forward-deployed-engineers.html",
+      "category": "Business",
+      "date": "2026-06-30T15:00:01.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3135237",
+      "title": "Podcasting platform Riverside enters the newsletter publishing game",
+      "summary": "Users will be able use AI to create newsletters based on their recordings.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
+      "category": "Business",
+      "date": "2026-06-30T15:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3137516",
+      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+      "summary": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+      "category": "Business",
+      "date": "2026-06-30T15:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+      "title": "Why Specialization Is Inevitable",
+      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+      "category": "Research",
+      "date": "2026-06-30T14:39:11.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
+    },
+    {
+      "id": "108328194",
+      "title": "White House AI crackdown opens door for China to close gap",
+      "summary": "The Trump administration's crackdown on Anthropic's leading artificial intelligence models is looking like a gift to China.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/06/30/white-house-ai-china-crackdown.html",
+      "category": "Business",
+      "date": "2026-06-30T14:27:53.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/?p=4363801",
+      "title": "iPhone Security Fixes May Arrive Sooner as AI Speeds Up Threats",
+      "summary": "Apple is releasing some iPhone security fixes earlier as AI raises concerns about faster cyberattacks and shorter patch windows.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-apple-iphone-ai-security-updates/",
+      "category": "Business",
+      "date": "2026-06-30T14:01:54.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3137266",
+      "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
+      "summary": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
+      "category": "Business",
+      "date": "2026-06-30T14:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/article/news-ford-veteran-engineers-ai-quality-setback/",
+      "title": "Ford Brings Back Veteran Engineers After AI Quality Setback",
+      "summary": "Ford rehired veteran engineers after AI quality systems fell short, showing why expert oversight still matters in high-stakes automation.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-ford-veteran-engineers-ai-quality-setback/",
+      "category": "Business",
+      "date": "2026-06-30T13:54:12.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
     {
       "id": "108328370",
       "title": "AeroVironment soars 28% on earnings beat, backlog grows to $1.2 billion",
@@ -13,15 +167,26 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
-      "id": "108328194",
-      "title": "White House AI crackdown opens door for Chinese model makers to close gap",
-      "summary": "The Trump administration's crackdown on Anthropic's leading artificial intelligence models is looking like a gift to China.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/06/30/white-house-ai-china-crackdown.html",
-      "category": "Business",
-      "date": "2026-06-30T12:00:01.000Z",
+      "id": "https://blogs.nvidia.com/?p=95727",
+      "title": "Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data an...",
+      "summary": "Editor’s note: This post is part of Into the Omniverse, a series focused on how developers, 3D practitioners, and enterprises can transform their workflows using the latest advances in OpenUSD and NVIDIA Omniverse. Vision AI agents are becoming a practical way to automatically turn video data from the physical world into operational intelligence in factories, cities, warehouses and transportation systems. That shift is accelerating as more AI workloads move closer to where data is generated. Gartner projects that more than two-thirds of enterprise-managed data will be created and processed outside the data center or cloud by 2028, and that over two-thirds of all enterprises globally will deploy edge AI by 2029, up from 10% in 2025 (1). But more edge data doesn’t automatically create more intelligence. As much as 90% of existing edge data goes unprocessed, according to the same Gartner report.",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/",
+      "category": "Events",
+      "date": "2026-06-30T13:00:27.000Z",
       "hot": false,
-      "officialUrl": "https://www.cnbc.com"
+      "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/?p=4344993",
+      "title": "Visual Studio 2026 Brings AI Deeper Into Development and It’s 93% Off Right Now",
+      "summary": "Microsoft's latest 64-bit IDE adds AI-assisted coding, faster performance, and advanced collaboration tools.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/microsoft-visual-studio-professional-2026/",
+      "category": "Business",
+      "date": "2026-06-30T12:30:40.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
@@ -147,7 +312,7 @@
     {
       "id": "https://techcrunch.com/?p=3137159",
       "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
-      "summary": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents.",
+      "summary": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
       "category": "Business",
@@ -167,15 +332,15 @@
       "officialUrl": "https://mashable.com"
     },
     {
-      "id": "004QFpJu3ZT6ii6ScZPoqtx",
-      "title": "Anthropic to provide California government with AI tools",
-      "summary": "Anthropic has partnered with California to provide state government agencies a discount on its AI tools such as chatbot Claude. Announced on Monday, the agreement will see state workers use Claude for a \"wide range of tasks,\" including analysing information and drafting documents, in an effort to increase efficiency. SEE ALSO: Anthropic pulls Claude Fable 5, Mythos 5 after Trump admin order \"AI should not replace the human work of government; it should help our workers move faster, solve problems more effectively, and deliver better results for Californians,\" California governor Gavin Newsom said in a statement.Under the partnership, Anthropic will provide Californian state agencies and local governments with access to Claude at a 50 percent discount. The Californian AI company will also offer government workers free training, as well as support and advice from Anthropic's developers on how to use AI in their work.California's partnership with Anthropic is intended to facilitate increased adoption of AI by its government workers. Claude is just the first \"AI productivity tool\" that will be offered to all California state agencies though a new shared portal, which will gather multiple such tools for government use.\"CDT [California Department of Technology] is partnering with departments across the state to leverage the state&rsquo;s purchasing power to make it easy to procure new tools, fast and for the best price,\" said California State Chief Information Officer and CDT di...",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/anthropic-claude-california-ai-government-partnership",
-      "category": "Tech",
-      "date": "2026-06-30T07:35:01.000Z",
+      "id": "https://www.techrepublic.com/article/news-apac-china-lineshine-fastest-supercomputer/",
+      "title": "China’s LineShine Tops Supercomputer List Despite AI Benchmark Gap",
+      "summary": "China’s LineShine debuted as the world’s fastest supercomputer on TOP500, but mixed-precision benchmark results complicate its AI performance claim.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-apac-china-lineshine-fastest-supercomputer/",
+      "category": "Business",
+      "date": "2026-06-30T08:36:10.000Z",
       "hot": false,
-      "officialUrl": "https://mashable.com"
+      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
@@ -212,8 +377,8 @@
     },
     {
       "id": "https://techcrunch.com/?p=3137107",
-      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
-      "summary": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
+      "title": "Vibe-coding platform Base44 launches own model as AI startups seek defensibility",
+      "summary": "Wix-owned vibe-coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
       "category": "Business",
@@ -231,6 +396,17 @@
       "date": "2026-06-30T01:50:04.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://huggingface.co/blog/eee-community-evals",
+      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/eee-community-evals",
+      "category": "Research",
+      "date": "2026-06-30T00:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
     },
     {
       "id": "108328391",
@@ -464,17 +640,6 @@
       "officialUrl": "https://blogs.nvidia.com"
     },
     {
-      "id": "https://decrypt.co/?p=372301",
-      "title": "California Strikes Deal With Anthropic to Bring Claude AI to State Agencies",
-      "summary": "Anthropic’s agreement makes Claude the first AI tool available to all state agencies and local governments, at half price.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/372301/california-strikes-deal-anthropic-bring-claude-ai-state-agencies",
-      "category": "Tech",
-      "date": "2026-06-29T16:54:09.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
       "id": "https://techcrunch.com/?p=3137152",
       "title": "TIDAL cracks down on AI music by cutting off monetization",
       "summary": "In addition, TIDAL will use automated tools to remove AI-generated music that attempts to impersonate an artist or a group, the company said.",
@@ -607,17 +772,6 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "https://decrypt.co/?p=372282",
-      "title": "Strategy Could Sell Up to $1.25B of Bitcoin Under 'Digital Credit Capital Framework'",
-      "summary": "The Bitcoin treasury firm has approved a framework for \"active capital management,\" its Chair Michael Saylor said in a statement.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/372282/strategy-could-sell-up-to-1-25b-of-bitcoin-under-digital-credit-capital-framework",
-      "category": "Tech",
-      "date": "2026-06-29T12:48:39.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
       "id": "https://blogs.nvidia.com/?p=95612",
       "title": "Open Models, Closed Environments: Palantir Brings Secure AI to US Agencies With NVIDIA Nemotron",
       "summary": "Showcasing the importance of open source innovation in American AI, Palantir’s new intelligent engine — introduced today — uses NVIDIA Nemotron open models to serve the needs of U.S. Open source software has long been a pillar of U.S. In 1969, DARPA connected four university computers — from UCLA, Stanford, UCSB and the University of Utah — laying the infrastructure backbone that became the internet. In those early days, U.S.-led open source contributions also drove leadership in coding languages, with UNIX in 1969 and C at Bell Labs in 1972. These languages led to more open source software building on those foundations, including the Linux Kernel in 1991, GitHub in 2008 and Docker in 2013. Today, open models are making frontier-level AI broadly accessible, with control over customization and trust through transparency.",
@@ -660,17 +814,6 @@
       "date": "2026-06-29T07:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "108327831",
-      "title": "South Korea says Samsung and SK Hynix investing in AI, semiconductor mega-projects",
-      "summary": "Shares of Samsung Electronics and SK Hynix declined after South Korea unveiled sweeping artificial intelligence and semiconductor mega-projects.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/06/29/samsung-sk-hynix-reported-1point3-reported-trillion-spending-plans.html",
-      "category": "Business",
-      "date": "2026-06-29T06:44:15.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "108327857",
@@ -807,17 +950,6 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
-      "id": "https://techcrunch.com/?p=3137021",
-      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
-      "summary": "\"Mistakenly we thought that by just introducing artificial intelligence.. that would produce a high-quality product.”",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-      "category": "Business",
-      "date": "2026-06-28T19:05:39.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
       "id": "https://openai.com/index/hp-frontier-partnership",
       "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
       "summary": "Loading…ShareFrom pilot wins to enterprise deploymentFrom pilot wins to enterprise deploymentFrontier as a connective layerBuilding an AI-driven operating modelTable of contents Enterprise transformation rarely starts all at once. More often, it begins when small teams prove a new way of working is possible. That was the case with HP Inc., which just announced it will scale activation of its OpenAI Frontier strategic partnership, following a series of successful pilots across different areas. The strategic partnership extends how HP is deploying frontier capabilities to help its global efforts to enhance customer-facing experiences and accelerate transformation across its operations. Once scaled, the strategic partnership will focus on deploying AI across the organization in areas ranging from customer and partner-facing solutions and experiences, customer telemetry insights and reporting, employee productivity, and software development.",
@@ -827,17 +959,6 @@
       "date": "2026-06-28T17:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3136862",
-      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-      "summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-      "category": "Business",
-      "date": "2026-06-28T15:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
     },
     {
       "id": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
@@ -893,28 +1014,6 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
-      "id": "https://techcrunch.com/?p=3136981",
-      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
-      "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
-      "category": "Business",
-      "date": "2026-06-27T16:45:09.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "108327457",
-      "title": "The AI trade cooled and oil sank. A closer look at Wall Street's volatile week",
-      "summary": "Micron finished the week in the red despite a blockbuster earnings report. But falling oil prices was good news for the fight against inflation.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/06/27/the-ai-trade-cooled-and-oil-sank-a-closer-look-at-wall-streets-volatile-week.html",
-      "category": "Business",
-      "date": "2026-06-27T16:39:52.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
       "id": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
       "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
       "summary": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely placed the blame at the feet of the AI industry, which is not surprising. RAMageddon has already come for your desktop PCs and gaming consoles. The Xbox has seen its price climb nearly 25 percent depending on the model, and Nothing even canceled an entire phone launch.",
@@ -922,17 +1021,6 @@
       "sourceUrl": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
       "category": "Industry",
       "date": "2026-06-27T13:30:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
-      "title": "Anthropic&#8217;s Mythos 5 is back",
-      "summary": "The Trump administration approved a select group of users, but Fable 5 is still nowhere in sight. The Trump administration approved a select group of users, but Fable 5 is still nowhere in sight. After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic’s Mythos 5 is finally back in action — at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed by The Verge. Fable 5, however — the public-facing Mythos-class model — appears to still be in limbo, with no apparent timeline for a rollout agreement. The letter, dated June 26th and sent by Commerce Secretary Howard Lutnick to Anthropic cofounder Tom Brown, who had been recently leading negotiations, states that there’s been a “revision to the license requirements” based on the fact that Anthropic has recently “worked with the U.S. government to address risks” associated with Mythos 5 and Fable 5.",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
-      "category": "Industry",
-      "date": "2026-06-27T00:33:44.000Z",
       "hot": false,
       "officialUrl": "https://www.theverge.com"
     },
@@ -1056,17 +1144,6 @@
       "officialUrl": "https://news.mit.edu"
     },
     {
-      "id": "https://www.techrepublic.com/?p=4363479",
-      "title": "Five Eyes Warns AI Could Speed Cyberattacks Within Months",
-      "summary": "Five Eyes agencies warned that AI could speed cyberattacks within months, raising new risks around prompt injection, phishing, and enterprise AI tools.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-five-eyes-ai-cyberattacks/",
-      "category": "Business",
-      "date": "2026-06-26T12:07:17.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
       "id": "https://openai.com/index/previewing-gpt-5-6-sol",
       "title": "Previewing GPT-5.6 Sol: a next-generation model",
       "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
@@ -1076,17 +1153,6 @@
       "date": "2026-06-26T10:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/?p=4363491",
-      "title": "Xbox Console Prices Rise Again as Microsoft Cites Memory Costs",
-      "summary": "Microsoft is raising Xbox console prices again, citing higher memory and storage costs as the Xbox Series X rises to $800 in the US.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-xbox-console-price-increase/",
-      "category": "Business",
-      "date": "2026-06-26T08:59:29.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "6a3c384be6c7ac5cabfbc839",
@@ -1150,59 +1216,6 @@
       "date": "2026-06-25T23:13:45.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
-      "title": "Our latest Google Finance upgrades, including a new app",
-      "summary": "With new updates to Google Finance, you can track your investment portfolio and stay on top of market intel. Plus, Google AI is introducing a new Android app. Barine Tee Principal Engineer, Search Share x.com Facebook LinkedIn Mail Copy link class ProgressiveImage { EVENTS = { TRANSITION_END: 'transitionend', }; CSS_CLASSES = { BLUR: 'uni-progressive-image--blur', NO_BLUR: 'uni-progressive-image--no-blur', }; init(el) { this.el = el; this._events(); this._upgradeImage(); } _upgradeImage() { // For gif format images Google AI don't include data-srcset and data-sizes // Google AI can safely remove the blur filter. if (!this.el.dataset.srcset || !this.el.dataset.sizes) { this.el.classList.add(this.CSS_CLASSES.NO_BLUR); return; } this.el.setAttribute('srcset', this.el.dataset.srcset); this.el.setAttribute('sizes', this.el.dataset.sizes); requestAnimationFrame(() => { this.el.classList.add(this.CSS_CLASSES.NO_BLUR); }); } _events() { // Once the transition completes is safe to clean some attributes this.el.addEventListener(this.EVENTS.TRANSITION_END, () => { this.el.classList.remove(this.CSS_CLASSES.BLUR, this.CSS_CLASSES.NO_BLUR); this.el.removeAttribute('data-srcset'); this.el.removeAttribute('data-sizes'); }); } } document.addEventListener('DOMContentLoaded', () => { const images = document.querySelectorAll('[data-component=\"uni-progressive-image\"]'); images.forEach((el) => { el.setAttribute('data-component-initialized', true); new ProgressiveImage().init(el); }); }); Invest...",
-      "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
-      "category": "Research",
-      "date": "2026-06-25T16:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://blog.google"
-    },
-    {
-      "id": "https://www.techrepublic.com/?p=4363421",
-      "title": "Interpol: Cybercrime Hits 30% of Recorded Crime in Surveyed APAC Countries",
-      "summary": "Interpol’s latest Asia and South Pacific cybercrime assessment shows how phishing, ransomware, DDoS attacks, infostealers, and AI-enabled scams are raising security risks across APAC.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-interpol-cybercrime-report-apac/",
-      "category": "Business",
-      "date": "2026-06-25T15:13:13.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://suno.com/blog/introducing-spark",
-      "title": "Introducing Spark: Supporting the Next Generation of Independent ArtistsBy Paul Sinclair, Chief Musi",
-      "summary": "Making it as an independent artist isn&#x27;t easy. Every day, Suno meet talented artists with great ideas, unique perspectives, and a clear vision for their music, but who may not have the resources or connections to take the next step.At Suno, Suno want to help create a future where more artists have the opportunity to develop their craft, find their audience, and build sustainable creative careers. That&#x27;s why Suno&#x27;re launching Spark, a new incubator program designed to help independent artists bring their music projects to life through grants, mentorship, and dedicated marketing support.Independent artists have always played an outsized role in shaping music and culture. Spark is shaped by what Suno hear from artists. Through artist partnerships, product feedback sessions, community programs, and writing camps, Suno has worked closely with musicians, songwriters, producers, and creators at every stage of their careers.Again and again, emerging artists tell Suno the same thing: they need more than tools. They need support, exposure, and new ways to turn their creativity into opportunity.Spark’s goal is to help more artists turn ideas into finished projects, connect those projects with fans, and build new opportunities to grow their careers both on and beyond Suno.",
-      "source": "Suno Blog",
-      "sourceUrl": "https://suno.com/blog/introducing-spark",
-      "category": "Audio",
-      "date": "2026-06-25T14:30:00.000Z",
-      "hot": true
-    },
-    {
-      "id": "https://www.technologyreview.com/?p=1137848",
-      "title": "Repositioning retail for the AI era",
-      "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inventory moves through supply chains, how engineers ship code faster, and how retailers respond to customer behavior in real time. As legacy retailers navigate a fragmented and hyper-competitive landscape, AI is becoming an operating philosophy. At Macy’s, that philosophy is more often defined by what senior director of engineering Murali Murugan describes as an “AI-first” approach. “AI first isn’t about adding intelligence on top,” Murugan says. “It’s about redesigning how decisions happen so the business moves faster and every experience feels more relevant by default.” Rather than layering AI onto existing workflows, Macy’s is embedding intelligence directly into systems that include personalization, search, operational planning, and software development itself.The company’s strategy is reflective of a larger shift taking place across retail: moving from isolated AI pilots toward integrated systems designed to compress, as Murugan puts it, “the gap between the signal and the action.” Early efforts focused on narrow, high-impact use cases like search recommendations and customer engagement, where measurable gains in conversion and reduced friction quickly built internal momentum.",
-      "source": "MIT Technology Review AI",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
-      "category": "Research",
-      "date": "2026-06-25T14:22:59.000Z",
-      "hot": false,
-      "officialUrl": "https://www.technologyreview.com"
-    },
-    {
-      "id": "https://cohere.com/blog/automating-fork-maintenance-with-ai-agents",
-      "title": "Automating fork maintenance with ai agents",
-      "summary": "You sync, things break, you fix them, you verify, you ship. A few weeks later, upstream moves again. This post describes a general method for automating that cycle using AI coding agents. Cohere apply it to Cohere's fork of vLLM, walking through a concrete case where a routine upstream release silently broke Cohere&#x27;s cohere-transcribe-03-2026 ASR model on Cohere's fork, with the fix flowing back upstream as a vLLM PR. In practice, this approach has compressed the time to absorb a new upstream release from weeks to days, with humans only reviewing the outcome. The skills powering this workflow are open-sourced at cohere-ai/vllm-skills.",
-      "source": "Cohere Blog",
-      "sourceUrl": "https://cohere.com/blog/automating-fork-maintenance-with-ai-agents",
-      "category": "Models",
-      "date": "2026-06-25T14:19:00.000Z",
-      "hot": true
     }
   ]
 }
