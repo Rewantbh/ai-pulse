@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2026-06-30T05:17:51.697Z",
+  "lastUpdated": "2026-06-30T07:07:28.489Z",
   "news": [
+    {
+      "id": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+      "summary": "The top 15% of AI users report stronger performance reviews, pay increases and substantial time savings. The challenge now is upskilling the remaining 85% to enable everyone to use AI to unlock personal progression. Kate Alessi Vice President and Managing Director, Google UK &amp; Ireland Share x.com Facebook LinkedIn Mail Copy link class ProgressiveImage { EVENTS = { TRANSITION_END: 'transitionend', }; CSS_CLASSES = { BLUR: 'uni-progressive-image--blur', NO_BLUR: 'uni-progressive-image--no-blur', }; init(el) { this.el = el; this._events(); this._upgradeImage(); } _upgradeImage() { // For gif format images Google AI don't include data-srcset and data-sizes // Google AI can safely remove the blur filter. if (!this.el.dataset.srcset || !this.el.dataset.sizes) { this.el.classList.add(this.CSS_CLASSES.NO_BLUR); return; } this.el.setAttribute('srcset', this.el.dataset.srcset); this.el.setAttribute('sizes', this.el.dataset.sizes); requestAnimationFrame(() => { this.el.classList.add(this.CSS_CLASSES.NO_BLUR); }); } _events() { // Once the transition completes is safe to clean some attributes this.el.addEventListener(this.EVENTS.TRANSITION_END, () => { this.el.classList.remove(this.CSS_CLASSES.BLUR, this.CSS_CLASSES.NO_BLUR); this.el.removeAttribute('data-srcset'); this.el.removeAttribute('data-sizes'); }); } } document.addEventListener('DOMContentLoaded', () => { const images = document.querySelectorAll('[data-component=\"uni-progressive-image\"]'); images.forEach((el) => { el.setA...",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+      "category": "Research",
+      "date": "2026-06-30T06:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://blog.google"
+    },
     {
       "id": "108328163",
       "title": "Alphabet stock pops 4% on Dow debut, but the tech giant faces major AI questions",
