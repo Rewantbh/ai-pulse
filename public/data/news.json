@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2026-06-29T23:58:25.825Z",
+  "lastUpdated": "2026-06-30T03:25:44.760Z",
   "news": [
+    {
+      "id": "https://techcrunch.com/?p=3137107",
+      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+      "summary": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+      "category": "Business",
+      "date": "2026-06-30T02:28:41.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "108328432",
+      "title": "Australia's competition regulator takes Amazon to court over alleged unfair Prime subscription co...",
+      "summary": "Australia's competition regulator is taking Amazon to court, alleging its Prime contracts required subscribers to pay AU$2.99 to avoid advertising, with no option for refunds",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/06/30/australias-competition-regulator-takes-amazon-to-court-over-alleged-unfair-prime-subscription-contract-terms.html",
+      "category": "Business",
+      "date": "2026-06-30T01:50:04.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
     {
       "id": "108328370",
       "title": "AeroVironment soars 19% on earnings beat, backlog grows to $1.2 billion",
@@ -541,6 +563,26 @@
       "officialUrl": "https://aiweekly.co"
     },
     {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "OpenAI Teases Codex Hardware Device With Work Louder",
+      "summary": "A new video shows a Codex-focused device built in collaboration with Work Louder. A new video shows a Codex-focused device built in collaboration with Work Louder. OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongside the caption, “Your favorite Codex shortcuts are getting an upgrade.” This isn’t the mysterious AI-powered device OpenAI is working on with former Apple designer Jony Ive, however. As shown in the teaser, OpenAI is launching the device in partnership with Work Louder, a company that sells an array of mechanical keyboards and macro pads with mappable keys, dials, and switches.",
+      "source": "theverge.com",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-06-29T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://www.techtimes.com/articles/319318/20260629/gemini-35-pro-cleared-july-launch-fable-5-nears-return-gpt-56-stays-locked.htm?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Google Gemini 3.5 Pro Cleared for July Launch Amid Rival Model Restrictions",
+      "summary": "Google's Gemini 3.5 Pro is on track for a July launch after missing its June target, making it the only major frontier AI model set to release without U.S. government restrictions. Unlike Anthropic's Fable 5, which was forced offline June 12 after NSA red-team tests, and OpenAI's GPT-5.6, restricted due to a 96.7% cybersecurity benchmark score, Gemini 3.1 Pro scored 70.7% on Terminal-Bench 2.1 — well below the unofficial threshold. Gemini 3.5 Pro will feature a million-token context window and a Deep Think reasoning mode.",
+      "source": "techtimes.com",
+      "sourceUrl": "https://www.techtimes.com/articles/319318/20260629/gemini-35-pro-cleared-july-launch-fable-5-nears-return-gpt-56-stays-locked.htm?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-06-29T00:00:00.000Z",
+      "hot": false
+    },
+    {
       "id": "https://claude.com/blog/introducing-the-claude-apps-gateway?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Anthropic Launches Claude Apps Gateway for Bedrock and Google Cloud",
       "summary": "Anthropic has launched the Claude Apps Gateway, a new tool that connects Claude Code to Amazon Bedrock and Google Cloud. The gateway runs as a stateless container on your own infrastructure and provides enterprise features including corporate SSO login, centrally enforced policy controls, role-based access management, per-user cost attribution, and spend caps. The solution gives organizations centralized oversight and cost control when deploying Claude Code across teams on major cloud platforms.",
@@ -818,17 +860,6 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "https://techcrunch.com/?p=3136944",
-      "title": "Trump administration releases Anthropic Mythos to be used by more than 100 US companies, agencies",
-      "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-      "category": "Business",
-      "date": "2026-06-27T01:01:37.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
       "id": "108327765",
       "title": "Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies",
       "summary": "Anthropic disabled access to its Fable 5 and Mythos 5 models to comply with a government export control directive citing \"national security authorities.\"",
@@ -860,17 +891,6 @@
       "date": "2026-06-27T00:26:14.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "108327730",
-      "title": "China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back",
-      "summary": "Zhipu's GLM 5.2 shows the AI fight is shifting to who delivers the most intelligence per dollar, making open source suddenly a real contender.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html",
-      "category": "Business",
-      "date": "2026-06-26T22:11:33.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "https://suno.com/blog/matt-steffanina",
@@ -1203,89 +1223,6 @@
       "date": "2026-06-25T04:00:00.000Z",
       "hot": false,
       "officialUrl": "https://news.mit.edu"
-    },
-    {
-      "id": "https://openai.com/index/how-agents-are-transforming-work",
-      "title": "How agents are transforming work",
-      "summary": "A new Economic Research paper measuring Codex’s economic potential at the frontier. (opens in a new window)Loading…ShareAgentic AI changes the unit of knowledge work from single interactions to delegated, long-horizon tasks. Chatbot interactions are often short and self-contained. Agents can operate independently for minutes or hours while orchestrating tool calls, interacting with environments, and iterating towards solutions. As a result, agents are quickly becoming the most powerful AI tool for work. Over the last year, OpenAI witnessed this transformation first-hand at OpenAI.",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/how-agents-are-transforming-work",
-      "category": "Models",
-      "date": "2026-06-25T02:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://aiweekly.co/issues/anthropic-says-alibaba-stole-29-million-conversations-with",
-      "title": "AI Weekly Issue #507: Anthropic Says Alibaba Stole 29 Million Conversations With Claude",
-      "summary": "Anthropic accused Alibaba of running 25,000 fake accounts to pull nearly 29 million conversations out of Claude — then took the evidence to the White House. That was just the opening shot in a week the labs spent at war with everyone, including each other: poaching Google's top Gemini minds, watching their own developer tools get pried open by anonymous strangers, and staring down Europe's August disclosure deadline. The only companies cleanly printing money this week sell memory and silicon — not models. While the labs spent the week accusing each other of theft and poaching each other's staff, the companies actually banking the AI boom barely made the front page. Micron just posted its best quarter ever: $41.5 billion in revenue and a record 84.9% gross margin, with its high-bandwidth memory — the part every AI accelerator needs — effectively sold out and more than $1 billion of next-generation HBM4 already shipped. It guided next quarter to $50 billion.",
-      "source": "AI Weekly",
-      "sourceUrl": "https://aiweekly.co/issues/anthropic-says-alibaba-stole-29-million-conversations-with",
-      "category": "Curation",
-      "date": "2026-06-25T00:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://aiweekly.co"
-    },
-    {
-      "id": "https://www.theinformation.com/articles/trump-administration-asks-openai-stagger-release-new-model-security-concerns?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "OpenAI to Stagger GPT-5.6 Release After U.S. Security Review Request",
-      "summary": "OpenAI CEO Sam Altman told staff that GPT-5.6 will launch in a limited preview to select partners after the federal government requested a staggered release. The Office of the National Cyber Director and the Office of Science and Technology Policy made the request, and Commerce Secretary Howard Lutnick separately warned OpenAI against launching without broader agency approvals. Altman hopes a general release will follow a couple of weeks later. The episode reflects growing industry confusion over whether the Trump administration's AI oversight is truly voluntary.",
-      "source": "theinformation.comPaywalled",
-      "sourceUrl": "https://www.theinformation.com/articles/trump-administration-asks-openai-stagger-release-new-model-security-concerns?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-06-25T00:00:00.000Z",
-      "hot": true,
-      "access": "paywalled"
-    },
-    {
-      "id": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Google Finance Gets Upgrades and a New App",
-      "summary": "With new updates to Google Finance, you can track your investment portfolio and stay on top of market intel. Plus, .google is introducing a new Android app. Barine Tee Principal Engineer, Search Share x.com Facebook LinkedIn Mail Copy link class ProgressiveImage { EVENTS = { TRANSITION_END: 'transitionend', }; CSS_CLASSES = { BLUR: 'uni-progressive-image--blur', NO_BLUR: 'uni-progressive-image--no-blur', }; init(el) { this.el = el; this._events(); this._upgradeImage(); } _upgradeImage() { // For gif format images .google don't include data-srcset and data-sizes // .google can safely remove the blur filter. if (!this.el.dataset.srcset || !this.el.dataset.sizes) { this.el.classList.add(this.CSS_CLASSES.NO_BLUR); return; } this.el.setAttribute('srcset', this.el.dataset.srcset); this.el.setAttribute('sizes', this.el.dataset.sizes); requestAnimationFrame(() => { this.el.classList.add(this.CSS_CLASSES.NO_BLUR); }); } _events() { // Once the transition completes is safe to clean some attributes this.el.addEventListener(this.EVENTS.TRANSITION_END, () => { this.el.classList.remove(this.CSS_CLASSES.BLUR, this.CSS_CLASSES.NO_BLUR); this.el.removeAttribute('data-srcset'); this.el.removeAttribute('data-sizes'); }); } } document.addEventListener('DOMContentLoaded', () => { const images = document.querySelectorAll('[data-component=\"uni-progressive-image\"]'); images.forEach((el) => { el.setAttribute('data-component-initialized', true); new ProgressiveImage().init(el); }); }); Investing is co",
-      "source": "blog.google",
-      "sourceUrl": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-06-25T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://x.com/runwayml/status/2070215480401604954?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Runway Introduces Agent 2.0 for AI Marketing Briefs and Campaign Assets",
-      "summary": "Runway has launched Agent 2.0, a new tool built into its platform that lets users go from a simple prompt to fully realized marketing briefs and campaign assets. The system can also analyze performance data to help improve creative output and scale it across platforms, formats, and markets. Agent 2.0 represents Runway's push into AI-powered marketing workflows, streamlining the process from ideation to multi-platform campaign execution.",
-      "source": "Runway on X",
-      "sourceUrl": "https://x.com/runwayml/status/2070215480401604954?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-06-25T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://x.com/mcuban/status/2070211760196587534?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "OpenAI, LLM Leaders Must Address AI Backlash Over Data Centers, Mark Cuban Says",
-      "summary": "Mark Cuban argues that opposition to AI data centers is actually a proxy for broader anger over AI's economic disruption and wealth concentration. He urges OpenAI and other major LLM companies to launch community tours focused not on explaining AI benefits, but on helping towns facing job losses. Cuban also calls on AI leaders to directly engage artists and creative unions in LA and NYC, warning that buying politicians and celebrity endorsements will backfire. He says big LLMs have lost the PR battle by failing to put people first.",
-      "source": "Mark Cuban on X",
-      "sourceUrl": "https://x.com/mcuban/status/2070211760196587534?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-06-25T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Microsoft Copilot in Excel gains finance skills, data connectors and traceability",
-      "summary": "Microsoft has updated Copilot in Excel with new finance-focused features including skills, data connectors, and traceability tools. Skills let teams define repeatable workflows like DCF models or variance analyses using a SKILL.md file saved to OneDrive. New financial data connectors include CB Insights, Daloopa, FactSet, Morningstar, PitchBook, and S&P Global, joining existing LSEG and Moody's integrations. A Plan with Copilot feature outlines intended changes before execution, and edits are now attributed to Copilot in the Show Changes pane for full auditability.",
-      "source": "microsoft.com",
-      "sourceUrl": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-06-25T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://scitechdaily.com/scientists-create-ai-skin-patch-that-acts-like-an-instant-personal-doctor/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "SciTechDaily: AI Skin Patch Enables Instant On-Body Health Monitoring",
-      "summary": "Researchers developed a flexible AI computing patch that analyzes health data directly on the body, enabling near-instant medical insights and highly accurate heart monitoring. Researchers at the University of Chicago Pritzker School of Molecular Engineering (UChicago PME) have created a skin-like computing patch that can process health data using artificial intelligence directly on the body. Unlike conventional wearable devices, the patch performs AI calculations in milliseconds without needing to send information over a wireless connection. Most smartwatches can monitor metrics such as heart rate and movement, but the actual data analysis takes place on external servers. That delay can be problematic in situations where every millisecond matters, such as detecting ventricular fibrillation, a life-threatening heart rhythm disorder. Developed and tested with researchers at Argonne National Laboratory, the new device was made possible by manufacturing techniques that allow organic electrochemical transistors to be printed onto flexible materials.",
-      "source": "scitechdaily.com",
-      "sourceUrl": "https://scitechdaily.com/scientists-create-ai-skin-patch-that-acts-like-an-instant-personal-doctor/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-06-25T00:00:00.000Z",
-      "hot": false
     }
   ]
 }
