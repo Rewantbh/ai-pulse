@@ -1,6 +1,72 @@
 {
-  "lastUpdated": "2026-07-01T16:04:02.615Z",
+  "lastUpdated": "2026-07-01T18:23:43.138Z",
   "news": [
+    {
+      "id": "108328979",
+      "title": "Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong'",
+      "summary": "Karp says skyrocketing token costs are forcing companies to choose open-weight models and prioritize efficiency over so-called tokenmaxxing",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/07/01/palantir-karp-open-ai-anthropic-tokens.html",
+      "category": "Business",
+      "date": "2026-07-01T18:16:11.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "6a427baf77416f01ec3d748c",
+      "title": "You Can Now Sound the Alarm on AI Behaving Badly",
+      "summary": "Writing AI Lab each week means the author occasionally encounter AI models that behave badly and bizarrely. Usually, there’s nothing to be done about it, save for sharing those tales with you. But that could soon change. A group of AI researchers has set up a crowdsourced website, Flaw Reporting for AI (FLARE-AI), for reporting and tracking AI harms. If, for example, a chatbot generates malware or a bomb-making recipe, leaks personal information, or triggers delusional thinking in users, FLARE-AI could be used to sound the alarm. The open source code behind the system allows others to verify an issue and route reports to model makers, as well as organizations like MITRE, a nonprofit that tracks problems with technical systems.",
+      "source": "Wired AI",
+      "sourceUrl": "https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/",
+      "category": "Industry",
+      "date": "2026-07-01T18:10:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.wired.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3138183",
+      "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+      "summary": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+      "category": "Business",
+      "date": "2026-07-01T17:48:37.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "108328718",
+      "title": "We thought these 5 stocks could make a 2026 comeback. Here’s our midyear scorecard",
+      "summary": "Despite war volatility and AI concerns, the S&P 500 still managed to jump 9.5% year to date.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/07/01/we-thought-these-5-stocks-could-make-a-2026-comeback-heres-our-midyear-scorecard.html",
+      "category": "Business",
+      "date": "2026-07-01T17:15:51.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=372493",
+      "title": "Ahead of NYSE Listing, Securitize Exec Says DeFi Can Break Wall Street's Grip on Stock Lending",
+      "summary": "Securitize President Brett Redfearn argues that tokenization will bring crypto's core benefit of disintermediation to retail investors.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/372493/ahead-nyse-listing-securitize-defi-break-wall-street-stock-lending",
+      "category": "Tech",
+      "date": "2026-07-01T16:36:39.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://decrypt.co/?p=372524",
+      "title": "Anthropic Bringing Claude Fable 5 Back Online as US Lifts Export Controls",
+      "summary": "The Trump administration reversed its shutdown order after weeks of talks, with Anthropic tying Fable 5's return to a new safety classifier and other moves.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/372524/anthropic-bringing-claude-fable-5-back-online-us-lifts-export-controls",
+      "category": "Tech",
+      "date": "2026-07-01T16:24:07.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
     {
       "id": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
       "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of ...",
@@ -22,17 +88,6 @@
       "date": "2026-07-01T16:00:00.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "108328979",
-      "title": "Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong'",
-      "summary": "Karp says skyrocketing token costs are forcing companies to choose open weight models and prioritize efficiency over so-called tokenmaxxing",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/07/01/palantir-karp-open-ai-anthropic-tokens.html",
-      "category": "Business",
-      "date": "2026-07-01T15:30:23.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "108329244",
@@ -309,6 +364,16 @@
       "officialUrl": "https://huggingface.co"
     },
     {
+      "id": "https://www.anthropic.com/news/redeploying-fable-5?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Anthropic to Redeploy Claude Fable 5 With New Cybersecurity Safeguards",
+      "summary": "On Friday, June 12, the US government applied export controls to anthropic.com's newest models, Claude Fable 5 and Claude Mythos 5. This required anthropic.com to restrict access to foreign nationals, whether inside or outside the United States. Because the order took effect immediately and anthropic.com had no reliable way to verify nationality in real-time, anthropic.com suspended access to both models for all users. As of today, June 30, the export controls on Fable 5 and Mythos 5 have been lifted. Fable 5 will be available starting tomorrow, Wednesday, July 1, to users globally on the Claude Platform, Claude.ai, Claude Code, and Claude Cowork. For Pro, Max, Team, and select Enterprise plans,1 Fable 5 will be included for up to 50% of weekly usage limits through July 7, after which it will be available via usage credits.",
+      "source": "anthropic.com",
+      "sourceUrl": "https://www.anthropic.com/news/redeploying-fable-5?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-07-01T00:00:00.000Z",
+      "hot": true
+    },
+    {
       "id": "108327828",
       "title": "China-linked actors target more than technology as AI competition with U.S. intensifies",
       "summary": "Cyberattacks from China-based entities are on the rise and not just targeting specific tech, analysts warn, as the U.S. AI race intensifies.",
@@ -507,17 +572,6 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "108328791",
-      "title": "Jim Cramer: This third-best S&P 500 stock in 2026 can jump another 40%",
-      "summary": "\"Intel is going to $200 like a rocket ship,\" Jim Cramer said Tuesday.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/06/30/jim-cramer-this-third-best-sp-500-stock-in-2026-can-jump-another-40percent.html",
-      "category": "Business",
-      "date": "2026-06-30T17:54:14.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
       "id": "https://techcrunch.com/?p=3137678",
       "title": "Acti puts AI agents directly into your smartphone keyboard",
       "summary": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using natural language.",
@@ -626,28 +680,6 @@
       "date": "2026-06-30T15:30:00.000Z",
       "hot": false,
       "officialUrl": "https://news.mit.edu"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3137526",
-      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
-      "summary": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
-      "category": "Business",
-      "date": "2026-06-30T15:08:42.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=372422",
-      "title": "TD Cowen Slashes Strategy Price Target, Citing Ongoing Bitcoin Weakness",
-      "summary": "Strategy's stock price started sliding again on Tuesday, one day after breaking a nine-day losing streak.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/372422/td-cowen-slashes-strategy-price-target-bitcoin-weakness",
-      "category": "Tech",
-      "date": "2026-06-30T15:05:41.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
     },
     {
       "id": "https://blogs.nvidia.com/?p=95780",
@@ -793,6 +825,17 @@
       "officialUrl": "https://blog.google"
     },
     {
+      "id": "https://openai.com/index/genebench-pro/case-studies",
+      "title": "Inside Genebench-Pro",
+      "summary": "A closer look at the benchmark, its questions, and supporting materials. ShareCase studiesCase studiesSomatic oncology: Structural variant-guided tumor therapy benefit-risk decisionFunctional genomics: CRISPR target validation: lncRNA transcript or genomic locus?Statistical genetics: Prioritizing protein drug targets in a linked genetic locusClinical genomics / carrier screening: DRX1 carrier-screening residual risk under CNV and pseudogene calibrationSingle-cell genomics: Activated-monocyte eQTL after ambient RNA correctionStructural genetics: Nested structural variant: expression support and clinical associationRegulatory genomics: Measuring chromatin loop strength after structural-variant and mapping artifact maskingStatistical genetics: Multi-parent QTL mapping with founder reconstructionPopulation genetics: Parent-specific ancestry and recent admixture timingPopulation genetics: Estimating selection from noisy ancient-DNA time seriesTable of contents These 10 case studies showcase representative questions from GeneBench-Pro. Each case study includes the original prompt, datasets, and supporting materials. For an overview of the benchmark and key findings, see the announcement blog. Note: File previews show excerpts from the full datasets.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/genebench-pro/case-studies",
+      "category": "Models",
+      "date": "2026-06-30T00:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://openai.com"
+    },
+    {
       "id": "https://openai.com/index/introducing-genebench-pro",
       "title": "Introducing GeneBench-Pro",
       "summary": "A research-level benchmark measuring how AI agents navigate ambiguity and make consequential judgments in computational biology. (opens in a new window)Loading…ShareDataset constructionDataset constructionEvaluation and gradingResultsTable of contents Scientific data rarely arrive with instructions. Researchers must decide whether a pattern reflects biology or noise, whether the data can support the question being asked, and how each result should change what they do next. AI agents are increasingly capable of executing complex analyses, but real scientific research also depends not simply on recalling facts or following a predefined workflow but also on making these higher-order judgments. Today, OpenAI is introducing GeneBench-Pro—a challenging, research-level benchmark for testing whether models can handle the kind of judgment-heavy analysis that real-world computational biology requires.",
@@ -809,17 +852,6 @@
       "summary": "Using population-level analysis to debug tricky crashes in OpenAI's data infrastructure. Loading…ShareFirst debugging attempt: carefully examining a few core dumpsFirst debugging attempt: carefully examining a few core dumpsClues from the stackDoctor or epidemiologist?Cleaning the dataBug #1: the bad hostException handling is a dynamic control transferUndoing one last assumptionBug #2: the libunwind bugWhy the cores masked as ordinary bad returnsA single-instruction race windowWhy did the libunwind bug appear now?The power of a population-level diagnosisTable of contents OpenAI’s models and agents increasingly rely on scalable data infrastructure in order to search for relevant data at inference time: when the models are thinking about your question. Some of these services are written in C++, whose low-level control of the system lets OpenAI maximize performance and minimize memory usage. Those efficiency benefits are important as OpenAI scale, but C++’s lack of memory safety means that bugs can cause crashes by writing to incorrect or non-existent memory addresses. A few months ago OpenAI observed some crashes from inside the Rockset service, a bespoke part of OpenAI's ChatGPT data infrastructure which is key to many data plugins and to searching over conversations.",
       "source": "OpenAI News",
       "sourceUrl": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "category": "Models",
-      "date": "2026-06-30T00:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://openai.com/index/genebench-pro/case-studies",
-      "title": "Inside Genebench-Pro",
-      "summary": "A closer look at the benchmark, its questions, and supporting materials. ShareCase studiesCase studiesSomatic oncology: Structural variant-guided tumor therapy benefit-risk decisionFunctional genomics: CRISPR target validation: lncRNA transcript or genomic locus?Statistical genetics: Prioritizing protein drug targets in a linked genetic locusClinical genomics / carrier screening: DRX1 carrier-screening residual risk under CNV and pseudogene calibrationSingle-cell genomics: Activated-monocyte eQTL after ambient RNA correctionStructural genetics: Nested structural variant: expression support and clinical associationRegulatory genomics: Measuring chromatin loop strength after structural-variant and mapping artifact maskingStatistical genetics: Multi-parent QTL mapping with founder reconstructionPopulation genetics: Parent-specific ancestry and recent admixture timingPopulation genetics: Estimating selection from noisy ancient-DNA time seriesTable of contents These 10 case studies showcase representative questions from GeneBench-Pro. Each case study includes the original prompt, datasets, and supporting materials. For an overview of the benchmark and key findings, see the announcement blog. Note: File previews show excerpts from the full datasets.",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/genebench-pro/case-studies",
       "category": "Models",
       "date": "2026-06-30T00:00:00.000Z",
       "hot": false,
@@ -1359,38 +1391,6 @@
       "sourceUrl": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
       "category": "Industry",
       "date": "2026-06-27T00:26:14.000Z",
-      "hot": false,
-      "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "https://suno.com/blog/matt-steffanina",
-      "title": "Matt Steffanina on owning the music behind the movementBy Jessi Liang, Head of Creator Success·Jun 2",
-      "summary": "Matt Steffanina is an LA-based dancer, choreographer, and DJ who taught himself hip-hop dance by watching music videos in Virginia, and built one of the largest dance communities in the world from there. With over 30 million followers and 5 billion views across platforms, he’s danced for Taylor Swift and choreographed for Jason Derulo and Ava Max, returned to his roots as a festival DJ releasing his own original music, and founded DNCR Academy, an online platform bringing professional dance instruction to students everywhere. Suno sat down with Matt to talk about music, movement, and what it means to build something real online. One of the biggest advantages of being self-taught was that it forced the author to develop the author's own style. Instead of learning one specific system or being told there was a &quot;right&quot; way to move, the author was constantly studying people the author admired and figuring out what resonated with the author. the author would watch music videos, performances, and dancers from different genres, then take the author's favorite qualities from each of them and blend them into something that felt authentic.",
-      "source": "Suno Blog",
-      "sourceUrl": "https://suno.com/blog/matt-steffanina",
-      "category": "Audio",
-      "date": "2026-06-26T18:08:00.000Z",
-      "hot": true
-    },
-    {
-      "id": "https://www.techrepublic.com/?p=4363579",
-      "title": "Apple Overhauls Chip Roadmap, Ditches M6 Pro and Max for M7 Generation",
-      "summary": "Apple may skip the high-end M6 chips and shift premium Macs to AI-focused M7 processors, making the upgrade decision tougher for power users.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-apple-m6-m7-ai-mac-roadmap/",
-      "category": "Business",
-      "date": "2026-06-26T17:25:18.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "6a3e9e1ada45e3ebe065cc88",
-      "title": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them",
-      "summary": "OpenAI is delaying the public release of its next generation of AI models, GPT-5.6, at the request of Trump’s White House, the company confirmed on Friday. OpenAI said it would first share the models with a small set of customers, which will be preapproved by the US government. It will then work with the administration to slowly expand access. OpenAI is not happy about this, according to a person familiar with the company’s thinking, but believes the delay and government approval process is only temporary. In a blog post, the company said it hopes it will be able to make GPT-5.6 available to everyone in the coming weeks. OpenAI’s plans to delay its next generation of AI models at the Trump administration’s request was first reported by The Information.",
-      "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
-      "category": "Industry",
-      "date": "2026-06-26T17:05:40.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
     }
