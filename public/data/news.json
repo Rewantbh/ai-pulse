@@ -1,6 +1,138 @@
 {
-  "lastUpdated": "2026-07-01T13:18:25.839Z",
+  "lastUpdated": "2026-07-01T16:04:02.615Z",
   "news": [
+    {
+      "id": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of ...",
+      "summary": "Products Developer tools Gemini app NotebookLM See all Infrastructure &amp; cloud Global network Google Cloud See all Technology Safety &amp; Security Health See all : Platforms Android Google Play Wear OS See all Devices Pixel Google Nest Fitbit Chromebooks See all : Leadership Sundar Pichai, CEO More authors See all Inside Google Around the globe Life at Google See all : Technology can be a useful tool in the classroom as educators ask a critical question: How do Google AI ensure today’s students are ready for tomorrow’s careers? To support them, Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders. The goal: drive knowledge sharing between those hiring for the future and educators teaching it.",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+      "category": "Research",
+      "date": "2026-07-01T16:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://blog.google"
+    },
+    {
+      "id": "6a43d470fc2f4f36eb43e6bb",
+      "title": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
+      "summary": "The Trump administration lifted export controls on Anthropic’s Claude Fable 5 AI model after the company agreed to extend an existing guardrail to prevent users from trying to access certain restricted capabilities, according to two people familiar with the matter. The safeguard means any users trying to unlock those capabilities will be notified that their request is blocked and will have their query processed by the less-advanced Opus 4.8 AI model, the people say. Before Anthropic cut off access to Fable 5, user requests related to sensitive cybersecurity and biology capabilities were supposed to be processed by Opus 4.8. The new safeguard, the people say, will extend this guardrail to requests related to a specific behavior identified in a paper by Amazon. According to an analysis published by Katie Moussouris, founder and CEO of Luta Security, after reading the Amazon paper, users were able to get around a restriction on Fable 5 by asking the model to fix code, rather than identify security issues in it. While cybersecurity experts generally don’t find this behavior troubling, the administration learning about it led to the showdown with Anthropic and the imposition of export controls, which as a practical matter took the model offline.",
+      "source": "Wired AI",
+      "sourceUrl": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/",
+      "category": "Industry",
+      "date": "2026-07-01T16:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.wired.com"
+    },
+    {
+      "id": "108328979",
+      "title": "Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong'",
+      "summary": "Karp says skyrocketing token costs are forcing companies to choose open weight models and prioritize efficiency over so-called tokenmaxxing",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/07/01/palantir-karp-open-ai-anthropic-tokens.html",
+      "category": "Business",
+      "date": "2026-07-01T15:30:23.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "108329244",
+      "title": "Meta pops 10% as company makes cloud push to sell excess AI compute power capacity",
+      "summary": "The new business is a welcome signal for some investors who have been uneasy about the company's infrastructure spending plans.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/07/01/meta-stock-cloud-ai-compute.html",
+      "category": "Business",
+      "date": "2026-07-01T15:29:01.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "06JuvCdx4S465nmSaEXT9Fl",
+      "title": "Apple’s ‘Hide My Email’ feature is reportedly leaking email addresses",
+      "summary": "A major vulnerability has been discovered in one of the core privacy features that Apple offers its customers. And according to the cybersecurity researchers who discovered the exploit, this issue appears to have been ongoing for more than a year.Apple's \"Hide My Email\" is a privacy feature that obscures a user's email address by generating a unique iCloud email address, which then forwards emails to the user's main email address. The feature allows users to receive emails without revealing their personal email address.According to a new report from 404 Media, a vulnerability allows anyone to discover the email address behind the \"Hide My Email\" address Apple creates.The vulnerability, which the outlet isn't revealing because it is still exploitable, was discovered by online privacy company EasyOptOuts. 404 Media has also independently confirmed that the exploit exists. SEE ALSO: Apple iPhone 18 Pro leaks are about to get a lot more intense Typically, before an exploit is revealed to the public, researchers report their discovery to the company and give the company a reasonable amount of time to fix the vulnerability. According to EasyOptOut, they informed Apple more than a year ago, yet the vulnerability still exists.&rdquo;Apple Hide the author's Email is leaking email addresses that are supposed to be hidden,\" said EasyOptOuts cofounder Tyler Murphy.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/apple-hide-my-email-major-vulnerability-leaks-email-addresses",
+      "category": "Tech",
+      "date": "2026-07-01T15:04:50.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://www.technologyreview.com/?p=1140003",
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "summary": "Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it did for you, you may wonder if the author have superpowers. The truth is that most large language models are stuck in a rut. They are far more predictable and far less creative in their responses than you might expect.",
+      "source": "MIT Technology Review AI",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "category": "Research",
+      "date": "2026-07-01T14:35:16.000Z",
+      "hot": false,
+      "officialUrl": "https://www.technologyreview.com"
+    },
+    {
+      "id": "070sqh1GAMgoY7ilbLFO7jo",
+      "title": "Hurry: The MacBook Neo is still just $599 at Walmart",
+      "summary": "Don't look now, but as of July 1, Walmart still has the Apple MacBook Neo in stock at its original launch price. Get the 256GB base model for $599 or the 512GB model with Touch ID for $699. Once both configurations sell out at those prices, they'll be $100 more expensive in accordance with Apple's recent price hikes. At the time of writing, they were already out of stock in indigo and blush, respectively. Opens in a new window Credit: Apple Apple MacBook Neo (A18 Pro, 8GB RAM, 256GB SSD) $599 at Walmart $699 Save $100 &nbsp; Get Deal Opens in a new window Credit: Apple Apple MacBook Neo (A18 Pro, 8GB RAM, 512GB SSD) $699 at Walmart $799 Save $100 &nbsp; Get Deal ICYMI, Apple raised its prices on all MacBooks by at least $100 last week because of the global RAM shortage. (\"RAMageddon\" is making laptops and other consumer tech way more expensive to manufacture right now.) The changes first went into effect in the Apple Store on June 25, and third-party retailers followed suit in the days after.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/june-1-apple-macbook-neo-walmart",
+      "category": "Tech",
+      "date": "2026-07-01T14:29:22.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3138022",
+      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+      "summary": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+      "category": "Business",
+      "date": "2026-07-01T14:25:23.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3138055",
+      "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+      "summary": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+      "category": "Business",
+      "date": "2026-07-01T14:20:19.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "04EGFNWs4kiDzfvtqNlMa2X",
+      "title": "The LG gram 15-inch Copilot+ laptop is down to best-ever price — buy for $250 off at Amazon",
+      "summary": "SAVE 17%: The LG gram 15-inch Copilot+ (AMD Ryzen AI 7 350, 16GB RAM, 1TB SSD) is on sale for $1,199.99 at Amazon. That's down from $1,449.99. LG gram 15-inch Copilot+ (AMD Ryzen AI 7 350, 16GB RAM, 1TB SSD) $1,099.99 at Amazon $1,449.99 Save $350 &nbsp; Get Deal at Amazon If your laptop is struggling to keep up, it might be time for an upgrade. LG released the 15-inch Copilot+ gram laptop in 2025 (it made its big debut at CES), and it's built for portability. So, if you're someone who jumps from coffee shop to coffee shop (hi, it's the author), this could be a good option to check out.Right now, you can get the LG gram 15-inch Copilot+ (AMD Ryzen AI 7 350, 16GB RAM, 1TB SSD) for $1,199.99 at Amazon, down from $1,449.99. That's a 17% discount or $250 savings; it's also just $100 more than its lowest price tracked to date.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/jul-1-lg-gram-laptop-deal",
+      "category": "Tech",
+      "date": "2026-07-01T14:12:35.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "00MFvEBb5lda6PhHr8CSYg8",
+      "title": "7 ways the Samsung Galaxy S26 Ultra turns your next festival into content worth posting",
+      "summary": "TL;DR key takeaways:The 200-megapixel main sensor and F1.4 aperture capture sharper, brighter shots in the low-light conditions most phones struggle with after sunset.&nbsp;The 50-megapixel telephoto features 5x optical and 10x optical-quality zoom, so performers stay in frame and in focus from anywhere in the crowd.&nbsp;Super Steady[1] with Horizontal Lock keeps video stable and level even when you're being jostled in a packed pit.&nbsp;Galaxy AI[2] tools like Photo Assist[3] and Creative Studio[4] let you clean up shots and turn them into shareable content straight from your device.You're at a festival you&rsquo;ve been eagerly anticipating for months; the lights are dramatic and the crowd is abuzz. You snap both photos and videos, hoping to chronicle this once-in-a-lifetime experience, but nothing adequately captures the energy of the scene. Before you know it, you&rsquo;ve missed three of the headliner&rsquo;s hits just trying to get a single usable clip.If you&rsquo;re in the market for a device upgrade, the Samsung Galaxy S26 Ultra is built to perform, so you can get back to the performance. The device pairs a 200-megapixel main sensor and wider F1.4 aperture with a stack of AI tools that handle the technicalities so you can stay present the whole weekend. Opens in a new window Credit: Samsung Galaxy S26 Ultra Upgrade your social media photos with this powerhouse smartphone camera Shop Now Here's how the Galaxy S26 Ultra upstages the competition.1. Steady your crowd...",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/ad/tech/how-the-samsung-galaxy-s26-ultra-turns-your-next-festival-into-content",
+      "category": "Tech",
+      "date": "2026-07-01T14:02:59.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3138038",
+      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+      "summary": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+      "category": "Business",
+      "date": "2026-07-01T13:43:07.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
     {
       "id": "108329147",
       "title": "Tech leads first half stock gains — but the biggest winners weren't in the U.S.",
@@ -123,28 +255,6 @@
       "officialUrl": "https://mashable.com"
     },
     {
-      "id": "00vSeYcqTObu4tbd36RG45V",
-      "title": "Anthropic is restoring Fable access today",
-      "summary": "Fable and Mythos are back, baby. Anthropic has announced it will restore access to its most powerful models, Claude Fable 5, and Claude Mythos 5, to users worldwide on Wednesday July 1. The decision comes after the U.S. government lifted the worldwide export ban on the models, as it deemed them too powerful to be used by foreign nationals. This Tweet is currently unavailable. It might be loading or has been removed.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/anthropic-fable-restore-access",
-      "category": "Tech",
-      "date": "2026-07-01T07:22:35.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
-      "id": "00sQVBU3We4PmNCn5ZyLApA",
-      "title": "Why managing a family’s digital footprint requires a holistic strategy",
-      "summary": "It should come as no surprise, but modern Australian households have long evolved past the point of a &rdquo;family computer&rdquo;. That relic of a bygone millennial era &ndash; the family&rsquo;s sole access point to riding the information superhighway. Back when people used to say things like &ldquo;surfing the web&rdquo; and for that matter, the phrase &ldquo;riding the information superhighway&rdquo;. Today, your typical Australian family manages an entire ecosystem of connected infrastructure: smartphones, remote work laptops, school-issued tablets, gaming consoles, and an expanding list of smart home IoT (Internet of Things) devices. This can make creating watertight digital security for an entire household tricky. As these multi-device ecosystems scale, they introduce a wider attack surface for external threats while complicating internal privacy management.This is why at PCMag, Mashable recommend trying to consolidate your household&rsquo;s digital security into a single suite as much as possible.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/family-digital-security-australia",
-      "category": "Tech",
-      "date": "2026-07-01T03:51:30.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
       "id": "https://suno.com/blog/dream-relic",
       "title": "How Dream Relic sees sound and gets it stuck in your headBy Jessi Liang, Head of Creator Success·Jun",
       "summary": "Broc Vaughn, also known as Dream Relic, is an AI visual artist turning surreal, cinematic images into a larger audiovisual world. After first building an audience through dream-like videos, he began using Suno to give that world a sound – transforming old lyrics and visual instincts into songs for his TikTok, Hooks, Spotify, and an upcoming full-length album. Suno sat down with Dream Relic to talk about building emotional worlds through AI, the viral moment that made him rethink his music process, and why the goal isn’t to make people think about the tools, but to make them feel something. Dream Relic is a feeling more than a place. It&#x27;s that indescribable longing for somewhere you&#x27;ve never actually been but somehow recognize – like a memory of a place that doesn&#x27;t exist. It blends a wide range of aesthetics under the same umbrella: retro-futuristic, dark fantasy, dreamcore, liminal spaces, sci-fi, divine feminine figures, alien ancient technology.",
@@ -186,6 +296,17 @@
       "date": "2026-07-01T00:03:55.000Z",
       "hot": false,
       "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "category": "Research",
+      "date": "2026-07-01T00:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
     },
     {
       "id": "108327828",
@@ -351,17 +472,6 @@
       "date": "2026-06-30T19:02:38.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "108328654",
-      "title": "AWS puts $1 billion into new AI unit to embed engineers with customers, joining growing wave",
-      "summary": "AWS FDEs will look to leave behind self-sufficient teams with new AI solutions and capabilities in a matter of weeks, the company said.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/06/30/aws-amazon-ai-forward-deployed-engineers.html",
-      "category": "Business",
-      "date": "2026-06-30T18:53:10.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "https://huggingface.co/blog/ibm-research/scarfbench",
@@ -562,28 +672,6 @@
       "officialUrl": "https://blogs.nvidia.com"
     },
     {
-      "id": "https://techcrunch.com/?p=3135237",
-      "title": "Podcasting platform Riverside enters the newsletter publishing game",
-      "summary": "Users will be able use AI to create newsletters based on their recordings.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
-      "category": "Business",
-      "date": "2026-06-30T15:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3137516",
-      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
-      "summary": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
-      "category": "Business",
-      "date": "2026-06-30T15:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
       "id": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
       "title": "Why Specialization Is Inevitable",
       "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
@@ -604,17 +692,6 @@
       "date": "2026-06-30T14:01:54.000Z",
       "hot": false,
       "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3137266",
-      "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
-      "summary": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
-      "category": "Business",
-      "date": "2026-06-30T14:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
     },
     {
       "id": "https://www.techrepublic.com/article/news-ford-veteran-engineers-ai-quality-setback/",
@@ -692,17 +769,6 @@
       "date": "2026-06-30T09:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3137159",
-      "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
-      "summary": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
-      "category": "Business",
-      "date": "2026-06-30T09:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
     },
     {
       "id": "https://www.techrepublic.com/article/news-apac-china-lineshine-fastest-supercomputer/",
@@ -1325,27 +1391,6 @@
       "sourceUrl": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
       "category": "Industry",
       "date": "2026-06-26T17:05:40.000Z",
-      "hot": false,
-      "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "https://suno.com/blog/eric-christian",
-      "title": "Eric Christian on hearing the orchestra inside a melodyBy Jessi Liang, Head of Creator Success·Jun 2",
-      "summary": "Eric Christian is a New York-based pianist and composer. Trained at Berklee and rooted in the classical tradition, his music prioritizes melody and emotional depth over production — he&#x27;s sold over 100,000 scores to players in 200 countries who want to perform it themselves. Suno sat down with Eric to talk about his creative process, what it means to build out a full orchestral vision without a full orchestra, and why he&#x27;s never been afraid to be early to something new. Honestly that’s probably the hardest question. For the longest time it seemed impossible to answer. Even the author's entire time at Berklee the author had no idea what the author's voice as a composer was.",
-      "source": "Suno Blog",
-      "sourceUrl": "https://suno.com/blog/eric-christian",
-      "category": "Audio",
-      "date": "2026-06-26T15:39:00.000Z",
-      "hot": true
-    },
-    {
-      "id": "6a3d753bcc004f122ee0cdd3",
-      "title": "Europe Is Fed Up and Wants Its Own AI",
-      "summary": "Emmanuel Macron, president of France, discussed AI&apos;s risks at the G7 Summit.Photo-Illustration: WIRED Staff; Getty Images Earlier this month the author attended Vivatech, a huge tech conference in Paris. One fear dominated the discussions: the prospect of ending up stuck using American AI, trained on American values. While the US and China are locked in an AI arms race, France and Germany, which consider their engineering talent second to none, feel boxed out. Not only are they demanding to be heard, but they are touting plans to address the situation. If “sovereignty” was your word in a drinking game, you’d be pickled within three hours. In the author's decades of reporting on tech, the author has covered multiple efforts by countries to replicate the Silicon Valley effect.",
-      "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/europe-is-fed-up-and-wants-its-own-ai/",
-      "category": "Industry",
-      "date": "2026-06-26T15:00:00.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
     }
