@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2026-07-05T14:27:46.125Z",
+  "lastUpdated": "2026-07-05T15:46:18.320Z",
   "news": [
+    {
+      "id": "02fL7Kyvb47vxjrcEYQfyzc",
+      "title": "Teslas Robotaxi service is now active in part of Miami",
+      "summary": "A new fleet of autonomous taxis has arrived in one of America's worst traffic cities.Specifically, Tesla's Robotaxi service is now active in Miami, according to a post from the company on X. The same post included a map of a relatively small portion of West Miami, where you can currently hail a Robotaxi. Presumably, more of the city will be included in the service at some point, but for now, the robot cars are limited to those areas. SEE ALSO: Autopiloted Tesla reportedly involved in Texas crash that killed a woman This Tweet is currently unavailable. It might be loading or has been removed. This follows a limited rollout in Houston and Dallas back in April.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/tesla-robotaxi-miami-autonomous-vehicle-cab",
+      "category": "Tech",
+      "date": "2026-07-05T14:56:19.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
     {
       "id": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
       "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
@@ -1076,61 +1087,6 @@
       "date": "2026-06-30T16:02:40.000Z",
       "hot": false,
       "officialUrl": "https://deepmind.google"
-    },
-    {
-      "id": "https://www.theverge.com/column/959433/libby-ai-filter",
-      "title": "Libby will filter out AI content, kind of",
-      "summary": "The ebook-lending app’s filters will rely on AI content being self-labeled. The ebook-lending app’s filters will rely on AI content being self-labeled. “AI is the new frontier for us,” says Marc DeBevoise, who took over as the new CEO of OverDrive last week. OverDrive is best known for the ebook lending app Libby that is available through tens of thousands of public libraries. Like the rest of the digital publishing industry, it’s poised to face massive disruption from a huge wave of AI-generated books. To prepare for the AI onslaught, Libby is now getting ready to introduce AI content controls, allowing readers to select in the app’s settings whether they want to see AI-generated content or not.",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/column/959433/libby-ai-filter",
-      "category": "Industry",
-      "date": "2026-06-30T15:30:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
-      "id": "https://news.mit.edu/2026/agentic-ai-and-what-do-we-want-it-be-0630",
-      "title": "Q&A: What is agentic AI today, and what do we want it to be?",
-      "summary": "The deployment of automated software systems called AI agents has recently exploded. A November 2025 report by&nbsp;MIT Sloan School of Management and Boston Consulting Group found that 35 percent of surveyed businesses had already deployed AI agents, while another 44 percent planned to implement agentic AI soon.&nbsp;To understand the fundamentals and potential impacts of these increasingly popular tools, MIT News spoke with Phillip Isola, an associate professor in the Department of Electrical Engineering and Computer Science (EECS) and a member of the Computer Science and Artificial Intelligence Laboratory (CSAIL), who studies the intelligence AI agents possess, as well as the underlying models and mechanisms that power agentic AI systems.Q:&nbsp;What is agentic AI and how is it different from generative AI models like ChatGPT and Claude?A:&nbsp;Agentic AI is AI that takes actions in the world. These actions could be a physical action, like robotic manipulation, or a digital action, like booking a flight. On the other hand, MIT  ML think of generative AI as making up stories, poems, art, and images, rather than taking actions for MIT  ML.&nbsp;The word “agent” is just a brand name. It usually means AI that is going to help people interact with an application, a website, or the physical world. Most agents MIT  ML encounter today are digital agents, like customer service agents you can talk with about product complaints.&nbsp;Most companies that offer agents use the same f...",
-      "source": "MIT News ML",
-      "sourceUrl": "https://news.mit.edu/2026/agentic-ai-and-what-do-we-want-it-be-0630",
-      "category": "Research",
-      "date": "2026-06-30T15:30:00.000Z",
-      "hot": false,
-      "officialUrl": "https://news.mit.edu"
-    },
-    {
-      "id": "https://blogs.nvidia.com/?p=95780",
-      "title": "How NVIDIA’s Inference Software Stack Powers the Lowest Token Cost",
-      "summary": "As organizations move from AI pilots to production AI factories, infrastructure decisions have shifted from peak chip specifications to cost per token: how many useful tokens they can deliver per dollar, per watt and within required latency targets. Codesigned with NVIDIA GPUs, CPUs, networking and systems, and strengthened by a broad open source ecosystem, NVIDIA’s full-stack inference software continuously improves hardware performance. On the NVIDIA Blackwell platform, the software stack has already reduced token costs by up to 5x on the DeepSeek V4 model in just one month. SemiAnalysis InferenceX results comparing token cost and interactivity for NVIDIA GB300 NVL72 systems with SGLang and the NVIDIA Dynamo inference framework. Leading companies and inference providers are already seeing the compounding value of NVIDIA’s inference software stack on Blackwell: Baseten used the NVIDIA TensorRT-LLM open source library to serve DeepSeek V4 Pro on Blackwell GPUs for reasoning, coding and long-context workloads, applying proprietary runtime optimizations to deliver up to 50% more tokens per second. Cognition is using the NVIDIA Dynamo inference framework to manage inference GPUs, giving its team a ready-made path to scale reinforcement learning workloads without needing to build that infrastructure from scratch.",
-      "source": "NVIDIA Blog",
-      "sourceUrl": "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/",
-      "category": "Events",
-      "date": "2026-06-30T15:00:57.000Z",
-      "hot": false,
-      "officialUrl": "https://blogs.nvidia.com"
-    },
-    {
-      "id": "https://blogs.nvidia.com/?p=95748",
-      "title": "How Jaiveer Singh Is Helping Robots — and Developers — Move Faster",
-      "summary": "When Jaiveer Singh talks about robots, he doesn’t begin with spectacle. He begins with infrastructure: the boards inside machines, the software that lets developers see through a robot&#8217;s cameras and the engineering required before a robot can leave a demo floor to do something useful. As a robotics software engineer who leads the team behind NVIDIA Isaac ROS (Robot Operating System), Singh works on the connective tissue of the physical AI era. Built on the open source ROS 2 framework, Isaac ROS brings CUDA-accelerated libraries and AI models to developers building autonomous mobile robots, manipulation systems and humanoids. “My goal is to make sure everyone feels like they are a part of the robotics future,” Singh said. For Singh, that future began in middle school, building with LEGO Mindstorms, a popular line of programmable robotics kits.",
-      "source": "NVIDIA Blog",
-      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/",
-      "category": "Events",
-      "date": "2026-06-30T15:00:49.000Z",
-      "hot": false,
-      "officialUrl": "https://blogs.nvidia.com"
-    },
-    {
-      "id": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
-      "title": "Why Specialization Is Inevitable",
-      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
-      "category": "Research",
-      "date": "2026-06-30T14:39:11.000Z",
-      "hot": false,
-      "officialUrl": "https://huggingface.co"
     }
   ]
 }
