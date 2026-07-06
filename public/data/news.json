@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05T22:57:14.984Z",
+  "lastUpdated": "2026-07-06T00:01:56.597Z",
   "news": [
     {
       "id": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
@@ -925,69 +925,6 @@
       "date": "2026-07-01T00:03:55.000Z",
       "hot": false,
       "officialUrl": "https://www.theverge.com"
-    },
-    {
-      "id": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-      "summary": "Hugging Face Blog released a major industry update. Click to read the full report on their technical blog.",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-      "category": "Research",
-      "date": "2026-07-01T00:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://huggingface.co"
-    },
-    {
-      "id": "https://www.anthropic.com/news/redeploying-fable-5?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Anthropic to Redeploy Claude Fable 5 With New Cybersecurity Safeguards",
-      "summary": "Access to Claude Fable 5 and Mythos 5 is now restored. On Friday, June 12, the US government applied export controls to anthropic.com's newest models, Claude Fable 5 and Claude Mythos 5. This required anthropic.com to restrict access to foreign nationals, whether inside or outside the United States. Because the order took effect immediately and anthropic.com had no reliable way to verify nationality in real-time, anthropic.com suspended access to both models for all users. As of today, June 30, the export controls on Fable 5 and Mythos 5 have been lifted. Fable 5 will be available starting tomorrow, Wednesday, July 1, to users globally on the Claude Platform, Claude.ai, Claude Code, and Claude Cowork.",
-      "source": "anthropic.com",
-      "sourceUrl": "https://www.anthropic.com/news/redeploying-fable-5?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-07-01T00:00:00.000Z",
-      "hot": true
-    },
-    {
-      "id": "https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Meta Plans Cloud Business to Sell AI Compute and Models",
-      "summary": "Meta is developing a cloud infrastructure business called Meta Compute to sell excess AI computing power and model access to outside customers, directly competing with AWS, Microsoft Azure, and Google Cloud. Plans include an AWS Bedrock-style model hosting service featuring Meta's own Muse Spark models, plus raw compute capacity similar to CoreWeave. The initiative is led by Santosh Janardhan, Daniel Gross, and Dina Powell McCormick. Meta shares jumped 9.3% on the news, while CoreWeave fell 14%.",
-      "source": "bloomberg.comPaywalled",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-07-01T00:00:00.000Z",
-      "hot": false,
-      "access": "paywalled"
-    },
-    {
-      "id": "https://venturebeat.com/technology/restaurants-can-now-accept-orders-placed-directly-from-chatgpt-and-claude-thanks-to-squares-new-low-fee-no-setup-integration?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Square Lets Restaurants Accept Orders Directly From ChatGPT and Claude",
-      "summary": "Square has launched a ChatGPT app and Claude plugin letting U.S. Food and Beverage sellers accept orders placed directly inside AI chat interfaces, with no setup required and zero added marketplace commission fees. Restaurants pay only Square's standard processing rate of 2.9% plus $0.30 per transaction, versus DoorDash and Uber Eats commissions reaching 30%. Orders sync with Square's live catalog and appear on existing POS and Kitchen Display Systems. Square is also partnering with Amazon for Alexa+ voice commerce and co-developing Google's Universal Commerce Protocol.",
-      "source": "venturebeat.com",
-      "sourceUrl": "https://venturebeat.com/technology/restaurants-can-now-accept-orders-placed-directly-from-chatgpt-and-claude-thanks-to-squares-new-low-fee-no-setup-integration?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-07-01T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Cloudflare to Block AI Crawlers Unless They Separate Training Bots",
-      "summary": "Cloudflare is giving AI companies until September 15, 2026 to separate web crawlers used for search from those used for AI training and agents. After that deadline, default settings will block mixed-use crawlers from any pages hosting ads, affecting new customers and all existing free-tier sites. CEO Matthew Prince cited bots now surpassing human internet traffic as motivation. Cloudflare is also expanding its Pay Per Crawl marketplace into Pay Per Use, with initial partners Ceramic.ai and You.com paying publishers when their content generates value.",
-      "source": "techcrunch.com",
-      "sourceUrl": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-07-01T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "6a444aeecc4e13141a617b4f",
-      "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models",
-      "summary": "Anthropic CEO Dario AmodeiPhotograph: Dominique Jacovides/AP Photo The Trump administration is lifting export controls on Anthropic’s two most powerful AI models after the company reached a deal with the Commerce Department. The news was communicated in a letter sent by Commerce Secretary Howard Lutnick to Anthropic cofounder Tom Brown viewed by WIRED. The department is lifting restrictions on both the Fable 5 model and the more powerful Mythos 5 model, which had so far been approved for release only to select companies and government agencies. “A license is no longer required for the export, reexport, or in-country transfer, including deemed export or deemed reexport, of the Mythos or Fable models,” Lutnick wrote. The developments come as Anthropic has been working with the Commerce Department and the White House to strengthen safeguards against users bypassing Fable&#x27;s safety restrictions to access restricted capabilities, especially those related to cybersecurity, according to people familiar with the matter. “Among other things, Anthropic has agreed to proactively detect and address security risks associated with the models; to work diligently with the U.S.",
-      "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
-      "category": "Industry",
-      "date": "2026-06-30T23:23:04.000Z",
-      "hot": false,
-      "officialUrl": "https://www.wired.com"
     }
   ]
 }
