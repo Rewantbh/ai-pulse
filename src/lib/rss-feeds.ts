@@ -139,6 +139,38 @@ export const RSS_FEEDS: NewsSource[] = [
     category: "Business",
   },
 
+  // FutureTools source parity — general outlets (AI keyword filter applies)
+  {
+    name: "Ars Technica AI",
+    url: "https://arstechnica.com/ai/feed/",
+    category: "Industry",
+  },
+  {
+    name: "MacRumors",
+    url: "https://feeds.macrumors.com/MacRumors-All",
+    category: "Tech",
+  },
+  {
+    name: "Digital Trends",
+    url: "https://www.digitaltrends.com/feed/",
+    category: "Tech",
+  },
+  {
+    name: "Politico Tech",
+    url: "https://rss.politico.com/technology.xml",
+    category: "Industry",
+  },
+  {
+    name: "Investing.com",
+    url: "https://www.investing.com/rss/news_25.rss",
+    category: "Business",
+  },
+  {
+    name: "Fabbaloo",
+    url: "https://feeds.feedburner.com/fabbaloo",
+    category: "Tech",
+  },
+
   // Research & Academic
   {
     name: "MIT News ML",
