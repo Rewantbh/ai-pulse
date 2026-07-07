@@ -24,7 +24,7 @@ export const RSS_FEEDS: NewsSource[] = [
   },
   {
     name: "Microsoft AI Blog",
-    url: "https://blogs.microsoft.com/ai/feed/",
+    url: "https://news.microsoft.com/source/topics/ai/feed/",
     category: "Models",
   },
   {
@@ -120,14 +120,10 @@ export const RSS_FEEDS: NewsSource[] = [
   },
   {
     name: "Engadget AI",
-    url: "https://www.engadget.com/tag/ai/rss.xml",
+    url: "https://www.engadget.com/rss.xml",
     category: "Tools",
   },
-  {
-    name: "Unite.ai",
-    url: "https://www.unite.ai/feed/",
-    category: "Research",
-  },
+  // Unite.ai removed: site disabled RSS feeds entirely
   {
     name: "Decrypt AI",
     url: "https://decrypt.co/feed",

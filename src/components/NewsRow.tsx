@@ -68,6 +68,11 @@ export function NewsRow({ item }: { item: NewsItem }) {
                 🔒 Paywalled
               </span>
             )}
+            {item.relatedCoverage && item.relatedCoverage.length > 0 && (
+              <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-[9px] font-black uppercase tracking-wider bg-sky-500/10 text-sky-400 border border-sky-500/20">
+                +{item.relatedCoverage.length} source{item.relatedCoverage.length > 1 ? "s" : ""}
+              </span>
+            )}
             
             {item.summary && (
               <>
@@ -147,6 +152,23 @@ export function NewsRow({ item }: { item: NewsItem }) {
             )}
           </div>
           <p className="font-medium text-slate-300 selection:bg-violet-500/20">{item.summary}</p>
+          {item.relatedCoverage && item.relatedCoverage.length > 0 && (
+            <div className="mt-3 pt-3 border-t border-slate-800/60 flex flex-wrap items-center gap-2 select-none">
+              <span className="text-[9px] font-black uppercase tracking-wider text-slate-500">Also covered by</span>
+              {item.relatedCoverage.map((r) => (
+                <a
+                  key={r.url}
+                  href={r.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onClick={(e) => e.stopPropagation()}
+                  className="text-[10px] font-semibold text-sky-400 hover:text-sky-300 bg-sky-500/5 hover:bg-sky-500/10 border border-sky-500/15 rounded-full px-2.5 py-0.5 transition-colors"
+                >
+                  {r.source} ↗
+                </a>
+              ))}
+            </div>
+          )}
         </div>
       )}
     </div>

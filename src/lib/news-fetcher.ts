@@ -29,6 +29,19 @@ export interface NewsItem {
   pricing?: string;
   usage?: string;
   officialUrl?: string;
+  relatedCoverage?: { source: string; url: string }[];
+}
+
+export interface SourceStat {
+  name: string;
+  items: number;
+  status: "ok" | "empty" | "error";
+  error?: string;
+}
+
+let lastFetchStats: SourceStat[] = [];
+export function getSourceStats(): SourceStat[] {
+  return lastFetchStats;
 }
 
 function isAIContent(title: string, summary: string, source: string): boolean {
@@ -142,27 +155,42 @@ function applyPronounReplacements(text: string, sourceName: string): string {
   return result;
 }
 
+// Pronoun rewriting ("we" -> company name) only makes sense on first-party
+// company blogs. On publisher prose it garbles text (e.g. "keeps us informed"
+// -> "keeps TechCrunch informed"), so publishers skip it entirely.
+const FIRST_PARTY_SOURCES = [
+  "Anthropic", "OpenAI", "Google", "DeepMind", "Microsoft", "Meta", "Mistral",
+  "Hugging Face", "NVIDIA", "Cohere", "Perplexity", "Suno", "Pika",
+  "LangChain", "LlamaIndex", "Leonardo", "ElevenLabs", "Runway", "Bing"
+];
+
+function isFirstPartySource(source: string): boolean {
+  return FIRST_PARTY_SOURCES.some(s => source.toLowerCase().includes(s.toLowerCase()));
+}
+
 /**
  * Transforms first-person narratives into neutral, third-person perspective.
  */
 export function neutralizeSummary(text: string, source: string): string {
   if (!text) return "";
   let cleaned = cleanSummary(text);
-  
+
   const sourceName = source.replace(/\b(Blog|News|Weekly|Tech|Daily|Report)\b|X:/gi, "").trim() || source;
-  
+
   // Split by quotation marks (double quotes and curly quotes) to avoid replacing pronouns inside direct speech/quotes
   const segments = cleaned.split(/(["“‘].*?["”’])/g);
-  
-  for (let i = 0; i < segments.length; i++) {
-    const seg = segments[i];
-    // A simple heuristic: if a segment starts and ends with quotes, we preserve it as is
-    const isQuoted = /^[“"‘].*[”"’]$/.test(seg.trim());
-    if (!isQuoted) {
-      segments[i] = applyPronounReplacements(seg, sourceName);
+
+  if (isFirstPartySource(source)) {
+    for (let i = 0; i < segments.length; i++) {
+      const seg = segments[i];
+      // A simple heuristic: if a segment starts and ends with quotes, we preserve it as is
+      const isQuoted = /^[“"‘].*[”"’]$/.test(seg.trim());
+      if (!isQuoted) {
+        segments[i] = applyPronounReplacements(seg, sourceName);
+      }
     }
   }
-  
+
   let result = segments.join("");
 
   result = result.charAt(0).toUpperCase() + result.slice(1);
@@ -176,17 +204,27 @@ export function neutralizeSummary(text: string, source: string): string {
 /**
  * Core Batch Fetcher with Concurrency Control
  */
+function recordStat(name: string, items: number, error?: string) {
+  lastFetchStats.push({
+    name,
+    items,
+    status: error ? "error" : items > 0 ? "ok" : "empty",
+    ...(error ? { error } : {}),
+  });
+}
+
 async function fetchInBatches(sources: NewsSource[], batchSize = 6): Promise<NewsItem[]> {
   const allResults: NewsItem[] = [];
-  
+
   for (let i = 0; i < sources.length; i += batchSize) {
     const batch = sources.slice(i, i + batchSize);
     console.log(`[Queue] Processing Batch ${i / batchSize + 1} (${batch.length} sources)...`);
-    
+
     const batchResults = await Promise.all(batch.map(async (source) => {
       try {
         if (source.scraperMode) {
           const items = await scrapeNewsFromSource(source);
+          recordStat(source.name, items.length);
           return items.map(item => ({
             ...item,
             summary: neutralizeSummary(item.summary, item.source).substring(0, 1500)
@@ -215,6 +253,7 @@ async function fetchInBatches(sources: NewsSource[], batchSize = 6): Promise<New
           }
         }).catch(e => {
           console.error(`[Error] Failed to parse XML for ${source.name}:`, e.message);
+          recordStat(source.name, 0, e.message || "XML fetch/parse failed");
           return null;
         });
 
@@ -295,9 +334,11 @@ async function fetchInBatches(sources: NewsSource[], batchSize = 6): Promise<New
             officialUrl: new URL(source.url).origin
           });
         }
+        recordStat(source.name, feedItems.length);
         return feedItems;
       } catch (e: any) {
         console.error(`[Fatal] Error processing ${source.name}:`, e.message);
+        recordStat(source.name, 0, e.message || "unknown error");
         return [];
       }
     }));
@@ -311,8 +352,18 @@ async function fetchInBatches(sources: NewsSource[], batchSize = 6): Promise<New
 }
 
 export async function fetchAllNews(): Promise<NewsItem[]> {
-  const allItems = await fetchInBatches(RSS_FEEDS);
-  
+  lastFetchStats = [];
+  // X/Twitter items come from the dedicated twitter-fetcher, not a page scrape
+  const scrapableFeeds = RSS_FEEDS.filter((s) => !s.name.startsWith("X / Twitter"));
+  const allItems = await fetchInBatches(scrapableFeeds);
+
+  // Date sanity: clamp future-dated items (timezone quirks, publish-ahead feeds)
+  // so the site never shows tomorrow's date.
+  const nowIso = new Date().toISOString();
+  allItems.forEach((item) => {
+    if (new Date(item.date).getTime() > Date.now()) item.date = nowIso;
+  });
+
   // Deduplicate by URL
   const uniqueItemsMap = new Map<string, NewsItem>();
   allItems.forEach((item) => {
@@ -337,6 +388,75 @@ export async function fetchAllNews(): Promise<NewsItem[]> {
   return freshItems.sort(
     (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
   );
+}
+
+const TITLE_STOPWORDS = new Set([
+  "a", "an", "the", "to", "of", "in", "on", "for", "and", "or", "with", "its",
+  "is", "are", "at", "as", "by", "from", "after", "over", "into", "how", "why",
+  "what", "says", "said", "will", "be", "it", "this", "that", "has", "have",
+  "up", "out", "about", "just", "now", "more", "can", "you", "your", "their",
+]);
+
+function titleTokens(title: string): Set<string> {
+  return new Set(
+    title
+      .toLowerCase()
+      .replace(/[^a-z0-9\s]/g, " ")
+      .split(/\s+/)
+      .filter((t) => t.length > 2 && !TITLE_STOPWORDS.has(t))
+  );
+}
+
+function titlesMatch(a: Set<string>, b: Set<string>): boolean {
+  const smaller = a.size <= b.size ? a : b;
+  const larger = a.size <= b.size ? b : a;
+  if (smaller.size === 0) return false;
+  let shared = 0;
+  smaller.forEach((t) => {
+    if (larger.has(t)) shared++;
+  });
+  return shared >= 3 && shared / smaller.size >= 0.7;
+}
+
+/**
+ * Collapses the same story reported by multiple outlets into one entry.
+ * The earliest report stays as the primary item (credit to whoever broke it);
+ * later reports become `relatedCoverage` links.
+ */
+export function clusterSimilarStories(items: NewsItem[]): NewsItem[] {
+  const chronological = [...items].sort(
+    (a, b) => new Date(a.date).getTime() - new Date(b.date).getTime()
+  );
+
+  const primaries: { item: NewsItem; tokens: Set<string> }[] = [];
+
+  for (const item of chronological) {
+    const tokens = titleTokens(item.title);
+    const match = primaries.find((p) => titlesMatch(p.tokens, tokens));
+
+    if (!match) {
+      primaries.push({ item: { ...item }, tokens });
+      continue;
+    }
+
+    const primary = match.item;
+    // Normalize so "fabbaloo.com" (FutureTools attribution) matches "Fabbaloo"
+    const norm = (s: string) =>
+      s.toLowerCase().replace(/\.(com|io|ai|co|org|net)$/, "").replace(/[^a-z0-9]/g, "");
+    const alreadyLinked =
+      norm(primary.source) === norm(item.source) ||
+      primary.relatedCoverage?.some((r) => norm(r.source) === norm(item.source));
+    if (!alreadyLinked) {
+      primary.relatedCoverage = [
+        ...(primary.relatedCoverage || []),
+        { source: item.source, url: item.sourceUrl },
+      ];
+    }
+  }
+
+  return primaries
+    .map((p) => p.item)
+    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 }
 
 export async function saveNewsToFile(items: NewsItem[]) {
