@@ -28,6 +28,22 @@ const TABS = [
   { id: "tools", label: "New AI Tools", icon: <span className="text-lg">🛠️</span> }
 ];
 
+// Data is committed to GitHub by the update workflow; reading it straight from
+// raw.githubusercontent.com means new items appear without waiting for a redeploy.
+const LIVE_DATA_BASE = "https://raw.githubusercontent.com/Rewantbh/ai-pulse/main/public/data";
+const REFRESH_INTERVAL_MS = 5 * 60 * 1000;
+
+async function fetchJsonWithFallback(liveUrl: string, fallbackUrl: string) {
+  try {
+    const res = await fetch(liveUrl, { cache: "no-store" });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    return await res.json();
+  } catch {
+    const res = await fetch(fallbackUrl);
+    return await res.json();
+  }
+}
+
 export default function AINewsAggregator() {
   const [activeTab, setActiveTab] = useState("news");
   const [activeNewsCategory, setActiveNewsCategory] = useState("All");
@@ -39,16 +55,15 @@ export default function AINewsAggregator() {
   const [loading, setLoading] = useState(true);
   const [refreshing, setRefreshing] = useState(false);
 
-  const fetchData = async () => {
-    setLoading(true);
+  const fetchData = async (background = false) => {
+    if (background) setRefreshing(true);
+    else setLoading(true);
     try {
-      const [newsRes, toolsRes] = await Promise.all([
-        fetch("/api/news"),
-        fetch("/api/tools")
+      const [news, tools] = await Promise.all([
+        fetchJsonWithFallback(`${LIVE_DATA_BASE}/news.json`, "/api/news"),
+        fetchJsonWithFallback(`${LIVE_DATA_BASE}/tools.json`, "/api/tools")
       ]);
-      const news = await newsRes.json();
-      const tools = await toolsRes.json();
-      
+
       setNewsData(news.news || []);
       setToolsData(tools.tools || []);
       setLastUpdated(news.lastUpdated);
@@ -56,11 +71,22 @@ export default function AINewsAggregator() {
       console.error("Failed to fetch data:", error);
     } finally {
       setLoading(false);
+      setRefreshing(false);
     }
   };
 
   useEffect(() => {
     fetchData();
+
+    const interval = setInterval(() => fetchData(true), REFRESH_INTERVAL_MS);
+    const onVisible = () => {
+      if (document.visibilityState === "visible") fetchData(true);
+    };
+    document.addEventListener("visibilitychange", onVisible);
+    return () => {
+      clearInterval(interval);
+      document.removeEventListener("visibilitychange", onVisible);
+    };
   }, []);
 
   const filteredNews = useMemo(() => {
@@ -137,7 +163,10 @@ export default function AINewsAggregator() {
           </div>
 
           <div className="text-[10px] text-slate-500 text-right">
-            <span className="block font-bold uppercase text-slate-600 tracking-widest">Last Update</span>
+            <span className="flex items-center justify-end gap-1.5 font-bold uppercase text-slate-600 tracking-widest">
+              <span className={`w-1.5 h-1.5 rounded-full ${refreshing ? "bg-amber-400 animate-pulse" : "bg-emerald-400"}`} />
+              {refreshing ? "Updating…" : "Live"}
+            </span>
             <span>{lastUpdated ? new Date(lastUpdated).toLocaleTimeString() : "Synchronizing..."}</span>
           </div>
         </div>
@@ -215,7 +244,7 @@ export default function AINewsAggregator() {
           <div className="flex flex-col gap-4">
             <h4 className="text-lg font-black text-white italic">AI PULSE</h4>
             <p className="text-xs text-slate-500 max-w-xs leading-relaxed">
-              Updating every hour to bring you the edge of innovation. 
+              Auto-updating around the clock to bring you the edge of innovation.
               Designed for the explorers of tomorrow.
             </p>
           </div>
