@@ -250,7 +250,7 @@ export default function AINewsAggregator() {
           </div>
           <div className="text-center md:text-right">
             <p className="text-[10px] text-slate-600 font-bold uppercase tracking-[0.2em] mb-2">Curated with ❤️ in Nepal</p>
-            <p className="text-xs text-slate-400">© 2026 AI Pulse Network</p>
+            <p className="text-xs text-slate-400">© 2026 AI Pulse Network · <span className="text-slate-500">v2.0 — live engine</span></p>
           </div>
         </div>
       </footer>
