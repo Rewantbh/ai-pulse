@@ -8,8 +8,23 @@ export function NewsRow({ item }: { item: NewsItem }) {
 
   const copyToClipboard = (e: React.MouseEvent) => {
     e.stopPropagation();
-    const text = `📢 ${item.title}\n\n${item.summary || ""}\n\nVia ${item.source}\nRead more: ${item.sourceUrl}`;
-    navigator.clipboard.writeText(text).then(() => {
+    const dateStr = new Date(item.date).toLocaleDateString("en-US", {
+      weekday: "long", month: "long", day: "numeric", year: "numeric",
+    });
+
+    const lines = [`📢 ${item.title}`, ""];
+    if (item.summary) {
+      lines.push(item.summary, "");
+    }
+    lines.push(`📰 Source: ${item.source} (${domain})`);
+    lines.push(`🗓 ${dateStr}`);
+    lines.push(`🔗 Read in full: ${item.sourceUrl}`);
+    if (item.relatedCoverage && item.relatedCoverage.length > 0) {
+      lines.push("", "Also covered by:");
+      item.relatedCoverage.forEach((r) => lines.push(`• ${r.source}: ${r.url}`));
+    }
+
+    navigator.clipboard.writeText(lines.join("\n")).then(() => {
       setCopied(true);
       setTimeout(() => setCopied(false), 2000);
     });

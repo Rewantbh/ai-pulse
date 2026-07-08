@@ -9,6 +9,28 @@ const USER_AGENTS = [
 const getRandomUserAgent = () => USER_AGENTS[Math.floor(Math.random() * USER_AGENTS.length)];
 
 /**
+ * Decodes common HTML entities left behind after tag stripping, so summaries
+ * read as clean prose (&rsquo; -> ', &nbsp; -> space, etc.).
+ */
+export function decodeEntities(text: string): string {
+  if (!text) return "";
+  return text
+    .replace(/&nbsp;/gi, " ")
+    .replace(/&quot;/gi, '"')
+    .replace(/&apos;|&#x27;|&#039;/gi, "'")
+    .replace(/&rsquo;|&lsquo;/gi, "'")
+    .replace(/&rdquo;|&ldquo;/gi, '"')
+    .replace(/&mdash;/gi, "—")
+    .replace(/&ndash;/gi, "–")
+    .replace(/&hellip;/gi, "…")
+    .replace(/&lt;/gi, "<")
+    .replace(/&gt;/gi, ">")
+    .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(parseInt(n, 10)))
+    .replace(/&#x([0-9a-f]+);/gi, (_, n) => String.fromCodePoint(parseInt(n, 16)))
+    .replace(/&amp;/gi, "&");
+}
+
+/**
  * Extract date from URL or HTML crumbs
  */
 function extractDateFromUrl(url: string): string | null {
@@ -78,14 +100,25 @@ export async function verifyArticleDateAndSummary(url: string, sourceName: strin
       }
     }
 
-    // Default fallback if no good paragraph found
+    // Fall back to the page's own meta description (og:description etc.) —
+    // usually a clean 1-2 sentence editorial summary.
     if (!extractedSummary) {
-      extractedSummary = `${sourceName} released a major industry update. Click to read the full report on their technical blog.`;
+      const metaDesc =
+        html.match(/property="og:description"\s+content="([^"]+)"/i)?.[1] ||
+        html.match(/content="([^"]+)"\s+property="og:description"/i)?.[1] ||
+        html.match(/name="description"\s+content="([^"]+)"/i)?.[1] ||
+        html.match(/content="([^"]+)"\s+name="description"/i)?.[1] ||
+        html.match(/"description"\s*:\s*"([^"]{60,500})"/)?.[1];
+      if (metaDesc && metaDesc.length > 40) {
+        extractedSummary = decodeEntities(metaDesc).replace(/\s+/g, " ").trim();
+      }
     }
 
-    return { 
+    // No placeholder text: a missing summary must stay missing so the UI and
+    // the copy button can degrade to headline + link honestly.
+    return {
       date: metaDate ? new Date(metaDate).toISOString() : null,
-      summary: extractedSummary.substring(0, 1500)
+      summary: extractedSummary ? extractedSummary.substring(0, 1500) : null
     };
   } catch {
     return { date: null, summary: null };
@@ -145,15 +178,15 @@ async function scrapeFutureTools(source: NewsSource): Promise<NewsItem[]> {
         let deepSummary = null;
         if (href) {
           const verification = await verifyArticleDateAndSummary(href, source.name);
-          if (verification.summary && !verification.summary.includes("released a major industry update")) {
+          if (verification.summary) {
             deepSummary = verification.summary;
           }
         }
 
+        // If neither deep-crawl nor the card yielded text, leave summary empty
+        // (headline-only item) rather than inventing filler.
         if (deepSummary) {
           summary = deepSummary;
-        } else if (!summary) {
-          summary = `${source.name} highlights: ${title}. Read more on the original source.`;
         }
 
         const isPaywalled = cardHtml.includes("Paywalled") || cardHtml.includes("bg-red-400") || cardHtml.includes("border-l-red-400");
@@ -252,8 +285,8 @@ export async function scrapeNewsFromSource(source: NewsSource): Promise<NewsItem
           ? { date: urlDate, summary: null } 
           : await verifyArticleDateAndSummary(href, source.name);
         
-        // Fallback summary if we didn't do deep verification or it failed
-        const finalSummary = verification.summary || `${source.name} released a major industry update. Click to read the full report on their technical blog.`;
+        // No filler text if deep verification failed — headline-only is honest
+        const finalSummary = verification.summary || "";
 
         // DROP POLICY: If we can't prove it's fresh, we don't show it
         if (!verification.date) {

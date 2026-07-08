@@ -1,6 +1,6 @@
 import Parser from "rss-parser";
 import { RSS_FEEDS, NewsSource } from "./rss-feeds";
-import { scrapeNewsFromSource, verifyArticleDateAndSummary } from "./scraper-engine";
+import { scrapeNewsFromSource, verifyArticleDateAndSummary, decodeEntities } from "./scraper-engine";
 import fs from "fs";
 import path from "path";
 
@@ -76,7 +76,7 @@ function isAIContent(title: string, summary: string, source: string): boolean {
  */
 function cleanSummary(text: string): string {
   if (!text) return "";
-  let result = text.trim();
+  let result = decodeEntities(text.trim());
   
   // 1. Remove Wired/tech blog comment and save story boilerplates (no word boundaries because they get mashed together in HTML-to-text conversion)
   result = result.replace(/(CommentLoader|Save Story|Save this story)/gi, " ");
@@ -289,13 +289,16 @@ async function fetchInBatches(sources: NewsSource[], batchSize = 6): Promise<New
           // If RSS payload didn't yield at least 5 sentences, deep crawl the article link!
           if (!summary || summary.split(/(?<=[.!?])\s+/).length < 5) {
             const verification = await verifyArticleDateAndSummary(item.link, source.name);
-            if (verification.summary && !verification.summary.includes("released a major industry update")) {
+            if (verification.summary) {
               const crawlSentences = verification.summary.split(/(?<=[.!?])\s+/)
                 .map((s: string) => s.trim())
                 .filter((s: string) => s.length > 25 && !/subscribe|newsletter|follow us|sign up|read more|click here|written by|copyright|transition period|consent|cookie|our partners/i.test(s));
               
               if (crawlSentences.length >= 3) {
                 summary = crawlSentences.slice(0, 6).join(" ");
+              } else if (!summary && crawlSentences.length > 0) {
+                // A short meta description beats no summary at all
+                summary = crawlSentences.join(" ");
               }
             }
           }
@@ -310,12 +313,14 @@ async function fetchInBatches(sources: NewsSource[], batchSize = 6): Promise<New
             } else if (cleanSnippet && !isSnippetInvalid) {
               summary = cleanSnippet;
             } else {
-              summary = `${source.name} released a major industry update. Click to read the full report on their technical blog.`;
+              // Nothing real to show — keep it empty so the item renders as
+              // headline + link instead of carrying filler text.
+              summary = "";
             }
           }
 
           // Neutralize and clean
-          let cleanTitle = item.title.trim();
+          let cleanTitle = decodeEntities(item.title.trim());
           let neutralizedSummary = neutralizeSummary(summary.trim(), source.name);
 
           // Length Constraints

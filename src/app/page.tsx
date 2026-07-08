@@ -64,7 +64,13 @@ export default function AINewsAggregator() {
         fetchJsonWithFallback(`${LIVE_DATA_BASE}/tools.json`, "/api/tools")
       ]);
 
-      setNewsData(news.news || []);
+      // Strip legacy placeholder summaries still present in older data files
+      const cleanNews = (news.news || []).map((n: NewsItem) =>
+        n.summary && n.summary.includes("released a major industry update")
+          ? { ...n, summary: "" }
+          : n
+      );
+      setNewsData(cleanNews);
       setToolsData(tools.tools || []);
       setLastUpdated(news.lastUpdated);
     } catch (error) {
