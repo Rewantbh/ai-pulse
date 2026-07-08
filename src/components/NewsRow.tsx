@@ -15,6 +15,7 @@ export function NewsRow({ item }: { item: NewsItem }) {
     const lines = [`📢 ${item.title}`, ""];
     if (item.summary) {
       lines.push(item.summary, "");
+      if (item.aiSummary) lines.push("(Summary written by AI from the headline)", "");
     }
     lines.push(`📰 Source: ${item.source} (${domain})`);
     lines.push(`🗓 ${dateStr}`);
@@ -157,8 +158,13 @@ export function NewsRow({ item }: { item: NewsItem }) {
         >
           <div className="flex items-center gap-2 mb-2 select-none">
             <span className="text-[9px] font-black uppercase tracking-wider text-slate-500">
-              TLDR Summary
+              {item.aiSummary ? "AI-Written TLDR" : "TLDR Summary"}
             </span>
+            {item.aiSummary && (
+              <span className="text-[9px] px-1.5 py-0.5 rounded bg-violet-500/10 text-violet-400 border border-violet-500/20 font-bold uppercase tracking-wider">
+                🤖 AI
+              </span>
+            )}
             <div className="h-px bg-slate-800/60 flex-grow" />
             {item.hot && (
               <span className="text-[9px] font-black uppercase text-violet-405 tracking-widest animate-pulse">

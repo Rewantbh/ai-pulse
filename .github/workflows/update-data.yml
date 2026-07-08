@@ -29,6 +29,8 @@ jobs:
         run: npm install
 
       - name: Fetch News
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: npx tsx fetch-news.ts
 
       - name: Source health alert

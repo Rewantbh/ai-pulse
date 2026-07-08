@@ -1,5 +1,6 @@
 import { fetchAllNews, saveNewsToFile, getSourceStats, clusterSimilarStories, SourceStat } from "./src/lib/news-fetcher";
 import { fetchAllTweets } from "./src/lib/twitter-fetcher";
+import { generateMissingSummaries } from "./src/lib/ai-summarizer";
 import fs from "fs";
 import path from "path";
 
@@ -56,6 +57,9 @@ async function main() {
   // Collapse the same story from multiple outlets into one entry
   const clusteredNews = clusterSimilarStories(combinedNews);
   console.log(`Clustering: ${combinedNews.length} items -> ${clusteredNews.length} stories.`);
+
+  // AI-written TLDRs for stories that still have no body (crawl-blocked sources)
+  await generateMissingSummaries(clusteredNews);
 
   await saveNewsToFile(clusteredNews);
 

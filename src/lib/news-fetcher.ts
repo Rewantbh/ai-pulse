@@ -30,6 +30,7 @@ export interface NewsItem {
   usage?: string;
   officialUrl?: string;
   relatedCoverage?: { source: string; url: string }[];
+  aiSummary?: boolean;
 }
 
 export interface SourceStat {
@@ -456,6 +457,12 @@ export function clusterSimilarStories(items: NewsItem[]): NewsItem[] {
         ...(primary.relatedCoverage || []),
         { source: item.source, url: item.sourceUrl },
       ];
+    }
+
+    // If the primary (e.g. a crawl-blocked source) has no body but a later
+    // report of the same story does, adopt that text — same story, real prose.
+    if ((!primary.summary || primary.summary.length < 80) && item.summary && item.summary.length > 120) {
+      primary.summary = item.summary;
     }
   }
 
