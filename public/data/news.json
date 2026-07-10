@@ -1,38 +1,169 @@
 {
-  "lastUpdated": "2026-07-10T15:45:09.130Z",
+  "lastUpdated": "2026-07-10T17:44:04.416Z",
   "news": [
     {
-      "id": "108332934",
-      "title": "SK Hynix stock opens at $170 on Nasdaq, as trillion-dollar chip company welcomes U.S. investors",
-      "summary": "SK Hynix has soared to a trillion-dollar market cap by serving some of the biggest names in technology, including Nvidia and Apple.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/07/10/sk-hynix-skhy-stock-nasdaq.html",
+      "id": "https://www.engadget.com/2212484/netflix-paramount-sony-in-talks-to-buy-letterboxd/",
+      "title": "Netflix, Paramount, Sony and others are reportedly in talks to buy Letterboxd",
+      "summary": "The movie-centric social network is said to be seeking new ownership. Claudio Borquez Arias/Shutterstock Letterboxd may have a new majority owner in the near future, and some eyebrow-raising names are among the potential buyers. Netflix, Sony Pictures, Paramount, private equity company TPG and Reddit co-founder Alexis Ohanian are all in the mix, according to Puck. A Semafor report from earlier this year indicated Fandango and Rotten Tomatoes owner Versant was interested too. Holding company Tiny has seemingly been in talks with potential buyers for its stake in the social network for film buffs. In 2023, Tiny bought 60 percent of Letterboxd at a reported valuation of $50 million.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2212484/netflix-paramount-sony-in-talks-to-buy-letterboxd/",
+      "category": "Tools",
+      "date": "2026-07-10T17:32:15.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3140971",
+      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+      "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build US factories.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
       "category": "Business",
-      "date": "2026-07-10T15:40:40.000Z",
+      "date": "2026-07-10T17:17:12.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "108333374",
+      "title": "Air taxi company Beta wraps first test flights in U.S. government's pilot program",
+      "summary": "Beta is one of several electric air taxi makers racing to secure Federal Aviation Administration certification and start flying passengers commercially.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/07/10/beta-evtol-air-taxi-trump-program.html",
+      "category": "Business",
+      "date": "2026-07-10T17:07:11.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/bank-of-america-data-shows-retail-spending-rose-in-june-93CH-4786526",
-      "title": "Bank of America data shows retail spending rose in June",
+      "id": "https://www.investing.com/news/stock-market-news/us-makes-it-easier-to-export-certain-military-items-ai-chips-and-commercial-satellites-to-the-uae-4786613",
+      "title": "US makes it easier to export certain military items, AI chips and commercial satellites to the UAE",
       "summary": "",
       "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/bank-of-america-data-shows-retail-spending-rose-in-june-93CH-4786526",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/us-makes-it-easier-to-export-certain-military-items-ai-chips-and-commercial-satellites-to-the-uae-4786613",
       "category": "Business",
-      "date": "2026-07-10T15:19:04.000Z",
+      "date": "2026-07-10T17:00:29.000Z",
       "hot": false,
       "officialUrl": "https://www.investing.com"
     },
     {
+      "id": "https://www.investing.com/news/stock-market-news/sk-hynix-set-for-marquee-us-debut-in-test-for-ai-appetite-4785365",
+      "title": "SK Hynix shares jump in marquee US debut as AI euphoria persists",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/sk-hynix-set-for-marquee-us-debut-in-test-for-ai-appetite-4785365",
+      "category": "Business",
+      "date": "2026-07-10T16:54:34.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "108332934",
+      "title": "SK Hynix opens at $170 on Nasdaq. Chairman tells CNBC 'demand is enormous'",
+      "summary": "SK Hynix has soared to a trillion-dollar market cap by serving some of the biggest names in technology, including Nvidia and Apple.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/07/10/sk-hynix-skhy-stock-nasdaq.html",
+      "category": "Business",
+      "date": "2026-07-10T16:53:11.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://cohere.com/blog/hardware-aware-dynamic-speculative-decoding",
+      "title": "Hardware aware dynamic speculative decoding",
+      "summary": "Speculative decoding (SD) is a popular technique for accelerating large language model (LLM) inference without any loss in quality. LLM inference generates one token at a time. SD instead uses a smaller draft model to propose multiple tokens, which are then verified by the large target model in a single timestep. Because more than one token can be accepted per step, this speeds up generation. SD achieves its speedup by exploiting the tradeoff between the compute and memory bandwidth of a GPU. Batching multiple requests improves GPU utilization, but the operating regime depends on the batch size (BS):",
+      "source": "Cohere Blog",
+      "sourceUrl": "https://cohere.com/blog/hardware-aware-dynamic-speculative-decoding",
+      "category": "Models",
+      "date": "2026-07-10T16:48:00.000Z",
+      "hot": true
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=5989120",
+      "title": "Why Window-Mounted Fresh Air Systems Are Gaining Attention Among Renters",
+      "summary": "As modern homes become more sealed and indoor living becomes more intensive, healthy air is becoming a practical home comfort issue rather than a niche wellness concern. With remote work keeping more residents indoors for extended stretches, heightened focus on indoor air cleanliness has intensified amid seasonal pollen surges, wildfire haze and other outdoor contaminants. In response, a growing number of companies, including Cozeware, are exploring ways to bring fresh outdoor air indoors without requiring costly renovations or permanent installation, particularly for apartment dwellers and renters. Cozeware Spiked indoor CO₂ concentrations, pet dander and wildfire smoke infiltration can constantly degrade living comfort, yet most standard air solutions fail apartment and rental dwellers due to renovation limits. Cozeware Opening windows is often the simplest way to bring fresh air indoors, but it is not always a practical year-round solution. Seasonal pollen, wildfire smoke, extreme weather, and outdoor noise can make natural ventilation difficult, particularly for people living in urban areas or spending long hours at home.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/contributor-content/why-window-mounted-fresh-air-systems-are-gaining-attention-among-renters/",
+      "category": "Tech",
+      "date": "2026-07-10T16:40:07.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/07/10/apple-watch-accounts-for-most-ai-smartwatches/",
+      "title": "Apple Watch Accounts for 90% of AI Smartwatch Shipments",
+      "summary": "Apple accounted for roughly 90% of all Edge AI-capable smartwatch shipments in the first quarter of 2026, according to new data from Counterpoint Research. That dominance came as Edge AI penetration across the broader smartwatch market grew 70% year-over-year, reaching 25% in the first quarter of 2026, according to Counterpoint's Global Smartwatch Shipments Tracker. \"Edge AI\" refers to artificial intelligence that runs directly on a device's own chip rather than being processed on remote servers. On the Apple Watch, that means the onboard Neural Engine handles tasks like recognizing an irregular heartbeat or detecting a fall in the moment, without sending data to a paired iPhone or the cloud first. Anshika Jain, Principal Analyst at Counterpoint Research, said: Brands have been continuously upgrading their smartwatch hardware to make devices more AI-capable. Edge AI integration enables real-time health insights and faster responses while helping ensure data privacy.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/07/10/apple-watch-accounts-for-most-ai-smartwatches/",
+      "category": "Tech",
+      "date": "2026-07-10T16:33:36.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "108333379",
+      "title": "Meta's stock heads for best week since early 2024 as optimism builds around AI strategy",
+      "summary": "Meta released two AI models this week as part of its new Muse Spark family, under the leadership of Alexandr Wang.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/07/10/meta-shares-surge-6percent-as-optimism-grows-on-it.html",
+      "category": "Business",
+      "date": "2026-07-10T16:19:17.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/07/10/the-macrumors-show-macbook-ultra-is-coming/",
+      "title": "The MacRumors Show: Goodbye MacBook Pro? MacBook Ultra Is Coming",
+      "summary": "The company is said to be skipping the M6 Pro and M6 Max entirely, jumping from the M5 generation straight to the M7 for its high-end laptops. A standard M6 chip will still arrive this year in an entry-level &zwnj;MacBook Pro&zwnj;, but there will apparently be no Pro or Max variant in that family. As a result, Apple's first high-end OLED laptop will use the existing M5 Pro and M5 Max chips rather than newer silicon. First-generation buyers would therefore be paying a premium for a redesigned machine featuring the same processors already found in the current &zwnj;MacBook Pro&zwnj;, with M7 Pro and M7 Max models expected to follow in the second half of 2027. The launch window remains fluid. The device was long expected to arrive in late 2026, but memory chip constraints and Apple's recent price increases have pushed it toward early 2027.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/07/10/the-macrumors-show-macbook-ultra-is-coming/",
+      "category": "Tech",
+      "date": "2026-07-10T16:12:24.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
       "id": "108333043",
-      "title": "Kraken to launch agentic trading as crypto exchanges evolve beyond crypto",
-      "summary": "Kraken is preparing to relaunch its app with agentic trading at its core, the company told CNBC exclusively.",
+      "title": "Kraken is rebuilding its app around agentic trading as crypto exchanges evolve beyond crypto",
+      "summary": "Kraken is rebuilding its app around agentic trading, the company told CNBC exclusively.",
       "source": "CNBC Tech",
       "sourceUrl": "https://www.cnbc.com/2026/07/10/kraken-to-launch-agentic-trading-as-crypto-exchanges-evolve-beyond-crypto.html",
       "category": "Business",
-      "date": "2026-07-10T15:18:14.000Z",
+      "date": "2026-07-10T16:01:26.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
+      "title": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta",
+      "summary": "Uncontrollable urge Disable autoplay and infinite scroll or risk massive fines, EU tells Meta Digital Services Act may force Meta to make big changes on its platforms. On Thursday, the EC said its investigation indicated that “Meta did not adequately assess the risks of its addictive design on the physical and mental wellbeing of users, including minors and vulnerable adults.” “These features fuel the user’s urge to keep scrolling and shift the brain into ‘autopilot mode,’ contributing to unhealthy habits and compulsive use,” the commission said. Over the next few months, Meta will have an opportunity to dispute the claims, and it has already taken a defensive stance. Meta’s spokesperson, Ben Walters, told Reuters that Meta disagrees with the commission’s preliminary findings, which supposedly “don’t accurately take into account the significant steps we’ve taken to protect teens.” “Since this investigation began, we rolled out Teen Accounts that automatically protect teens and put parents in control—allowing them to block access to Instagram at night ‌and cap ⁠daily screen time at just 15 minutes,” Walters said.",
+      "source": "Ars Technica AI",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
+      "category": "Industry",
+      "date": "2026-07-10T15:46:18.000Z",
+      "hot": false,
+      "officialUrl": "https://arstechnica.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=5989080",
+      "title": "Meta’s addictive Instagram and Facebook design could lead to billions in fines and a forced redesign",
+      "summary": "Meta is in big trouble with the European Union over how addictive its apps are, and this time it could cost the company big. The European Commission announced today that Meta breached the Digital Services Act, a law that requires large online platforms to assess and reduce the risks tied to their design. The Commission's preliminary findings specifically called out Instagram and Facebook features like infinite scroll, autoplay, push notifications, and personalized recommendations, which are the tools that keep you glued to your screen for hours. According to the Commission, Meta never properly studied how these features affect users' mental and physical health, especially minors and vulnerable adults. Regulators say autoplay and infinite scroll constantly serve up new content, pushing the brain into \"autopilot mode\" and fueling compulsive use. The investigation also found that Meta overlooked data on how much time teens spend on its platforms late at night.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/phones/meta-could-be-forced-to-redesign-its-apps-as-the-eu-labels-them-addictive-and-inadequate-for-safety/",
+      "category": "Tech",
+      "date": "2026-07-10T15:41:07.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "http://feeds.fabbaloo.com/~/960013964/0/fabbaloo/default~MakerWorld-Removes-Over-Models-in-Crackdown-on-Inappropriate-Content",
+      "title": "MakerWorld Removes Over 1,000 Models in Crackdown on Inappropriate Content",
+      "summary": "Bambu Lab is cleaning up MakerWorld. The post MakerWorld Removes Over 1,000 Models in Crackdown on Inappropriate Content appeared on Fabbaloo.",
+      "source": "Fabbaloo",
+      "sourceUrl": "http://feeds.fabbaloo.com/~/960013964/0/fabbaloo/default~MakerWorld-Removes-Over-Models-in-Crackdown-on-Inappropriate-Content",
+      "category": "Tech",
+      "date": "2026-07-10T15:09:00.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.feedburner.com"
     },
     {
       "id": "https://www.digitaltrends.com/?p=5989060",
@@ -101,6 +232,17 @@
       "officialUrl": "https://www.digitaltrends.com"
     },
     {
+      "id": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
+      "title": "Instagram’s Adam Mosseri: If you don’t like AI, ‘then you shouldn’t have it in your feed’",
+      "summary": "Mosseri still doesn’t want to filter out AI posts completely, however. Mosseri still doesn’t want to filter out AI posts completely, however. Though Instagram head Adam Mosseri doesn’t want to filter out AI content on the platform, he argues that you “shouldn’t have it in your feed” if you don’t like it. “I don’t think we should filter out AI content,” Mosseri said during an interview on Lenny Rachitsky’s podcast. “I think we should let you know if content is AI content or not.” At the same time, Mosseri seems to be drawing a distinction between content-based sorting and banning AI from the platform entirely.",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
+      "category": "Industry",
+      "date": "2026-07-10T13:45:02.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
       "id": "https://www.engadget.com/2212213/volkswagen-will-shrink-model-lineup-and-factory-footprint/",
       "title": "Volkswagen will dramatically shrink its model lineup and factory footprint",
       "summary": "It follows reports of 100,000 jobs being under threat at the German automaker. Tobias Arhelger/Shutterstock Volkswagen is planning to cut its model line-up in half, as part of Europe's largest automaker's huge efficiency overhaul. The Volkswagen Group's future plans were outlined in a press release cosigned by its Executive Board, in which it also pledged to reduce its production capacity to nine million vehicles per year, down from 12 million pre-COVID-19. A reduction of two million units has already been made. The company blames the \"changed global market environment\" (aka tariffs) and intensifying global competition. In its effort to transform Volkswagen into \"the most attractive automotive company in the word\" by 2030, the model lineup will gradually be \"streamlined\" by up to 50 percent, with its focus shifting to the most profitable market segments.",
@@ -110,6 +252,17 @@
       "date": "2026-07-10T13:40:00.000Z",
       "hot": false,
       "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
+      "title": "Would you host part of an AI data center in your home?",
+      "summary": "Sunrun’s building a ‘nationwide compute network’ that will run AI from small compute nodes in customers’ homes. Sunrun’s building a ‘nationwide compute network’ that will run AI from small compute nodes in customers’ homes. A solar and home energy storage company is expanding into AI data centers, but not by building one — instead, it’s offering to pay its customers to put its compute units in their homes. Sunrun is launching a pilot program for a new “distributed AI compute” program that will “place numerous compute nodes in homes equipped with Sunrun solar and battery storage systems.” Customers will be “compensated” for participating in the pilot program. Sunrun plans to sell the distributed compute power from the nodes to “enterprise compute buyers,” like AI companies. It’s a new approach to finding resources and space for AI compute infrastructure, as data centers face increasing pushback across the country.",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
+      "category": "Industry",
+      "date": "2026-07-10T13:20:25.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
     },
     {
       "id": "01DSfZAGoelU76W2eu3PhoR",
@@ -277,17 +430,6 @@
       "officialUrl": "https://feeds.macrumors.com"
     },
     {
-      "id": "https://www.digitaltrends.com/?p=5988973",
-      "title": "Android can now back up more of your phone, but Google is also letting you say no",
-      "summary": "Google is reshaping Android backup in two directions at once. New switches let you stop several types of phone data from being uploaded, while a separate Documents feature can save local files to Google Drive. The controls cover messages, call history, and device settings. Each category can now be turned off individually instead of being backed up automatically, joining the newer per-app switches already appearing through Google Play services. Documents backup goes the other way by adding more data to the cloud. The feature was first disclosed in the February Google Play services release notes, with 9to5Google later spotting the working controls in the latest rollout.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/phones/android-can-now-back-up-more-of-your-phone-but-google-is-also-letting-you-say-no/",
-      "category": "Tech",
-      "date": "2026-07-10T10:31:36.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
       "id": "6a32c2a603c0be2f1d7e8d35",
       "title": "A New Experiential Gallery Just Might Change Your Mind About AI Art",
       "summary": "Photograph: Courtesy of Coral Dreams/Refik Anadol “I think we are literally in a renaissance,” says the artist Refik Anadol, in a characteristically optimistic comment, when asked how he sees this moment in art history, with artificial intelligence ascendant yet controversial as a medium. “We just don’t have a name for it yet.” Anadol, known for technological installations that probe the relationship between humans and machines, has reason to be happy. On June 20, Dataland, the cutting-edge downtown Los Angeles gallery he cofounded with studio partner Efsun Erkılıç, opened its doors to an eager public. Billed as the first “museum of AI arts” in the world, it welcomed more than 10,000 visitors to the opening exhibit in the first two weeks, Anadol tells WIRED. Courtesy of DatalandThe set piece is his most ambitious to date, an immersive architectural vision titled Machine Dreams: Rainforest.",
@@ -354,17 +496,6 @@
       "officialUrl": "https://openai.com"
     },
     {
-      "id": "https://www.digitaltrends.com/?p=5988937",
-      "title": "Outlook will soon warn you before you answer an outdated email",
-      "summary": "Microsoft has recently been cleaning up some longstanding Windows 11 pain points, including parts of the Start menu and Search. According to a new report from Windows Latest, the company is also preparing several useful changes for the new Outlook app on Windows 10 and Windows 11, which became generally available in 2024. Microsoft is adding a warning for users who start replying to an older email after a newer response has arrived in the same conversation. The alert is meant to stop people from replying without seeing the latest information in the thread. Outlook will check whether the message you are answering is still the most recent one in the conversation. If another response has arrived, the app will warn you before you continue replying.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/computing/outlook-will-soon-warn-you-before-you-answer-an-outdated-email/",
-      "category": "Tech",
-      "date": "2026-07-10T06:14:09.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
       "id": "6a4fa935fb43222ed78eedc4",
       "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
       "summary": "Dodge past the live onstage coding sessions, AI refresher courses, an obstacle course of gizmos, round people walking round with glowing green silent-disco-style headphones blaring UN panel discussions into your ears, and you can take a pause for breath. But you might find yourself in the Networking Zone, on a rotating seating contraption called UFOTECH that looks more like the kind of lazy Susan you’d encounter at a Chinese restaurant than the networking bench it is designed to function as. This is the AI for Good summit, organized by the United Nations’ International Telecommunication Union (ITU), where representatives from the private and public sectors try to discuss how to harness the technology for the benefit, rather than the detriment, of humanity. While Silicon Valley execs and AI lab leaders are testifying to lawmakers in Washington about the risks of superintelligence, and the White House slaps export controls on chips, the UN AI for Good Summit—now in its 10th year—is focused on much more idealistic goals. “Our conviction that artificial intelligence, deployed responsibly, could help solve humanity's most pressing problems—from hunger to disease to a warming planet,” Doreen Bogdan-Martin, secretary-general of the ITU, said in a keynote on the conference’s main stage. “Today, that idea is being tested, including by the challenges AI itself is bringing, even as w",
@@ -374,17 +505,6 @@
       "date": "2026-07-10T06:00:00.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=5988945",
-      "title": "Google just changed how it grades the AI models you use for Android coding",
-      "summary": "Google just changed how it measures which AI models are best at writing Android app code, and the update has shuffled the rankings developers use to pick their tools. The company's Android Bench leaderboard, which launched in March, now runs on a new testing system called Harbor. Google says this replaces the older, more generic testing tool it used before, and gives a better read on how models perform on real Android tasks, like updating old code to Jetpack Compose or handling wearable device networking. Since the testing tool changed, Google ran every model through it again. Eight new models were added to the leaderboard, including Claude Fable 5, Claude Sonnet 5, Claude Opus 4.8, GLM 5.2, Kimi K2.7 Code, MiniMax M3, Qwen 3.7 Plus, and Qwen 3.7 Max. Android Bench Claude Fable 5 now sits at the top with a score of 84.5 percent, followed by GPT 5.5 at 80.2 and Claude Sonnet 5 at 76.2.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/computing/google-just-changed-how-it-grades-the-ai-models-you-use-for-android-coding/",
-      "category": "Tech",
-      "date": "2026-07-10T05:10:53.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
     },
     {
       "id": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
@@ -407,6 +527,36 @@
       "date": "2026-07-10T00:00:00.000Z",
       "hot": false,
       "officialUrl": "https://huggingface.co"
+    },
+    {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Sunrun Launches Home-Based Distributed AI Compute Pilot, Pays Customers to Host Nodes",
+      "summary": "Sunrun’s building a ‘nationwide compute network’ that will run AI from small compute nodes in customers’ homes. Sunrun’s building a ‘nationwide compute network’ that will run AI from small compute nodes in customers’ homes. A solar and home energy storage company is expanding into AI data centers, but not by building one — instead, it’s offering to pay its customers to put its compute units in their homes. Sunrun is launching a pilot program for a new “distributed AI compute” program that will “place numerous compute nodes in homes equipped with Sunrun solar and battery storage systems.” Customers will be “compensated” for participating in the pilot program. Sunrun plans to sell the distributed compute power from the nodes to “enterprise compute buyers,” like AI companies. It’s a new approach to finding resources and space for AI compute infrastructure, as data centers face increasing pushback across the country.",
+      "source": "theverge.com",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-07-10T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Instagram's Mosseri: Users Can Opt Out of AI Feed, But Platform Won't Filter It",
+      "summary": "Mosseri still doesn’t want to filter out AI posts completely, however. Mosseri still doesn’t want to filter out AI posts completely, however. Though Instagram head Adam Mosseri doesn’t want to filter out AI content on the platform, he argues that you “shouldn’t have it in your feed” if you don’t like it. “I don’t think we should filter out AI content,” Mosseri said during an interview on Lenny Rachitsky’s podcast. “I think we should let you know if content is AI content or not.” At the same time, Mosseri seems to be drawing a distinction between content-based sorting and banning AI from the platform entirely.",
+      "source": "theverge.com",
+      "sourceUrl": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-07-10T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=EOCRtSnvNNE&utm_source=futuretools.io&utm_medium=newspage",
+      "title": "All The AI News You Missed From The Past Week (Full Breakdown)",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "source": "Matt Wolfe on YouTube",
+      "sourceUrl": "https://www.youtube.com/watch?v=EOCRtSnvNNE&utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-07-10T00:00:00.000Z",
+      "hot": true
     },
     {
       "id": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
@@ -487,17 +637,6 @@
       ]
     },
     {
-      "id": "108332711",
-      "title": "Micron shares rise almost 5% after company announces billions more in U.S. chipmaking investments",
-      "summary": "Micron announced a new round of investments aimed at boosting the U.S. semiconductor supply chain.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/07/09/micron-stock-us-chipmaking.html",
-      "category": "Business",
-      "date": "2026-07-09T21:57:45.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
       "id": "https://techcrunch.com/?p=3140701",
       "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
       "summary": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.",
@@ -531,6 +670,17 @@
       "officialUrl": "https://decrypt.co"
     },
     {
+      "id": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
+      "title": "OpenAI wants its new tool to do your work for you and with you",
+      "summary": "Last year, when we tested out the \"Agent Mode\" in OpenAI's Atlas web browser, we complained that any automated tasks tended to stop after a few minutes, limiting its usefulness for ongoing or complex tasks. With today's release of ChatGPT Work, OpenAI says it has solved that problem with a new tool that can \"stay with a project for hours if needed, and turn a goal into finished work.\" The company is challenging users to evaluate ChatGPT Work by \"giv[ing] it a task you already know well,\" such as analyzing a budget or preparing a sales meeting. The company also promises that ChatGPT Work can automate entire workflows, going from customer research to a campaign brief to locally tailored marketing assets, for instance. At the same time, the company stresses that the tool will wait for you to \"approve important actions.\" ChatGPT Work also integrates Scheduled Tasks, a souped-up version of cron jobs that can \"take repetitive tasks off your plate\" on a schedule or whenever a monitored event occurs. These tasks can keep going when you're away from your desk and can be monitored from your phone, the company says.Read full article Comments",
+      "source": "Ars Technica AI",
+      "sourceUrl": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
+      "category": "Industry",
+      "date": "2026-07-09T21:25:55.000Z",
+      "hot": false,
+      "officialUrl": "https://arstechnica.com"
+    },
+    {
       "id": "https://decrypt.co/?p=373193",
       "title": "Avalanche Treasury Firm AVAX One Reclaims Nasdaq Compliance After Reverse Stock Split",
       "summary": "AVAX One, which stockpiles the native token of the Avalanche crypto network, is back in Nasdaq's good graces after a reverse stock split.",
@@ -562,23 +712,6 @@
       "date": "2026-07-09T20:50:15.000Z",
       "hot": false,
       "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.engadget.com/2211869/openai-releases-chatgpt-work-tool-macos-windows-web-plans/",
-      "title": "OpenAI releases a new ChatGPT tool for all things work related",
-      "summary": "The company's long-awaited super app is here. OpenAI Since the start of March, OpenAI has been publicly working on a desktop \"super\" app designed to bring together ChatGPT, its Codex coding agent and Atlas web browser under one roof. In April, the company began laying the groundwork for that project, and now it's taking its biggest step toward realizing that vision with the release of ChatGPT Work. OpenAI describes its latest offering as something of a general purpose productivity agent. Where Codex was designed primarily for coding projects, OpenAI says Work is here to help people with some of their most ambitious tasks. To that end, ChatGPT Work integrates nearly major technology the company has working on in recent months.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2211869/openai-releases-chatgpt-work-tool-macos-windows-web-plans/",
-      "category": "Tools",
-      "date": "2026-07-09T20:50:04.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com",
-      "relatedCoverage": [
-        {
-          "source": "Ars Technica AI",
-          "url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/"
-        }
-      ]
     },
     {
       "id": "https://decrypt.co/?p=373184",
@@ -662,17 +795,6 @@
           "url": "https://www.digitaltrends.com/computing/you-can-now-check-if-a-google-ad-was-made-with-ai-in-just-a-few-taps/"
         }
       ]
-    },
-    {
-      "id": "https://www.engadget.com/2211839/ai-generated-ads-google-get-disclosures-soon/",
-      "title": "AI-generated ads on Google will hopefully get disclosures soon",
-      "summary": "If Google’s AI tools are used, it will automatically be noted in My Ad Center. Google Google is adding more tools for transparency around generative AI use in advertisements. The My Ad Center panel now has a section with 'How this ad was made' information. It will be accessible on ads globally on Google's Search, YouTube and Discover properties. When Google's own extensive AI tools are used to create or edit an ad, the disclosure will be added automatically to the panel. If other tools are used, the My Ad Center will have a control for brands to note that generative AI was used, although Google's language makes it sound like this is an opt-in action rather than a required one.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2211839/ai-generated-ads-google-get-disclosures-soon/",
-      "category": "Tools",
-      "date": "2026-07-09T20:06:17.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
     },
     {
       "id": "022hDXu2tWW4Yy8N24m2hdi",
@@ -851,17 +973,6 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "https://techcrunch.com/?p=3140496",
-      "title": "Nvidia is a victim of the compute marketplace it created",
-      "summary": "Having proven how valuable compute can be, the company finds itself at the center of a market everyone wants to be in — while simpler technologies and less interesting companies get rich on the sidelines.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/",
-      "category": "Business",
-      "date": "2026-07-09T17:06:11.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
       "id": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
       "title": "Microsoft’s patch Tuesdays are about to get bigger",
       "summary": "The company will be using AI more heavily in its security updates process. The company will be using AI more heavily in its security updates process. Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it’s now using AI to “identify potential issues earlier,” which means “customers will see a higher volume of security updates included in each security release.” Hackers, even amateurs, have increasingly been using AI to quickly exploit security weaknesses over the past several months. Security researchers are also using AI to find issues faster, leading to more frequent high-severity vulnerabilities, like the “Copy Fail” exploit that impacted nearly every Linux distribution in May.",
@@ -906,17 +1017,6 @@
       "officialUrl": "https://decrypt.co"
     },
     {
-      "id": "https://www.macrumors.com/2026/07/09/apple-gets-boost-from-india-tariff-exemptions/",
-      "title": "Apple's Manufacturing in India Gets Boost From New Tariff Exemptions",
-      "summary": "Apple stands to gain from India's decision to eliminate import duties on a range of components used in smartphone manufacturing, in a move that could further lower costs for the company's rapidly growing India-based supply chain. According to a report from Reuters, the Indian government has done away with tariffs of 7.5% and 5% that had applied to inputs for wireless charging hardware, automotive and medical device screens, and lithium-ion battery cells. The exemptions are set to remain in effect through to March 31, 2029. The wireless charging component exemption, in particular, feeds directly into the MagSafe ecosystem used across the iPhone lineup. With import costs on that hardware now removed, Apple's India-based assembly partners have a clearer path to sourcing and building charging components domestically rather than importing them at a markup. Apple has leaned heavily on India as it works to shift iPhone production away from China, with assembly partners now building roughly a quarter of all iPhones in the country and producing the entire iPhone 17 lineup there for the first time, including the higher-end Pro and Pro Max models.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/07/09/apple-gets-boost-from-india-tariff-exemptions/",
-      "category": "Tech",
-      "date": "2026-07-09T16:06:08.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
       "id": "https://www.techrepublic.com/article/news-meta-ai-data-center-water-scare/",
       "title": "Meta AI Data Center Linked to Rare Bacteria Water Scare",
       "summary": "Meta’s Cheyenne AI data center project was linked to the presence of rare bacteria in reclaimed irrigation water, adding scrutiny to local data center wastewater rules.",
@@ -937,17 +1037,6 @@
       "date": "2026-07-09T16:01:22.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "02cWXA9R1PQRTnWBuvgRdkT",
-      "title": "Humanoid robots just removed a gallbladder in a live surgery",
-      "summary": "Next time you go in for a surgery, will your doctor be a five-foot tall, 60 pound humanoid robot named Surgie? It very well could be!A team of surgeons and engineers at University of California San Diego just successfully completed the first ever pair of surgeries during a preclinical trial using teleoperated humanoid robots. Both of the surgeries were performed on non-primate mammals, so we're not yet at the level of operating on humans quite yet. But, it seems headed in that direction.One surgery involved a humanoid robot and a human surgeon teaming up to perform a gallbladder removal. The human doctor acted as the assistant during the procedure. However, the second surgery, a laparoscopic gallbladder removal, was performed completely by a team of two humanoid robot surgeons.\"This study shows that humanoid robots have a viable future in the field of surgery,\" said UC San Diego Department of Electrical and Computer Engineering's Michael Yip, who is also one of the paper's senior authors.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/humanoid-robots-teleoperated-gallbladder-surgery-uc-san-diego",
-      "category": "Tech",
-      "date": "2026-07-09T15:58:31.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
     },
     {
       "id": "https://news.mit.edu/2026/tiny-robot-boats-build-floating-structures-0709",
@@ -983,17 +1072,6 @@
       "officialUrl": "https://feeds.feedburner.com"
     },
     {
-      "id": "https://www.macrumors.com/2026/07/09/sonos-sony-anker-and-more/",
-      "title": "Sonos, Sony, Anker and More: The Best Amazon Accessory Deals Right Now",
-      "summary": "There's a big accessory sale happening on Amazon this week, with the year's best prices on Anker chargers, Samsung monitors, Sonos audio products, and much more. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Highlights this time around include a new batch of audio devices on sale, including the Sonos Ace Headphones for $279.00, down from $399.00, and Sony's WH-1000XM5 Noise Canceling Headphones for $248.00, down from $399.00. Another notable audio discount is on the Soundcore Sleep A30 Earbuds, which are designed to be worn in bed, available for $179.99, down from $229.99. $50 OFFSoundcore Sleep A30 Earbuds for $179.99 $120 OFFSonos Ace Headphones for $279.00 $151 OFFSony WH-1000XM5 Noise Canceling Headphones for $248.00 In terms of monitor and TV deals, there are quite a few Samsung deals happening this week on Amazon.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/07/09/sonos-sony-anker-and-more/",
-      "category": "Tech",
-      "date": "2026-07-09T14:15:32.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
       "id": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
       "title": "Meta says its new AI model is ready to compete on coding",
       "summary": "Muse Spark 1.1 is available to US developers through a public API preview. Muse Spark 1.1 is available to US developers through a public API preview. Meta says that Muse Spark 1.1 is a “step-change” from the first generation, with improvements based on feedback from developers. The company says it’s capable of more advanced coding, including detection and fixing of complex bugs; better supports end-to-end agentic workflows across a range of apps, including multi-agent systems; and has native multimodal perception across images, videos, and documents. The Muse Spark 1.1 launch follows this week’s launch of Muse Image, an image generation model that’s proved controversial for its ability to incorporate other users’ Instagram content into its generations. It’s part of Meta’s race to justify the billions it’s spent on catching up in the AI competition and attempting to achieve parity with companies like OpenAI, Google, and Anthropic, especially after a slew of high-profile hires and a company restructuring last year.",
@@ -1027,17 +1105,6 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
-      "id": "https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video",
-      "title": "Character.AI wants a piece of the microdrama pie",
-      "summary": "Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. Today, the company announced the debut of c.ai Series - short-form, episodic videos designed to be watched and interacted with on your phone. Unlike traditional microdrama services that feature cheaply produced, live-action shows starring human performers, c.ai Series are animated and almost entirely made with generative AI. The company's interest in getting into the microdrama space isn't surprising considering that it's projected to become a $26 billion industry in the next few years. And even though s …",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video",
-      "category": "Industry",
-      "date": "2026-07-09T13:11:53.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
       "id": "https://blogs.nvidia.com/?p=96029",
       "title": "GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server",
       "summary": "This GFN Thursday brings more games, more power and more ways to play on GeForce NOW. The cloud gaming service is expanding with a new GeForce RTX 5080-powered server in Toronto, bringing dedicated high performance in the cloud closer to members across the region. NTE: Neverness to Everness also gets an update in the cloud, making it even easier to jump into the latest content from the supernatural adventure without a single download or more storage space needed. It leads the way for GeForce NOW bringing native touch control to the game, coming soon. There’s even more to explore with three new games joining the GeForce NOW library this week. Take It to the Next Level in Toronto The forecast is looking cloudy in Canada.",
@@ -1064,17 +1131,6 @@
           "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/"
         }
       ]
-    },
-    {
-      "id": "https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot",
-      "title": "FL Studio 2026 turns its AI chatbot into your assistant engineer",
-      "summary": "Gopher can’t play the piano for you, but it can bury it in the mix. | Image: Image Line Last year, Image Line introduced Gopher for FL Studio, an AI chatbot that was basically a glorified instruction manual. You asked it how to do something, and it would serve up the relevant instructions. It's the kind of thing I actually use AI for on a semi-regular basis. But in the new release, Gopher can actually execute actions on your behalf. I was able to ask Gopher to lay down a four-on-the-floor kick, with snares on the backbeat, then add a gated reverb on the snare for that '80s pomp, and it executed the instructions flawlessly.",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot",
-      "category": "Industry",
-      "date": "2026-07-09T13:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
     },
     {
       "id": "http://feeds.fabbaloo.com/~/959896445/0/fabbaloo/default~Feeling-the-Heat-How-Major-HVAC-Companies-are-Benefitting-from-Global-Heat-Waves",
@@ -1152,6 +1208,16 @@
       "date": "2026-07-09T00:00:00.000Z",
       "hot": false,
       "officialUrl": "https://aiweekly.co"
+    },
+    {
+      "id": "https://www.anthropic.com/news/ust-claude?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "UST deploys Claude to 20,000 engineers for chip validation and physical AI workflows",
+      "summary": "Before a factory commits to manufacturing millions of chips, engineers stress-test the design in the fab. Before a product ships, a fault on the assembly line has to be caught before it becomes a recall. When AI does this kind of work, it’s called physical AI: intelligence built into the equipment and engineering processes that produce the things people use. anthropic.com is partnering with UST, a technology and engineering services company that builds and runs the engineering environments its clients depend on to get chips, cars, and connected devices to market. UST is putting Claude to work inside those environments, and training 20,000 of its engineers, architects, and consultants on Claude worldwide. UST works alongside semiconductor, automotive, manufacturing, telecom, embedded, and IoT companies.",
+      "source": "anthropic.com",
+      "sourceUrl": "https://www.anthropic.com/news/ust-claude?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-07-09T00:00:00.000Z",
+      "hot": false
     },
     {
       "id": "https://cloud.google.com/blog/products/ai-machine-learning/alphaevolve-is-available-for-everyone?utm_source=futuretools.io&utm_medium=newspage",
@@ -1942,7 +2008,7 @@
     {
       "id": "https://futuretools.io/news",
       "title": "+ 15 more inside",
-      "summary": "The most comprehensive AI news feed on the internet -- curated by Matt Wolfe *News may update slower on weekends and when Matt's traveling Join 250,000+ readers getting the most important AI news and tools every Wednesday and Friday. Google Launches AlphaEvolve AI Code Optimization Agent for General Availability Thu, Jul 9, 2026·cloud.google.comGoogle has made AlphaEvolve generally available to all users. AlphaEvolve is a code optimization and discovery agent built on Google's Gemini model, designed to help organizations, researchers, and developers tackle some of their most difficult business problems.",
+      "summary": "The most comprehensive AI news feed on the internet -- curated by Matt Wolfe *News may update slower on weekends and when Matt's traveling Join 250,000+ readers getting the most important AI news and tools every Wednesday and Friday. Sunrun Launches Home-Based Distributed AI Compute Pilot, Pays Customers to Host Nodes Fri, Jul 10, 2026·theverge.comSunrun, a solar and home energy storage company, is launching a pilot program to build a distributed AI compute network by placing small compute nodes in customers' homes equipped with its solar and battery systems. Customers will be compensated for hosting the nodes, while Sunrun sells the aggregated compute power to enterprise AI buyers.",
       "source": "FutureTools News",
       "sourceUrl": "https://futuretools.io/news",
       "category": "Curation",
