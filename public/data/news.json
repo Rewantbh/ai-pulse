@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2026-07-11T15:48:29.403Z",
+  "lastUpdated": "2026-07-11T16:47:37.370Z",
   "news": [
+    {
+      "id": "108333365",
+      "title": "The volatile AI trade marched higher, but oil kept Wall Street on edge last week",
+      "summary": "Chip stocks had a wild but strong week. Meta led our portfolio higher.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/07/11/the-volatile-ai-rally-marched-higher-but-oil-kept-wall-street-on-edge-last-week.html",
+      "category": "Business",
+      "date": "2026-07-11T16:25:58.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=373351",
+      "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks",
+      "summary": "Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
+      "category": "Tech",
+      "date": "2026-07-11T16:21:34.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
     {
       "id": "108333552",
       "title": "These underperforming trades could yield big returns over next six months",
@@ -382,17 +404,6 @@
       "officialUrl": "https://www.digitaltrends.com"
     },
     {
-      "id": "https://www.techrepublic.com/article/news-google-ai-models-explained/",
-      "title": "Google AI Models Explained: Gemini, Veo, Nano Banana & More",
-      "summary": "Learn what Google’s major AI models do, including Gemini, Veo, Imagen, Nano Banana, Gemma, Lyria, Chirp, and Gemini Nano.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-google-ai-models-explained/",
-      "category": "Business",
-      "date": "2026-07-10T21:36:10.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
       "id": "108333476",
       "title": "The AI race is shifting from bigger models to cheaper, smarter systems",
       "summary": "Companies are starting to choose AI models by task, cost and control, not just leaderboard rank.",
@@ -730,17 +741,6 @@
       "date": "2026-07-10T12:31:07.000Z",
       "hot": false,
       "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "108332790",
-      "title": "Why the stock market and economy may seem out of sync",
-      "summary": "The stock market has boomed on AI euphoria, while the trajectory of the U.S. economy has been more tepid, economists said.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/07/10/stock-market-and-economy-out-of-sync.html",
-      "category": "Business",
-      "date": "2026-07-10T12:15:02.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "https://decrypt.co/?p=373215",
@@ -1121,17 +1121,6 @@
           "url": "https://www.engadget.com/2212701/openai-browser-isnt-dead/"
         }
       ]
-    },
-    {
-      "id": "https://decrypt.co/?p=373181",
-      "title": "Anthropic AI Oversight Board Adds Ben Bernanke, Who Oversaw 2008 Financial Crisis at Fed",
-      "summary": "Former Fed Chair Ben Bernanke will have the power to appoint Anthropic board members as part of company's Long-Term Benefit Trust.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/373181/anthropic-ai-oversight-board-ben-bernanke-2008-federal-crisis-fed",
-      "category": "Tech",
-      "date": "2026-07-09T20:22:29.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
     },
     {
       "id": "https://www.technologyreview.com/?p=1140293",
@@ -1582,6 +1571,17 @@
       "officialUrl": "https://www.techrepublic.com"
     },
     {
+      "id": "https://www.techrepublic.com/article/news-openai-gpt-5-6-us-security-review/",
+      "title": "OpenAI’s New GPT-5.6 Is Coming Sooner Than You Think",
+      "summary": "OpenAI is set to launch GPT-5.6 after a US security review, raising new questions for enterprise AI access, safeguards, and governance.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-openai-gpt-5-6-us-security-review/",
+      "category": "Business",
+      "date": "2026-07-08T18:39:52.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
       "id": "https://huggingface.co/blog/nvidia/open-data-for-agents",
       "title": "Data for Agents",
       "summary": "",
@@ -2012,28 +2012,6 @@
       "date": "2026-07-06T18:00:00.000Z",
       "hot": false,
       "officialUrl": "https://www.technologyreview.com"
-    },
-    {
-      "id": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
-      "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
-      "summary": "“Serious breach of user trust” Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance Anthropic accused of spying on users; engineer says “experiment” is over. Last week, a web developer known as “Thereallo” was researching privacy issues in Claude Code and was shocked to find that the AI firm was using “prompt steganography” to hide code that tracks Chinese users “in plain sight.” This code wasn’t malicious, but it was sending information to Anthropic that most users wouldn’t detect, relying on shorthand markers to quietly flag users’ timezone, proxy, and potential connection to Chinese AI labs that Anthropic has accused of distillation attacks. On X, Anthropic engineer Thariq Shihipar confirmed that the tracker was added to Claude Code as an “experiment” in March. According to Shihipar, the code “was meant to prevent account abuse from unauthorized resellers and protect against distillation.” Regarding the former, The Washington Post found unauthorized retailers have sold access to free models for $1 a month, and pro subscriptions that can cost $100 monthly sell for “as little as $12.” Supposedly, Anthropic has “actually been meaning to take this down for a while,” Shihipar said of the hidden code, because engineers have “landed stronger mitigations since then.” Privacy advocates were not happy with the explanation, though, warning that the code is evidence that Anthropic is willing to cross lines to surveil users.",
-      "source": "Ars Technica AI",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
-      "category": "Industry",
-      "date": "2026-07-06T16:44:18.000Z",
-      "hot": false,
-      "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://blogs.nvidia.com/?p=95963",
-      "title": "How Open Models Are Driving AI Research",
-      "summary": "Every year, the International Conference on Machine Learning (ICML) reveals where thousands of AI researchers have decided to put their work. This year’s accepted papers reveal a clear direction: open frontier models and open AI infrastructure have become foundational to how modern AI science gets done. NVIDIA had 74 papers accepted at ICML 2026. Approximately 2,000 accepted papers cite NVIDIA GPUs, and 145 cite NVIDIA Nemotron — a family of open models, including open datasets — as the foundation for new research. Hundreds more draw on NVIDIA Cosmos, NVIDIA Isaac GR00T, BioNeMo and other NVIDIA open model families, spanning physical AI, robotics, autonomous vehicles and biomedical research. The Themes Defining This Year’s Research Areas including vision and video generation, reinforcement learning for large language models (LLMs) and agent training as well as AI inference remained prominent themes across this year’s papers, reflecting sustained investment these fields command — while several new areas also broke through.",
-      "source": "NVIDIA Blog",
-      "sourceUrl": "https://blogs.nvidia.com/blog/open-models-icml-2026/",
-      "category": "Events",
-      "date": "2026-07-06T16:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://blogs.nvidia.com"
     }
   ]
 }
