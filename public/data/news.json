@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2026-07-11T14:35:05.491Z",
+  "lastUpdated": "2026-07-11T15:48:29.403Z",
   "news": [
+    {
+      "id": "108333552",
+      "title": "These underperforming trades could yield big returns over next six months",
+      "summary": "ETF Action's Mike Akins is encouraging investors to boost exposure to groups that underperformed compared with major artificial intelligence stocks.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html",
+      "category": "Business",
+      "date": "2026-07-11T15:00:01.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/07/11/summer-anker-accessories-low-prices/",
+      "title": "Score Summer-Ready Anker Accessories at Rare Low Prices This Weekend",
+      "summary": "Anker's Prime 3-in-1 Wireless Charging Station has dropped to $99.74 on Amazon, down from $149.99. This is one of Anker's newest accessories, and Amazon's sale today is a match of the all-time low price that we last tracked during Prime Day. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. The Prime 3-in-1 Wireless Charging Station features Qi2.2 support, which lets a compatible MagSafe ‌iPhone‌ charge at up to 25W. It's the same speed as Apple's ‌MagSafe‌ charger, and it is 10W faster than the standard Qi2 ‌MagSafe‌ chargers.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/07/11/summer-anker-accessories-low-prices/",
+      "category": "Tech",
+      "date": "2026-07-11T14:54:45.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
     {
       "id": "https://www.investing.com/news/stock-market-news/bofa-names-south-korea-uae-among-top-ai-contenders-beyond-us-and-china-4787282",
       "title": "BofA names South Korea, UAE among top AI contenders beyond U.S. and China",
@@ -11,6 +33,17 @@
       "date": "2026-07-11T14:18:13.000Z",
       "hot": false,
       "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3141184",
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "category": "Business",
+      "date": "2026-07-11T14:13:00.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
     },
     {
       "id": "0000019f-4df0-d457-a5df-6df66be60002",
@@ -219,7 +252,13 @@
       "category": "Industry",
       "date": "2026-07-11T01:07:26.000Z",
       "hot": false,
-      "officialUrl": "https://www.wired.com"
+      "officialUrl": "https://www.wired.com",
+      "relatedCoverage": [
+        {
+          "source": "Engadget AI",
+          "url": "https://www.engadget.com/2212941/openai-head-of-safety-leaving-company-reorganization/"
+        }
+      ]
     },
     {
       "id": "https://www.digitaltrends.com/?p=5989208",
@@ -341,6 +380,17 @@
       "date": "2026-07-10T21:37:31.000Z",
       "hot": false,
       "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/article/news-google-ai-models-explained/",
+      "title": "Google AI Models Explained: Gemini, Veo, Nano Banana & More",
+      "summary": "Learn what Google’s major AI models do, including Gemini, Veo, Imagen, Nano Banana, Gemma, Lyria, Chirp, and Gemini Nano.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-google-ai-models-explained/",
+      "category": "Business",
+      "date": "2026-07-10T21:36:10.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "108333476",
@@ -1161,17 +1211,6 @@
       "officialUrl": "https://arstechnica.com"
     },
     {
-      "id": "https://techcrunch.com/?p=3140626",
-      "title": "Google will now disclose which ads are made with AI",
-      "summary": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
-      "category": "Business",
-      "date": "2026-07-09T18:40:51.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
       "id": "6a4fc6425defba44309065a5",
       "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
       "summary": "AI model developers have long offered consumers a simple deal: Use our technology for free through an online chatbot, or pay a monthly subscription to receive more usage, premium features, and advanced models. Anthropic is about to make that bargain a lot more complicated. A million tokens is a lot—it’s roughly equal to 750,000 words, which is longer than the entire Lord of The Rings book series. But it’s not uncommon for AI power users to rack up thousands of dollars in API bills every month, in part because newer AI models like Fable 5 can spend a lot more tokens in a hidden chain-of-thought process to answer questions. While “pay as you go” has long been the norm for developers accessing models through an API, AI labs have historically favored flat monthly subscriptions to generate revenue from consumers, and, in some cases, to control demand. Still, the AI industry has been headed toward usage-based billing for a while now.",
@@ -1539,17 +1578,6 @@
       "sourceUrl": "https://www.techrepublic.com/article/news-meta-muse-image-explained/",
       "category": "Business",
       "date": "2026-07-08T18:48:11.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/article/news-openai-gpt-5-6-us-security-review/",
-      "title": "OpenAI’s New GPT-5.6 Is Coming Sooner Than You Think",
-      "summary": "OpenAI is set to launch GPT-5.6 after a US security review, raising new questions for enterprise AI access, safeguards, and governance.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-openai-gpt-5-6-us-security-review/",
-      "category": "Business",
-      "date": "2026-07-08T18:39:52.000Z",
       "hot": false,
       "officialUrl": "https://www.techrepublic.com"
     },
@@ -2004,28 +2032,6 @@
       "sourceUrl": "https://blogs.nvidia.com/blog/open-models-icml-2026/",
       "category": "Events",
       "date": "2026-07-06T16:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://blogs.nvidia.com"
-    },
-    {
-      "id": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-      "title": "PRX Part 4: Our Data Strategy",
-      "summary": "",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-      "category": "Research",
-      "date": "2026-07-06T15:30:55.000Z",
-      "hot": false,
-      "officialUrl": "https://huggingface.co"
-    },
-    {
-      "id": "https://blogs.nvidia.com/?p=95955",
-      "title": "How Nations Are Deploying AI for Strategic Priorities",
-      "summary": "Nations have long invested in domestic infrastructure to advance their economies, protect and use their data, and take advantage of technology opportunities in areas such as transportation, communications, commerce, entertainment and healthcare. AI, the most important technology of NVIDIA's time, is turbocharging innovation across every facet of society. Countries are investing in AI capabilities so they can design, train and deploy models and applications, using domestic infrastructure, local datasets and homegrown expertise. This approach ensures AI solutions are tailored to local citizens, services and regulations. Why AI Capabilities Matter The urgency for countries to build and deploy AI capabilities has grown with the rise of generative and agentic AI, which is reshaping markets, inspiring new industries and transforming existing ones — from gaming to healthcare. It’s changing how people work, as many professions now use AI-powered copilots.",
-      "source": "NVIDIA Blog",
-      "sourceUrl": "https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/",
-      "category": "Events",
-      "date": "2026-07-06T15:00:25.000Z",
       "hot": false,
       "officialUrl": "https://blogs.nvidia.com"
     }
