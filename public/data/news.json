@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T21:14:30.684Z",
+  "lastUpdated": "2026-07-11T22:13:03.765Z",
   "news": [
     {
       "id": "https://www.digitaltrends.com/?p=5989319",
@@ -349,17 +349,6 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/why-tech-investors-are-reevaluating-ai-investments-4787169",
-      "title": "Why tech investors are reevaluating AI investments",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/why-tech-investors-are-reevaluating-ai-investments-4787169",
-      "category": "Business",
-      "date": "2026-07-10T23:43:16.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
       "id": "https://www.digitaltrends.com/?p=5989229",
       "title": "Meta just pulled its most controversial AI image generation feature days after launch",
       "summary": "A couple of days ago, I covered Meta's announcement of the Muse Image, an AI tool that lets users generate images based on someone's Instagram profile without asking the account owner. I also highlighted the risks associated with it in another piece, along with steps for opting out. Three days later, the feature is no longer available. Statement from Meta:Earlier this week, we announced that one way for people to generate images in Meta AI is by @-mentioning public Instagram accounts that they want to reference. Our intent was to provide a useful creative tool and to give people control over whether their… As more and more people picked up on Meta's Muse Image and how it assumed you're okay when someone else used your Instagram pictures as a reference for generating AI pictures, the tool started to face a massive backlash.",
@@ -424,17 +413,6 @@
       "date": "2026-07-10T21:39:50.000Z",
       "hot": false,
       "officialUrl": "https://www.engadget.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=5989195",
-      "title": "Claude Code can now browse the web without opening Chrome",
-      "summary": "Developers spend a surprising amount of time bouncing between their code editor, browser tabs, API documentation, GitHub issues, and design files. Anthropic thinks Claude Code should simply do all of that without constantly asking users to switch windows. The company has announced a new in-app browser for Claude Code on desktop, allowing its AI coding assistant to open websites, read documentation, inspect designs, and interact with web pages directly from within the application. According to Anthropic's documentation, the Browser pane functions as a fully tabbed browser that sits alongside a developer's workspace. Claude can open documentation, issue trackers, internal web apps, or virtually any other website, then read page contents, click links, and interact with elements much like it already does with local development environments. Claude Code on desktop now has an in-app browser.Claude can pull up docs, designs, or any other site.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/cool-tech/claude-code-can-now-browse-the-web-without-opening-chrome/",
-      "category": "Tech",
-      "date": "2026-07-10T21:37:31.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
     },
     {
       "id": "https://www.techrepublic.com/article/news-google-ai-models-explained/",
@@ -1469,16 +1447,6 @@
       "hot": false
     },
     {
-      "id": "https://www.anthropic.com/news/reflect-with-claude?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Anthropic Launches Reflect Tool to Help Users Track and Visualize Claude Usage",
-      "summary": "Today anthropic.com is introducing, in beta, a new way to reflect on and refine how you use Claude. In anthropic.com's interviews with users, a common theme that’s emerged is a desire to better understand how, exactly, AI can be integrated into daily life. How often should someone use AI? How can it be used most effectively? When is AI suited to a task, and when is it better left to a human? anthropic.com built this feature to help answer these types of questions.",
-      "source": "anthropic.com",
-      "sourceUrl": "https://www.anthropic.com/news/reflect-with-claude?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-07-09T00:00:00.000Z",
-      "hot": false
-    },
-    {
       "id": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "OpenAI Launches ChatGPT Work Agent to Manage Apps, Files, and Long-Running Projects",
       "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work. (opens in a new window)Contact salesLoading…ShareWork anywhere. Go further on desktop.Work anywhere. Go further on desktop.Create slides, sheets, docs, and Sites from your apps and workflowsDelegate repetitive tasks to focus on work that mattersGet work done faster across the web and your desktop appsFrom goals to real outcomes across every teamSecurity and governance for organizationsAvailability and pricingWhat’s nextWork anywhere. Go further on desktop.Create slides, sheets, docs, and Sites from your apps and workflowsDelegate repetitive tasks to focus on work that mattersGet work done faster across the web and your desktop appsFrom goals to real outcomes across every teamSecurity and governance for organizationsAvailability and pricingWhat’s nextIntroducing ChatGPT Work, an agent in ChatGPT that helps you take on more ambitious tasks. It can gather information across your apps and workflows to create finished materials like sheets, slides, docs, and web apps, and stay with complex projects for hours by breaking them into smaller steps and completing them independently.",
@@ -1487,6 +1455,16 @@
       "category": "Curation",
       "date": "2026-07-09T00:00:00.000Z",
       "hot": true
+    },
+    {
+      "id": "https://www.anthropic.com/news/reflect-with-claude?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Anthropic Launches Reflect Tool to Help Users Track and Visualize Claude Usage",
+      "summary": "Today anthropic.com is introducing, in beta, a new way to reflect on and refine how you use Claude. In anthropic.com's interviews with users, a common theme that’s emerged is a desire to better understand how, exactly, AI can be integrated into daily life. How often should someone use AI? How can it be used most effectively? When is AI suited to a task, and when is it better left to a human? anthropic.com built this feature to help answer these types of questions.",
+      "source": "anthropic.com",
+      "sourceUrl": "https://www.anthropic.com/news/reflect-with-claude?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-07-09T00:00:00.000Z",
+      "hot": false
     },
     {
       "id": "https://openai.com/index/gpt-5-6/?utm_source=futuretools.io&utm_medium=newspage",
