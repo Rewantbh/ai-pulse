@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2026-07-12T15:53:31.387Z",
+  "lastUpdated": "2026-07-12T16:52:31.634Z",
   "news": [
+    {
+      "id": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+      "summary": "The company is accelerating development of the M7 Ultra, which could support up to 1.5TB of RAM. The company is accelerating development of the M7 Ultra, which could support up to 1.5TB of RAM. The Neural Engine made its debut with the iPhone X and the A11 Bionic. In those early days, it was primarily used for computer vision, powering FaceID, Animoji, and augmented reality features. But by laying the groundwork for on-device AI processing, Apple established itself as an early leader by bringing the Neural Engine to desktops with the M-series chips. While Apple’s AI software efforts have lagged behind the rest of the industry, its hardware has been impressive.",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+      "category": "Industry",
+      "date": "2026-07-12T16:27:06.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/07/12/apple-stores-to-expand-tap-to-pay-on-iphone/",
+      "title": "Apple Stores to Expand Use of 'Tap to Pay on iPhone'",
+      "summary": "In 2022, Apple began rolling out Tap to Pay on iPhone, a system that allows small business owners and other merchants to accept contactless payments on an iPhone, with no point-of-sale hardware required. The feature allows customers to pay by simply tapping their iPhone or Apple Watch, credit card or debit card, or other contactless payment option on the merchant's iPhone. Payment is securely completed using NFC, like Apple Pay. Some of Apple's retail employees have been using iPhone 14 units with Tap to Pay on iPhone, instead of a Bluetooth credit card reader affixed to the back of the device, and now the company apparently plans to go a step further. Bloomberg's Mark Gurman today said Apple will be giving more retail employees newer iPhone 16 units to expand its in-store usage of Tap to Pay on iPhone. \"The tap-to-pay system in the iPhone 14 can sometimes be finicky and not support metal cards like American Express Platinum or Chase Sapphire Reserve,\" he explained.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/07/12/apple-stores-to-expand-tap-to-pay-on-iphone/",
+      "category": "Tech",
+      "date": "2026-07-12T16:11:31.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
     {
       "id": "https://www.macrumors.com/2026/07/12/two-new-apple-pencils-next-year-report/",
       "title": "Two New Apple Pencils Reportedly Launching Next Year",
@@ -765,28 +787,6 @@
       "officialUrl": "https://www.techrepublic.com"
     },
     {
-      "id": "https://www.macrumors.com/2026/07/10/iphone-18-pro-max-costs-could-rise/",
-      "title": "iPhone 18 Pro Max Component Costs Could Rise Nearly $300",
-      "summary": "The bill of materials for the iPhone 18 Pro Max is expected to rise by nearly $300 compared to the iPhone 17 Pro Max, according to a new Counterpoint Research analysis. The estimate covers the 1TB storage model. NAND flash costs for the device are said to exceed $250 on their own, a figure that would cover roughly half of the &zwnj;iPhone 17 Pro&zwnj; Max's entire estimated component cost. DRAM pricing is also climbing sharply, with both components facing pressure from a broader memory chip shortage tied to surging demand for AI hardware. Apple's expected shift to a 2nm chip is described as the second-largest contributor to the cost increase. The &zwnj;iPhone 18 Pro&zwnj; is rumored to debut the A20 Pro, manufactured on TSMC's N2 process, which reportedly carries a steep premium in wafer pricing over the current N3P node used for the A19 Pro.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/07/10/iphone-18-pro-max-costs-could-rise/",
-      "category": "Tech",
-      "date": "2026-07-10T14:36:18.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/07/10/best-apple-deals-of-the-week-7-10-26/",
-      "title": "$450 Off a MacBook Pro? The Best Apple Discounts You Can Grab Today",
-      "summary": "There are a few solid low prices on Apple devices available this week, including $99 off the Apple Watch Ultra 3, $150 off the M5 MacBook Air, and $450 off the M5 Pro MacBook Pro. You'll also find great deals on Anker accessories available on Amazon right now. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Apple Watch Ultra 3 What's the deal? Take $99 off Apple Watch Ultra 3 Where can I get it?",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/07/10/best-apple-deals-of-the-week-7-10-26/",
-      "category": "Tech",
-      "date": "2026-07-10T14:10:04.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
       "id": "https://techcrunch.com/?p=3140997",
       "title": "Hugging Face’s CEO on why companies are done renting their AI",
       "summary": "Watch as Hugging Face CEO Clem Delangue joins Equity to talk open source vs closed source, and why he's worried about the possibility that a handful of big companies could end up controlling everything.",
@@ -1232,17 +1232,6 @@
       "date": "2026-07-09T18:30:00.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
-      "title": "Microsoft’s patch Tuesdays are about to get bigger",
-      "summary": "The company will be using AI more heavily in its security updates process. The company will be using AI more heavily in its security updates process. Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it’s now using AI to “identify potential issues earlier,” which means “customers will see a higher volume of security updates included in each security release.” Hackers, even amateurs, have increasingly been using AI to quickly exploit security weaknesses over the past several months. Security researchers are also using AI to find issues faster, leading to more frequent high-severity vulnerabilities, like the “Copy Fail” exploit that impacted nearly every Linux distribution in May.",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
-      "category": "Industry",
-      "date": "2026-07-09T17:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
     },
     {
       "id": "https://www.techrepublic.com/article/news-meta-ai-data-center-water-scare/",
@@ -1766,17 +1755,6 @@
       "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
       "category": "Industry",
       "date": "2026-07-07T21:03:07.000Z",
-      "hot": false,
-      "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
-      "title": "Facing US export controls, China's DeepSeek plans to make its own chips",
-      "summary": "Inference Chips Facing US export controls, China’s DeepSeek plans to make its own chips It’s early, but the plan is to reduce dependency on Nvidia and Huawei. DeepSeek, the Chinese startup developing large language models that are competitive with those from US companies like OpenAI and Anthropic, is planning to enter the silicon business, according to Reuters. Citing three people familiar with the matter, Reuters writes that DeepSeek has been working on a move into silicon for about a year. It has been meeting with potential partners in the hardware and silicon space and has been hiring engineers for the project. The focus is on data center chips for inference, not training, and the goal is likely to reduce reliance on both Huawei and Nvidia. Nvidia is the chipmaker for most AI companies in North America and Europe, but a United States export ban has prevented the company from achieving a similar presence in China.",
-      "source": "Ars Technica AI",
-      "sourceUrl": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
-      "category": "Industry",
-      "date": "2026-07-07T16:14:53.000Z",
       "hot": false,
       "officialUrl": "https://arstechnica.com"
     }
