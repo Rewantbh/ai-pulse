@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12T23:24:03.620Z",
+  "lastUpdated": "2026-07-13T01:01:44.276Z",
   "news": [
     {
       "id": "https://www.investing.com/news/stock-market-news/whats-driving-the-selloff-in-airelated-stocks-4787377",
@@ -44,6 +44,17 @@
       "date": "2026-07-12T20:29:06.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+      "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+      "summary": "Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated with Meta on a pair of AI smartglasses. The comments were captured in videos shared to social media. After thanking the crowd for being there and taking part in \"something real,\" she said that it was increasingly hard to know is and isn't real, before saying \"You don't know if someone is wearing sunglasses or if they're wearing those fucked up fucking… Can I just say, for …",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+      "category": "Industry",
+      "date": "2026-07-12T20:10:19.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
     },
     {
       "id": "https://www.digitaltrends.com/?p=5989507",
@@ -168,7 +179,7 @@
     },
     {
       "id": "https://www.macrumors.com/2026/07/12/ios-27-public-beta-release-date-timing/",
-      "title": "iOS 27 Public Beta Reportedly Available This Week",
+      "title": "iOS 27 Public Beta Reportedly Coming This Week",
       "summary": "The first public betas of iOS 27, macOS Golden Gate, and more will be released this week, according to Bloomberg's Mark Gurman. This aligns with Apple's promised July timeframe. If you have an iPhone 15 Pro or newer, the key new feature is Siri AI, but there is a waitlist if you want to try it.",
       "source": "MacRumors",
       "sourceUrl": "https://www.macrumors.com/2026/07/12/ios-27-public-beta-release-date-timing/",
@@ -330,17 +341,6 @@
       "date": "2026-07-12T09:53:30.000Z",
       "hot": false,
       "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-spacex-gets-a-streethigh-target-samsung-selloff-overdone-4786333",
-      "title": "5 big analyst AI moves: SpaceX gets a Street-high target, Samsung selloff overdone",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-spacex-gets-a-streethigh-target-samsung-selloff-overdone-4786333",
-      "category": "Business",
-      "date": "2026-07-12T09:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
     },
     {
       "id": "108333244",
@@ -1061,6 +1061,17 @@
       "officialUrl": "https://www.wired.com"
     },
     {
+      "id": "https://techcrunch.com/?p=3140805",
+      "title": "OpenAI launches its new family of models with GPT-5.6",
+      "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "category": "Business",
+      "date": "2026-07-09T22:24:24.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
       "id": "https://techcrunch.com/?p=3140819",
       "title": "An AI agent startup just let its agent run its $100M fundraise",
       "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
@@ -1208,17 +1219,6 @@
       "date": "2026-07-09T20:12:03.000Z",
       "hot": false,
       "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
-      "title": "Google will now tell you if an ad was made with AI",
-      "summary": "You can see if ads on Google Search, Google Discover, and YouTube were made or edited using AI from a new section in Google's \"My Ad Center,\" as reported earlier by TechCrunch. The update, announced on Thursday, adds a \"created or edited with AI\" label under the \"how this ad was made\" tab. Users can find it by tapping the three dots or info button on ads, which pulls up the same panel where you can also block or report ads. Google says it will automatically apply the AI label to any ads made with its own generative AI advertising tools, but AI ads made elsewhere will need to have the label applied manually. In some regions, Google's new AI …",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
-      "category": "Industry",
-      "date": "2026-07-09T20:11:38.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
     },
     {
       "id": "https://techcrunch.com/?p=3140525",
@@ -1678,94 +1678,6 @@
       "date": "2026-07-08T07:00:51.000Z",
       "hot": false,
       "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://openai.com/index/introducing-gpt-live",
-      "title": "Introducing GPT-Live",
-      "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice. Loading…ShareWe’re launching GPT‑Live, a new generation of voice models that make talking with AI feel much more like having a real conversation. GPT‑Live is built on a full-duplex architecture, meaning it can listen and speak at the same time. During conversations, GPT‑Live can show it’s paying attention with phrases like “mhmm” or “yeah”, engage in quick back-and-forth, or just stay quiet when you need a moment to think. The result is a voice experience that is refreshingly easy to talk to. GPT‑Live is also OpenAI's smartest voice model yet.",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/introducing-gpt-live",
-      "category": "Models",
-      "date": "2026-07-08T00:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-      "title": "Native-speed vLLM transformers modeling backend",
-      "summary": "Hugging Face is on a journey to advance and democratize artificial intelligence through open source and open science.",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-      "category": "Research",
-      "date": "2026-07-08T00:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://huggingface.co"
-    },
-    {
-      "id": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "OpenAI Analysis Exposes Reliability Issues in SWE-Bench Pro Coding Benchmark",
-      "summary": "Through a detailed audit, openai.com find widespread task issues in SWE-Bench Pro and estimate that ~30% of the tasks are broken. Loading…ShareMethodologyMethodologyHuman-supervised agent reviewHuman annotation campaignDiscussionMethodologyHuman-supervised agent reviewHuman annotation campaignDiscussionAccurately measuring openai.com's models’ capabilities is important for sound deployment and safety decisions, including decisions under OpenAI’s Preparedness Framework⁠(opens in a new window). With each model release, openai.com report results for a variety of external and internal benchmarks to track model progress. When evaluations have flaws that affect results, they can give a false understanding of capabilities, misrepresenting safety cases and affecting research priorities. openai.com recently investigated how one of the most widely used coding benchmarks, SWE-bench Verified, had fundamental design and contamination issues, and found that the eval no longer provided meaningful signal on software development capabilities. At the time, openai.com encouraged the wider community to switch to SWE-Bench Pro.",
-      "source": "openai.com",
-      "sourceUrl": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-07-08T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://openai.com/index/government-national-security-partnerships/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "OpenAI Outlines Principles for Government and National Security AI Partnerships",
-      "summary": "(opens in a new window)Loading…ShareGovernments are beginning to use frontier AI systems for increasingly important work, including in national security. That creates new imperatives for AI labs, governments, and civil society to work together on how these tools should be used in sensitive settings. openai.com believe democratic societies should be able to use AI to protect people, defend critical infrastructure, deliver public services, and respond to emerging threats, including in areas like cyber defense and biological security where AI can meaningfully advantage defenders. But increasingly capable AI systems must be deployed in ways that reinforce democratic accountability, meaningful human judgment, and the rule of law, and that strengthen democratic institutions rather than concentrate power. Today openai.com is publishing OpenAI’s National Security Principles to offer transparency into how openai.com approach government partnerships and national security uses of openai.com's technology. These principles reflect a cross-company effort to develop a more comprehensive approach to openai.com's work in the national security and law enforcement area as openai.com's technology continues to advance.",
-      "source": "openai.com",
-      "sourceUrl": "https://openai.com/index/government-national-security-partnerships/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-07-08T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://mistral.ai/news/robostral-navigate/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Mistral AI Launches Robostral Navigate: 8B Model Navigates With Single Camera",
-      "summary": "← + &minus; → Introducing Robostral Navigate Robostral Navigate is an 8B model that enables robots to autonomously navigate complex environments using only a single RGB camera, achieving 76.6% success on unseen R2R-CE benchmarks—outperforming multi-sensor approaches while being more efficient. Built entirely in-house with simulated data and token-efficient techniques, it generalizes across robot types and adapts to real-world obstacles unseen during training. The model combines pointing-based navigation with reinforcement learning for continuous improvement, paving the way for unified embodied AI in robotics. Today mistral.ai is introducing Robostral Navigate, mistral.ai's first model built for embodied navigation. It's an 8B model that takes RGB images and a plain-language instruction and moves a robot through an environment:",
-      "source": "mistral.ai",
-      "sourceUrl": "https://mistral.ai/news/robostral-navigate/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-07-08T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://blog.google/products-and-platforms/products/photos/video-remix/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Google Photos Launches Video Remix Feature to Create Shareable Clips in Seconds",
-      "summary": "Products Developer tools Gemini app NotebookLM See all Infrastructure & cloud Global network Google Cloud See all Technology Safety & Security Health See all : Platforms Android Google Play Wear OS See all Devices Pixel Google Nest Fitbit Chromebooks See all : Leadership Sundar Pichai, CEO More authors See all Inside Google Around the globe Life at Google See all : Creating beautiful video clips shouldn't require professional skills or hours of editing. Now, with Video Remix in Google Photos, you can transform ordinary videos into share-worthy moments in just a few taps. Powered by .google's Gemini Omni model, Video Remix lets you make stylized, imaginative memories from a library of easy-to-use templates.",
-      "source": "blog.google",
-      "sourceUrl": "https://blog.google/products-and-platforms/products/photos/video-remix/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-07-08T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://x.ai/news/grok-4-5?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "xAI Launches Grok 4.5 With Enhanced Coding, Agentic, and Knowledge Work Capabilities",
-      "summary": "XAI has announced Grok 4.5, a new model version described as featuring enhanced coding, agentic task handling, and knowledge work capabilities. The official announcement page at x.ai returned an error during retrieval, meaning no specific benchmarks, pricing, availability details, or technical specifications could be verified from the source material. The model name and capability areas are drawn from the news headline alone. No further concrete claims can be responsibly reported without accessible source content to confirm them.",
-      "source": "x.ai",
-      "sourceUrl": "https://x.ai/news/grok-4-5?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-07-08T00:00:00.000Z",
-      "hot": true
-    },
-    {
-      "id": "https://openai.com/index/introducing-gpt-live/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "OpenAI Launches GPT-Live: New Voice Models Powering Natural Human-AI Interaction in ChatGPT",
-      "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice. Loading…ShareWe’re launching GPT‑Live, a new generation of voice models that make talking with AI feel much more like having a real conversation. GPT‑Live is built on a full-duplex architecture, meaning it can listen and speak at the same time. During conversations, GPT‑Live can show it’s paying attention with phrases like “mhmm” or “yeah”, engage in quick back-and-forth, or just stay quiet when you need a moment to think. The result is a voice experience that is refreshingly easy to talk to. GPT‑Live is also openai.com's smartest voice model yet.",
-      "source": "openai.com",
-      "sourceUrl": "https://openai.com/index/introducing-gpt-live/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-07-08T00:00:00.000Z",
-      "hot": true,
-      "relatedCoverage": [
-        {
-          "source": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/"
-        }
-      ]
     }
   ]
 }
