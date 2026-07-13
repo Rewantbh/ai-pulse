@@ -1,6 +1,50 @@
 {
-  "lastUpdated": "2026-07-13T01:01:44.276Z",
+  "lastUpdated": "2026-07-13T04:33:57.444Z",
   "news": [
+    {
+      "id": "https://www.digitaltrends.com/?p=5989584",
+      "title": "Scammers are now cloning trusted news websites to steal your money",
+      "summary": "Seeing a story on the website of a trusted news organisation is usually enough to lower your guard. Cybercriminals know that, and they're increasingly exploiting the credibility of major publishers to steal money from unsuspecting readers. The latest example involves fake Guardian articles featuring billionaire Jim Ratcliffe. Still, the scam is part of a much larger campaign that's also impersonating the BBC and other well-known media outlets. According to The Guardian, fraudsters are creating convincing clones of legitimate news websites and filling them with fabricated stories designed to lure readers into bogus cryptocurrency and investment schemes. Instead of trying to hack victims directly, the scammers first convince them they're reading real journalism.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/computing/scammers-are-now-cloning-trusted-news-websites-to-steal-your-money/",
+      "category": "Tech",
+      "date": "2026-07-13T04:01:47.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713",
+      "title": "New method aims to keep kids safe from illegal AI-generated content",
+      "summary": "With the exploding popularity of generative artificial intelligence, many open-source models are now available online for anyone to adapt for their task, such as generating product renderings in a certain artistic style. But these models also find their way into the hands of nefarious actors who may optimize them to produce illegal content, like hate speech or child sexual abuse material (CSAM). This is a growing problem — the National Center for Missing and Exploited Children received more than 1.5 million reports of AI-generated CSAM in 2025, an increase from 67,000 in 2024.Engineers usually test AI for harmful capabilities by prompting the model and inspecting its outputs, but this is impossible for CSAM, since it is illegal in the U.S to generate such content, regardless of intent.To avoid this dilemma and improve AI safety, a team of MIT scientists, led by graduate student Vinith Suriyakumar and associate professors Ashia Wilson and Marzyeh Ghassemi, joined forces with researchers from Thorn to develop a new auditing approach that determines whether a model can produce CSAM, without prompting it. Thorn is a child safety nonprofit whose mission is to transform how children are protected from sexual abuse and exploitation in the digital age.Their technique examines how the inner workings of a model have been adapted, but it never generates an output. By examining hidden representations, it can reliably infer whether a model has been specialized to produce harmful imager...",
+      "source": "MIT News ML",
+      "sourceUrl": "https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713",
+      "category": "Research",
+      "date": "2026-07-13T04:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://news.mit.edu"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=5989575",
+      "title": "This floating AI robot looks like it escaped a Studio Ghibli film, and that’s exactly the point",
+      "summary": "Most home robots today have one thing in common: they're loud, rigid, and unmistakably robotic. Whether it's a vacuum cleaner bumping into furniture or a drone buzzing overhead, they're built to perform tasks – not necessarily to make people feel comfortable. Researchers in Japan think there's a better way, and it starts with taking inspiration from animated creatures rather than industrial machines. A research team led by Mingyang Xu at Keio University, in collaboration with institutions including the MIT Media Lab, has unveiled a prototype floating companion robot that glides silently through the air instead of rolling across the floor. Rather than looking like another gadget, the robot resembles a tiny floating creature, drawing inspiration from characters such as Tinker Bell, Pok&eacute;mon's Mew, and Studio Ghibli's Soot Sprites. The team recently demonstrated the concept in a video showcasing how these lighter-than-air robots could one day become part of everyday life.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/computing/this-floating-ai-robot-looks-like-it-escaped-a-studio-ghibli-film-and-thats-exactly-the-point/",
+      "category": "Tech",
+      "date": "2026-07-13T03:15:49.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "108331802",
+      "title": "While Musk's Neuralink drills into skulls, China's BrainCo bets the future of brain tech is wearable",
+      "summary": "Interest in brain-computer interfaces is rising as it promises to help people with compromised neural abilities.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/07/11/chinas-brainco-bets-on-wearable-brain-tech.html",
+      "category": "Business",
+      "date": "2026-07-13T01:56:15.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
     {
       "id": "https://www.investing.com/news/stock-market-news/whats-driving-the-selloff-in-airelated-stocks-4787377",
       "title": "What’s driving the sell-off in AI-related stocks?",
@@ -354,17 +398,6 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
-      "id": "https://www.digitaltrends.com/?p=5989368",
-      "title": "What happens when AI detectors fail? Researchers say we must be trained to spot fake AI faces",
-      "summary": "Artificial intelligence has become remarkably good at creating fake human faces. So good, in fact, that the old tricks people relied on – counting fingers, spotting warped earrings, or looking for distorted backgrounds – are quickly becoming obsolete. According to a new study highlighted by the BBC, the next line of defence may not be a better AI detector at all. It might simply be a better-trained human. Researchers from the University of Aberdeen, working alongside Australia's National University, found that people can dramatically improve their ability to distinguish AI-generated faces from real ones after a relatively short period of structured training. Instead of hunting for obvious visual glitches, participants were taught to recognise subtle patterns that modern image generators still struggle to replicate consistently.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/computing/what-happens-when-ai-detectors-fail-researchers-say-we-must-be-trained-to-spot-fake-ai-faces/",
-      "category": "Tech",
-      "date": "2026-07-12T01:44:26.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
       "id": "https://x.com/thsottiaux/status/2076365965915467978?utm_source=futuretools.io&utm_medium=newspage",
       "title": "OpenAI Removes 5-Hour Limit for Codex & ChatGPT Work, Hits 6M Users",
       "summary": "Morning. The last 48 hours of Codex and ChatGPT Work have been intense! Three important updates: - Temporarily removing the 5 hour usage limit restriction for all Plus, Business and Pro plans - Rolling out changes that will make GPT 5.6 Sol more efficient across the board and",
@@ -471,17 +504,6 @@
       "date": "2026-07-11T14:00:00.000Z",
       "hot": false,
       "officialUrl": "https://rss.politico.com"
-    },
-    {
-      "id": "108331802",
-      "title": "While Musk's Neuralink drills into skulls, China's BrainCo bets the future of brain tech is wearable",
-      "summary": "Interest in brain-computer interfaces is rising as it promises to help people with compromised neural abilities.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/07/11/chinas-brainco-bets-on-wearable-brain-tech.html",
-      "category": "Business",
-      "date": "2026-07-11T13:47:01.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "https://decrypt.co/?p=373002",
