@@ -1,49 +1,191 @@
 {
-  "lastUpdated": "2026-07-14T14:45:02.684Z",
+  "lastUpdated": "2026-07-14T16:10:56.525Z",
   "news": [
+    {
+      "id": "https://www.digitaltrends.com/?p=5990104",
+      "title": "WhatsApp is creating its own cloud backup alternative for iPhone users",
+      "summary": "If your iCloud storage is constantly running low, WhatsApp might have a fix coming. Code spotted in the WhatsApp beta for iOS by WABetaInfo reveals that Meta is building its own first-party cloud backup service for iPhone users. For the first time, you would be able to store your WhatsApp chat history on WhatsApp's own servers instead of iCloud. The feature is still in development and not yet available to beta testers, with no official release date announced. Anton / Pexels Once the feature launches, you will be able to choose your preferred backup provider directly from the chat backup settings inside WhatsApp. iCloud stays the default, so nothing changes if you ignore it.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/phones/whatsapp-is-creating-its-own-cloud-backup-alternative-for-iphone-users/",
+      "category": "Tech",
+      "date": "2026-07-14T16:04:58.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+      "title": "Celebrating 25 years of visual search innovation",
+      "summary": "Google AI is celebrating Google Images turning 25 with a look back at some major milestones — and introducing new ways to explore and create visual content. Brad Kellett Senior Engineering Director, Search Share x.com Facebook LinkedIn Mail Copy link class ProgressiveImage { EVENTS = { TRANSITION_END: 'transitionend', }; CSS_CLASSES = { BLUR: 'uni-progressive-image--blur', NO_BLUR: 'uni-progressive-image--no-blur', }; init(el) { this.el = el; this._events(); this._upgradeImage(); } _upgradeImage() { // For gif format images Google AI don't include data-srcset and data-sizes // Google AI can safely remove the blur filter. if (!this.el.dataset.srcset || !this.el.dataset.sizes) { this.el.classList.add(this.CSS_CLASSES.NO_BLUR); return; } this.el.setAttribute('srcset', this.el.dataset.srcset); this.el.setAttribute('sizes', this.el.dataset.sizes); requestAnimationFrame(() => { this.el.classList.add(this.CSS_CLASSES.NO_BLUR); }); } _events() { // Once the transition completes is safe to clean some attributes this.el.addEventListener(this.EVENTS.TRANSITION_END, () => { this.el.classList.remove(this.CSS_CLASSES.BLUR, this.CSS_CLASSES.NO_BLUR); this.el.removeAttribute('data-srcset'); this.el.removeAttribute('data-sizes'); }); } } document.addEventListener('DOMContentLoaded', () => { const images = document.querySelectorAll('[data-component=\"uni-progressive-image\"]'); images.forEach((el) => { el.setAttribute('data-component-initialized', true); new ProgressiveImage().init(el); }); }...",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+      "category": "Research",
+      "date": "2026-07-14T16:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://blog.google"
+    },
+    {
+      "id": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
+      "title": "The Google Images homepage will recommend photos even before you search",
+      "summary": "Google is announcing a big change to the Google Images homepage in honor of the platform’s 25th anniversary this week. Instead of a mostly blank page with a search bar, the homepage will soon show you a bunch of images that it thinks you might like before you even start searching. The company says the new “browseable” homepage features a “dynamic, immersive gallery of images from across the web — updated in real time and intelligently tailored to your unique interests.” Based on images Google has shared, the layout reminds me of platforms like Pinterest and Imgur that stuff a lot of images in one place for you to scroll through. You’ll also be able to save images in collections that you can reference later, and those collections will show up as tabs above the feed. The new Google Images homepage will be rolling out over the “coming weeks” for signed-in desktop users in the US in English, according to Google. In another image-related update, Google Search will soon be able to generate images in AI Overviews using its Nano Banana 2 Lite AI model.",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
+      "category": "Industry",
+      "date": "2026-07-14T16:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3141998",
+      "title": "Google Images gets a Pinterest-like redesign focused on discovery",
+      "summary": "Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
+      "category": "Business",
+      "date": "2026-07-14T16:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://www.engadget.com/2214477/google-images-25th-anniversary-makeover/",
+      "title": "Google Images is getting a makeover for its 25th anniversary",
+      "summary": "It’s also adding Nano Banana to AI Overviews in Search. Google Google has given Images a makeover 25 years after it launched.. and 26 years after Jennifer Lopez's Versace dress inspired its creation. The Images interface doesn't look much different from its current design, but the company says the results you'll see in the new version are \"updated in real time\" and are \"intelligently tailored to your unique interests.\" You can still save images to your collections, like you've been able to for quite some time, by clicking on a particular photo and then the kebab menu icon above it before clicking save. After you add the images, they'll appear as tabs above the main gallery, so you can easily jump back in and continue looking for more similar results.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2214477/google-images-25th-anniversary-makeover/",
+      "category": "Tools",
+      "date": "2026-07-14T16:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
+      "title": "Spotify is now an AI chatbot, too",
+      "summary": "This is what the “Talk to Spotify” chatbox (left) looks like on the homepage. The \"Talk to Spotify\" feature appears across the Home and Now Playing view on Spotify's mobile app. You can interact with the chatbot by typing your request in the familiar AI text box, or by selecting the mic symbol and speaking. Amazon Music introduced a similar feature last year when it integrated Alexa Plus into the service. Spotify's chatbot goes a step beyond providing AI-powered recommendations and general trivia, however, because it references your playlists, favor …",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
+      "category": "Industry",
+      "date": "2026-07-14T15:47:36.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/pollution-from-musks-unpermitted-xai-power-project-hits-hardest-in-black-communities-4790181",
+      "title": "Pollution from Musk’s unpermitted xAI power project hits hardest in Black communities",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/pollution-from-musks-unpermitted-xai-power-project-hits-hardest-in-black-communities-4790181",
+      "category": "Business",
+      "date": "2026-07-14T15:43:16.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.engadget.com/2210891/why-dual-smaller-monitors-beat-27-inch-displays-for-home-offices/",
+      "title": "If you're still on a single monitor, this is the best workflow upgrade you can make",
+      "summary": "It will enhance your computing experience in multiple ways. Adnan Ahmed for Engadget Those who work from home or simply spend a lot of time at their desks will understand how rewarding it feels when you set everything up just right by buying the right peripherals or finding good productivity apps. Something you can't replicate with software alone, however, is the additional screen real estate that comes with adding another display to your setup. If you've never done it before, setting up a second monitor may seem complicated, but it's as simple as plugging it into an available DisplayPort or HDMI port on your computer. Docking stations come in handy if you're using a laptop with limited port options. The biggest practical benefit that a dual-monitor setup offers is the ability to have more windows open at the same time.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2210891/why-dual-smaller-monitors-beat-27-inch-displays-for-home-offices/",
+      "category": "Tools",
+      "date": "2026-07-14T15:30:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3142131",
+      "title": "New York State halts construction of all new data centers",
+      "summary": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity costs, water supplies, or local control.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
+      "category": "Business",
+      "date": "2026-07-14T15:17:59.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "108334149",
+      "title": "SpaceX alumni building remote-controlled construction equipment land $115 million fund round",
+      "summary": "TerraFirma on Tuesday said it raised $115 to support new hires and the building of a new factory and mission control center.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/07/14/terrafirma-construction-tech-spacex.html",
+      "category": "Business",
+      "date": "2026-07-14T15:15:08.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
+      "title": "New York bans data center construction for a year, rattling AI industry",
+      "summary": "New York became the first state to pause all construction of massive new data centers after Democratic Governor Kathy Hochul announced a one-year moratorium on Tuesday, Reuters reported. The state-wide ban applies to data centers using 50 megawatts or more, officials told Reuters, and it won’t be lifted until the state figures out what \"consistent standards\" for responsible data center development in New York should look like. Across the US, calls to halt data center construction have multiplied, as Americans grow increasingly concerned about risks of pollution, rising energy costs, and diminishing water supplies. At the federal level, Bernie Sanders (I-Vt.) and Alexandria Ocasio-Cortez (D-N.Y.) have introduced legislation seeking a possible nationwide construction ban. But Republicans are seemingly unlikely to embrace that legislation, given Donald Trump's claim that such moratoriums would threaten America's lead in the AI race.Read full article Comments",
+      "source": "Ars Technica AI",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
+      "category": "Industry",
+      "date": "2026-07-14T15:06:28.000Z",
+      "hot": false,
+      "officialUrl": "https://arstechnica.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=373481",
+      "title": "UK to Defer Capital Gains Tax on DeFi Lending, Liquidity Pool Deposits",
+      "summary": "Moving crypto into a lending protocol or liquidity pool won’t count as a taxable disposal, deferring the charge until a real cash-out.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/373481/uk-to-defer-capital-gains-tax-on-defi-lending-liquidity-pool-deposits",
+      "category": "Tech",
+      "date": "2026-07-14T15:00:26.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://blogs.nvidia.com/?p=96103",
+      "title": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency",
+      "summary": "Power is AI infrastructure’s inescapable constraint. How many tokens an AI factory can generate within a fixed power budget determines its revenue and profitability. Because of this, performance per watt — a metric that can’t be gamed, only earned through real-world results — is the foundation for AI factories. As agentic AI drives token demand higher, the infrastructure decisions organizations make today will determine who scales and who doesn’t in a power-constrained world. Virtually every frontier AI model today runs on a mixture-of-experts (MoE) architecture. Serving MoE at rack scale demands codesign across every layer of the system and software stack, plus the operational depth earned from running these models under real production load.",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/",
+      "category": "Events",
+      "date": "2026-07-14T15:00:20.000Z",
+      "hot": false,
+      "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/07/14/madden-nfl-27-arcade-edition/",
+      "title": "Madden NFL 27 Arcade Edition Coming to Apple Arcade",
+      "summary": "Apple today announced that Madden NFL 27 Arcade Edition is coming to Apple Arcade on August 6, a new entry in the franchise built specifically for the service with a season-based structure and current NFL rosters. The game is a full Madden title with no ads or in-app purchases, and it includes both Franchise and Quick Play modes, with player ratings drawn from real NFL performances. A weekly story engine drives Franchise mode, casting players as GM and tasking them with guiding a team through shifting storylines, keeping fans onside, and building toward a title. Controller support is available across the iPhone, iPad, Mac, and Apple TV. Retro Bowl College+ also launches August 6, putting players in charge of one of 250 college programs in this spinoff of the original pixel-art Retro Bowl. On September 3, NFL Retro Bowl '27 adds a new Gauntlet Mode, where players start with limited resources and try to string together 15 wins in a row for the top spot on the leaderboard, picking between easier matchups or riskier ones that pay out real NFL players and perks.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/07/14/madden-nfl-27-arcade-edition/",
+      "category": "Tech",
+      "date": "2026-07-14T14:57:28.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "108334672",
+      "title": "Chamath Palihapitiya says soaring AI token spend will hit companies' earnings",
+      "summary": "Palihapitiya is part of a growing chorus of investors and tech executives who are cautioning that the tokenmaxxing era is coming to an end.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/07/14/chamath-palihapitiya-ai-tokenmaxxing.html",
+      "category": "Business",
+      "date": "2026-07-14T14:47:31.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://cohere.com/blog/tiny-aya-in-the-wild",
+      "title": "Tiny aya in the wild",
+      "summary": "Tiny Aya is Cohere Labs' answer to a familiar problem: most AI is built for a handful of languages and needs serious hardware to run. Tiny Aya is open-weight, strong across 70+ languages, and light enough to run locally, even on a phone. Shortly after release, Cohere launched Expedition Tiny Aya, a mentor-supported research program to put the model in the hands of builders, researchers, students, and practitioners around the world, and see what they build with it. Alongside the growing body of community projects, the research behind Tiny Aya was recently accepted to COLM 2026, underscoring the model's impact as both a practical foundation for multilingual AI and a contribution to the research community. What follows is an overview of what emerged from the Expedition. Projects from this initiative yielded insights across four key themes: education and learning, building safer multilingual AI, accessibility and local deployment, and language understanding and processing.",
+      "source": "Cohere Blog",
+      "sourceUrl": "https://cohere.com/blog/tiny-aya-in-the-wild",
+      "category": "Models",
+      "date": "2026-07-14T14:43:16.392Z",
+      "hot": true
+    },
     {
       "id": "https://techcrunch.com/?p=3141991",
       "title": "Reflection inks $1B compute deal with Nebius",
-      "summary": "Reflection AI has signed a $1 billion deal to access Nebius's compute. Reflection was founded in 2024 and is developing open source AI technology.",
+      "summary": "Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology.",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
       "category": "Business",
       "date": "2026-07-14T14:37:48.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/factboxwhere-authorities-are-restricting-data-centres-amid-ai-boom-4791043",
-      "title": "Factbox-Where authorities are restricting data centres amid AI boom",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/factboxwhere-authorities-are-restricting-data-centres-amid-ai-boom-4791043",
-      "category": "Business",
-      "date": "2026-07-14T14:36:56.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/exclusivezte-among-chinese-firms-licensed-to-purchase-nvidias-h200-chips-documents-show-4791208",
-      "title": "Exclusive-ZTE among Chinese firms licensed to purchase Nvidia’s H200 chips, documents show",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/exclusivezte-among-chinese-firms-licensed-to-purchase-nvidias-h200-chips-documents-show-4791208",
-      "category": "Business",
-      "date": "2026-07-14T14:36:38.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/german-media-regulator-says-googles-ai-overviews-subject-to-german-media-law-4790891",
-      "title": "German media regulator says Google’s AI Overviews subject to German media law",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/german-media-regulator-says-googles-ai-overviews-subject-to-german-media-law-4790891",
-      "category": "Business",
-      "date": "2026-07-14T14:31:01.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
     },
     {
       "id": "https://techcrunch.com/?p=3142002",
@@ -110,17 +252,6 @@
       "date": "2026-07-14T13:53:56.000Z",
       "hot": false,
       "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "108334149",
-      "title": "SpaceX alumni building remote-controlled construction equipment land $115 million fund round",
-      "summary": "TerraFirma on Tuesday said it raised $115 to support new hires and the building of a new factory and mission control center.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/07/14/terrafirma-construction-tech-spacex.html",
-      "category": "Business",
-      "date": "2026-07-14T13:00:01.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "108333695",
@@ -299,17 +430,6 @@
       "officialUrl": "https://www.wired.com"
     },
     {
-      "id": "https://www.digitaltrends.com/?p=5989991",
-      "title": "Claude diagnosed my washing machine problem in minutes, and it didn’t cost me a thing",
-      "summary": "Earlier this week, my washing machine picked the worst possible time to give up. One minute it was happily churning through a load of laundry, and the next it had frozen completely, leaving me with a drum full of soggy, soapy clothes and a mysterious error code 'ES' flashing on the display. It was just a random combination of letters that meant absolutely nothing to me. Like most people, I immediately turned to Reddit and Google. Surely someone else had seen this before, right? Instead, I fell into the usual rabbit hole of forum posts where every answer seemed to contradict the last.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/cool-tech/claude-diagnosed-my-washing-machine-problem-in-minutes-and-it-didnt-cost-me-a-thing/",
-      "category": "Tech",
-      "date": "2026-07-14T10:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
       "id": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
       "title": "New York becomes the first state to enact a data center moratorium",
       "summary": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed by the state legislature that could restrict even more developments still awaits her signature. The order blocks new environmental permits for data centers over 50 megawatts, which the governor's office says will give the state time to come up with the regulations needed to protect residents from rising energy prices and environmental impact. That's higher than the 20 megawatt threshold approved by state lawmakers. Hochul's office could not immediately identify th …",
@@ -339,28 +459,6 @@
       "sourceUrl": "https://mashable.com/tech/hp-omnibook-3-16-review-snapdragon-x-best-laptop-battery-life",
       "category": "Tech",
       "date": "2026-07-14T09:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
-      "id": "02WOqGxWXyMdKSoOEUltgxb",
-      "title": "HeyPolo gives parents peace of mind without sacrificing privacy — sign up for under $1",
-      "summary": "An advertiser paid for editorial consideration of this deal. Our editorial experts vetted the deal based on our independent expertise. Because we determined that the deal will save money for the consumer, we wrote the content.If you're looking for a way to keep tabs on your family without risking their privacy or becoming a snooping, neurotic parent in danger of losing your children's trust, we have the app for you: HeyPolo. Best of all, it's significantly discounted for a limited time. Read on to learn how HeyPolo works and how you can use it to gain peace of mind for your entire family. Opens in a new window Credit: HeyPolo HeyPolo Save more than 80% on the first month of your HeyPolo subscription. As a parent, you can know, at a glance, where your children are or even when they arrive home from a night out without having to send out an intrusive text message that might never get a reply.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/heypolo-gives-parents-peace-of-mind-without-sacrificing-privacy",
-      "category": "Tech",
-      "date": "2026-07-14T09:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
-      "id": "06pkwqbYzI2Eso7i6ylAHZs",
-      "title": "The Eufy E25 robot vacuum is heavily discounted at Amazon right now — act fast to save $400",
-      "summary": "SAVE $400: As of July 14, the Eufy E25 robot vacuum is on sale for $599.99 at Amazon. That's a 40% discount on the list price. Opens in a new window Credit: eufy Eufy E25 Robot Vacuum $599.99 at Amazon $999.99 Save $400 Get Deal Unfortunately, a robot vacuum can't do all of your household chores for you. The technology hasn't got there just yet, but floor cleaning can at least be taken out of your hands. If you've been looking for a product that does this, meet the Eufy E25 robot vacuum. It vacuums, it mops, and as of July 14, it's on sale for $400 off.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/july-14-eufy-robot-vacuum-deal",
-      "category": "Tech",
-      "date": "2026-07-14T08:49:49.000Z",
       "hot": false,
       "officialUrl": "https://mashable.com"
     },
@@ -657,17 +755,6 @@
       "officialUrl": "https://decrypt.co"
     },
     {
-      "id": "https://www.engadget.com/2214113/ransomware-negotiator-who-colluded-with-attackers-to-scam-victims-was-sentenced-to-70-months-in-prison/",
-      "title": "A ransomware negotiator who colluded with attackers to scam victims was sentenced to 70 months in...",
-      "summary": "Angelo Martino helped scam ransomware victims out of over $75 million, officials said. FlyD/Unsplash A negotiator who dealt with scammers on behalf of ransomware victims was actually colluding with the attackers. Angelo Martino pleaded guilty to conspiring to interfere with interstate commerce through extortion. Martino, who faced up to 20 years in prison, sought a sentence of 24 months as part of a plea agreement. However, he was sentenced to 70 months behind bars. Law enforcement officers have seized $10 million worth of assets that Martino obtained through the scheme.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2214113/ransomware-negotiator-who-colluded-with-attackers-to-scam-victims-was-sentenced-to-70-months-in-prison/",
-      "category": "Tools",
-      "date": "2026-07-13T19:53:26.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
       "id": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
       "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
       "summary": "“Rare bug” exposed secrets Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets OpenAI accused of conspiring with former Apple employees to steal trade secrets. In a lawsuit filed Friday, Apple sought several injunctions blocking OpenAI from using confidential information allegedly stolen by former employees. According to Apple’s complaint, OpenAI conspired with former Apple employees as part of a grand scheme to “take an unlawful shortcut” and launch a line of AI-powered devices as marketable as Apple’s iPhone. Apple explained that it found a bug while investigating internal messages between a then-current employee, Yu-Ting “Alyssa” Peng, and an engineer who spent eight years “working on some of Apple’s most sensitive product development programs,” Chang Liu. Liu left Apple for OpenAI in January 2026. However, on February 9, Liu discovered an “authentication bug” that was unknown to Apple at the time.",
@@ -679,17 +766,6 @@
       "officialUrl": "https://arstechnica.com"
     },
     {
-      "id": "108333684",
-      "title": "Meta's Louisiana data center investment to reach $50 billion, aided by generous tax incentives",
-      "summary": "Meta said the planned Hyperion data center supercluster in Richland Parish, Louisiana, will be a 5GW facility and cost more than $50 billion.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/07/13/meta-louisiana-data-center-investment-reaches-50-billion-amid-ai-push.html",
-      "category": "Business",
-      "date": "2026-07-13T19:00:18.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
       "id": "https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713",
       "title": "AI agents create virtual playgrounds to help robots get crucial training data",
       "summary": "Robots walking down the street, surrounded by astounded onlookers, is an increasingly common sight. But these machines aren’t yet the do-it-all assistants you’d want working in a kitchen or factory, and a major bottleneck is data. Much like humans, robots learn best by experience. The challenge is that it’s labor-intensive and time-consuming to physically teach these machines so many actions across different settings. “One natural idea is to use simulation as a training ground. While there has been significant progress over the last few years in the physics engines that power robotics simulators, one of the remaining challenges has been creating sufficiently rich and diverse simulation content to capture the complexity of the real world,” says Russ Tedrake, the Toyota Professor of Electrical Engineering and Computer Science (EECS), Aeronautics and Astronautics, and Mechanical Engineering at MIT, and a principal investigator at MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL).It turns out that AI agents, or semi-autonomous programs that “think” and complete well-defined tasks, could help produce the lifelike virtual settings that robots need. The new “SceneSmith” system developed by researchers at MIT CSAIL and Toyota Research Institute uses three agents to piece together the objects, walls, and overall look of a 3D scene.",
@@ -699,28 +775,6 @@
       "date": "2026-07-13T18:50:00.000Z",
       "hot": false,
       "officialUrl": "https://news.mit.edu"
-    },
-    {
-      "id": "https://www.engadget.com/2209865/icloud-plus-vs-apple-one/",
-      "title": "iCloud+ vs. Apple One: Which is worth it for you?",
-      "summary": "They both offer expanded storage, but there's more. First, let's talk about what iCloud is. It's Apple's syncing service that automatically makes your photos, videos, files and notes available across devices. iCloud even backs up your device settings and app organization, which makes it easier to move from an older device to a newer one. It's the reason you can go on your iPad and access the photos you've taken on your iPhone, provided you've used the same Apple ID for both of them. On non-Apple devices, you can log into the iCloud website and see your synced files and data.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2209865/icloud-plus-vs-apple-one/",
-      "category": "Tools",
-      "date": "2026-07-13T18:30:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
-      "id": "https://www.engadget.com/2213944/tv-time-is-relaunching-as-its-parent-company-pivots-to-ai/",
-      "title": "TV-logging app TV Time is functionally relaunching as parent company pivots to AI",
-      "summary": "Bingers is expected to launch by the end of July. Bingers The founder of TV Time, the social media app that tracks the TV shows you've watched, is creating a modern-day alternative called Bingers. The new app will let users track TV shows and movies, set reminders for new releases and engage in fan discussions. TV Time dates back to 2011 when the app's founder, Anthony Pinto, started it as a \"funny side project\" with the original name TVShow Time. The app grew a dedicated user base over the years, rebranded to TV Time and was later sold to Whip Media in 2016. Since then, TV Time hit a milestone of 20 million registered users across the world in 2021, before eventually being sold again to Blue Torch Capital, which had plans for a more AI-heavy approach.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2213944/tv-time-is-relaunching-as-its-parent-company-pivots-to-ai/",
-      "category": "Tools",
-      "date": "2026-07-13T18:02:24.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
     },
     {
       "id": "https://www.technologyreview.com/?p=1140343",
@@ -828,17 +882,6 @@
       "officialUrl": "https://decrypt.co"
     },
     {
-      "id": "https://www.macrumors.com/2026/07/13/openai-lawsuit-threatens-plans/",
-      "title": "Report: Apple's OpenAI Lawsuit Threatens iPhone Rival Plans",
-      "summary": "OpenAI's ambitions to build a hardware rival to the iPhone are already running into trouble because of Apple's trade secret lawsuit, according to Bloomberg's Mark Gurman, who argues the damage is showing up well before any court ruling. Apple sued OpenAI last week, accusing the company of pushing former employees, and even people it was trying to recruit, to hand over details on unreleased products. The suit also claims OpenAI coached new hires on how to dodge Apple's exit-interview security checks using a document tied to former iPhone design chief Tang Tan. Apple is asking the court to order OpenAI to stop the alleged conduct, destroy any proprietary material it obtained, and pay damages. A courtroom resolution could take years, Gurman says, but he argues the suit is doing damage now, squeezing OpenAI's ability to recruit and creating drag on its device work long before a judge weighs in. OpenAI has declined to discuss its hardware roadmap directly, though in response to the suit the company said it has \"no interest in other companies' trade secrets\" and remains focused on its own technology.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/07/13/openai-lawsuit-threatens-plans/",
-      "category": "Tech",
-      "date": "2026-07-13T16:31:48.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
       "id": "https://techcrunch.com/?p=3141477",
       "title": "Should AI help you get away with killing your spouse?",
       "summary": "What does a world of total user-aligned AI actually look like?",
@@ -892,28 +935,6 @@
       "date": "2026-07-13T14:46:09.000Z",
       "hot": false,
       "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3141472",
-      "title": "Waze adds new AI-powered features and customization updates",
-      "summary": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
-      "category": "Business",
-      "date": "2026-07-13T14:18:16.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=373380",
-      "title": "Bank of Thailand Flags Abnormal Stablecoin Trades in 'Grey Economy' Crackdown",
-      "summary": "Data analytics flagged stablecoin transfers meant to evade scrutiny, the central bank says, handing the findings to the securities regulator.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/373380/bank-of-thailand-flags-abnormal-stablecoin-trades-in-grey-economy-crackdown",
-      "category": "Tech",
-      "date": "2026-07-13T13:56:36.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
     },
     {
       "id": "https://www.techrepublic.com/article/news-apple-car-project-m7-ai-chips/",
@@ -991,17 +1012,6 @@
       "date": "2026-07-13T08:33:00.000Z",
       "hot": false,
       "officialUrl": "https://feeds.feedburner.com"
-    },
-    {
-      "id": "108333873",
-      "title": "Europe's Anduril rival Helsing raises $1.8 billion at $18 billion valuation",
-      "summary": "Helsing said \"investor demand significantly exceeded the available allocation\" for its $1.8 billion funding round.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/07/13/helsing-fund-raise-defense-18-billion.html",
-      "category": "Business",
-      "date": "2026-07-13T08:13:46.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713",
@@ -1109,17 +1119,6 @@
       "officialUrl": "https://feeds.feedburner.com"
     },
     {
-      "id": "https://www.theverge.com/column/963346/ai-data-centers-fight",
-      "title": "The fight against AI data centers is just beginning",
-      "summary": "A yard sign opposing a planned data center is displayed along Route 54 in Mount Carmel Township Northumberland County. For more on the data center buildout, follow Emma Roth. Opt in for The Stepback here. How it started Years before the AI boom threatened local power grids, a small group of protesters set the stage for the battles cropping up across communities today. In 2015, Apple announced plans to build a roughly $1 billion data center in the sleepy town of Athenry, Ireland. The data center's 500-acre site would power Apple's services in Europe, including iTunes, iMessage, and Siri.",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/column/963346/ai-data-centers-fight",
-      "category": "Industry",
-      "date": "2026-07-12T12:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
       "id": "6a50b6a1801742f6885445d1",
       "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
       "summary": "Courtesy of Orca Computing, DTU; Getty Images Scientists have successfully shown a quantum computer can improve the accuracy and reach of generative artificial intelligence drug discovery models. And they did it using their spare time and money left over from other projects. The Technical University of Denmark team ran their generative AI model for predicting proteins in conjunction with a printer-sized quantum computer built by British startup Orca Computing, which sped up AI by linking quantum machines with traditional processors. The researchers used the hybrid technique to generate novel peptides—short chains of amino acids—capable of binding to specific proteins in the body. Doing so is a crucial step in vaccine development. The team of researchers worked weekends and pooled unspent money from other projects because “most innovative science is too scary for foundations,” according to DTU professor Timothy Patrick Jenkins, who led the project.",
@@ -1169,17 +1168,6 @@
       "category": "Curation",
       "date": "2026-07-12T00:00:00.000Z",
       "hot": false
-    },
-    {
-      "id": "https://techcrunch.com/?p=3141184",
-      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "category": "Business",
-      "date": "2026-07-11T14:13:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
     },
     {
       "id": "0000019f-4df0-d457-a5df-6df66be60002",
@@ -1370,13 +1358,7 @@
       "sourceUrl": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-07-10T00:00:00.000Z",
-      "hot": false,
-      "relatedCoverage": [
-        {
-          "source": "The Verge AI",
-          "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes"
-        }
-      ]
+      "hot": false
     },
     {
       "id": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/?utm_source=futuretools.io&utm_medium=newspage",
@@ -1427,17 +1409,6 @@
       "category": "Curation",
       "date": "2026-07-10T00:00:00.000Z",
       "hot": true
-    },
-    {
-      "id": "6a4fd9ef54628ebc7be51dbd",
-      "title": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
-      "summary": "Photograph: G L Askew II OpenAI’s chief executive of AGI deployment, Fidji Simo, is leaving her full-time role at the company and transitioning to become a part-time adviser. The move comes after Simo took a monthslong medical leave due to a worsening neuroimmune condition. “Three months ago, I had to go on medical leave after a severe exacerbation of a chronic illness I’ve lived with for seven years,” Simo wrote in a post Thursday on X. “During that time, it became clear that the road to recovery would be much longer and more complex than I had anticipated—and that I needed to focus on it fully.” Simo joined OpenAI’s board of directors in March 2024. The following year, CEO Sam Altman hired her to take on the product and business organizations so he could focus on research and the company’s data center buildout.",
-      "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/",
-      "category": "Industry",
-      "date": "2026-07-09T23:13:18.000Z",
-      "hot": false,
-      "officialUrl": "https://www.wired.com"
     },
     {
       "id": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
@@ -1515,28 +1486,6 @@
       "date": "2026-07-09T18:57:53.000Z",
       "hot": false,
       "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/article/news-meta-ai-data-center-water-scare/",
-      "title": "Meta AI Data Center Linked to Rare Bacteria Water Scare",
-      "summary": "Meta’s Cheyenne AI data center project was linked to the presence of rare bacteria in reclaimed irrigation water, adding scrutiny to local data center wastewater rules.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-meta-ai-data-center-water-scare/",
-      "category": "Business",
-      "date": "2026-07-09T16:05:48.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://news.mit.edu/2026/tiny-robot-boats-build-floating-structures-0709",
-      "title": "Tiny robot boats build floating structures",
-      "summary": "Most people think of the waterfront as the edge of the city. A team of MIT researchers sees it as a dynamic, Lego-like construction site.Their new system, called “FloatForm,” is a swarm of small square robotic boats that assemble themselves into larger structures on the water, break apart, and reassemble into something new, all with minimal human direction. Each robot, about the size of a dinner plate at 21 centimeters square, is a self-contained vessel with its own thrusters, sensors, and magnetic latches. Together, they hint at a future in which floating infrastructure could become more adaptive: a temporary platform after an emergency, a market on a canal, or a stage that appears for a festival and dissolves when the crowd goes home.“Our FloatForm projects envisions a future where the waterfront becomes a programmable extension of the city, where autonomous boats can self-organize into bridges, platforms, and other useful structures on demand,” says Daniela Rus, the Panasonic Professor of Electrical Engineering and Computer Science at MIT and director of MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL). “This kind of distributed robotics opens new possibilities for mobility, emergency response, public space, and infrastructure on water.”“With FloatForm, we are essentially turning static water surfaces into dynamic, programmable spaces,” says Wei Wang, lead author of a new paper on the project and a former MIT research scientist who now leads the Mar...",
-      "source": "MIT News ML",
-      "sourceUrl": "https://news.mit.edu/2026/tiny-robot-boats-build-floating-structures-0709",
-      "category": "Research",
-      "date": "2026-07-09T15:50:00.000Z",
-      "hot": false,
-      "officialUrl": "https://news.mit.edu"
     }
   ]
 }
