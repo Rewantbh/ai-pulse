@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2026-07-14T22:52:08.212Z",
+  "lastUpdated": "2026-07-14T23:45:50.560Z",
   "news": [
+    {
+      "id": "https://www.digitaltrends.com/?p=5990243",
+      "title": "Frontier joins the Starlink club with high-speed in-flight internet",
+      "summary": "If there's one thing budget airlines aren't exactly known for, it's great onboard Wi-Fi. In Frontier Airlines' case, it hasn't offered in-flight internet at all. That's about to change. Frontier Airlines has announced a partnership with SpaceX's Starlink to bring high-speed, low-latency internet across its fleet. Installations will begin in early 2027, making Frontier the first ultra-low-cost carrier in the United States to adopt Starlink's satellite-powered connectivity. According to Frontier, Starlink will deliver gate-to-gate internet access capable of supporting everything from web browsing and messaging to video streaming, online gaming, and remote work.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/cool-tech/frontier-joins-the-starlink-club-with-high-speed-in-flight-internet/",
+      "category": "Tech",
+      "date": "2026-07-14T23:02:01.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
     {
       "id": "108334865",
       "title": "Jim Cramer says IBM's 25% plunge isn't enough to make the stock a buy",
@@ -99,17 +110,6 @@
       "date": "2026-07-14T21:30:32.000Z",
       "hot": false,
       "officialUrl": "https://mashable.com"
-    },
-    {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
-      "title": "OpenAI may announce a ChatGPT smart speaker this year",
-      "summary": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additional sensors to \"understand\" your environment. The report comes just days after Apple filed a lawsuit against OpenAI that accused the AI company of stealing hardware secrets. OpenAI, in a new statement on Tuesday, said that it is \"not aware of any evidence that this complaint has merit.\" Sources tell Bloomberg that OpenAI's device will also feature a rechargeable battery that will allow users to carry it with them. It will offer smart home contro …",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
-      "category": "Industry",
-      "date": "2026-07-14T21:26:32.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
     },
     {
       "id": "https://www.engadget.com/2215258/former-employees-sue-over-meta-s-alleged-use-of-biased-ai-systems-during-layoffs/",
@@ -254,6 +254,17 @@
       "officialUrl": "https://decrypt.co"
     },
     {
+      "id": "https://www.techrepublic.com/?p=4365219",
+      "title": "Teleoperated Humanoid Robots Reach Live Surgery Milestone",
+      "summary": "UC San Diego's Surgie humanoid robots performed two live gallbladder surgeries on pigs, showing how adaptable robots could safely work in future hospitals.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-surgie-humanoid-live-pig-surgery/",
+      "category": "Business",
+      "date": "2026-07-14T19:49:46.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
       "id": "https://techcrunch.com/?p=3142256",
       "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
       "summary": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software’s official launch this fall.",
@@ -285,17 +296,6 @@
       "date": "2026-07-14T19:39:39.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
-      "title": "SpaceXAI’s Grok programming tool was uploading its users’ entire codebase to cloud storage",
-      "summary": "Elon Musk says that all previously uploaded data will be deleted. Elon Musk says that all previously uploaded data will be deleted. SpaceXAI’s Grok Build AI coding tool was spotted uploading users’ entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published findings on Monday showing how the Grok Build CLI was packaging and uploading entire code repositories, “including files it was told not to open and secrets deleted from history,” significantly more data retention than similar tools like Claude Code. The researchers say that as of Monday, their tests show SpaceXAI’s servers returning a “disable_codebase_upload: true” flag, and the codebase upload “no longer fires.” SpaceXAI initially responded to the issue with a post saying that, “If [zero data retention] is disabled, the /privacy command is available in the CLI to disable data retention, which also deletes previously synced data.” However, Cereblab points out that “/privacy is a per-session retention toggle, not the switch that fixed this, so it shouldn’t be pointed to as the control.”",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
-      "category": "Industry",
-      "date": "2026-07-14T19:25:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
     },
     {
       "id": "https://www.techrepublic.com/article/apac/",
@@ -406,17 +406,6 @@
       "date": "2026-07-14T17:45:55.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
-      "title": "Meta accused of using biased AI targeting for mass layoffs",
-      "summary": "More than two dozen former employees claim Meta used AI to rank workers’ performance, but failed to exclude people on medical leave. More than two dozen former employees claim Meta used AI to rank workers’ performance, but failed to exclude people on medical leave. A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the lawsuit, the employees allege Meta determined which workers to dismiss based on performance data collected by a “constellation” of internal AI tools, but failed to exclude those on parental or medical leave from its ranking system: The result was that employees who took protected leaves were disproportionately selected for layoff, based on scoring that not only failed to account for their protected leaves, but in effect penalized the employees for exercising their legal rights to these leaves. The layoffs mentioned in the lawsuit occurred in May as part of Meta’s plans to slash 10 percent of its staff, or around 8,000 workers.",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
-      "category": "Industry",
-      "date": "2026-07-14T17:18:11.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
     },
     {
       "id": "108334804",
@@ -573,6 +562,17 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
+      "id": "http://feeds.fabbaloo.com/~/960394028/0/fabbaloo/default~INSTATIQ-Patents-Method-for-Difficult-Concrete-Printing",
+      "title": "INSTATIQ Patents Method for Difficult Concrete Printing",
+      "summary": "INSTATIQ has patented a construction 3D printing system designed to place concrete directly against existing walls and other awkward building features. The post INSTATIQ Patents Method for Difficult Concrete Printing appeared on Fabbaloo.",
+      "source": "Fabbaloo",
+      "sourceUrl": "http://feeds.fabbaloo.com/~/960394028/0/fabbaloo/default~INSTATIQ-Patents-Method-for-Difficult-Concrete-Printing",
+      "category": "Tech",
+      "date": "2026-07-14T15:11:00.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.feedburner.com"
+    },
+    {
       "id": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
       "title": "New York bans data center construction for a year, rattling AI industry",
       "summary": "New York became the first state to pause all construction of massive new data centers after Democratic Governor Kathy Hochul announced a one-year moratorium on Tuesday, Reuters reported. The state-wide ban applies to data centers using 50 megawatts or more, officials told Reuters, and it won’t be lifted until the state figures out what \"consistent standards\" for responsible data center development in New York should look like. Across the US, calls to halt data center construction have multiplied, as Americans grow increasingly concerned about risks of pollution, rising energy costs, and diminishing water supplies. At the federal level, Bernie Sanders (I-Vt.) and Alexandria Ocasio-Cortez (D-NY) have introduced legislation seeking a possible nationwide construction ban. But Republicans are seemingly unlikely to embrace that legislation, given Donald Trump's claim that such moratoriums would threaten America's lead in the AI race.Read full article Comments",
@@ -704,17 +704,6 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
-      "id": "https://techcrunch.com/?p=3139498",
-      "title": "Superhuman’s new auto-draft feature almost makes me like AI replies",
-      "summary": "Superhuman’s latest AI email drafting feature is its most convincing yet, generating replies that often required little to no editing in our testing.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/",
-      "category": "Business",
-      "date": "2026-07-14T14:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
       "id": "https://www.macrumors.com/2026/07/14/amazon-30-off-airpods-4/",
       "title": "Amazon Takes $30 Off AirPods 4 Models This Week",
       "summary": "Amazon today has the AirPods 4 available for $99.00, down from $129.00. This is a second-best price on the AirPods 4, which is the base model without Active Noise Cancellation, and it's accompanied by a deal on the AirPods 4 with ANC. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Amazon provides a July 19 estimated delivery date for free shipping, with faster delivery options for Prime members. This model hasn't hit its all-time low price since last holiday season, so Amazon's price today remains one of the best we've seen all year on the AirPods 4 base model.",
@@ -770,17 +759,6 @@
       "officialUrl": "https://feeds.macrumors.com"
     },
     {
-      "id": "https://www.digitaltrends.com/?p=5990072",
-      "title": "Pixel Watch 5 leak bares it all, and it seems Google is playing it safe again",
-      "summary": "Google's next smartwatch may have just lost what little mystery it had left. High-resolution Pixel Watch 5 renders shared by longtime device leaker Steve Hemmerstoffer, better known as OnLeaks, show both case sizes and what's claimed to be the complete color lineup ahead of Google's expected August 12 launch event. The images were published in partnership with TheTideChart.com. Assuming the renders are accurate, Google isn't straying far from its established formula. The domed display and proprietary band system both appear to be returning for another generation. So… Today, I have a set of high-resolution press renders showing for the very first time the #Google #PixelWatch5 in its two size and 4 color options to share with you!😏This time, on behalf of new Partner https://t.co/uc0JO29lgC 👉🏻 https://t.co/7xRaus1Svj pic.twitter.com/jd3XTtlix2",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/wearables/pixel-watch-5-leak-bares-it-all-and-it-seems-google-is-playing-it-safe-again/",
-      "category": "Tech",
-      "date": "2026-07-14T12:46:11.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
       "id": "https://www.macrumors.com/2026/07/14/oled-ipad-mini-has-60hz-display/",
       "title": "Upcoming OLED iPad Mini Allegedly Uses 60Hz 8.4-Inch Display Panel",
       "summary": "Apple is allegedly using a 60Hz 8.4-inch display panel in the upcoming OLED iPad mini, which is expected to be released later this year. The information comes courtesy of a hit-and-miss tipster running the account \"yeux1122\" on the Korean Naver blog. The leaker claims to have been told by a source in Apple's supply chain that the unreleased iPad mini is equipped with a low-temperature polycrystalline silicon (LTPS) backplane hybrid OLED panel clocked at 60Hz. Apple's ‌iPad Pro‌ models feature two-stack low-temperature polycrystalline oxide (LTPO) OLED panels‌, which makes the display capable of dynamically adjusting its refresh rate between 10Hz and 120Hz (aka ProMotion). In contrast, LTPS OLED panels are usually paired with fixed refresh rates – such as 60Hz, 90Hz, or 120Hz – and are typically dimmer than LTPO panels. If the leak is true, it's likely to disappoint iPad mini fans.",
@@ -790,17 +768,6 @@
       "date": "2026-07-14T12:36:48.000Z",
       "hot": false,
       "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=5990048",
-      "title": "I let Gemini take care of my houseplants, and they’ve never looked better",
-      "summary": "I am, by every reasonable measure, a serial plant killer. I've lost count of the pothos, the peace lilies, the one very expensive fiddle-leaf fig that judged me silently for a month before giving up entirely. My problem was never a lack of love. It was that I'd either drown them out of guilt or forget they existed for a fortnight, with no middle ground. So when I started leaning on Gemini for the odd everyday question, letting it babysit my plants wasn't some grand plan. It happened almost by accident, and now my flat looks like something a person with their life together would own.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/cool-tech/i-let-gemini-take-care-of-my-houseplants-and-theyve-never-looked-better/",
-      "category": "Tech",
-      "date": "2026-07-14T12:30:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
     },
     {
       "id": "https://www.macrumors.com/2026/07/14/iphone-17-pricing-helped-apple-china-q2-26/",
@@ -945,16 +912,6 @@
       "hot": false
     },
     {
-      "id": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Superhuman's AI Auto-Draft Sends 60% of Emails Unedited Using Anthropic & OpenAI Models",
-      "summary": "Superhuman’s latest AI email drafting feature is its most convincing yet, generating replies that often required little to no editing in our testing.",
-      "source": "techcrunch.com",
-      "sourceUrl": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-07-14T00:00:00.000Z",
-      "hot": false
-    },
-    {
       "id": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium?utm_source=futuretools.io&utm_medium=newspage",
       "title": "New York Gov. Hochul Signs First U.S. Statewide Data Center Moratorium",
       "summary": "But a version approved by state lawmakers could go even further. But a version approved by state lawmakers could go even further. New hyperscale data centers can’t set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation’s first statewide moratorium. But a bill passed by the state legislature that could restrict even more developments still awaits her signature. The order blocks new environmental permits for data centers over 50 megawatts, which the governor’s office says will give the state time to come up with the regulations needed to protect residents from rising energy prices and environmental impact. That’s higher than the 20 megawatt threshold approved by state lawmakers.",
@@ -981,11 +938,11 @@
       ]
     },
     {
-      "id": "https://newsroom.spotify.com/2026-07-14/talk-to-spotify-announcement-beta/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Spotify Launches Conversational AI Feature for Premium Users to Discover & Control Music",
-      "summary": "Share Share Spotify has always been built around your taste. Now, we’re making it easier to shape what you hear, understand what’s playing, and explore your listening—just by asking. Eligible Premium users will see new ways to talk to Spotify across Home and the Now Playing view on mobile. By typing or speaking directly in the app, you can have a back-and-forth conversation to choose what’s playing, learn about the music you love, revisit your listening history, and go deeper on podcasts and audiobooks, all without leaving Spotify. Some days you know exactly what you want to hear. Other times, you want to change it up as you go.",
-      "source": "newsroom.spotify.com",
-      "sourceUrl": "https://newsroom.spotify.com/2026-07-14/talk-to-spotify-announcement-beta/?utm_source=futuretools.io&utm_medium=newspage",
+      "id": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Superhuman's AI Auto-Draft Sends 60% of Emails Unedited Using Anthropic & OpenAI Models",
+      "summary": "Superhuman’s latest AI email drafting feature is its most convincing yet, generating replies that often required little to no editing in our testing.",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-07-14T00:00:00.000Z",
       "hot": false
@@ -996,6 +953,16 @@
       "summary": "Products Developer tools Gemini app NotebookLM See all Infrastructure & cloud Global network Google Cloud See all Technology Safety & Security Health See all : Platforms Android Google Play Wear OS See all Devices Pixel Google Nest Fitbit Chromebooks See all : Leadership Sundar Pichai, CEO More authors See all Inside Google Around the globe Life at Google See all : Starting today, many of Chrome's latest AI features are rolling out to desktop users in the U.K., expanding to iOS next month. With Gemini in Chrome, you can chat with your personalized browsing assistant to summarize lengthy content, or compare information across multiple tabs. It’s deeply integrated with popular Google apps, meaning you can schedule meetings with Calendar, check location details with Maps, draft emails with Gmail and ask questions about YouTube videos, all without leaving the page you’re on.",
       "source": "blog.google",
       "sourceUrl": "https://blog.google/products-and-platforms/products/chrome/were-expanding-gemini-in-chrome-to-users-in-the-uk/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-07-14T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://newsroom.spotify.com/2026-07-14/talk-to-spotify-announcement-beta/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Spotify Launches Conversational AI Feature for Premium Users to Discover & Control Music",
+      "summary": "Share Share Spotify has always been built around your taste. Now, we’re making it easier to shape what you hear, understand what’s playing, and explore your listening—just by asking. Eligible Premium users will see new ways to talk to Spotify across Home and the Now Playing view on mobile. By typing or speaking directly in the app, you can have a back-and-forth conversation to choose what’s playing, learn about the music you love, revisit your listening history, and go deeper on podcasts and audiobooks, all without leaving Spotify. Some days you know exactly what you want to hear. Other times, you want to change it up as you go.",
+      "source": "newsroom.spotify.com",
+      "sourceUrl": "https://newsroom.spotify.com/2026-07-14/talk-to-spotify-announcement-beta/?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-07-14T00:00:00.000Z",
       "hot": false
@@ -1275,6 +1242,17 @@
       "officialUrl": "https://arstechnica.com"
     },
     {
+      "id": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "title": "Waze is getting a bunch of new AI-powered features",
+      "summary": "Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more. Of the four new updates, only two are being described as involving Gemini. Waze says its updating its conversation reporting feature, first introduced in 2024, to allow drivers to use conversational voice commands to report traffic incidents and suggest map updates, like a road closure or outdated house number. In addition, Waze introduced Destination Search, enabling drivers to use (again) use conversation voice commands (e.g., \"Find me a coffee shop that's open …",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "category": "Industry",
+      "date": "2026-07-13T09:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
       "id": "http://feeds.fabbaloo.com/~/960239861/0/fabbaloo/default~Blockchain-Monitors-Resin-Printer-VOC-Emissions",
       "title": "Blockchain Monitors Resin Printer VOC Emissions",
       "summary": "Researchers connected blockchain verified IoT monitoring to resin 3D printing safety data. The post Blockchain Monitors Resin Printer VOC Emissions appeared on Fabbaloo.",
@@ -1356,6 +1334,34 @@
       "category": "Curation",
       "date": "2026-07-13T00:00:00.000Z",
       "hot": false
+    },
+    {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+      "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+      "summary": "Lorde was performing at the Mad Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated with Meta on a pair of AI smart glasses. The comments were captured in videos shared to social media. After thanking the crowd for being there and taking part in \"something real,\" she said that it was increasingly hard to know what is and isn't real, before saying \"You don't know if someone is wearing sunglasses or if they're wearing those fucked up fucking… Can I just say, …",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+      "category": "Industry",
+      "date": "2026-07-12T20:10:19.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com",
+      "relatedCoverage": [
+        {
+          "source": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/"
+        }
+      ]
+    },
+    {
+      "id": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+      "summary": "The company is accelerating development of the M7 Ultra, which could support up to 1.5TB of RAM. The company is accelerating development of the M7 Ultra, which could support up to 1.5TB of RAM. The Neural Engine made its debut with the iPhone X and the A11 Bionic. In those early days, it was primarily used for computer vision, powering Face ID, Animoji, and augmented reality features. But by laying the groundwork for on-device AI processing, Apple established itself as an early leader by bringing the Neural Engine to desktops with the M-series chips. While Apple’s AI software efforts have lagged behind the rest of the industry, its hardware has been impressive.",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+      "category": "Industry",
+      "date": "2026-07-12T16:27:06.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
     },
     {
       "id": "http://feeds.fabbaloo.com/~/960166397/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-July",
