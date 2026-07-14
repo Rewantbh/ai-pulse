@@ -1,27 +1,38 @@
 {
-  "lastUpdated": "2026-07-14T04:46:09.102Z",
+  "lastUpdated": "2026-07-14T07:07:30.787Z",
   "news": [
     {
-      "id": "https://www.investing.com/news/stock-market-news/nvidia-halves-asia-buyer-list-in-china-chip-crackdown-ft-reports-4789676",
-      "title": "Nvidia halves Asia buyer list in China chip crackdown, FT reports",
+      "id": "https://www.investing.com/news/stock-market-news/humble-group-q2-sales-edge-up-as-impairments-weigh-on-profit-93CH-4789754",
+      "title": "Humble Group Q2 sales edge up as impairments weigh on profit",
       "summary": "",
       "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/nvidia-halves-asia-buyer-list-in-china-chip-crackdown-ft-reports-4789676",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/humble-group-q2-sales-edge-up-as-impairments-weigh-on-profit-93CH-4789754",
       "category": "Business",
-      "date": "2026-07-14T03:36:25.000Z",
+      "date": "2026-07-14T06:42:11.000Z",
       "hot": false,
       "officialUrl": "https://www.investing.com"
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/softbank-corp-partners-with-ai-firm-sierra-for-agentic-customer-support-4789675",
-      "title": "Softbank Corp partners with AI firm Sierra for agentic customer support",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/softbank-corp-partners-with-ai-firm-sierra-for-agentic-customer-support-4789675",
-      "category": "Business",
-      "date": "2026-07-14T03:31:16.000Z",
+      "id": "https://www.digitaltrends.com/?p=5989969",
+      "title": "Anthropic confirms Claude acts differently depending on your language and which model you pick",
+      "summary": "If you've ever felt like Claude gave you a completely different vibe on one day than another, you weren't imagining it. Anthropic just published research confirming that its chatbot's personality shifts depending on which model you pick and which language you type in, and the pattern is consistent enough that it's worth knowing before you ask your next question. The company analyzed 300,000 real Claude conversations and mapped the chatbot's behavior across four traits, including how cautious versus accommodating it is and how encouraging versus rigorous its tone is. Its findings suggest that you may be talking to a somewhat different version of Claude depending on the model you choose. Anthropic The split shows up clearly when different models were compared. Anthropic's data shows that Opus 4.7 tends to challenge your thinking and flag problems with your plan unprompted.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/computing/anthropic-confirms-claude-acts-differently-depending-on-your-language-and-which-model-you-pick/",
+      "category": "Tech",
+      "date": "2026-07-14T05:52:32.000Z",
       "hot": false,
-      "officialUrl": "https://www.investing.com"
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "108334466",
+      "title": "Taiwan's second-largest chipmaker starts mass production in Singapore; Citi sees improving outlook",
+      "summary": "Taiwan’s UMC has kicked off mass production of silicon photonics wafers at its Singapore facility amid positive Citi forecast.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/07/14/umc-starts-mass-production-in-singapore-citi-sees-improving-outlook.html",
+      "category": "Business",
+      "date": "2026-07-14T05:44:04.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "https://techcrunch.com/?p=3141909",
@@ -619,17 +630,6 @@
       "officialUrl": "https://decrypt.co"
     },
     {
-      "id": "https://www.digitaltrends.com/?p=5989778",
-      "title": "Instagram and WhatsApp lead in sextortion reports, iMessage is weaponized against teenagers: Report",
-      "summary": "If you use Instagram, WhatsApp, or iMessage, you need to know what is happening on these platforms. Australia's online safety regulator, eSafety, has published a new transparency report, and the findings are grim. As reported by The Guardian, the regulator found significant gaps in how the biggest tech companies are handling online sexual extortion and child sexual exploitation, even as the reports keep climbing. Between July and December 2025, eSafety received over 2,000 sexual extortion complaints. Instagram and WhatsApp were named in more than 1,300 of them combined, making them the most cited platforms by a wide margin. Rachit Agarwal / Digital Trends Men aged 18 to 24 filed the most complaints of any group, with roughly 800 reports.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/social-media/instagram-and-whatsapp-lead-sextortion-reports-while-imessage-is-weaponized-against-teenagers-report/",
-      "category": "Tech",
-      "date": "2026-07-13T15:20:21.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
       "id": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
       "title": "Now, defenders are embracing the prompt injection, too",
       "summary": "Prompt injections, the malicious commands attackers embed into content to entice large language models to follow them, have been attackers’ go-to tool for turning AI platforms against their users. A well-phrased command sneaked into an email or calendar invitation is often all it takes to cause the LLM to exfiltrate sensitive data or follow other harmful actions. Now, defenders are embracing the prompt injection, too. A strong, sharp effect Researchers from Tracebit on Monday said they found that placing prompt injections alongside passwords, cryptographic keys, and other secrets stored on Amazon Web Services was often all that was needed to shut down attacks from AI hacking agents. The prompts direct the attacking LLM to perform an action forbidden by its guardrails, the safety barriers AI developers erect to prevent it from taking harmful actions. The LLM responds by shutting down.Read full article Comments",
@@ -729,15 +729,15 @@
       "officialUrl": "https://www.techrepublic.com"
     },
     {
-      "id": "https://www.digitaltrends.com/?p=5989717",
-      "title": "AMD is quietly building a frame generation mode that beats Nvidia at its own game",
-      "summary": "AMD has been hinting at Multi-Frame Generation for its Radeon cards for a while now, and it looks like the company is further along than it has let on. Preliminary support quietly showed up in the ADLX FidelityFX SDK back in April with the FSR Redstone update, letting users pick a frame generation ratio for the best mix of performance and image quality. Since then, AMD has shipped several big driver updates, including FSR 4.1.1. As reported by Wccftech, a user on the Chiphell forums used a tool called RadeonTuner to dig through the Adrenalin 26.6.2 WHQL drivers and found options AMD has not talked about publicly. RadeonTuner is a cleaner, more user-friendly take on the Adrenalin software, and it can surface features that live inside the driver but never appear in the official app. Running RadeonTuner on a Radeon RX 9070 XT, the user spotted four new toggles sitting under the FSR panel.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/gaming/amd-is-quietly-building-a-frame-generation-mode-that-beats-nvidia-at-its-own-game/",
-      "category": "Tech",
-      "date": "2026-07-13T12:34:36.000Z",
+      "id": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+      "title": "Empowering India’s next generation of innovators with ATL Saathi",
+      "summary": "Atal Innovation Mission launches ATL Saathi, a Gemini powered AI assistant empowering India's educators to nurture the next generation of innovators.",
+      "source": "DeepMind Blog",
+      "sourceUrl": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+      "category": "Research",
+      "date": "2026-07-13T12:37:28.000Z",
       "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
+      "officialUrl": "https://deepmind.google"
     },
     {
       "id": "108333779",
@@ -1068,17 +1068,6 @@
       "sourceUrl": "https://www.cnbc.com/2026/07/11/the-volatile-ai-rally-marched-higher-but-oil-kept-wall-street-on-edge-last-week.html",
       "category": "Business",
       "date": "2026-07-11T16:25:58.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "108333552",
-      "title": "These underperforming trades could yield big returns over next six months",
-      "summary": "ETF Action's Mike Akins is encouraging investors to boost exposure to groups that underperformed compared with major artificial intelligence stocks.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html",
-      "category": "Business",
-      "date": "2026-07-11T15:00:01.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
     },
