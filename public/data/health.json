@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-07-14T16:10:56.527Z",
+  "lastRun": "2026-07-14T17:40:07.594Z",
   "sources": [
     {
       "name": "NVIDIA Blog",
@@ -23,6 +23,13 @@
       "emptyStreak": 0
     },
     {
+      "name": "Microsoft AI Blog",
+      "items": 10,
+      "status": "ok",
+      "failStreak": 0,
+      "emptyStreak": 0
+    },
+    {
       "name": "DeepMind Blog",
       "items": 15,
       "status": "ok",
@@ -37,40 +44,32 @@
       "emptyStreak": 0
     },
     {
-      "name": "Microsoft AI Blog",
+      "name": "Perplexity Hub",
       "items": 0,
-      "status": "error",
-      "error": "HTTP 504",
-      "failStreak": 1,
-      "emptyStreak": 1
+      "status": "empty",
+      "failStreak": 0,
+      "emptyStreak": 106
     },
     {
       "name": "Meta AI Blog",
       "items": 0,
       "status": "empty",
       "failStreak": 0,
-      "emptyStreak": 105
-    },
-    {
-      "name": "Perplexity Hub",
-      "items": 0,
-      "status": "empty",
-      "failStreak": 0,
-      "emptyStreak": 105
+      "emptyStreak": 106
     },
     {
       "name": "Suno Blog",
       "items": 0,
       "status": "empty",
       "failStreak": 0,
-      "emptyStreak": 105
+      "emptyStreak": 106
     },
     {
       "name": "Mistral AI News",
       "items": 0,
       "status": "empty",
       "failStreak": 0,
-      "emptyStreak": 105
+      "emptyStreak": 106
     },
     {
       "name": "Cohere Blog",
@@ -84,14 +83,14 @@
       "items": 0,
       "status": "empty",
       "failStreak": 0,
-      "emptyStreak": 105
+      "emptyStreak": 106
     },
     {
-      "name": "Pika Blog",
-      "items": 0,
-      "status": "empty",
+      "name": "The Verge AI",
+      "items": 10,
+      "status": "ok",
       "failStreak": 0,
-      "emptyStreak": 105
+      "emptyStreak": 0
     },
     {
       "name": "MIT Technology Review AI",
@@ -101,15 +100,15 @@
       "emptyStreak": 0
     },
     {
-      "name": "VentureBeat AI",
-      "items": 7,
-      "status": "ok",
+      "name": "Pika Blog",
+      "items": 0,
+      "status": "empty",
       "failStreak": 0,
-      "emptyStreak": 0
+      "emptyStreak": 106
     },
     {
-      "name": "The Verge AI",
-      "items": 10,
+      "name": "VentureBeat AI",
+      "items": 7,
       "status": "ok",
       "failStreak": 0,
       "emptyStreak": 0
@@ -186,7 +185,7 @@
     },
     {
       "name": "Investing.com",
-      "items": 1,
+      "items": 2,
       "status": "ok",
       "failStreak": 0,
       "emptyStreak": 0
@@ -207,24 +206,24 @@
     },
     {
       "name": "Digital Trends",
-      "items": 9,
+      "items": 8,
       "status": "ok",
       "failStreak": 0,
       "emptyStreak": 0
-    },
-    {
-      "name": "Leonardo AI Blog",
-      "items": 0,
-      "status": "empty",
-      "failStreak": 0,
-      "emptyStreak": 105
     },
     {
       "name": "LangChain Blog",
       "items": 0,
       "status": "empty",
       "failStreak": 0,
-      "emptyStreak": 105
+      "emptyStreak": 106
+    },
+    {
+      "name": "Leonardo AI Blog",
+      "items": 0,
+      "status": "empty",
+      "failStreak": 0,
+      "emptyStreak": 106
     },
     {
       "name": "LlamaIndex Blog",
@@ -241,32 +240,32 @@
       "emptyStreak": 0
     },
     {
+      "name": "FutureTools News",
+      "items": 22,
+      "status": "ok",
+      "failStreak": 0,
+      "emptyStreak": 0
+    },
+    {
       "name": "ElevenLabs Blog",
       "items": 0,
       "status": "empty",
       "failStreak": 0,
-      "emptyStreak": 105
-    },
-    {
-      "name": "FutureTools News",
-      "items": 16,
-      "status": "ok",
-      "failStreak": 0,
-      "emptyStreak": 0
+      "emptyStreak": 106
     },
     {
       "name": "Runway Blog",
       "items": 0,
       "status": "empty",
       "failStreak": 0,
-      "emptyStreak": 105
+      "emptyStreak": 106
     },
     {
       "name": "Bing Search Blog",
       "items": 0,
       "status": "empty",
       "failStreak": 0,
-      "emptyStreak": 105
+      "emptyStreak": 106
     },
     {
       "name": "X / Twitter (Top AI Voices)",
