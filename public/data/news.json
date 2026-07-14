@@ -1,10 +1,32 @@
 {
-  "lastUpdated": "2026-07-13T23:48:08.016Z",
+  "lastUpdated": "2026-07-14T01:51:19.706Z",
   "news": [
+    {
+      "id": "https://techcrunch.com/?p=3141573",
+      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for...",
+      "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+      "category": "Business",
+      "date": "2026-07-14T00:45:00.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3141426",
+      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+      "summary": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "category": "Business",
+      "date": "2026-07-14T00:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
     {
       "id": "https://techcrunch.com/?p=3141670",
       "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-      "summary": "The company is raising at least $75 million, led by Robot, with significant participation from USV and other prominent investors.",
+      "summary": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
       "category": "Business",
@@ -110,17 +132,6 @@
       "date": "2026-07-13T21:39:09.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/sp-global-upgrades-revvity-outlook-on-leverage-improvement-93CH-4789496",
-      "title": "S&P Global upgrades Revvity outlook on leverage improvement",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/sp-global-upgrades-revvity-outlook-on-leverage-improvement-93CH-4789496",
-      "category": "Business",
-      "date": "2026-07-13T21:37:37.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
     },
     {
       "id": "https://www.digitaltrends.com/?p=5989907",
@@ -1373,17 +1384,6 @@
       "hot": true
     },
     {
-      "id": "https://techcrunch.com/?p=3140900",
-      "title": "Fidji Simo steps down from OpenAI’s No. 2 role",
-      "summary": "2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
-      "category": "Business",
-      "date": "2026-07-09T23:38:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
       "id": "6a4fd9ef54628ebc7be51dbd",
       "title": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
       "summary": "Photograph: G L Askew II OpenAI’s chief executive of AGI deployment, Fidji Simo, is leaving her full-time role at the company and transitioning to become a part-time adviser. The move comes after Simo took a monthslong medical leave due to a worsening neuroimmune condition. “Three months ago, I had to go on medical leave after a severe exacerbation of a chronic illness I’ve lived with for seven years,” Simo wrote in a post Thursday on X. “During that time, it became clear that the road to recovery would be much longer and more complex than I had anticipated—and that I needed to focus on it fully.” Simo joined OpenAI’s board of directors in March 2024. The following year, CEO Sam Altman hired her to take on the product and business organizations so he could focus on research and the company’s data center buildout.",
@@ -1557,13 +1557,7 @@
       "category": "Models",
       "date": "2026-07-09T13:00:00.000Z",
       "hot": false,
-      "officialUrl": "https://openai.com",
-      "relatedCoverage": [
-        {
-          "source": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/"
-        }
-      ]
+      "officialUrl": "https://openai.com"
     },
     {
       "id": "6a4ceb4da6289e41f9276592",
@@ -1608,107 +1602,6 @@
       "date": "2026-07-09T10:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://aiweekly.co/issues/robotics-is-moving-fast-ipos-new-models-and-smarter-robots",
-      "title": "AI Weekly Issue #512: Robotics Is Moving Fast: IPOs, New Models, and Smarter Robots",
-      "summary": "Three humanoid companies moved toward the public markets in a single week. Agility filed to go public via SPAC at $2.5 billion, Unitree cleared its Shanghai IPO, and Tesla started turning the line that built its last Model S into an Optimus factory. Mistral shipped a robot brain that finds its way with one cheap camera. And the research this week kept landing on the same catch: locomotion is getting solved, while the models still lose basic world knowledge the moment you train them to act. The money is moving faster than the machines.",
-      "source": "AI Weekly",
-      "sourceUrl": "https://aiweekly.co/issues/robotics-is-moving-fast-ipos-new-models-and-smarter-robots",
-      "category": "Curation",
-      "date": "2026-07-09T00:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://aiweekly.co"
-    },
-    {
-      "id": "https://x.com/thsottiaux/status/2075452680760443190?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "OpenAI Resets Rate Limits Twice on ChatGPT Work and Codex to Mark GPT-5.6 Sol Launch",
-      "summary": "To celebrate the launch of GPT-5.6 Sol, we will reset the rate limits again (twice) across ChatGPT Work and Codex over the next 24 hours. We want you to have the time to truly try ambitious tasks and get the hang of it. Happy exploring!",
-      "source": "Tibo on X",
-      "sourceUrl": "https://x.com/thsottiaux/status/2075452680760443190?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-07-09T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://www.anthropic.com/news/ust-claude?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "UST deploys Claude to 20,000 engineers for chip validation and physical AI workflows",
-      "summary": "Before a factory commits to manufacturing millions of chips, engineers stress-test the design in the fab. Before a product ships, a fault on the assembly line has to be caught before it becomes a recall. When AI does this kind of work, it’s called physical AI: intelligence built into the equipment and engineering processes that produce the things people use. anthropic.com is partnering with UST, a technology and engineering services company that builds and runs the engineering environments its clients depend on to get chips, cars, and connected devices to market. UST is putting Claude to work inside those environments, and training 20,000 of its engineers, architects, and consultants on Claude worldwide. UST works alongside semiconductor, automotive, manufacturing, telecom, embedded, and IoT companies.",
-      "source": "anthropic.com",
-      "sourceUrl": "https://www.anthropic.com/news/ust-claude?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-07-09T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://cloud.google.com/blog/products/ai-machine-learning/alphaevolve-is-available-for-everyone?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Google Launches AlphaEvolve AI Code Optimization Agent for General Availability",
-      "summary": "Anant NawalgariaGroup AI Product Manager & Engineer, Google Many of the most challenging and valuable problems in the world are related to optimization. Now, AI is now making these problems tractable. If you've ever tried to design a microchip, plan a delivery network, or optimize a training architecture for a large AI model, you know how hard it is to find the most optimized code. Traditional coding methods often cannot explore all the possible algorithms and implementations because the search space is simply too vast. To help, cloud.google.com introduced AlphaEvolve last year in private preview — an agent to help you design better algorithms on Google Cloud.",
-      "source": "cloud.google.com",
-      "sourceUrl": "https://cloud.google.com/blog/products/ai-machine-learning/alphaevolve-is-available-for-everyone?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-07-09T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Meta Launches Muse Spark 1.1 AI Model via New API",
-      "summary": "Meta has launched Muse Spark 1.1, a multimodal reasoning model from Meta Superintelligence Labs, now available via a public preview of the new Meta Model API for developers. The model features major improvements in agentic tasks, computer use, coding, and multimodal understanding, with a 1 million token context window. It can orchestrate multi-agent systems, delegate to parallel subagents, and zero-shot generalize to new tools and MCP servers. It is also live in Thinking mode on the Meta AI app and meta.ai.",
-      "source": "ai.meta.com",
-      "sourceUrl": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-07-09T00:00:00.000Z",
-      "hot": true
-    },
-    {
-      "id": "https://microsoft.ai/news/ode-poetry-mai/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Microsoft AI Uses Audio Models to Bring Ode Poetry to Life",
-      "summary": "Models Latest models Discover the latest MAI models, designed for real-world intelligence MAI-Thinking-1 MAI-Code-1-Flash MAI-Image-2.5 All models MAI-Voice-2 Delivers expressive, low-latency speech that holds up across long generations. Built for the complex problems that matter most, with competitive reasoning and top SWE-Bench Pro results at a mid-weight price. Helps your engineering team write better code faster, with a lightweight, agentic model built into GitHub Copilot and VS Code. Create notable, design-ready images from any text or photo prompt, with best-in-class Arena ELO scores at a lower price. Featured stories The latest breakthroughs and updates from within microsoft.ai's team",
-      "source": "microsoft.ai",
-      "sourceUrl": "https://microsoft.ai/news/ode-poetry-mai/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-07-09T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://x.com/ClaudeDevs/status/2075279141352706215?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Anthropic Resets Claude 5-Hour and Weekly Rate Limits for All Users",
-      "summary": "We've reset 5-hour and weekly rate limits for all users.",
-      "source": "ClaudeDevs on X",
-      "sourceUrl": "https://x.com/ClaudeDevs/status/2075279141352706215?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-07-09T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://www.anthropic.com/news/reflect-with-claude?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Anthropic Launches Reflect Tool to Help Users Track and Visualize Claude Usage",
-      "summary": "Today anthropic.com is introducing, in beta, a new way to reflect on and refine how you use Claude. In anthropic.com's interviews with users, a common theme that’s emerged is a desire to better understand how, exactly, AI can be integrated into daily life. How often should someone use AI? How can it be used most effectively? When is AI suited to a task, and when is it better left to a human? anthropic.com built this feature to help answer these types of questions.",
-      "source": "anthropic.com",
-      "sourceUrl": "https://www.anthropic.com/news/reflect-with-claude?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-07-09T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "OpenAI Launches ChatGPT Work Agent to Manage Apps, Files, and Long-Running Projects",
-      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work. (opens in a new window)Contact salesLoading…ShareWork anywhere. Go further on desktop.Work anywhere. Go further on desktop.Create slides, sheets, docs, and Sites from your apps and workflowsDelegate repetitive tasks to focus on work that mattersGet work done faster across the web and your desktop appsFrom goals to real outcomes across every teamSecurity and governance for organizationsAvailability and pricingWhat’s nextWork anywhere. Go further on desktop.Create slides, sheets, docs, and Sites from your apps and workflowsDelegate repetitive tasks to focus on work that mattersGet work done faster across the web and your desktop appsFrom goals to real outcomes across every teamSecurity and governance for organizationsAvailability and pricingWhat’s nextIntroducing ChatGPT Work, an agent in ChatGPT that helps you take on more ambitious tasks. It can gather information across your apps and workflows to create finished materials like sheets, slides, docs, and web apps, and stay with complex projects for hours by breaking them into smaller steps and completing them independently.",
-      "source": "openai.com",
-      "sourceUrl": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-07-09T00:00:00.000Z",
-      "hot": true
-    },
-    {
-      "id": "https://openai.com/index/gpt-5-6/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "OpenAI Launches GPT-5.6 With Improved Intelligence, Performance, and On-Demand Capability",
-      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work. Loading…ShareEfficient by default, maximum performance on demandEfficient by default, maximum performance on demandA leap forward in designEnd-to-end knowledge workPushing the frontier on cyber and scienceGPT-5.6 accelerates OpenAIScaling safety and security with capability Availability and pricingEfficient by default, maximum performance on demandA leap forward in designEnd-to-end knowledge workPushing the frontier on cyber and scienceGPT-5.6 accelerates OpenAIScaling safety and security with capability Availability and pricingWe’re launching the GPT‑5.6 family of models for general availability following openai.com's limited preview⁠: openai.com's new flagship, Sol, alongside Terra, a balanced model for everyday work, and Luna, openai.com's most cost-efficient model. GPT‑5.6 Sol sets a new standard for both intelligence and efficiency, achieving state-of-the-art results across coding, knowledge work, cybersecurity, and science while outperforming previous and competing frontier models with fewer tokens and at lower estimated cost. The result is stronger performance per dollar: more successful work for the same spend, or comparable results at a lower total cost. openai.com also introduce a new way to accelerate the most demanding work: ultra is openai.com's highest-capability setting, coordinating multiple agents across parallel workstreams to finish comp",
-      "source": "openai.com",
-      "sourceUrl": "https://openai.com/index/gpt-5-6/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-07-09T00:00:00.000Z",
-      "hot": true
     }
   ]
 }
