@@ -1,6 +1,94 @@
 {
-  "lastUpdated": "2026-07-15T22:31:03.968Z",
+  "lastUpdated": "2026-07-15T23:31:46.712Z",
   "news": [
+    {
+      "id": "0000019f-680f-da70-abdf-fbffebf90000",
+      "title": "Fox News, Kevin O’Leary sued over China claims against data center critics",
+      "summary": "Two Utah nonprofits allege they were defamed after the “Shark Tank” investor portrayed them as Chinese Communist Party proxies on the network.",
+      "source": "Politico Tech",
+      "sourceUrl": "https://www.politico.com/news/2026/07/15/fox-news-kevin-oleary-sued-over-china-claims-against-data-center-critics-01000239",
+      "category": "Industry",
+      "date": "2026-07-15T23:15:57.000Z",
+      "hot": false,
+      "officialUrl": "https://rss.politico.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/07/15/crashstealer-mac-malware/",
+      "title": "CrashStealer Malware Impersonates Apple Tool to Steal Mac Passwords and Crypto",
+      "summary": "Mac users should watch out for macOS malware called CrashStealer, according to Jamf Threat Labs. The malware impersonates Apple's crash reporting framework, and it's meant to steal all kinds of sensitive information. CrashStealer collects browser data, password manager data, cryptocurrency wallet extensions, and keychain data, and Jamf first noticed it circulating in a fake Apple-notarized app called Werkbit. With notarization, the malware is not stopped by Gatekeeper, which is part of the macOS security system. It targets more than 80 cryptocurrency wallet extensions, and 14 password managers like 1Password, LastPass, and Dashlane. It searches through the Document and Downloads folders to look for information worth collecting.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/07/15/crashstealer-mac-malware/",
+      "category": "Tech",
+      "date": "2026-07-15T23:14:33.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=5990576",
+      "title": "Apple now lets you pay for cellular iPads over 3 years, and it’s a sign of a pricey trend that wo...",
+      "summary": "Apple has introduced 36-month carrier financing for cellular iPads purchased directly from the Apple Store. The option is available through AT&T and Verizon to existing customers who add a new line of service. Until now, the main financing option offered directly by Apple was Apple Card Monthly Installments, which divides the cost of an iPad across 12 months. The new carrier plans stretch those payments across three years and cover the standard iPad, iPad mini, iPad Air, and iPad Pro. The new option arrives only weeks after Apple raised prices across its iPad lineup, and the sticker shock appears to have become significant enough for the company to offer buyers another way to pay. A cellular 11-inch iPad Pro now starts at $1,399.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/tablets/apple-now-lets-you-pay-for-cellular-ipads-over-3-years-and-its-a-sign-of-a-pricey-trend-that-wont-halt-soon/",
+      "category": "Tech",
+      "date": "2026-07-15T23:12:10.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://blogs.nvidia.com/?p=96146",
+      "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
+      "summary": "General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running foundation models at the edge. To meet that need, NVIDIA today introduced the T3000 and T2000, new modules based on the NVIDIA Thor architecture that enable mass-market robotics and edge AI applications at scale. Jetson AGX Thor is powering this next generation of humanoid and robotic systems, with growing adoption across industries. Leading companies — including 1X, Agile Robots, Amazon Robotics, Boston Dynamics, FANUC, Hitachi and Techman Robot — are building on the platform. Unlocking Humanoid and Robotics Deployment With T3000 The hardware underpinning those capabilities starts with the Jetson and IGX T3000 modules, which delivers 865 FP4 teraflops of AI compute in a compact form factor roughly half the size and power of the T5000. Jetson T3000 combines an NVIDIA Blackwell GPU, an eight-core Neoverse Arm CPU, 32GB of LPDDR5X memory and 273GB/s of memory bandwidth, along with 25 GbE connectivity.",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
+      "category": "Events",
+      "date": "2026-07-15T23:00:54.000Z",
+      "hot": false,
+      "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
+      "id": "108335532",
+      "title": "Jim Cramer says he needs 'cold hard' proof that AI is paying off",
+      "summary": "CNBC's Jim Cramer said he’s looking for companies to start showing measurable financial returns from their AI investments.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/07/15/jim-cramer-needs-proof-ai-paying-off-.html",
+      "category": "Business",
+      "date": "2026-07-15T22:51:22.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/airbus-in-talks-to-sell-jets-to-flynas-sources-say-4794500",
+      "title": "Airbus in talks to sell jets to Flynas, sources say",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/airbus-in-talks-to-sell-jets-to-flynas-sources-say-4794500",
+      "category": "Business",
+      "date": "2026-07-15T22:48:39.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=5990578",
+      "title": "Hate editing videos? This new AI app turns your camera roll into ready-to-post reels",
+      "summary": "Your camera roll is probably packed with vacation photos, birthday videos, and random clips that never make it to Instagram or TikTok. If video editing has kept you from posting more on social media, a new app wants to take that job off your plate entirely. Reelful is an iOS app that uses AI to automatically turn your existing photos and videos into polished, ready-to-post reels for TikTok and Instagram. You start by typing a prompt where you describe the story you want to tell, whether that is a travel recap, a product demo, or an event highlight. Next, you record a 30-second voice sample so the app can create a voice clone to narrate your video. Reelful Then you simply select the photos and clips from your camera roll that you want included.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/phones/hate-editing-videos-this-new-ai-app-turns-your-camera-roll-into-ready-to-post-reels/",
+      "category": "Tech",
+      "date": "2026-07-15T22:41:51.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/cadence-rolls-out-ai-agent-to-speed-circuit-board-chip-packaging-design-4794490",
+      "title": "Cadence rolls out AI agent to speed circuit board, chip packaging design",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/cadence-rolls-out-ai-agent-to-speed-circuit-board-chip-packaging-design-4794490",
+      "category": "Business",
+      "date": "2026-07-15T22:36:36.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
     {
       "id": "2884mjZs7g6yWxefPaGVHN",
       "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform prob...",
@@ -55,6 +143,17 @@
       "date": "2026-07-15T21:38:08.000Z",
       "hot": false,
       "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+      "title": "xAI sues a man for using Grok to generate CSAM ‘deepfakes’",
+      "summary": "Elon Musk’s xAI claims Terry Harwood bypassed Grok’s safeguards to generate CSAM. The company is asking for reputational and legal damages. Elon Musk’s xAI claims Terry Harwood bypassed Grok’s safeguards to generate CSAM. The company is asking for reputational and legal damages. The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company’s Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters, xAI claims Terry Wayne Harwood “knowingly and intentionally used Grok to circumvent safeguards, alter nonconsensual images, and generate and distribute CSAM,” breaching the company’s policies.",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+      "category": "Industry",
+      "date": "2026-07-15T21:33:20.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
     },
     {
       "id": "https://www.macrumors.com/2026/07/15/apple-maps-ad-prohibitied-categories/",
@@ -132,6 +231,17 @@
       "date": "2026-07-15T20:20:10.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
+      "title": "AI slop movies are the new direct-to-video cash grabs",
+      "summary": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$100 million in just a few days. People are clearly excited to see how Nolan uses cutting-edge filmmaking tech to make the Homeric classic feel fresh. But another director is trying to capitalize on the buzz around Nolan's project to drum up interest in an Odysseus-focused movie of his own. On Tuesday, film studio Fountain 0 announced that it is working on an AI-generated reimagining of The Odyssey titled Odysseus: The Fall, which will be availabl …",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
+      "category": "Industry",
+      "date": "2026-07-15T20:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
     },
     {
       "id": "https://techcrunch.com/?p=3142831",
@@ -288,6 +398,17 @@
       "officialUrl": "https://feeds.macrumors.com"
     },
     {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
+      "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
+      "summary": "Hacked files reportedly show that Suno ripped decades of audio from protected platforms. Hacked files reportedly show that Suno ripped decades of audio from protected platforms. Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and Genius, 404 Media reports. Given that Suno has avoided revealing what’s in its training datasets and how they were acquired, this a rare glimpse into what Suno has actually been taking from online platforms. Materials shared with 404 Media by the hacker, referred to as “ellie.191,” reportedly back up those allegations. The data includes Suno source code from 2023 and 2024, alongside scraping instructions to pull audio files from YouTube Music, Deezer, Genius, Pond5, Jamendo, Freesound, and the International Music Score Library Project (IMSLP).",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
+      "category": "Industry",
+      "date": "2026-07-15T17:48:01.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
       "id": "https://www.digitaltrends.com/?p=5990490",
       "title": "How can businesses simplify invoicing and payment processing?",
       "summary": "This post is brought to you in paid partnership with QuickBooks. Creating an invoice is rarely the hardest part of getting paid. For most small businesses, it takes only a few minutes to prepare an estimate, send an invoice, or request payment. The work that quietly consumes time comes afterward, when payments need to be tracked, deposits verified, invoices marked as paid, and accounting records updated. Simplifying invoicing isn't just about creating invoices faster. It's about reducing the manual work that happens between sending an invoice, collecting payment, and keeping financial records accurate.",
@@ -433,7 +554,7 @@
     {
       "id": "https://www.engadget.com/2215785/valve-appears-to-be-discontinuing-self-repair-parts-for-the-lcd-steam-deck/",
       "title": "Valve appears to be discontinuing self-repair parts for the LCD Steam Deck at iFixit",
-      "summary": "An iFixit staffer told a Steam Deck user that the company had no plans to stock replacement OEM batteries. Valve Aside from enabling you to play Baldur's Gate 3 in the bathroom, one of the big benefits of the Steam Deck is how repairable it is. While the Steam Deck OLED received a glowing 9/10 fixability report from repair specialist iFixit back in 2023, the original LCD model's 7/10 score was still respectable. But the latter's repairability rating could just have taken a fairly significant hit, as it appears that Valve may be sunsetting certain replacement parts. A Reddit post highlighted by Video Cardz includes a screenshot of an email reply a Steam Deck owner received from an iFixit staffer after they enquired about replacing a degrading battery. In it, a Customer Operations employee said iFixit currently has \"no immediate plans\" to stock a replacement battery for the LCD Steam Deck, and then apologized for the bad news.",
+      "summary": "An iFixit staffer told a Steam Deck user that the company had no plans to stock replacement OEM batteries. Valve Update, June 15, 6:45PM ET: Valve and iFixit tell The Verge that the situation around the Steam Deck LCD battery is being resolved. iFixit confirmed that the stock issue was real, but now says it will apparently have the parts again, after, the repair specialist company's CEO says, \"Valve hooked us up with a supplier.\" The original story, which was headlined \"Valve appears to be discontinuing self-repair parts for the LCD Steam Deck at iFixit,\" follows: Aside from enabling you to play Baldur's Gate 3 in the bathroom, one of the big benefits of the Steam Deck is how repairable it is. While the Steam Deck OLED received a glowing 9/10 fixability report from repair specialist iFixit back in 2023, the original LCD model's 7/10 score was still respectable. But the latter's repairability rating could just have taken a fairly significant hit, as it appears that Valve may be sunsetting certain replacement parts.",
       "source": "Engadget AI",
       "sourceUrl": "https://www.engadget.com/2215785/valve-appears-to-be-discontinuing-self-repair-parts-for-the-lcd-steam-deck/",
       "category": "Tools",
@@ -701,17 +822,6 @@
       "officialUrl": "https://www.digitaltrends.com"
     },
     {
-      "id": "https://www.digitaltrends.com/?p=5990357",
-      "title": "Falling in love with a chatbot is now off limits for kids in China",
-      "summary": "Ever since AI chatbots arrived on the scene, there has been one aspect that has worried lawmakers and experts a lot: humans forming emotional connections with chatbots. There have been plenty of cases where over-reliance on these AI companions or partners has resulted in medical emergencies, lost lives, and triggered multiple lawsuits against the likes of OpenAI and Meta. The problem is not limited to the US, as AI has been used in various capacities to satisfy human emotional demands across the world. China, in particular, has been one hotspot where virtual AI partners have been pretty popular. Now the country has put in place a regulation that bans all virtual relationships between AI chatbots and minors entailing emotional bonding and relationships. Chinese tech companies are shutting down their custom persona features for AI chatbots, leaving users who bonded with their companions devastated.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/computing/falling-in-love-with-a-chatbot-is-now-off-limits-for-kids-in-china/",
-      "category": "Tech",
-      "date": "2026-07-15T12:29:44.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
       "id": "https://decrypt.co/?p=373535",
       "title": "Morning Minute: Crypto Rips on Cool CPI",
       "summary": "Pump.fun pumps on first major unlock. And Robinhood Chain sees its first big rotation.",
@@ -835,7 +945,7 @@
     {
       "id": "https://blogs.nvidia.com/?p=96071",
       "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
-      "summary": "Home to leading manufacturers, robotics pioneers, infrastructure builders and iconic gaming companies, of course, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies. This week NVIDIA and its partners in Japan are showcasing the AI ecosystem’s latest advancements. Check back here for updates. Wednesday, July 15, 3 a.m. PT NVIDIA and SEGA Celebrate 30 Years of Innovation, Bringing ‘VIRTUA FIGHTER CROSSROADS’ and Other Legendary SEGA Games to NVIDIA RTX Spark NVIDIA and SEGA are celebrating more than three decades of collaboration by bringing VIRTUA FIGHTER CROSSROADS and future SEGA titles to NVIDIA RTX Spark — a new superchip for slim Windows laptops and compact desktop PCs. This builds on the companies’ long-standing relationship, which began 30 years ago when NVIDIA worked with SEGA on burgeoning graphics technology for arcade systems and gaming consoles — with the NVIDIA NV1 chip powering the first Virtua Fighter title on PC, among the world’s first 3D fighting games.",
+      "summary": "Home to leading manufacturers, robotics pioneers, infrastructure builders and iconic gaming companies, of course, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies. This week NVIDIA and its partners in Japan are showcasing the AI ecosystem’s latest advancements. Check back here for updates. Wednesday, July 15, 4 p.m. PT Japan’s Leaders Advance Healthcare and Life Sciences With NVIDIA Agentic and Physical AI Japan built the world’s most trusted names in medical technology and biopharma. Now the country’s healthcare leaders are engineering the next generational leap with AI, powered by NVIDIA.",
       "source": "NVIDIA Blog",
       "sourceUrl": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
       "category": "Events",
@@ -921,17 +1031,6 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "https://www.macrumors.com/2026/07/14/lego-imac-g3-set/",
-      "title": "LEGO Considering Bondi Blue iMac G3 Set",
-      "summary": "LEGO today said the iMac G3 project submitted for consideration on its \"Ideas\" site has been moved to Parking Lot status, which means it hasn't been ruled out and could still possibly be turned into an official LEGO set. On its \"Ideas\" website, LEGO lets fans submit mockups and suggestions for future LEGO sets. Any project that gets at least 10,000 votes goes to the LEGO Review Board and has a chance to become a LEGO set. Back in August 2025, LEGO fan terauma submitted a recreation of Apple's 1998 &zwnj;iMac&zwnj; G3 in Bondi Blue. The LEGO creation captures the distinctive look of the &zwnj;iMac&zwnj; G3, featuring an all-in-one computer design, \"hockey puck\" mouse, matching keyboard, and accompanying cables. The design uses translucent blue LEGO pieces in a shade close to Bondi Blue, and the interior has details like a cathode ray tube and a circuit board.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/07/14/lego-imac-g3-set/",
-      "category": "Tech",
-      "date": "2026-07-15T00:12:27.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
       "id": "https://huggingface.co/blog/thinkingmachines-inkling",
       "title": "Welcome Inkling by Thinking Machines",
       "summary": "Hugging Face is on a journey to advance and democratize artificial intelligence through open source and open science.",
@@ -997,7 +1096,7 @@
     {
       "id": "https://www.404media.co/hack-reveals-suno-ai-music-generator-scraped-youtube-deezer-and-genius/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Suno AI Hack Exposes Scraping of YouTube, Deezer & Genius for Music Training Data",
-      "summary": "The AI music generation tool Suno scraped millions of songs and lyrics from YouTube Music, Deezer, and Genius, as well as from the stock music libraries Pond5, Jamendo, Freesound, the International Music Score Library Project, and podcasts via RSS feeds, according to a hacker who breached the company and shared data about Suno’s training libraries with 404 Media. The hacker was also able to access user information for hundreds of thousands of Suno’s customers, as well as Stripe payment information, they said. The hacked material includes source code that appears to be from 2023 and 2024 that includes scraping instructions and details about the scope of at least some of the scraping. For example, the comments in one file note that they will pull from “genius_hq, youtube_music, freesound, jamendo, imp, deezer, ytm_tagged,” and that “non-music will be filtered out.” A file called “youtube_music” notes that at the time the file was last updated, it had ingested “2,013,545 music clips.” Another file contains comments about different datasets Suno had created, which included “113,879 hours of youtube_music,” “17,615 hours of genius_hq,” “410 hours of free sound,” “19,514 hours of imslp,” “3,726 hours of jamendo,” “62,117 hours of pond5_music,” “12,287 hours of deezer,” “152,162 hours of ytm_tagged,” and “103 hours of musescore_lyrics.” In total, this is at least decades worth of music. Other code the hacker shared with 404 Media appeared to look specifically for vocals by sea",
+      "summary": "The AI music generation tool Suno scraped millions of songs and lyrics from YouTube Music, Deezer, and Genius, as well as from the stock music libraries Pond5, Jamendo, Freesound, the International Music Score Library Project, and podcasts via RSS feeds, according to a hacker who breached the company and shared data about Suno’s training libraries with 404 Media. The hacker was also able to access user information for hundreds of thousands of Suno’s customers, as well as Stripe payment information, they said. The hacked material includes source code that appears to be from 2023 and 2024 that includes scraping instructions and details about the scope of at least some of the scraping. For example, the comments in one file note that they will pull from “genius_hq, youtube_music, freesound, jamendo, imp, deezer, ytm_tagged,” and that “non-music will be filtered out.” A file called “youtube_music” notes that at the time the file was last updated, it had ingested “2,013,545 music clips.” Another file contains comments about different datasets Suno had created, which included “113,879 hours of youtube_music,” “17,615 hours of genius_hq,” “410 hours of free sound,” “19,514 hours of imslp,” “3,726 hours of jamendo,” “62,117 hours of pond5_music,” “12,287 hours of deezer,” “152,162 hours of ytm_tagged,” and “103 hours of musescore_lyrics.” In total, this is at least decades worth of music.",
       "source": "404media.co",
       "sourceUrl": "https://www.404media.co/hack-reveals-suno-ai-music-generator-scraped-youtube-deezer-and-genius/?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
@@ -1050,28 +1149,6 @@
       "date": "2026-07-14T23:10:02.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "108334865",
-      "title": "Jim Cramer says IBM's 25% plunge isn't enough to make the stock a buy",
-      "summary": "CNBC's Jim Cramer said IBM's sharp sell-off isn't enough to make the stock a buy.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/07/14/jim-cramer-ibm-plunge-stock-buy.html",
-      "category": "Business",
-      "date": "2026-07-14T22:46:58.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "108334891",
-      "title": "Jim Cramer says concerns about AI market froth are overblown. Here's why",
-      "summary": "CNBC's Jim Cramer said today's stock market is far less concerning than it was during the dot-com bubble.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/07/14/jim-cramer-concerns-ai-market-froth-overblown.html",
-      "category": "Business",
-      "date": "2026-07-14T22:20:46.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
@@ -1337,17 +1414,6 @@
       "officialUrl": "https://www.wired.com"
     },
     {
-      "id": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
-      "title": "New York becomes the first state to enact a data center moratorium",
-      "summary": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed by the state legislature that could restrict even more developments still awaits her signature. The order blocks new environmental permits for data centers over 50 megawatts, which the governor's office says will give the state time to come up with the regulations needed to protect residents from rising energy prices and environmental impact. That's higher than the 20 megawatt threshold approved by state lawmakers. Hochul's office could not immediately identify th …",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
-      "category": "Industry",
-      "date": "2026-07-14T09:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
       "id": "6a5130c15a78161ead45bc5b",
       "title": "DOGE Used AI for Housing Policy. The Government Won’t Say How",
       "summary": "David Ake/Getty Images Members of the so-called Department of Government Efficiency (DOGE) who were working at the Department of Housing and Urban Development (HUD) used artificial intelligence to inform policy decisions. Now, the agency appears to be denying Freedom of Information Act requests for information on the development and use of AI tools, and the way they informed policy decisions, according to documents obtained by a FOIA request by Democracy Forward, a nonprofit legal organization. Last year, WIRED reported that Christopher Sweet, who was then a third-year student at the University of Chicago, had joined the DOGE team at HUD, along with Scott Langmack, who came to DOGE from a property technology startup called Kukun. Sweet’s primary focus, according to HUD employees who spoke to WIRED at the time, was on using artificial intelligence to identify agency rules for potential rescission, or contract cancellations, as part of a similar effort across the government. At the time, HUD staffers told WIRED that employees were being looped in to give feedback on regulations that were flagged by the AI for rescission. Other employees, however, described the effort as redundant.",
@@ -1495,13 +1561,7 @@
       "sourceUrl": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-07-14T00:00:00.000Z",
-      "hot": false,
-      "relatedCoverage": [
-        {
-          "source": "The Verge AI",
-          "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog"
-        }
-      ]
+      "hot": false
     },
     {
       "id": "https://newsroom.spotify.com/2026-07-14/talk-to-spotify-announcement-beta/?utm_source=futuretools.io&utm_medium=newspage",
@@ -1543,17 +1603,6 @@
       "date": "2026-07-13T21:39:09.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
-      "title": "Siri AI is already changing how I use my iPhone",
-      "summary": "IOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the hype Apple promised in the keynote. This year's iOS upgrades are what one might call a Snow Leopard update. That means it's light on new features and instead focused on fixing things that were broken and speeding up processes across the OS. App launches, Photos search results, and AirDrop transfers should all be faster. The Messages app now supports in-line replies and end-to-end encryption for RCS messages.",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
-      "category": "Industry",
-      "date": "2026-07-13T20:43:20.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
     },
     {
       "id": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
