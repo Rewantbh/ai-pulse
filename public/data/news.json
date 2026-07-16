@@ -1,6 +1,199 @@
 {
-  "lastUpdated": "2026-07-16T15:06:11.700Z",
+  "lastUpdated": "2026-07-16T16:48:36.507Z",
   "news": [
+    {
+      "id": "6G1thpG74idpHRWrKUSYQ9",
+      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a cov...",
+      "summary": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully trusts automated evaluation today; and the most-cited weakness is that evaluations do not align with real-world outcomes. Yet two-thirds already allow, or are actively engineering toward, deploying agent changes to production on automated evaluation alone — with no human in the loop. The result is an evaluation gap — the distance between how much autonomy enterprises are handing their agents and how far they trust the tests that are supposed to catch the failures.This wave of VentureBeat Pulse Research examines how technical leaders measure agent performance: which reliability and evaluation platforms they use, how they select and trust them, what breaks in production, and how far they are willing to let agents run without a human in the loop.The central finding is an evaluation gap — the distance between the autonomy enterprises are granting their agents and the trust they place in the evaluations meant to govern it. Half of organizations (50%) have, in the past year, deployed an agent or LLM feature that passed their internal evaluations and then caused a customer-facing failure, and a quarter have seen it happen more than once. Trust in the tests themselves is thin: only 5% say they fully trust...",
+      "source": "VentureBeat AI",
+      "sourceUrl": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+      "category": "Industry",
+      "date": "2026-07-16T16:40:48.000Z",
+      "hot": false,
+      "officialUrl": "https://venturebeat.com"
+    },
+    {
+      "id": "https://www.engadget.com/2216707/google-ai-mode-now-integrates-with-canva-youtube-music-and-instacart/",
+      "title": "Google AI Mode now integrates with Canva, YouTube Music and Instacart",
+      "summary": "You can now make playlists, design flyers and compile shopping lists using AI in Search. Google Google's apparent mission to have AI infiltrate every aspect of your digital life continues today with new integrations with three different apps. Rolling out this week in the US, you can now connect Canva, YouTube Music and Instacart to AI Mode in Search. The idea seems to be that AI services will slot more naturally into your day when you don't have to think about opening the Gemini app to use them. Let's start with Google's own YouTube Music. Here you can use AI Mode to make you a playlist based on your prompt.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2216707/google-ai-mode-now-integrates-with-canva-youtube-music-and-instacart/",
+      "category": "Tools",
+      "date": "2026-07-16T16:28:46.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "108335717",
+      "title": "Nvidia unveils new AI model and expands Japan’s physical AI ecosystem",
+      "summary": "Nvidia announces new AI model, Cosmos 3 Edge, and expansion of its physical AI ecosystems in Japan.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/07/16/nvidia-reveals-new-ai-model-and-expands-japans-physical-ai-ecosystem.html",
+      "category": "Business",
+      "date": "2026-07-16T16:08:29.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-019-4796423",
+      "title": "Spain stocks lower at close of trade; IBEX 35 down 0.19%",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-019-4796423",
+      "category": "Business",
+      "date": "2026-07-16T16:08:27.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+      "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+      "summary": "",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+      "category": "Research",
+      "date": "2026-07-16T16:01:21.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
+    },
+    {
+      "id": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "title": "Why teens deserve access to safe AI",
+      "summary": "Sharing the safeguards, policies, and experts OpenAI work with to guide OpenAI's approach to teen use of safe AI. Loading…ShareBuilding for learning, not just answersBuilding for learning, not just answersProtecting teens with built-in safeguardsWorking with outside experts, organizations, developers and regulatorsLooking aheadBuilding for learning, not just answersProtecting teens with built-in safeguardsWorking with outside experts, organizations, developers and regulatorsLooking aheadTeens are the first generation growing up with AI, and this technology will heavily shape their future. Today, nearly 9 in 10 teens on ChatGPT use it for learning, information, skill-building, or productivity in a single week. This is why OpenAI believe it’s critical for teens to have access to AI. Keeping teens from using it until adulthood would be like asking a previous generation to avoid the internet or search engines until they turned 18, leaving them less prepared to use one of the defining technologies of their time. But access must be paired with protections designed specifically for teens.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "category": "Models",
+      "date": "2026-07-16T16:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://openai.com"
+    },
+    {
+      "id": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "title": "Connect more of your apps to Search",
+      "summary": "You’ll be able to securely link and interact with your go-to services directly in AI Mode. Your browser does not support the audio element. You can now connect your favorite apps directly to AI Mode in Search to get more done. Simply link services like Instacart, Canva, or YouTube Music to build lists, design projects, or curate playlists without leaving your search results. Head over to AI Mode in Search today to start using these new integrations. You can now link your favorite apps directly to AI in Search to get things done faster.",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "category": "Research",
+      "date": "2026-07-16T16:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://blog.google"
+    },
+    {
+      "id": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "title": "Create, edit and star in videos with two Google Vids updates",
+      "summary": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever. Now you can generate and edit high-quality clips using everyday language, and create a custom digital avatar to star in your videos. Your browser does not support the audio element. Google Vids now features Gemini Omni, which lets you generate and edit high-quality videos using simple text prompts and image references. You can also create a digital avatar to deliver messages for you by uploading a selfie and a voice recording. Check your eligibility for these tools and start experimenting with your next video project today.",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "category": "Research",
+      "date": "2026-07-16T16:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://blog.google"
+    },
+    {
+      "id": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+      "title": "Google is renaming NotebookLM to Gemini Notebook",
+      "summary": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply across Gemini and Google Search. Google first revealed Gemini Notebook - then called Project Tailwind - in May 2023 before widely releasing the app just months later. Over the past few years, Google has been adding new features to the app to help organize and make sense of your notes, such as the ability to summarize them as AI podcasts, narrated slideshows, and TikTok-style clips. It recently started letting users connect their notebooks to the …",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+      "category": "Industry",
+      "date": "2026-07-16T16:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com",
+      "relatedCoverage": [
+        {
+          "source": "Engadget AI",
+          "url": "https://www.engadget.com/2216473/google-notebooklm-is-now-gemini-notebook/"
+        }
+      ]
+    },
+    {
+      "id": "https://techcrunch.com/?p=3143234",
+      "title": "Google’s AI Mode now lets you link and interact with select apps",
+      "summary": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+      "category": "Business",
+      "date": "2026-07-16T16:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=5990635",
+      "title": "NotebookLM just got a new name and a serious upgrade for Google AI Pro subscribers",
+      "summary": "Google is retiring the NotebookLM name, and the AI research tool is being rebranded to Gemini Notebook, folding one of the company's most useful products deeper into its main AI brand. Alongside the rebrand, Google is expanding one of the tool's most powerful features to more users, which was previously limited to those on the Google AI Ultra plan. Google With the Gemini Notebook rebrand, Google is now expanding that update to more users, with those on the Google AI Pro plan set to receive it on the web version over the coming weeks. Google hasn't said when these capabilities will reach users on the free tier, if at all. The new name isn't the only way Google is integrating NotebookLM into the Gemini ecosystem. Back in April, the company expanded notebook access to the main Gemini app, letting users easily pull saved research and sources directly into a chat.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/computing/notebooklm-just-got-a-new-name-and-a-serious-upgrade-for-google-ai-pro-subscribers/",
+      "category": "Tech",
+      "date": "2026-07-16T16:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
+      "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
+      "summary": "Energy companies are raising money at IPO at their fastest pace this century, taking advantage of investors’ hunt for new ways to bet on the boom in power-intensive AI data centers. Initial public offerings for energy firms raised $12.6 billion in the first half of this year, according to data firm Dealogic. That marks the highest half-year level since the peak of the dotcom bubble in late 1999 and the highest first-half figure on record. It is well above 2025’s full-year total of $4.3 billion. The surge in fundraising comes as access to the vast amounts of energy needed to run data centers emerges as a bottleneck in a multi-trillion-dollar AI investment boom.Read full article Comments",
+      "source": "Ars Technica AI",
+      "sourceUrl": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
+      "category": "Industry",
+      "date": "2026-07-16T15:48:21.000Z",
+      "hot": false,
+      "officialUrl": "https://arstechnica.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=5990761",
+      "title": "Meta AI will bring parents into the loop when teens mention self-harm",
+      "summary": "AI chatbots have made it remarkably easy to talk about things people might struggle to share with someone else. For teenagers, that can include deeply personal topics such as anxiety, loneliness, self-harm, and suicide. Meta is now adding another safeguard for those conversations. The company will begin alerting parents when a supervised teen appears to be in serious distress while speaking to Meta AI, giving families a chance to step in before the situation gets worse. Meta AI already directs teens toward crisis helplines and encourages them to contact a parent, counsellor, or another trusted adult when conversations suggest possible self-harm. Under the new system, Meta will also notify the supervising parent.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/computing/meta-ai-will-bring-parents-into-the-loop-when-teens-mention-self-harm/",
+      "category": "Tech",
+      "date": "2026-07-16T15:42:27.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3143273",
+      "title": "Yes, you can now order DoorDash from the command line",
+      "summary": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+      "category": "Business",
+      "date": "2026-07-16T15:38:55.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3143216",
+      "title": "Why is OpenAI selling a ChatGPT basketball?",
+      "summary": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
+      "category": "Business",
+      "date": "2026-07-16T15:31:09.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=5990798",
+      "title": "Personal Intelligence in Search now connects to Google Calendar",
+      "summary": "Google is taking another step toward making Search feel less like a search engine and more like a personal assistant. The company has announced that AI Mode's Personal Intelligence can now connect directly to Google Calendar, allowing it not only to reference your schedule but also to create calendar events on your behalf. Until now, Personal Intelligence mainly pulled information from apps like Gmail and Google Photos to provide more relevant responses. Calendar changes the equation because it becomes the first connected Google app that doesn't just provide context. The feature is rolling out now to users in the United States, with a wider international rollout planned later. According to Robby Stein, Google's Vice President of Product for Search, AI Mode can now understand what's already on your calendar before responding to your questions.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/phones/personal-intelligence-in-search-now-connects-to-google-calendar/",
+      "category": "Tech",
+      "date": "2026-07-16T15:14:19.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3143111",
+      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+      "summary": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificial intelligence.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
+      "category": "Business",
+      "date": "2026-07-16T15:02:00.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
     {
       "id": "https://www.digitaltrends.com/?p=5990745",
       "title": "Apple is reportedly refreshing its entire iPad lineup, and the first new model could land this fall",
@@ -22,17 +215,6 @@
       "date": "2026-07-16T14:50:00.000Z",
       "hot": false,
       "officialUrl": "https://www.engadget.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/lilly-enters-psychedelic-drug-race-with-up-to-38-billion-ataibeckley-deal-4795606",
-      "title": "Lilly enters psychedelic drug race with up to $3.8 billion AtaiBeckley deal",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/lilly-enters-psychedelic-drug-race-with-up-to-38-billion-ataibeckley-deal-4795606",
-      "category": "Business",
-      "date": "2026-07-16T14:48:47.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
     },
     {
       "id": "https://www.digitaltrends.com/?p=5989656",
@@ -112,6 +294,16 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
+      "id": "https://cohere.com/blog/cohere-university-of-toronto-announcement",
+      "title": "Cohere university of toronto announcement",
+      "summary": "Today, Cohere and the University of Toronto announced a multi-year partnership to support the responsible adoption of AI across one of Canada’s leading research and educational institutions. The partnership brings together U of T’s expertise in research, education and responsible technology adoption with Cohere’s sovereign, enterprise-grade AI technology. Cohere’s privately deployable agentic AI platform, North, will serve as an orchestration layer within U of T’s forthcoming enterprise-wide AI platform, helping members of the university community manage complex tasks and securely access trusted information across university systems. The collaboration will support U of T as it explores how AI can enable teaching and learning, research, student services, administration and university operations. It will give faculty, librarians staff and students new ways to manage complex tasks, find relevant information and improve service delivery, while keeping sensitive data secure and under the university’s control. The partnership also marks a homecoming for Cohere, which was founded in 2019 by former U of T students Aidan Gomez, Nick Frosst and Ivan Zhang.",
+      "source": "Cohere Blog",
+      "sourceUrl": "https://cohere.com/blog/cohere-university-of-toronto-announcement",
+      "category": "Models",
+      "date": "2026-07-16T14:00:00.000Z",
+      "hot": true
+    },
+    {
       "id": "https://www.digitaltrends.com/?p=5990645",
       "title": "You can now generate songs in your iMessage chats",
       "summary": "Suno has added an iMessage extension to its iOS app, letting users generate 30-second songs from voice recordings or typed prompts inside a Messages conversation. The feature is available in the latest version of the Suno app and requires both people in the chat to have it installed. Users can access Suno from the plus menu in Messages, create a track, and share it without opening the standalone app. You can record a voice prompt or tap the keyboard icon to type out what you want. Suno will then turn the prompt into a 30-second song that can be shared directly in the conversation. make your texts sing 🎶 suno is now in your imessage keyboardmake sure to update your suno app to the latest pic.twitter.com/JFCTu2zQGS",
@@ -132,6 +324,149 @@
       "date": "2026-07-16T13:50:30.000Z",
       "hot": false,
       "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/07/16/tsmc-pledges-100-billion-for-us-plants/",
+      "title": "Apple's Chipmaker Pledges $100 Billion More for US Plants",
+      "summary": "Apple chip supplier TSMC has announced a $100 billion increase to its U.S. chip investment, bringing its total commitment to $265 billion. The increase was confirmed by the White House and the Department of Commerce alongside TSMC's second quarter earnings call. Commerce Secretary Howard Lutnick said the investment would \"create tens of thousands of American jobs,\" while TSMC chairman and CEO C.C. Wei told CNBC the new fabrication plants would support \"our leading U.S. customers,\" a group that reportedly includes Apple, alongside Nvidia and Broadcom.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/07/16/tsmc-pledges-100-billion-for-us-plants/",
+      "category": "Tech",
+      "date": "2026-07-16T13:47:45.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/07/16/apple-refurbished-ipad-mini-a17-pro/",
+      "title": "Apple Begins Selling Refurbished iPad Mini With A17 Pro Chip at a Discount",
+      "summary": "Apple today added the iPad mini with the A17 Pro chip to its refurbished store in the U.S. and Canada for the first time since the device was released in October 2024. Other key features include an 8.3-inch display, a 12-megapixel Center Stage camera, and a Touch ID power button. There is no availability in any other countries yet. In the U.S., refurbished pricing starts at $509 for a Wi-Fi model with 128GB of storage, down from $599 for the equivalent brand-new model. However, keep in mind that a new iPad mini started at $499 until Apple raised prices last month, so unfortunately the refurbished model costs $10 more than a new model did just a few weeks ago.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/07/16/apple-refurbished-ipad-mini-a17-pro/",
+      "category": "Tech",
+      "date": "2026-07-16T13:47:45.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/07/16/ipad-12-release-date/",
+      "title": "Here's When to Expect the iPad 12 to Launch",
+      "summary": "In March, Bloomberg's Mark Gurman said a new entry-level iPad was \"still coming this year,\" but apparently this is no longer the case. Today, he reported that the device is slated for release in the first quarter of 2027 at the earliest. The main new feature will be a faster processor rather than major design changes, he said, so it sounds like nothing more than a spec bump. While the next iPad mini is expected to have an OLED display, the base iPad will stick with an LCD screen. Gurman previously said the device would be powered by the A18 chip, but Macworld's Filipe Espósito said it would have an A19 chip. In any case, the device would gain support for Apple Intelligence, as both chips have the minimum 8GB of RAM required for those features.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/07/16/ipad-12-release-date/",
+      "category": "Tech",
+      "date": "2026-07-16T13:47:45.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/07/16/macbook-pro-save-up-to-500/",
+      "title": "Missed Pre-Hike MacBook Pro Prices? Amazon's New Deals Still Save Up to $500",
+      "summary": "Amazon's prices on the 2026 MacBook Pro have now joined in on Apple's recent price hikes, meaning we're no longer tracking pre-hike markdowns on these devices. However, there are still notable sales to be found if you're shopping for a MacBook Pro this month, with up to $500 off new prices available right now on Amazon. Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. 14-Inch MacBook Pro Prices start at $2,349.00 for the 24GB/1TB 14-inch M5 Pro MacBook Pro, down from $2,499.00. The 24GB/2TB model is on sale for $2,997.50, which is a $201 discount on the new price.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/07/16/macbook-pro-save-up-to-500/",
+      "category": "Tech",
+      "date": "2026-07-16T13:47:45.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/07/16/oled-ipad-mini-by-october-report/",
+      "title": "New iPad Mini With Four Upgrades Reportedly Launching by October",
+      "summary": "Apple is planning to release a new iPad mini model with an OLED display by October this year, according to Bloomberg's Mark Gurman. Apple already updated the iPad Pro with an OLED display in May 2024, but the iPad mini, iPad Air, and entry-level iPad are all still equipped with LCD screens. The move to OLED technology would result in the next iPad mini offering improved image quality, thanks to richer colors and higher contrast ratio with true blacks. Given that OLED displays are generally more expensive than LCDs, the next iPad mini could have a higher starting price compared to the current model. Gurman did not provide any other details about the next iPad mini today, but he previously reported that the device would receive a vibration-based speaker system and increased water resistance. The next iPad mini is also rumored to be powered by either an A19 Pro or A20 chip, up from the A17 Pro chip in the current model.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/07/16/oled-ipad-mini-by-october-report/",
+      "category": "Tech",
+      "date": "2026-07-16T13:47:45.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/07/16/apple-vapor-chamber-orders-foldable-iphone/",
+      "title": "Apple Reportedly Ramps Up Vapor Chamber Orders for Foldable iPhone",
+      "summary": "Apple has ramped up orders for vapor chamber cooling components said to be destined for its upcoming foldable iPhone and 20th-anniversary iPhone models, according to a Chinese leaker. The Weibo account known as \"Fixed Focus Digital\" claims the increased order volume will first support the manufacture of Apple's book-style foldable, or \"iPhone Ultra,\" which is expected to debut in September. Apple has reportedly asked suppliers to produce approximately 10 million foldable iPhones in 2026, up from an earlier forecast of seven to eight million units. Fixed Focus Digital previously said Apple's first foldable iPhone would feature \"impressive\" vapor chamber cooling, claiming that the company is \"going all out\" with the device's thermal engineering. While there's no corroborating evidence, it's quite possible that the foldable design Apple is adopting could present unique cooling challenges because of its thinner internal structure and limited space for heat dissipation. Apple introduced vapor chamber cooling to the iPhone lineup with last year's iPhone 17 Pro.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/07/16/apple-vapor-chamber-orders-foldable-iphone/",
+      "category": "Tech",
+      "date": "2026-07-16T13:47:45.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.macrumors.com/how-to/how-to-install-macos-27-golden-gate-public-beta&post_date=1784200308/",
+      "title": "How to Install macOS 27 Golden Gate Public Beta",
+      "summary": "Apple has made the first macOS 27 Golden Gate public beta available for testing before the new Mac operating system's official release in the fall. Keep reading to learn whether you should install it on your Mac, and if so, how to go about it. Getting access to the macOS Golden Gate public beta is simple, and can be done by enrolling your Mac in Apple's free Apple Beta Software Program. The steps you need to complete to install the software on your Mac are provided towards the end of this article, but before you jump ahead, here are a few things worth considering. Should I Install macOS Golden Gate Public Beta? With macOS Golden Gate, Apple includes the same Siri AI features as iOS 27 and iPadOS 27, accessed through Spotlight with the Command + Space keyboard shortcut.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/how-to/how-to-install-macos-27-golden-gate-public-beta/",
+      "category": "Tech",
+      "date": "2026-07-16T13:47:45.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/07/16/apple-2026-back-to-school-offer-goes-live-us/",
+      "title": "Apple's 2026 Back to School Offer Goes Live in the US: Up to $150 Gift Card With Mac or iPad",
+      "summary": "Apple's annual Back to School promotion is now live in the United States, Canada, and Mexico, following earlier rollouts in Asia. This year's promotion offers a free Apple gift card with the purchase of an eligible Mac or iPad. Apple is offering a $150 gift card with any new MacBook Pro, and a $100 gift card with any new MacBook Air, iPad Pro, and iPad Air. The gift card can be used towards purchases of Apple products and accessories, App Store apps, subscriptions to services like Apple Music, iCloud+ storage, and more. The MacBook Neo is not an eligible product. Neither are the iPad mini, entry-level iPad, or any desktop Macs.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/07/16/apple-2026-back-to-school-offer-goes-live-us/",
+      "category": "Tech",
+      "date": "2026-07-16T13:47:45.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/07/15/google-third-party-app-stores/",
+      "title": "Google and Epic Abandon Injunction Modification Request, Clearing the Way for Rival Android App S...",
+      "summary": "Google and Epic Games this week withdrew their joint motion to modify an injunction requiring Google to support third-party app stores in Google Play. The two companies abandoned the request after it became clear the court was unlikely to allow it. Google is now bound by a permanent injunction issued in October 2024 requiring it to allow alternative app stores on Android devices. In a court filing [PDF], Google said that it plans to begin supporting alternative app stores on July 22. In a statement to The Verge, Google said it decided to withdraw the motion to avoid a prolonged legal fight. We've agreed with Epic to withdraw our motion to modify the US Court's injunction rather than prolonging this process which creates uncertainty for the ecosystem.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/07/15/google-third-party-app-stores/",
+      "category": "Tech",
+      "date": "2026-07-16T13:47:45.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/07/15/crashstealer-mac-malware/",
+      "title": "CrashStealer Malware Impersonates Apple Tool to Steal Mac Passwords and Crypto",
+      "summary": "Mac users should watch out for macOS malware called CrashStealer, according to Jamf Threat Labs. The malware impersonates Apple's crash reporting framework, and it's meant to steal all kinds of sensitive information. CrashStealer collects browser data, password manager data, cryptocurrency wallet extensions, and keychain data, and Jamf first noticed it circulating in a fake Apple-notarized app called Werkbit. With notarization, the malware is not stopped by Gatekeeper, which is part of the macOS security system. It targets more than 80 cryptocurrency wallet extensions, and 14 password managers like 1Password, LastPass, and Dashlane. It searches through the Document and Downloads folders to look for information worth collecting.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/07/15/crashstealer-mac-malware/",
+      "category": "Tech",
+      "date": "2026-07-16T13:47:45.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/07/15/apple-carrier-iphone-financing/",
+      "title": "Apple Closes Unlocked iPhone Loophole for T-Mobile and Verizon Financing",
+      "summary": "Carrier-financed iPhones purchased from Apple will soon be locked to the carrier, ending a workaround customers used to purchase an unlocked iPhone on a payment plan. Until the rule change, buying an iPhone from Apple and opting for financing through Verizon or T-Mobile meant you would get an iPhone not locked to either carrier's network. That's no longer the case, and now iPhones financed through Verizon or T-Mobile will not be able to be used with a different network. AT&T-financed smartphones were always locked to the AT&T network. Apple's new policy was highlighted on Reddit after a user saw a new \"Will my iPhone be unlocked?\" FAQ item. An iPhone purchased from Apple is unlocked.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/07/15/apple-carrier-iphone-financing/",
+      "category": "Tech",
+      "date": "2026-07-16T13:47:45.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/07/15/apple-maps-ad-prohibitied-categories/",
+      "title": "Apple Won't Allow These Ad Categories in the Maps App",
+      "summary": "Apple this week shared a new Advertising Services policy outlining the kinds of ads that won't be allowed in the Maps app. As noted by TechCrunch, Apple has a list of ad categories that are not permitted in Apple Maps. Home services - Ads that directly or indirectly promote home services are not allowed. That includes but is not limited to plumbing, electrical, locksmith, HVAC, pest control, roofing, and general contracting services. Bail bonds - Ad content that directly or indirectly promotes bail bond services or surety bond services related to criminal pretrial release is not allowed. Cryptocurrency ATMs - Ad content that directly or indirectly promotes ATMs for cryptocurrencies is prohibited.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/07/15/apple-maps-ad-prohibitied-categories/",
+      "category": "Tech",
+      "date": "2026-07-16T13:47:45.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/07/15/apple-2026-back-to-school-offer-rolling-out/",
+      "title": "Apple's 2026 Back to School Offer Just Went Live in Select Countries",
+      "summary": "Apple's annual Back to School promotion is now live in select countries in Asia, including China, India, Malaysia, the Philippines, Singapore, Taiwan, Thailand, and Vietnam. The offer provides college students and educational staff with a free item with the purchase of an eligible Mac or iPad model. The exact offer varies by country, with options including a pack of four AirTags, AirPods 4, an Apple Pencil Pro, or an Apple gift card. You can also opt to receive a discount on some higher-value accessories. In China, Singapore, and Vietnam, eligible students and educators can receive a pack of four AirTags with the purchase of any new MacBook Air, MacBook Pro, iPad Air, or iPad Pro through Apple's education store. In India, you can receive a pack of four AirTags or AirPods 4 with a MacBook Air or MacBook Pro, or an Apple Pencil Pro with an iPad Air or iPad Pro.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/07/15/apple-2026-back-to-school-offer-rolling-out/",
+      "category": "Tech",
+      "date": "2026-07-16T13:47:45.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "https://www.digitaltrends.com/?p=5990700",
@@ -195,17 +530,6 @@
       "officialUrl": "https://www.engadget.com"
     },
     {
-      "id": "108335717",
-      "title": "Nvidia unveils new AI model and expands Japan’s physical AI ecosystem",
-      "summary": "Nvidia announces new AI model, Cosmos 3 Edge, and expansion of its physical AI ecosystems in Japan.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/07/16/nvidia-reveals-new-ai-model-and-expands-japans-physical-ai-ecosystem.html",
-      "category": "Business",
-      "date": "2026-07-16T12:55:07.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
       "id": "https://www.digitaltrends.com/?p=5990656",
       "title": "OpenAI made a tiny $230 keyboard that lets you turn up an AI’s brainpower",
       "summary": "OpenAI has made a $230 mini keyboard that lets Codex users adjust how hard its AI thinks with a physical dial. The Codex Micro also provides dedicated buttons for launching workflows and checking on active agents without bouncing between chats. Developed with keyboard maker Work Louder, the compact Mac and Windows accessory connects over Bluetooth or USB-C. OpenAI's store currently lists it as out of stock, although the company says more units are coming. The rotary dial changes Codex's reasoning level on the fly. Users can keep it low when they want faster responses for straightforward work, then crank it up when a task calls for heavier thinking.",
@@ -239,17 +563,6 @@
       "officialUrl": "https://mashable.com"
     },
     {
-      "id": "https://www.digitaltrends.com/?p=5990652",
-      "title": "HTC’s smart glasses are apparently coming to the US, but HTC hasn’t said so",
-      "summary": "HTC's VIVE Eagle smart glasses could finally be heading to the US. Apparently, Amazon got the memo before HTC was ready to share it. Notebookcheck spotted six versions available for preorder at $499, each carrying a September 1 release date. Amazon has since pulled the pages, so new orders are closed and anyone who already placed one is left wondering whether it still counts. HTC hasn't confirmed any US launch. Its website continues to describe the VIVE Eagle as exclusive to Taiwan, making this a retailer leak with surprisingly detailed receipts.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/wearables/htcs-smart-glasses-are-apparently-coming-to-the-us-but-htc-hasnt-said-so/",
-      "category": "Tech",
-      "date": "2026-07-16T12:10:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
       "id": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
       "title": "Google ordered to open Android and Search to rivals in Europe",
       "summary": "The EU says Google must let rival search engines and AI assistants have comparable access to Android and some Search data to comply with the DMA. The EU says Google must let rival search engines and AI assistants have comparable access to Android and some Search data to comply with the DMA. Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc’s digital antitrust rules. The two decisions, handed down Thursday, could weaken Google’s control over two of the tech industry’s most important platforms and have far-reaching consequences for the company, shape the future of its AI tool Gemini, and open up new opportunities for rivals to gain ground. Google has until January 2027 to begin sharing search data and July 2027 to implement changes to Android. The rulings stem from technical regulatory proceedings under the EU’s Digital Markets Act (DMA), which requires dominant platforms — designated “gatekeepers” — to give competitors comparable access to systems and data as they themselves enjoy.",
@@ -259,149 +572,6 @@
       "date": "2026-07-16T12:06:51.000Z",
       "hot": false,
       "officialUrl": "https://www.theverge.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/07/16/ipad-12-release-date/",
-      "title": "Here's When to Expect the iPad 12 to Launch",
-      "summary": "In March, Bloomberg's Mark Gurman said a new entry-level iPad was \"still coming this year,\" but apparently this is no longer the case. Today, he reported that the device is slated for release in the first quarter of 2027 at the earliest. The main new feature will be a faster processor rather than major design changes, he said, so it sounds like nothing more than a spec bump. While the next iPad mini is expected to have an OLED display, the base iPad will stick with an LCD screen. Gurman previously said the device would be powered by the A18 chip, but Macworld's Filipe Espósito said it would have an A19 chip. In any case, the device would gain support for Apple Intelligence, as both chips have the minimum 8GB of RAM required for those features.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/07/16/ipad-12-release-date/",
-      "category": "Tech",
-      "date": "2026-07-16T12:05:38.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/07/16/macbook-pro-save-up-to-500/",
-      "title": "Missed Pre-Hike MacBook Pro Prices? Amazon's New Deals Still Save Up to $500",
-      "summary": "Amazon's prices on the 2026 MacBook Pro have now joined in on Apple's recent price hikes, meaning we're no longer tracking pre-hike markdowns on these devices. However, there are still notable sales to be found if you're shopping for a MacBook Pro this month, with up to $500 off new prices available right now on Amazon. Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. 14-Inch MacBook Pro Prices start at $2,349.00 for the 24GB/1TB 14-inch M5 Pro MacBook Pro, down from $2,499.00. The 24GB/2TB model is on sale for $2,997.50, which is a $201 discount on the new price.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/07/16/macbook-pro-save-up-to-500/",
-      "category": "Tech",
-      "date": "2026-07-16T12:05:38.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/07/16/oled-ipad-mini-by-october-report/",
-      "title": "New iPad Mini With Four Upgrades Reportedly Launching by October",
-      "summary": "Apple is planning to release a new iPad mini model with an OLED display by October this year, according to Bloomberg's Mark Gurman. Apple already updated the iPad Pro with an OLED display in May 2024, but the iPad mini, iPad Air, and entry-level iPad are all still equipped with LCD screens. The move to OLED technology would result in the next iPad mini offering improved image quality, thanks to richer colors and higher contrast ratio with true blacks. Given that OLED displays are generally more expensive than LCDs, the next iPad mini could have a higher starting price compared to the current model. Gurman did not provide any other details about the next iPad mini today, but he previously reported that the device would receive a vibration-based speaker system and increased water resistance. The next iPad mini is also rumored to be powered by either an A19 Pro or A20 chip, up from the A17 Pro chip in the current model.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/07/16/oled-ipad-mini-by-october-report/",
-      "category": "Tech",
-      "date": "2026-07-16T12:05:38.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/07/16/apple-vapor-chamber-orders-foldable-iphone/",
-      "title": "Apple Reportedly Ramps Up Vapor Chamber Orders for Foldable iPhone",
-      "summary": "Apple has ramped up orders for vapor chamber cooling components said to be destined for its upcoming foldable iPhone and 20th-anniversary iPhone models, according to a Chinese leaker. The Weibo account known as \"Fixed Focus Digital\" claims the increased order volume will first support the manufacture of Apple's book-style foldable, or \"iPhone Ultra,\" which is expected to debut in September. Apple has reportedly asked suppliers to produce approximately 10 million foldable iPhones in 2026, up from an earlier forecast of seven to eight million units. Fixed Focus Digital previously said Apple's first foldable iPhone would feature \"impressive\" vapor chamber cooling, claiming that the company is \"going all out\" with the device's thermal engineering. While there's no corroborating evidence, it's quite possible that the foldable design Apple is adopting could present unique cooling challenges because of its thinner internal structure and limited space for heat dissipation. Apple introduced vapor chamber cooling to the iPhone lineup with last year's iPhone 17 Pro.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/07/16/apple-vapor-chamber-orders-foldable-iphone/",
-      "category": "Tech",
-      "date": "2026-07-16T12:05:38.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.macrumors.com/how-to/how-to-install-macos-27-golden-gate-public-beta&post_date=1784200308/",
-      "title": "How to Install macOS 27 Golden Gate Public Beta",
-      "summary": "Apple has made the first macOS 27 Golden Gate public beta available for testing before the new Mac operating system's official release in the fall. Keep reading to learn whether you should install it on your Mac, and if so, how to go about it. Getting access to the macOS Golden Gate public beta is simple, and can be done by enrolling your Mac in Apple's free Apple Beta Software Program. The steps you need to complete to install the software on your Mac are provided towards the end of this article, but before you jump ahead, here are a few things worth considering. Should I Install macOS Golden Gate Public Beta? With macOS Golden Gate, Apple includes the same Siri AI features as iOS 27 and iPadOS 27, accessed through Spotlight with the Command + Space keyboard shortcut.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/how-to/how-to-install-macos-27-golden-gate-public-beta/",
-      "category": "Tech",
-      "date": "2026-07-16T12:05:38.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/07/16/apple-2026-back-to-school-offer-goes-live-us/",
-      "title": "Apple's 2026 Back to School Offer Goes Live in the US: Up to $150 Gift Card With Mac or iPad",
-      "summary": "Apple's annual Back to School promotion is now live in the United States, Canada, and Mexico, following earlier rollouts in Asia. This year's promotion offers a free Apple gift card with the purchase of an eligible Mac or iPad. Apple is offering a $150 gift card with any new MacBook Pro, and a $100 gift card with any new MacBook Air, iPad Pro, and iPad Air. The gift card can be used towards purchases of Apple products and accessories, App Store apps, subscriptions to services like Apple Music, iCloud+ storage, and more. The MacBook Neo is not an eligible product. Neither are the iPad mini, entry-level iPad, or any desktop Macs.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/07/16/apple-2026-back-to-school-offer-goes-live-us/",
-      "category": "Tech",
-      "date": "2026-07-16T12:05:38.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/07/15/google-third-party-app-stores/",
-      "title": "Google and Epic Abandon Settlement, Clearing the Way for Rival Android App Stores",
-      "summary": "Google and Epic Games this week withdrew their joint settlement agreement after it became clear the court was unlikely to allow it. With the settlement out, Google is bound by a permanent injunction issued in October 2024 requiring it to allow alternative app stores on Android devices. In a court filing [PDF], Google said that it plans to begin supporting alternative app stores on July 22. In a statement to The Verge, Google said it decided to withdraw the motion to avoid a prolonged legal fight. We've agreed with Epic to withdraw our motion to modify the US Court's injunction rather than prolonging this process which creates uncertainty for the ecosystem. This allows us to focus on executing our recently announced global business model evolution to deliver greater app store choice, lower prices, and more opportunities for developers and users.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/07/15/google-third-party-app-stores/",
-      "category": "Tech",
-      "date": "2026-07-16T12:05:38.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/07/15/crashstealer-mac-malware/",
-      "title": "CrashStealer Malware Impersonates Apple Tool to Steal Mac Passwords and Crypto",
-      "summary": "Mac users should watch out for macOS malware called CrashStealer, according to Jamf Threat Labs. The malware impersonates Apple's crash reporting framework, and it's meant to steal all kinds of sensitive information. CrashStealer collects browser data, password manager data, cryptocurrency wallet extensions, and keychain data, and Jamf first noticed it circulating in a fake Apple-notarized app called Werkbit. With notarization, the malware is not stopped by Gatekeeper, which is part of the macOS security system. It targets more than 80 cryptocurrency wallet extensions, and 14 password managers like 1Password, LastPass, and Dashlane. It searches through the Document and Downloads folders to look for information worth collecting.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/07/15/crashstealer-mac-malware/",
-      "category": "Tech",
-      "date": "2026-07-16T12:05:38.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/07/15/apple-carrier-iphone-financing/",
-      "title": "Apple Closes Unlocked iPhone Loophole for T-Mobile and Verizon Financing",
-      "summary": "Carrier-financed iPhones purchased from Apple will soon be locked to the carrier, ending a workaround customers used to purchase an unlocked iPhone on a payment plan. Until the rule change, buying an iPhone from Apple and opting for financing through Verizon or T-Mobile meant you would get an iPhone not locked to either carrier's network. That's no longer the case, and now iPhones financed through Verizon or T-Mobile will not be able to be used with a different network. AT&T-financed smartphones were always locked to the AT&T network. Apple's new policy was highlighted on Reddit after a user saw a new \"Will my iPhone be unlocked?\" FAQ item. An iPhone purchased from Apple is unlocked.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/07/15/apple-carrier-iphone-financing/",
-      "category": "Tech",
-      "date": "2026-07-16T12:05:38.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/07/15/apple-maps-ad-prohibitied-categories/",
-      "title": "Apple Won't Allow These Ad Categories in the Maps App",
-      "summary": "Apple this week shared a new Advertising Services policy outlining the kinds of ads that won't be allowed in the Maps app. As noted by TechCrunch, Apple has a list of ad categories that are not permitted in Apple Maps. Home services - Ads that directly or indirectly promote home services are not allowed. That includes but is not limited to plumbing, electrical, locksmith, HVAC, pest control, roofing, and general contracting services. Bail bonds - Ad content that directly or indirectly promotes bail bond services or surety bond services related to criminal pretrial release is not allowed. Cryptocurrency ATMs - Ad content that directly or indirectly promotes ATMs for cryptocurrencies is prohibited.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/07/15/apple-maps-ad-prohibitied-categories/",
-      "category": "Tech",
-      "date": "2026-07-16T12:05:38.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/07/15/apple-2026-back-to-school-offer-rolling-out/",
-      "title": "Apple's 2026 Back to School Offer Just Went Live in Select Countries",
-      "summary": "Apple's annual Back to School promotion is now live in select countries in Asia, including China, India, Malaysia, the Philippines, Singapore, Taiwan, Thailand, and Vietnam. The offer provides college students and educational staff with a free item with the purchase of an eligible Mac or iPad model. The exact offer varies by country, with options including a pack of four AirTags, AirPods 4, an Apple Pencil Pro, or an Apple gift card. You can also opt to receive a discount on some higher-value accessories. In China, Singapore, and Vietnam, eligible students and educators can receive a pack of four AirTags with the purchase of any new MacBook Air, MacBook Pro, iPad Air, or iPad Pro through Apple's education store. In India, you can receive a pack of four AirTags or AirPods 4 with a MacBook Air or MacBook Pro, or an Apple Pencil Pro with an iPad Air or iPad Pro.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/07/15/apple-2026-back-to-school-offer-rolling-out/",
-      "category": "Tech",
-      "date": "2026-07-16T12:05:38.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/07/15/nomad-anniversary-sale/",
-      "title": "Nomad Kicks Off Anniversary Sale With Up to 30% Off Sitewide",
-      "summary": "Nomad is celebrating its anniversary by offering up to 30 percent off sitewide this week, giving shoppers a chance to save on the brand's best wireless chargers, iPhone cases, Apple Watch bands, and more. This sale does not require a coupon code as all the discounts have been automatically applied, and it will last for this week only. Note: MacRumors is an affiliate partner with Nomad. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. One highlight of the event is Nomad's Stand One Qi2 2-in-1 charging station, available for $90, down from $129. This accessory simultaneously charges your iPhone and AirPods, supporting both horizontal and vertical orientations for the iPhone.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/07/15/nomad-anniversary-sale/",
-      "category": "Tech",
-      "date": "2026-07-16T12:05:38.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/07/15/apple-smart-home-lineup-rumors/",
-      "title": "Apple's 2026 Smart Home Lineup: New Apple TV, HomePod, and Home Hub",
-      "summary": "Now that Siri AI is ready to launch in iOS 27, iPadOS 27, and macOS 27 Golden Gate, Apple can finally introduce new smart home products built to work with the smarter version of &zwnj;Siri&zwnj;. Apple has multiple new home devices in development, several of which are rumored to launch before the end of the year. We're waiting on a new version of the Apple TV 4K, a smart home hub, a new HomePod, and a new HomePod mini. Home Hub Similar to an iPad in design, but with a 7-inch square display. There will be a wall mount option or a speaker base option. The speaker base has a hemispherical dome, similar to the base of the iMac G4.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/07/15/apple-smart-home-lineup-rumors/",
-      "category": "Tech",
-      "date": "2026-07-16T12:05:38.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "https://decrypt.co/?p=373636",
@@ -460,8 +630,8 @@
     },
     {
       "id": "https://www.engadget.com/2216412/meta-ai-alert-parents-if-teens-discuss-self-harm/",
-      "title": "Meta will alert parents if their teens discuss self harm",
-      "summary": "The company is also building the ability to contact emergency services if a user may be at imminent risk of harming themselves. Meta Meta is expanding its safeguards for teen users in an effort to show parents, and perhaps regulators, that its platforms are safe for them to use. A few months after it started showing guardians the topics of their teens' AI conversations, Meta has introduced a new safety protection feature that will also let them know if their children's chats suggest they're considering self-harm or suicide. When an underage user talks about suicide or self-harm, Meta AI already directs them to crisis helplines and encourage them to reach out to an adult who can help. Starting today, the company will also proactively notify the teen's supervising parents or guardians that they're at risk. It will share resources and advice on what they can do for their children, as well.",
+      "title": "Meta will alert parents if their teens discuss self harm with Meta AI tools",
+      "summary": "The company is also building the ability to contact emergency services if a user may be at imminent risk of harming themselves. Meta Meta is expanding its safeguards for teen users in an effort to show parents, and perhaps regulators, that its platforms are safe for them to use. A few months after it started showing guardians the topics of their teens' AI conversations, Meta has introduced a new safety protection feature that will also let them know if their children's chats suggest they're considering self-harm or suicide. When an teen user talks about suicide or self-harm, Meta AI already directs them to crisis helplines and encourage them to reach out to an adult who can help. Starting today, the company will also proactively notify the teen's supervising parents or guardians that they're at risk. It will share resources and advice on what they can do for their children, as well.",
       "source": "Engadget AI",
       "sourceUrl": "https://www.engadget.com/2216412/meta-ai-alert-parents-if-teens-discuss-self-harm/",
       "category": "Tools",
@@ -547,17 +717,6 @@
       "officialUrl": "https://decrypt.co"
     },
     {
-      "id": "https://www.engadget.com/2216382/xai-sues-grok-user-generating-nonconsensual-sexualized-deepfakes/",
-      "title": "xAI sues Grok user for generating nonconsensual sexualized deepfakes",
-      "summary": "The defendant used Grok to create sexualized images of adults and children, xAI says. The company said that Grok refused to follow his prompts on \"numerous occasions\" but that he repeatedly submitted edited prompts to circumvent the AI's safeguards. In one example mentioned in the filing, xAI said Harwood uploaded the photo of a fully dressed girl around 10 to 11 years old and then asked Grok to remove all of her clothing and make her do a \"Playboy model impression\" as she laid in bed. Grok refused his request, the lawsuit said, but he kept on submitting modified requests. As Reuters notes, this is one of the first lawsuits brought by an AI company against one of its users, and it sends a message that xAI will sue over the misuse of Grok. Reports started coming out in early January that Grok has been allowing its users to transform photos of real women and children into sexualized images.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2216382/xai-sues-grok-user-generating-nonconsensual-sexualized-deepfakes/",
-      "category": "Tools",
-      "date": "2026-07-16T08:05:05.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
       "id": "0000019f-6983-d457-a5df-6de7a5f80000",
       "title": "Anthropic CEO gives $1 million to super PAC amid battle of AI big-money groups",
       "summary": "The committee also got $5,000 from an employee of the company's rival OpenAI.",
@@ -589,6 +748,17 @@
       "date": "2026-07-16T04:00:00.000Z",
       "hot": false,
       "officialUrl": "https://news.mit.edu"
+    },
+    {
+      "id": "https://openai.com/index/cars24",
+      "title": "How Cars24 scales conversations and builds faster with OpenAI",
+      "summary": "Cars24 uses OpenAI-powered agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring AI workflows to teams. monthly conversation minutes handled by AI agents increase in customer support resolution rates reduction in turnaround time across key service workflows previously lost seller leads recovered through AI-powered re-engagement Loading…ShareScaling a complex, conversation-driven marketplaceScaling a complex, conversation-driven marketplaceAutomating the full customer journey with AI agentsEmbedding Codex into the software development lifecycleExtending agentic workflows to every teamBuilding an AI-first operating modelScaling a complex, conversation-driven marketplaceAutomating the full customer journey with AI agentsEmbedding Codex into the software development lifecycleExtending agentic workflows to every teamBuilding an AI-first operating modelCars24 operates one of the world’s largest AI native automotive ecosystems for buying and selling cars in India, with additional operations in the UAE and Australia.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/cars24",
+      "category": "Models",
+      "date": "2026-07-16T00:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://openai.com"
     },
     {
       "id": "https://huggingface.co/blog/security-incident-july-2026",
@@ -971,37 +1141,14 @@
       "officialUrl": "https://feeds.feedburner.com"
     },
     {
-      "id": "https://techcrunch.com/?post_type=tc_video&p=3142876",
-      "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
-      "summary": "Watch as Equity catches up with Chris Taylor and Eddie Siegel, co-founders of Fractional AI, the applied AI services startup that Ode with Anthropic acquired earlier this year to serve as the new venture’s core.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
-      "category": "Business",
-      "date": "2026-07-15T15:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3142610",
-      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
-      "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-      "category": "Business",
-      "date": "2026-07-15T13:10:47.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3142243",
-      "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
-      "summary": "The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
-      "category": "Business",
-      "date": "2026-07-15T13:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
+      "id": "https://cohere.com/blog/the-total-cost-of-ai-ownership",
+      "title": "The total cost of ai ownership",
+      "summary": "For many enterprises across industries, the use of artificial intelligence has moved from a curious experiment to a necessary expense, with their digital transformation strategies growing alongside AI innovation. Yet, many companies still do not fully understand the unit economics of what they are getting when purchasing AI technologies, which can turn into a financial risk as AI workflows scale in ambition and become a permanent part of conducting business. At Cohere, Cohere recognize Cohere's customers’ challenges related to the total cost of AI ownership (AI TCO) and the strategic decisions over when to own AI technology versus when to rent it — and AI ownership is not one size fits all. In this post, Cohere will walk through both the invoiced and hidden costs of running AI in your enterprise and how to approach your AI ownership strategy. To connect with Cohere sales to see your total cost of AI ownership, and discuss opportunities to lower it, please contact Cohere. The visible price of AI is usually quoted in tokens.",
+      "source": "Cohere Blog",
+      "sourceUrl": "https://cohere.com/blog/the-total-cost-of-ai-ownership",
+      "category": "Models",
+      "date": "2026-07-15T13:42:00.000Z",
+      "hot": true
     },
     {
       "id": "https://decrypt.co/?p=373535",
@@ -1011,17 +1158,6 @@
       "sourceUrl": "https://decrypt.co/373535/morning-minute-crypto-rips-on-cool-cpi",
       "category": "Tech",
       "date": "2026-07-15T12:26:45.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "https://decrypt.co/?p=373528",
-      "title": "UK Fraud Review Calls for Judge Training on Crypto Laundering, AI Scams",
-      "summary": "A government-backed review says magistrates and judges aren't ready for a coming surge in crypto money laundering and AI-enabled fraud cases.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/373528/uk-fraud-review-calls-for-judge-training-on-crypto-laundering-ai-scams",
-      "category": "Tech",
-      "date": "2026-07-15T12:15:31.000Z",
       "hot": false,
       "officialUrl": "https://decrypt.co"
     },
@@ -1321,17 +1457,6 @@
       "officialUrl": "https://news.mit.edu"
     },
     {
-      "id": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
-      "title": "Meta accused of using biased AI targeting for mass layoffs",
-      "summary": "More than two dozen former employees claim Meta used AI to rank workers’ performance, but failed to exclude people on medical leave. More than two dozen former employees claim Meta used AI to rank workers’ performance, but failed to exclude people on medical leave. A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the lawsuit, the employees allege Meta determined which workers to dismiss based on performance data collected by a “constellation” of internal AI tools, but failed to exclude those on parental or medical leave from its ranking system: The result was that employees who took protected leaves were disproportionately selected for layoff, based on scoring that not only failed to account for their protected leaves, but in effect penalized the employees for exercising their legal rights to these leaves. The layoffs mentioned in the lawsuit occurred in May as part of Meta’s plans to slash 10 percent of its staff, or around 8,000 workers.",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
-      "category": "Industry",
-      "date": "2026-07-14T17:18:11.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
       "id": "https://blogs.nvidia.com/?p=96074",
       "title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
       "summary": "Editor’s note: This post is part of the Nemotron Labs blog series, which explores how the latest open models, datasets and training techniques help businesses build specialized AI systems and applications on NVIDIA platforms. Each post highlights practical ways to use an open stack to deliver real value in production — from transparent research copilots to scalable AI agents. Enterprises have plenty of powerful models to choose from. The real test is whether the AI an enterprise builds uniquely addresses the needs of the business: improving workflows, tapping into domain knowledge and exceeding standards for accuracy and trust. Increasingly, competitive AI advantage comes from how organizations build with available models, more than which one they choose. Open models like NVIDIA Nemotron are built for customization — helping enterprises and nations build AI that’s controllable, trustworthy and tailored to their needs.",
@@ -1396,6 +1521,16 @@
       "date": "2026-07-14T15:00:20.000Z",
       "hot": false,
       "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
+      "id": "https://cohere.com/blog/tiny-aya-in-the-wild",
+      "title": "Tiny aya in the wild",
+      "summary": "Tiny Aya is Cohere Labs' answer to a familiar problem: most AI is built for a handful of languages and needs serious hardware to run. Tiny Aya is open-weight, strong across 70+ languages, and light enough to run locally, even on a phone. Shortly after release, Cohere launched Expedition Tiny Aya, a mentor-supported research program to put the model in the hands of builders, researchers, students, and practitioners around the world, and see what they build with it. Alongside the growing body of community projects, the research behind Tiny Aya was recently accepted to COLM 2026, underscoring the model's impact as both a practical foundation for multilingual AI and a contribution to the research community. What follows is an overview of what emerged from the Expedition. Projects from this initiative yielded insights across four key themes: education and learning, building safer multilingual AI, accessibility and local deployment, and language understanding and processing.",
+      "source": "Cohere Blog",
+      "sourceUrl": "https://cohere.com/blog/tiny-aya-in-the-wild",
+      "category": "Models",
+      "date": "2026-07-14T14:43:16.392Z",
+      "hot": true
     },
     {
       "id": "https://www.techrepublic.com/article/news-watchos-27-public-beta-siri-ai/",
@@ -1573,6 +1708,16 @@
       ]
     },
     {
+      "id": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Superhuman's AI Auto-Draft Sends 60% of Emails Unedited Using Anthropic & OpenAI Models",
+      "summary": "Superhuman’s latest AI email drafting feature is its most convincing yet, generating replies that often required little to no editing in our testing.",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-07-14T00:00:00.000Z",
+      "hot": false
+    },
+    {
       "id": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium?utm_source=futuretools.io&utm_medium=newspage",
       "title": "New York Gov. Hochul Signs First U.S. Statewide Data Center Moratorium",
       "summary": "But a version approved by state lawmakers could go even further. But a version approved by state lawmakers could go even further. New hyperscale data centers can’t set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation’s first statewide moratorium. But a bill passed by the state legislature that could restrict even more developments still awaits her signature. The order blocks new environmental permits for data centers over 50 megawatts, which the governor’s office says will give the state time to come up with the regulations needed to protect residents from rising energy prices and environmental impact. That’s higher than the 20 megawatt threshold approved by state lawmakers.",
@@ -1588,16 +1733,6 @@
       "summary": "He reportedly hopes the US-led institution will be up and running before the end of the year. He reportedly hopes the US-led institution will be up and running before the end of the year. Demis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous. Writing in a blog post, the Google DeepMind CEO and cofounder said the US should lead the initiative, arguing that the country is the best place to set global standards “given its economic and technical standing.” The organization, which could resemble existing regulators like the Financial Industry Regulatory Authority, would be made up of leading independent experts and representatives from open-source communities and would have the authority to evaluate frontier models before they are released and coordinate an industry-wide slowdown if they were judged too risky to deploy. The blog, titled “A Framework for Frontier AI and the Dawning of a New Age,” argued that the need for global regulation is becoming more urgent as AI systems grow in sophistication. Artificial general intelligence (AGI) “is probably only a few short years away,” he said.",
       "source": "theverge.com",
       "sourceUrl": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-07-14T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Superhuman's AI Auto-Draft Sends 60% of Emails Unedited Using Anthropic & OpenAI Models",
-      "summary": "Superhuman’s latest AI email drafting feature is its most convincing yet, generating replies that often required little to no editing in our testing.",
-      "source": "techcrunch.com",
-      "sourceUrl": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-07-14T00:00:00.000Z",
       "hot": false
