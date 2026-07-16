@@ -1,47 +1,58 @@
 {
-  "lastUpdated": "2026-07-16T01:57:53.534Z",
+  "lastUpdated": "2026-07-16T04:23:35.845Z",
   "news": [
     {
-      "id": "https://www.investing.com/news/stock-market-news/ubs-adds-kuaishou-meituan-to-china-focus-list-lifts-alibaba-and-ping-an-weightin-4794568",
-      "title": "UBS adds Kuaishou, Meituan to China focus list, lifts Alibaba and Ping An weightin",
+      "id": "https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716",
+      "title": "A better way to turn 2D designs into 3D models for rapid prototyping",
+      "summary": "Engineers often use vision-language models to produce new designs, such as for airplane or automobile components. To simulate how those components will perform in realistic situations, they’ll use tried-and-true computer-aided design (CAD) software to generate 3D models of those designs, which they can put through virtual crash or durability tests. Researchers from MIT and elsewhere have now developed a system that can teach a vision-language model to automatically convert 2D designs into CAD programs that are much more accurate and functional compared to other approaches, while using only a fraction of the computation.By improving the performance and efficiency of AI-driven CAD generation, this technique could streamline the rapid prototyping process and reduce costs. It could also help engineers identify beneficial design choices they might otherwise overlook. The system generates new data based on the model’s abilities as it attempts to convert a 2D image into a CAD program. The framework corrects the model’s failures and incorporates them into a dataset with its successful solutions. It uses these data to teach the model how to fix specific mistakes and tackle tricky problems it would struggle with on its own.“We want engineers to be able to point our framework at an underperforming CAD model, set a compute budget, and let the system take over — turning the model’s own mistakes into better training data,” says lead author Giorgio Giannone, a research affiliate in the D...",
+      "source": "MIT News ML",
+      "sourceUrl": "https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716",
+      "category": "Research",
+      "date": "2026-07-16T04:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://news.mit.edu"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/hyundai-motor-group-to-make-boston-dynamics-wholly-owned-with-purchase-of-softbank-stake-4794620",
+      "title": "Hyundai Motor Group to make Boston Dynamics wholly owned with purchase of SoftBank stake",
       "summary": "",
       "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/ubs-adds-kuaishou-meituan-to-china-focus-list-lifts-alibaba-and-ping-an-weightin-4794568",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/hyundai-motor-group-to-make-boston-dynamics-wholly-owned-with-purchase-of-softbank-stake-4794620",
       "category": "Business",
-      "date": "2026-07-16T00:35:42.000Z",
+      "date": "2026-07-16T03:24:54.000Z",
       "hot": false,
       "officialUrl": "https://www.investing.com"
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/jpmorgan-ceo-dimon-says-anthropics-mythos-ai-risks-are-a-real-issue-4794560",
-      "title": "JPMorgan CEO Dimon says Anthropic’s Mythos AI risks are a ’real issue’",
+      "id": "108335720",
+      "title": "Alibaba and Baidu shares jump in Hong Kong on Apple AI partnership",
+      "summary": "The technological rivalry between China and the U.S. has intensified, as they race for AI dominance.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/07/16/alibaba-baidu-shares-jump-apple-ai-partnership-.html",
+      "category": "Business",
+      "date": "2026-07-16T03:17:20.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/why-is-kuaishou-technology-stock-rallying-today-93CH-4794614",
+      "title": "Why is Kuaishou Technology stock rallying today?",
       "summary": "",
       "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/jpmorgan-ceo-dimon-says-anthropics-mythos-ai-risks-are-a-real-issue-4794560",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/why-is-kuaishou-technology-stock-rallying-today-93CH-4794614",
       "category": "Business",
-      "date": "2026-07-16T00:30:31.000Z",
+      "date": "2026-07-16T02:42:06.000Z",
       "hot": false,
       "officialUrl": "https://www.investing.com"
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/eli-lilly-in-talks-to-buy-psychedelic-drugmaker-ataibeckley--bloomberg-4794556",
-      "title": "Eli Lilly in talks to buy psychedelic drugmaker AtaiBeckley - Bloomberg",
+      "id": "https://www.investing.com/news/stock-market-news/amd-ubs-hikes-price-target-ahead-of-ai-event-on-stronger-gpu-outlook-4794609",
+      "title": "AMD: UBS hikes price target ahead of AI event on stronger GPU outlook",
       "summary": "",
       "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/eli-lilly-in-talks-to-buy-psychedelic-drugmaker-ataibeckley--bloomberg-4794556",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/amd-ubs-hikes-price-target-ahead-of-ai-event-on-stronger-gpu-outlook-4794609",
       "category": "Business",
-      "date": "2026-07-16T00:17:57.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/anthropic-in-talks-to-expand-credit-line-ahead-of-planned-ipo-the-information-93CH-4794547",
-      "title": "Anthropic in talks to expand credit line ahead of planned IPO- The Information",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/anthropic-in-talks-to-expand-credit-line-ahead-of-planned-ipo-the-information-93CH-4794547",
-      "category": "Business",
-      "date": "2026-07-16T00:03:55.000Z",
+      "date": "2026-07-16T02:12:46.000Z",
       "hot": false,
       "officialUrl": "https://www.investing.com"
     },
@@ -101,17 +112,6 @@
       "officialUrl": "https://www.digitaltrends.com"
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/tsmcs-secondquarter-profit-seen-hitting-record-on-ai-boom-4794514",
-      "title": "TSMC’s second-quarter profit seen hitting record on AI boom",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/tsmcs-secondquarter-profit-seen-hitting-record-on-ai-boom-4794514",
-      "category": "Business",
-      "date": "2026-07-15T23:07:19.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
       "id": "https://blogs.nvidia.com/?p=96146",
       "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
       "summary": "General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running foundation models at the edge. To meet that need, NVIDIA today introduced the T3000 and T2000, new modules based on the NVIDIA Thor architecture that enable mass-market robotics and edge AI applications at scale. Jetson AGX Thor is powering this next generation of humanoid and robotic systems, with growing adoption across industries. Leading companies — including 1X, Agile Robots, Amazon Robotics, Boston Dynamics, FANUC, Hitachi and Techman Robot — are building on the platform. Unlocking Humanoid and Robotics Deployment With T3000 The hardware underpinning those capabilities starts with the Jetson and IGX T3000 modules, which delivers 865 FP4 teraflops of AI compute in a compact form factor roughly half the size and power of the T5000. Jetson T3000 combines an NVIDIA Blackwell GPU, an eight-core Neoverse Arm CPU, 32GB of LPDDR5X memory and 273GB/s of memory bandwidth, along with 25 GbE connectivity.",
@@ -123,17 +123,6 @@
       "officialUrl": "https://blogs.nvidia.com"
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/us-aviation-industry-urges-congress-to-provide-20-billion-for-air-traffic-control-upgrades-4794309",
-      "title": "US aviation industry urges Congress to provide $20 billion for air traffic control upgrades",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/us-aviation-industry-urges-congress-to-provide-20-billion-for-air-traffic-control-upgrades-4794309",
-      "category": "Business",
-      "date": "2026-07-15T22:55:05.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
       "id": "108335532",
       "title": "Jim Cramer says he needs 'cold hard' proof that AI is paying off",
       "summary": "CNBC's Jim Cramer said he’s looking for companies to start showing measurable financial returns from their AI investments.",
@@ -143,17 +132,6 @@
       "date": "2026-07-15T22:51:22.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/airbus-in-talks-to-sell-jets-to-flynas-sources-say-4794500",
-      "title": "Airbus in talks to sell jets to Flynas, sources say",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/airbus-in-talks-to-sell-jets-to-flynas-sources-say-4794500",
-      "category": "Business",
-      "date": "2026-07-15T22:48:39.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
     },
     {
       "id": "https://www.digitaltrends.com/?p=5990578",
@@ -875,17 +853,6 @@
       "date": "2026-07-15T13:00:00.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=5990410",
-      "title": "China approves Apple Intelligence for iPhones, with Alibaba, Baidu emerging as partners",
-      "summary": "Apple Intelligence has finally found a way through China's regulatory maze–and all it took was nearly two years after it brought the AI suite to iPhone users elsewhere. China's Cyberspace Administration has registered Apple Intelligence for use on iPhones in the country, clearing the main regulatory hurdle preventing its release. The approval creates a path for Apple to deploy its generative AI tools on Chinese devices. Now, the only wait is for regulators and Apple to provide a launch date. Alibaba's Qwen AI model Nadeem Sarwar / Digital Trends Apple Intelligence in China will rely on technology from two of the country's largest AI companies. Alibaba confirmed that its Qwen model will be integrated into Apple Intelligence experiences across iOS, iPadOS, macOS, and visionOS for users in China.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/phones/china-approves-apple-intelligence-for-iphones-with-alibaba-baidu-emerging-as-partners/",
-      "category": "Tech",
-      "date": "2026-07-15T12:56:23.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
     },
     {
       "id": "https://decrypt.co/?p=373535",
