@@ -1,16 +1,126 @@
 {
-  "lastUpdated": "2026-07-21T19:09:01.261Z",
+  "lastUpdated": "2026-07-21T20:43:02.075Z",
   "news": [
     {
-      "id": "https://www.investing.com/news/stock-market-news/databricks-ceo-said-they-are-running-out-of-gpus-everywhere-4804024",
-      "title": "Databricks CEO said they are ’running out of GPUs everywhere’",
+      "id": "https://www.digitaltrends.com/?p=5992042",
+      "title": "Apple fixes Hide My Email bug that exposed users’ real email addresses",
+      "summary": "Turns out the \"Hide\" part of Hide My Email wasn't doing its job quite as advertised, something that I covered early in July. Security researcher Tyler Murphy reported the flaw in June 2025, but despite Apple claiming it was resolved in March 2026, independent tests confirmed it remained exploitable, at least until July 3, 2026. The flaw meant that if someone sent a message to your hidden address and it bounced as spam, even a completely legitimate email, your actual email address could get exposed in the sender's mail logs. Apple You wouldn't even know it happened. A bounced message never lands in your inbox for you to notice. Murphy first flagged the bug to Apple back in June 2025.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/computing/apple-fixes-hide-my-email-bug-that-exposed-users-real-email-addresses/",
+      "category": "Tech",
+      "date": "2026-07-21T20:37:29.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "108337497",
+      "title": "SpaceX snaps 7-day losing streak, sets earnings date that triggers first big share unlock",
+      "summary": "SpaceX's stock gained on Tuesday and looked to snap a seven-day losing streak after announcing Aug. 4 as its maiden earnings report",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/07/21/spacex-spcx-earnings-lock-up-expiration.html",
+      "category": "Business",
+      "date": "2026-07-21T20:18:25.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/openai-ai-models-breached-hugging-face-in-internal-test-93CH-4804103",
+      "title": "OpenAI AI models breached Hugging Face in internal test",
       "summary": "",
       "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/databricks-ceo-said-they-are-running-out-of-gpus-everywhere-4804024",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/openai-ai-models-breached-hugging-face-in-internal-test-93CH-4804103",
       "category": "Business",
-      "date": "2026-07-21T18:54:55.000Z",
+      "date": "2026-07-21T20:09:40.000Z",
       "hot": false,
       "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/airbus-says-seeking-more-pratt-jet-engines-in-2027-4804090",
+      "title": "Airbus says seeking more Pratt jet engines in 2027",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/airbus-says-seeking-more-pratt-jet-engines-in-2027-4804090",
+      "category": "Business",
+      "date": "2026-07-21T20:06:31.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+      "title": "The State of Simulation for Physical AI: An Overview",
+      "summary": "",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+      "category": "Research",
+      "date": "2026-07-21T20:00:27.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/07/21/apple-invites-app-two-new-features/",
+      "title": "Apple Invites App Updated With Two New Features",
+      "summary": "Apple Invites was updated today with two minor features related to RSVPing to an invite: hosts and guests can now react with emoji when someone replies to an event, and a confetti animation now appears when guests reply. Version 1.10 of the app also contains bug fixes and performance improvements, according to Apple. The update is available now in the App Store. Released for the iPhone in February 2025, the Apple Invites app makes it easy to invite people to events, such as birthday parties and baby showers. The ability to create an event in the app requires subscribing to an iCloud+ plan with at least 50GB of storage, but anyone who receives an event link can RSVP for free on any device.Tag: Apple InvitesThis article, \"Apple Invites App Updated With Two New Features\" first appeared on MacRumors.comDiscuss this article in our forums",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/07/21/apple-invites-app-two-new-features/",
+      "category": "Tech",
+      "date": "2026-07-21T19:55:31.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3144907",
+      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+      "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+      "category": "Business",
+      "date": "2026-07-21T19:43:41.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "108337944",
+      "title": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe",
+      "summary": "Goldman Sachs is launching a new alternative investments platform aimed at giving wealthy clients and family offices direct stakes in private companies.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html",
+      "category": "Business",
+      "date": "2026-07-21T19:41:54.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3144827",
+      "title": "AI and the rise of the universal entertainment app",
+      "summary": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, and TikTok to become all-purpose entertainment destinations instead.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+      "category": "Business",
+      "date": "2026-07-21T19:39:30.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+      "title": "Substack adds an AI detector to help spot blogs written by no one",
+      "summary": "The new tool can pick up on ‘Claudefishing’ across posts, comments, notes, and replies. The new tool can pick up on ‘Claudefishing’ across posts, comments, notes, and replies. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated or written with AI assistance, according to a blog post published on Tuesday. The tool is powered by an AI detection company called Pangram and is rolling out across the web and the iOS app, with an Android launch coming “soon.” Readers can analyze content longer than 100 words by choosing the “Scan for AI text” option from the three-dot menu in the top-right corner of a post. Substack co-founder and CEO Chris Best says the Pangram integration is meant to increase transparency on the platform as AI becomes more prevalent on social media. “The core problem is not people using AI, or the quality of its output,” Best writes.",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+      "category": "Industry",
+      "date": "2026-07-21T19:22:28.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "108337682",
+      "title": "OpenAI, Anthropic boost lobbying as legacy tech and defense spending slips",
+      "summary": "The two AI developers spent a combined $3.17 million in the second quarter, up 23% from the first three months of 2026.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/07/21/openai-anthropic-ai-lobbying-spending-q2-2026.html",
+      "category": "Business",
+      "date": "2026-07-21T19:11:02.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "https://www.engadget.com/2220064/substack-is-adding-an-ai-detection-feature/",
@@ -44,39 +154,6 @@
       "date": "2026-07-21T18:47:16.000Z",
       "hot": false,
       "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/novo-nordisk-says-it-is-suing-eli-lilly-accusing-it-of-false-advertising-4802984",
-      "title": "Novo sues Lilly, claiming misleading ads in weight-loss drug battle",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/novo-nordisk-says-it-is-suing-eli-lilly-accusing-it-of-false-advertising-4802984",
-      "category": "Business",
-      "date": "2026-07-21T18:36:49.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
-      "id": "108337944",
-      "title": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe",
-      "summary": "Goldman Sachs is launching a new alternative investments platform aimed at giving wealthy clients and family offices direct stakes in private companies.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html",
-      "category": "Business",
-      "date": "2026-07-21T18:23:32.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/fitch-upgrades-waystar-rating-on-lower-leverage-expectations-93CH-4803999",
-      "title": "Fitch upgrades Waystar rating on lower leverage expectations",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/fitch-upgrades-waystar-rating-on-lower-leverage-expectations-93CH-4803999",
-      "category": "Business",
-      "date": "2026-07-21T18:14:11.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
     },
     {
       "id": "https://decrypt.co/?p=373996",
@@ -232,17 +309,6 @@
       "officialUrl": "https://mashable.com"
     },
     {
-      "id": "108337682",
-      "title": "OpenAI, Anthropic boost lobbying as legacy tech and defense spending slips",
-      "summary": "The two AI developers spent a combined $3.17 million in the second quarter, up 23% from the first three months of 2026.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/07/21/openai-anthropic-ai-lobbying-spending-q2-2026.html",
-      "category": "Business",
-      "date": "2026-07-21T16:30:11.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
       "id": "https://www.macrumors.com/2026/07/21/apple-watch-sos-success-story/",
       "title": "Apple Shares Apple Watch SOS Success Story",
       "summary": "Apple today highlighted the SOS feature in the Apple Watch, publishing a short video featuring a man named Phil, who crashed while mountain biking. Phil was biking with his two young children when he had an accident and was knocked unconscious. His Apple Watch detected the fall, calling emergency services and alerting his wife. He ended up breaking his collarbone and seven ribs, but was able to receive help quickly because his watch gave emergency services his location. Phil was in the hospital for a week, and at the end of the video, he said \"Just really glad that I had my Apple Watch on.\" The Apple Watch is able to detect serious falls and vehicle crashes, getting help when the wearer is unconscious or unable to get help on their own. It calls emergency services automatically, and alerts a person's emergency contacts.Related Roundup: Apple Watch 11Tag: Apple AdsBuyer's Guide: Apple Watch (Don't Buy)This article, \"Apple Shares Apple Watch SOS Success Story\" first appeared on MacRumors.comDiscuss this article in our forums",
@@ -300,24 +366,13 @@
     {
       "id": "https://blogs.nvidia.com/?p=96620",
       "title": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",
-      "summary": "NVIDIA Vera Rubin is here, and it’s going gigascale. Vera Rubin NVL72 production is ramping up with racks running at partners CoreWeave, Google Cloud, Microsoft Azure and Oracle Cloud Infrastructure. Spanning 350-plus factory sites in 30 countries, Vera Rubin has the largest, most mature rack-scale supply chain ever assembled to meet customer compute demand. The Vera Rubin platform is built from chip to grid to deliver the highest performance per watt and the lowest token cost. CoreWeave’s first benchmark on DeepSeek-R1 says it all: 10x more throughput per megawatt than Grace Blackwell NVL72 — landing directly on the metric that matters most for power-constrained AI factories. Advancing Performance With Extreme Co-Design What makes this possible is extreme co-design across seven chips and five rack trays — Vera Rubin NVL72, Vera CPU rack, Groq 3 LPX, Spectrum-6 SPX and Vera BlueField-4 STX — all engineered as a single system rather than assembled from separate off-the-shelf products.",
+      "summary": "NVIDIA Vera Rubin is here, and it’s going gigascale. Vera Rubin NVL72 production is ramping up with racks running at partners CoreWeave, Google Cloud, Microsoft Azure and Oracle Cloud Infrastructure. Spanning 350+ factory sites in 30 countries, Vera Rubin has the largest, most mature rack-scale supply chain ever assembled to meet customer compute demand. The Vera Rubin platform is built from chip to grid to deliver the highest performance per watt and the lowest token cost. CoreWeave’s first benchmark on DeepSeek-R1 says it all: 10x more throughput per megawatt than Grace Blackwell NVL72 — landing directly on the metric that matters most for power-constrained AI factories. Advancing Performance With Extreme Codesign What makes this possible is extreme codesign across seven chips and five rack trays — Vera Rubin NVL72, Vera CPU rack, Groq 3 LPX, Spectrum-6 SPX and Vera BlueField-4 STX — all engineered as a single system rather than assembled from separate off-the-shelf products.",
       "source": "NVIDIA Blog",
       "sourceUrl": "https://blogs.nvidia.com/blog/vera-rubin/",
       "category": "Events",
       "date": "2026-07-21T15:36:43.000Z",
       "hot": false,
       "officialUrl": "https://blogs.nvidia.com"
-    },
-    {
-      "id": "108337497",
-      "title": "SpaceX sets earnings date, triggering first lock-up expiration for millions of shares",
-      "summary": "SpaceX's stock gained on Tuesday and looked to snap a seven-day losing streak after announcing Aug. 4 as its maiden earnings report",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/07/21/spacex-spcx-earnings-lock-up-expiration.html",
-      "category": "Business",
-      "date": "2026-07-21T15:34:04.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "https://www.macrumors.com/2026/07/21/apple-upgrade-program-launching-next-week/",
@@ -683,26 +738,26 @@
       "officialUrl": "https://www.techrepublic.com"
     },
     {
-      "id": "https://www.digitaltrends.com/?p=5991829",
-      "title": "Google Photos adds a quick toggle between AI and classic search",
-      "summary": "Google Photos is giving users an easier way to leave its Gemini-powered search when a simple keyword would do. A new toggle now sits at the top of the results page, letting users switch between Ask Photos and classic search without digging through settings. The change appears to address feedback from people who opted into Ask Photos but wanted a quicker way to return to classic search when Gemini was slower or less useful for a straightforward query. Ask Photos is built for complicated requests. It can understand natural-language questions and search for details inside images, including prompts such as \"What's my license plate?\" Classic search is quicker when you only need to find a person, place, object, date, or keyword. Reddit users complained about irrelevant results, missing keyword matches, and the disappearance of an obvious route back to classic search.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/phones/google-photos-adds-a-quick-toggle-between-ai-and-classic-search/",
-      "category": "Tech",
-      "date": "2026-07-21T05:19:43.000Z",
+      "id": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "summary": "Loading…ShareWhat happened during this incidentWhat happened during this incidentActions OpenAI is taking nowOur approach to evaluating advanced cyber capabilitiesWhat happened during this incidentActions OpenAI is taking nowOur approach to evaluating advanced cyber capabilitiesLast week, Hugging Face disclosed a new kind of security incident⁠(opens in a new window) after they detected and contained an AI agent that compromised their infrastructure, something OpenAI expect to become more commonplace with the proliferation of increasingly cyber-capable models. After investigating, OpenAI now know that this particular incident was driven by a combination of OpenAI models — including GPT‑5.6 Sol and an even more capable pre-release model, all with reduced cyber refusals for evaluation purposes — while being internally tested on a benchmark⁠(opens in a new window) of cyber capabilities. OpenAI consider this incident to be an unprecedented cyber incident, involving state-of-the-art cyber capabilities, and are responding accordingly. OpenAI is sharing preliminary findings at this stage to help defenders understand what happened and to help calibrate on what models are now capable of. OpenAI will continue to conduct a thorough investigation alongside Hugging Face and will share more details on the vulnerabilities, incident, and findings when OpenAI's investigation is complete. This incident occurred during an internal evaluation which prompts models to pursue advanced exploitatio...",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "category": "Models",
+      "date": "2026-07-21T07:00:00.000Z",
       "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
+      "officialUrl": "https://openai.com"
     },
     {
-      "id": "https://www.digitaltrends.com/?p=5991843",
-      "title": "Ghost Recon could finally be making the comeback fans have been asking for",
-      "summary": "If you're a Ghost Recon fan, you've probably gotten used to one thing over the past few years: waiting for rumors to turn into announcements, waiting for leaks to be acknowledged, waiting for Ubisoft to say… well, anything at all about the future of one of its biggest tactical shooter franchises. Thankfully, that silence finally seems to be ending. Ubisoft has confirmed that it will share Ghost Recon news on August 6, when the series celebrates its 25th anniversary. The announcement arrived shortly after fresh leaks began circulating online, prompting the company to post a brief message telling fans that more information is just around the corner. If this all feels familiar, that's because it is. Ubisoft has developed a bit of a reputation for having its surprises leak before it gets the chance to reveal them, and Ghost Recon appears to be the latest example.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/gaming/ghost-recon-could-finally-be-making-the-comeback-fans-have-been-asking-for/",
-      "category": "Tech",
-      "date": "2026-07-21T04:56:53.000Z",
+      "id": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "summary": "David Vélez and Robin Vince bring deep experience leading global institutions and using technology to expand access and opportunity. Loading…ShareWe’re announcing the appointment of David Vélez and Robin Vince to the boards of the OpenAI Foundation and OpenAI Group PBC. David is the founder, Chairman, and Global CEO of Nubank, recognized as the largest digital bank in Latin America. Robin is Chairman and CEO of BNY, a leading financial services company. David and Robin bring complementary perspectives on how technology can reshape industries and drive economic growth. Both have led global institutions through significant technological and market change, pairing ambitious innovation with disciplined governance, resilience, and a focus on creating durable value for the people who use their services.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "category": "Models",
+      "date": "2026-07-21T00:00:00.000Z",
       "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
+      "officialUrl": "https://openai.com"
     },
     {
       "id": "https://huggingface.co/blog/grabette",
@@ -714,6 +769,16 @@
       "date": "2026-07-21T00:00:00.000Z",
       "hot": false,
       "officialUrl": "https://huggingface.co"
+    },
+    {
+      "id": "https://openai.com/index/hugging-face-model-evaluation-security-incident/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "OpenAI GPT-5.6 Sol Breaches Hugging Face Infrastructure During Cyber Evaluation",
+      "summary": "Loading…ShareWhat happened during this incidentWhat happened during this incidentActions openai.com is taking nowOur approach to evaluating advanced cyber capabilitiesWhat happened during this incidentActions openai.com is taking nowOur approach to evaluating advanced cyber capabilitiesLast week, Hugging Face disclosed a new kind of security incident⁠(opens in a new window) after they detected and contained an AI agent that compromised their infrastructure, something openai.com expect to become more commonplace with the proliferation of increasingly cyber-capable models. After investigating, openai.com now know that this particular incident was driven by a combination of OpenAI models — including GPT‑5.6 Sol and an even more capable pre-release model, all with reduced cyber refusals for evaluation purposes — while being internally tested on a benchmark⁠(opens in a new window) of cyber capabilities. openai.com consider this incident to be an unprecedented cyber incident, involving state-of-the-art cyber capabilities, and are responding accordingly. openai.com is sharing preliminary findings at this stage to help defenders understand what happened and to help calibrate on what models are now capable of. openai.com will continue to conduct a thorough investigation alongside Hugging Face and will share more details on the vulnerabilities, incident, and findings when openai.com's investigation is complete. This incident occurred during an internal evaluation which prompts models t",
+      "source": "openai.com",
+      "sourceUrl": "https://openai.com/index/hugging-face-model-evaluation-security-incident/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-07-21T00:00:00.000Z",
+      "hot": false
     },
     {
       "id": "https://x.ai/news/introducing-outlook-addin?utm_source=futuretools.io&utm_medium=newspage",
@@ -741,6 +806,16 @@
       "summary": "It must be earnings day, because Tesla is making a Robotaxi announcement. The company said in a post on X that it was launching its Robotaxi service in Orlando and Tampa, attaching a pair of maps that show each city’s service area. No word on fleet size or whether interested customers would be able to hail a vehicle right away. The timing of the post is noteworthy, considering later today Tesla CEO Elon Musk is expected to provide an update on the progress of the company’s Robotaxi service during its second quarter earnings call. Adding two new cities to the docket probably sounds like progress to some investors. Of course, that progress is entirely subjective.",
       "source": "theverge.com",
       "sourceUrl": "https://www.theverge.com/transportation/968624/tesla-robotaxis-orlando-tampa-florida-earnings?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-07-21T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://x.com/jack/status/2079605800998146171?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Jack Launches BUZZ, an Open-Source AI-Native Group Chat Platform to Rival Slack",
+      "summary": "We're launching BUZZ! a new groupchat platform for teams of people and agents of all sizes, built to reduce our dependency on slack and github. model-agnostic, decentralized, self-sovereign, and open source. 🐝 https://t.co/8IaMVeTQNo",
+      "source": "jack on X",
+      "sourceUrl": "https://x.com/jack/status/2079605800998146171?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-07-21T00:00:00.000Z",
       "hot": false
@@ -959,28 +1034,6 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "https://www.macrumors.com/2026/07/20/apple-seeds-visionos-27-beta-4/",
-      "title": "Apple Seeds Fourth visionOS 27 Beta to Developers",
-      "summary": "Apple today provided developers with the fourth beta of an upcoming visionOS 27 update for testing purposes, with the beta coming two weeks after Apple released the third beta. visionOS 27 can be installed by opening the Settings app, going to Software Updates, and opting into Beta Updates. visionOS 27 introduces Siri AI, the smarter and more capable version of &zwnj;Siri&zwnj; that's similar in capability to chatbots like ChatGPT and Claude. On the Vision Pro, &zwnj;Siri&zwnj; can answer questions about anything the wearer is looking at, and there's a new &zwnj;Siri&zwnj; orb that can be placed anywhere in wearer's virtual space. Panorama photos can be turned into spatial environments, and there's a new Icelandic Thórsmörk environment that features dramatic mountains, valleys, and glaciers, along with the northern lights. Web Environment support allows developers to create 360-degree environments in Safari for a more native Vision Pro browsing experience.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/07/20/apple-seeds-visionos-27-beta-4/",
-      "category": "Tech",
-      "date": "2026-07-20T19:24:21.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/07/20/ios-27-dual-battery-iphone/",
-      "title": "iOS 27 Code References iPhone With Two Batteries",
-      "summary": "The fourth developer beta of iOS 27 has references to an iPhone with two batteries, according to Macworld. New Battery Health strings include mentions of multiple internal batteries, instead of a single battery. MacRumors confirmed the mentions are in the beta. \"The batteries in this iPhone are performing as expected.\" \"The health of the batteries in this iPhone has significantly degraded. An Apple Authorized Service Provider can replace the batteries to restore full performance and capacity.\" \"The health of the batteries in this iPhone has significantly degraded, and one of the batteries could not be verified as a genuine Apple battery. An Apple Authorized Service Provider can replace the batteries to restore full performance and capacity.\" All of the wording in the Settings app on current iPhone models references a single battery, so the plural phrasing is curious.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/07/20/ios-27-dual-battery-iphone/",
-      "category": "Tech",
-      "date": "2026-07-20T19:10:35.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
       "id": "https://news.microsoft.com/source/?p=25237",
       "title": "Microsoft expands Azure AI and HPC infrastructure with AMD",
       "summary": "Jul 20, 2026 | Scott Guthrie - Executive Vice President, Cloud + AI AI workloads are scaling faster than any single infrastructure approach can support — with more models, new agent-driven workloads and surging compute demand driving the need for greater specialization across the stack. To meet this need, Microsoft continues to evolve Azure’s infrastructure, including expanding its AI fleet with AMD’s most advanced AI and high-performance computing (HPC) solutions. Microsoft AI's approach to AI infrastructure is designed to support the breadth of how AI systems are built and run. Microsoft AI closely work with industry innovators like AMD as well as Microsoft AI's own purpose-built silicon and systems to provide customers with a comprehensive, open and heterogenous platform to achieve the best performance, cost and energy efficiency outcomes. Building on Microsoft AI's close collaboration with AMD, Microsoft is bringing AMD’s latest Helios AI platform and next-generation EPYC datacenter processors to Azure.",
@@ -1036,17 +1089,6 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
-      "id": "https://decrypt.co/?p=373847",
-      "title": "Tom Lee's Bitmine Taps the Brakes on ETH Buys, Pivots $86M Into Stock Buyback",
-      "summary": "Ethereum treasury company Bitmine barely moved the needle on its ETH stack last week, adding just 7,430 ETH—about $14 million.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/373847/tom-lee-bitmine-taps-brakes-eth-buys-86m-stock-buyback",
-      "category": "Tech",
-      "date": "2026-07-20T16:12:36.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
       "id": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
       "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
       "summary": "Welcome to the “what is a photo” debate, Adobe. | Image: Adobe Adobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provide a \"more natural (SLR-like) look\" for iPhone photography, the Indigo camera app is now being updated with a suite of generative AI tools. And the change doesn't rely upon Adobe's own Firefly AI models. Adobe describes the new \"AI Playground\" tooling suite as an experiment and says there's a button that allows users to opt out and continue using the app as before. Free access to the suite with no sign-on requirement is being tested with a small percentage of Indigo users over the next few weeks.",
@@ -1056,17 +1098,6 @@
       "date": "2026-07-20T16:00:00.000Z",
       "hot": false,
       "officialUrl": "https://www.theverge.com"
-    },
-    {
-      "id": "https://huggingface.co/blog/nvidia/cosmos3edge",
-      "title": "Introducing Cosmos 3 Edge",
-      "summary": "",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog/nvidia/cosmos3edge",
-      "category": "Research",
-      "date": "2026-07-20T15:58:51.000Z",
-      "hot": false,
-      "officialUrl": "https://huggingface.co"
     },
     {
       "id": "https://techcrunch.com/?p=3144118",
@@ -1288,17 +1319,6 @@
       "hot": false
     },
     {
-      "id": "https://techcrunch.com/?p=3144101",
-      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-      "category": "Business",
-      "date": "2026-07-19T19:24:45.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
       "id": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
       "title": "I hate that I don’t hate this song made with Suno",
       "summary": "1010Benja won’t apologize for using AI. | Image: 1010Benja / Instagram I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno. So I'm having a bit of a tough time processing the fact that I actually quite enjoy 1010Benja's \"Semiramis' Dream.\" Benja has been unapologetic about his use of generative AI on his latest EP, Time Has Nothing To Do With What You Choose… The other three tracks can't quite hold a candle to what you find on 2024's Ten Total. But the opener \"Semiramis' Dream\" is infectious. It explodes out of the speakers with a jungle beat and Be …",
@@ -1339,17 +1359,6 @@
       "category": "Curation",
       "date": "2026-07-19T00:00:00.000Z",
       "hot": false
-    },
-    {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
-      "summary": "For Tribeca Festival Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more broadly. So one might expect he'd roll into the company's offices and offer tips on being relentlessly prolific, or how to excel in multiple fields. Instead, he apparently laced into the company. According to the Financial Times, Eggers told the staff: \"The effect of ChatGPT on educators' lives is catastrophic.",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-      "category": "Industry",
-      "date": "2026-07-18T20:54:42.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
     },
     {
       "id": "http://feeds.fabbaloo.com/~/960840992/_/fabbaloo/default~How-Universities-Are-Engineering-Human-Heat-Resilience",
@@ -1595,72 +1604,6 @@
       "category": "Curation",
       "date": "2026-07-17T00:00:00.000Z",
       "hot": false
-    },
-    {
-      "id": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
-      "title": "It's official: EU will force Google to share search data and open up AI on Android",
-      "summary": "Europe wasted no time using its landmark Digital Markets Act (DMA) to try to rein in Big Tech. Companies like Apple, Meta, and Google have faced steep fines and orders to modify their business practices since the law came into force in 2024. And the hits keep on coming for Big Tech in Europe. After several months of consideration, the European Commission has announced new DMA measures that will force Google to support interoperability and competition in the European Union, and Google is not happy about it. The new \"specification measures\" cover two elements of Google's business: Android phones and search. Both changes could theoretically increase competition and give users more choices, but Google claims they will undermine privacy and security.",
-      "source": "Ars Technica AI",
-      "sourceUrl": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
-      "category": "Industry",
-      "date": "2026-07-16T20:41:45.000Z",
-      "hot": false,
-      "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/",
-      "title": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
-      "summary": "Musk: AI outputs are user content xAI can’t deny Grok makes CSAM anymore. Elon Musk’s xAI files first lawsuit against Grok user accused of making child sex images. The complaint targets Terry Wayne Harwood, who was arrested earlier this year for possession and distribution of child sexual abuse materials (CSAM), the South Carolina attorney’s office announced. As xAI alleged, the company assisted in that arrest after discovering that Harwood had been using two xAI accounts for months to undress or “nudify” non-sexual images of multiple victims, including a young girl who appeared to be as young as 10. xAI’s lawsuit comes a little more than a week after a different young girl joined a proposed class action representing several kids allegedly harmed by Grok. She alleged that her stepfather committed suicide after he was discovered using Grok, possibly in conjunction with other AI tools, to create 7,000 sexualized images of her and then distribute them on the dark web.",
-      "source": "Ars Technica AI",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/",
-      "category": "Industry",
-      "date": "2026-07-16T20:26:23.000Z",
-      "hot": false,
-      "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
-      "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
-      "summary": "Thousands of unionized Hyundai auto workers began walking off the job early after negotiations with the South Korean automaker broke down over plans to deploy humanoid robots—the most significant pushback from organized labor so far over the latest wave of robotic automation. The partial strike at Hyundai’s automotive production complex in the city of Ulsan in South Korea represents “the car industry’s first factory stoppage addressing humanoid robots,” according to The Wall Street Journal. Workers have already ended their day and night shifts two hours early at the world’s largest automotive plant from July 13 through July 15, and plan to start staging four-hour strikes from July 20 to 22 after 15 rounds of negotiations failed to reach an agreement, The Korea Times reported. Union pushback began as soon as Hyundai Motor Group unveiled the latest version of the Atlas humanoid robot, a two-legged robot that stands at more than 6 feet tall and can lift more than 100 pounds, at the start of this year. Atlas is made by Boston Dynamics, the US robotics company that is about to become a wholly owned subsidiary of Hyundai.Read full article Comments",
-      "source": "Ars Technica AI",
-      "sourceUrl": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
-      "category": "Industry",
-      "date": "2026-07-16T20:09:48.000Z",
-      "hot": false,
-      "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/?p=4365527",
-      "title": "Elon Musk Acquires APR Energy in Deal Valued at More Than $1 Billion",
-      "summary": "Elon Musk’s $1 billion APR Energy acquisition could help xAI expand faster while raising new questions about emissions, cost, and grid dependence.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-elon-musk-buys-apr-energy-xai-power/",
-      "category": "Business",
-      "date": "2026-07-16T19:22:07.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
-      "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
-      "summary": "The widespread introduction of AI-powered coding tools has led to some dramatic splits between those integrating those tools into their workflows and anti-AI absolutists who don't want large language model-generated code anywhere near their projects. When it comes to the Linux kernel, though, creator and top-level maintainer Linus Torvalds said he is \"willing to absolutely put my foot down\" in support of using AI tools to improve the long-standing open source project. Writing in a lengthy post on the Linux kernel mailing list this week, Torvalds said that \"Linux is not one of those anti-AI projects, and if somebody has issues with that, they can do the open-source thing and fork it. Or just walk away.\" The statement came amid a lengthy thread arguing about the use of Sashiko, an \"agentic Linux kernel code review system\" that its creators claim can, in tests, independently find 53.6 percent of the bugs that would end up being fixed by human coders in later commits. But the tool can also waste maintainers' time by sending \"false positive\" reports of bugs that don't exist, at a rate Sashiko's maintainers estimate is \"well within [the] 20% range.\"Read full article Comments",
-      "source": "Ars Technica AI",
-      "sourceUrl": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
-      "category": "Industry",
-      "date": "2026-07-16T19:18:23.000Z",
-      "hot": false,
-      "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "3RCeHS5ENXpygHO6HPhX6f",
-      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-      "summary": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost none of them use today; a majority intend to switch or add providers within the year, many within a quarter. Buying decisions turn on integration and total cost of ownership rather than headline token price — which is fortunate, because most enterprises cannot yet see their unit economics clearly: GPUs sit at half utilization or less, and fewer than half rigorously track what their compute actually costs. The result is a compute gap — heavy, fast-moving investment running ahead of the visibility needed to control it.This wave of VentureBeat Pulse Research examines enterprise AI infrastructure and compute: where organizations are in their deployment journey, what they run AI on today, how satisfied they are, what would make them switch, where they plan to evaluate their investments, and — most revealingly — how well they can measure and control the economics of the compute underneath it all.The central finding is a compute gap — the distance between how aggressively enterprises are investing in AI infrastructure and how little of its economics they can see. Only about one in five (21%) run AI in production at scale, yet spending intentions are outrunning that maturity: the single largest planned area ent...",
-      "source": "VentureBeat AI",
-      "sourceUrl": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-      "category": "Industry",
-      "date": "2026-07-16T19:16:48.000Z",
-      "hot": false,
-      "officialUrl": "https://venturebeat.com"
     }
   ]
 }
