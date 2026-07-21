@@ -1,16 +1,115 @@
 {
-  "lastUpdated": "2026-07-21T22:00:01.006Z",
+  "lastUpdated": "2026-07-21T23:00:01.843Z",
   "news": [
     {
-      "id": "https://www.investing.com/news/stock-market-news/alaska-air-forecasts-quarterly-profit-below-estimates-as-jet-fuel-prices-stay-high-4804287",
-      "title": "Alaska Air forecasts quarterly profit below expectations as jet fuel prices stay high",
+      "id": "https://www.investing.com/news/stock-market-news/airbus-targets-adjusted-operating-profit-of-up-to-13-billion-in-2029-4803867",
+      "title": "Airbus targets near-doubling of earnings by 2029, launches buyback",
       "summary": "",
       "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/alaska-air-forecasts-quarterly-profit-below-estimates-as-jet-fuel-prices-stay-high-4804287",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/airbus-targets-adjusted-operating-profit-of-up-to-13-billion-in-2029-4803867",
       "category": "Business",
-      "date": "2026-07-21T21:43:32.000Z",
+      "date": "2026-07-21T22:55:06.000Z",
       "hot": false,
       "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "6a5fe022f95e7d91469f8f38",
+      "title": "OpenAI Models Escaped Containment and Hacked HuggingFace",
+      "summary": "OpenAI disclosed on Tuesday that it lost control of two AI models during a security test that ended in a breach of the open AI research platform HuggingFace. Describing the incident as “unprecedented,” OpenAI said its AI models broke out of a sealed testing environment last week and hacked into Hugging Face’s production system to steal the answers to a test they were being graded on. The models—the publicly available GPT-5.6 Sol and an unreleased, reportedly more capable one—were being evaluated on their offensive hacking skills with the safeguards that normally block high-risk cyber activity switched off. “The models identified and chained vulnerabilities across OpenAI’s research environment and Hugging Face’s production infrastructure to obtain test solutions directly from Hugging Face’s production database,” OpenAI and HuggingFace wrote in a joint blog post disclosing the intrusion. According to OpenAI and HuggingFace, the models escaped through a package registry cache proxy—software that allows developers to install outside code without connecting to the internet. The proxy was the only component in OpenAI’s isolated testing environment permitted to reach the outside world; in normal use that reach extends only to public code repositories.",
+      "source": "Wired AI",
+      "sourceUrl": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
+      "category": "Industry",
+      "date": "2026-07-21T22:50:01.000Z",
+      "hot": false,
+      "officialUrl": "https://www.wired.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/union-for-united-airlines-mechanics-other-staff-secures-inprinciple-pact-for-new-contract-4804405",
+      "title": "Union for United Airlines’ mechanics, other staff, secures in-principle pact for new contract",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/union-for-united-airlines-mechanics-other-staff-secures-inprinciple-pact-for-new-contract-4804405",
+      "category": "Business",
+      "date": "2026-07-21T22:42:30.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://blogs.nvidia.com/?p=96709",
+      "title": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
+      "summary": "The AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufacturing facility today in Fort Worth — a 324,000-square-foot greenfield plant producing superchips at the heart of some of the world’s most capable AI systems. In front of an audience of Wistron executives, Taiwan government officials and local Fort Worth leaders, NVIDIA founder and CEO Jensen Huang took the stage with Wistron Chairman Simon Lin at the factory’s opening ceremony to talk about what it means to build the infrastructure for the AI era in America. “Manufacturing is an essential pillar for every economy and every country,” Huang said.",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/",
+      "category": "Events",
+      "date": "2026-07-21T22:35:45.000Z",
+      "hot": false,
+      "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
+      "id": "108338141",
+      "title": "The Fed rang the alarm about Anthropic's Mythos AI model — but had to go months without it",
+      "summary": "The central bank didn't have access to Claude Mythos Preview as of mid-July, even as other institutions were racing to patch their vulnerabilities.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/07/21/fed-mythos-ai-cybersecurity-banks-project-glasswing.html",
+      "category": "Business",
+      "date": "2026-07-21T22:34:35.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/exclusiveboeing-asks-us-to-intervene-over-record-eu-loan-to-airbus-4802333",
+      "title": "Exclusive-Boeing asks US to intervene over record EU loan to Airbus",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/exclusiveboeing-asks-us-to-intervene-over-record-eu-loan-to-airbus-4802333",
+      "category": "Business",
+      "date": "2026-07-21T22:30:37.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "108338096",
+      "title": "Jim Cramer says this old-school investing concept still wins — even in the AI boom",
+      "summary": "CNBC's Jim Cramer urged investors to diversify beyond the market's hottest AI winners, warning that no single investment theme should dominate a portfolio.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/07/21/jim-cramer-investing-concept-wins-ai-boom.html",
+      "category": "Business",
+      "date": "2026-07-21T22:30:22.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+      "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
+      "summary": "No amount of clever editing can make this Seedance-generated mess interesting. No amount of clever editing can make this Seedance-generated mess interesting. On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that’s loosely based on Peter Watts’ 2014 novel Echopraxia. The short comes from Blomkamp’s new AI startup / production company, Barley Studios, and features characters whose voices and faces are modeled after human actors. But every single one of Nightborne’s shots was made with ByteDance’s Seedance 2.0 text-to-video generator. In an X post about the short, Blomkamp described it as a “test start” meant to demonstrate what generative AI is capable of, and he said that he wants “to tackle a full feature in this format” at some point in the future.",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+      "category": "Industry",
+      "date": "2026-07-21T22:06:43.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/nvidia-vera-rubin-shown-to-provide-10x-more-throughput-per-megawatt-than-blackwell-4804357",
+      "title": "Nvidia Vera Rubin shown to provide 10x more throughput per megawatt than Blackwell",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/nvidia-vera-rubin-shown-to-provide-10x-more-throughput-per-megawatt-than-blackwell-4804357",
+      "category": "Business",
+      "date": "2026-07-21T21:51:48.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+      "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+      "summary": "The announcement about a serious security issue oddly reads like an advertisement for how capable OpenAI’s technology is. The announcement about a serious security issue oddly reads like an advertisement for how capable OpenAI’s technology is. OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and “an even more capable pre-release model” discovered vulnerabilities within their sandboxed testing environment, allowing them to gain access to the internet and target Hugging Face. On July 16th, Hugging Face disclosed a security incident that it says was driven by “an autonomous AI agent system.” Hugging Face’s AI agents detected and stopped the breach, which OpenAI has now admitted occurred during an evaluation of its models’ cybersecurity capabilities. OpenAI says “all evidence suggests that the models were hyperfocused on finding a solution for ExploitGym,” a benchmark system that measures whether AI models can turn security vulnerabilities into exploits.",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+      "category": "Industry",
+      "date": "2026-07-21T21:48:54.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
     },
     {
       "id": "https://www.digitaltrends.com/?p=5992059",
@@ -33,39 +132,6 @@
       "date": "2026-07-21T21:29:03.000Z",
       "hot": false,
       "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/boeing-wins-43m-defense-contract-for-uae-aircraft-upgrades-93CH-4804335",
-      "title": "Boeing wins $43M defense contract for UAE aircraft upgrades",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/boeing-wins-43m-defense-contract-for-uae-aircraft-upgrades-93CH-4804335",
-      "category": "Business",
-      "date": "2026-07-21T21:28:51.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/raytheon-wins-497m-navy-contract-for-weapon-repairs-93CH-4804331",
-      "title": "Raytheon wins $49.7M Navy contract for weapon repairs",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/raytheon-wins-497m-navy-contract-for-weapon-repairs-93CH-4804331",
-      "category": "Business",
-      "date": "2026-07-21T21:26:27.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/us-senator-urges-wall-street-to-reject-troubling-paid-early-access-to-trump-posts-4804057",
-      "title": "US senator urges Wall Street to reject offer of paid early access to Trump posts",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/us-senator-urges-wall-street-to-reject-troubling-paid-early-access-to-trump-posts-4804057",
-      "category": "Business",
-      "date": "2026-07-21T21:26:04.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
     },
     {
       "id": "108338113",
@@ -211,6 +277,17 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+      "title": "Substack adds an AI detector to help spot blogs written by no one",
+      "summary": "The new tool can pick up on ‘Claudefishing’ across posts, comments, notes, and replies. The new tool can pick up on ‘Claudefishing’ across posts, comments, notes, and replies. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated or written with AI assistance, according to a blog post published on Tuesday. The tool is powered by an AI detection company called Pangram and is rolling out across the web and the iOS app, with an Android launch coming “soon.” Readers can analyze content longer than 100 words by choosing the “Scan for AI text” option from the three-dot menu in the top-right corner of a post. Substack co-founder and CEO Chris Best says the Pangram integration is meant to increase transparency on the platform as AI becomes more prevalent on social media. “The core problem is not people using AI, or the quality of its output,” Best writes.",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+      "category": "Industry",
+      "date": "2026-07-21T19:22:28.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
       "id": "https://www.engadget.com/2220064/substack-is-adding-an-ai-detection-feature/",
       "title": "Substack is adding an AI detection feature",
       "summary": "The company has partnered with Pangram for the new tools. Substack Substack has launched a new AI detection tool in partnership with Pangram. The tool can be used on text longer than 100 words that was published beginning today. Substack is also adding a new statement space for creators to explicitly share if and how they used AI for their content. The AI detection capabilities are available starting today on web and iOS, with Android support to come. The blog post announcing the feature is surprisingly spicy.",
@@ -264,6 +341,17 @@
       "date": "2026-07-21T17:59:05.000Z",
       "hot": false,
       "officialUrl": "https://rss.politico.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/article/news-google-water-stewardship-ai-data-centers/",
+      "title": "Google Bets Water Stewardship Can Ease AI Data Center Concerns",
+      "summary": "Google plans to replenish more freshwater than its data centers consume by 2030 as it expands water stewardship efforts amid growing AI infrastructure scrutiny.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-google-water-stewardship-ai-data-centers/",
+      "category": "Business",
+      "date": "2026-07-21T17:39:21.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
@@ -373,6 +461,17 @@
       "date": "2026-07-21T16:52:46.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/?p=4365951",
+      "title": "YouTube Tightens Monetization Rules for AI-Generated and Low-Quality Content",
+      "summary": "YouTube is clarifying monetization rules for repetitive AI-generated videos, synthetic personas, and low-effort content in its Partner Program.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-youtube-ai-video-monetization-rules/",
+      "category": "Business",
+      "date": "2026-07-21T16:49:38.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "021S9a2b4J6s01Ohqy520Dy",
@@ -1033,17 +1132,6 @@
       "officialUrl": "https://decrypt.co"
     },
     {
-      "id": "108337375",
-      "title": "Archer stock rips 20% higher as company unveils military craft with Anduril",
-      "summary": "Archer and its eVTOL peers are racing for FAA certification to start flying their air taxis commercially.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/07/20/archer-thunder-military-craft-anduril.html",
-      "category": "Business",
-      "date": "2026-07-20T20:02:29.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
       "id": "https://www.macrumors.com/2026/07/20/apple-watch-series-12-rumored-features/",
       "title": "Apple Watch Series 12 Coming in September With These New Features",
       "summary": "With the Apple Watch Series 12 now just two months away, we have created a recap of rumored new features, with some more likely than others. Below, we have outlined everything rumored so far for the Apple Watch Series 12. More Likely New Chip After One-Year Hiatus While the Apple Watch Series 11, Apple Watch Ultra 3, and Apple Watch SE 3 all contain the same S10 chip as the previous year's models, leaked Apple code showed the Apple Watch Series 12 will get a new chip. It is unclear if the chip will have S11 or S12 branding, but performance improvements are expected either way after a one-year hiatus. Longer Battery Life With the Apple Watch Series 12, Apple is focused on longer battery life, according to a known leaker on the Chinese social media platform Weibo. Apple says the Series 11 lasts up to 24 hours on a single charge, or up to 38 hours in Low Power Mode.",
@@ -1187,17 +1275,6 @@
       "officialUrl": "https://blogs.nvidia.com"
     },
     {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
-      "title": "China delivers a one-two punch to America’s AI dominance",
-      "summary": "Moonshot and Alibaba unveiled frontier models they claim rival OpenAI and Anthropic. Moonshot and Alibaba unveiled frontier models they claim rival OpenAI and Anthropic. China’s leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction of the cost. The rapid-fire releases suggest America’s lead at the AI frontier is increasingly tight, just as the technology is becoming central to national security, economic power, and geopolitical influence. The opening salvo came from Beijing-based Moonshot AI, one of China’s leading AI model developers, which unveiled Kimi K3 on Friday. Moonshot claims its own testing ranks it consistently above nearly every US system, trailing only OpenAI’s GPT-5.6 Sol and Anthropic’s Claude Fable 5, though it came out ahead on certain benchmarks.",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
-      "category": "Industry",
-      "date": "2026-07-20T10:16:33.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
       "id": "https://openai.com/index/safety-alignment-long-horizon-models",
       "title": "Safety and alignment in an era of long-horizon models",
       "summary": "What internal use of a long-running model taught OpenAI about safety. Loading…ShareModel persistence can expose security vulnerabilitiesModel persistence can expose security vulnerabilitiesFrom considering single actions to considering whole trajectoriesBuilding safeguards for long-running modelsRedeploymentFinal thoughtsModel persistence can expose security vulnerabilitiesFrom considering single actions to considering whole trajectoriesBuilding safeguards for long-running modelsRedeploymentFinal thoughtsSummaryLong-running models can solve difficult, open-ended problems, but their persistence gives them more opportunities to take unwanted actions. During limited internal use of a model trained for long-running tasks, OpenAI observed novel failures not captured in OpenAI's existing pre-deployment evaluations and paused access. OpenAI then used insights from these failures to build new evaluations, improve long-horizon alignment, add trajectory-level monitoring, and give users greater visibility and control before restoring limited access. The experience reinforced the value of iterative deployment. No fixed evaluation suite can anticipate every behavior, so pre-deployment testing must be paired with close monitoring, safeguards that can intervene, and the ability to pause or roll back when needed.",
@@ -1329,17 +1406,6 @@
       "hot": false
     },
     {
-      "id": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
-      "title": "I hate that I don’t hate this song made with Suno",
-      "summary": "1010Benja won’t apologize for using AI. | Image: 1010Benja / Instagram I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno. So I'm having a bit of a tough time processing the fact that I actually quite enjoy 1010Benja's \"Semiramis' Dream.\" Benja has been unapologetic about his use of generative AI on his latest EP, Time Has Nothing To Do With What You Choose… The other three tracks can't quite hold a candle to what you find on 2024's Ten Total. But the opener \"Semiramis' Dream\" is infectious. It explodes out of the speakers with a jungle beat and Be …",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
-      "category": "Industry",
-      "date": "2026-07-19T17:35:54.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
       "id": "http://feeds.fabbaloo.com/~/960934556/_/fabbaloo/default~Whos-The-Biggest-In-D-Printing-July",
       "title": "Who’s The Biggest In 3D Printing, July 19, 2026",
       "summary": "Once again we take a look at the valuations of the major 3D printing companies over the past week. The post Who’s The Biggest In 3D Printing, July 19, 2026 appeared on Fabbaloo.",
@@ -1369,17 +1435,6 @@
       "category": "Curation",
       "date": "2026-07-19T00:00:00.000Z",
       "hot": false
-    },
-    {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
-      "summary": "For Tribeca Festival Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more broadly. So one might expect he'd roll into the company's offices and offer tips on being relentlessly prolific, or how to excel in multiple fields. Instead, he apparently laced into the company. According to the Financial Times, Eggers told the staff: \"The effect of ChatGPT on educators' lives is catastrophic.",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-      "category": "Industry",
-      "date": "2026-07-18T20:54:42.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
     },
     {
       "id": "http://feeds.fabbaloo.com/~/960840992/_/fabbaloo/default~How-Universities-Are-Engineering-Human-Heat-Resilience",
@@ -1433,17 +1488,6 @@
       "sourceUrl": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
       "category": "Industry",
       "date": "2026-07-18T10:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "6a565c03b8b68a198bb73e44",
-      "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
-      "summary": "Prompt injections, the malicious commands attackers embed into content to entice large language models to follow them, have been attackers’ go-to tool for turning AI platforms against their users. A well-phrased command sneaked into an email or calendar invitation is often all it takes to cause the LLM to exfiltrate sensitive data or follow other harmful actions. Now, defenders are embracing the prompt injection, too. Researchers from Tracebit on Monday said they found that placing prompt injections alongside passwords, cryptographic keys, and other secrets stored on Amazon Web Services was often all that was needed to shut down attacks from AI hacking agents. The prompts direct the attacking LLM to perform an action forbidden by its guardrails, the safety barriers AI developers erect to prevent it from taking harmful actions. The LLM responds by shutting down.",
-      "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
-      "category": "Industry",
-      "date": "2026-07-18T09:00:00.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
     },
