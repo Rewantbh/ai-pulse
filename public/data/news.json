@@ -1,6 +1,50 @@
 {
-  "lastUpdated": "2026-07-21T23:00:01.843Z",
+  "lastUpdated": "2026-07-21T23:57:59.159Z",
   "news": [
+    {
+      "id": "https://techcrunch.com/?p=3145004",
+      "title": "Meta is testing an AI bedtime story app for people with no imagination",
+      "summary": "Meta's StoryKit app is only available in certain regions while the company tests how parents react to it.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+      "category": "Business",
+      "date": "2026-07-21T23:55:10.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "108337726",
+      "title": "Wall Street can wait: Why one U.S. biotech firm is listing in Hong Kong first",
+      "summary": "Global biotech firms are increasingly being drawn to Hong Kong for its growing investor base and proximity to Chinese pharmaceutical partners.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/07/22/axiom-aiosciences-ipo-listing-hong-kong.html",
+      "category": "Business",
+      "date": "2026-07-21T23:48:28.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/07/21/claude-code-ios-simulator/",
+      "title": "Claude Code Can Now Build and Test iOS Apps in Apple's Simulator",
+      "summary": "Anthropic today said Claude Code for desktop has been updated to work with the iOS Simulator, with the integration available in public beta. Claude Code can open in-progress apps in the iOS Simulator pane when it's instructed to build, run, or check an app. Claude can watch the iOS Simulator live as it runs, interact with it, and then iterate until a project is finished. Developers can continue to use the iOS Simulator as Claude works. The pane in Claude Code drives the simulator directly, and it does not need computer use, which lets Claude control the screen the way a person would. With direct access, it works without the macOS Accessibility and Screen Recording permissions required for computer use.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/07/21/claude-code-ios-simulator/",
+      "category": "Tech",
+      "date": "2026-07-21T23:46:44.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/alaska-air-forecasts-quarterly-profit-below-estimates-as-jet-fuel-prices-stay-high-4804287",
+      "title": "Fuel costs cloud Alaska Air’s outlook even as demand remains strong",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/alaska-air-forecasts-quarterly-profit-below-estimates-as-jet-fuel-prices-stay-high-4804287",
+      "category": "Business",
+      "date": "2026-07-21T23:36:30.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
     {
       "id": "https://www.investing.com/news/stock-market-news/airbus-targets-adjusted-operating-profit-of-up-to-13-billion-in-2029-4803867",
       "title": "Airbus targets near-doubling of earnings by 2029, launches buyback",
@@ -13,15 +57,15 @@
       "officialUrl": "https://www.investing.com"
     },
     {
-      "id": "6a5fe022f95e7d91469f8f38",
-      "title": "OpenAI Models Escaped Containment and Hacked HuggingFace",
-      "summary": "OpenAI disclosed on Tuesday that it lost control of two AI models during a security test that ended in a breach of the open AI research platform HuggingFace. Describing the incident as “unprecedented,” OpenAI said its AI models broke out of a sealed testing environment last week and hacked into Hugging Face’s production system to steal the answers to a test they were being graded on. The models—the publicly available GPT-5.6 Sol and an unreleased, reportedly more capable one—were being evaluated on their offensive hacking skills with the safeguards that normally block high-risk cyber activity switched off. “The models identified and chained vulnerabilities across OpenAI’s research environment and Hugging Face’s production infrastructure to obtain test solutions directly from Hugging Face’s production database,” OpenAI and HuggingFace wrote in a joint blog post disclosing the intrusion. According to OpenAI and HuggingFace, the models escaped through a package registry cache proxy—software that allows developers to install outside code without connecting to the internet. The proxy was the only component in OpenAI’s isolated testing environment permitted to reach the outside world; in normal use that reach extends only to public code repositories.",
-      "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
-      "category": "Industry",
-      "date": "2026-07-21T22:50:01.000Z",
+      "id": "02mB0QvDMHteQIApT8AA7oH",
+      "title": "Trump administration to spend $1 billion on new border surveillance system",
+      "summary": "More than a thousand new surveillance towers will be erected along U.S. borders, according to a recent Department of Homeland Security (DHS) assessment by the Government Accounting Office. The expanded autonomous surveillance plan, including tech upgrades to existing towers overseen by DHS, is estimated to cost around $1 billion and aims to be finished by 2034. Upon completion, the country's borders will boast 2,300 surveillance towers — it currently operates around 830, the Electronic Frontier Foundation reports. SEE ALSO: Google's AI Search is a minefield for schools The expenditure is part of the Customs and Border Protection's (CBP) consolidated Integrated Surveillance Tower (IST) program, which operates a network of intel-gathering towers and surveillance that detect \"items of interest\" along the border and in nearby towns. The towers are integrated into a central system accessible by agents.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/us-mexico-border-surveillance-towers",
+      "category": "Tech",
+      "date": "2026-07-21T22:52:45.000Z",
       "hot": false,
-      "officialUrl": "https://www.wired.com"
+      "officialUrl": "https://mashable.com"
     },
     {
       "id": "https://www.investing.com/news/stock-market-news/union-for-united-airlines-mechanics-other-staff-secures-inprinciple-pact-for-new-contract-4804405",
@@ -90,17 +134,6 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/nvidia-vera-rubin-shown-to-provide-10x-more-throughput-per-megawatt-than-blackwell-4804357",
-      "title": "Nvidia Vera Rubin shown to provide 10x more throughput per megawatt than Blackwell",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/nvidia-vera-rubin-shown-to-provide-10x-more-throughput-per-megawatt-than-blackwell-4804357",
-      "category": "Business",
-      "date": "2026-07-21T21:51:48.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
       "id": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
       "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
       "summary": "The announcement about a serious security issue oddly reads like an advertisement for how capable OpenAI’s technology is. The announcement about a serious security issue oddly reads like an advertisement for how capable OpenAI’s technology is. OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and “an even more capable pre-release model” discovered vulnerabilities within their sandboxed testing environment, allowing them to gain access to the internet and target Hugging Face. On July 16th, Hugging Face disclosed a security incident that it says was driven by “an autonomous AI agent system.” Hugging Face’s AI agents detected and stopped the breach, which OpenAI has now admitted occurred during an evaluation of its models’ cybersecurity capabilities. OpenAI says “all evidence suggests that the models were hyperfocused on finding a solution for ExploitGym,” a benchmark system that measures whether AI models can turn security vulnerabilities into exploits.",
@@ -131,7 +164,13 @@
       "category": "Tech",
       "date": "2026-07-21T21:29:03.000Z",
       "hot": false,
-      "officialUrl": "https://decrypt.co"
+      "officialUrl": "https://decrypt.co",
+      "relatedCoverage": [
+        {
+          "source": "Wired AI",
+          "url": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/"
+        }
+      ]
     },
     {
       "id": "108338113",
@@ -343,17 +382,6 @@
       "officialUrl": "https://rss.politico.com"
     },
     {
-      "id": "https://www.techrepublic.com/article/news-google-water-stewardship-ai-data-centers/",
-      "title": "Google Bets Water Stewardship Can Ease AI Data Center Concerns",
-      "summary": "Google plans to replenish more freshwater than its data centers consume by 2030 as it expands water stewardship efforts amid growing AI infrastructure scrutiny.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-google-water-stewardship-ai-data-centers/",
-      "category": "Business",
-      "date": "2026-07-21T17:39:21.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
       "id": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
       "title": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
       "summary": "Back in May, some authors fought to block the settlement, which was proposed after the court ruled that Anthropic training AI on books was fair use; however, its piracy of works was likely not. Authors opposing the settlement argued that lawyers’ fees were too high and authors’ payouts were too low. Hoping to avoid accepting the estimated $3,000-per-work payout and file separate lawsuits to seek higher damages, a handful of authors tried to opt out past the deadline. In her order, US District Judge Araceli Martínez-Olguín overruled objections to the settlement as lacking merit. She emphasized that about 95 percent of the class received notifications and approximately 91 percent of authors and publishers impacted have already filed claims. Only 350 class members opted out, while another 54 sought to object or filed late opt-out requests, Martínez-Olguín said.",
@@ -461,17 +489,6 @@
       "date": "2026-07-21T16:52:46.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/?p=4365951",
-      "title": "YouTube Tightens Monetization Rules for AI-Generated and Low-Quality Content",
-      "summary": "YouTube is clarifying monetization rules for repetitive AI-generated videos, synthetic personas, and low-effort content in its Partner Program.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-youtube-ai-video-monetization-rules/",
-      "category": "Business",
-      "date": "2026-07-21T16:49:38.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "021S9a2b4J6s01Ohqy520Dy",
@@ -648,17 +665,6 @@
       "date": "2026-07-21T14:15:29.000Z",
       "hot": false,
       "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "0268yBwx5YtjGh3DNNsE4Cp",
-      "title": "Its never been this cheap to upgrade to the 65-inch LG OLED AI B6 4K TV",
-      "summary": "SAVE $400: The 65-inch LG OLED AI B6 4K TV is on sale at Amazon for $1,599.99, down from the list price of $1,999.99. That's a 20% discount and the lowest we've seen at Amazon. Opens in a new window Credit: LG 65-inch LG OLED AI B6 4K TV $1,599.99 at Amazon $1,999.99 Save $400 Get Deal Now that the World Cup is over, we're all experiencing a touch of the TV blues. What should we watch tonight? We're slowly getting back to watching the shows we were watching before soccer/football took over the screen. But if you've noticed your TV is no longer as clear or crisp as you'd like, it might be time for a new model.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/july-21-lg-oled-65-inch-deal",
-      "category": "Tech",
-      "date": "2026-07-21T14:15:25.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
     },
     {
       "id": "https://www.digitaltrends.com/?p=5991954",
@@ -1099,17 +1105,6 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "108337416",
-      "title": "Trump administration's head of AI safety agency resigns after 3 months on job",
-      "summary": "Arvind Raman, the director of National Institute of Standards and Technology, will serve as acting director of CAISI, according to a spokesperson",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/07/20/trumps-head-of-ai-safety-agency-caisi-resigns-after-months-on-job.html",
-      "category": "Business",
-      "date": "2026-07-20T20:26:20.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
       "id": "0000019f-8126-d1ae-a3bf-c3b605bf0007",
       "title": "Cruz and Blackburn meet Trump to discuss tech policy",
       "summary": "The meeting came ahead of a markup planned for next week on AI policy and kids online safety measures.",
@@ -1130,17 +1125,6 @@
       "date": "2026-07-20T20:02:33.000Z",
       "hot": false,
       "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/07/20/apple-watch-series-12-rumored-features/",
-      "title": "Apple Watch Series 12 Coming in September With These New Features",
-      "summary": "With the Apple Watch Series 12 now just two months away, we have created a recap of rumored new features, with some more likely than others. Below, we have outlined everything rumored so far for the Apple Watch Series 12. More Likely New Chip After One-Year Hiatus While the Apple Watch Series 11, Apple Watch Ultra 3, and Apple Watch SE 3 all contain the same S10 chip as the previous year's models, leaked Apple code showed the Apple Watch Series 12 will get a new chip. It is unclear if the chip will have S11 or S12 branding, but performance improvements are expected either way after a one-year hiatus. Longer Battery Life With the Apple Watch Series 12, Apple is focused on longer battery life, according to a known leaker on the Chinese social media platform Weibo. Apple says the Series 11 lasts up to 24 hours on a single charge, or up to 38 hours in Low Power Mode.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/07/20/apple-watch-series-12-rumored-features/",
-      "category": "Tech",
-      "date": "2026-07-20T20:00:46.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "https://techcrunch.com/?p=3144370",
@@ -1207,17 +1191,6 @@
       "date": "2026-07-20T16:00:00.000Z",
       "hot": false,
       "officialUrl": "https://www.theverge.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3144118",
-      "title": "Adobe camera app’s new feature will critique your photos using AI",
-      "summary": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
-      "category": "Business",
-      "date": "2026-07-20T15:45:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
     },
     {
       "id": "https://blogs.nvidia.com/?p=96137",
