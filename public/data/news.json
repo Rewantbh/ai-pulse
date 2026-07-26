@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2026-07-26T14:26:13.465Z",
+  "lastUpdated": "2026-07-26T15:42:29.098Z",
   "news": [
+    {
+      "id": "https://www.macrumors.com/2026/07/26/apple-upgrade-program-launching-tuesday/",
+      "title": "'Apple Upgrade' Program Launching on Tuesday",
+      "summary": "Apple will stop accepting iPhone Upgrade Program sign-ups on the same day, but he said customers who are already enrolled will be able to remain in the program \"for the time being.\" Apple is partnering with buy-now, pay-later company Klarna on the program, he said. The program will allow you to lease most iPhone, iPad, Mac, and Apple Watch models, with a 24-month term for iPhones and Apple Watches and a 36-month term for iPads and Macs. Customers will have various options, including returning their device after the term, upgrading to a newer device, paying a fee to keep the device, and so forth. Some lower-priced devices, including the Apple Watch SE, the entry-level iPad, the iPhone 16, and the MacBook Neo, will not be eligible, he said. Unlike the iPhone Upgrade Program, Apple Upgrade plans will apparently not include AppleCare+ coverage bundled into the monthly price. Apple plans to advertise the program as a way to have lower monthly payments compared to current financing programs, according to the report, so it sounds like Apple Upgrade will be focused on leasing rather than traditional financing, and it will apparently replace the iPhone Upgrade Program for new purchases going forward.Tags: Apple Upgrade Program, Mark GurmanThis article, \"'Apple Upgrade' Program Launching on Tuesday\" first appeared on MacRumors.comDiscuss this article in our forums",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/07/26/apple-upgrade-program-launching-tuesday/",
+      "category": "Tech",
+      "date": "2026-07-26T15:20:00.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/07/26/apple-watch-series-12-ultra-4-features-rumors/",
+      "title": "What to Expect From Apple Watch Series 12 and Apple Watch Ultra 4",
+      "summary": "'s Mark Gurman today outlined what to expect from the Apple Watch Series 12 and Apple Watch Ultra 4 this year. While it was rumored that Touch ID may be coming to the Apple Watch Series 12, Gurman said he does not expect the Series 12 or Ultra 4 to have any major design changes compared to the current Series 11 and Ultra 3 models. Touch ID probably counts as a major design change, so the rumor now sounds increasingly unlikely. Another sketchy rumor claimed that the Series 12 will have a band with an embedded health sensor, but Gurman did not mention that. Instead, he expects more ordinary changes, including faster performance and unspecified improvements to health and fitness tracking. Currently, the Series 11 has an S10 chip like the Series 10, while the Ultra 3 has an S9 chip.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/07/26/apple-watch-series-12-ultra-4-features-rumors/",
+      "category": "Tech",
+      "date": "2026-07-26T15:07:27.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
     {
       "id": "https://decrypt.co/?p=373884",
       "title": "Mira Murati’s Inkling AI Model Review: Best Open-Source Model in the West",
@@ -948,17 +970,6 @@
       "officialUrl": "https://www.techrepublic.com"
     },
     {
-      "id": "https://www.macrumors.com/2026/07/24/claude-voice-mode-opus-sonnet-model-support/",
-      "title": "Claude Voice Mode Gains Opus and Sonnet Model Support",
-      "summary": "Anthropic has updated Claude's voice mode to support its more powerful Opus and Sonnet models, expanding a feature that was previously limited to the company's fastest-but-simplest model, Haiku. Voice mode lets users hold full spoken conversations with the chatbot rather than having to type prompts and read responses. Users can switch between Claude's models mid-conversation, and can also move between text and voice in the same chat without losing context. With the addition of Opus and Sonnet support, users will be able to hold longer and more complex conversations, including providing feedback on the communication style. In addition, Claude's Voice mode can now also tap into connected tools like Gmail, Google Calendar, Google Docs, and Slack, so Claude can check a calendar or summarize an email thread out loud, for example. Users with free accounts can connect one tool, whereas paid plans support more.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/07/24/claude-voice-mode-opus-sonnet-model-support/",
-      "category": "Tech",
-      "date": "2026-07-24T12:10:49.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
       "id": "https://elevenlabs.io/blog/elections",
       "title": "Strengthening and protecting elections",
       "summary": "CompanyStrengthening and protecting electionsPublishedJul 24, 2026ListenListen to this article The democratic process works best when every eligible voter can take part. But too often, people can’t access information about how to register, where to vote, and what candidates stand for in a language and format they understand. For many citizens who are visually impaired, have low literacy levels, or aren’t native speakers, traditional election emails and printed leaflets are simply inaccessible. In the face of these communication barriers, voice AI can be an incredibly powerful tool for democracy. It can read information aloud for the visually impaired, answer questions in a citizen’s preferred language or dialect, and turn dense official documents into a spoken conversation.",
@@ -1093,7 +1104,7 @@
     {
       "id": "https://www.anthropic.com/research/project-pilot?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Anthropic's Drone-Bench Tests AI Models on Autonomous Drone Surveillance Tasks",
-      "summary": "Several of anthropic.com's research projects over the last year have looked at how frontier models interact with the physical world. In Project Vend, AI models ran a small shop; Project Fetch was an early look at robots as the intermediary between digital models and physical objects. As anthropic.com recently noted in Project Fetch: Phase two, anthropic.com is already seeing improvements in model capability such that their ability to use off-the-shelf robots is on track to approach the ease with which coding agents use software tools. anthropic.com expect AI models to become broadly capable at many things that humans can do. Operating hardware, in particular robots, is one such capability. Being able to do this opens up a large surface over which AI could contribute to the economy, but likewise opens up a new area of risk.",
+      "summary": "Anthropic and Andon Labs have released Drone-Bench, a new benchmark testing AI models on autonomous drone surveillance tasks including locating and following a specific person in an indoor office environment. Tested across 15 models from multiple developers, the benchmark decomposes the task into five sub-tasks: reconstruct, localize, navigate, detect, and follow. Claude Fable 5 performed best, exceeding the human baseline on four of five tasks but failing at 3D reconstruction, which prevented autonomous room-to-room navigation on a real drone.",
       "source": "anthropic.com",
       "sourceUrl": "https://www.anthropic.com/research/project-pilot?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
@@ -1964,39 +1975,6 @@
       "date": "2026-07-21T16:58:25.000Z",
       "hot": false,
       "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://blogs.nvidia.com/?p=96620",
-      "title": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",
-      "summary": "NVIDIA Vera Rubin is here, and it’s going gigascale. Vera Rubin NVL72 production is ramping up with racks running at partners CoreWeave, Google Cloud, Microsoft Azure and Oracle Cloud Infrastructure. Spanning 350+ factory sites in 30 countries, Vera Rubin has the largest, most mature rack-scale supply chain ever assembled to meet customer compute demand. The Vera Rubin platform is built from chip to grid to deliver the highest performance per watt and the lowest token cost. CoreWeave’s first benchmark on DeepSeek-R1 says it all: 10x more throughput per megawatt than Grace Blackwell NVL72 — landing directly on the metric that matters most for power-constrained AI factories. Advancing Performance With Extreme Codesign What makes this possible is extreme codesign across seven chips and five rack trays — Vera Rubin NVL72, Vera CPU rack, Groq 3 LPX, Spectrum-6 SPX and Vera BlueField-4 STX — all engineered as a single system rather than assembled from separate off-the-shelf products.",
-      "source": "NVIDIA Blog",
-      "sourceUrl": "https://blogs.nvidia.com/blog/vera-rubin/",
-      "category": "Events",
-      "date": "2026-07-21T15:36:43.000Z",
-      "hot": false,
-      "officialUrl": "https://blogs.nvidia.com"
-    },
-    {
-      "id": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
-      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "summary": "DeepMind's newest Gemini models deliver the efficiency, latency, and reliability to build AI agents at scale. Senior Director, Product Management, on behalf of the Gemini team Developers and customers building production AI agents need higher token efficiency, lower latency, and more reliable performance. DeepMind's Flash series of models is built to meet the sweet spot of efficiency and quality to enable scaling agentic workflows. Building on Gemini 3.5 Flash, DeepMind is introducing new Gemini models: Beyond today’s releases, Gemini 3.5 Pro is currently testing with partners and DeepMind plan to make it broadly available as soon as it’s ready.",
-      "source": "DeepMind Blog",
-      "sourceUrl": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
-      "category": "Research",
-      "date": "2026-07-21T15:16:30.000Z",
-      "hot": false,
-      "officialUrl": "https://deepmind.google"
-    },
-    {
-      "id": "https://blogs.nvidia.com/?p=96644",
-      "title": "Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories",
-      "summary": "AI has entered the gigascale era. The world’s most advanced AI factories are bringing together hundreds of thousands of GPUs and CPUs to train frontier models, power agentic AI and generate intelligence at unprecedented scale. At this level, networking becomes a critical computing power multiplier in driving token generation. Marking a networking milestone, NVIDIA Spectrum-6 — a 102.4-terabit-per-second Ethernet switch system delivering 2x the capacity of previous-generation systems and built as part of the NVIDIA Vera Rubin platform — is arriving across the world’s gigascale AI factories. Spectrum-6 anchors the next generation of the NVIDIA Spectrum-X Ethernet platform, delivering the bandwidth, scale and intelligence needed to operate an AI factory as one end-to-end computing system. Leading AI Builders Move First The world’s leading AI infrastructure builders — including CoreWeave, Microsoft, Nebius, SpaceXAI and Tesla — will be among the first to bring in Spectrum-6 to accelerate their AI factories.",
-      "source": "NVIDIA Blog",
-      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/",
-      "category": "Events",
-      "date": "2026-07-21T15:00:20.000Z",
-      "hot": false,
-      "officialUrl": "https://blogs.nvidia.com"
     }
   ]
 }
