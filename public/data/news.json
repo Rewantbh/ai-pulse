@@ -1,9 +1,130 @@
 {
-  "lastUpdated": "2026-07-27T18:54:57.452Z",
+  "lastUpdated": "2026-07-27T20:17:11.298Z",
   "news": [
     {
+      "id": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
+      "title": "Google won’t give up odd war against AI web scraping despite court loss",
+      "summary": "Google won’t give up odd war against AI web scraping despite court lossvar abtest_2164978 = new ABTest(2164978, 'click'); Google’s and Reddit’s use of DMCA to fight web scraper is bizarre, expert says. In a blog, Google cited Reddit’s lawsuit when announcing its own challenge, which it said it filed as a “last resort” to block “malicious scraping” that violates rights holders’ choices over who can access their content. Specifically, Google alleged that SerpApi’s circumvention violated its terms and made it impossible to profit from—or offset the cost of—“billions” of bot searches. And before it, Reddit claimed that SerpApi was evading two levels of security: Reddit’s own controls blocking scraping on its platform and Google controls blocking scraping of Reddit content in search results. Meredith Rose, a senior policy counsel with expertise in the DMCA for a nonprofit public interest group called Public Knowledge, told Ars that Google and Reddit seem to be “sort of grasping at whatever tool is available” in the face of the sudden, continuous rise of AI scraping over the past three years. And while the way they’re using the DMCA is “bizarre”—and “not what the law had sort of contemplated as a use case”—she says it’s not “surprising.” Historically, the DMCA has been an effective tool to quickly stop disfavored content uses and force discussions around licensing, so turning to it may have been an obvious starting point, given Google’s goals.",
+      "source": "Ars Technica AI",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
+      "category": "Industry",
+      "date": "2026-07-27T20:12:42.000Z",
+      "hot": false,
+      "officialUrl": "https://arstechnica.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=374450",
+      "title": "SparkKitty Malware Found in App Stores Targets Crypto Wallet Seed Phrases",
+      "summary": "A newly detailed report says SparkKitty malware scanned photos on infected iPhones and Android devices for crypto wallet recovery phrases.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/374450/sparkkitty-malware-mobile-apps-crypto-wallet",
+      "category": "Tech",
+      "date": "2026-07-27T20:09:57.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "6a676d295debd83680074f46",
+      "title": "Private Claude Chats Exposed in Google and Bing Search Results",
+      "summary": "What happens between you and an AI chatbot does not always stay between you and a chatbot. Over the weekend, people were surprised to discover that some Anthropic Claude chats could be easily found via web search. The issue, which appears to have been first flagged by a redditor, exposed chats that included people asking for advice about what political party they should join, whether attorneys in Kansas are required to self-report when they believe they’ve committed an ethical violation, and erotic role play. Claude allows users to share with other people “snapshots” of chats by creating a public URL to a specific chatbot thread. The reasons some of these URLs were indexed by major search engines comes down to the basic functions of websites, search engines, and the collision of the two when generative AI gets in the mix. Basically, Anthropic instructs web crawlers, like those used by search engines like Google and Bing, not to index chats a user decides to share with other people.",
+      "source": "Wired AI",
+      "sourceUrl": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
+      "category": "Industry",
+      "date": "2026-07-27T20:08:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.wired.com"
+    },
+    {
+      "id": "108340446",
+      "title": "Sam Altman to meet with Trump administration, senators this week. Here's what he plans to say",
+      "summary": "Altman will preview the capabilities of the company's upcoming family of AI models and answer questions about cybersecurity and open-weight models.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/07/27/altman-trump-china-open-weight-ai.html",
+      "category": "Business",
+      "date": "2026-07-27T19:44:01.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "108340498",
+      "title": "Nvidia and OpenAI in talks for up to $250 billion dollar backstop to fund AI infrastructure plans",
+      "summary": "The backstop would let OpenAI raise debt for a data center campus in Pike County, Ohio, on the strength of Nvidia's credit.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html",
+      "category": "Business",
+      "date": "2026-07-27T19:26:56.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/spain-court-orders-hm-to-stop-worker-bag-and-locker-checks-93CH-4814930",
+      "title": "Spain court orders H&M to stop worker bag and locker checks",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/spain-court-orders-hm-to-stop-worker-bag-and-locker-checks-93CH-4814930",
+      "category": "Business",
+      "date": "2026-07-27T19:22:51.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "108339317",
+      "title": "Op-ed: Over 2,000 proposals aim to govern AI. Not a single one addresses a long-term regulatory f...",
+      "summary": "To join the CNBC Technology Executive Council, go to cnbccouncils.com/tec",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/07/27/ai-industry-risk-future-regulation.html",
+      "category": "Business",
+      "date": "2026-07-27T19:22:12.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "108340660",
+      "title": "Crypto stocks rally thanks to rotation from AI infrastructure; bitcoin miners lag",
+      "summary": "Crypto stocks proved some of the top gainers Monday even as the broader market sold off and capital rotated away from chip and AI infrastructure names.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/07/27/crypto-stocks-rally-thanks-to-rotation-from-ai-infrastructure-bitcoin-miners-lag.html",
+      "category": "Business",
+      "date": "2026-07-27T19:14:30.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/why-is-biohaven-pharmaceutical-stock-gaining-today-93CH-4814923",
+      "title": "Why is Biohaven Pharmaceutical stock gaining today?",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/why-is-biohaven-pharmaceutical-stock-gaining-today-93CH-4814923",
+      "category": "Business",
+      "date": "2026-07-27T19:13:20.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=374441",
+      "title": "Microsoft Says MDASH Beats Claude Mythos and GPT-5.6 Sol in Cybersecurity Test",
+      "summary": "Microsoft says its new cyber model lets more than 100 AI agents find software flaws at half the cost of its current best MDASH configuration.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/374441/microsoft-mdash-beats-claude-mythos-gpt-5-6-sol-cybersecurity",
+      "category": "Tech",
+      "date": "2026-07-27T19:01:04.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/07/27/ios-26-6-security-fixes/",
+      "title": "Update Now: iOS 26.6 and macOS Tahoe 26.6 Patch Hundreds of Security Flaws",
+      "summary": "Apple today released iOS 26.6, iPadOS 26.6, and macOS Tahoe 26.6, all of which have a long list of security fixes. iOS 26.6 and iPadOS 26.6 address almost 90 security vulnerabilities affecting everything from the App Store to the Neural Engine. Multiple kernel and WebKit vulnerabilities were fixed, along with problems affecting Wi-Fi, Siri, and the iPhone's image processing. Details on all of the fixes can be found in Apple's security support document. &zwnj;macOS Tahoe&zwnj; 26.6 has more than 130 vulnerability fixes, with many of those updates also available in macOS Sequoia 15.7.8 and macOS Sonoma 14.8.8. The latter two updates are available for Macs not running &zwnj;macOS Tahoe&zwnj;.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/07/27/ios-26-6-security-fixes/",
+      "category": "Tech",
+      "date": "2026-07-27T18:55:46.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
       "id": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
-      "title": "Verizon seeks AI profits with mini data centers, $1B dark fiber deal with Google",
+      "title": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
       "summary": "Verizon is seeking to tap into Silicon Valley’s AI spending in a big way. The telecom giant revealed a deal worth more than $1 billion to link Google data centers using Verizon’s dark fiber routes—and it’s also tearing copper wiring out of central offices as it converts them into small data centers suitable for supporting AI inference workloads. The telecom company publicly disclosed the Google partnership and data center conversion efforts as part of a new “AI Connect” business initiative during an earnings conference call covering the second quarter of 2026. Verizon also expects to announce additional AI-related deals by the end of the year that would be “worth multiple billions of dollars in revenue over the next several years,” said Dan Schulman, CEO of Verizon Communications, during the earnings call. “Now it really is about, 'how do you connect data center to data center to assure that you can optimize to maximize the ever-exploding need for compute?'” Schulman said. “And while that data center connectivity demand is exploding, there's an equal amount of desire and demand to power inference models and applications that need ultra-low latency, like robotics or remote surgery, autonomous driving, and move that out into the edge, as opposed to these big, massive data centers.”Read full article Comments",
       "source": "Ars Technica AI",
       "sourceUrl": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
@@ -11,17 +132,6 @@
       "date": "2026-07-27T18:48:41.000Z",
       "hot": false,
       "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/ntsb-chair-urges-congress-to-pass-aviation-safety-legislation-4814904",
-      "title": "NTSB chair urges Congress to pass aviation safety legislation",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/ntsb-chair-urges-congress-to-pass-aviation-safety-legislation-4814904",
-      "category": "Business",
-      "date": "2026-07-27T18:36:35.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
     },
     {
       "id": "https://techcrunch.com/?p=3146944",
@@ -35,17 +145,6 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/jetblue-updates-fare-structure-as-airlines-see-benefit-of-segmented-pricing-4814827",
-      "title": "JetBlue updates fare structure as airlines see benefit of segmented pricing",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/jetblue-updates-fare-structure-as-airlines-see-benefit-of-segmented-pricing-4814827",
-      "category": "Business",
-      "date": "2026-07-27T18:24:51.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
       "id": "https://decrypt.co/?p=374412",
       "title": "Your Shared Claude Chats Were Being Quietly Published on Google",
       "summary": "A Reddit user discovered that a simple Google search returned hundreds of fully readable Claude conversations from Anthropic customers.",
@@ -57,17 +156,6 @@
       "officialUrl": "https://decrypt.co"
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/software-security-flaws-surge-as-ai-tools-boost-discovery-93CH-4814883",
-      "title": "Software security flaws surge as AI tools boost discovery",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/software-security-flaws-surge-as-ai-tools-boost-discovery-93CH-4814883",
-      "category": "Business",
-      "date": "2026-07-27T18:18:32.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
       "id": "04cllOQDyf3NMXlDnTphFvE",
       "title": "Shared a Claude conversation? Google may have seen it.",
       "summary": "If you've used Anthropic's AI chatbot Claude, and shared any of your Claude conversations with friends, those chats may have been publicly available via Google.That's what emerged this weekend when Reddit users noticed that shared Claude conversations were being indexed by Google Search. Seemingly private conversations between users and the AI chatbot, in other words, were publicly searchable on Google. According to Reddit, those affected included a Claude user who was creating a crypto wallet and accidentally exposed keys to the currency, and a lawyer asking the chatbot for legal advice on whether they had to self-report a breach of conduct. Reddit Anthropic has since addressed the issue. Google appears to have de-indexed and removed all shared Claude conversations from its search engine as of this writing. How did this happen?By default, Claude conversations are private.",
@@ -77,17 +165,6 @@
       "date": "2026-07-27T18:15:27.000Z",
       "hot": false,
       "officialUrl": "https://mashable.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/mizuho-names-top-retailing-pick-on-delivery-network-strength-93CH-4814881",
-      "title": "Mizuho names top retailing pick on delivery network strength",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/mizuho-names-top-retailing-pick-on-delivery-network-strength-93CH-4814881",
-      "category": "Business",
-      "date": "2026-07-27T18:13:10.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
     },
     {
       "id": "https://www.macrumors.com/2026/07/27/amazon-iphone-satellite-network/",
@@ -132,17 +209,6 @@
       "date": "2026-07-27T17:40:36.000Z",
       "hot": false,
       "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "108340498",
-      "title": "Nvidia and OpenAI in talks for up to $250 billion dollar backstop to fund AI infrastructure plans",
-      "summary": "The backstop would let OpenAI raise debt for a data center campus in Pike County, Ohio, on the strength of Nvidia's credit.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html",
-      "category": "Business",
-      "date": "2026-07-27T17:32:53.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "https://techcrunch.com/?p=3146990",
@@ -209,17 +275,6 @@
       "date": "2026-07-27T17:00:10.000Z",
       "hot": false,
       "officialUrl": "https://www.engadget.com"
-    },
-    {
-      "id": "108339317",
-      "title": "Op-ed: Over 2,000 proposals aim to govern AI. Not a single one addresses a long-term regulatory f...",
-      "summary": "To join the CNBC Technology Executive Council, go to cnbccouncils.com/tec",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/07/27/ai-industry-risk-future-regulation.html",
-      "category": "Business",
-      "date": "2026-07-27T17:00:01.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
@@ -358,17 +413,6 @@
       "date": "2026-07-27T15:30:00.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "108340446",
-      "title": "Sam Altman to meet with Trump administration, senators this week. Here's what he plans to say",
-      "summary": "Altman will preview the capabilities of the company's upcoming family of AI models and answer questions about cybersecurity and open-weight models.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/07/27/altman-trump-china-open-weight-ai.html",
-      "category": "Business",
-      "date": "2026-07-27T15:24:16.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "https://www.techrepublic.com/article/news-macbook-neo-a19-pro-ai/",
@@ -711,17 +755,6 @@
       "officialUrl": "https://arstechnica.com"
     },
     {
-      "id": "https://www.engadget.com/2223796/nvidia-launches-open-securte-ai-alliance-initiative-to-improve-cyber-defense/",
-      "title": "NVIDIA launches 'Open Secure AI Alliance' initiative to improve cyber defense",
-      "summary": "Founding members including NVIDIA, Microsoft, Dell and SpaceX. NVIDIA NVIDIA has gathered together some of the biggest tech companies in the world to form the Open Secure AI Alliance with the goal of improving cybersecurity. Among the 27 founding members are Microsoft, SpaceX, Dell, The Linux Foundation and NVIDIA itself. \"The Open Secure AI Alliance — building on the leadership of the Linux Foundation's Akrites initiative and OpenSSF community work — will work to remediate and disclose vulnerabilities using open technologies,\" NVIDIA wrote. The group argues that to best defend against attacks in the age of AI models like Anthropic's Mythos 5, security researchers need access to both open and closed frontier models. As a prime example, NVIDIA cited OpenAI's recent rogue attack on Hugging Face.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2223796/nvidia-launches-open-securte-ai-alliance-initiative-to-improve-cyber-defense/",
-      "category": "Tools",
-      "date": "2026-07-27T10:39:52.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
       "id": "6a636bf067ed6cdf1f7d4066",
       "title": "This Is Donald Trump’s AI Brain Trust",
       "summary": "As China’s open-weight AI models become increasingly powerful, the Trump administration is relying on a small group of officials to decide whether and what restrictions should be imposed. The group is scattered across several departments and agencies in Washington—and they all have differing views on the best way to keep the US ahead in the race against China. “It’s not an argument with two sides, it’s an argument with ten sides,” one senior White House official tells WIRED about the state of affairs. With little interagency coordination in the administration, policy will almost certainly end up being set by the people with the most influence with the president. In an effort to map the forces at play, here’s a list of the current power brokers involved in the race to regulate AI. Photo-Illustration: Darrell Jackson; Getty ImagesHoward Lutnick has increasingly emerged as an influential part of the intra-administration split over AI, in part because it oversees export controls through the Bureau of Industry and Security.",
@@ -871,17 +904,6 @@
       "hot": false
     },
     {
-      "id": "https://www.engadget.com/2223617/nanoleaf-smart-led-monitor-stand-all-in-one-desktop-setup/",
-      "title": "Nanoleaf's monitor stand is an all-in-one setup that brightens up your desk space",
-      "summary": "The Smart LED Monitor Stand is currently available for $169.99. Nanoleaf Nanoleaf has revealed its multi-purpose monitor stand that improves ergonomics, adds adjustable LED lighting and provides space for all your desktop accessories. Called the Smart LED Monitor Stand, Nanoleaf's latest product goes beyond its typical lighting products by combining it with some extra functionality. At the heart of it, the monitor stand portion can raise your display by up to four inches so it's more in line with your natural eye level and promotes better posture during long sessions at your desk. No matter if you have an ultra-wide display or a dual-monitor setup, the Smart LED Monitor Stand can handle displays up to 42 inches long and can support up to 154 lbs. The stand's base also features 23 mounting holes that allow for setting up stands for your mic, camera or any other accessories.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2223617/nanoleaf-smart-led-monitor-stand-all-in-one-desktop-setup/",
-      "category": "Tools",
-      "date": "2026-07-26T20:15:08.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
       "id": "https://techcrunch.com/?p=3146794",
       "title": "Making sense of the panic over Chinese AI",
       "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
@@ -902,28 +924,6 @@
       "date": "2026-07-26T16:33:13.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/07/26/apple-smart-glasses-wwdc-2027-report/",
-      "title": "Apple Planning to Unveil Privacy-Focused Smart Glasses at WWDC 2027",
-      "summary": "Apple currently plans to unveil its first smart glasses at WWDC 2027 next June, and privacy will be a focus, according to Bloomberg's Mark Gurman. For the glasses, Apple is prototyping \"a slew of new hardware and software-related privacy features\" that are not available on current products, he said. He did not mention any specific features, but he noted that Apple's marketing will likely emphasize the privacy measures of its glasses compared to rival products like the Meta Ray-Bans. In a world where some people are wary of being secretly recorded by camera-equipped glasses, Gurman said Apple has considered releasing smart glasses with cameras that assist with AI features, but lack photo and video recording capabilities. In fact, he said Apple has even prototyped smart glasses without a camera system entirely. Still, the most likely outcome is that Apple's glasses will have cameras, but with the sort of privacy protections that the company is known for.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/07/26/apple-smart-glasses-wwdc-2027-report/",
-      "category": "Tech",
-      "date": "2026-07-26T16:26:47.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/07/26/apple-upgrade-program-launching-tuesday/",
-      "title": "'Apple Upgrade' Program Launching on Tuesday",
-      "summary": "Apple will stop accepting iPhone Upgrade Program sign-ups on the same day, but he said customers who are already enrolled will be able to remain in the program \"for the time being.\" Apple is partnering with buy-now, pay-later company Klarna on the program, he said. The program will allow you to lease most iPhone, iPad, Mac, and Apple Watch models, with a 24-month term for iPhones and Apple Watches and a 36-month term for iPads and Macs. Customers will have various options, including returning their device after the term, upgrading to a newer device, paying a fee to keep the device, and so forth. Some lower-priced devices, including the Apple Watch SE, the entry-level iPad, the iPhone 16, and the MacBook Neo, will not be eligible, he said. Unlike the iPhone Upgrade Program, Apple Upgrade plans will apparently not include AppleCare+ coverage bundled into the monthly price. Apple plans to advertise the program as a way to have lower monthly payments compared to current financing programs, according to the report, so it sounds like Apple Upgrade will be focused on leasing rather than traditional financing, and it will apparently replace the iPhone Upgrade Program for new purchases going forward.Tags: Apple Upgrade Program, Mark GurmanThis article, \"'Apple Upgrade' Program Launching on Tuesday\" first appeared on MacRumors.comDiscuss this article in our forums",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/07/26/apple-upgrade-program-launching-tuesday/",
-      "category": "Tech",
-      "date": "2026-07-26T15:20:00.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "https://decrypt.co/?p=373884",
@@ -979,17 +979,6 @@
       "date": "2026-07-25T14:03:03.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=374332",
-      "title": "What Is an AI Kill Switch and Why Do US Lawmakers Want One?",
-      "summary": "The AI Kill Switch Act would let Homeland Security order frontier AI throttled or shut down, with fines up to $20 million a day.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/374332/what-is-ai-kill-switch-openai-hack-hugging-face",
-      "category": "Tech",
-      "date": "2026-07-25T14:01:03.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
     },
     {
       "id": "http://feeds.fabbaloo.com/~/962983994/_/fabbaloo/default~Industrial-D-Printing-Finally-Gets-Affordable-Formlabs%e2%80%99-Fuse-X-Could-Change-the-Market",
@@ -1110,17 +1099,6 @@
       "date": "2026-07-24T20:00:00.000Z",
       "hot": false,
       "officialUrl": "https://rss.politico.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=374324",
-      "title": "Samsung Wallet Will Add Stablecoin Support, Including USDC",
-      "summary": "Samsung showed a wallet mockup holding Circle's USDC at Galaxy Unpacked, and said stablecoin support is coming.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/374324/samsung-wallet-stablecoin-support-usdc",
-      "category": "Tech",
-      "date": "2026-07-24T19:30:01.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
     },
     {
       "id": "6a6123a2d448e9212755047d",
@@ -1864,17 +1842,6 @@
       "sourceUrl": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
       "category": "Industry",
       "date": "2026-07-22T21:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "6a5fbd11262e397baf375f67",
-      "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook",
-      "summary": "The AI industry is not quite experiencing a DeepSeek 2.0 moment, but it feels very close. The leading Chinese AI labs have been on a roll lately, releasing a series of almost cutting-edge open-source models. Z.ai released GLM 5.2 in June, Moonshot AI released Kimi K3 last week, and Alibaba released Qwen 3.8 this Monday. Silicon Valley and Washington started talking about the models immediately, especially K3, which is widely seen as the best of the bunch. David Sacks, a venture capitalist and AI adviser to President Donald Trump, called the performance of Moonshot’s model “concerning.” Earlier this week, Commerce Secretary Scott Bessent suggested the US might impose sanctions on Chinese AI companies. On Wednesday, Michael Kratsios, director of the White House Office of Science and Technology Policy, alleged that the Trump administration has “information that Moonshot AI distilled Anthropic’s Fable for the development of its K3 model,” which he said amounted to “stealing proprietary US technology and undermining American research” and was “unacceptable.” (Moonshot AI did not immediately respond to a request for comment.)",
-      "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
-      "category": "Industry",
-      "date": "2026-07-22T19:01:38.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
     }
