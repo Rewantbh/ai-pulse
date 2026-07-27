@@ -1,6 +1,72 @@
 {
-  "lastUpdated": "2026-07-27T21:36:41.360Z",
+  "lastUpdated": "2026-07-27T22:55:22.841Z",
   "news": [
+    {
+      "id": "https://www.macrumors.com/2026/07/27/mac-roadmap-2026/",
+      "title": "Apple's 2026 and 2027 Mac Roadmap: Every Model and When It Ships",
+      "summary": "A shortage of memory chips has impacted the entire computer market, affecting Macs and PCs alike. Apple and other companies have raised prices, but Apple is better positioned than its competitors. Machines like the Mac mini and the Mac Studio are in demand for on-device AI agent use, and Apple plans to take advantage by refreshing its Mac lineup across 2026 and 2027. Apple already launched the MacBook Neo and refreshed the MacBook Air and MacBook Pro models with M5-series chips, but there are more updates coming before the end of the year. Fall 2026 Launches 14-inch MacBook Pro - The entry-level 14-inch &zwnj;MacBook Pro&zwnj; is expected to get an M6 chip, and it'll be one of the first machines with Apple's 2-nanometer chip technology. iMac - The 24-inch iMac will get an update, and it'll also probably get the new M6 chip.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/07/27/mac-roadmap-2026/",
+      "category": "Tech",
+      "date": "2026-07-27T22:48:41.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=374472",
+      "title": "OpenAI’s GPT-6 Will Arrive by September, Markets Predict",
+      "summary": "Prediction market traders are narrowing the GPT-6 countdown to September, with odds increasing to 77% on both Polymarket and Myriad.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/374472/openai-gpt-6-will-arrive-september-prediction-market",
+      "category": "Tech",
+      "date": "2026-07-27T22:31:03.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "04ciS9e0ktqg3Dt32FWOFlQ",
+      "title": "T-Mobile is down. Social media users are not taking it well.",
+      "summary": "In case you haven't heard, T-Mobile's mobile network appeared to go down for a lot of users on Monday afternoon. Users in the United States reported a widespread outage, with mobile service in particular being disrupted, and some users reported they were stuck in \"SOS mode,\" which can happen if service is interrupted. As usual, customers took to social media apps like X and Reddit to vent their frustrations, sometimes directly at T-Mobile itself. On X, one user reported being stranded and unable to order a Lyft home (though, apparently, still able to post to X), while another said they were seeing a long line at their local T-Mobile store. Over on Reddit, a post about the outage has already collected more than 5,500 comments, with users trading rumors about the possible cause and potential fixes. This Tweet is currently unavailable.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/t-mobile-down-social-media-users-reactions",
+      "category": "Tech",
+      "date": "2026-07-27T22:24:35.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "108340724",
+      "title": "Jim Cramer warns AI's circular financing frenzy echoes the dot-com bubble",
+      "summary": "CNBC's Jim Cramer said reports of Nvidia backing OpenAI's data center expansion revived memories of the financing arrangements that preceded the dot-com crash.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/07/27/jim-cramer-warns-ai-circular-financing-echoes-dot-com-bubble.html",
+      "category": "Business",
+      "date": "2026-07-27T22:20:01.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+      "summary": "Microsoft is introducing new AI tools designed to help customers continuously streamline and automate the process of identifying and reducing their exposure to security risks. The new tools come less than a week after OpenAI lost control of two of its security models when they infiltrated the servers of startup Hugging Face. The hack, Hugging Face added, involved “a swarm of tens of thousands of automated actions” that stole internal Hugging Face credentials. The OpenAI models achieved this feat by exploiting a zero-day flaw in Hugging Face’s data-processing pipeline to run malicious code that escalated the models’ access to the company’s high-value cloud and server clusters. Microsoft’s announcements on Monday made no reference to the event, which OpenAI said was “unprecedented.” The company also didn’t say what would prevent the new tools from similarly going rogue.Read full article Comments",
+      "source": "Ars Technica AI",
+      "sourceUrl": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+      "category": "Industry",
+      "date": "2026-07-27T21:56:14.000Z",
+      "hot": false,
+      "officialUrl": "https://arstechnica.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/nvidia-forms-industry-alliance-for-open-ai-security-after-hugging-face-hack-4813376",
+      "title": "Nvidia forms industry alliance for open AI security after Hugging Face hack",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/nvidia-forms-industry-alliance-for-open-ai-security-after-hugging-face-hack-4813376",
+      "category": "Business",
+      "date": "2026-07-27T21:36:34.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
     {
       "id": "108340446",
       "title": "Sam Altman to meet with Trump administration, senators this week. Here's what he plans to say",
@@ -26,7 +92,7 @@
     {
       "id": "https://techcrunch.com/?p=3147049",
       "title": "Satya Nadella says companies that trust one AI for everything may not survive",
-      "summary": "Businesses that rely wholly on the major AI labs ultimately won't survive, Microsoft CEO Satya Nadella predicts.",
+      "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
       "category": "Business",
@@ -175,7 +241,13 @@
       "category": "Tech",
       "date": "2026-07-27T18:15:27.000Z",
       "hot": false,
-      "officialUrl": "https://mashable.com"
+      "officialUrl": "https://mashable.com",
+      "relatedCoverage": [
+        {
+          "source": "Digital Trends",
+          "url": "https://www.digitaltrends.com/cool-tech/claude-shared-chats-google-search-privacy/"
+        }
+      ]
     },
     {
       "id": "https://www.macrumors.com/2026/07/27/amazon-iphone-satellite-network/",
@@ -645,28 +717,6 @@
       "officialUrl": "https://decrypt.co"
     },
     {
-      "id": "https://www.digitaltrends.com/?p=5993351",
-      "title": "Experts find it’s easy to manipulate AI chatbots into coughing up bioweapon recipes",
-      "summary": "AI companies have spent years building safeguards designed to stop their chatbots from helping someone create a biological weapon. The models themselves are becoming so capable that keeping that knowledge behind those barriers is turning into a serious problem. Researchers at Cisco found they could bypass safeguards on major chatbots including OpenAI's ChatGPT, Anthropic's Claude, and Google's Gemini within five conversational turns, according to a Wall Street Journal investigation. The researchers were able to elicit potentially dangerous answers after gradually steering the conversations around the models' restrictions. Amy Chang, Cisco's head of AI threat and security research, told the Journal that no model can be completely protected from a sufficiently persistent user. The problem also extends beyond security researchers deliberately stress-testing these systems.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/computing/experts-find-its-easy-to-manipulate-ai-chatbots-into-coughing-up-bioweapon-recipes/",
-      "category": "Tech",
-      "date": "2026-07-27T12:23:13.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=5993364",
-      "title": "Gem Browser imagines an internet where every website is yours to redesign",
-      "summary": "Gem Browser can rebuild an existing webpage around whatever the reader asks for. Google DeepMind designer Vidy Thatte demonstrated the feature in his original announcement, showing how the Apple-only experiment uses Gemini to make a website's familiar interface optional. That sounds wonderfully strange if you've ever wanted to rearrange the internet to your liking. It's probably less delightful for whoever built the page being rearranged. new update: you can now visit any (real) website and edit it using gemini ✨ testflight in comments https://t.co/yUQbNsWzo3 pic.twitter.com/DsxfCyVy7W Enter an invented address and Gem Browser creates a functioning website on the spot, with links leading to more generated pages.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/computing/gem-browser-imagines-an-internet-where-every-website-is-yours-to-redesign/",
-      "category": "Tech",
-      "date": "2026-07-27T12:11:49.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
       "id": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
       "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
       "summary": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier models. The initiative is a direct response to mounting concerns over the safety of advanced AI systems after a rogue OpenAI model escaped containment and attacked another company during testing. That company, Hugging Face, said it was forced to use a Chinese open-weight model to defend itself due to the strict safety guardrails limiting the usefulness of top US models. Founding memb …",
@@ -809,17 +859,6 @@
       "officialUrl": "https://openai.com"
     },
     {
-      "id": "https://www.macrumors.com/2026/07/26/what-iphone-20-is-expected-to-look-like/",
-      "title": "Here's What the 'iPhone 20' is Expected to Look Like",
-      "summary": "Apple's 20th anniversary iPhone is expected to arrive in the fall of 2027 with the most significant design overhaul the device has seen since the iPhone X. In many ways, the device is expected to repeat the story of the iPhone X, which marked the device's 10th anniversary in 2017 by dropping the Home button and introducing an edge-to-edge display. The 2027 model is rumored to overhaul the design language that has defined the iPhone ever since, and will likely set the template for the years that follow. The device is highly likely to launch in the fall of 2027 alongside the second generation foldable iPhone. All-Glass Design With Curved Display Glass is at the center of the redesign. Bloomberg's Mark Gurman described a mostly glass, curved iPhone without any cutouts in the display, with a return to a glass back and curved glass that wraps around all four edges of the device.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/07/26/what-iphone-20-is-expected-to-look-like/",
-      "category": "Tech",
-      "date": "2026-07-27T01:00:12.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
       "id": "https://blogs.nvidia.com/?p=96867",
       "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
       "summary": "The complexity of modern chip design continues to grow as engineering teams work to develop increasingly sophisticated CPUs, GPUs and AI systems. To help meet that challenge, NVIDIA is collaborating with industry leaders Cadence and Synopsys to optimize critical electronic design automation (EDA) applications for the NVIDIA Vera CPU. NVIDIA is now deploying Vera across EDA workflows used to develop its next generation of CPUs and GPUs, demonstrating how high-performance CPU architecture can help accelerate some of the industry’s most demanding engineering workloads. Accelerating Critical EDA Workloads What’s at stake is the pace of chip production. In turn, the tempo of industry technologies that stand to benefit from boosted EDA workloads, driving development momentum. Simulation, verification and implementation technologies play a central role in semiconductor development.",
@@ -840,6 +879,16 @@
       "date": "2026-07-27T00:19:14.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://www.anthropic.com/news/position-open-weights-models?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Anthropic CEO Dario Amodei: No Ban on Open-Weights Models, Focus on Chips & Safety Testing",
+      "summary": "Over the last few days there has been a lot of discussion about open-weights models, especially those from China. Reports suggest that some US officials are considering banning the use of Chinese open-weights models by US companies. In response, many tech companies have signed a letter supporting open-weights models, and some people have even accused Anthropic of wanting to ban open-weights models as a means of protecting anthropic.com's business. Anyone who has read the author's past writing should know that the author don’t regard such bans as a useful measure, but let the author state it clearly so that there is no doubt: Anthropic has never advocated for a ban on open-weights models. Open-weights models that don’t have dangerous capabilities are a public good: they don’t cost anything besides the compute needed to run them, and they provide value to businesses, developers, and researchers. Protectionist bans would not address the author's most serious national security concerns.",
+      "source": "anthropic.com",
+      "sourceUrl": "https://www.anthropic.com/news/position-open-weights-models?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-07-27T00:00:00.000Z",
+      "hot": false
     },
     {
       "id": "https://www.meta.com/blog/meta-ray-ban-display-glasses-v127-muse-spark-threads/?utm_source=futuretools.io&utm_medium=newspage",
