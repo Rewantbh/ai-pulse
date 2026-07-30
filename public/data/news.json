@@ -1,60 +1,214 @@
 {
-  "lastUpdated": "2026-07-30T13:42:49.830Z",
+  "lastUpdated": "2026-07-30T15:47:26.254Z",
   "news": [
     {
+      "id": "https://decrypt.co/?p=374728",
+      "title": "Elon Musk's xAI Sues Minnesota to Kill the US's First AI Nudification Law",
+      "summary": "XAI filed a lawsuit Monday against Minnesota AG Keith Ellison to block HF 1606, the country's first law targeting AI nudification platforms.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/374728/elon-musk-xai-sues-minnesota-ai-nudification-law",
+      "category": "Tech",
+      "date": "2026-07-30T15:42:17.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3148216",
+      "title": "Meta says AI is making it easier to build new apps — and more are coming",
+      "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent wave of releases for Facebook Groups, Marketplace sellers, Instagram, and gaming.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+      "category": "Business",
+      "date": "2026-07-30T15:41:16.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "6a6a2a20b706be75bfb3a10f",
+      "title": "The New Friend AI Pendant Can Now Talk Back to You",
+      "summary": "Courtesy of Friend Friend CEO Avi Schiffmann welcomes me into his palace—what he calls his large apartment in San Francisco. He sits on the couch in his living room, clad in an orange shirt emblazoned with a cartoon version of the motorcycle driven by Italian racer Valentino Rossi. He props his feet up on the side table and leans back, a round, softly glowing circular Friend pendant dangling from a yellow cord around his neck. This is the second iteration of the Friend necklace, the controversial AI companion device that just about everyone (me included) seems to hate. The company announced the device on Thursday through its new X handle. The first version of Friend was an always-listening AI wearable that responded via text message.",
+      "source": "Wired AI",
+      "sourceUrl": "https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/",
+      "category": "Industry",
+      "date": "2026-07-30T15:39:33.000Z",
+      "hot": false,
+      "officialUrl": "https://www.wired.com"
+    },
+    {
+      "id": "https://www.engadget.com/2222920/google-voice-paid-subscriptions-more-than-just-phone-number/",
+      "title": "Google Voice paid subscriptions offer more than just a phone number",
+      "summary": "Google Google Voice is a Voice over Internet Protocol (VoIP) service that provides individuals and small businesses with a virtual phone number they can use for calls, texts and voicemails. It uses either a web or mobile app, and the advantage is that your personal phone number is kept private. A call or text message is routed through your internet connection or mobile carrier network, so you're able to communicate not only from your smartphone but also from a deskphone or even your computer. There's even the option to make and receive calls directly from the Gmail app. But Google Voice can do a lot more with the right plan. There are three plans from which you can choose.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2222920/google-voice-paid-subscriptions-more-than-just-phone-number/",
+      "category": "Tools",
+      "date": "2026-07-30T15:30:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=374725",
+      "title": "Australia Sues Telegram for $38M Over ‘Pro-Terror’ Videos",
+      "summary": "The eSafety Commissioner accused the social media platform of failing to detect material relating to the Christchurch and Buffalo attacks.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/374725/australia-sues-telegram-for-38m-over-pro-terror-videos",
+      "category": "Tech",
+      "date": "2026-07-30T15:22:50.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3148209",
+      "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+      "summary": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+      "category": "Business",
+      "date": "2026-07-30T15:19:15.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "0000019f-b395-dd42-ab9f-f397a2530000",
+      "title": "ABC accuses FCC of ‘attempted censorship’",
+      "summary": "The network says the loss of its TV licenses would send a message to all media: “Accommodate the Administration’s view of what news coverage should look like or pay the price.”",
+      "source": "Politico Tech",
+      "sourceUrl": "https://www.politico.com/news/2026/07/30/abc-accuses-fcc-of-attempted-censorship-01016992",
+      "category": "Industry",
+      "date": "2026-07-30T15:15:12.000Z",
+      "hot": false,
+      "officialUrl": "https://rss.politico.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=5994389",
+      "title": "Amazon and Walmart’s AI can spot fake ‘Made in USA’ labels but won’t tell you, says study",
+      "summary": "When you ask an AI shopping assistant to help you find products, you probably expect it to point out misleading listings too. According to a new study, both Amazon and Walmart's AI tools can detect fake \"Made in USA\" claims. However, the study claims that retailers are not using those capabilities to flag or remove the misleading listings, even when the AI recognizes conflicting information on the same product page. According to Reuters, researchers at Columbia Law School's Center for Law and the Economy tested Amazon's Alexa for Shopping and Walmart's Sparky chatbot directly. Both assistants proved capable of spotting mismatches between bold \"Made in USA\" claims and contradictory country-of-origin details buried elsewhere in the same listing. Amazon The study also found this kind of fraud is fairly common across both platforms.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/computing/amazon-and-walmarts-ai-can-spot-fake-made-in-usa-labels-but-wont-tell-you-says-study/",
+      "category": "Tech",
+      "date": "2026-07-30T15:14:41.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "summary": "",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "category": "Research",
+      "date": "2026-07-30T15:09:09.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
+    },
+    {
+      "id": "6a6910b2d6280302b8a22224",
+      "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
+      "summary": "Google DeepMind just released a new version of its artificial intelligence model Gemini, and it can control a range of different robots—including humanoids capable of dextrous tasks like screwing in lightbulbs and tying trash bags. Gemini Robotics 2 combines several different AI models into a single system. Taken together, they allow a robot to make sense of its surroundings and how to act in it. A vision language model (VLM), which understands images and video, can communicate with humans and reason how to perform different tasks. Two vision language action (VLA) models, trained to understand how to move in physical space, control the robot’s full-body movement as well as the movements of grippers or hands. In video demonstrations shared ahead of the release, the company showed several different robots performing complex tasks autonomously using the amalgamated model.",
+      "source": "Wired AI",
+      "sourceUrl": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
+      "category": "Industry",
+      "date": "2026-07-30T15:04:22.000Z",
+      "hot": false,
+      "officialUrl": "https://www.wired.com"
+    },
+    {
+      "id": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-r...",
+      "summary": "Gemini Robotics ER 2 represents a step change in powering robots with video understanding, task orchestration, and multi-robot collaboration — making it possible for robots to be more helpful in the physical world. Your browser does not support the audio element. DeepMind is launching Gemini Robotics ER 2, a new model designed to act as a high-level brain for robots. It enables real-time spatial reasoning, multi-step task planning, and collaboration between different robots. You can access the model now via the Gemini API, Google AI Studio, or the Gemini Enterprise Agent Platform to start building your own physical AI agents. Google just launched Gemini Robotics ER 2, which acts like a smart brain for robots.",
+      "source": "DeepMind Blog",
+      "sourceUrl": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "category": "Research",
+      "date": "2026-07-30T15:00:59.000Z",
+      "hot": false,
+      "officialUrl": "https://deepmind.google"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3147978",
+      "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
+      "summary": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+      "category": "Business",
+      "date": "2026-07-30T15:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
+      "title": "New MCP specification addresses the main barrier to enterprise adoption",
+      "summary": "Open Protocols New MCP specification addresses the main barrier to enterprise adoption Plus, a new deprecation policy ensures features aren’t removed suddenly. This week, the Model Context Protocol (MCP), an open source standard for how AI systems interact with external tools and data sources, saw its largest update since its introduction. Most notably, MCP’s protocol core is now stateless, so requests are no longer dependent on a session tied to an individual server instance. This change has the potential to address long-standing barriers to scalability. The highlight of this release is a stateless protocol core—MCP is transforming from a bidirectional stateful protocol into a request/response stateless protocol. It was one of the most highly-requested features from developers who were eager to get better reliability and scalability for their MCP servers.",
+      "source": "Ars Technica AI",
+      "sourceUrl": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
+      "category": "Industry",
+      "date": "2026-07-30T14:53:07.000Z",
+      "hot": false,
+      "officialUrl": "https://arstechnica.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3148205",
+      "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
+      "summary": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
+      "category": "Business",
+      "date": "2026-07-30T14:48:32.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "06cUU2oTnr495HdSxHaqtCw",
+      "title": "Google has added Nano Banana to Google Earth for some reason",
+      "summary": "Have you ever explored around Google Earth and thought to yourself, \"I wish there were some generative AI features in here?\" No? Well, you're getting it anyway.Google announced that it's integrating Nano Banana, the company's generative AI image creator, directly into Google Earth. To be more specific, Google has added its latest AI image generation model, Nano Banana 2, to its mapping platform and has rolled out a number of ways that users can utilize AI in Google Earth as well. Nano Banana has proven to be very popular, and Google previously integrated the tool with Chrome, Photos, Search, Gemini Notebook (previously Notebook LM), and Google Messages.According to Google, Nano Banana in Google Earth can be used for a variety of purposes. Users can ask Nano Banana to:Generate infographics based on specific locations or landmarksView what a location looked like during a certain historical periodGenerate real estate plans for a lot of landVisualize a project before any construction startsGive a location or even a specific building a makeoverHowever, our friends at ZDNet received early access to the feature before it launched today and found that the Nano Banana implementation in Google Earth isn't really all that useful. At least not yet.For example, according to ZDNet, the Create Image button, which deploys Nano Banana in the Google Earth toolbar, isn't provided when in Street View.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/google-adds-nano-banana-ai-image-generation-to-google-earth",
+      "category": "Tech",
+      "date": "2026-07-30T14:46:33.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
       "id": "108342239",
-      "title": "Meta tanks 9%, continuing record losing streak, while Microsoft jumps 14% as AI trade splits",
+      "title": "Meta tanks 9%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits",
       "summary": "Microsoft posted strong Azure and Copilot growth, while Meta missed revenue guidance forecasts as free cash flow plunged leading to diverging stock moves.",
       "source": "CNBC Tech",
       "sourceUrl": "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html",
       "category": "Business",
-      "date": "2026-07-30T13:40:43.000Z",
+      "date": "2026-07-30T14:45:24.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
     },
     {
-      "id": "https://www.macrumors.com/how-to/ios-27-unlinks-alarm-volume-iphone-ringer&post_date=1785429630/",
-      "title": "iOS 27 Finally Unlinks Alarm Volume From Your iPhone Ringer",
-      "summary": "For the better part of two decades, an iPhone's alarm volume has matched its ringer. In other words, if you slide the ringtone volume down to silence your iPhone overnight, you're also turning your alarm's volume down with it. That's no longer the case in iOS 27. Settings now includes an Alarms and Timers section with its own \"Match Ringtone Volume\" toggle. If you toggle it off, a dedicated slider appears that allows you to drop the ringer volume to nothing, and you'll still be woken at whatever alarm volume you choose. How to Set a Separate Alarm Volume Open Settings on your iPhone.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/how-to/ios-27-unlinks-alarm-volume-iphone-ringer/",
+      "id": "https://www.digitaltrends.com/?p=5994372",
+      "title": "Mercedes-Benz reveals the 2028 GLA in two flavors and plenty of cool tech",
+      "summary": "Mercedes-Benz just gave its smallest SUV a serious glow-up. The automaker unveiled the redesigned 2028 GLA, its entry-level compact SUV, arriving in both fully electric and hybrid form. Like the recently redesigned CLA sedan, the GLA now rides on Mercedes' next-generation MMA platform. Mercedes-Benz The electric lineup includes two trims, and the difference between them actually matters depending on how you drive. The GLA250+ sticks with a single motor and 268 horsepower, prioritizing range over speed. The GLA350 adds a second motor for all-wheel drive, 349 horsepower, and cuts the 60-mph sprint down to 5.3 seconds.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/cars/mercedes-benz-reveals-the-2028-gla-in-two-flavors-and-plenty-of-cool-tech/",
       "category": "Tech",
-      "date": "2026-07-30T13:40:40.000Z",
+      "date": "2026-07-30T14:28:20.000Z",
       "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
+      "officialUrl": "https://www.digitaltrends.com"
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/exclusiveamazons-zoox-wins-first-us-approval-for-paid-robotaxis-with-no-human-controls-4824217",
-      "title": "Exclusive-Amazon’s Zoox wins first US approval for paid robotaxis without human controls",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/exclusiveamazons-zoox-wins-first-us-approval-for-paid-robotaxis-with-no-human-controls-4824217",
-      "category": "Business",
-      "date": "2026-07-30T13:36:57.000Z",
+      "id": "https://www.digitaltrends.com/?p=5994318",
+      "title": "Samsung lays out grim pricing prophecy for mobile and PC gear",
+      "summary": "Samsung warned in April that the memory shortage could get worse in 2027. Three months later, the company's outlook has become even more troubling for anyone planning to buy a new phone, laptop, gaming PC, or another device packed with memory and storage. During its Q2 2026 earnings call, Samsung said demand is still running far ahead of supply and that orders it cannot fulfil this year are likely to spill into the next. The company now expects the shortage to persist through 2028, extending its earlier warning by another year. \"Based on the incoming requests that we have been seeing from the customers, unmet demand from this year is likely to carry over into the following year, contributing to tighter supply conditions going forward. The supply constraints are expected to become even more severe in 2027 than 2026, reinforcing our view that the supply shortage will persist through 2028.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/computing/samsung-lays-out-grim-pricing-prophecy-for-mobile-and-pc-gear/",
+      "category": "Tech",
+      "date": "2026-07-30T14:26:39.000Z",
       "hot": false,
-      "officialUrl": "https://www.investing.com"
+      "officialUrl": "https://www.digitaltrends.com"
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/analysts-downgrade-fiverr-as-ai-headwinds-accelerate-4824759",
-      "title": "Analysts downgrade Fiverr as AI headwinds accelerate",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/analysts-downgrade-fiverr-as-ai-headwinds-accelerate-4824759",
-      "category": "Business",
-      "date": "2026-07-30T13:33:17.000Z",
+      "id": "https://www.digitaltrends.com/?p=5994369",
+      "title": "Lenovo leak shows upcoming IdeaCentre desktop that isn’t afraid to ape the iMac",
+      "summary": "Windows all-in-one desktops have never really been known for turning heads. They've traditionally been practical machines that blend into an office, while Apple's iMac has spent years proving that a desktop can double as a piece of home decor. That might finally be changing. Newly leaked images obtained by Windows Latest suggest Lenovo is preparing a redesigned IdeaCentre all-in-one that ditches the usual sea of black and silver in favor of several colorful finishes. While Lenovo hasn't officially announced the machine yet, the images paint a picture of a desktop that seems perfectly happy borrowing a page from Apple's playbook — and, surprisingly, it doesn't feel like a bad thing. The leak also hints that Lenovo could be keeping some of the IdeaCentre's most practical features from the current generation.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/computing/lenovo-leak-shows-upcoming-ideacentre-desktop-that-isnt-afraid-to-ape-the-imac/",
+      "category": "Tech",
+      "date": "2026-07-30T14:22:54.000Z",
       "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/why-travis-kalanicks-17b-atoms-capital-raise-makes-doordash-investors-nervous-93CH-4824724",
-      "title": "Why Travis Kalanick’s $1.7B Atoms capital raise makes DoorDash investors nervous",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/why-travis-kalanicks-17b-atoms-capital-raise-makes-doordash-investors-nervous-93CH-4824724",
-      "category": "Business",
-      "date": "2026-07-30T13:31:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
+      "officialUrl": "https://www.digitaltrends.com"
     },
     {
       "id": "108342372",
@@ -63,9 +217,108 @@
       "source": "CNBC Tech",
       "sourceUrl": "https://www.cnbc.com/2026/07/30/open-ai-hugging-face-hack-latest.html",
       "category": "Business",
-      "date": "2026-07-30T13:26:18.000Z",
+      "date": "2026-07-30T14:09:36.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=5994345",
+      "title": "Maingear’s Zero desktop is a wire-free beauty with curved glass and plenty of firepower",
+      "summary": "When building a PC, especially one that you want to flaunt, wires always spoil the looks if you are chasing the glass aesthetic. Exposed cables, visible RGB strips, and cooling tubes spoil the whole look. Maingear finally has a solution for fans of glass-y desktops. The brand has today introduced its next-gen Zero series pre-built desktop PCs that focus on a minimalist look as much as they are concerned about serving brute computing power. The objective, as per Maingear, is to deliver \"no visible motherboard cables, no exposed RGB diodes, and nothing standing between you and your build.\" Over at the front is a curved tempered glass without any sharp corners or breaks, providing an unobstructed view of the core components such as the graphics card, cooler, fans, motherboard, and memory stick.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/computing/maingears-zero-desktop-is-a-wire-free-beauty-with-curved-glass-and-plenty-of-firepower/",
+      "category": "Tech",
+      "date": "2026-07-30T14:07:05.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/article/news-hugging-face-deepfake-vendor-risk/",
+      "title": "Hugging Face Deepfake Tests Raise New Risks for AI Procurement",
+      "summary": "Researchers found that seven of nine tested Hugging Face image-editing tools produced sexualized alterations, highlighting gaps in model oversight, provenance, and enterprise vendor controls.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-hugging-face-deepfake-vendor-risk/",
+      "category": "Business",
+      "date": "2026-07-30T13:59:03.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=5994326",
+      "title": "Spotify’s new Running Mode knows exactly when your playlist should speed up",
+      "summary": "Nothing destroys the running pace quite like a slow track from your Spotify library. To deal with this, the music streaming platform has built a new personalized mode that aims to keep your soundtrack aligned with the workout from the first step to the final cooldown. Spotify has introduced Running Mode, a Premium feature that builds a workout and accompanying playlist around your pace. From your music taste to your preferred tempo, it wants to keep up with your fitness journey. The feature offers 25 curated running presets right off the bat. These can be further customized according to workout type, duration, genre, and beats per minute.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/movies/spotifys-new-running-mode-knows-exactly-when-your-playlist-should-speed-up/",
+      "category": "Tech",
+      "date": "2026-07-30T13:47:58.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/07/30/airtag-2-price-of-89/",
+      "title": "AirTag 2 Available for Record Low Price of $89 for 4-Pack",
+      "summary": "Apple's AirTag 2 is available for the all-time low price of $89.00 this week, down from $99.00. This sale is on the 4-Pack of the AirTag 2, and it's a match of the record low price first seen during Prime Day. Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. We're also tracking a smaller deal on the AirTag 2 1-Pack, available for $27.00, down from $29.00. This one has been down to a slightly lower price in previous weeks, but it's one of the best deals around right now for anyone shopping for the new AirTag model.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/07/30/airtag-2-price-of-89/",
+      "category": "Tech",
+      "date": "2026-07-30T13:46:29.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/07/30/tim-cook-final-earnings-call-as-apple-ceo/",
+      "title": "You Can Listen to Tim Cook's Final Earnings Call as Apple CEO Today",
+      "summary": "Tim Cook will participate in his final Apple earnings call as the company's CEO today. Cook and CFO Kevan Parekh will discuss Apple's earnings results for the second quarter of the 2026 calendar year on the live-streamed conference call. While the call is primarily intended for Apple shareholders and Wall Street analysts, anyone can listen live for free on Apple's Investor Relations website, with no registration required. The call should last around one hour. Cook and Parekh will read their prepared remarks, and then they will take questions from analysts. If you miss the call, a recording will be available for replay on the page later in the day.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/07/30/tim-cook-final-earnings-call-as-apple-ceo/",
+      "category": "Tech",
+      "date": "2026-07-30T13:45:43.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/07/30/apple-donating-to-european-wildfire-relief-efforts/",
+      "title": "Apple Donating to European Wildfire Relief Efforts",
+      "summary": "In a post on Wednesday, Apple CEO Tim Cook said Apple will be donating to relief efforts on the ground in Europe following devastating wildfires in France, Spain, Greece, and other countries. Apple has donated to the Red Cross for relief efforts in the past — it does not disclose the amounts.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/07/30/apple-donating-to-european-wildfire-relief-efforts/",
+      "category": "Tech",
+      "date": "2026-07-30T13:43:37.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=5994329",
+      "title": "Hongqi says its new EV tech can charge a battery in just eight minutes, beating BYD",
+      "summary": "It seems that every other month, a new company is coming out with battery-charging tech that's defying our expectations. A few months back, BYD, the Chinese EV maker, impressed everyone with its \"flash charging\" system that could take its car from 10% to 97% in nine minutes. Now, Chinese automaker Hongqi has beaten that record. CarNewsChina reports that FAW Group's Hongqi brand, in collaboration with Lishen Battery, just wrapped up charging tests at 25&deg;C for a new ultra-fast charging battery, and the numbers are wild. The pack went from 10% to 70% state of charge in 3 minutes and 41 seconds, then climbed to 97% in just 8 minutes and 3 seconds. FAW says the battery reached a peak charging rate of 12C thanks to a high-efficiency ultra-fast charging anode, breaking past previous limits.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/cars/hongqi-says-its-new-ev-tech-can-charge-a-battery-in-just-eight-minutes-beating-byd/",
+      "category": "Tech",
+      "date": "2026-07-30T13:43:09.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=5994331",
+      "title": "Lenovo’s leaked Yoga 9n could be the first RTX Spark-powered convertible laptop",
+      "summary": "NVIDIA's RTX Spark platform is about to make its way into an entirely new category of laptops. Freshly leaked images suggest Lenovo is working on the Yoga 9n 2-in-1, which is expected to become the world's first convertible laptop powered by NVIDIA's RTX Spark (N1X) superchip. The leak, published by Windows Latest, shows a premium 360-degree Yoga convertible that closely resembles the existing Yoga 9i, but swaps Intel's processor for NVIDIA's new Arm-based AI platform. According to the leaked images, the Yoga 9n 2-in-1 retains Lenovo's signature 360-degree rotating soundbar hinge, allowing it to seamlessly switch between laptop, tent, stand, and tablet modes. Windows Latest The convertible also appears to feature a premium aluminum chassis finished in Lenovo's Cosmic Blue color, a nearly edge-to-edge 2.8K PureSight Pro OLED display, an IR webcam with a physical privacy shutter for Windows Hello, and support for the Yoga Pen Gen 2 stylus. In terms of connectivity, the leak points to HDMI, USB-A, multiple USB-C ports, and a 3.5mm headphone jack, giving the device a surprisingly versatile I/O selection for a premium convertible.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/computing/lenovos-leaked-yoga-9n-could-be-the-first-rtx-spark-powered-convertible-laptop/",
+      "category": "Tech",
+      "date": "2026-07-30T13:42:39.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://www.macrumors.com/how-to/ios-27-unlinks-alarm-volume-iphone-ringer&post_date=1785429630/",
+      "title": "iOS 27 Finally Unlinks Alarm Volume From Your iPhone Ringer",
+      "summary": "For the better part of two decades, an iPhone's alarm volume has matched its ringer. In other words, if you slide the ringtone volume down to silence your iPhone overnight, you're also turning your alarm's volume down with it. That's no longer the case in iOS 27. Settings now includes an \"Alarms and Timers\" section with its own Match Ringtone Volume toggle. If you toggle it off, a dedicated slider appears that allows you to drop the ringer volume to nothing, and you'll still be woken at whatever alarm volume you choose. How to Set a Separate Alarm Volume Open Settings on your iPhone.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/how-to/ios-27-unlinks-alarm-volume-iphone-ringer/",
+      "category": "Tech",
+      "date": "2026-07-30T13:40:30.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "https://decrypt.co/?p=374705",
@@ -79,15 +332,26 @@
       "officialUrl": "https://decrypt.co"
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/bp-to-cut-700-jobs-as-it-simplifies-company-internal-email-shows-4824693",
-      "title": "BP to cut 700 jobs as it simplifies company, internal email shows",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/bp-to-cut-700-jobs-as-it-simplifies-company-internal-email-shows-4824693",
+      "id": "https://www.techrepublic.com/article/local-ai-vs-cloud-ai-for-enterprise-workloads/",
+      "title": "Local AI vs. Cloud AI for Enterprise Workloads",
+      "summary": "Learn the differences between local AI, cloud AI, and hybrid AI for enterprise workloads, including security, cost, performance, and deployment strategies. Cloud AI for Enterprise Workloads appeared first on TechRepublic.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/local-ai-vs-cloud-ai-for-enterprise-workloads/",
       "category": "Business",
-      "date": "2026-07-30T13:24:37.000Z",
+      "date": "2026-07-30T13:19:07.000Z",
       "hot": false,
-      "officialUrl": "https://www.investing.com"
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/article/ai-pcs-enterprise-investment-cio-roadmap/",
+      "title": "How CIOs Can Turn AI Device Investment Into Business Value",
+      "summary": "Are AI PCs worth the investment for enterprises? Learn what CIOs should prioritize in an AI roadmap and which workloads benefit most from AI-enabled PCs.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/ai-pcs-enterprise-investment-cio-roadmap/",
+      "category": "Business",
+      "date": "2026-07-30T13:00:54.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "https://blogs.nvidia.com/?p=96983",
@@ -121,6 +385,28 @@
       "date": "2026-07-30T13:00:00.000Z",
       "hot": false,
       "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/article/ai-ready-workplaces-need-more-than-ai-pcs/",
+      "title": "AI-Ready Workplaces Need More Than AI PCs",
+      "summary": "Learn what an AI-ready workplace needs beyond AI PCs, including secure endpoints and compatible software for responsible deployment.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/ai-ready-workplaces-need-more-than-ai-pcs/",
+      "category": "Business",
+      "date": "2026-07-30T12:55:22.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/article/news-claude-chat-leak-tests-new-zealand-apac/",
+      "title": "Claude Chat Leak Tests New Zealand’s AI Rules as Agencies Race Ahead",
+      "summary": "Public Claude chats surfaced in Google search just as New Zealand agencies are ordered to adopt AI faster. Privacy Act obligations don't disappear when a share link goes public.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-claude-chat-leak-tests-new-zealand-apac/",
+      "category": "Business",
+      "date": "2026-07-30T12:48:55.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "https://www.digitaltrends.com/?p=5994270",
@@ -178,6 +464,17 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
+      "id": "https://www.techrepublic.com/?p=4295560",
+      "title": "Develop Excel Skills From Basics to AI Integration With This $18 Course Bundle",
+      "summary": "Master Excel's more advanced features, even using it with ChatGPT, no matter your level of experience.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/complete-microsoft-excel-training-bundle/",
+      "category": "Business",
+      "date": "2026-07-30T12:00:53.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
       "id": "https://www.macrumors.com/2026/07/30/when-will-apple-announce-iphone-18-pro-event/",
       "title": "iPhone 18 Pro and iPhone Ultra: When is the Next Apple Event?",
       "summary": "July is nearly over, meaning that Apple's annual iPhone event is fast approaching. Below, we look back at when Apple typically announces iPhone events. This September, Apple is expected to unveil the iPhone 18 Pro, iPhone 18 Pro Max, and an all-new foldable iPhone that will reportedly be named the iPhone Ultra. The regular iPhone 18, a lower-end iPhone 18e, and the iPhone Air 2 are not expected to be announced until around March 2027, as part of a new split-up launch strategy. Related: iPhone 18 Pro Launching in Two Months With These 12 New Features We are still waiting for Apple to announce the iPhone 18 Pro and iPhone Ultra event. If that proves to be accurate, then the most likely dates for Apple to announce the event would be Tuesday, August 25 or Wednesday, August 26, as the company typically provides two weeks' notice.",
@@ -222,6 +519,17 @@
       "officialUrl": "https://feeds.feedburner.com"
     },
     {
+      "id": "https://www.techrepublic.com/?p=4366823",
+      "title": "Apple Reportedly Plans Biggest Smart Home Push in Years With New Siri",
+      "summary": "Apple is reportedly preparing new smart home devices centered on a revamped Siri, signaling a renewed push into AI-powered home automation.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-apple-smart-home-siri-homepod-apple-tv-refresh/",
+      "category": "Business",
+      "date": "2026-07-30T11:12:02.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
       "id": "03mNzfXp3i4IPWbkuD9Fb8d",
       "title": "This $600+ price drop makes LG’s monster 45-inch 5K2K OLED gaming monitor a massive steal",
       "summary": "SAVE OVER $600: As of July 30, the LG 45-inch Ultragear 5K2K WUHD OLED curved gaming monitor is on sale for $1,329.99 at Amazon. That's $670 off its list price of $1,999.99. Opens in a new window Credit: LG LG 45-inch Ultragear 5K2K Gaming Monitor $1,329.99 at Amazon $1,999.99 Save $670 Get Deal As tech prices continue to rise, we're keeping an eye out for solid discounts across a wide range of items. If a new gaming monitor is something you've been hoping to buy, Amazon recently dropped a great deal on the LG 45-inch Ultragear 5K2K WUHD OLED curved gaming monitor that's worth checking out.Normally listed at a hefty $1,999.99, this LG gaming monitor is now $1,329.99 at Amazon. Overall, that makes for $670 in savings, which is a pretty great price cut for such a high-quality display. SEE ALSO: Pre-order the Samsung Galaxy Watch Ultra 2 from Amazon and get a free $100 gift card For PC gamers, this LG monitor is worth every cent.",
@@ -245,7 +553,7 @@
     },
     {
       "id": "6a6a2d742e3faf0c91c7a129",
-      "title": "OpenAI’s Hacking Debacle Was a Human Mistake",
+      "title": "OpenAI’s Hacking Debacle Comes Down to Human Error",
       "summary": "The age of rogue AI hacker agents has arrived—but it didn't have to happen this way. After an OpenAI agent breached the Hugging Face platform earlier this month, the two companies said this week that the hacking spree was more extensive than previously thought and also involved intrusions into multiple third-party accounts and services as part of the attack on Hugging Face. The incident has made waves in the cybersecurity community amid broader discussions about how evolving AI capabilities are changing both offensive hacking and digital defense. But as more information emerges, many researchers have concluded that rather than elucidating AI’s next frontier, the episode simply highlighted long-standing cybersecurity problems that are more consequential than ever in the AI age. “People are YOLO-ing really hard. It’s shocking how little people have really thought about a scenario like this,” says Alex Zenla, cofounder and chief technology officer of the cloud security firm Edera.",
       "source": "Wired AI",
       "sourceUrl": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
@@ -332,17 +640,6 @@
       "officialUrl": "https://mashable.com"
     },
     {
-      "id": "https://www.digitaltrends.com/?p=5994244",
-      "title": "Meta used AI to make your Instagram feed harder to quit",
-      "summary": "Caught yourself scrolling on Instagram a lot longer lately? You're not imagining it. Meta just told investors what's driving that trend, and AI is at the center of it. During its second-quarter earnings call, Meta said time spent on Instagram grew by double digits year over year after rolling out new AI-powered recommendation systems. According to the company, the biggest gains came from improvements to how it recommends Reels and other public content, making it easier to surface videos people are more likely to watch. Meta's recommendation systems now do more than track likes or watch time.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/social-media/meta-used-ai-to-make-your-instagram-feed-harder-to-quit/",
-      "category": "Tech",
-      "date": "2026-07-30T09:09:27.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
       "id": "6a68f31c809ec7017dbc1e4e",
       "title": "I Got a Free Meal From a Private Chef—Who Filmed It All to Train Robots",
       "summary": "Courtesy of Shift AI When the private chef sent by Shift arrived at my apartment to cook a three-course meal, he was already ready to record. He walked through my front door wearing a baseball hat with a blocky, white camera attached to the brim. I signed up for a free lunch in exchange for the whole experience being recorded and uploaded as training data. As chef Ollie unpacked his supplies and started on a gazpacho, the hat cam recorded his hand movements, with the intention that this data could help build a better robot—one with culinary expertise. It’s all part of the growing boom of egocentric data collection—recording human hand movements from a first-person point of view. Shift made waves earlier this year by providing free cleaning services in New York City under a similar arrangement: Let Shift record tasks in your home and, in exchange, you get a gratis service.",
@@ -376,28 +673,6 @@
       "officialUrl": "https://www.engadget.com"
     },
     {
-      "id": "https://www.digitaltrends.com/?p=5994237",
-      "title": "The US foreign-made robot crackdown is coming for future Roombas too",
-      "summary": "The FCC has already made it much harder for foreign drone makers such as DJI to bring new products into the US. Now, the same crackdown is reaching a machine far more likely to be moving around your living room. The US government recently added foreign-made advanced robotic devices to the FCC's Covered List. The announcement appeared focused on humanoids, robot dogs, and industrial machines, but an FCC spokesperson has confirmed to The Verge that robot vacuum cleaners are covered too. Future foreign-made Roombas and rival robot vacuums will therefore be unable to receive the FCC authorization needed for sale in the US unless their manufacturers secure Conditional Approval. The restriction applies to products made in any foreign country, not only China.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/home/the-us-robot-crackdown-is-coming-for-future-roombas-too/",
-      "category": "Tech",
-      "date": "2026-07-30T08:49:12.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=5994245",
-      "title": "Runna’s new Adapt for Heat feature could make summer runs a lot more bearable",
-      "summary": "If you've ever cut a summer run short because the heat felt unbearable, you're definitely not alone. Runna, the top-rated running coach app, found that 80% of its users skip or adjust their runs because of hot weather. To fix that problem, the company just launched a new feature called \"Adapt for Heat\", and it's the update summer runners have been asking for. Running in the summer is tough. It can be hard to know whether to stick to your training plan or scale back to avoid injury or serious heat-related illnesses like heat stroke. Runna wants to change that with its new feature. Instead of guessing how much you should slow down on a scorching day, Adapt for Heat does the math for you.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/phones/runnas-new-adapt-for-heat-feature-could-make-summer-runs-a-lot-more-bearable/",
-      "category": "Tech",
-      "date": "2026-07-30T08:39:15.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
       "id": "http://feeds.fabbaloo.com/~/964477433/_/fabbaloo/default~Researchers-Test-Light-Guided-Responsive-D-Printing",
       "title": "Researchers Test Light Guided Responsive 3D Printing",
       "summary": "A research team has demonstrated an extrusion 3D printing workflow that changes its growth direction in response to live light sensing. The post Researchers Test Light Guided Responsive 3D Printing appeared on Fabbaloo.",
@@ -418,39 +693,6 @@
       "date": "2026-07-30T07:35:50.000Z",
       "hot": false,
       "officialUrl": "https://mashable.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=5994226",
-      "title": "Qualcomm confirms incoming price hike, and rising memory cost isn’t the only driving factor",
-      "summary": "If you were hoping your next Android phone might come with a friendlier price tag, you may want to temper your expectations. Qualcomm just confirmed it's raising chip prices starting September 1, and CEO Cristiano Amon didn't dress up the reason. \"Cost went up, prices are going to go up,\" he told CNBC. Qualcomm chips power a huge share of the world's Android phones, so a hike at the source is likely to reach store shelves eventually. Qualcomm's own earnings report points to a broad jump in costs across wafer fabrication, assembly, testing, packaging, and memory. Amon called the resulting hit to margins a temporary problem the company is fixing with price increases, though he did not say what margin the company is targeting.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/phones/qualcomm-confirms-incoming-price-hike-and-rising-memory-cost-isnt-the-only-driving-factor/",
-      "category": "Tech",
-      "date": "2026-07-30T07:32:09.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=5994230",
-      "title": "OpenAI president confirms a family of ChatGPT devices is coming soon",
-      "summary": "Talking to your computer instead of typing to it might sound like a sci-fi fantasy, but OpenAI is betting big on it. In a chat with Joanna Stern on her YouTube channel, OpenAI president Greg Brockman confirmed that the company is not stopping at just one gadget. Get ready, because a whole family of devices is on the way. When Stern brought up rumors of an AI smart speaker, Brockman did not confirm or deny it. Instead, he said, \"we're building a family of devices,\" adding that the focus is not on any single product but on delivering value over time. As for a launch date, Brockman kept things just as mysterious, only saying, \"you should expect them soon.\"",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/computing/openai-president-confirms-a-family-of-chatgpt-devices-is-coming-soon/",
-      "category": "Tech",
-      "date": "2026-07-30T06:54:11.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=5994219",
-      "title": "Microsoft is making a Copilot super app to end your AI app juggling",
-      "summary": "Microsoft has been dropping Copilot everywhere lately: chat, Cowork, coding, autonomous agents, and now it looks like all of it is getting stuffed into one place. During Wednesday's earnings call, CEO Satya Nadella confirmed the company is building an AI super app that brings every one of these Copilot experiences under a single roof. Nadella explained that Copilot has moved fast, going from a simple chat tool to Cowork and now to Autopilots, Microsoft's term for autonomous agents that can run long tasks on their own. He plans to combine all the tools into what he called a \"super app\" that works for both regular consumers and business customers. He did not share a launch date beyond \"this year,\" but he sounded confident, calling it a \"major step forward.\" Microsoft This is not coming out of nowhere either.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/computing/microsoft-is-making-a-copilot-super-app-to-end-your-ai-app-juggling/",
-      "category": "Tech",
-      "date": "2026-07-30T05:59:39.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
     },
     {
       "id": "108342188",
@@ -541,15 +783,14 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
-      "id": "https://www.digitaltrends.com/?p=5994179",
-      "title": "Polar is yet another AI browser, but it goes beyond just automating the mundane web chores",
-      "summary": "The AI browser race is entering a new phase. After spending much of 2025 trying to reinvent web search with built-in chatbots, startups are increasingly shifting their attention toward browser agents that can automate repetitive work instead of simply answering questions. The latest company to embrace that transition is Polar, a startup founded by former Perplexity engineer Kevin Zhang, which has raised $5.7 million in seed funding led by Madrona. Unlike the first generation of AI browsers that targeted everyday consumers, Polar is designed specifically for knowledge workers. Its premise is straightforward: instead of replacing Google Search, the browser aims to eliminate repetitive tasks that professionals perform across dozens of browser tabs every day. According to TechCrunch, Zhang believes the first wave of AI browsers focused too heavily on replacing default search engines or helping users complete occasional tasks such as booking flights and restaurant reservations.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/cool-tech/former-perplexity-engineer-launches-new-polar-ai-browser-which-aims-to-automate-repetitive-tasks/",
-      "category": "Tech",
-      "date": "2026-07-29T23:49:49.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
+      "id": "https://x.com/ideogram_ai/status/2082839902207779024?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Ideogram Launches P-Image-Ideogram: Pareto-Optimal Image Models Starting at $0.003",
+      "summary": "Today, we're introducing P-Image-Ideogram: a family of Pareto-optimal image models with the best quality-speed-cost trade-off, co-developed with @PrunaAI. Four quality modes. Native 1K and 2K generation. From $0.003 per image. Live now on the API and all our partner platforms.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://x.com/ideogram_ai/status/2082839902207779024?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-07-30T00:00:00.000Z",
+      "hot": false
     },
     {
       "id": "108340250",
@@ -572,28 +813,6 @@
       "date": "2026-07-29T23:09:42.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=5994174",
-      "title": "Waymo wants your next robotaxi ride to feel less like a taxi and more like your living room",
-      "summary": "Waymo is giving its robotaxis one of its biggest passenger-facing upgrades yet, bringing Google's Gemini AI assistant into the cabin alongside a redesigned in-car interface that reimagines how riders interact with autonomous vehicles. Both features will debut in the Ojai, Waymo's purpose-built robotaxi, as the company prepares to expand access to more public riders. Rather than changing how the vehicle drives, the update focuses on what passengers can do once they're inside, signalling that the next phase of the robotaxi race may be fought on experience rather than autonomy. For years, autonomous vehicle companies have competed on sensors, safety records and driverless capabilities. Waymo now appears confident enough in those foundations to shift attention toward the cabin itself, treating the journey as a product rather than simply a trip from one location to another. The headline feature is Gemini in Waymo, a conversational AI assistant that riders can activate by tapping a dedicated Gemini icon on the display.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/cars/waymo-wants-your-next-robotaxi-ride-to-feel-less-like-a-taxi-and-more-like-your-living-room/",
-      "category": "Tech",
-      "date": "2026-07-29T23:06:55.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
-      "id": "00rM9b2GawiZQibE3sgXkCQ",
-      "title": "RAMageddon is making it harder to find the best Windows laptops. These 8 are actually worth it.",
-      "summary": "What's new this monthIn late July 2026, I updated this guide with one fresh pick. I also replaced or removed three previous picks that were no longer available. The Asus Zenbook A14 remains my top choice for most people.The Asus ExpertBook Ultra is my new favorite Windows laptop for work: It's incredibly thin and light yet impressively powerful, and its display is dreamy. The Acer Swift Edge 14 AI succeeds the sold-out Lenovo Yoga 7 14 as the best Windows laptop for college students. Its ultraportable design, decent battery life, and competitive value won over our reviewer.I'm currently looking for replacements for Acer Aspire 16 AI and the Alienware 16X Aurora, our former picks in the budget and gaming categories, respectively. Both of them were out of stock at the time of writing.As a quick note before we get into the picks, Mashable evaluates laptops on the basis of performance, battery life, design/build quality, and value.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/best-windows-laptops-tested-2026",
-      "category": "Tech",
-      "date": "2026-07-29T23:00:52.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
     },
     {
       "id": "https://techcrunch.com/?p=3148017",
@@ -728,17 +947,6 @@
       "officialUrl": "https://decrypt.co"
     },
     {
-      "id": "03Zocvei19s9xAdwW6sG8sv",
-      "title": "The newest Visual Studio Pro just dropped to $29.97",
-      "summary": "TL;DR: Get a lifetime license for Microsoft Visual Studio Professional 2026 for $29.97 through Aug. 9 and code faster with AI-assisted development, cross-platform tools, and built-in collaboration. Opens in a new window Credit: Microsoft Microsoft Visual Studio Professional 2026 $29.97 $499.99 Save $470.02 Get Deal Development tools are one of the few things you use every day, so it's worth having an IDE that keeps up with the way you work. 9, you can get Microsoft Visual Studio Professional 2026 for $29.97 as a one-time purchase instead of paying for another recurring software subscription.The latest version is built for modern development, whether you're creating desktop apps, web projects, cloud services, or cross-platform software. Along with better performance, it adds deeper AI integration and collaboration features designed to speed up everyday coding. Mashable Deals Be the first to know!",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/july-29-microsoft-visual-studio-professional-2026",
-      "category": "Tech",
-      "date": "2026-07-29T22:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
       "id": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
       "title": "Mark Zuckerberg is planning a big push into personal AI agents",
       "summary": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf. On Wednesday’s Q2 2026 earnings call, CEO Mark Zuckerberg previewed a high-level vision of how the company is thinking about personal agents and what it will do to make them viable for users — and how it will convince less technical people to give them a shot: Soon we will have agents that can work 24/7 on your behalf to help you achieve your goals and improve your life, your health, your relationships, your finances, whatever you want. The first domain that agents have really taken off in is coding. But engineers are more technical and willing to spend time making those agents work, so to build great personal agents, this needs to be a great consumer product that just works out of the box and is easy enough for billions of people to adopt and use. Zuckerberg seems to be trying to differentiate his vision from that of companies like Anthropic and OpenAI, which have invested heavily in agents focused on coding and enterprise work.",
@@ -759,28 +967,6 @@
       "date": "2026-07-29T21:33:55.000Z",
       "hot": false,
       "officialUrl": "https://www.engadget.com"
-    },
-    {
-      "id": "03f5de5YpwEhnMgZHJlZoIq",
-      "title": "Apple said to delay smart glasses launch after Meta backlash",
-      "summary": "Apple is likely to wait until WWDC 2027 to unveil its own take on smart glasses. That's in part because of additional work on privacy features, and other product safeguards, at a time when Meta's smart glasses are coming under fire. According to Bloomberg's Mark Gurman, Apple views privacy as its top priority, with engineers and marketers trying hard to distinguish the company's approach from Meta's. Apple is expected to avoid using facial recognition in its smart glasses, while sending less data to the cloud and processing more in the device itself. The company also won't use customer recordings to train AI models. SEE ALSO: Being filmed by Meta smart glasses?",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/apple-smart-glasses-debut-delay-backlash",
-      "category": "Tech",
-      "date": "2026-07-29T21:25:31.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
-      "id": "108341861",
-      "title": "Qualcomm to raise prices during memory crunch as chipmaker issues light earnings guidance",
-      "summary": "\"Cost went up, prices are going to go up,\" Qualcomm CEO Cristiano Amon said in an interview.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/07/29/qualcomm-qcom-earnings-report-q3-2026-.html",
-      "category": "Business",
-      "date": "2026-07-29T21:19:52.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "https://techcrunch.com/?p=3147648",
@@ -849,17 +1035,6 @@
       "officialUrl": "https://www.techrepublic.com"
     },
     {
-      "id": "108341840",
-      "title": "Sam Altman to meet with White House's Wiles this week ahead of AI framework deadline",
-      "summary": "OpenAI CEO Sam Altman is meeting with a range of senior Trump administration officials, lawmakers and economists.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/07/29/altman-white-house-wiles-ai-framework.html",
-      "category": "Business",
-      "date": "2026-07-29T20:33:41.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
       "id": "https://www.macrumors.com/2026/07/29/apple-refurbished-studio-display-xdr/",
       "title": "Apple Begins Selling Refurbished Studio Display XDR",
       "summary": "Apple this month began selling certified refurbished Studio Display XDR models in the U.S. for the first time since the display was released in March. Availability extends to Australia, New Zealand, Canada, Japan, and select other countries. A refurbished Studio Display XDR with a VESA mount adapter and standard glass is priced at $2,459, down from $2,899 for the equivalent new configuration. This amounts to a 15% discount, which is typical for Apple's refurbished products. A refurbished model with a tilt- and height-adjustable stand and standard glass is priced at $2,799, down from $3,299, which is likewise a 15% discount.",
@@ -904,17 +1079,6 @@
       "officialUrl": "https://decrypt.co"
     },
     {
-      "id": "https://www.engadget.com/2226533/the-us-government-robot-ban-also-includes-vacuums/",
-      "title": "The US government's robot ban also includes vacuums",
-      "summary": "Robots reportedly don't need to be bipedal to be caught up in the FCC's new foreign-made robot ban. Med Photo Studio/Shutterstock The Federal Communications Commission's recently announced ban on foreign-made robots and power inverters also extends to robot vacuums, The Verge reports. Based on a statement provided to the publication by the FCC, the Commission's ban on robots covers new robot vacuum cleaners because they technically fit the ban's (admittedly broad) definition. Engadget has contacted the FCC for confirmation that robot vacuum cleaners are included in the ban. We'll update this article if we hear back. The FCC defines \"advanced robotic devices\" as a software-controlled autonomous robot that can perceive its environment, weighs more than 4.4lbs (inclusive of its dock), travels across the ground and offers wireless connectivity.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2226533/the-us-government-robot-ban-also-includes-vacuums/",
-      "category": "Tools",
-      "date": "2026-07-29T19:47:40.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
       "id": "https://techcrunch.com/?p=3147668",
       "title": "The Hugging Face break-in explained",
       "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
@@ -924,17 +1088,6 @@
       "date": "2026-07-29T19:44:49.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "02vOEt2j6qdBND14e3qWkp7",
-      "title": "The OpenAI-Hugging Face hack was worse than we thought",
-      "summary": "New details have emerged about a security incident in which an OpenAI AI model broke out of its testing environment and compromised Hugging Face's infrastructure.An update OpenAI published on July 28 filled in details that weren't part of the original disclosure. The AI agent also identified and used exposed credentials on four accounts across four other publicly available services, using one as a relay point and another for data storage, while accessing the remaining two in a read-only capacity. OpenAI said it has since notified the affected service owners and hasn't found evidence of broader impact to those platforms.On Wednesday, the cloud computing service Modal identified itself as one of those four affected parties.However, in its statement, Modal said its systems were never actually breached. According to Modal, the AI got in through a customer's own application that was set up without a password requirement, allowing code submitted by literally anyone on the internet to run. The AI's activity was limited to that one customer's isolated space and didn't spread to any other Modal customers, the company said.The OpenAI-Hugging Face hack first came to light in mid-July, when Hugging Face disclosed an intrusion into its systems that it described as \"different from anything we had handled,\" driven entirely by an autonomous AI agent. OpenAI followed with its own blog post explaining that the breach originated during an internal evaluation designed to test its models' hack...",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/openai-hugging-face-hack-worse-than-thought",
-      "category": "Tech",
-      "date": "2026-07-29T19:38:28.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
     },
     {
       "id": "https://www.macrumors.com/2026/07/29/applecare-changes-made-this-month/",
@@ -968,17 +1121,6 @@
       "date": "2026-07-29T19:30:22.000Z",
       "hot": false,
       "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/07/29/galaxy-z-fold8-review/",
-      "title": "Galaxy Z Fold8 Review: What Samsung's New Foldable Tells Us About the iPhone Ultra",
-      "summary": "Samsung announced its latest foldable smartphones last week, and the lineup included the Galaxy Z Fold8, a device that's close to what we're expecting Apple's foldable \"iPhone Ultra\" to look like when it comes out later this year. MacRumors videographer Dan Barbera has been testing Samsung's new foldable, and the wider 4:3 display bodes well for the &zwnj;iPhone Ultra&zwnj;. Unlike most of Samsung's Galaxy foldables, the Z Fold8 is wider with a tablet-like look and feel when it's unfolded. It's 5.5 inches when closed and 7.6 inches when open, and those are just about the exact dimensions we've seen rumored for the &zwnj;iPhone Ultra&zwnj;. It's not as tall or narrow as Samsung's other foldable smartphones, and it feels a lot more like using an iPad mini. A wider unfolded display is better for using two apps side-by-side, and it's also a better screen size for watching videos.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/07/29/galaxy-z-fold8-review/",
-      "category": "Tech",
-      "date": "2026-07-29T19:13:46.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "https://techcrunch.com/?p=3147626",
@@ -1047,17 +1189,6 @@
       "officialUrl": "https://arstechnica.com"
     },
     {
-      "id": "https://www.macrumors.com/2026/07/29/airpods-pro-3-prime-day-199-99/",
-      "title": "AirPods Pro 3 Still Available for Best Price Since Prime Day at $199.99",
-      "summary": "Amazon still has the AirPods Pro 3 available for $199.99, down from $249.00. This is the best price we've seen on the AirPods Pro 3 since Prime Day ended last month, coming in around $20 higher when compared to that all-time low price. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. This model of the AirPods Pro launched in September 2025 and has 2x better Active Noise Cancellation than the previous generation, better audio quality, a revised fit that's meant to improve comfort and stability, Live Translation for in-person conversations, and heart rate sensing for workouts. $49 OFFAirPods Pro 3 for $199.99 Head to our full Deals Roundup to get caught up with all of the latest deals and discounts that we've been tracking over the past week.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/07/29/airpods-pro-3-prime-day-199-99/",
-      "category": "Tech",
-      "date": "2026-07-29T17:24:01.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
       "id": "https://decrypt.co/?p=374653",
       "title": "Ethereum Price Stalls as Fed Rate Decision Looms",
       "summary": "Despite being down 1% today, ETH has clawed back from the worst levels of the year. Now it's waiting on the Fed.",
@@ -1080,17 +1211,6 @@
       "officialUrl": "https://feeds.feedburner.com"
     },
     {
-      "id": "https://www.macrumors.com/2026/07/29/gemini-for-mac-dictation/",
-      "title": "Gemini for Mac Adds System-Wide Voice Dictation and Screen-Aware Commands",
-      "summary": "Google today updated Gemini for Mac to add a new quick keyboard shortcut that activates voice mode. By long-pressing the Fn key, users can speak naturally to Gemini from any window on their desktop machine. Gemini supports intelligent dictation, so users can speak to the chatbot using natural language and Gemini will transcribe their words to text. Ums, ahs, and other filler words are removed during the process, and it can catch mid-sentence corrections, dropping formatted text at the cursor. There's an opt-in screen-aware reasoning mode. If enabled, Gemini can see what's on the Mac's screen to complete tasks.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/07/29/gemini-for-mac-dictation/",
-      "category": "Tech",
-      "date": "2026-07-29T16:46:53.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
       "id": "https://decrypt.co/?p=5719",
       "title": "What is Zcash (ZEC)? The Privacy Coin Using Zero-Knowledge Proofs",
       "summary": "Zcash is a privacy-focused cryptocurrency that enables users to hide key details of transactions by leveraging zk-SNARKs.",
@@ -1109,17 +1229,6 @@
       "sourceUrl": "https://decrypt.co/374646/ai-book-burning-companies-destroying-millions-books-chatbots",
       "category": "Tech",
       "date": "2026-07-29T16:38:25.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "https://decrypt.co/?p=374643",
-      "title": "SEC Ready to Provide Crypto Rules if Clarity Act Flounders: Chair Atkins",
-      "summary": "Passed by the House a year ago, the crypto market-structure bill dubbed the Clarity Act cleared still awaits a floor vote in the Senate.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/374643/sec-ready-to-provide-crypto-rules-if-clarity-act-flounders-chair-atkins",
-      "category": "Tech",
-      "date": "2026-07-29T16:09:34.000Z",
       "hot": false,
       "officialUrl": "https://decrypt.co"
     },
@@ -1166,17 +1275,6 @@
       "date": "2026-07-29T15:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3147736",
-      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-      "summary": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-      "category": "Business",
-      "date": "2026-07-29T14:41:06.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
     },
     {
       "id": "http://feeds.fabbaloo.com/~/964238366/_/fabbaloo/default~Stick-Tech%e2%80%99s-Patents-Point-Toward-A-Printer",
@@ -1254,17 +1352,6 @@
       "date": "2026-07-29T11:00:00.000Z",
       "hot": false,
       "officialUrl": "https://www.theverge.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3147680",
-      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
-      "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
-      "category": "Business",
-      "date": "2026-07-29T11:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
     },
     {
       "id": "6a5fd8026ac8fef420c80823",
@@ -1346,23 +1433,8 @@
         {
           "source": "The Verge AI",
           "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face"
-        },
-        {
-          "source": "Decrypt AI",
-          "url": "https://decrypt.co/374645/openais-rogue-ai-hacked-four-more-platforms-besides-hugging-face"
         }
       ]
-    },
-    {
-      "id": "https://techcrunch.com/?p=3147673",
-      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-      "summary": "The deal is Cyera's third acquisition this year.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-      "category": "Business",
-      "date": "2026-07-29T00:09:05.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
     },
     {
       "id": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
@@ -1530,17 +1602,6 @@
       "officialUrl": "https://arstechnica.com"
     },
     {
-      "id": "https://techcrunch.com/?p=3147594",
-      "title": "Bot-detection startup Spur nabs $200M from Insight",
-      "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-      "category": "Business",
-      "date": "2026-07-28T21:29:34.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
       "id": "0000019f-aa80-d49c-ad9f-aeb24ea70000",
       "title": "Trump administration bans foreign-made robots and power gear amid fears of Chinese influence",
       "summary": "Advanced robots and power inverters made overseas pose risks that could include blackouts and espionage on Americans, U.S. officials said.",
@@ -1651,15 +1712,15 @@
       "officialUrl": "https://www.techrepublic.com"
     },
     {
-      "id": "https://www.techrepublic.com/?p=4366508",
-      "title": "Silicon Valley Splits Over Chinese AI as Washington Weighs New Controls",
-      "summary": "US technology companies are resisting broad controls on Chinese AI models while enterprise teams weigh lower costs against security and governance concerns.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-silicon-valley-chinese-ai-debate/",
-      "category": "Business",
-      "date": "2026-07-28T13:08:37.000Z",
+      "id": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "summary": "From feet to fingertips \\u2014 DeepMind is teaching robots intelligent whole-body control, fine dexterity, and teamwork to complete a broad range of complex tasks.",
+      "source": "DeepMind Blog",
+      "sourceUrl": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "category": "Research",
+      "date": "2026-07-28T13:21:37.000Z",
       "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
+      "officialUrl": "https://deepmind.google"
     },
     {
       "id": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
@@ -1693,39 +1754,6 @@
       "date": "2026-07-28T12:30:00.000Z",
       "hot": false,
       "officialUrl": "https://www.theverge.com"
-    },
-    {
-      "id": "6a62391cd98c3c0f7d1d44ff",
-      "title": "Can the New York Times Save Journalism From Our AI Overlords?",
-      "summary": "For most companies, spending upwards of $20 million on a single legal fight with an uncertain outcome might mean the boss has some explaining to do. Sulzberger, the publisher of The New York Times, that explanation is simple: It’s the cost of defending journalism—at the Times and everywhere else. I sat down with Sulzberger in late July at WIRED’s offices. We talked about that Times lawsuit, how and where AI is transforming reporting inside the newsroom, and why he thinks journalists and media executives need to team up—even while they continue to compete fiercely. You can read our entire conversation below, or listen to it here. This interview has been edited for length and clarity.",
-      "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/",
-      "category": "Industry",
-      "date": "2026-07-28T10:30:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "6a5fbde4383cab8a0391b22f",
-      "title": "Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
-      "summary": "A decade ago, Ryan Carrier was a failed hedge fund manager watching as AI systems began to spin out of control. Facebook’s algorithms shook US elections, a Microsoft chatbot said the Holocaust was “made up,” and Tesla’s Autopilot killed its first driver. “There was no governance, oversight, or accountability,” Carrier says. To him, the AI-filled future awaiting his children looked bleak. Carrier went on that year to found ForHumanity, a nonprofit organization developing tools for auditing AI systems. It's raised just hundreds of thousands of dollars since 2016, and is still a minor player in the industry.",
-      "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
-      "category": "Industry",
-      "date": "2026-07-28T10:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/article/news-chatgpt-top-10-phishing-brand-ranking/",
-      "title": "ChatGPT Joins Most Faked Brands Ranking in Phishing, Check Point Says",
-      "summary": "ChatGPT entered Check Point’s top 10 phishing brand ranking as fake ChatGPT Plus payment failure emails targeted users’ credit card details.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-chatgpt-top-10-phishing-brand-ranking/",
-      "category": "Business",
-      "date": "2026-07-28T09:38:16.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "https://www.technologyreview.com/?p=1140853",
@@ -1926,17 +1954,6 @@
       "officialUrl": "https://arstechnica.com"
     },
     {
-      "id": "https://www.techrepublic.com/article/news-google-eu-ai-content-labeling-code-ai-act-emea/",
-      "title": "Google Signs EU AI Content Labeling Code Ahead of AI Act",
-      "summary": "Google will sign the EU's voluntary AI content labeling code as the bloc prepares to enforce new AI transparency requirements under the AI Act.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-google-eu-ai-content-labeling-code-ai-act-emea/",
-      "category": "Business",
-      "date": "2026-07-27T19:05:04.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
       "id": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
       "title": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
       "summary": "Verizon is seeking to tap into Silicon Valley’s AI spending in a big way. The telecom giant revealed a deal worth more than $1 billion to link Google data centers using Verizon’s dark fiber routes—and it’s also tearing copper wiring out of central offices as it converts them into small data centers suitable for supporting AI inference workloads. The telecom company publicly disclosed the Google partnership and data center conversion efforts as part of a new “AI Connect” business initiative during an earnings conference call covering the second quarter of 2026. Verizon also expects to announce additional AI-related deals by the end of the year that would be “worth multiple billions of dollars in revenue over the next several years,” said Dan Schulman, CEO of Verizon Communications, during the earnings call. “Now it really is about, 'how do you connect data center to data center to assure that you can optimize to maximize the ever-exploding need for compute?'” Schulman said. “And while that data center connectivity demand is exploding, there's an equal amount of desire and demand to power inference models and applications that need ultra-low latency, like robotics or remote surgery, autonomous driving, and move that out into the edge, as opposed to these big, massive data centers.”Read full article Comments",
@@ -1946,17 +1963,6 @@
       "date": "2026-07-27T18:48:41.000Z",
       "hot": false,
       "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/article/news-us-threatens-sanctions-chinese-ai-model-distillation-apac/",
-      "title": "US Threatens Sanctions Over Alleged Chinese AI Model Distillation",
-      "summary": "The Trump administration is considering sanctions against Chinese AI developers over alleged model distillation, escalating U.S.-China tensions over AI and intellectual property.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-us-threatens-sanctions-chinese-ai-model-distillation-apac/",
-      "category": "Business",
-      "date": "2026-07-27T18:21:30.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "https://www.technologyreview.com/?p=1140836",
@@ -1970,17 +1976,6 @@
       "officialUrl": "https://www.technologyreview.com"
     },
     {
-      "id": "https://www.techrepublic.com/article/news-nvidia-open-secure-ai-alliance/",
-      "title": "Nvidia Forms AI Security Alliance as Major Frontier Labs Sit Out",
-      "summary": "Nvidia’s Open Secure AI Alliance brings major tech and cybersecurity firms together to develop shared protections for enterprise AI agents and systems.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-nvidia-open-secure-ai-alliance/",
-      "category": "Business",
-      "date": "2026-07-27T17:05:37.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
       "id": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
       "title": "ChatGPT starts blocking direct requests to copy an author's style",
       "summary": "OpenAI's ChatGPT is now refusing requests to generate text that directly mimics the style of famous authors. When asked to do so, the popular LLM instead offers a response that draws on the \"broad qualities\" of those authors \"while remaining distinct in its own voice,\" for example. This morning, Ars received the following response to a test prompt asking for a story introduction in the style of Stephen King: I can definitely write with the hallmarks of atmospheric, character-driven horror and small-town dread, but I can't write in Stephen King's exact style or closely imitate his distinctive voice. Here's an original opening that captures a similar feeling while remaining its own.. In testing, ChatGPT generated similar dodges for other authors both living (J.K. Rowling, Amy Tan) and dead (Charles Dickens, Ernest Hemingway).",
@@ -1990,17 +1985,6 @@
       "date": "2026-07-27T16:58:46.000Z",
       "hot": false,
       "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/article/news-macbook-neo-a19-pro-ai/",
-      "title": "Rumored MacBook Neo With A19 Pro and 12GB Could Expand On-Device AI",
-      "summary": "Apple is reportedly testing a MacBook Neo with an A19 Pro chip and 12GB of unified memory, but its advanced AI eligibility remains unconfirmed.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-macbook-neo-a19-pro-ai/",
-      "category": "Business",
-      "date": "2026-07-27T15:09:24.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "https://news.microsoft.com/source/?p=25284",
@@ -2175,21 +2159,21 @@
       "hot": false
     },
     {
-      "id": "https://www.anthropic.com/news/cognizant-anthropic?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Cognizant Embeds Claude Across Platforms, Trains 30K+ Staff as Global Premier Partner",
-      "summary": "Successfully integrating AI into a large enterprise requires knowledge of the company's industry, the systems it already runs on, and the rules it operates under. Cognizant brings that domain context, along with the engineering depth and delivery scale to bring Claude to enterprises worldwide. Cognizant's engineers build with Claude every day, and more than 30,000 associates have completed Claude training. Cognizant is embedding Claude across several of its platforms, including Flowsource™, Neuro® AI Engineering, and Neuro® IT Ops. Flowsource, its full-stack engineering platform, now runs Claude Code alongside software engineers in its Spec-Driven Development module. Flowsource directs Claude Code using the specifications, coding standards, and architectural blueprints a project defines, then and then evaluates the output before production.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://www.anthropic.com/news/cognizant-anthropic?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-07-27T00:00:00.000Z",
-      "hot": false
-    },
-    {
       "id": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Microsoft Launches MAI-Cyber-1-Flash Security AI Model, Cuts Costs 50% via MDASH",
       "summary": "Models Latest models Discover the latest MAI models, designed for real-world intelligence MAI-Voice-2 MAI-Thinking-1 MAI-Code-1-Flash MAI-Transcribe-1.5 All models MAI-Image-2.5 Create notable, design-ready images from any text or photo prompt, with best-in-class Arena ELO scores at a lower price. Delivers expressive, low-latency speech that holds up across long generations. Built for the complex problems that matter most, with competitive reasoning and top SWE-Bench Pro results at a mid-weight price. Helps your engineering team write better code faster, with a lightweight, agentic model built into GitHub Copilot and VS Code. Turn noisy audio into precise, domain-specific transcripts, with leading FLEURS and Artificial Analysis accuracy scores.",
       "source": "FutureTools News",
       "sourceUrl": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-07-27T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://www.anthropic.com/news/cognizant-anthropic?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Cognizant Embeds Claude Across Platforms, Trains 30K+ Staff as Global Premier Partner",
+      "summary": "Successfully integrating AI into a large enterprise requires knowledge of the company's industry, the systems it already runs on, and the rules it operates under. Cognizant brings that domain context, along with the engineering depth and delivery scale to bring Claude to enterprises worldwide. Cognizant's engineers build with Claude every day, and more than 30,000 associates have completed Claude training. Cognizant is embedding Claude across several of its platforms, including Flowsource™, Neuro® AI Engineering, and Neuro® IT Ops. Flowsource, its full-stack engineering platform, now runs Claude Code alongside software engineers in its Spec-Driven Development module. Flowsource directs Claude Code using the specifications, coding standards, and architectural blueprints a project defines, then and then evaluates the output before production.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.anthropic.com/news/cognizant-anthropic?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-07-27T00:00:00.000Z",
       "hot": false
