@@ -1,16 +1,71 @@
 {
-  "lastUpdated": "2026-07-31T04:36:16.920Z",
+  "lastUpdated": "2026-07-31T06:46:19.473Z",
   "news": [
     {
-      "id": "https://www.investing.com/news/stock-market-news/chinas-minimax-launches-h3-ai-model-shares-jump-on-multimodal-push-4826734",
-      "title": "China’s MiniMax launches H3 AI model; shares jump on multimodal push",
+      "id": "https://www.investing.com/news/stock-market-news/unicaja-banco-raises-2026-profit-guidance-after-second-quarter-beat-93CH-4826780",
+      "title": "Unicaja Banco raises 2026 profit guidance after second quarter beat",
       "summary": "",
       "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/chinas-minimax-launches-h3-ai-model-shares-jump-on-multimodal-push-4826734",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/unicaja-banco-raises-2026-profit-guidance-after-second-quarter-beat-93CH-4826780",
       "category": "Business",
-      "date": "2026-07-31T04:27:08.000Z",
+      "date": "2026-07-31T06:10:39.000Z",
       "hot": false,
       "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.engadget.com/2227630/anthropic-ai-models-hacked-three-organizations-on-their-own/",
+      "title": "Anthropic says its AI models also hacked three organizations on their own",
+      "summary": "The company started reviewing test logs after OpenAI’s revelation that its agent hacked Hugging Face. jackpress/Shutterstock Apparently, OpenAI isn't the only company whose AI models have hacked into other organizations' systems on their own. Anthropic has published a report, admitting that its AI models have also broken free from their testing environment and infiltrated three different organizations, which apparently weren't aware of the breach until they were notified. After OpenAI revealed the incident, wherein an AI agent it was testing exploited vulnerabilities to connect to the internet and hack into Hugging Face, Anthropic began a large-scale review of its own tests. The company specifically looked for evidence that its Claude models had accessed the internet when they shouldn't have been able to. Turns out the models were able to access the internet in three instances and then \"gained unauthorized access to the production infrastructure of three different organizations.\"",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2227630/anthropic-ai-models-hacked-three-organizations-on-their-own/",
+      "category": "Tools",
+      "date": "2026-07-31T06:10:12.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/anthropics-ai-hacked-three-companies-during-tests-highlighting-growing-security-risks-4826776",
+      "title": "Anthropic’s AI hacked three companies during tests, highlighting growing security risks",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/anthropics-ai-hacked-three-companies-during-tests-highlighting-growing-security-risks-4826776",
+      "category": "Business",
+      "date": "2026-07-31T06:06:28.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-026-4826775",
+      "title": "Taiwan stocks lower at close of trade; Taiwan Weighted down 0.26%",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-026-4826775",
+      "category": "Business",
+      "date": "2026-07-31T06:05:04.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=5994512",
+      "title": "Samsung may finally be working on Galaxy Buds that won’t fall out during a run",
+      "summary": "Samsung has largely stuck with traditional designs for its Galaxy Buds lineup over the years, with the bean-shaped Galaxy Buds Live standing out as the one truly radical departure. But that appears to be changing, as Samsung experiments with designs its rivals have embraced for years. Just a day after leaked renders offered an early look at the clip-on Galaxy Buds On, a new leak has shed light on another upcoming pair of Galaxy Buds targeted at gym-goers and athletes. According to SamMobile, Samsung is working on another pair of buds internally codenamed \"Buds Canal 5.\" Leaked renders suggest that they may be aimed squarely at users who want earbuds for workouts and running rather than everyday listening. SamMobile The renders show flat ear hooks paired with an ear tip that sits in the ear canal, a layout previously seen in countless other fitness-focused earbuds already on the market. It's not immediately clear if the tips form a full in-ear seal for stronger noise isolation or a half in-ear fit that trades isolation for a more open, breathable feel.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/home-theater/samsung-may-finally-be-working-on-galaxy-buds-that-wont-fall-out-during-a-run/",
+      "category": "Tech",
+      "date": "2026-07-31T05:55:10.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=5994513",
+      "title": "Claude went rogue during a test and broke into three real companies",
+      "summary": "Just a few days after it was revealed that ChatGPT hacked multiple services, Anthropic has also published an uncomfortable admission. During routine cybersecurity testing, its Claude models broke out of what were supposed to be sealed-off practice environments and ended up hacking into the real systems of three different companies. Anthropic runs capture-the-flag-style tests to see how good Claude is at offensive hacking. The model is dropped into a fictional scenario, told a piece of secret data is hidden somewhere on the network, and asked to go find it. The catch is that Claude was explicitly told it had no internet access in these tests. Turns out that wasn't true.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/computing/claude-went-rogue-during-a-test-and-broke-into-three-real-companies/",
+      "category": "Tech",
+      "date": "2026-07-31T05:38:57.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
     },
     {
       "id": "https://www.digitaltrends.com/?p=5994504",
@@ -22,28 +77,6 @@
       "date": "2026-07-31T04:09:59.000Z",
       "hot": false,
       "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/asia-stocks-climb-as-kospi-rebounds-tracking-wall-st-gains-boj-holds-rates-4826719",
-      "title": "Asia stocks climb as KOSPI rebounds tracking Wall St gains; BOJ holds rates",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/asia-stocks-climb-as-kospi-rebounds-tracking-wall-st-gains-boj-holds-rates-4826719",
-      "category": "Business",
-      "date": "2026-07-31T03:37:07.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/why-is-zai-stock-surging-today-93CH-4826712",
-      "title": "Why is Z.AI stock surging today?",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/why-is-zai-stock-surging-today-93CH-4826712",
-      "category": "Business",
-      "date": "2026-07-31T03:24:03.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
     },
     {
       "id": "https://www.digitaltrends.com/?p=5994498",
@@ -728,17 +761,6 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "https://www.engadget.com/2222920/google-voice-paid-subscriptions-more-than-just-phone-number/",
-      "title": "Google Voice paid subscriptions offer more than just a phone number",
-      "summary": "Google Google Voice is a Voice over Internet Protocol (VoIP) service that provides individuals and small businesses with a virtual phone number they can use for calls, texts and voicemails. It uses either a web or mobile app, and the advantage is that your personal phone number is kept private. A call or text message is routed through your internet connection or mobile carrier network, so you're able to communicate not only from your smartphone but also from a deskphone or even your computer. There's even the option to make and receive calls directly from the Gmail app. But Google Voice can do a lot more with the right plan. There are three plans from which you can choose.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2222920/google-voice-paid-subscriptions-more-than-just-phone-number/",
-      "category": "Tools",
-      "date": "2026-07-30T15:30:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
       "id": "https://decrypt.co/?p=374725",
       "title": "Australia Sues Telegram for $38M Over ‘Pro-Terror’ Videos",
       "summary": "The eSafety Commissioner accused the social media platform of failing to detect material relating to the Christchurch and Buffalo attacks.",
@@ -858,17 +880,6 @@
       "date": "2026-07-30T14:46:33.000Z",
       "hot": false,
       "officialUrl": "https://mashable.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=5994372",
-      "title": "Mercedes-Benz reveals the 2028 GLA in two flavors and plenty of cool tech",
-      "summary": "Mercedes-Benz just gave its smallest SUV a serious glow-up. The automaker unveiled the redesigned 2028 GLA, its entry-level compact SUV, arriving in both fully electric and hybrid form. Like the recently redesigned CLA sedan, the GLA now rides on Mercedes' next-generation MMA platform. Mercedes-Benz The electric lineup includes two trims, and the difference between them actually matters depending on how you drive. The GLA250+ sticks with a single motor and 268 horsepower, prioritizing range over speed. The GLA350 adds a second motor for all-wheel drive, 349 horsepower, and cuts the 60-mph sprint down to 5.3 seconds.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/cars/mercedes-benz-reveals-the-2028-gla-in-two-flavors-and-plenty-of-cool-tech/",
-      "category": "Tech",
-      "date": "2026-07-30T14:28:20.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
     },
     {
       "id": "https://www.techrepublic.com/article/news-hugging-face-deepfake-vendor-risk/",
