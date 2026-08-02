@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2026-08-01T23:28:01.405Z",
+  "lastUpdated": "2026-08-02T01:05:47.503Z",
   "news": [
+    {
+      "id": "https://www.macrumors.com/2026/08/01/things-we-know-about-2028-iphone/",
+      "title": "6 Things We Already Know About the 2028 iPhone",
+      "summary": "Rumors about Apple's 2028 iPhone are already starting to circulate, offering an early look at how the company plans to evolve the iPhone's design, display, and cameras. The 2028 device will follow the 20th anniversary iPhone, which is set to introduce a display that curves down around all four edges for a near borderless effect. Reports suggest the first version of that design will launch with some visible compromises, and that the 2028 model is where Apple intends to resolve them. As with all rumors this far out, the details remain subject to change. Because the 2028 iPhone is expected to refine the anniversary design rather than replace it, it should carry over much of what defines the 2027 model. That includes the curved all-glass body with a display that wraps around all four edges, a crater-shaped light diffusion layer that keeps brightness uniform across the curved screen, and a potential shift to solid-state haptic buttons integrated into the frame.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/08/01/things-we-know-about-2028-iphone/",
+      "category": "Tech",
+      "date": "2026-08-02T01:00:10.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
     {
       "id": "https://www.digitaltrends.com/?p=5994879",
       "title": "Galaxy S27 Ultra price hike looks unavoidable as component prices continue to spiral",
@@ -341,6 +352,16 @@
       "date": "2026-08-01T00:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
+    },
+    {
+      "id": "https://openai.com/index/ten-advances-in-mathematics/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "OpenAI's Astra Solves 10 Decade-Old Math Problems in Geometry, Cryptography & More",
+      "summary": "(opens in a new window)Read the reasoning walkthroughs(opens in a new window)Loading…ShareThe resultsThe resultsResponsibility to the mathematical communityThe resultsResponsibility to the mathematical communityWe want to empower scientists and mathematicians with tools that accelerate discovery. That is why we recently announced ChatGPT for Academic Researchers⁠, an initiative providing 100,000 scientists and mathematicians with free access to our best ChatGPT models. We also continue to evaluate our models on open research problems during development. In May, we shared an AI-generated disproof⁠ of the Erdős unit-distance conjecture, discovered while evaluating an unreleased model. This work has already inspired further developments in mathematics and theoretical computer science1. Today, we are sharing a selection of ten results to problems that have been open and have seen no progress on the main result for at least a decade, and in most cases much longer.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://openai.com/index/ten-advances-in-mathematics/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-01T00:00:00.000Z",
+      "hot": false
     },
     {
       "id": "https://x.ai/news/grok-imagine-video-1-5-references?utm_source=futuretools.io&utm_medium=newspage",
@@ -1170,17 +1191,6 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
-      "id": "https://www.macrumors.com/2026/07/30/tim-cook-on-apple-price-increases/",
-      "title": "Tim Cook: Apple 'Reluctantly Raised Prices' Due to '100-Year Flood on Memory Pricing'",
-      "summary": "Apple didn't want to raise its prices but was forced to do so because of exponential increases in memory costs, Apple CEO Tim Cook said today during the company's Q3 2026 earnings call. Apple increased prices for Macs and iPads in June because memory prices have surged. On the pricing front, you know, we reluctantly raised prices. I would say we did it because we're in what I would characterize as a 100-year flood on memory pricing with exponential increases in memory prices, so that was the rationale for it. When asked whether Apple is aiming to protect gross profit dollars or product gross margins when considering pricing increases, Cook said it's multifactorial. In terms of our philosophy on dollars or percentages, we look at units, revenue, and margin, and then come to a business judgment as to how to handle that, and so it's not a mathematical formula that gets us to a specific result, or just looking at one dimension of that.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/07/30/tim-cook-on-apple-price-increases/",
-      "category": "Tech",
-      "date": "2026-07-30T22:48:13.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
       "id": "https://www.techrepublic.com/article/news-hp-intel-business-pcs-flexible-work/",
       "title": "HP’s Intel Business PC Lineup Targets Flexible Work",
       "summary": "HP’s Intel-powered EliteBook, ProBook, and EliteDesk lineup gives IT teams more options for AI performance, mobility, and management.",
@@ -1967,6 +1977,28 @@
       "officialUrl": "https://openai.com"
     },
     {
+      "id": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "summary": "",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "category": "Research",
+      "date": "2026-07-28T16:27:42.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
+    },
+    {
+      "id": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "summary": "Managed Agents in Gemini API now default to Gemini 3.6 Flash. New environment hooks let you block, lint, or audit tool calls inside the sandbox. Also, Google AI has added budget controls, scheduled triggers, and free tier access. Member of the Technical Staff, Google DeepMind Your browser does not support the audio element. Managed Agents in Gemini API are getting environment hooks, model selection, and free tier access.",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "category": "Research",
+      "date": "2026-07-28T16:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://blog.google"
+    },
+    {
       "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
       "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
       "summary": "",
@@ -2042,149 +2074,6 @@
       "date": "2026-07-28T01:07:41.000Z",
       "hot": false,
       "officialUrl": "https://rss.politico.com"
-    },
-    {
-      "id": "https://x.ai/news/grok-github-copilot?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "xAI's Grok 4.5 Now Available in GitHub Copilot for Millions of Developers",
-      "summary": "XAI's Grok 4.5, described as the company's smartest coding model, is now available in GitHub Copilot for millions of developers using VSCode and GitHub products. Users can select it from the model picker, though some businesses and enterprises must first enable it in Copilot settings. Grok 4.5 is also accessible via the xAI console at $2 per million input tokens and $6 per million output tokens. GitHub Copilot spans cloud agents, the Copilot CLI, and the VSCode IDE.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://x.ai/news/grok-github-copilot?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-07-28T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://www.youtube.com/watch?v=WeP9VUf1OoE&utm_source=futuretools.io&utm_medium=newspage",
-      "title": "OpenAI Launches gpt-transcribe and gpt-live-transcribe for Batch and Live Audio",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://www.youtube.com/watch?v=WeP9VUf1OoE&utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-07-28T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "OpenAI, Anthropic & Google Staff Urge US Gov to Regulate Automated AI Development",
-      "summary": "The statement follows a recent high-profile cybersecurity incident that rocked the AI industry. The statement follows a recent high-profile cybersecurity incident that rocked the AI industry. “Al could help create a dramatically better future, but that outcome is not guaranteed,” the employees wrote in the statement. “The world’s leading Al companies believe they could be close to automating Al research. It is hard to predict exactly how much this will accelerate Al progress, but there is a real risk that capability development rapidly accelerates beyond our ability to understand or control the resulting systems.” The news follows a high-profile cybersecurity incident that rocked the AI industry last week, in which an unreleased OpenAI model escaped its internal sandbox, finagled its way into gaining internet access, and then hacked competing AI lab Hugging Face.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-07-28T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://www.cnbc.com/2026/07/28/trump-administration-to-ban-new-chinese-robots-and-inverters-protecting-us-ai.html?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "FCC Bans Chinese Humanoid Robots & Power Inverters to Protect U.S. AI Supply Chain",
-      "summary": "The Trump administration on Tuesday plans to unveil new bans that target imports of ⁠the latest ‌Chinese robots and power inverters, seeking ⁠to protect the U.S. AI buildout from national security threats and reshore key industries slated for explosive growth, U.S. officials said.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://www.cnbc.com/2026/07/28/trump-administration-to-ban-new-chinese-robots-and-inverters-protecting-us-ai.html?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-07-28T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://www.perplexity.ai/hub/blog/personal-computer-on-windows?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Perplexity AI Launches Personal Computer Agent for Windows, Targeting 1B+ Devices",
-      "summary": "Perplexity AI has launched Personal Computer for Windows, bringing its AI agent platform to over one billion devices globally. The tool lets users work across local files, Microsoft Office 365, and the web in a single workflow. It integrates with Word, Excel, PowerPoint, Outlook, and Teams, and connects to plus apps via App Connectors, including Snowflake, Salesforce, and HubSpot. Since launching earlier this year, Computer has performed over $9.4 billion in labor-equivalent work. It is available today for Max and Enterprise Max subscribers.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://www.perplexity.ai/hub/blog/personal-computer-on-windows?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-07-28T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://www.techtimes.com/articles/321835/20260728/ai-toilet-camera-raises-10m-track-gut-health-where-wearables-cannot-reach.htm?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Throne Science Raises $10M for AI Toilet Camera That Tracks Gut Health",
-      "summary": "Throne Science has raised $10 million in Series A funding to bring its AI-powered toilet camera to more consumers. The Throne One passively tracks gut health, hydration, and urinary function using 12 computer vision models trained by gastroenterologists — filling the health-monitoring gap that",
-      "source": "FutureTools News",
-      "sourceUrl": "https://www.techtimes.com/articles/321835/20260728/ai-toilet-camera-raises-10m-track-gut-health-where-wearables-cannot-reach.htm?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-07-28T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Claude Mythos Preview Finds Critical Weaknesses in HAWK Post-Quantum Crypto and AES",
-      "summary": "Using Claude Mythos Preview, researchers at Anthropic have discovered improved ways to attack cryptographic algorithms (the mathematical methods used to keep online data private). The first attack significantly weakens HAWK, a digital signature scheme that was built for a post-quantum world. The second identifies a new way to attack round-reduced AES, the most widely used symmetric cipher. These are substantial research advances, but they do not currently affect any production systems. This post describes both findings in more detail and discusses the implications for cryptography in an age of powerful AI models. When we launched Claude Mythos Preview, we showed it was able to autonomously find and exploit vulnerabilities in almost every piece of software we pointed it at.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-07-28T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://www.wsj.com/opinion/the-ai-future-is-for-everyone-a0c24e20?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Meta CEO Zuckerberg: Superintelligence Should Empower Everyone, Not Centralized Few",
-      "summary": "In a Wall Street Journal op-ed, Meta CEO Mark Zuckerberg argues that superintelligence should be distributed to everyone rather than concentrated among a few institutions. He outlines three principles: individual empowerment, invention as AI's primary purpose, and balance of power as the foundation of safety. Zuckerberg warns that centralizing superintelligence would give controlling influence over economics, science, and politics, and predicts widely distributed AI will create more jobs and a more entrepreneurial economy.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://www.wsj.com/opinion/the-ai-future-is-for-everyone-a0c24e20?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-07-28T00:00:00.000Z",
-      "hot": false,
-      "access": "paywalled"
-    },
-    {
-      "id": "https://x.com/fishaudio/status/2082152596739862853?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Fish Audio raises $52M seed, launches S2.1 Pro voice cloning model at 1/6th cost of ElevenLabs",
-      "summary": "Today we’ve raised $52M Seed and we are announcing the public launch of S2.1 Pro. >It can clone a voice from 5 seconds of audio >2x faster than Cartesia & 1/6th the cost of Eleven Labs >most expressive model with word level control over emotion, intonation, pacing etc We",
-      "source": "FutureTools News",
-      "sourceUrl": "https://x.com/fishaudio/status/2082152596739862853?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-07-28T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://x.ai/news/grok-build-mode?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "xAI Launches Grok Build Mode Beta: Create Apps, Games & Websites via Chat",
-      "summary": "XAI has launched Build Mode, a new beta feature for Grok that lets users create websites, apps, games, and interactive dashboards through conversational chat. Available exclusively to SuperGrok Heavy subscribers on grok.com, iOS, and Android, Build Mode generates working code and live previews directly inside the chat window with no installation or configuration required. Users can publish finished projects to a grok.me link or a custom domain and share them instantly. Examples include 3D driving games, business landing pages, planners, and live data dashboards.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://x.ai/news/grok-build-mode?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-07-28T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://huggingface.co/blog/allenai/olmoearth-infrastructure?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Ai2 Launches OlmoEarth Platform for Planetary-Scale Geospatial AI Inference",
-      "summary": "Ai2 has launched the OlmoEarth Platform, infrastructure for running its family of Earth observation foundation models — pretrained on roughly 10 terabytes of multimodal satellite data — at planetary scale. The platform supports continent-scale inference in about a day, processing dozens of terabytes of imagery at fractions of a penny per square kilometer. A recent North America wildfire-risk map used 19,600 CPUs and 994 GPUs in parallel, achieving a 155× speedup. Target users include governments and NGOs working on deforestation monitoring, food security, and wildfire risk.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://huggingface.co/blog/allenai/olmoearth-infrastructure?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-07-28T00:00:00.000Z",
-      "hot": false,
-      "relatedCoverage": [
-        {
-          "source": "Hugging Face Blog",
-          "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure"
-        }
-      ]
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Gemini API Managed Agents Add 3.6 Flash Default, Environment Hooks & Free Tier",
-      "summary": "Managed Agents in Gemini API now default to Gemini 3.6 Flash. New environment hooks let you block, lint, or audit tool calls inside the sandbox. Also, we’ve added budget controls, scheduled triggers, and free tier access. Member of the Technical Staff, Google DeepMind Your browser does not support the audio element. Managed Agents in Gemini API are getting environment hooks, model selection, and free tier access.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-07-28T00:00:00.000Z",
-      "hot": false,
-      "relatedCoverage": [
-        {
-          "source": "Google AI Blog",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/"
-        }
-      ]
-    },
-    {
-      "id": "https://x.com/trymirage/status/2082120270618530053?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Mirage Launches Avatar X AI Model With Micro-Expression Preservation and 10-Second Setup",
-      "summary": "Introducing Mirage Avatar X, the new standard for AI avatar models. Avatar X delivers industry-leading identity preservation, the most expressive AI avatars available, and supports both vertical and horizontal video. It looks like you. It moves like you. It sounds like you.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://x.com/trymirage/status/2082120270618530053?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-07-28T00:00:00.000Z",
-      "hot": false
     }
   ]
 }
