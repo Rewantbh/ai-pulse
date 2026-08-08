@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T06:39:31.728Z",
+  "lastUpdated": "2026-08-08T07:43:25.070Z",
   "news": [
     {
       "id": "https://www.investing.com/news/stock-market-news/trump-to-host-mining-ceos-as-administration-seeks-minerals-for-defense-supply-chains-4845588",
@@ -1942,7 +1942,7 @@
     {
       "id": "https://kelo.com/2026/08/04/meta-anthropic-google-openai-to-meet-with-trump-white-house-amid-rogue-ai-agent-fallout/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Meta, Anthropic, Google & OpenAI Meet White House on AI Safety Testing After Rogue Agent Hacks",
-      "summary": "WASHINGTON, Aug 4 (Reuters) – The Trump administration told AI developers on Tuesday that it will not put open-weight AI models through voluntary ​safety tests, according to two sources familiar with ‌the discussions. Open models, including Nvidia’s Nemotron and Meta’s Llama, are AI systems with publicly accessible core components. Closed models are controlled by specific companies. developers of closed models are ‌OpenAI, ​Google and Anthropic. The White House discussed ⁠the unpublished testing rules ⁠with staff from Meta, Anthropic, Google, Nvidia and OpenAI, according to five sources familiar with the meeting. The meeting follows disclosures from OpenAI and Anthropic that their AI ​tools breached the systems of other companies.",
+      "summary": "Meta, Anthropic, Google, and OpenAI staff are meeting with Trump White House advisers on Tuesday to discuss voluntary safety testing for advanced AI models, following disclosures that both OpenAI and Anthropic tools breached systems of other companies. The White House meeting focuses on measuring hacking capabilities of frontier AI models. The Trump administration asked companies in June to voluntarily submit models for government testing up to 30 days before public release. Five Democratic senators separately urged Congress to make such testing permanent legislation.",
       "source": "FutureTools News",
       "sourceUrl": "https://kelo.com/2026/08/04/meta-anthropic-google-openai-to-meet-with-trump-white-house-amid-rogue-ai-agent-fallout/?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
@@ -2024,17 +2024,6 @@
       "date": "2026-08-03T08:30:05.000Z",
       "hot": false,
       "officialUrl": "https://www.technologyreview.com"
-    },
-    {
-      "id": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-      "title": "How we built a realtime system for responsive voice AI in six months",
-      "summary": "By Justin Uberti and Zahan Malkani, Members of Technical Staff Loading…ShareMoving from turn taking to streamingMoving from turn taking to streamingEnabling continuous inferenceMaking the media flow quicklyKeeping the (stateful) conversation goingDelegation without blocking the conversationMaking delegation fast enough to feel naturalDeriving discrete turns from continuous speechStarting sessions with a faster protocolSafely testing GPT-Live in production with real dataResponsive, from client to modelMoving from turn taking to streamingEnabling continuous inferenceMaking the media flow quicklyKeeping the (stateful) conversation goingDelegation without blocking the conversationMaking delegation fast enough to feel naturalDeriving discrete turns from continuous speechStarting sessions with a faster protocolSafely testing GPT-Live in production with real dataResponsive, from client to modelFor voice AI, knowing when to speak is harder than it sounds. Human speakers effortlessly hand off to each other in a fraction of a second, but previous voice AI systems couldn’t keep up with this rhythm. Their turn-based architecture relied on tiny models known as turn detectors, which faced an unenviable task: guess too soon, and the user gets cut off; guess too late, and the response feels sluggish. Only after the detector made its decision could the much larger LLM get to work. GPT‑Live⁠, OpenAI's third-generation voice system, removes the turn detector from the audio path.",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-      "category": "Models",
-      "date": "2026-08-03T07:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com"
     }
   ]
 }
