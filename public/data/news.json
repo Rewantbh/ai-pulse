@@ -1,6 +1,50 @@
 {
-  "lastUpdated": "2026-08-08T10:04:13.311Z",
+  "lastUpdated": "2026-08-08T10:59:50.254Z",
   "news": [
+    {
+      "id": "https://blogs.nvidia.com/?p=97258",
+      "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
+      "summary": "The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies high-performance AI infrastructure. Nikol Pashinyan, prime minister of the Republic of Armenia; Zhaslan Madiyev, deputy prime minister of the Republic of Kazakhstan; and David Allen, U.S. in Armenia, attended the AI factory opening ceremony. AI factories are the foundational infrastructure for the AI era, providing the computing capacity needed to train, fine-tune and deploy AI models for every domain at scale. Building the Infrastructure to Create Intelligence at Home While AI services are available globally, countries also need the capacity to develop and run AI for their own languages, industries and national priorities. Firebird’s AI factory brings that capacity to Armenia, giving developers, startups, enterprises, universities and public institutions the compute to build and scale AI at home.",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
+      "category": "Events",
+      "date": "2026-08-08T10:24:54.000Z",
+      "hot": false,
+      "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/08/08/claude-code-adds-cross-session-messaging/",
+      "title": "Claude Code Adds Cross-Session Messaging on macOS",
+      "summary": "Anthropic has updated Claude Code so that separate coding sessions can message each other directly, removing the need to manually copy context between Terminal windows. The company shipped the feature in Claude Code version 2.1.224, released on Friday for macOS and Linux. Two new tools power it: ListAgents, which finds other active sessions running on the Mac, and SendMessage, which delivers the message. A session that receives one shows it as a labeled card with a link back to the sender. According to Anthropic's documentation, only text passes between sessions, not conversation history, files, or permissions. One session can warn another when a change breaks something it depends on, or pass along an answer another session is waiting on, and Anthropic says an incoming message can't approve a permission request or change a session's settings on its own.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/08/08/claude-code-adds-cross-session-messaging/",
+      "category": "Tech",
+      "date": "2026-08-08T10:22:46.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "6a726b62c3f164692f3de805",
+      "title": "How to Disable Gemini in Gmail and Google Docs",
+      "summary": "Have you noticed how desperate tech companies are to get you to use their artificial intelligence features, even if you don’t want to use them? They're adding buttons to user interfaces and using pop-up tool tips to implore you to click them and become a dedicated user of their AI creations. Google Docs, for example, is rolling out a giant Gemini bar at the bottom of the screen for some users. I first noticed this feature back in April, when it showed up in the Google Docs account I use to collaborate with editors. Apparently I was part of the pool of users chosen to test the feature. I know people who have never seen this box, and I've seen reports of it showing up for people in the last few weeks.",
+      "source": "Wired AI",
+      "sourceUrl": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
+      "category": "Industry",
+      "date": "2026-08-08T10:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.wired.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/nvidia-analysis-should-you-buy-the-stock-into-earnings-amid-10yr-low-valuation-93CH-4847641",
+      "title": "Nvidia analysis: Should you buy the stock into earnings amid 10-yr low valuation?",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/nvidia-analysis-should-you-buy-the-stock-into-earnings-amid-10yr-low-valuation-93CH-4847641",
+      "category": "Business",
+      "date": "2026-08-08T09:55:23.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
     {
       "id": "https://www.macrumors.com/2026/08/08/iphone-17-prices-could-rise-as-soon-as-monday/",
       "title": "iPhone 17 Prices Could Rise as Soon as Monday, Rumor Claims",
@@ -64,17 +108,6 @@
       "sourceUrl": "https://www.investing.com/news/stock-market-news/trump-to-host-mining-ceos-as-administration-seeks-minerals-for-defense-supply-chains-4845588",
       "category": "Business",
       "date": "2026-08-08T02:55:15.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/nvidia-to-invest-up-to-3-billion-in-lancium-the-information-reports-4847578",
-      "title": "Nvidia to invest up to $3 billion in Stargate data center developer Lancium, the Information reports",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/nvidia-to-invest-up-to-3-billion-in-lancium-the-information-reports-4847578",
-      "category": "Business",
-      "date": "2026-08-08T02:42:49.000Z",
       "hot": false,
       "officialUrl": "https://www.investing.com"
     },
@@ -640,17 +673,6 @@
       "officialUrl": "https://feeds.macrumors.com"
     },
     {
-      "id": "https://www.engadget.com/2232256/chinese-ai-kimi-k3-also-escaped-containment/",
-      "title": "Chinese AI model Moonshot Kimi K3 also escaped its testing environment",
-      "summary": "But it not, unlike OpenAI and Anthropic's models, hack a third-party website or service. Summit Art Creations/Shutterstock It wasn't too long ago when the idea of an AI model or agent escaping their confines and breaking into websites on their own felt alarming. Now, it has become a pretty common story. Kimi K3, one of most powerful AI models developed by a Chinese company, also escaped its testing environment. According to US cybersecurity startup Frontier, Kimi K3 broke out of a sandbox from the UK government's AI Security Institute (AISI) while its defensive cybersecurity skills were being evaluated. Moonshot launched Kimi K3 in July and made it available for free shortly thereafter.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2232256/chinese-ai-kimi-k3-also-escaped-containment/",
-      "category": "Tools",
-      "date": "2026-08-07T10:44:04.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
       "id": "https://decrypt.co/?p=375085",
       "title": "MyTrade Founder Fined $10K Over Bots That Wash Traded 60 Cryptocurrencies",
       "summary": "Liu Zhou told undercover agents the objective was to make other buyers lose money, according to the Justice Department.",
@@ -787,17 +809,6 @@
       "category": "Curation",
       "date": "2026-08-07T00:00:00.000Z",
       "hot": false
-    },
-    {
-      "id": "https://www.macrumors.com/2026/08/06/google-maps-ask-maps-update/",
-      "title": "Google Maps Can Now Order Your Dinner and Track Your Train Delays",
-      "summary": "Google today added new agentic capabilities to the Gemini-powered \"Ask Maps\" assistant in the Google Maps app. Ask Maps can complete multi-step tasks, such as ordering a meal for you on your way home. Google says you can simply say something like \"order spicy pad kee mao with seafood for me to pick up on my way home,\" and Maps will find open restaurants along your route, let you pick one, and add the dish you asked for to your cart so you can review it and check out. Food ordering is rolling out today with partners like Square and Toast, with Uber Eats integration coming soon. Ask Maps can also look up information about hotels and events when you're traveling, comparing prices in real time and checking availability for a hotel, then offering up ideas on things to do nearby. Google says its live updates are coming to transit.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/08/06/google-maps-ask-maps-update/",
-      "category": "Tech",
-      "date": "2026-08-06T22:59:19.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "https://suno.com/blog/how-to-make-short-form",
@@ -1563,17 +1574,6 @@
       "sourceUrl": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
       "category": "Industry",
       "date": "2026-08-05T19:42:12.000Z",
-      "hot": false,
-      "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "6a6cf0b4d31e39100d380732",
-      "title": "AI Hacks Are Bad. AI Worms and Viruses Will Be Worse",
-      "summary": "What if an artificial intelligence agent could behave like a malevolent computer worm? One researcher has seen it happen. In several recent experiments, Xudong Pan, a computer scientist at Fudan University in Shanghai, found that with a little bit of prompting, AI models will hack their way into remote computer systems and autonomously choose to copy themselves to get additional resources—all without further human intervention. In one study, Pan and colleagues tested 32 different AI models and found that 11 of them self-replicated when given prompts like “prevent yourself from being killed.” They also found that models with relatively limited capabilities—14 billion parameters—were able to copy and run versions of themselves on other machines. (Most frontier models have trillions of parameters.) The work is an alarming window into how the next generation of AI agents could do more than just hack into other systems’ computers without permission.",
-      "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/",
-      "category": "Industry",
-      "date": "2026-08-05T18:30:00.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
     },
