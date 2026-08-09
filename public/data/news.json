@@ -1,6 +1,39 @@
 {
-  "lastUpdated": "2026-08-09T14:27:49.497Z",
+  "lastUpdated": "2026-08-09T15:00:57.550Z",
   "news": [
+    {
+      "id": "https://www.digitaltrends.com/?p=5996496",
+      "title": "OpenAI is pressing pause on its AI model after it displayed dangerous out-of-control tendencies",
+      "summary": "OpenAI is pausing some work on Astra, an artificial intelligence model designed for agentic coding and cybersecurity, after internal testing showed the system had reached a level of capability that raised security concerns. The company said Astra had made \"significant advancements\" in agentic coding and cybersecurity and crossed a critical threshold where it could identify and exploit software vulnerabilities without human intervention. More concerningly, the model could potentially devise and execute cyberattacks when given only a high-level objective, according to The Guardian. OpenAI said Astra itself was not involved in a real-world cyberattack. However, the company discovered instances of autonomous agents escaping their controlled testing environments. Reuters had reported similar incidents in July involving autonomous agents accessing the open web and hacking a startup called Hugging Face.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/computing/openai-is-pressing-pause-on-its-ai-model-after-it-displayed-dangerous-out-of-control-tendencies/",
+      "category": "Tech",
+      "date": "2026-08-09T14:37:28.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3151324",
+      "title": "The AI safety test is becoming a safety risk",
+      "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "category": "Business",
+      "date": "2026-08-09T14:30:00.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=5996491",
+      "title": "Apple is mulling a screen-free wearable to rival Whoop and Fitbit Air:",
+      "summary": "When Whoop introduced its eponymous screen-free wearable band, I didn't expect it to become such a hit. Apparently, there's a huge market for fitness trackets that don't tie you into the trap of a distracting screen. Whoop's formula was copied by multiple brands over the years, with the latest one being Fitbit Air by Google. Apple could be next in line. According to Bloomberg, Apple is reportedly planning a wearable device without a screen as navigates the realities of a market that continues to evolve across different form factors, including rings and earbuds. \"The good news is, Apple is indeed taking this industry shift seriously.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/wearables/apple-is-mulling-a-screen-free-wearable-to-rival-whoop-and-fitbit-air/",
+      "category": "Tech",
+      "date": "2026-08-09T14:29:30.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
     {
       "id": "https://www.digitaltrends.com/?p=5996476",
       "title": "420 UK children reported explicit deepfakes of themselves in six months. The problem is getting w...",
@@ -1304,17 +1337,6 @@
       "hot": true
     },
     {
-      "id": "https://techcrunch.com/?p=3150555",
-      "title": "Amid legal battles, Suno says it will start watermarking songs",
-      "summary": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
-      "category": "Business",
-      "date": "2026-08-06T13:31:57.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
       "id": "https://blogs.nvidia.com/?p=97219",
       "title": "GeForce NOW Shakes Up August With 26 New Games",
       "summary": "August is here, bringing 26 new games for GeForce NOW members. Command the seas in World of Warships: Legends and discover what’s next in the GeForce NOW library, starting with the eight newly added games this week. In addition, GeForce NOW is at the QuakeCon gaming conference this week in Grapevine, Texas, with hands-on experiences awaiting attendees. Return to QuakeCon Visit the NVIDIA booth at QuakeCon to experience GeForce RTX 5080-powered Ultimate cloud gaming in action, with demos showcasing notable visuals at up to 5K 120 frames per second on an ultrawide display, as well as seamless gameplay on the Lenovo Legion Go S handheld device. Conference attendees can see how thousands of PC games, including fan-favorite Bethesda titles, can move effortlessly across laptops, Macs, handhelds, mobile devices, TVs and more — letting members pick up where they left off on nearly any supported screen. Gamers not at the show can try out Ultimate cloud gaming in action with a day pass and jump into Bethesda titles from any device.",
@@ -1335,17 +1357,6 @@
       "date": "2026-08-06T13:00:00.000Z",
       "hot": false,
       "officialUrl": "https://blogs.nvidia.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3150351",
-      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-      "summary": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-      "category": "Business",
-      "date": "2026-08-06T13:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
     },
     {
       "id": "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/",
@@ -1668,7 +1679,7 @@
     {
       "id": "https://x.com/finkd/status/2085080750034940201?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Meta Launches Muse Code Beta: AI Terminal Coding Agent Powered by Muse Spark 1.2",
-      "summary": "Meta has launched Muse Code in beta, a terminal coding agent powered by Muse Spark 1.2, a coding-focused model update. It handles complete software engineering tasks across large repos, including planning, writing code, and validating results. Background agents persist throughout a session to build context over time, and large jobs fan out to parallel sub-agents in isolated worktrees. Every action is logged locally for crash recovery. In testing, it ran 1,000+ tool calls over 24 hours on NVIDIA Hopper hardware.",
+      "summary": "Releasing Muse Code in beta today. It's a terminal coding agent that takes on complete software engineering tasks across large repos: planning changes, writing code, validating the results. Powered by Muse Spark 1.2, a coding-focused model update.",
       "source": "FutureTools News",
       "sourceUrl": "https://x.com/finkd/status/2085080750034940201?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
@@ -1688,7 +1699,7 @@
     {
       "id": "https://x.com/JeffDean/status/2085034604172603724?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Jeff Dean and Google veterans launch Discovery Loop AI to automate science and ML research",
-      "summary": "Jeff Dean, Sanjay Ghemawat, Oriol Vinyals, and Quoc Le — longtime Google collaborators with 14 to 30 years of shared history — have founded Discovery Loop, a Public Benefit Corporation aiming to automate machine learning, science, and engineering research. The startup will initially focus on automating large-scale ML experimentation, with ambitions to address NAE Grand Challenge problems. Radical Ventures and Khosla Ventures are leading the seed round, with Lightspeed, Kleiner Perkins, Doerr Capital, and Alphabet also participating.",
+      "summary": "Announcing Discovery Loop! I am very announced that, along with my longtime friends and collaborators @Sanjay_Ghemawat, @OriolVinyalsML and @quocleix, we are founding Discovery Loop (@DiscoLoopAI), a Public Benefit Corporation whose mission is to automate machine",
       "source": "FutureTools News",
       "sourceUrl": "https://x.com/JeffDean/status/2085034604172603724?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
@@ -1787,28 +1798,6 @@
       "sourceUrl": "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/",
       "category": "Events",
       "date": "2026-08-04T16:00:56.000Z",
-      "hot": false,
-      "officialUrl": "https://blogs.nvidia.com"
-    },
-    {
-      "id": "https://blogs.nvidia.com/?p=97163&preview=true&preview_id=97163",
-      "title": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Avail...",
-      "summary": "For robotaxis and other autonomous vehicles (AVs), the hardest problems aren’t the everyday scenarios. They’re the rare, complex situations that are difficult to anticipate and train for. Handling these long‑tail events takes more than just object detection and motion prediction. AVs must understand the situation, reason about cause and effect, choose the right action and turn that decision into a safe, comfortable path — all in real time and in a way developers can inspect, validate and trust. NVIDIA Alpamayo 2 Super, available now for commercial use, is part of the Alpamayo family, the most-adopted open reasoning models for autonomous driving on Hugging Face, supporting a wide range of AV-relevant capabilities within a single foundation model. Built on NVIDIA Cosmos 3 Super Reasoner and post‑trained with reinforcement learning, the model advances the AV ecosystem on two fronts: open commercial licensing and leading multitask capabilities for autonomous driving.",
-      "source": "NVIDIA Blog",
-      "sourceUrl": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
-      "category": "Events",
-      "date": "2026-08-04T15:00:49.000Z",
-      "hot": false,
-      "officialUrl": "https://blogs.nvidia.com"
-    },
-    {
-      "id": "https://blogs.nvidia.com/?p=97151&preview=true&preview_id=97151",
-      "title": "As AI Increases Demands on Memory, Storage Steps Up",
-      "summary": "Surging AI demands are driving the need for massive datasets and context windows that burst past the confines of system memory. But rising needs aren’t met by simply adding more storage capacity. What’s needed is useful, grounded insights from AI factories and efficient, secure storage architectures that enable those insights. At this week’s Future of Memory and Storage (FMS) conference, NVIDIA is unveiling new storage advancements and showcasing how the next leap in AI depends as much on the storage infrastructure feeding accelerated computing as on the computing power itself. The pressure on that infrastructure is intensifying as AI agents consume massive amounts of data — and GPUs can now initiate storage requests directly, generating thousands of concurrent operations. To serve those requests, storage systems must continuously encrypt, compress, verify and reconstruct data.",
-      "source": "NVIDIA Blog",
-      "sourceUrl": "https://blogs.nvidia.com/blog/ai-storage-fms/",
-      "category": "Events",
-      "date": "2026-08-04T15:00:47.000Z",
       "hot": false,
       "officialUrl": "https://blogs.nvidia.com"
     }
