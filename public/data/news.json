@@ -1,6 +1,94 @@
 {
-  "lastUpdated": "2026-08-11T13:51:22.589Z",
+  "lastUpdated": "2026-08-11T14:52:42.742Z",
   "news": [
+    {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+      "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+      "summary": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers at A Security say they uncovered the flaw using \"fewer than 20 prompts on publicly available AI models,\" as reported earlier by Wired. The exploit involved Zoom's annotation feature, which allows users to draw on their screen while sharing it with other meeting participants. With the exploit, an attacker could join or host a meeting and run malicious code on victims' devices, allowing them to steal data, turn on the camera or microphone, or install malware. The attack required no act …",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+      "category": "Industry",
+      "date": "2026-08-11T14:45:44.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "108347220",
+      "title": "Intel upsizes stock offering to $20 billion at $95 per share as AI demand accelerates",
+      "summary": "Technology giants have shelled out trillions to support insatiable AI demand and the infrastructure buildout.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html",
+      "category": "Business",
+      "date": "2026-08-11T14:45:44.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/08/11/icloud-private-relay-class-action-lawsuit/",
+      "title": "Apple Accused of 'Fraud' in iCloud Private Relay Class Action Lawsuit",
+      "summary": "Apple is facing a proposed class action lawsuit accusing it of fraud and false advertising over a security flaw in iCloud Private Relay, according to 9to5Mac. The firm alleges Apple knew, or should have known, that its privacy claims about the feature were false and misleading at the time it sold the subscriptions. Clarkson previously took Apple to court over the delayed rollout of personalized Siri features, a case that ended in a $250 million settlement. That deal was reached in December 2025, though the payout terms were not made public until May. The most serious ties to passkey sign-ins: a site can trigger a passkey check that gets handled by the device's operating system rather than Safari, bypassing Private Relay's proxy servers entirely, sometimes without showing any passkey prompt at all, even on a site that only claims to support them. Two further issues, tied to DNS prefetching and the WebTransport protocol added in iOS 26, can also expose a user's real IP address or DNS servers under certain conditions.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/08/11/icloud-private-relay-class-action-lawsuit/",
+      "category": "Tech",
+      "date": "2026-08-11T14:30:15.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/airbaltic-seeks-bondholder-approval-for-225m-interim-financing-93CH-4852072",
+      "title": "AirBaltic seeks bondholder approval for €225m interim financing",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/airbaltic-seeks-bondholder-approval-for-225m-interim-financing-93CH-4852072",
+      "category": "Business",
+      "date": "2026-08-11T14:29:38.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/argentinas-ypf-raises-2026-investment-plan-to-62-billion-93CH-4852071",
+      "title": "Argentina’s YPF raises 2026 investment plan to $6.2 billion",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/argentinas-ypf-raises-2026-investment-plan-to-62-billion-93CH-4852071",
+      "category": "Business",
+      "date": "2026-08-11T14:28:42.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.engadget.com/2234489/samsung-says-a-hearing-aid-feature-is-coming-to-galaxy-buds-later-this-year/",
+      "title": "Samsung says a hearing aid feature is coming to Galaxy Buds later this year",
+      "summary": "The FDA approved Samsung's Galaxy Buds hearing aid feature, which will soon be available alongside a hearing test. Billy Steele for Engadget Samsung says the Food and Drug Administration has cleared its hearing aid feature for Galaxy Buds. As such, the company plans to make the feature and a hearing test tool available on Galaxy Buds 3 Pro and Galaxy Buds 4 Pro in the US and some other markets later this year. The hearing aid feature is similar to the one found in Apple's AirPods Pro. It's designed to offer folks aged 18 and over with mild to moderate hearing loss an over-the-counter hearing aid solution. The hearing test, meanwhile, is said to offer medical-grade results in only five minutes.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2234489/samsung-says-a-hearing-aid-feature-is-coming-to-galaxy-buds-later-this-year/",
+      "category": "Tools",
+      "date": "2026-08-11T14:21:10.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "108347586",
+      "title": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
+      "summary": "The first three-plus years of the AI build-out have been funded by record amounts of equity and debt issued by leading tech companies.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html",
+      "category": "Business",
+      "date": "2026-08-11T14:11:05.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/08/11/lg-back-to-school-sale/",
+      "title": "LG Launches Back to School Sale With Major Discounts on OLED TVs and Monitors",
+      "summary": "LG is hosting a big Back to School sale on its website this week, with deals on monitors, TVs, home appliances, and more. LG's discounts have been automatically applied and do not require any discount codes or special memberships. Note: MacRumors is an affiliate partner with LG. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Highlights of the event include up to $700 off select LG monitors and up to $2,700 off LG's best TV sets. Regarding the TVs, discounts include big savings on the new 2026 LG OLED evo AI sets, like the 65-inch LG OLED evo AI C6 4K Smart TV for $1,799.99 ($900 off) and the 65-inch LG OLED evo AI G6 4K Smart TV for $3,299.99 ($100 off).",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/08/11/lg-back-to-school-sale/",
+      "category": "Tech",
+      "date": "2026-08-11T13:59:11.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
     {
       "id": "https://www.macrumors.com/2026/08/11/iphone-18-pro-base-256gb-storage-report/",
       "title": "iPhone 18 Pro Will Reportedly Start With 256GB of Storage",
@@ -13,37 +101,15 @@
       "officialUrl": "https://feeds.macrumors.com"
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/tsx-futures-inch-higher-with-us-inflation-data-choppy-oil-prices-in-focus-4851432",
-      "title": "TSX opens at record high as investors await U.S. inflation data",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/tsx-futures-inch-higher-with-us-inflation-data-choppy-oil-prices-in-focus-4851432",
-      "category": "Business",
-      "date": "2026-08-11T13:46:14.000Z",
+      "id": "03TXWBnmLyhhw39HzYmvr6y",
+      "title": "Claude to start watermarking AI-generated content",
+      "summary": "Anthropic's Claude will start watermarking AI-generated content in compliance with EU rules, the company announced on Tuesday. In a Claude support document, Anthropic wrote that it has signed the EU AI Act's Article 50(2) Code of Practice on Transparency of AI-Generated Content, and explains how it plans to put those rules into practice. SEE ALSO: Claude Code's auto mode will be on by default, Anthropic confirms Models launched in the EU on or after Aug. 2, 2026, wrote Anthropic, will support watermarking at launch. This includes output from all models including Claude Platform (API), Claude, Claude Code, Claude Cowork, and Claude Tag. Generated text will have embedded watermarks, while generated files will include \"digitally signed provenance metadata where supported.\"Notably, it won't apply only to Europe; instead, the watermarks will appear wherever Claude is offered, worldwide, though Anthropic warns that some platforms or features may not support certain watermarking types.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/claude-watermark-ai-generated-content",
+      "category": "Tech",
+      "date": "2026-08-11T13:48:19.000Z",
       "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/first-solar-raised-at-baird-as-section-232-clears-path-for-bookings-4851885",
-      "title": "First Solar raised at Baird as Section 232 clears path for bookings",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/first-solar-raised-at-baird-as-section-232-clears-path-for-bookings-4851885",
-      "category": "Business",
-      "date": "2026-08-11T13:40:08.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/air-taxi-firm-joby-acquires-defense-tech-company-for-500-million-4851847",
-      "title": "Air taxi firm Joby acquires defense tech company for $500 million",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/air-taxi-firm-joby-acquires-defense-tech-company-for-500-million-4851847",
-      "category": "Business",
-      "date": "2026-08-11T13:37:21.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
+      "officialUrl": "https://mashable.com"
     },
     {
       "id": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
@@ -55,28 +121,6 @@
       "date": "2026-08-11T13:37:10.000Z",
       "hot": false,
       "officialUrl": "https://huggingface.co"
-    },
-    {
-      "id": "108347586",
-      "title": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
-      "summary": "The first three-plus years of the AI build-out have been funded by record amounts of equity and debt issued by leading tech companies.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html",
-      "category": "Business",
-      "date": "2026-08-11T13:36:53.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/why-is-monster-beverage-stock-climbing-today-93CH-4851865",
-      "title": "Why is Monster Beverage stock climbing today?",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/why-is-monster-beverage-stock-climbing-today-93CH-4851865",
-      "category": "Business",
-      "date": "2026-08-11T13:35:20.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
     },
     {
       "id": "https://www.engadget.com/2230989/garmin-cirqa-vs-fitbit-air-how-fitness-trackers-compare/",
@@ -464,17 +508,6 @@
       "officialUrl": "https://www.digitaltrends.com"
     },
     {
-      "id": "108347220",
-      "title": "Intel upsizes stock offering to $20 billion at $95 per share as AI demand accelerates",
-      "summary": "Technology giants have shelled out trillions to support insatiable AI demand and the infrastructure buildout.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html",
-      "category": "Business",
-      "date": "2026-08-11T07:17:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
       "id": "https://www.digitaltrends.com/?p=5996856",
       "title": "Microsoft just found another way to make PCs more expensive, because apparently they weren’t pric...",
       "summary": "PC buyers are getting squeezed from every side this year, and it is not just memory and chips driving up the cost of your next computer. According to a Taiwanese publication, United Daily News, Microsoft has quietly raised its Windows OEM licensing fees, and the hike is steeper than usual. This could make PC prices climb another 5% this quarter. As if the AI-fueled RAM and chipset crisis was not enough, PC buyers are getting another price hike, and the sad part is that they won't even get anything extra for it. According to a PC brand executive, Microsoft bumps up its Windows OEM licensing fees every year, but the increases have usually stayed in the low single digits. This year's hikes are landing between 7% and 10%, a noticeably bigger jump than brands are used to.",
@@ -782,39 +815,6 @@
       "officialUrl": "https://feeds.macrumors.com"
     },
     {
-      "id": "https://www.macrumors.com/2026/08/10/apple-releases-macos-tahoe-26-6-2/",
-      "title": "Apple Releases macOS Tahoe 26.6.2 Beta With Security Fixes",
-      "summary": "Apple today released a new beta of macOS Tahoe 26.6.2, which is available to developers and public beta testers. The &zwnj;macOS Tahoe&zwnj; 26.6.2 beta comes just a few days after Apple released macOS Tahoe 26.6.1, a security update. Developers and public beta testers can download the software by opening the System Settings app and then navigating to the Software Updates section. According to Apple's release notes, &zwnj;macOS Tahoe&zwnj; 26.6.2 includes security fixes for the Mac. The prior update, macOS 26.6.1, fixed a vulnerability that could allow an attacker to authenticate to Screen Sharing without valid credentials. Update: This article previously said macOS 26.6.2 had been released, but it turns out the update is a beta.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/08/10/apple-releases-macos-tahoe-26-6-2/",
-      "category": "Tech",
-      "date": "2026-08-10T17:27:06.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/08/10/apple-releases-ios-26-6-1/",
-      "title": "Apple Releases iOS 26.6.1 and iPadOS 26.6.1 Betas With Security Fixes",
-      "summary": "Apple today released new betas of iOS 26.6.1 and iPadOS 26.6.1, which are available to developers and public beta testers. The iOS and iPadOS 26.6.1 betas come two weeks after the launch of iOS 26.6, an update that added Spotlight optimizations ahead of iOS 27. iOS 26.6.1 and iPadOS 26.6.1 can be downloaded on eligible iPhones and iPads over-the-air by going to Settings > General > Software Update. According to Apple's release notes, iOS 26.6.1 includes security fixes for the iPhone and iPad. The updates are available in a beta capacity only right now. Apple is wrapping up work on iOS 26 because &zwnj;iOS 27&zwnj; is launching in just about a month.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/08/10/apple-releases-ios-26-6-1/",
-      "category": "Tech",
-      "date": "2026-08-10T17:23:38.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "05U0kowM9thx7wGctaCfNof",
-      "title": "911 calls are getting the AI treatment now",
-      "summary": "New Orleans, home to more than 300,000 residents and an emergency system that handles thousands of calls each day, is turning to AI for help.The city recently confirmed that emergency services, overseen by the Orleans Parish Communication District, are deploying an AI triage tool to screen and sort incoming calls to assist human operators. City representatives explained the technology is intended to reduce the number of repetitive calls and prevent lines from bottlenecking. Basically, if a resident calls in an incident that's already been reported, like a car crash, the AI dispatcher is supposed to handle it. SEE ALSO: AI companies keep destroying old books. The tool, referred to as AI Emergency Call Triage, was developed by AI emergency services company Carbyne. It's still undergoing real-world testing by operators, according to reporting by the Shreveport Times, but has been involved in triaging traffic-related emergency calls since at least 2023.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/911-dispatchers-ai-new-orleans",
-      "category": "Tech",
-      "date": "2026-08-10T17:18:35.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
       "id": "https://openai.com/index/building-an-ai-native-finance-function",
       "title": "What building an AI-native finance function taught me",
       "summary": "Five lessons for CFOs redesigning work around artificial intelligence. Give everyone access, then create a reason to use it1. Give everyone access, then create a reason to use it2. Redesign the full workflow around the decision3. Finance professionals become builders4. Pair speed with clear accountability and controls5.",
@@ -881,17 +881,6 @@
       "officialUrl": "https://decrypt.co"
     },
     {
-      "id": "https://decrypt.co/?p=375213",
-      "title": "Hackers Drain $8 Million From Crypto Exchange Across Two Blockchains",
-      "summary": "The hackers moved funds across Tron and Ethereum before routing millions through crypto exchanges, with wallet activity offering clues.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/375213/hackers-drain-8-million-from-crypto-platform-coinsbuy",
-      "category": "Tech",
-      "date": "2026-08-10T15:56:30.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
       "id": "https://www.techrepublic.com/?p=4369024",
       "title": "SK hynix Approves $38 Billion Memory Expansion as AI Demand Strains Supply",
       "summary": "SK hynix approved about $38.1 billion for two memory fabs, but new HBM and NAND capacity may not ease AI-driven supply pressure until 2029.",
@@ -901,17 +890,6 @@
       "date": "2026-08-10T15:34:45.000Z",
       "hot": false,
       "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.engadget.com/2230985/how-to-pair-roku-remote/",
-      "title": "Here's how to pair your Roku remote",
-      "summary": "If you lost your remote and just got your new one, this is for you. renata colella/Shutterstock Picking up a streaming device like an Amazon Fire TV Stick or the Google TV Streamer is a cost-effective way to breathe new life into an older television. Roku's fleet of streaming sticks and boxes enjoys a reputation for being affordable, easy to set up and offering a less bloated experience than Android TV. Like other streaming devices, every Roku model ships with a remote control that lets you control media playback and other actions. Unlike your TV's infrared remote, though, most modern Roku devices communicate with their remotes over newer technologies like Wi-Fi Direct or Bluetooth. This lets you enjoy more features like voice control and the ability to control your Roku device without requiring a clear line of sight between it and the remote.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2230985/how-to-pair-roku-remote/",
-      "category": "Tools",
-      "date": "2026-08-10T15:30:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
     },
     {
       "id": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
@@ -1753,17 +1731,6 @@
       "officialUrl": "https://www.techrepublic.com"
     },
     {
-      "id": "http://feeds.fabbaloo.com/~/966985475/_/fabbaloo/default~What-is-the-Most-Popular-D-Model-Repository-in",
-      "title": "What is the Most Popular 3D Model Repository in 2026?",
-      "summary": "What are the most popular 3D model repositories in mid-2026? The post What is the Most Popular 3D Model Repository in 2026?",
-      "source": "Fabbaloo",
-      "sourceUrl": "http://feeds.fabbaloo.com/~/966985475/_/fabbaloo/default~What-is-the-Most-Popular-D-Model-Repository-in",
-      "category": "Tech",
-      "date": "2026-08-06T16:45:00.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.feedburner.com"
-    },
-    {
       "id": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
       "title": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
       "summary": "Cloudflare has open-sourced its Cloudflare OS platform, which it first developed as an internal workspace for employees to build apps using AI agents—including people who are not software developers or engineers. The company also touts a security framework designed to reduce the risk of employee vibe-coding sessions creating serious security flaws or leading to data breaches. The tech company spent several months building and internally testing Cloudflare OS, which allows employees to describe workflows in natural language so that an AI agent can code them into applications. In an August 5 blog post announcing the open source version’s availability on GitHub, the company claims thousands of Cloudflare employees use the platform on a daily basis to “create documents and slides, automate repeatable tasks, and build small apps to visualize data and help them do their work.” “This is a full-on personal app vibe coding platform, in which the sandbox is so secure that you can pretty much go wild—the AI cannot introduce a significant security bug,” said Kenton Varda, principal engineer at Cloudflare, in a post on the social media platform X. “We believe a company's security team can feel comfortable giving non-technical users permission to vibe code and then sleep soundly at night.”Read full article Comments",
@@ -1795,16 +1762,6 @@
       "date": "2026-08-06T15:06:15.000Z",
       "hot": false,
       "officialUrl": "https://deepmind.google"
-    },
-    {
-      "id": "https://cohere.com/blog/cohere-university-of-waterloo-announcement",
-      "title": "Cohere university of waterloo announcement",
-      "summary": "Today, Cohere and the University of Waterloo announced a new partnership to help students build the practical skills needed to lead AI transformation in the workplace. Through the partnership, Cohere will support the development of a new AI Transformation and Change Management certificate led by Waterloo’s Future of Work Institute. The program will give students hands-on experience working with organizations to understand their needs, identify meaningful opportunities for AI and turn those ideas into secure, responsible solutions. Launching in Fall 2026, the non-credit certificate will combine classroom learning, workplace experience and collaborative problem-solving. Students will complete applied and structured co-op opportunities through applied projects and structured co-op opportunities, working directly with organizations on AI use-case discovery, prioritization and implementation. The curriculum will take a broad, technology-inclusive approach, bringing together AI literacy, human-centred design, ethics, business strategy and change management.",
-      "source": "Cohere Blog",
-      "sourceUrl": "https://cohere.com/blog/cohere-university-of-waterloo-announcement",
-      "category": "Models",
-      "date": "2026-08-06T14:00:00.000Z",
-      "hot": true
     }
   ]
 }
