@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2026-08-13T10:56:44.267Z",
+  "lastUpdated": "2026-08-13T11:42:22.110Z",
   "news": [
+    {
+      "id": "00D0x5EbsqT7C43nfLRA16f",
+      "title": "Gemini to connect with tons of new apps, including Pandora and OpenTable",
+      "summary": "Gemini is making new friends. Google announced tons of new hardware during yesterday's Made by Google event, but that doesn't mean the company's AI didn't get a slew of important updates of its own. Among them was the announcement that Gemini will soon be able to connect with a number of third-party apps. The list is quite long and includes productivity, health, lifestyle, entertainment, and home apps. Here's the list in full:GranolaOtter.aiWixFeverGetYourGuideLocalizeOpenTable (UK)TicketmasteriHeartRadioPandoraAngiThumbtackZocdoc SEE ALSO: ChatGPT will let you book a table mid-chat In practice, you should be able to book a dinner reservation, a concert later that same day, and get a related Pandora playlist, all without leaving a convo with Gemini. Pretty sweet.Google says that the ability for Gemini to connect with these will be rolled out \"over the next weeks.\"In related news, Google also said that Gemini has more than 1 billion monthly active users.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/gemini-connect-apps-pandora-ticketmaster",
+      "category": "Tech",
+      "date": "2026-08-13T11:31:13.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "00BeBvEpfiCQKBAiUpRPOgB",
+      "title": "Twitch is using your content to train Amazons AI. Heres how to opt out.",
+      "summary": "Creating content on Twitch? Unless you've changed your settings, it's being used to train AI.Twitch creators recently spotted a \"Training for Generative AI\" setting in account security that's toggled on by default. \"Allow your channel content to train generative AI content models at Amazon,\" the description reads. Needless to say, people weren't happy. SEE ALSO: Twitch's CEO says passive scrolling can't beat the community of live streaming Digging in to Amazon-owned Twitch's FAQs reveals a bit more information on what, exactly, this means.\"Generative AI content models are AI tools that can help create or synthesize content outputs like text or images when given instructions or prompts because they are also trained on content,\" reads the FAQ. \"When you allow training, that means that your content may be used for future Gen AI model improvements.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/twitch-amazon-training-ai-streamers-how-to-opt-out",
+      "category": "Tech",
+      "date": "2026-08-13T11:18:53.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
     {
       "id": "https://www.investing.com/news/stock-market-news/exclusivemicrosoft-retreats-in-china-but-ai-boom-helps-it-keep-a-window-open-4857136",
       "title": "Exclusive-Microsoft retreats in China, but AI boom helps it keep a window open",
@@ -8,20 +30,64 @@
       "source": "Investing.com",
       "sourceUrl": "https://www.investing.com/news/stock-market-news/exclusivemicrosoft-retreats-in-china-but-ai-boom-helps-it-keep-a-window-open-4857136",
       "category": "Business",
-      "date": "2026-08-13T10:25:01.000Z",
+      "date": "2026-08-13T11:18:43.000Z",
       "hot": false,
       "officialUrl": "https://www.investing.com"
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/why-is-hp-stock-gaining-today-93CH-4857199",
-      "title": "Why is HP stock gaining today?",
+      "id": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+      "title": "Claude's new Scarlet Letter watermark is invisible — for now",
+      "summary": "Anthropic has revealed that it will soon watermark content that is processed (not just generated!) by any of its models. In a support article, Anthropic explained that it was rolling out machine-readable watermarks to comply with the European Union’s AI Act, which requires all AI system providers to watermark AI-generated or manipulated audio, image, text, and video outputs. The law applies to any AI model released after August 2 and provides a grace period until December 2026 for providers to update previously released models. Anthropic confirmed that moving forward, all new models offered globally—not just in the EU—will mark AI-generated content “from day one.” Text outputs will “carry embedded watermarks,” invisible to the user, and other “generated files will include digitally signed provenance metadata where supported,” Anthropic said. Notably, Anthropic is deploying a \"nuke it from orbit\" approach, applying the watermarks to all processed content where supported, even though the EU does not require it for cases where an AI system performs \"an assistive function for standard editing\" (the guidance's own example is grammar correction), or where it doesn't \"substantially alter\" the user's text or its meaning. A watermark applied at the model level can't tell wholesale generation from a comma fix, so Claude may end up stamping exactly the content the law was written to leave alone.",
+      "source": "Ars Technica AI",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+      "category": "Industry",
+      "date": "2026-08-13T11:10:18.000Z",
+      "hot": false,
+      "officialUrl": "https://arstechnica.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/bernstein-upgrades-tkms-on-strong-q3-sales-raises-pt-33-upside-4857384",
+      "title": "Bernstein upgrades TKMS on strong Q3 sales, raises PT; 33% upside",
       "summary": "",
       "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/why-is-hp-stock-gaining-today-93CH-4857199",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/bernstein-upgrades-tkms-on-strong-q3-sales-raises-pt-33-upside-4857384",
       "category": "Business",
-      "date": "2026-08-13T10:24:09.000Z",
+      "date": "2026-08-13T11:08:20.000Z",
       "hot": false,
       "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/hershey-stock-112-upside-to-fair-value-as-cocoa-costs-weigh-on-margins-93CH-4857361",
+      "title": "Hershey stock: 11.2% upside to fair value as cocoa costs weigh on margins",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/hershey-stock-112-upside-to-fair-value-as-cocoa-costs-weigh-on-margins-93CH-4857361",
+      "category": "Business",
+      "date": "2026-08-13T11:03:21.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "00eojT59TjZ7PaJBZxsTQct",
+      "title": "Save $250 on the Pixel Watch 5 when you preorder this Google Pixel 11 Pro bundle at Amazon",
+      "summary": "13, Amazon is offering $250 off preorders of the Pixel Watch 5 when you bundle it with the Google Pixel 11 Pro. This offer is only available until Aug. Opens in a new window Credit: Google Google Pixel 11 Pro + Pixel Watch 5 $1,248.99 at Amazon $1,498.99 Save $250 Get Deal If the Google Pixel 11 Pro and Pixel Watch 5 caught your eye at the latest Made by Google event, preorders are officially live. Before you buy them separately, Amazon has dropped a fantastic bundle offer that will save you some cash.Until Aug. 27, Amazon is offering shoppers the opportunity to preorder the Google Pixel 11 Pro and Pixel Watch 5 as a bundle, with $250 off the Pixel Watch 5. This discount brings the total cost of the bundle down to $1,248.99, compared to $1,498.99 if you bought them separately.On top of that, you can get up to $250 extra off with a qualifying trade-in.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/aug-13-google-pixel-11-pro-pixel-watch-5-deal",
+      "category": "Tech",
+      "date": "2026-08-13T10:46:57.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "0596g7JjP6S9i7Zo6WNf5O5",
+      "title": "T-Mobile is giving away the new Google Pixel 11 for free — how to claim",
+      "summary": "TL;DR: The new Google Pixel 11 is available for free right now with T-Mobile. To qualify, trade in an eligible phone in any condition on an Experience Beyond plan. Opens in a new window Credit: Google Google Pixel 11 Free when you trade in an eligible phone in any condition on an Experience Beyond plan. Shop Now Google has finally dropped its new smartphone lineup, and the Google Pixel 11 proves that you don't need to drop $1,000+ to get best-in-class Android hardware. Packing the exact same next-gen Tensor G6 silicon and on-device Gemini AI processing as its more premium siblings, the Pixel 11 delivers about 90% of the flagship experience at a far more approachable starting price. And now T-Mobile is making an upgrade even more appealing by dropping a bunch of free deals on launch.For a limited time, you can get your hands on the Google Pixel 11 for free at T-Mobile.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/free-google-pixel-11-deal",
+      "category": "Tech",
+      "date": "2026-08-13T10:46:42.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
     },
     {
       "id": "https://www.digitaltrends.com/?p=5997659",
@@ -123,17 +189,6 @@
       "officialUrl": "https://www.technologyreview.com"
     },
     {
-      "id": "02AWs18Kp2zpeoM4jMBB4Zt",
-      "title": "This thin, metal wallet can house an AirTag, and it’s on sale for just $29.99",
-      "summary": "TL;DR: This slim metal wallet combines RFID blocking with an Apple AirTag holder for just $29.99 (reg. Opens in a new window Credit: Vista Shops Slim RFID Wallet with Apple FindMy (Carbon Fiber Look) $29.99 $79.95 Save $49.96 Get Deal A wallet doesn't have to be stuffed with old receipts and loyalty cards to be useful. Sometimes, the smartest upgrade is making it thinner and more streamlined — and a little easier to find when it inevitably slips between the couch cushions.The Slim RFID Wallet with AirTag Holder is available for $29.99 (reg. $79.95) and combines a minimalist metal design with two practical features: RFID protection and a dedicated holder for your own Apple AirTag. Mashable Deals Be the first to know! Get editor selected deals texted right to your phone!",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/aug-13-smart-slim-wallet-with-gps-and-rfid-carbon-fiber-look",
-      "category": "Tech",
-      "date": "2026-08-13T09:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
       "id": "https://www.macrumors.com/2026/08/13/apple-2026-back-to-school-europe-live/",
       "title": "Apple's 2026 Back to School Offer is Now Live Across Europe",
       "summary": "Apple's annual Back to School promotion is now live in the United Kingdom and 18 other European countries: Austria, Belgium, Czechia, Denmark, Finland, France, Germany, Hungary, Ireland, Italy, the Netherlands, Norway, Poland, Portugal, Spain, Sweden, Switzerland, and Turkey. The European launch follows the company's back-to-school promotion rollout in the United States and several other regions and territories last month. The offer is aimed at college students and educational staff and includes a gift card worth up to £120/€120 with the purchase of an eligible Mac or iPad. Turkey is the exception, where buyers of eligible Macs and iPads can choose a four-pack of AirTags at no additional charge, or they can pay extra for various AirPods models or (when purchasing an iPad) an Apple Pencil Pro. Note that the MacBook Neo is not an eligible product in any of the countries, and the iPad mini, entry-level iPad, and desktop Macs are excluded too. The promotion runs through to October 22, 2026.Tags: Back to School Promotion, EuropeThis article, \"Apple's 2026 Back to School Offer is Now Live Across Europe\" first appeared on MacRumors.comDiscuss this article in our forums",
@@ -231,17 +286,6 @@
       "date": "2026-08-12T23:49:23.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "03ojNmyIrxflXfYXqqXEcWn",
-      "title": "Gemini is the GLP-1 of tech declares Trevor Noah at Made by Google event",
-      "summary": "Made By Google is here, which means smarter phones, fancier watches, and even more AI. Ahead of the event, Google announced that its AI assistant hit more than one billion monthly users. It's not just brand loyalty either, with more than 100 million of those querists turning to the app from iOS devices. Gemini now generates more than 150 million images every day, according to the company, and more than half of Gemini's users speak directly to their AI helper rather than relying on text.It's the fastest-growing Google product of all time, according to the tech giant. SEE ALSO: Everything announced at Made by Google today, including Pixel 11, Pixel Watch 4, and Pixel Tag So it makes sense that Google would start the event — and spend a majority of host Trevor Noah's time — talking about Gemini Intelligence. Gemini Intelligence on the Pixel 11Google is banking on making Gemini a genuinely \"useful\" AI assistant, what Noah ironically likened to the mass adoption of GLP-1s.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/made-by-google-gemini-pixel-11",
-      "category": "Tech",
-      "date": "2026-08-12T23:40:40.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
     },
     {
       "id": "https://www.macrumors.com/2026/08/12/app-store-fee-fight-24-hour-delay/",
@@ -574,17 +618,6 @@
       "officialUrl": "https://feeds.macrumors.com"
     },
     {
-      "id": "07bb1Xr4uk3uMgBmu0Gvbev",
-      "title": "The FCC banned foreign routers, drones, robots: What it means for you",
-      "summary": "Do you know where the robots running your home — your Google Nest devices, AI-powered smart assistants, and, especially, your robovacuums — come from? Do you even care? Well, the American government certainly wants you to. In a sweeping order from the U.S. Federal Communications Commission (FCC) two weeks ago, the Trump administration effectively banned foreign-made \"robotic devices\" from the U.S. market, including those helpful housekeepers. SEE ALSO: What to look for in a robot vacuum: A guide from someone who tests new vacuums every month The ruling expands the FCC's list of restricted devices under presumed national security concerns, also known as the Covered List. Citing national security concerns, the agency blocked imports and domestic sales of internet-connected devices that navigate independently (like humanoid robots) or carry cameras and microphones (like those terrifying robo dogs).",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/fcc-bans-robots-vacuums-what-to-know",
-      "category": "Tech",
-      "date": "2026-08-12T17:52:12.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
       "id": "https://www.macrumors.com/2026/08/12/apple-vice-president-government-affairs/",
       "title": "Apple Hires Airline Exec as Vice President of Government Affairs",
       "summary": "Apple hired former American Airlines executive vice president Nick Gatten as its new vice president of government affairs, reports Bloomberg. Gatten will take on some of the duties of senior vice president of government affairs Katherine Adams, who is retiring at the end of 2026. Gatten will report to Apple senior vice president and general counsel Jennifer Newstead, with Adams to remain available in an advisory role until October 1. Bloomberg says Gatten is a Republican that Apple felt would be able to align with the Trump administration while also working with democrats. He previously worked at Fannie Mae where he managed a team that interfaced with Republican members of Congress, and he oversaw government affairs at JPMorgan Chase & Co. He is also on the board of the Faith and Politics institution, an organization that \"cultivates mutual respect, moral reflection, increased understanding, and honest conversation among political leaders.\" From the article:At the same time, Apple sees Gatten as someone who can work constructively with policymakers on both sides of the aisle, the people said.",
@@ -649,28 +682,6 @@
       "date": "2026-08-12T17:41:29.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "04q11jEwyPXLsxcyKVDiHF6",
-      "title": "Pixel 11 Pro XL Camera Walk: Does Generative AI Ruin Real Photos?",
-      "summary": "Andrew Lanxon takes Google's Pixel 11 Pro XL on a street photography test walk through Paris to test its new camera features, including customizable Camera Looks, Magic Capture and 120x Super Res Zoom. Watch as he puts the Tensor G6-powered camera to the test and breaks down whether Google's heavy AI image processing enhances or over-edits your photos. Topics Android Artificial Intelligence Google Cameras Google Gemini",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/pixel-11-pro-xl-camera-walk",
-      "category": "Tech",
-      "date": "2026-08-12T17:40:07.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
-      "id": "01HxMBM2AnfpfMMejExnQ0E",
-      "title": "OpenAI employees can apparently complain directly to Sam Altman",
-      "summary": "OpenAI employees apparently have a quick way to reach founder and CEO Sam Altman, Fortune reported.It's an email address, friction@openai.com, and its purpose is to give employees a place to report company problems that OpenAI's leadership team can triage and handle. SEE ALSO: What is OpenAI Astra? Everything we know about the new — and possibly dangerous — new model The friction@ inbox has existed for a while, according to Fortune, but its use widened when Fidji Simo joined OpenAI as CEO of Applications in the fall of 2025. Simo went on a \"listening tour\" to better understand problems across the company, and formalized the friction@ process. She assigned Irina Kofman, VP of strategic initiatives and operations, to monitor the inbox and ensure that issues were resolved. Simo also established a monthly, company-wide Slack update to track progress, Fortune reported.Simo has since left OpenAI, but these processes remain.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/openai-email-address-is-direct-line-to-sam-altman",
-      "category": "Tech",
-      "date": "2026-08-12T17:34:16.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
     },
     {
       "id": "https://www.techrepublic.com/?p=4369272",
@@ -748,17 +759,6 @@
       "date": "2026-08-12T16:34:13.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "https://www.engadget.com/2231585/hdmi-splitter-vs-switch-how-different/",
-      "title": "HDMI splitter vs. HDMI switch: How are they different?",
-      "summary": "These devices let you turn one HDMI input or output into many, but not all are created equal. Freelanceblah/Shutterstock In a perfect world, we'd have exactly as many video ports on our source devices as we do on the displays we're connecting them to. But that's rarely the case, even with newer TVs that offer four HDMI ports. HDMI splitters and switches help with this problem, and while the two sound interchangeable, they actually have opposite purposes. If you have a simple setup with one game console and a set-top box (like a Roku) connected to your TV, you likely don't need to worry about splitters or switches. But if you juggle cables behind your entertainment center all the time because you have more devices than HDMI ports, a switch will help you out greatly.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2231585/hdmi-splitter-vs-switch-how-different/",
-      "category": "Tools",
-      "date": "2026-08-12T16:30:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
     },
     {
       "id": "https://www.macrumors.com/2026/08/12/apple-patent-to-improve-summaries/",
@@ -1962,17 +1962,6 @@
       "officialUrl": "https://www.technologyreview.com"
     },
     {
-      "id": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-      "summary": "The airline is accelerating research, product planning, and decision-making while giving teams a connected view of the customer journey. Loading…ShareTurning weeks of research into hoursTurning weeks of research into hoursCreating a connected view of the customer journeyWhat’s nextTurning weeks of research into hoursCreating a connected view of the customer journeyWhat’s nextVirgin Atlantic is using ChatGPT Work to help its teams understand the airline’s complex customer journey and deliver better experiences faster. From competitive research to product planning and analytics, ChatGPT Work gives employees new ways to bring information together and move from insight to action. For an airline, the customer journey extends beyond just booking a flight. It includes browsing, purchasing, checking in, traveling, the onboard experience, and sharing feedback afterward. Each stage produces valuable information, often held across different systems and reporting tools.",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-      "category": "Models",
-      "date": "2026-08-10T00:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com"
-    },
-    {
       "id": "https://openai.com/index/premium-seats-chatgpt-business",
       "title": "Premium seats are coming to ChatGPT Business",
       "summary": "Get 5x more usage, no five-hour usage limit, and the flexibility to give every teammate the right seat for their work. Loading…ShareTake on more ambitious work without losing momentumTake on more ambitious work without losing momentumGive each teammate the right seat for their workGet $100 worth of credits for every Premium seat—up to $500Take on more ambitious work without losing momentumGive each teammate the right seat for their workGet $100 worth of credits for every Premium seat—up to $500The work that moves your business forward should never have to stop. Teams are using ChatGPT to take on bigger things: organizing inventory, building marketing campaigns, analyzing business performance, improving customer experiences, and developing new products. As that work becomes more ambitious, OpenAI's top request from ChatGPT Business customers has been an expanded seat option with more capacity and usage built in. That’s why OpenAI is introducing Premium seats for ChatGPT Business. Premium gives your most active teammates 5x more usage than Standard seats and removes the five-hour usage limit, so they can take on larger projects and work with fewer interruptions—all within the same secure Business workspace.",
@@ -1988,6 +1977,17 @@
           "url": "https://openai.com/index/premium-seats-chatgpt-business/?utm_source=futuretools.io&utm_medium=newspage"
         }
       ]
+    },
+    {
+      "id": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "summary": "The airline is accelerating research, product planning, and decision-making while giving teams a connected view of the customer journey. Loading…ShareTurning weeks of research into hoursTurning weeks of research into hoursCreating a connected view of the customer journeyWhat’s nextTurning weeks of research into hoursCreating a connected view of the customer journeyWhat’s nextVirgin Atlantic is using ChatGPT Work to help its teams understand the airline’s complex customer journey and deliver better experiences faster. From competitive research to product planning and analytics, ChatGPT Work gives employees new ways to bring information together and move from insight to action. For an airline, the customer journey extends beyond just booking a flight. It includes browsing, purchasing, checking in, traveling, the onboard experience, and sharing feedback afterward. Each stage produces valuable information, often held across different systems and reporting tools.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+      "category": "Models",
+      "date": "2026-08-10T00:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://openai.com"
     },
     {
       "id": "https://openai.com/index/zapier",
@@ -2101,17 +2101,6 @@
       "category": "Curation",
       "date": "2026-08-09T00:00:00.000Z",
       "hot": false
-    },
-    {
-      "id": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
-      "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
-      "summary": "In October 2025, a storm brewed over the Caribbean Sea. Weather models differed on its trajectory. Would it remain weak and end up in Haiti, or would it intensify and head to Jamaica? Artificial intelligence model WeatherNext, developed by Google’s DeepMind and Google Research, went with the latter. Five days before landfall, it predicted with 80 percent confidence that the storm system would hit Jamaica as a Category 5 hurricane. Hurricane Melissa was catastrophic, causing flooding and landslides across Jamaica.",
-      "source": "Ars Technica AI",
-      "sourceUrl": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
-      "category": "Industry",
-      "date": "2026-08-08T11:05:50.000Z",
-      "hot": false,
-      "officialUrl": "https://arstechnica.com"
     }
   ]
 }
