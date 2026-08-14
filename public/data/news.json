@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2026-08-14T19:32:21.375Z",
+  "lastUpdated": "2026-08-14T20:03:03.899Z",
   "news": [
+    {
+      "id": "https://decrypt.co/?p=375684",
+      "title": "China's Z.AI Ships GLM-5.3, Calling It the Top Open-Weight Coding Model",
+      "summary": "Chinese lab Z.AI says the release beats comparably sized open models on code benchmarks, but trails behind closed frontier U.S.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/375684/china-z-ai-glm-5-3-top-open-weight-coding-model",
+      "category": "Tech",
+      "date": "2026-08-14T20:01:13.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
     {
       "id": "https://www.macrumors.com/2026/08/14/iphone-17-vs-iphone-18-buying/",
       "title": "Should You Buy an iPhone 17 Now or Wait for iPhone 18?",
@@ -44,28 +55,6 @@
       "date": "2026-08-14T19:07:11.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/article/news-apac-singapore-simulated-scams-security-training/",
-      "title": "Singapore Is Literally Training People to Get Scammed",
-      "summary": "Singapore is using simulated AI-enabled scam calls to train the public, offering IT leaders a new model for social engineering security training.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-apac-singapore-simulated-scams-security-training/",
-      "category": "Business",
-      "date": "2026-08-14T18:50:50.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/?p=4369662",
-      "title": "CXMT Valuation Surges as AI Demand Reshapes China’s DRAM Market",
-      "summary": "CXMT overtook Tencent in market value as AI memory demand lifted chip stocks and highlighted China’s expanding role in the competitive global DRAM market.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-cxmt-dram-ai-memory-market-apac-china/",
-      "category": "Business",
-      "date": "2026-08-14T18:43:36.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "https://decrypt.co/?p=375670",
@@ -563,6 +552,87 @@
       "hot": true
     },
     {
+      "id": "https://www.youtube.com/watch?v=NC4h5kWH_-A&utm_source=futuretools.io&utm_medium=newspage",
+      "title": "All The AI News You Missed From The Past Week (Full Breakdown)",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.youtube.com/watch?v=NC4h5kWH_-A&utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-14T00:00:00.000Z",
+      "hot": true
+    },
+    {
+      "id": "https://z.ai/blog/glm-5.3?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Z.ai's GLM-5.3 Tops Coding Benchmarks, Develops Unexpected Cyber Exploit Skills",
+      "summary": "Z.ai released GLM-5.3, a coding-focused AI model built entirely through post-training scaling on the same base model as GLM-5.2. It achieves state-of-the-art results among open-weights models on Terminal Bench 3.0 and Agents' Last Exam, with a 50% improvement on Z.ai's internal Code Bench. Unexpectedly, cyber exploitation capabilities grew rapidly during training: GLM-5.3 more than doubled GLM-5.2 on ExploitBench, scoring 54.4%. Applied to real codebases, it found 2,436 vulnerabilities across 269 projects, including flaws dating back 40 years. Model weights release in two weeks pending safety review.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://z.ai/blog/glm-5.3?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-14T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Anthropic Shares Tips to Optimize Token Usage in Claude Code Sessions",
+      "summary": "How to run efficient sessions that get the most value from every token.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-14T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://x.com/Alibaba_Qwen/status/2088280182356611304?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Alibaba Releases Open-Weight Qwen3.8-27B Multimodal Model With 262K Context Under Apache 2.0",
+      "summary": "We promised open weights for Qwen3.8. Now, time to meet them! 🎉 ⚡ Qwen3.8-27B: - A native multimodal dense model. With just 27B parameters, it outperforms Qwen3.7-Plus overall and shines in real-world coding & office workflows. - 262K native context, easily extendable to 1M",
+      "source": "FutureTools News",
+      "sourceUrl": "https://x.com/Alibaba_Qwen/status/2088280182356611304?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-14T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://learn.chatgpt.com/docs/customization/computer-history?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "ChatGPT's Computer History Feature Tracks Mac Activity to Build AI-Accessible Timelines",
+      "summary": "Computer History is off by default for ChatGPT Pro, Business, and Enterprise users in the ChatGPT desktop app on macOS. Pro users can choose to turn it on. For Business and Enterprise workspaces, an administrator must explicitly grant access before each member can choose to turn it on. Computer History also requires Memories and is not available with an API key or Amazon Bedrock. Computer History is not currently available in the European Economic Area (EEA), Switzerland, or the United Kingdom. Computer History turns your activity across apps and websites into memories and a timeline that ChatGPT and Codex can reference.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://learn.chatgpt.com/docs/customization/computer-history?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-14T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://x.com/GeminiApp/status/2088277477672255830?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Gemini App Lets Users Toggle Visible Watermarks on AI-Generated Images, Video, and Music",
+      "summary": "Rolling out over the next few days, you can decide if your image, video, and music creations made with Gemini will have visible watermarks. Invisible SynthID watermarks and C2PA metadata will always stay embedded in the background. Simply go to your settings and toggle “Show",
+      "source": "FutureTools News",
+      "sourceUrl": "https://x.com/GeminiApp/status/2088277477672255830?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-14T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://www.wsj.com/tech/ai/claude-dario-amodei-wife-anthropic-e1eeda7d?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "The Hidden Power Behind Anthropic: Cami Clark’s Past Ventures, Epstein Pitches, and Influence on AI’",
+      "summary": "The controversy centers on Cami Clark, wife and key strategic adviser to Anthropic CEO Dario Amodei, who exerts significant behind-the-scenes influence over the AI giant despite efforts to keep her online footprint hidden. The Wall Street Journal investigation reveals a past that includes co-founding a women-focused \"luxury porn\" startup and directly pitching convicted sex offender Jeffrey Epstein for investment, alongside dating former Google CEO Eric Schmidt, whom she later brought in as an early Anthropic investor while attempting to launch a venture fund to secure equity in the company. As Anthropic moves toward a multi-trillion-dollar IPO, Clark's undisclosed influence, past business ventures, and high-profile connections have sparked scrutiny over governance and transparency at the top of the AI firm.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.wsj.com/tech/ai/claude-dario-amodei-wife-anthropic-e1eeda7d?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-14T00:00:00.000Z",
+      "hot": false,
+      "access": "paywalled"
+    },
+    {
+      "id": "https://x.com/cursor_ai/status/2088249881718919393?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "SpaceX Acquires Cursor AI to Bolster Grok Products and AI Development Tools",
+      "summary": "Cursor is now part of @SpaceX. Today, we have officially closed our acquisition. We will join the @SpaceXAI team to help make Grok the world's most useful AI and improve Grok Build, Grok Bot, Grok API, Cursor, and more. SpaceX has built some of the most inspiring and",
+      "source": "FutureTools News",
+      "sourceUrl": "https://x.com/cursor_ai/status/2088249881718919393?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-14T00:00:00.000Z",
+      "hot": false
+    },
+    {
       "id": "https://www.macrumors.com/2026/08/13/iphone-17-pro-one-year-later/",
       "title": "iPhone 17 Pro One Year Later: What Held Up and What Didn't",
       "summary": "We're getting close to the launch of new iPhone 18 Pro models that will replace the iPhone 17 Pro models, so MacRumors videographer Dan Barbera decided to take a look back at the iPhone he's been using for close to 12 months. Ceramic Shield 2 was the best iPhone upgrade this year. Apple said it's more resistant to scratches, and that turned out to be true. Dan goes caseless, and his &zwnj;iPhone 17 Pro&zwnj; has only faint scratches, while the 16 Pro was scratched after three weeks. The iPhone has also survived facedown drops with no damage, but there are a few chips in the aluminum along the edges. There have been reports of the orange color fading over time, but Dan didn't see that with his device.",
@@ -849,6 +919,17 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
+      "id": "https://techcrunch.com/?p=3152875",
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "category": "Business",
+      "date": "2026-08-13T19:22:40.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
       "id": "https://techcrunch.com/?p=3152914",
       "title": "IBM partners with OpenAI to bolster enterprise AI push",
       "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
@@ -858,17 +939,6 @@
       "date": "2026-08-13T19:19:49.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=375580",
-      "title": "Google and OpenAI Debut Super Fast AI Models—Gemini 3.7 Flash Is Out, But GPT-5.6 Sol Ultrafast I...",
-      "summary": "Google's Gemini 3.7 Flash model is live and built for cheap agents; OpenAI's GPT-5.6 Sol Ultrafast is quicker but locked behind a waitlist.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/375580/google-openai-super-fast-ai-models-gemini-flash-gpt-ultrafast",
-      "category": "Tech",
-      "date": "2026-08-13T19:11:03.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
     },
     {
       "id": "https://www.macrumors.com/2026/08/13/apple-houston-manufacturing-center/",
@@ -1167,6 +1237,17 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
+      "id": "https://www.techrepublic.com/?p=4344993",
+      "title": "Visual Studio 2026 Brings AI Deeper Into Development and It’s 94% Off Right Now",
+      "summary": "Microsoft's latest 64-bit IDE adds AI-assisted coding, faster performance, and advanced collaboration tools.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/microsoft-visual-studio-professional-2026/",
+      "category": "Business",
+      "date": "2026-08-13T13:00:40.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
       "id": "https://blogs.nvidia.com/?p=97471",
       "title": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More",
       "summary": "GeForce NOW is giving cloud gaming an extra-credit upgrade just in time for back-to-school season. The native Linux app for GeForce NOW is officially out of beta. GeForce NOW is also delivering new cloud optimizations that make Frame Generation feel even more responsive while streaming. On top of that, Performance members will see higher frame rates in demanding games thanks to a CPU performance adjustment. Plus, learn how GeForce NOW can add high-performance GeForce RTX gaming to the Chromebooks students already rely on for school – and how eligible new owners can take advantage of Chromebook Fast Pass. It all adds up to more ways to move from assignments to adventures across nearly any device.",
@@ -1176,6 +1257,17 @@
       "date": "2026-08-13T13:00:33.000Z",
       "hot": false,
       "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/article/news-farmer-ai-pesticide-advice-crop-loss-china-apac/",
+      "title": "A Farmer Trusted AI’s Advice. It Cost Him 25 Acres of Crops",
+      "summary": "A Chinese farmer reportedly lost nearly 25 acres of sesame after following AI pesticide advice, highlighting the risks of trusting chatbot recommendations.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-farmer-ai-pesticide-advice-crop-loss-china-apac/",
+      "category": "Business",
+      "date": "2026-08-13T12:58:10.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "http://feeds.fabbaloo.com/~/967796102/_/fabbaloo/default~Math-Models-and-Mysteries-Solved-How-Additive-Manufacturing-Helped-Find-the-Answer-to-Schr%c3%b6dinger%e2%80%99s-Color-Theory",
@@ -1209,23 +1301,6 @@
       "date": "2026-08-13T11:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://openai.com/index/previewing-ultrafast",
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "summary": "A new speed class for frontier intelligence, turning speed into a competitive advantage. Loading…ShareWhat early customers are experiencingWhat early customers are experiencingHow OpenAI is using UltrafastPowered by CerebrasAvailabilityWhat early customers are experiencingHow OpenAI is using UltrafastPowered by CerebrasAvailabilityToday, OpenAI is sharing an early look at Ultrafast, a new service tier that runs GPT‑5.6 Sol up to 14× faster than Standard processing, launching first in the OpenAI API. Powered by Cerebras, Ultrafast generates up to 750 output tokens per second, bringing OpenAI's most intelligent model to products and workflows where every second matters. With GPT‑5.6, OpenAI is pushing the frontier on what OpenAI's models can do and making them more efficient across every layer of OpenAI's stack. Those improvements have made advanced intelligence more affordable and more useful to more people. Until now, getting real-time speed typically meant choosing a smaller or more specialized model.",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/previewing-ultrafast",
-      "category": "Models",
-      "date": "2026-08-13T10:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com",
-      "relatedCoverage": [
-        {
-          "source": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/"
-        }
-      ]
     },
     {
       "id": "https://openai.com/index/dali-rajic-chief-revenue-officer",
@@ -1270,6 +1345,102 @@
       "date": "2026-08-13T00:00:00.000Z",
       "hot": false,
       "officialUrl": "https://huggingface.co"
+    },
+    {
+      "id": "https://x.com/ChatGPT/status/2088044956091089281?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "ChatGPT Now Lets Users Open and Edit Google Drive Files Without Switching Tabs",
+      "summary": "You probably hate tab switching. Understandable. You can now open any @googledrive Doc, Sheet, or Slide right inside ChatGPT and work side by side without switching tabs. Rolling out on web to Plus, Pro, Business, and Enterprise users in ChatGPT and ChatGPT Work.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://x.com/ChatGPT/status/2088044956091089281?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-13T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://x.com/ClaudeDevs/status/2088014831605702937?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Claude Code Desktop Adds Auto-Continue Feature to Resume Work After Usage Limit Resets",
+      "summary": "Hit your usage limit in Claude Code desktop? There's now an auto-continue checkbox. Turn it on, and it'll automatically continue where you left off once your limit resets.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://x.com/ClaudeDevs/status/2088014831605702937?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-13T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://openai.com/index/previewing-ultrafast/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "OpenAI Launches GPT-5.6 Sol Ultrafast Mode: 14x Faster, 750 Tokens/Sec via Cerebras",
+      "summary": "A new speed class for frontier intelligence, turning speed into a competitive advantage. Loading…ShareWhat early customers are experiencingWhat early customers are experiencingHow OpenAI is using UltrafastPowered by CerebrasAvailabilityWhat early customers are experiencingHow OpenAI is using UltrafastPowered by CerebrasAvailabilityToday, we’re sharing an early look at Ultrafast, a new service tier that runs GPT‑5.6 Sol up to 14× faster than Standard processing, launching first in the OpenAI API. Powered by Cerebras, Ultrafast generates up to 750 output tokens per second, bringing our most intelligent model to products and workflows where every second matters. With GPT‑5.6, we’re pushing the frontier on what our models can do and making them more efficient across every layer of our stack. Those improvements have made advanced intelligence more affordable and more useful to more people. Until now, getting real-time speed typically meant choosing a smaller or more specialized model.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://openai.com/index/previewing-ultrafast/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-13T00:00:00.000Z",
+      "hot": false,
+      "relatedCoverage": [
+        {
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/previewing-ultrafast"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Google Launches Gemini 3.7 Flash With Major Coding Gains at Half the Price of 3.6 Flash",
+      "summary": "Our most intelligent workhorse model yet for coding and agents. Senior Director, Product Management, on behalf of the Gemini team Your browser does not support the audio element. Today, we’re building on the progress of our widely used Flash series by introducing Gemini 3.7 Flash, our most intelligent workhorse model yet for coding and agents. This release comes just three weeks after Gemini 3.6 Flash, and is a direct result of developer feedback and algorithmic innovations that we look forward to bringing to future models. 3.7 Flash delivers substantial improvements across software engineering, knowledge work, and web development workflows — with an introductory price of half the original 3.6 Flash cost per million tokens.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-13T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=GZHp3WFc9Ps&utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Suno Studio 2.0 Launches with MIDI, Live Audio Tracking, and AI Plugin Creation",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.youtube.com/watch?v=GZHp3WFc9Ps&utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-13T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Anthropic's Claude Tag Gains Channel-Wide Context, 30% Better at Knowing When to Respond",
+      "summary": "Claude has more context to decide when to proactively collaborate in Slack (and when not to)",
+      "source": "FutureTools News",
+      "sourceUrl": "https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-13T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "MiniMax Music 3.0 Launches as Open-Weights AI Music Generation Model",
+      "summary": "Today, we are introducing MiniMax Music 3.0, our next-generation music generation model. Given a creative concept and optional lyrics, the model composes, arranges, performs, and produces a complete song in a single generation. Music 3.0 focuses on the aspects of music creation that are hardest to capture with a simple prompt: understanding the creator’s expressive intent; sustaining that intent across a complete song of up to five minutes; rendering instruments with clarity and physical realism; and generating vocals that sound performed rather than synthesized. To achieve this, we redesigned the entire generation pipeline—from music description and language modeling to audio rendering. Fine-grained temporal descriptions capture the evolution of emotion, instrumentation, and vocal delivery. A global–local Hybrid-LM jointly models long-range structure and acoustic detail.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-13T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://api-docs.deepseek.com/news/news260813/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "DeepSeek Launches V4-Pro with Agent Upgrades, Flexible Reasoning & New API Pricing",
+      "summary": "NewsDeepSeek-V4-Pro GA Release 2026/08/13On this pageDeepSeek-V4-Pro GA Release We’re launching DeepSeek-V4-Pro today! 🔷 Major Agent upgrades with strong production gains! 🔷 Flexible reasoning effort for V4-Pro & V4-Flash: low for simple tasks, high for daily Agent workflows, max for complex tasks. 🔷 Native OpenAI Responses API support, optimized for Codex with one-click setup. V4 Pro is now available on app/web. V4 Pro is also available via API.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://api-docs.deepseek.com/news/news260813/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-13T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://www.alibabacloud.com/blog/wan3-0-30-second-ai-video-generation-from-any-input_603452?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Alibaba Launches Wan3.0: AI Video Generation in 30 Seconds on Cloud Model Studio",
+      "summary": "Wan3.0 is the new generation of Alibaba's Wan video generation model family, now available on Alibaba Cloud Model Studio. It generates up to 30 seconds of video in a single pass, accepts text, images, audio, video, and — for the first time — documents (PPT, PDF, DOC, XLS, and more) as input, and delivers a major leap in real-world fidelity: lifelike, diverse human faces and precise reference-to-video consistency. API pricing starts at $0.05 per second for 480P output, with 720P and 1080P tiers available. If you build with video generation APIs — for film and short-form content, advertising, design and creative work, or destination marketing — this release changes what a single API call can produce: not a clip, but a complete story. Most AI video generation models produce clips of a few seconds — enough for a shot, not a story. Wan3.0 extends single-generation length to 30 seconds, and the difference is more than a bigger number.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.alibabacloud.com/blog/wan3-0-30-second-ai-video-generation-from-any-input_603452?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-13T00:00:00.000Z",
+      "hot": false
     },
     {
       "id": "https://techcrunch.com/?p=3152533",
@@ -1336,17 +1507,6 @@
       "date": "2026-08-12T18:45:00.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-      "title": "Twitch streamers can now opt out from training Amazon’s AI",
-      "summary": "Flip the new Twitch toggle if you don’t want your content to be used to train Amazon’s generative AI content models. Flip the new Twitch toggle if you don’t want your content to be used to train Amazon’s generative AI content models. Twitch users can now opt out of allowing their content to be used to train Amazon’s generative AI models. Opting out means that “your streams, VODs, clips, stream chats, and pictures and text on your channel” won’t be used in “future training” of an Amazon AI model “whose purpose is to generate or synthesize text, audio, images, or video,” according to a Twitch support page. Other “AI-supported” features like captions and safety tools will still function if you opt out of generative AI training. However, if you participate in a chat on another person’s stream, “their opt-out preferences govern if that chat can be used for training,” Twitch says.",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-      "category": "Industry",
-      "date": "2026-08-12T17:29:10.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
     },
     {
       "id": "https://www.technologyreview.com/?p=1141032",
@@ -1502,6 +1662,102 @@
       "officialUrl": "https://aiweekly.co"
     },
     {
+      "id": "https://claude.com/blog/cowork-chrome-side-panel?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Claude Cowork Comes to Chrome Side Panel, Syncing Sessions Across Desktop and Mobile",
+      "summary": "Give Claude a task in your browser, work across tabs, and continue the conversation in the desktop, mobile, and web apps.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://claude.com/blog/cowork-chrome-side-panel?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-12T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://appleinsider.com/articles/26/08/12/twitch-will-train-amazons-ai-on-your-streams-unless-you-opt-out?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Twitch Uses Streamer Content for Amazon AI Training by Default; Opt-Out Available",
+      "summary": "Twitch now defaults to allowing Amazon to use streamers' broadcasts, clips, VODs, highlights, chat, and images to train generative AI models. An opt-out was announced August 12, 2026, and can be found under Security and Privacy in account settings, labeled Training for Generative AI. The opt-out only covers future training, and Twitch has not confirmed whether Amazon has already used content. Opting out does not disable AI for captions, recommendations, AutoMod, or other platform features. Viewers cannot control how their chat messages are used in others' streams.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://appleinsider.com/articles/26/08/12/twitch-will-train-amazons-ai-on-your-streams-unless-you-opt-out?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-12T00:00:00.000Z",
+      "hot": false,
+      "relatedCoverage": [
+        {
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai"
+        }
+      ]
+    },
+    {
+      "id": "https://openai.com/index/how-enterprises-put-ai-to-work/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "OpenAI: Frontier Firms Generate 8.3x More AI Output as Agentic Adoption Widens",
+      "summary": "Two new reports show how AI adoption is spreading across firms and workers—and what frontier organizations are doing differently. (opens in a new window)Loading…ShareEnterprises are shifting from asking to doingEnterprises are shifting from asking to doingThe frontier gap widens as firms embrace agentic AIAdvanced capabilities like Plugins and skills are more common at frontier firmsAgents are spreading across knowledge workEarly-career employees use AI moreWhat leaders can do to narrow the frontier gapEnterprises are shifting from asking to doingThe frontier gap widens as firms embrace agentic AIAdvanced capabilities like Plugins and skills are more common at frontier firmsAgents are spreading across knowledge workEarly-career employees use AI moreWhat leaders can do to narrow the frontier gapOrganizations are expanding both where they use AI and what they ask it to do. Enterprise AI is moving from assistance to execution, yet not all firms are making that transition at the same pace. Frontier firms—those in the top 10% of AI usage each month—now generate 8.3× as many output tokens per active user as typical firms. The measure is a proxy for depth of use, and the widening gap appears alongside greater adoption of capabilities that connect agents to company context, tools, and repeatable workflows. Today we are publishing two complementary studies that examine this shift.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://openai.com/index/how-enterprises-put-ai-to-work/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-12T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://x.ai/news/grok-4-6?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "xAI Launches Grok 4.6 with Enhanced Long-Running Agents and Visual Capabilities",
+      "summary": "Today we are releasing Grok 4.6. Grok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work. It stays with complex tasks across many steps, whether researching a topic, analyzing information, working across a codebase, or turning an idea into a polished application or work artifact.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://x.ai/news/grok-4-6?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-12T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Google DeepMind's SL2T Model Brings ASL-to-Text to Gboard and Live Transcribe on Pixel 11",
+      "summary": "Discover our new sign-language-to-text (SL2T) translation model, bringing ASL dictation to Gboard and Live Transcribe on Pixel 11.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-12T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://x.com/runwayml/status/2087552165703504056?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Runway Agent Now Integrates With Figma, Dropbox, and Notion on All Paid Plans",
+      "summary": "You can now connect Figma, Dropbox and Notion to Agent on Runway. Your assets shouldn't be stuck in separate tools. With connectors, Agent syncs directly with the platforms you already work in, pulling your designs, files and docs into one place. Available on all paid plans.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://x.com/runwayml/status/2087552165703504056?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-12T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Google Gemini Adds Ticketmaster, OpenTable, Pandora & More Third-Party App Integrations",
+      "summary": "Today at Made by Google, we’re announcing that a new slate of connected apps are coming to Gemini to help you get more done. By turning on your favorite services in Gemini, you can easily plan, create, and tackle your to-do list all in one place. Over the next few weeks, we’re rolling out the ability to connect with tools across a variety of categories:",
+      "source": "FutureTools News",
+      "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-12T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://x.com/deepgramscott/status/2087533416849838386?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Deepgram Launches Flux TTS With 80ms Latency for Real-Time Voice AI Conversations",
+      "summary": "Introducing @DeepgramAI Flux TTS, a text-to-speech model built for live conversation. Voice AI is moving from demos to real customer calls, and the bar there is different. Text-to-speech needs to be able to handle the nuances of how we speak. Can it handle interruptions? A",
+      "source": "FutureTools News",
+      "sourceUrl": "https://x.com/deepgramscott/status/2087533416849838386?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-12T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://siliconangle.com/2026/08/12/ahrefs-launches-ai-agent-workspace-letaido-marketers-agencies/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Ahrefs Launches Letaido AI Agent Workspace for Marketing Teams and Agencies",
+      "summary": "Ahrefs launches AI agent workspace Letaido for marketers and agencies - SiliconANGLE",
+      "source": "FutureTools News",
+      "sourceUrl": "https://siliconangle.com/2026/08/12/ahrefs-launches-ai-agent-workspace-letaido-marketers-agencies/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-12T00:00:00.000Z",
+      "hot": false
+    },
+    {
       "id": "0000019f-f311-d68a-a39f-f3dbd1770000",
       "title": "OpenAI: AI policy will still be made in the states",
       "summary": "Much AI policymaking will continue to run through the states and be informed by California’s work, a senior OpenAI official said on Tuesday.",
@@ -1612,17 +1868,6 @@
       "officialUrl": "https://openai.com"
     },
     {
-      "id": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-      "title": "Daybreak models are now available on AWS",
-      "summary": "Loading…ShareBringing frontier cybersecurity capabilities to AWSBringing frontier cybersecurity capabilities to AWSGet startedBringing frontier cybersecurity capabilities to AWSGet startedEarlier this year, OpenAI frontier models and Codex became generally available on AWS, giving enterprises a new path to bring advanced AI into production. Today, OpenAI is sharing the next step in OpenAI's work with AWS: making Daybreak capabilities available through Amazon Bedrock. With Daybreak Access, defenders can use frontier cyber models within their existing AWS environments. Daybreak Blue and Daybreak Red access levels are both available in AWS: These models help accelerate vulnerability research, detection engineering, and incident response, from initial discovery through a validated fix. They also support complex workflows such as exploit reproduction and mitigation development.",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-      "category": "Models",
-      "date": "2026-08-11T10:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com"
-    },
-    {
       "id": "0000019f-edd0-d3c1-a7bf-efdbc2d80000",
       "title": "The AI industry won a primary fight. Now its target is inspiring lawmakers nationwide.",
       "summary": "Democratic New York assemblymember Alex Bores narrowly lost his House primary in June after facing an onslaught of Silicon Valley dollars. But his influence over state AI rules is only rising.",
@@ -1632,6 +1877,173 @@
       "date": "2026-08-11T09:50:00.000Z",
       "hot": false,
       "officialUrl": "https://rss.politico.com"
+    },
+    {
+      "id": "https://openai.com/index/daybreak-models-are-now-available-on-aws/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "OpenAI Daybreak Cybersecurity Models Now Available on AWS via Amazon Bedrock",
+      "summary": "Loading…ShareBringing frontier cybersecurity capabilities to AWSBringing frontier cybersecurity capabilities to AWSGet startedBringing frontier cybersecurity capabilities to AWSGet startedEarlier this year, OpenAI frontier models and Codex became generally available on AWS, giving enterprises a new path to bring advanced AI into production. Today, we’re sharing the next step in our work with AWS: making Daybreak capabilities available through Amazon Bedrock. With Daybreak Access, defenders can use frontier cyber models within their existing AWS environments. Daybreak Blue and Daybreak Red access levels are both available in AWS: These models help accelerate vulnerability research, detection engineering, and incident response, from initial discovery through a validated fix. They also support complex workflows such as exploit reproduction and mitigation development.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://openai.com/index/daybreak-models-are-now-available-on-aws/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-11T00:00:00.000Z",
+      "hot": false,
+      "relatedCoverage": [
+        {
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws"
+        }
+      ]
+    },
+    {
+      "id": "https://futuretools.io/news/what-we-should-keep-human",
+      "title": "What We Should Keep Human",
+      "summary": "A framework for creators on when to use AI and when to hold back, centered on the question of what is lost when a task is automated, with discussion of the Hank Green controversy and how heavy AI use can blur the line between original thought and machine-generated output. August 11, 2026 · 2:44 PM PDT · 15 min read Creators should ask 'what do I lose if I automate this' before using AI, since automating research or scripting can erode original thinking and subject-matter expertise. The Hank Green controversy shows audiences accept AI as a coding or production tool but grow skeptical when AI phrasing appears to replace a creator's authentic voice and perspective. Heavy reliance on a single AI source risks pulling creators toward averaged, median opinions, unlike traditional learning from many diverse sources that fosters independent conclusions. The question every creator should ask before automating their work.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://futuretools.io/news/what-we-should-keep-human",
+      "category": "Curation",
+      "date": "2026-08-11T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://www.thedeepview.com/articles/ai-s-authenticity-crisis-forces-a-transparency-push?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Anthropic, Spotify, Suno & Substack Push AI Content Transparency Amid Detection Crisis",
+      "summary": "It's getting harder to discern authentic content from stuff that's AI-generated, but there may be hope. Some tech companies are starting to draw a line in the sand. One is Anthropic, which has updated its Claude models to watermark all generated text to comply with transparency regulations in the EU AI Act. The act, which requires AI companies to identify AI-generated and edited content, has also received commitment from companies such OpenAI, Microsoft, Google, Cohere, Meta and Synthesia. As such, Anthropic noted in an update to its support page that all models released after August 2 will automatically watermark both text and files that they generate or edit, with files using the C2PA open standard. The standard will apply to Anthropic's suite of products, including Claude Code, Claude Cowork, and Claude Tag.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.thedeepview.com/articles/ai-s-authenticity-crisis-forces-a-transparency-push?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-11T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Tencent HunyuanWorldClaw Generates Explorable 3D Worlds From Single Text Prompts",
+      "summary": "From one open-ended prompt to an explicit, explorable, and editable 3D world.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-11T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://x.com/OpenAI/status/2087231350134980830?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "OpenAI Launches ChatGPT Desktop App Preview for Linux (Ubuntu, Debian, Fedora)",
+      "summary": "Now in preview: The ChatGPT desktop app for Linux. Use ChatGPT, ChatGPT Work, and Codex where you already work and build, with your projects and browser workflows on supported Linux systems.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://x.com/OpenAI/status/2087231350134980830?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-11T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://x.ai/news/introducing-grok-bot?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "xAI Launches Grok Bot: Always-On AI Agents That Work Inside Your Apps 24/7",
+      "summary": "Grok Bot is your team of always-on agents. They have their own computer, work inside tools and apps like you do, and keep working 24/7.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://x.ai/news/introducing-grok-bot?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-11T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://microsoft.ai/news/mai-code-1-1-flash-br-better-faster-at-a-quarter-of-the-cost/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Microsoft's MAI-Code-1.1-Flash Cuts Costs 75%, Boosts Speed 25% in GitHub Copilot",
+      "summary": "Models Latest models Discover the latest MAI models, designed for real-world intelligence MAI-Code-1.1-Flash MAI-Image-2.5 MAI-Voice-2 MAI-Transcribe-1.5 All models MAI-Thinking-1 Built for the complex problems that matter most, with competitive reasoning and top SWE-Bench Pro results at a mid-weight price. Helps your engineering team write better code faster, with a lightweight, agentic model built into GitHub Copilot and VS Code. Create notable, design-ready images from any text or photo prompt, with best-in-class Arena ELO scores at a lower price. Delivers expressive, low-latency speech that holds up across long generations. Turn noisy audio into precise, domain-specific transcripts, with leading FLEURS and Artificial Analysis accuracy scores.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://microsoft.ai/news/mai-code-1-1-flash-br-better-faster-at-a-quarter-of-the-cost/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-11T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://x.com/bradlightcap/status/2087211567012032862?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "OpenAI COO Brad Lightcap Departs After 8 Years to Launch New Startup",
+      "summary": "I shared the message below with the openai team this morning. these decisions are never easy, but the talent and mission orientation of the openai team make me more optimistic than ever. 🤍 ### Team, it is bittersweet to share that I’ll be moving on from OpenAI to start",
+      "source": "FutureTools News",
+      "sourceUrl": "https://x.com/bradlightcap/status/2087211567012032862?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-11T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "NVIDIA Nemotron 3.5 Lightning: Fast 30B MoE Model for High-Volume AI Agents",
+      "summary": "Long-running AI agents spend most of their time on high-volume execution: tool calls, result validation, and subagent delegation. Using a frontier reasoning model for every execution step adds cost…",
+      "source": "FutureTools News",
+      "sourceUrl": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-11T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://www.theinformation.com/articles/nvidia-trying-develop-worlds-best-open-source-ai-models?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Nvidia Develops Nemotron 4, a Trillion-Parameter Open-Source AI Model to Boost Chip Demand",
+      "summary": "Nvidia is developing Nemotron 4, an open-source AI model with at least one trillion parameters—double its current largest model, Nemotron 3 Ultra—aiming to rival the world's best open-source models. The effort, led by VP Bryan Catanzaro, is designed to broaden GPU demand beyond a handful of frontier labs like OpenAI. Nvidia has tripled its cloud-compute commitments to $28 billion through 2031 to support training. Partners including Reflection AI, Thinking Machines, Mistral, and Cognition are contributing data and ideas via the Nemotron Coalition.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.theinformation.com/articles/nvidia-trying-develop-worlds-best-open-source-ai-models?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-11T00:00:00.000Z",
+      "hot": false,
+      "access": "paywalled"
+    },
+    {
+      "id": "https://newsroom.spotify.com/2026-08-11/ai-persona-badges-transparency/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Spotify Adds AI Persona Badges to Flag AI-Generated Artist Identities on Profiles",
+      "summary": "Share Share True artist-fan connection can only be built on a foundation of trust and authenticity. In music, that means listeners need to be able to trust that the artist behind the music is who they say they are. That’s more essential than ever in the age of generative AI. So this year, we’ve made Artist Identity & Trust one of our very top priorities with the launch of Verified by Spotify, SongDNA, AI Credits, and Artist Profile Protection. Today, we’re announcing another step in our effort to ensure Spotify is the most transparent and trustworthy place to listen to music. Listeners have been clear in telling us that they don’t like seeing an artist profile that seems human, only to find out that the persona is AI-generated.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://newsroom.spotify.com/2026-08-11/ai-persona-badges-transparency/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-11T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "NVIDIA NeMo Switchyard Routes AI Agent Workloads Across Models, Cuts Costs 74%",
+      "summary": "Learn how NVIDIA NeMo Switchyard routes AI agent workloads across models using tuning-free and tunable routers that balance model capability, cost, and latency.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-11T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://venturebeat.com/technology/ltx-2-5-can-generate-a-10-second-ai-video-from-an-image-in-just-6-8-seconds-on-nvidia-superchips-and-its-open-weights?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "LTX-2.5 Generates 10-Second Video in 6.8s on Nvidia GB200, Launches as Open Weights",
+      "summary": "LTX, spun out of Lightricks, has released LTX-2.5, an open-weights video generation model that produces a second 720p clip in 6.8 seconds when self-hosted on two Nvidia GB200 superchips. The model launches natively in ComfyUI and is available on Hugging Face and via API at $0.09 per second. New features include a diffusion video decoder, native multishot generation, and a Gemma 4 language backbone. It is free for organizations under $10 million ARR, with larger companies required to negotiate a license.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://venturebeat.com/technology/ltx-2-5-can-generate-a-10-second-ai-video-from-an-image-in-just-6-8-seconds-on-nvidia-superchips-and-its-open-weights?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-11T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Anthropic's Claude to Watermark AI-Generated Text & Files Under EU AI Act Compliance",
+      "summary": "Anthropic has signed the EU AI Act's Article 50(2) Code of Practice on Transparency of AI-Generated Content, as a provider of both generative AI models and generative AI systems. This article describes how we’re planning to put those commitments into practice, how marking works, and what its limitations are. We’ll update this article and publish more detailed technical guidance as it becomes available. Anthropic’s commitments under the EU AI Act’s Code of Practice on Transparency of AI-Generated Content What our marking commitments mean for Claude: New models will mark AI-generated content from day one.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-11T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://x.com/kotekjedi_ml/status/2087147042888114428?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Researchers Extract Hidden AI Reasoning From Claude, GPT, and Gemini APIs via Vulnerability",
+      "summary": "We can finally talk about it: We found a way to extract hidden reasoning of frontier models using a vulnerability in the APIs of every frontier AI company. We verified that our reasoning token count matches billed API thinking tokens 1:1 for most of the prompts we queried.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://x.com/kotekjedi_ml/status/2087147042888114428?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-11T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://www.raindrop.ai/blog/signals-2-frontier-classification/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Raindrop Launches Signals 2.0 with rd-signal-2: 1,600x Cheaper Than GPT-5.6 Sol",
+      "summary": "Today we're launching Signals 2.0, powered by rd-signal-2, our new model pipeline for building task-specific binary classifiers from production traces. rd-signal-2 approaches GPT-5.6 Sol xhigh accuracy while costing 1600x less, and 260x less than GPT-5.6 Luna xhigh. This model is available to all Raindrop customers today (at no additional cost). We are also releasing Signal Builder: a platform for training and hosting custom classifiers with Zero Data Retention. Signal Builder brings the power of Signals to the strictest of enviroments (including healthcare). Last year, OpenAI published a paper called \"Why Language Models Hallucinate\".",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.raindrop.ai/blog/signals-2-frontier-classification/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-11T00:00:00.000Z",
+      "hot": false
     },
     {
       "id": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
@@ -1817,7 +2229,13 @@
       "category": "Models",
       "date": "2026-08-10T00:00:00.000Z",
       "hot": false,
-      "officialUrl": "https://openai.com"
+      "officialUrl": "https://openai.com",
+      "relatedCoverage": [
+        {
+          "source": "FutureTools News",
+          "url": "https://openai.com/index/premium-seats-chatgpt-business/?utm_source=futuretools.io&utm_medium=newspage"
+        }
+      ]
     },
     {
       "id": "https://openai.com/index/virgin-atlantic/chatgpt-work",
@@ -1851,6 +2269,76 @@
       "date": "2026-08-10T00:00:00.000Z",
       "hot": false,
       "officialUrl": "https://huggingface.co"
+    },
+    {
+      "id": "https://microsoft.ai/news/mai-image-2-6-launches-at-no-2-on-arena-ahead-of-google-meta-and-xai/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Microsoft MAI-Image-2.6 Debuts at #2 on Arena, Surpassing Google, Meta, and xAI",
+      "summary": "Models Latest models Discover the latest MAI models, designed for real-world intelligence MAI-Code-1.1-Flash MAI-Image-2.5 MAI-Voice-2 MAI-Transcribe-1.5 All models MAI-Thinking-1 Built for the complex problems that matter most, with competitive reasoning and top SWE-Bench Pro results at a mid-weight price. Helps your engineering team write better code faster, with a lightweight, agentic model built into GitHub Copilot and VS Code. Create notable, design-ready images from any text or photo prompt, with best-in-class Arena ELO scores at a lower price. Delivers expressive, low-latency speech that holds up across long generations. Turn noisy audio into precise, domain-specific transcripts, with leading FLEURS and Artificial Analysis accuracy scores.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://microsoft.ai/news/mai-image-2-6-launches-at-no-2-on-arena-ahead-of-google-meta-and-xai/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-10T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Claude-Powered OpenClaw Agent Hacks Gym Reservation System to Boost Owner's Waitlist Spot",
+      "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-10T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "OpenAI Launches GPT-5.6-Cyber for Authorized Security Research via Daybreak Red",
+      "summary": "Introducing new ways to unlock advanced cyber capabilities together with GPT‑5.6‑Cyber, our latest cybersecurity-specific model. The cybersecurity world is rapidly changing—threat actors will increasingly use AI to conduct cyberattacks at unprecedented speed and scale, including in fully autonomous ways. As these capabilities spread, defenders have a narrowing window to prepare. Our answer is to put frontier intelligence in the hands of trusted defenders everywhere before attackers deploy offensive AI capabilities at scale. We’re expanding OpenAI Daybreak with two access tiers designed to give approved defenders the right capabilities for their work: We’re also introducing GPT‑5.6‑Cyber, available through Daybreak Red.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-10T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Meta Releases Muse Glimmer: 30B Open Agentic Model That Runs Locally on Consumer GPUs",
+      "summary": "6 minute readToday, we're introducing Muse Glimmer, the next model from Meta Superintelligence Labs, and open sourcing the model weights under a permissive Apache 2.0 license. Muse Glimmer is a 30-billion-parameter model optimized for always-on local agent workflows. It’s small enough to run on a Mac or PC with a single consumer GPU, enabling use cases that range from local agents and function calling, to local coding, and LLM-as-a-judge evaluation. Muse Glimmer delivers strong performance on key agentic use cases and benchmarks compared with leading models in its size category. Foundation models have achieved remarkable capabilities across reasoning, code generation, and tool use — yet most deployments still depend on cloud infrastructure and network access. Running models locally enables you to use AI anywhere, anytime, with or without an internet connection.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-10T00:00:00.000Z",
+      "hot": true
+    },
+    {
+      "id": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Google Ads & Analytics Gain AI Agents, Visual Dashboards, and Benchmarking Tools",
+      "summary": "We’re adding AI and agentic experiences across Google Ads and Google Analytics to simplify your workflow and expedite your path to business growth. Your browser does not support the audio element. Google is rolling out new artificial intelligence tools in Google Ads and Google Analytics to help you uncover insights and act faster. You can now use AI-powered summaries on your homepages, create visual reports with simple text prompts, and benchmark your performance against similar businesses. Log in to your accounts today to explore these new features and refine your marketing strategy. Google is adding new AI tools to its marketing platforms to help people work faster and smarter.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-10T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://interestingengineering.com/ai-robotics/atlas-learns-to-swap-its-battery?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Boston Dynamics' Atlas Robot Can Swap Its Own Battery in Under 3 Minutes",
+      "summary": "Boston Dynamics’ Atlas can swap its own battery in under three minutes, reducing downtime and supporting longer industrial shifts.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://interestingengineering.com/ai-robotics/atlas-learns-to-swap-its-battery?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-10T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://about.fb.com/news/2026/08/the-future-is-for-everyone/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Meta's Zuckerberg Outlines Philosophy for Distributing Superintelligence to Everyone",
+      "summary": "We are fortunate to live at an notable moment in history. In the next few years, people will be able to use superintelligence beyond human capacity to create and discover extraordinary new things, build new businesses, express new ideas, learn new concepts, and advance our health and quality of life. As we get closer to this moment, it is important to develop a philosophy for how we can best use superintelligence to ensure it improves all of our lives, work, communities, freedom and safety. The defining questions of our age are who will have access to superintelligence and what will we direct it towards. Will it be centralized and restricted to a few institutions, or will it be a tool that empowers everyone? We propose a philosophy based on individual empowerment as the source of prosperity, invention as the primary purpose of superintelligence, and balance of power as the foundation of safety.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://about.fb.com/news/2026/08/the-future-is-for-everyone/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-10T00:00:00.000Z",
+      "hot": false
     }
   ]
 }
