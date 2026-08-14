@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2026-08-14T22:47:48.849Z",
+  "lastUpdated": "2026-08-14T23:15:38.828Z",
   "news": [
+    {
+      "id": "https://www.digitaltrends.com/?p=5998289",
+      "title": "Samsung is working on an AirPods Max 2 rival, likely for 2027",
+      "summary": "Samsung already has most corners of the audio market covered, from Galaxy Buds and speakers to soundbars and the unusual Music Frame. One category has been conspicuously missing from its recent lineup: over-ear wireless headphones. According to a report from SamMobile, Samsung is developing a pair of wireless headphones internally known as the Galaxy H1. Evidence for the headphones was reportedly found in code strings within the Galaxy Wearable app, along with illustrations that offer an early hint of the product. The presence of support within Samsung's companion app suggests the headphones will connect wirelessly over Bluetooth. Beyond those details, Samsung's plans remain largely unclear.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/home-theater/samsung-is-working-on-an-airpods-max-2-rival-likely-for-2027/",
+      "category": "Tech",
+      "date": "2026-08-14T23:11:13.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "108349929",
+      "title": "OpenAI CFO Friar tells investors that enterprise business now bigger than consumer by revenue",
+      "summary": "OpenAI CFO Sarah Friar met with investors following a week of turmoil in the C-suite that included the sudden departure of revenue chief Denise Dresser.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/08/14/openai-cfo-friar-tells-investors-that-enterprise-bigger-than-consumer.html",
+      "category": "Business",
+      "date": "2026-08-14T23:01:03.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
     {
       "id": "108350008",
       "title": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter",
@@ -88,17 +110,6 @@
       "date": "2026-08-14T20:01:13.000Z",
       "hot": false,
       "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "108349929",
-      "title": "OpenAI CFO Friar tells investors that enterprise business now bigger than consumer by revenue",
-      "summary": "OpenAI CFO Sarah Friar met with investors following a week of turmoil in the C-suite that included the sudden departure of revenue chief Denise Dresser.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/08/14/openai-cfo-friar-tells-investors-that-enterprise-bigger-than-consumer.html",
-      "category": "Business",
-      "date": "2026-08-14T19:08:43.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "https://www.digitaltrends.com/?p=5998211",
@@ -457,17 +468,6 @@
       "date": "2026-08-14T10:45:00.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=5998121",
-      "title": "AI’s new cancer-screening partner has four legs and a very good nose",
-      "summary": "AI apparently doesn't need to replace every biological system. Dogs are still keeping their jobs, at least for now. An Indian startup from Bengaluru, Karnataka, is training dogs with sensors and machine learning. Patients breathe normally into a face mask for about 10 minutes, ship the sealed sample to a lab, and let the dogs get to work. The dogs are trained to identify changes in volatile organic compounds, or VOCs, associated with cancer. Sensors meanwhile track signals including movement, respiration, brain activity, and body language, which Dognosis' AI translates into standardized data rather than relying entirely on a human handler interpreting each animal's behavior.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/cool-tech/ais-new-cancer-screening-partner-has-four-legs-and-a-very-good-nose/",
-      "category": "Tech",
-      "date": "2026-08-14T10:43:01.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
     },
     {
       "id": "https://www.techrepublic.com/article/news-anthropic-decart-6-billion-acquisition-2026/",
@@ -1974,21 +1974,21 @@
       "hot": false
     },
     {
-      "id": "https://venturebeat.com/technology/ltx-2-5-can-generate-a-10-second-ai-video-from-an-image-in-just-6-8-seconds-on-nvidia-superchips-and-its-open-weights?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "LTX-2.5 Generates 10-Second Video in 6.8s on Nvidia GB200, Launches as Open Weights",
-      "summary": "LTX, spun out of Lightricks, has released LTX-2.5, an open-weights video generation model that produces a second 720p clip in 6.8 seconds when self-hosted on two Nvidia GB200 superchips. The model launches natively in ComfyUI and is available on Hugging Face and via API at $0.09 per second. New features include a diffusion video decoder, native multishot generation, and a Gemma 4 language backbone. It is free for organizations under $10 million ARR, with larger companies required to negotiate a license.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://venturebeat.com/technology/ltx-2-5-can-generate-a-10-second-ai-video-from-an-image-in-just-6-8-seconds-on-nvidia-superchips-and-its-open-weights?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-08-11T00:00:00.000Z",
-      "hot": false
-    },
-    {
       "id": "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard?utm_source=futuretools.io&utm_medium=newspage",
       "title": "NVIDIA NeMo Switchyard Routes AI Agent Workloads Across Models, Cuts Costs 74%",
       "summary": "Learn how NVIDIA NeMo Switchyard routes AI agent workloads across models using tuning-free and tunable routers that balance model capability, cost, and latency.",
       "source": "FutureTools News",
       "sourceUrl": "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-11T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://venturebeat.com/technology/ltx-2-5-can-generate-a-10-second-ai-video-from-an-image-in-just-6-8-seconds-on-nvidia-superchips-and-its-open-weights?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "LTX-2.5 Generates 10-Second Video in 6.8s on Nvidia GB200, Launches as Open Weights",
+      "summary": "LTX, spun out of Lightricks, has released LTX-2.5, an open-weights video generation model that produces a second 720p clip in 6.8 seconds when self-hosted on two Nvidia GB200 superchips. The model launches natively in ComfyUI and is available on Hugging Face and via API at $0.09 per second. New features include a diffusion video decoder, native multishot generation, and a Gemma 4 language backbone. It is free for organizations under $10 million ARR, with larger companies required to negotiate a license.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://venturebeat.com/technology/ltx-2-5-can-generate-a-10-second-ai-video-from-an-image-in-just-6-8-seconds-on-nvidia-superchips-and-its-open-weights?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-08-11T00:00:00.000Z",
       "hot": false
