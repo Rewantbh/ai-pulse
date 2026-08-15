@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2026-08-15T00:50:23.825Z",
+  "lastUpdated": "2026-08-15T02:10:22.613Z",
   "news": [
+    {
+      "id": "https://www.digitaltrends.com/?p=5998298",
+      "title": "I didn’t think fake shopping could trick my brain until I tried the viral dopamine websites",
+      "summary": "I spent some time in the internet's fakest mall, filling a shopping cart with things I could not buy, hunting for discounts on products that do not exist, and checking out three separate times for a grand total of $0.00. Then I placed a fake food order and smoked a cigarette I could not taste, with strangers I will never meet, on a rooftop that does not exist either. My bank balance never changed, but my brain, annoyingly, did. When I first heard about South Korea's growing \"dopamine sites,\" I assumed they were another internet oddity I would poke around for five minutes and forget by lunch. Instead, I found a surprisingly clever idea hiding beneath the absurdity. You can browse endless imaginary products, add everything to your cart, and complete a purchase that never actually exists.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/computing/i-tried-the-internets-weirdest-shopping-trend-and-my-brain-fell-for-it-more-than-i-expected/",
+      "category": "Tech",
+      "date": "2026-08-15T00:52:12.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
     {
       "id": "https://www.investing.com/news/stock-market-news/exclusiveanthropic-ipo-valuation-hinges-on-190200-billion-2028-revenue-forecast-sources-say-4861650",
       "title": "Exclusive-Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say",
@@ -336,17 +347,6 @@
       "date": "2026-08-14T14:50:11.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=5998178",
-      "title": "Heart X1 soars for the first time as the world’s largest electric aircraft, and the flight cost j...",
-      "summary": "Electric cars have become a pretty normal sight on the road, but replacing jet fuel with batteries gets considerably more complicated when you're trying to lift thousands of pounds into the sky. Heart Aerospace has just shown that it can be done at a surprisingly large scale. The company's X1 demonstrator has completed its maiden flight, becoming what Heart says is the largest battery-electric aircraft ever flown. The X1 has a 106-foot wingspan, stretches 76 feet from nose to tail, and weighs more than 25,000 pounds at takeoff. The piloted flight took place on August 12 at Plattsburgh International Airport in New York and lasted 27 minutes. During that time, the X1 climbed to 1,100 feet above ground level, while its battery-powered propulsion system delivered more than one megawatt of power.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/cool-tech/the-worlds-largest-electric-plane-just-flew-for-27-minutes-and-used-just-5-of-electricity/",
-      "category": "Tech",
-      "date": "2026-08-14T14:46:12.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
     },
     {
       "id": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
@@ -1996,21 +1996,21 @@
       "hot": false
     },
     {
-      "id": "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "NVIDIA NeMo Switchyard Routes AI Agent Workloads Across Models, Cuts Costs 74%",
-      "summary": "Learn how NVIDIA NeMo Switchyard routes AI agent workloads across models using tuning-free and tunable routers that balance model capability, cost, and latency.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-08-11T00:00:00.000Z",
-      "hot": false
-    },
-    {
       "id": "https://venturebeat.com/technology/ltx-2-5-can-generate-a-10-second-ai-video-from-an-image-in-just-6-8-seconds-on-nvidia-superchips-and-its-open-weights?utm_source=futuretools.io&utm_medium=newspage",
       "title": "LTX-2.5 Generates 10-Second Video in 6.8s on Nvidia GB200, Launches as Open Weights",
       "summary": "LTX, spun out of Lightricks, has released LTX-2.5, an open-weights video generation model that produces a second 720p clip in 6.8 seconds when self-hosted on two Nvidia GB200 superchips. The model launches natively in ComfyUI and is available on Hugging Face and via API at $0.09 per second. New features include a diffusion video decoder, native multishot generation, and a Gemma 4 language backbone. It is free for organizations under $10 million ARR, with larger companies required to negotiate a license.",
       "source": "FutureTools News",
       "sourceUrl": "https://venturebeat.com/technology/ltx-2-5-can-generate-a-10-second-ai-video-from-an-image-in-just-6-8-seconds-on-nvidia-superchips-and-its-open-weights?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-11T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "NVIDIA NeMo Switchyard Routes AI Agent Workloads Across Models, Cuts Costs 74%",
+      "summary": "Learn how NVIDIA NeMo Switchyard routes AI agent workloads across models using tuning-free and tunable routers that balance model capability, cost, and latency.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-08-11T00:00:00.000Z",
       "hot": false
