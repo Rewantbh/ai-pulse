@@ -1,9 +1,31 @@
 {
-  "lastUpdated": "2026-08-14T23:45:27.223Z",
+  "lastUpdated": "2026-08-15T00:50:23.825Z",
   "news": [
     {
+      "id": "https://www.investing.com/news/stock-market-news/exclusiveanthropic-ipo-valuation-hinges-on-190200-billion-2028-revenue-forecast-sources-say-4861650",
+      "title": "Exclusive-Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/exclusiveanthropic-ipo-valuation-hinges-on-190200-billion-2028-revenue-forecast-sources-say-4861650",
+      "category": "Business",
+      "date": "2026-08-15T00:31:11.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-4861638",
+      "title": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-4861638",
+      "category": "Business",
+      "date": "2026-08-15T00:30:54.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
       "id": "https://www.digitaltrends.com/?p=5998289",
-      "title": "Samsung is working on an AirPods Max 2 rival, likely for 2027",
+      "title": "Samsung is reportedly working on an AirPods Max 2 rival",
       "summary": "Samsung already has most corners of the audio market covered, from Galaxy Buds and speakers to soundbars and the unusual Music Frame. One category has been conspicuously missing from its recent lineup: over-ear wireless headphones. According to a report from SamMobile, Samsung is developing a pair of wireless headphones internally known as the Galaxy H1. Evidence for the headphones was reportedly found in code strings within the Galaxy Wearable app, along with illustrations that offer an early hint of the product. The presence of support within Samsung's companion app suggests the headphones will connect wirelessly over Bluetooth. Beyond those details, Samsung's plans remain largely unclear.",
       "source": "Digital Trends",
       "sourceUrl": "https://www.digitaltrends.com/home-theater/samsung-is-working-on-an-airpods-max-2-rival-likely-for-2027/",
@@ -1974,21 +1996,21 @@
       "hot": false
     },
     {
-      "id": "https://venturebeat.com/technology/ltx-2-5-can-generate-a-10-second-ai-video-from-an-image-in-just-6-8-seconds-on-nvidia-superchips-and-its-open-weights?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "LTX-2.5 Generates 10-Second Video in 6.8s on Nvidia GB200, Launches as Open Weights",
-      "summary": "LTX, spun out of Lightricks, has released LTX-2.5, an open-weights video generation model that produces a second 720p clip in 6.8 seconds when self-hosted on two Nvidia GB200 superchips. The model launches natively in ComfyUI and is available on Hugging Face and via API at $0.09 per second. New features include a diffusion video decoder, native multishot generation, and a Gemma 4 language backbone. It is free for organizations under $10 million ARR, with larger companies required to negotiate a license.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://venturebeat.com/technology/ltx-2-5-can-generate-a-10-second-ai-video-from-an-image-in-just-6-8-seconds-on-nvidia-superchips-and-its-open-weights?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-08-11T00:00:00.000Z",
-      "hot": false
-    },
-    {
       "id": "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard?utm_source=futuretools.io&utm_medium=newspage",
       "title": "NVIDIA NeMo Switchyard Routes AI Agent Workloads Across Models, Cuts Costs 74%",
       "summary": "Learn how NVIDIA NeMo Switchyard routes AI agent workloads across models using tuning-free and tunable routers that balance model capability, cost, and latency.",
       "source": "FutureTools News",
       "sourceUrl": "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-11T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://venturebeat.com/technology/ltx-2-5-can-generate-a-10-second-ai-video-from-an-image-in-just-6-8-seconds-on-nvidia-superchips-and-its-open-weights?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "LTX-2.5 Generates 10-Second Video in 6.8s on Nvidia GB200, Launches as Open Weights",
+      "summary": "LTX, spun out of Lightricks, has released LTX-2.5, an open-weights video generation model that produces a second 720p clip in 6.8 seconds when self-hosted on two Nvidia GB200 superchips. The model launches natively in ComfyUI and is available on Hugging Face and via API at $0.09 per second. New features include a diffusion video decoder, native multishot generation, and a Gemma 4 language backbone. It is free for organizations under $10 million ARR, with larger companies required to negotiate a license.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://venturebeat.com/technology/ltx-2-5-can-generate-a-10-second-ai-video-from-an-image-in-just-6-8-seconds-on-nvidia-superchips-and-its-open-weights?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-08-11T00:00:00.000Z",
       "hot": false
@@ -2197,126 +2219,6 @@
       "date": "2026-08-10T09:00:00.000Z",
       "hot": false,
       "officialUrl": "https://www.technologyreview.com"
-    },
-    {
-      "id": "https://openai.com/index/premium-seats-chatgpt-business",
-      "title": "Premium seats are coming to ChatGPT Business",
-      "summary": "Get 5x more usage, no five-hour usage limit, and the flexibility to give every teammate the right seat for their work. Loading…ShareTake on more ambitious work without losing momentumTake on more ambitious work without losing momentumGive each teammate the right seat for their workGet $100 worth of credits for every Premium seat—up to $500Take on more ambitious work without losing momentumGive each teammate the right seat for their workGet $100 worth of credits for every Premium seat—up to $500The work that moves your business forward should never have to stop. Teams are using ChatGPT to take on bigger things: organizing inventory, building marketing campaigns, analyzing business performance, improving customer experiences, and developing new products. As that work becomes more ambitious, OpenAI's top request from ChatGPT Business customers has been an expanded seat option with more capacity and usage built in. That’s why OpenAI is introducing Premium seats for ChatGPT Business. Premium gives your most active teammates 5x more usage than Standard seats and removes the five-hour usage limit, so they can take on larger projects and work with fewer interruptions—all within the same secure Business workspace.",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/premium-seats-chatgpt-business",
-      "category": "Models",
-      "date": "2026-08-10T00:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com",
-      "relatedCoverage": [
-        {
-          "source": "FutureTools News",
-          "url": "https://openai.com/index/premium-seats-chatgpt-business/?utm_source=futuretools.io&utm_medium=newspage"
-        }
-      ]
-    },
-    {
-      "id": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-      "summary": "The airline is accelerating research, product planning, and decision-making while giving teams a connected view of the customer journey. Loading…ShareTurning weeks of research into hoursTurning weeks of research into hoursCreating a connected view of the customer journeyWhat’s nextTurning weeks of research into hoursCreating a connected view of the customer journeyWhat’s nextVirgin Atlantic is using ChatGPT Work to help its teams understand the airline’s complex customer journey and deliver better experiences faster. From competitive research to product planning and analytics, ChatGPT Work gives employees new ways to bring information together and move from insight to action. For an airline, the customer journey extends beyond just booking a flight. It includes browsing, purchasing, checking in, traveling, the onboard experience, and sharing feedback afterward. Each stage produces valuable information, often held across different systems and reporting tools.",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-      "category": "Models",
-      "date": "2026-08-10T00:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://openai.com/index/zapier",
-      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-      "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting. Loading…ShareBuilding a system for automatic funnel optimizationBuilding a system for automatic funnel optimizationFreeing up time for creative workWhat’s nextBuilding a system for automatic funnel optimizationFreeing up time for creative workWhat’s nextAt Zapier, the enterprise marketing team is using ChatGPT Work to build automated funnel optimization systems, enabling them to deliver more value to their sales team with less manual effort. ChatGPT Work operates autonomously, giving the enterprise marketing team space to focus on strategic, creative efforts. Angela Ferrante, Head of Enterprise Marketing, found that Zapier experienced a high volume of strong inbound leads but a similarly high drop-off rate. Answering the question required an intensive quality assurance (QA) and quality control (QC) process to figure out where in the funnel these leads were dropping off. But with ChatGPT Work, Ferrante could automate a process so labor-intensive that it would have been effectively impossible to accomplish otherwise.",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/zapier",
-      "category": "Models",
-      "date": "2026-08-10T00:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://huggingface.co/blog/muse-glimmer",
-      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-      "summary": "Hugging Face is on a journey to advance and democratize artificial intelligence through open source and open science.",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog/muse-glimmer",
-      "category": "Research",
-      "date": "2026-08-10T00:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://huggingface.co"
-    },
-    {
-      "id": "https://microsoft.ai/news/mai-image-2-6-launches-at-no-2-on-arena-ahead-of-google-meta-and-xai/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Microsoft MAI-Image-2.6 Debuts at #2 on Arena, Surpassing Google, Meta, and xAI",
-      "summary": "Models Latest models Discover the latest MAI models, designed for real-world intelligence MAI-Code-1.1-Flash MAI-Image-2.5 MAI-Voice-2 MAI-Transcribe-1.5 All models MAI-Thinking-1 Built for the complex problems that matter most, with competitive reasoning and top SWE-Bench Pro results at a mid-weight price. Helps your engineering team write better code faster, with a lightweight, agentic model built into GitHub Copilot and VS Code. Create notable, design-ready images from any text or photo prompt, with best-in-class Arena ELO scores at a lower price. Delivers expressive, low-latency speech that holds up across long generations. Turn noisy audio into precise, domain-specific transcripts, with leading FLEURS and Artificial Analysis accuracy scores.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://microsoft.ai/news/mai-image-2-6-launches-at-no-2-on-arena-ahead-of-google-meta-and-xai/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-08-10T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Claude-Powered OpenClaw Agent Hacks Gym Reservation System to Boost Owner's Waitlist Spot",
-      "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-08-10T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "OpenAI Launches GPT-5.6-Cyber for Authorized Security Research via Daybreak Red",
-      "summary": "Introducing new ways to unlock advanced cyber capabilities together with GPT‑5.6‑Cyber, our latest cybersecurity-specific model. The cybersecurity world is rapidly changing—threat actors will increasingly use AI to conduct cyberattacks at unprecedented speed and scale, including in fully autonomous ways. As these capabilities spread, defenders have a narrowing window to prepare. Our answer is to put frontier intelligence in the hands of trusted defenders everywhere before attackers deploy offensive AI capabilities at scale. We’re expanding OpenAI Daybreak with two access tiers designed to give approved defenders the right capabilities for their work: We’re also introducing GPT‑5.6‑Cyber, available through Daybreak Red.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-08-10T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Meta Releases Muse Glimmer: 30B Open Agentic Model That Runs Locally on Consumer GPUs",
-      "summary": "6 minute readToday, we're introducing Muse Glimmer, the next model from Meta Superintelligence Labs, and open sourcing the model weights under a permissive Apache 2.0 license. Muse Glimmer is a 30-billion-parameter model optimized for always-on local agent workflows. It’s small enough to run on a Mac or PC with a single consumer GPU, enabling use cases that range from local agents and function calling, to local coding, and LLM-as-a-judge evaluation. Muse Glimmer delivers strong performance on key agentic use cases and benchmarks compared with leading models in its size category. Foundation models have achieved remarkable capabilities across reasoning, code generation, and tool use — yet most deployments still depend on cloud infrastructure and network access. Running models locally enables you to use AI anywhere, anytime, with or without an internet connection.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-08-10T00:00:00.000Z",
-      "hot": true
-    },
-    {
-      "id": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Google Ads & Analytics Gain AI Agents, Visual Dashboards, and Benchmarking Tools",
-      "summary": "We’re adding AI and agentic experiences across Google Ads and Google Analytics to simplify your workflow and expedite your path to business growth. Your browser does not support the audio element. Google is rolling out new artificial intelligence tools in Google Ads and Google Analytics to help you uncover insights and act faster. You can now use AI-powered summaries on your homepages, create visual reports with simple text prompts, and benchmark your performance against similar businesses. Log in to your accounts today to explore these new features and refine your marketing strategy. Google is adding new AI tools to its marketing platforms to help people work faster and smarter.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-08-10T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://interestingengineering.com/ai-robotics/atlas-learns-to-swap-its-battery?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Boston Dynamics' Atlas Robot Can Swap Its Own Battery in Under 3 Minutes",
-      "summary": "Boston Dynamics’ Atlas can swap its own battery in under three minutes, reducing downtime and supporting longer industrial shifts.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://interestingengineering.com/ai-robotics/atlas-learns-to-swap-its-battery?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-08-10T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://about.fb.com/news/2026/08/the-future-is-for-everyone/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Meta's Zuckerberg Outlines Philosophy for Distributing Superintelligence to Everyone",
-      "summary": "We are fortunate to live at an notable moment in history. In the next few years, people will be able to use superintelligence beyond human capacity to create and discover extraordinary new things, build new businesses, express new ideas, learn new concepts, and advance our health and quality of life. As we get closer to this moment, it is important to develop a philosophy for how we can best use superintelligence to ensure it improves all of our lives, work, communities, freedom and safety. The defining questions of our age are who will have access to superintelligence and what will we direct it towards. Will it be centralized and restricted to a few institutions, or will it be a tool that empowers everyone? We propose a philosophy based on individual empowerment as the source of prosperity, invention as the primary purpose of superintelligence, and balance of power as the foundation of safety.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://about.fb.com/news/2026/08/the-future-is-for-everyone/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-08-10T00:00:00.000Z",
-      "hot": false
     }
   ]
 }
