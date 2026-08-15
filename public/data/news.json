@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2026-08-15T14:46:30.171Z",
+  "lastUpdated": "2026-08-15T15:14:07.704Z",
   "news": [
+    {
+      "id": "108350071",
+      "title": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter",
+      "summary": "The jump in revenue underscores the rapid growth of the Claude chatbot maker as it prepares for a potential blockbuster initial public offering.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
+      "category": "Business",
+      "date": "2026-08-15T14:45:31.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
     {
       "id": "108349811",
       "title": "Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market",
@@ -798,17 +809,6 @@
       "officialUrl": "https://decrypt.co"
     },
     {
-      "id": "108349381",
-      "title": "Cramer says investors shouldn't let past market crashes scare them out of today’s winners",
-      "summary": "CNBC's Jim Cramer warned investors against relying too heavily on historical comparisons, arguing that doing so can cause them to miss what has fundamentally changed.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/08/13/cramer-says-investors-shouldnt-let-past-market-crashes-scare-them-out-of-todays-winners.html",
-      "category": "Business",
-      "date": "2026-08-13T22:27:25.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
       "id": "https://www.macrumors.com/2026/08/13/app-store-fees-apple-link-outs/",
       "title": "Apple Wants to Charge Developers Up to 15 Percent for Linking Outside the App Store",
       "summary": "Apple today submitted a court-ordered proposal outlining the commission it believes is reasonable to collect from U.S. apps that link to purchase options outside of the App Store. Apple is asking for half of its commission on standard apps, so apps that would pay 30 percent for an in-app purchase would pay 15 percent when linking to a web purchase option. Small Business Program participants that would normally pay 15 percent would pay 5 percent. 15 percent - Standard apps. 10 percent - Apps that are part of the News Partner Program, Video Partner Program, Mini Apps Partner Program, and subscription renewals.",
@@ -818,17 +818,6 @@
       "date": "2026-08-13T22:11:46.000Z",
       "hot": false,
       "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=375596",
-      "title": "Anthropic's AI Agents Started a Virtual War. The Chat Logs Are Unhinged",
-      "summary": "In a new red-team study, Claude models deployed self-replicating malware against each other — and the transcripts explain why.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/375596/anthropic-ai-agents-virtual-war-quotes-unhinged",
-      "category": "Tech",
-      "date": "2026-08-13T21:45:04.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
     },
     {
       "id": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
@@ -1334,6 +1323,16 @@
       "hot": false
     },
     {
+      "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Google Launches Gemini 3.7 Flash With Major Coding Gains at Half the Price of 3.6 Flash",
+      "summary": "Our most intelligent workhorse model yet for coding and agents. Senior Director, Product Management, on behalf of the Gemini team Your browser does not support the audio element. Today, we’re building on the progress of our widely used Flash series by introducing Gemini 3.7 Flash, our most intelligent workhorse model yet for coding and agents. This release comes just three weeks after Gemini 3.6 Flash, and is a direct result of developer feedback and algorithmic innovations that we look forward to bringing to future models. 3.7 Flash delivers substantial improvements across software engineering, knowledge work, and web development workflows — with an introductory price of half the original 3.6 Flash cost per million tokens.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-13T00:00:00.000Z",
+      "hot": false
+    },
+    {
       "id": "https://openai.com/index/previewing-ultrafast/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "OpenAI Launches GPT-5.6 Sol Ultrafast Mode: 14x Faster, 750 Tokens/Sec via Cerebras",
       "summary": "A new speed class for frontier intelligence, turning speed into a competitive advantage. Loading…ShareWhat early customers are experiencingWhat early customers are experiencingHow OpenAI is using UltrafastPowered by CerebrasAvailabilityWhat early customers are experiencingHow OpenAI is using UltrafastPowered by CerebrasAvailabilityToday, we’re sharing an early look at Ultrafast, a new service tier that runs GPT‑5.6 Sol up to 14× faster than Standard processing, launching first in the OpenAI API. Powered by Cerebras, Ultrafast generates up to 750 output tokens per second, bringing our most intelligent model to products and workflows where every second matters. With GPT‑5.6, we’re pushing the frontier on what our models can do and making them more efficient across every layer of our stack. Those improvements have made advanced intelligence more affordable and more useful to more people. Until now, getting real-time speed typically meant choosing a smaller or more specialized model.",
@@ -1348,16 +1347,6 @@
           "url": "https://openai.com/index/previewing-ultrafast"
         }
       ]
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Google Launches Gemini 3.7 Flash With Major Coding Gains at Half the Price of 3.6 Flash",
-      "summary": "Our most intelligent workhorse model yet for coding and agents. Senior Director, Product Management, on behalf of the Gemini team Your browser does not support the audio element. Today, we’re building on the progress of our widely used Flash series by introducing Gemini 3.7 Flash, our most intelligent workhorse model yet for coding and agents. This release comes just three weeks after Gemini 3.6 Flash, and is a direct result of developer feedback and algorithmic innovations that we look forward to bringing to future models. 3.7 Flash delivers substantial improvements across software engineering, knowledge work, and web development workflows — with an introductory price of half the original 3.6 Flash cost per million tokens.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-08-13T00:00:00.000Z",
-      "hot": false
     },
     {
       "id": "https://www.youtube.com/watch?v=GZHp3WFc9Ps&utm_source=futuretools.io&utm_medium=newspage",
@@ -1880,21 +1869,21 @@
       "hot": false
     },
     {
-      "id": "https://x.ai/news/introducing-grok-bot?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "xAI Launches Grok Bot: Always-On AI Agents That Work Inside Your Apps 24/7",
-      "summary": "Grok Bot is your team of always-on agents. They have their own computer, work inside tools and apps like you do, and keep working 24/7.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://x.ai/news/introducing-grok-bot?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-08-11T00:00:00.000Z",
-      "hot": false
-    },
-    {
       "id": "https://microsoft.ai/news/mai-code-1-1-flash-br-better-faster-at-a-quarter-of-the-cost/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Microsoft's MAI-Code-1.1-Flash Cuts Costs 75%, Boosts Speed 25% in GitHub Copilot",
       "summary": "Models Latest models Discover the latest MAI models, designed for real-world intelligence MAI-Code-1.1-Flash MAI-Image-2.5 MAI-Voice-2 MAI-Transcribe-1.5 All models MAI-Thinking-1 Built for the complex problems that matter most, with competitive reasoning and top SWE-Bench Pro results at a mid-weight price. Helps your engineering team write better code faster, with a lightweight, agentic model built into GitHub Copilot and VS Code. Create notable, design-ready images from any text or photo prompt, with best-in-class Arena ELO scores at a lower price. Delivers expressive, low-latency speech that holds up across long generations. Turn noisy audio into precise, domain-specific transcripts, with leading FLEURS and Artificial Analysis accuracy scores.",
       "source": "FutureTools News",
       "sourceUrl": "https://microsoft.ai/news/mai-code-1-1-flash-br-better-faster-at-a-quarter-of-the-cost/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-11T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://x.ai/news/introducing-grok-bot?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "xAI Launches Grok Bot: Always-On AI Agents That Work Inside Your Apps 24/7",
+      "summary": "Grok Bot is your team of always-on agents. They have their own computer, work inside tools and apps like you do, and keep working 24/7.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://x.ai/news/introducing-grok-bot?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-08-11T00:00:00.000Z",
       "hot": false
@@ -1941,21 +1930,21 @@
       "hot": false
     },
     {
-      "id": "https://venturebeat.com/technology/ltx-2-5-can-generate-a-10-second-ai-video-from-an-image-in-just-6-8-seconds-on-nvidia-superchips-and-its-open-weights?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "LTX-2.5 Generates 10-Second Video in 6.8s on Nvidia GB200, Launches as Open Weights",
-      "summary": "LTX, spun out of Lightricks, has released LTX-2.5, an open-weights video generation model that produces a second 720p clip in 6.8 seconds when self-hosted on two Nvidia GB200 superchips. The model launches natively in ComfyUI and is available on Hugging Face and via API at $0.09 per second. New features include a diffusion video decoder, native multishot generation, and a Gemma 4 language backbone. It is free for organizations under $10 million ARR, with larger companies required to negotiate a license.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://venturebeat.com/technology/ltx-2-5-can-generate-a-10-second-ai-video-from-an-image-in-just-6-8-seconds-on-nvidia-superchips-and-its-open-weights?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-08-11T00:00:00.000Z",
-      "hot": false
-    },
-    {
       "id": "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard?utm_source=futuretools.io&utm_medium=newspage",
       "title": "NVIDIA NeMo Switchyard Routes AI Agent Workloads Across Models, Cuts Costs 74%",
       "summary": "Learn how NVIDIA NeMo Switchyard routes AI agent workloads across models using tuning-free and tunable routers that balance model capability, cost, and latency.",
       "source": "FutureTools News",
       "sourceUrl": "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-11T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://venturebeat.com/technology/ltx-2-5-can-generate-a-10-second-ai-video-from-an-image-in-just-6-8-seconds-on-nvidia-superchips-and-its-open-weights?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "LTX-2.5 Generates 10-Second Video in 6.8s on Nvidia GB200, Launches as Open Weights",
+      "summary": "LTX, spun out of Lightricks, has released LTX-2.5, an open-weights video generation model that produces a second 720p clip in 6.8 seconds when self-hosted on two Nvidia GB200 superchips. The model launches natively in ComfyUI and is available on Hugging Face and via API at $0.09 per second. New features include a diffusion video decoder, native multishot generation, and a Gemma 4 language backbone. It is free for organizations under $10 million ARR, with larger companies required to negotiate a license.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://venturebeat.com/technology/ltx-2-5-can-generate-a-10-second-ai-video-from-an-image-in-just-6-8-seconds-on-nvidia-superchips-and-its-open-weights?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-08-11T00:00:00.000Z",
       "hot": false
@@ -2054,17 +2043,6 @@
       "date": "2026-08-10T16:25:36.000Z",
       "hot": false,
       "officialUrl": "https://huggingface.co"
-    },
-    {
-      "id": "https://news.microsoft.com/source/?p=25414",
-      "title": "How to build an AI agent: A simple guide for anyone",
-      "summary": "Imagine an office worker clicking on a phishing link at 2:13 a.m. As the IT team sleeps, an AI agent detects unusual login behavior and disables the compromised account. Then, it checks to see if malware spread to any other devices or accounts, opens a ticket, sends an alert to the security team and drafts an incident summary. This is the beauty of AI agents. They can help workers in all kinds of roles do a range of things, like track project deadlines, monitor shared inboxes, create nightly reports and more. What sets them apart from AI chat apps is that while chat apps excel at answering questions, agents can also take action.",
-      "source": "Microsoft AI Blog",
-      "sourceUrl": "https://news.microsoft.com/signal/articles/how-to-build-an-ai-agent-guide/",
-      "category": "Models",
-      "date": "2026-08-10T15:07:06.000Z",
-      "hot": false,
-      "officialUrl": "https://news.microsoft.com"
     }
   ]
 }
