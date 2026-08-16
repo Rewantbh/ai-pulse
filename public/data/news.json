@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2026-08-16T20:45:32.908Z",
+  "lastUpdated": "2026-08-16T21:13:50.984Z",
   "news": [
+    {
+      "id": "https://www.digitaltrends.com/?p=5998637",
+      "title": "ChatGPT’s Computer History has one big privacy problem",
+      "summary": "We've already covered how ChatGPT's Computer History feature lets the Mac app remember what users have been doing across apps and websites, using interaction events such as clicks, typing, and app switching rather than screenshots or recordings. However, a rather uncomfortable detail in OpenAI's official documentation is that the files containing that history aren't encrypted. OpenAI says Computer History temporarily stores interaction events on the Mac and deletes those event files after 48 hours. It then creates local memories as plain-text Markdown files. More importantly, OpenAI explicitly warns that these files aren't encrypted and other programs running as the same macOS user may be able to access them. ChatGPT / OpenAI That's significant because Computer History is designed to capture a fairly broad picture of what someone does on their Mac, similar to Microsoft's Recall feature for Windows.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/computing/chatgpt-computer-history-unencrypted-mac-files/",
+      "category": "Tech",
+      "date": "2026-08-16T21:04:56.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3153332",
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "category": "Business",
+      "date": "2026-08-16T20:57:04.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
     {
       "id": "https://www.digitaltrends.com/?p=5998622",
       "title": "Intel may be cooking up a budget Panther Lake chip for gaming handhelds",
@@ -264,17 +286,6 @@
       "date": "2026-08-16T09:00:00.000Z",
       "hot": false,
       "officialUrl": "https://mashable.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=5998413",
-      "title": "Google may have accidentally leaked a new fitness tracker with a display",
-      "summary": "Google may have accidentally revealed a fitness tracker that it has not announced yet. New Pixel 11 advertisements appearing on YouTube show a small, screen-equipped wearable that does not appear to be the Pixel Watch 5 or the Fitbit Air, raising questions about whether Google is preparing another fitness device. The ads were spotted by Reddit users over the past day and appear to promote the refreshed Pixel lineup. One advertisement shows Pixel 11 phones alongside a Pixel Watch 5, while another features several Google devices in matching green colors. Both ads also include the mystery tracker. Multiple advertisements showing the same device have been spotted, with at least two users reportedly seeing it.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/wearables/google-may-have-accidentally-leaked-a-new-fitness-tracker-with-a-display/",
-      "category": "Tech",
-      "date": "2026-08-16T04:17:41.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
     },
     {
       "id": "https://www.investing.com/news/stock-market-news/can-spacex-leap-to-the-ai-frontier-4861908",
@@ -1210,17 +1221,6 @@
       "sourceUrl": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
       "category": "Business",
       "date": "2026-08-13T19:19:49.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3152849",
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "category": "Business",
-      "date": "2026-08-13T18:28:14.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
     },
