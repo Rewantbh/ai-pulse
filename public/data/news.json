@@ -1,6 +1,61 @@
 {
-  "lastUpdated": "2026-08-17T19:08:10.235Z",
+  "lastUpdated": "2026-08-17T19:50:37.396Z",
   "news": [
+    {
+      "id": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "summary": "",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "category": "Research",
+      "date": "2026-08-17T19:46:21.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/us-railroad-union-pacific-turned-charges-meant-to-cover-fuel-cost-spike-from-iran-war-into-profit-4862493",
+      "title": "US railroad Union Pacific turned charges meant to cover fuel cost spike from Iran war into profit",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/us-railroad-union-pacific-turned-charges-meant-to-cover-fuel-cost-spike-from-iran-war-into-profit-4862493",
+      "category": "Business",
+      "date": "2026-08-17T19:30:35.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/08/17/ios-26-6-1-security-fixes/",
+      "title": "iOS 26.6.1 and macOS Tahoe 26.6.2 Fix Nearly 30 Security Vulnerabilities",
+      "summary": "The iOS 26.6.1, iPadOS 26.6.1, and macOS Tahoe 26.6.2 updates Apple released today fix almost 30 security vulnerabilities, according to Apple's security support document. This is Apple's third security release in three weeks as AI surfaces bugs faster than the company's typical release schedule can absorb. Apple says the software includes security fixes that were previously added to the iOS 27, iPadOS 27, and macOS Golden Gate betas. There are fixes for an audio vulnerability that could allow an app to leak sensitive user information, an image vulnerability that could allow for arbitrary code execution, a trio of kernel vulnerabilities, and several WebKit bugs that could cause memory corruption or Safari crashes. Of the 29 CVEs outlined in the document, 21 are WebKit-related, and nine are credited to OpenAI Codex Security. On iOS, Apple also fixed a telephony bug that could allow an attacker in a privileged network position to bypass IPSec authentication and intercept network traffic.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/08/17/ios-26-6-1-security-fixes/",
+      "category": "Tech",
+      "date": "2026-08-17T19:25:39.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.technologyreview.com/?p=1142200",
+      "title": "What Flock’s defenders are missing",
+      "summary": "Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. The updates are meant to prevent officers from using the platform for illegal or illegitimate purposes. That includes stalking. The Washington Post recently identified 50 cases in which officers misused systems from Flock and its competitors, often to stalk and harass women. One woman in Wisconsin alleged that her officer ex-boyfriend searched for her car 179 times. Another woman was being stalked by the chief of police, with nobody to report him to. Flock has responded with practices aimed at ensuring that officers have a proper cause for every search, like using software to flag abnormal searches and requiring searchers to enter a criminal case number.",
+      "source": "MIT Technology Review AI",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+      "category": "Research",
+      "date": "2026-08-17T19:16:09.000Z",
+      "hot": false,
+      "officialUrl": "https://www.technologyreview.com"
+    },
+    {
+      "id": "108344653",
+      "title": "I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving systems. Here’s how they compare",
+      "summary": "Rivian is trying to catch up to Tesla's \"hands-free\" capabilities, but with additional safety guardrails that the Elon Musk company doesn't have.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
+      "category": "Business",
+      "date": "2026-08-17T19:14:03.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
     {
       "id": "https://www.macrumors.com/2026/08/17/siri-ai-settlement-final-approval-in-2027/",
       "title": "Siri AI Settlement: Apple Won't Begin Paying Customers Until Next Year",
@@ -77,17 +132,6 @@
       "date": "2026-08-17T18:29:56.000Z",
       "hot": false,
       "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/wall-st-futures-steady-as-rate-hike-fears-ease-earnings-buoy-stocks-4862054",
-      "title": "Stocks slip as oil climbs; investors eye Fed minutes, retail earnings this week",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/wall-st-futures-steady-as-rate-hike-fears-ease-earnings-buoy-stocks-4862054",
-      "category": "Business",
-      "date": "2026-08-17T18:25:04.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
     },
     {
       "id": "https://www.macrumors.com/2026/08/17/apple-seeds-sixth-ios-27-developer-beta/",
@@ -340,7 +384,13 @@
       "category": "Business",
       "date": "2026-08-17T15:26:52.000Z",
       "hot": false,
-      "officialUrl": "https://www.cnbc.com"
+      "officialUrl": "https://www.cnbc.com",
+      "relatedCoverage": [
+        {
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/nvidia-to-invest-15-billion-in-sb-energy-under-openai-data-center-deal-4863156"
+        }
+      ]
     },
     {
       "id": "https://techcrunch.com/?p=3153419",
@@ -495,28 +545,6 @@
       "date": "2026-08-17T12:34:51.000Z",
       "hot": false,
       "officialUrl": "https://blogs.nvidia.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/08/17/macos-screen-sharing-flaw-exploited/",
-      "title": "Apple's macOS Screen Sharing Flaw Is Being Exploited in the Wild",
-      "summary": "The screen sharing flaw that Apple rushed out a fix for earlier this month has already been exploited in the wild, according to the Netherlands' National Cyber Security Center (NCSC-NL). On August 6, Apple released macOS Tahoe 26.6.1, an update to the ‌macOS Tahoe‌ operating system that came out last year. The update came a little over a week after Apple released macOS Tahoe 26.6. In its security support document, Apple said that the update addressed a vulnerability that could allow an attacker to authenticate to Screen Sharing without valid credentials – in short, a bad actor could view a user's Mac screen and remotely take control of their keyboard and mouse. It appears however that hackers have already been taking advantage of the flaw. As first reported by ArsTechnica, the NCSC-NL said that it had been notified of abuse of the vulnerability, \"observed on multiple systems on which port 5900 was accessible from the internet.\" The reason is that when screen sharing is enabled, macOS's firewall intentionally exposes this port.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/08/17/macos-screen-sharing-flaw-exploited/",
-      "category": "Tech",
-      "date": "2026-08-17T12:20:07.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "108344653",
-      "title": "I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving systems. Here’s how they compare",
-      "summary": "Rivian is trying to catch up to Tesla's \"hands-free\" capabilities, but with additional safety guardrails that the Elon Musk company doesn't have.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
-      "category": "Business",
-      "date": "2026-08-17T12:06:19.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "https://www.techrepublic.com/?p=4252843",
