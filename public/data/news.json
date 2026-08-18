@@ -1,6 +1,83 @@
 {
-  "lastUpdated": "2026-08-18T16:22:54.751Z",
+  "lastUpdated": "2026-08-18T16:57:20.045Z",
   "news": [
+    {
+      "id": "https://www.investing.com/news/stock-market-news/ai-chip-startup-etched-doubles-valuation-to-21-billion-in-under-a-month-4865779",
+      "title": "AI chip startup Etched doubles valuation to $21 billion in under a month",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/ai-chip-startup-etched-doubles-valuation-to-21-billion-in-under-a-month-4865779",
+      "category": "Business",
+      "date": "2026-08-18T16:36:31.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818",
+      "title": "When AI art has no author: Study finds generated images often can’t be traced to training data",
+      "summary": "When an artificial intelligence image generator produces a portrait, whose work went into it? The question sits at the center of lawsuits, licensing deals, and proposed regulations worldwide. Policymakers want a way to assign responsibility.New work from a team of researchers at MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL) suggests that for models trained on large datasets, the question may often have no answer. It's not that the tools for finding it are inadequate. The connection itself has disappeared.The scientists identified a phenomenon they call attribution decay, where the more data a generative model is trained on, the less any individual training example matters to any particular output. It feels counterintuitive, but at sufficiently large scales, they find, you can often remove any single image from the training data, or every image by a given artist, or every photograph of a given person, and the generated sample doesn't change.And if removing something changes nothing, the researchers argue, it can't be said to be responsible for anything. \"If you take away a piece of data and the output of the model doesn't change, then that piece of data didn't affect the output,\" says Zheng Dai SM ’21, PhD ’24, former MIT CSAIL researcher and lead author on the work.",
+      "source": "MIT News ML",
+      "sourceUrl": "https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818",
+      "category": "Research",
+      "date": "2026-08-18T16:35:00.000Z",
+      "hot": false,
+      "officialUrl": "https://news.mit.edu"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/08/18/eu-app-store-fee-change/",
+      "title": "Apple Overhauls EU App Store Fees to Settle Digital Markets Act Dispute",
+      "summary": "Apple today announced changes to its App Store policies and fees in the European Union to comply with the Digital Markets Act. Apple says the changes were made after \"close collaboration\" with the European Commission, and the updates simplify the fee structure and \"resolve Apple's disagreements with the Commission over business terms and alternative distribution.\" The initial acquisition fee and store services fee are being removed for apps distributed outside of the &zwnj;App Store&zwnj;, and Apple will now charge a 5% Core Technology Commission on digital purchases that replaces the prior per-install Core Technology Fee. Commission rates are changing for &zwnj;App Store&zwnj; apps, alternative payments, and apps distributed through alternative app marketplaces or the web. App Store Apps With In-App Purchase - Apple will charge a 26% fee for apps distributed through the &zwnj;App Store&zwnj; that use in-app purchase. The fee will be 15% for Small Business Program, Mini Apps Partner Program, and Video Partner Program participants. It will also be 15% for auto-renewing subscriptions after their first year.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/08/18/eu-app-store-fee-change/",
+      "category": "Tech",
+      "date": "2026-08-18T16:29:18.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/08/18/apple-card-5-percent-daily-cash-promo/",
+      "title": "Apple Card Offering 5% Cash Back on Select Purchases for Limited Time",
+      "summary": "Now through September 15, you can get 5% Daily Cash when you use the Apple Card via Apple Pay on up to $750 in combined eligible purchases at Booking​.com, Hertz, ChargePoint, Exxon, and Mobil. The maximum total Daily Cash you can earn through this offer is $37.50, according to Apple, with complete details outlined on this page. Ordinarily, the Apple Card offers 3% Daily Cash at these partners, but this limited-time promotion provides an additional 2% Daily Cash on eligible purchases up to the $750 limit. Apple has given the offer an \"August road trip\" theme, as the eligible purchases include hotel rooms, rental cars, gas, and electric vehicle charging. Apple's credit card is available in the U.S. only.Tag: Apple CardThis article, \"Apple Card Offering 5% Cash Back on Select Purchases for Limited Time\" first appeared on MacRumors.comDiscuss this article in our forums",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/08/18/apple-card-5-percent-daily-cash-promo/",
+      "category": "Tech",
+      "date": "2026-08-18T16:28:27.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.engadget.com/2239222/peacock-is-raising-subscription-prices-for-the-fourth-time-in-as-many-years/",
+      "title": "Peacock is raising subscription prices for the fourth time in as many years",
+      "summary": "Is there any cost too high to watch Love Island? NBC/Peacock It's happening again. Peacock is raising subscription prices, despite just announcing its first-ever profitable quarter. These aren't slight increases. This is a significant uptick. The standard ad-based plan is shooting up to $13 per month from $10, and the Premium Plus subscription will soon be $20 instead of $17.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2239222/peacock-is-raising-subscription-prices-for-the-fourth-time-in-as-many-years/",
+      "category": "Tools",
+      "date": "2026-08-18T16:28:05.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "108350772",
+      "title": "A fintech app built by crypto exchange Kraken just launched a cash back debit card in bid for con...",
+      "summary": "Kraken is vying for a place in consumer wallets as crypto evolves from an asset class into infrastructure for mainstream financial products.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/08/18/kraken-launches-debit-card-in-bid-for-consumer-wallets.html",
+      "category": "Business",
+      "date": "2026-08-18T16:27:54.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/european-shares-slip-as-oil-prices-and-bond-yields-surge-on-middle-east-fears-4864402",
+      "title": "STOXX 600 drops to two-week low on higher bond yields, Middle East uncertainty",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/european-shares-slip-as-oil-prices-and-bond-yields-surge-on-middle-east-fears-4864402",
+      "category": "Business",
+      "date": "2026-08-18T16:19:32.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
     {
       "id": "https://techcrunch.com/?p=3153909",
       "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
@@ -22,6 +99,17 @@
       "date": "2026-08-18T16:13:21.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/why-is-home-depot-stock-gaining-today-93CH-4865764",
+      "title": "Why is Home Depot stock gaining today?",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/why-is-home-depot-stock-gaining-today-93CH-4865764",
+      "category": "Business",
+      "date": "2026-08-18T16:11:55.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
     },
     {
       "id": "108350971",
@@ -46,17 +134,6 @@
       "officialUrl": "https://www.engadget.com"
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/why-states-fought-to-present-a-united-case-against-meta-over-youth-social-media-harms-4864710",
-      "title": "Why states fought to present a united case against Meta over youth social media harms",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/why-states-fought-to-present-a-united-case-against-meta-over-youth-social-media-harms-4864710",
-      "category": "Business",
-      "date": "2026-08-18T15:55:01.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
       "id": "https://www.techrepublic.com/?p=4370053",
       "title": "Get 50-Plus AI Models for Life in One Plan for $40",
       "summary": "Cancel your individual AI subscriptions and get lifetime access to 50+ models for only $39.99 (reg.",
@@ -77,28 +154,6 @@
       "date": "2026-08-18T15:25:15.000Z",
       "hot": false,
       "officialUrl": "https://mashable.com"
-    },
-    {
-      "id": "108350772",
-      "title": "A fintech app built by crypto exchange Kraken just launched a cash back debit card in bid for con...",
-      "summary": "Kraken is vying for a place in consumer wallets as crypto evolves from an asset class into infrastructure for mainstream financial products.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/08/18/kraken-launches-debit-card-in-bid-for-consumer-wallets.html",
-      "category": "Business",
-      "date": "2026-08-18T15:19:40.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/08/18/apple-card-5-percent-daily-cash-promo/",
-      "title": "Apple Card Offering 5% Cash Back on Select Purchases for Limited Time",
-      "summary": "Now through September 15, you can get 5% Daily Cash when you use the Apple Card via Apple Pay on up to $750 in combined eligible purchases at Booking​.com, Hertz, ChargePoint, Exxon, and Mobil. The maximum total Daily Cash you can earn through this offer is $37.50, according to Apple, with complete details outlined on this page. Ordinarily, the Apple Card offers 3% Daily Cash at these partners, but this limited-time promotion provides an additional 2% Daily Cash on eligible purchases up to the $750 limit. Apple has given the offer an \"August road trip\" theme, as the eligible purchases include hotel rooms, rental cars, gas, and electric vehicle charging. Apple's credit card is available in the U.S. only.Tag: Apple CardThis article, \"Apple Card Offering 5% Cash Back on Select Purchases for Limited Time\" first appeared on MacRumors.comDiscuss this article in our forums",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/08/18/apple-card-5-percent-daily-cash-promo/",
-      "category": "Tech",
-      "date": "2026-08-18T15:16:01.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "https://www.macrumors.com/2026/08/18/openai-announces-chatgpt-for-teens/",
@@ -257,7 +312,7 @@
     {
       "id": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
       "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
-      "summary": "It’s not every day that attackers can force a frontier AI model to cough up user passwords and other sensitive data without user confirmation. That’s exactly what researchers recently did to Microsoft 365 Copilot Enterprise. Even more unusual is the source they tapped to discover the critical vulnerability that made their exploit possible. Rather than employing reverse engineering or other traditional vulnerability-hunting methods, they asked Copilot. The LLM assistant readily complied. Researchers at security firm Varonis knew they wanted to create an exploit that would exfiltrate user data when a user did nothing more than click on a link.",
+      "summary": "It’s not every day that attackers can force a frontier AI model to cough up user passwords and other sensitive data without user confirmation. That’s exactly what researchers recently did to Microsoft 365 Copilot for enterprise. Even more unusual is the source they tapped to discover the critical vulnerability that made their exploit possible. Rather than employing reverse engineering or other traditional vulnerability-hunting methods, they asked Copilot. The LLM assistant readily complied. Researchers at security firm Varonis knew they wanted to create an exploit that would exfiltrate user data when a user did nothing more than click on a link.",
       "source": "Ars Technica AI",
       "sourceUrl": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
       "category": "Industry",
@@ -563,17 +618,6 @@
       "officialUrl": "https://www.technologyreview.com"
     },
     {
-      "id": "04Xnlvon0WqL6QZtcimCSvt",
-      "title": "Reddit is testing AI-generated videos that read text posts aloud",
-      "summary": "Reddit is testing a new feature that uses AI to convert text posts to video and audio. Rolling out from Monday in web browsers, the feature hopes to capitalise on the popularity of videos that read Reddit posts aloud. The AI-generated videos will expand to iOS and Android on Tuesday. Though currently restricted to a few manually selected English-language posts in designated subreddits, Reddit plans to eventually broaden the trial further. SEE ALSO: Reddit is ramping up its AI moderation tools. \"The experiment uses AI to create new audio and video formats and bring real human conversations to life, including multi-voice text-to-speech, captions, and visual template,\" a Reddit spokesperson said, confirming the test to Mashable. Fortunately, this test doesn't mean you'll be forced to ingest your favourite subreddits in video form.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/reddit-ai-generated-video-audio-posts",
-      "category": "Tech",
-      "date": "2026-08-18T08:59:44.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
       "id": "https://www.engadget.com/2238891/apple-appears-to-have-leaked-its-camera-equipped-airpods/",
       "title": "Apple appears to have leaked its camera-equipped AirPods",
       "summary": "They can tell the viewer what they're seeing via a new function called Visual Intelligence. Engadget Apple appears to have accidentally leaked its camera-equipped AirPods in a video tucked into the macOS Tahoe 26.7 release candidate, MacRumors reported. The new AirPods are said to have a camera that can feed low-res imagery to Apple's long-delayed AI Siri assistant, which can then tell the viewer what they're seeing via a new function called Visual Intelligence. They were first tipped by Bloomberg's Mark Gurman back in May. In the video (also revealed by X user @aaronp613), a man wearing AirPods asks Siri to remember the book he's currently checking out. In response, Siri's voiceover states: \"With Visual Intelligence, your world becomes saveable.",
@@ -589,6 +633,17 @@
           "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak"
         }
       ]
+    },
+    {
+      "id": "https://openai.com/index/asana",
+      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "summary": "Using OpenAI Codex, Asana replaced an outdated testing system in two weeks for about $12K. Calendar weeks to finish work expected to take 5 years Model and infrastructure cost versus Asana’s ~$6M staffing estimate Loading…ShareIn about two weeks, Asana completed work it expected to take five years. Asana helps teams coordinate work. Its platform uses AI agents and automations to help customers manage, track, and execute that work.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/asana",
+      "category": "Models",
+      "date": "2026-08-18T07:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://openai.com"
     },
     {
       "id": "https://www.digitaltrends.com/?p=5998989",
@@ -719,17 +774,6 @@
       "officialUrl": "https://decrypt.co"
     },
     {
-      "id": "https://www.engadget.com/2237555/flash-drive-size-keep-going-up-why-small-rarely-sold-today/",
-      "title": "Why flash drive capacity keeps increasing (and why small drives are rarely sold today)",
-      "summary": "Denser NAND has made yesterday's tiny capacities increasingly hard to justify. Valeriy Lushchikov/Getty Images Once upon a time, 1GB of flash memory was serious capacity (and it wasn't cheap either). In early 2002, the industry was abuzz about JMTek's USBDrive and its up-to-1GB capacity. Today, that same capacity is tiny by consumer standards. Most of Kingston's current DataTraveler models start at 64GB, with some reaching 512GB. Storage got ridiculously cheap along the way, and the price collapse was just as dramatic.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2237555/flash-drive-size-keep-going-up-why-small-rarely-sold-today/",
-      "category": "Tools",
-      "date": "2026-08-17T21:30:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
       "id": "https://techcrunch.com/?p=3153653",
       "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
       "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
@@ -805,17 +849,6 @@
       "date": "2026-08-17T19:46:21.000Z",
       "hot": false,
       "officialUrl": "https://huggingface.co"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/08/17/ios-26-6-1-security-fixes/",
-      "title": "iOS 26.6.1 and macOS Tahoe 26.6.2 Fix Nearly 30 Security Vulnerabilities",
-      "summary": "The iOS 26.6.1, iPadOS 26.6.1, and macOS Tahoe 26.6.2 updates Apple released today fix almost 30 security vulnerabilities, according to Apple's security support document. This is Apple's third security release in three weeks as AI surfaces bugs faster than the company's typical release schedule can absorb. Apple says the software includes security fixes that were previously added to the iOS 27, iPadOS 27, and macOS Golden Gate betas. There are fixes for an audio vulnerability that could allow an app to leak sensitive user information, an image vulnerability that could allow for arbitrary code execution, a trio of kernel vulnerabilities, and several WebKit bugs that could cause memory corruption or Safari crashes. Of the 29 CVEs outlined in the document, 21 are WebKit-related, and nine are credited to OpenAI Codex Security. On iOS, Apple also fixed a telephony bug that could allow an attacker in a privileged network position to bypass IPSec authentication and intercept network traffic.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/08/17/ios-26-6-1-security-fixes/",
-      "category": "Tech",
-      "date": "2026-08-17T19:25:39.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "https://www.technologyreview.com/?p=1142200",
@@ -1697,28 +1730,6 @@
       "date": "2026-08-13T17:00:13.000Z",
       "hot": false,
       "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-      "title": "Bring your spreadsheet data to life with Sheets canvas",
-      "summary": "A new Google Sheets feature, Sheets canvas transforms rows and columns into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt. Director, Product Management, Google Sheets Your browser does not support the audio element. Google Sheets now features Sheets canvas, a tool that uses artificial intelligence to turn your data into interactive, visual mini-apps without any coding. You can simply describe your needs to Gemini, and it will build custom layouts like study trackers or seating charts that sync automatically with your original spreadsheet. To get started, open a sheet and click the Gemini icon to select \"create canvas.\"",
-      "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-      "category": "Research",
-      "date": "2026-08-13T16:45:00.000Z",
-      "hot": false,
-      "officialUrl": "https://blog.google"
-    },
-    {
-      "id": "http://feeds.fabbaloo.com/~/967805708/_/fabbaloo/default~Backflip-Adds-AIPowered-Reverse-Engineering-to-Convert-Mesh-Files-Into-CAD-Models",
-      "title": "Backflip Adds AI-Powered Reverse Engineering to Convert Mesh Files Into CAD Models",
-      "summary": "Backflip announced a new capability: reverse engineering. The post Backflip Adds AI-Powered Reverse Engineering to Convert Mesh Files Into CAD Models appeared on Fabbaloo.",
-      "source": "Fabbaloo",
-      "sourceUrl": "http://feeds.fabbaloo.com/~/967805708/_/fabbaloo/default~Backflip-Adds-AIPowered-Reverse-Engineering-to-Convert-Mesh-Files-Into-CAD-Models",
-      "category": "Tech",
-      "date": "2026-08-13T16:33:00.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.feedburner.com"
     }
   ]
 }
