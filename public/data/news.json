@@ -1,6 +1,50 @@
 {
-  "lastUpdated": "2026-08-18T19:48:08.417Z",
+  "lastUpdated": "2026-08-18T20:15:59.248Z",
   "news": [
+    {
+      "id": "https://decrypt.co/?p=375902",
+      "title": "SEC Proposes Crypto Fundraising Exemptions in Abrupt About-Face",
+      "summary": "The SEC's proposed rules would let crypto projects raise capital through token sales without full securities registration.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/375902/sec-regulation-crypto-fundraising-exemptions",
+      "category": "Tech",
+      "date": "2026-08-18T20:00:25.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/psyence-biomedical-stock-surges-on-trump-ibogaine-announcement-93CH-4865947",
+      "title": "Psyence Biomedical stock surges on Trump ibogaine announcement",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/psyence-biomedical-stock-surges-on-trump-ibogaine-announcement-93CH-4865947",
+      "category": "Business",
+      "date": "2026-08-18T20:00:05.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/08/18/apple-home-hub-widget-gallery/",
+      "title": "Apple's Home Hub Will Have a Widget Gallery With iPhone Widget Support",
+      "summary": "Apple is working on a home hub that incorporates Siri AI, and it's set to launch as soon as this year. The home hub will use a Widget Gallery that lets users select the content they want to appear on the device's home screen. Mentions of the Widget Gallery were found in macOS Tahoe 26.7, an update that leaked a long list of unreleased Apple products. The strings were found in a file named PosterKit-J490, and J490 is the codename for the home hub. PosterKit is Apple's framework for Lock Screen customization, and the hub's home screen could have many of the same options for icons, widgets, and clock faces. Apple already uses the Widget Gallery on iPhone, iPad, and Mac for adding widgets to the Home Screen and Lock Screen of those devices, and the home hub will have a similar mechanism.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/08/18/apple-home-hub-widget-gallery/",
+      "category": "Tech",
+      "date": "2026-08-18T19:56:49.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+      "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+      "summary": "Zelda, Zak, and Cody Williams say their father’s Instagram account will be a ‘trusted place’ to share photos, videos, and memories. Zelda, Zak, and Cody Williams say their father’s Instagram account will be a ‘trusted place’ to share photos, videos, and memories. Robin Williams’ children are taking over their father’s Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor’s Instagram profile to be a “safe, trusted place where the stories, photos, videos, and memories shared reflect his legacy with authenticity, warmth, and care.” A story posted to Zelda Williams’ own Instagram account expands on the decision to bring back her father’s profile, saying that it’s meant to help combat “rampant AI abuse,” according to The Wrap: I’m sorry if anyone found Dad’s old page posting again to be triggering.",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+      "category": "Industry",
+      "date": "2026-08-18T19:48:26.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
     {
       "id": "https://www.engadget.com/2239484/spotifys-running-mode-is-now-available-on-android/",
       "title": "Spotify's Running Mode is now available on Android",
@@ -186,13 +230,7 @@
       "category": "Business",
       "date": "2026-08-18T18:00:00.000Z",
       "hot": false,
-      "officialUrl": "https://techcrunch.com",
-      "relatedCoverage": [
-        {
-          "source": "Investing.com",
-          "url": "https://www.investing.com/news/stock-market-news/openai-tightens-ai-safeguards-after-hugging-face-breach-exposes-agent-risks-4865914"
-        }
-      ]
+      "officialUrl": "https://techcrunch.com"
     },
     {
       "id": "04JL6JNM6VYB4tVzlX8x3g9",
@@ -913,7 +951,13 @@
       "sourceUrl": "https://openai.com/index/strengthening-democratic-oversight-in-national-security/?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-08-18T00:00:00.000Z",
-      "hot": false
+      "hot": false,
+      "relatedCoverage": [
+        {
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security"
+        }
+      ]
     },
     {
       "id": "https://blog.google/products-and-platforms/products/chrome/gemini-in-chrome-android-auto-browse/?utm_source=futuretools.io&utm_medium=newspage",
@@ -997,17 +1041,6 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "https://www.macrumors.com/2026/08/17/macos-26-7-unreleased-apple-devices/",
-      "title": "macOS Tahoe 26.7 is Full of References to Unreleased Apple Products",
-      "summary": "The macOS Tahoe 26.7 release candidate that Apple seeded today has references to several unreleased products, from home devices to iPhones, iPads, AirPods, and Macs. Some of these codenames have shown up in prior software updates but have new feature flags, while others haven't been seen in the code before. Home Accessories Home Hub (J490/HomeAccessory17,1 and J491/HomeAccessory17,2) - There are references to Siri setup for a \"J490\" home accessory, which has previously been identified as Apple's upcoming home hub. There's a second reference to J490 and J491. J490 is believed to be the version of the home hub with a base, while J491 is the version that's meant to be mounted on a wall. HomePod mini (B525) - Code mentions \"Argentium\" has been installed on a product codenamed B525, which likely corresponds to the HomePod mini.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/08/17/macos-26-7-unreleased-apple-devices/",
-      "category": "Tech",
-      "date": "2026-08-17T23:50:23.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
       "id": "https://decrypt.co/?p=375836",
       "title": "Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws",
       "summary": "Payward is joining Project Glasswing, Anthropic’s program for giving vetted organizations access to its powerful cybersecurity AI.",
@@ -1083,17 +1116,6 @@
       "date": "2026-08-17T20:07:26.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=375816",
-      "title": "OpenAI’s Answer to Rogue Agents and Hacks Is More AI, Not Less",
-      "summary": "OpenAI President Greg Brockman's new essay cites his company's own hack of Hugging Face to push urgent AI-powered defense.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/375816/openai-answer-rogue-agents-hacks-more-ai",
-      "category": "Tech",
-      "date": "2026-08-17T19:59:18.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
     },
     {
       "id": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
@@ -1482,17 +1504,6 @@
       "date": "2026-08-16T16:53:51.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-      "summary": "It’s like Windows Recall, but without all the creepy screenshots. (But it’s still kind of creepy.) It’s like Windows Recall, but without all the creepy screenshots. (But it’s still kind of creepy.) ChatGPT’s desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request.",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-      "category": "Industry",
-      "date": "2026-08-16T14:56:40.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
     },
     {
       "id": "http://feeds.fabbaloo.com/~/967902134/_/fabbaloo/default~Whos-The-Biggest-In-D-Printing-August",
