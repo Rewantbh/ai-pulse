@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2026-08-17T23:45:04.570Z",
+  "lastUpdated": "2026-08-18T00:49:06.081Z",
   "news": [
+    {
+      "id": "https://techcrunch.com/?p=3153733",
+      "title": "Anthropic’s annualized revenue surges to $65B",
+      "summary": "The model maker added $18 billion in annualized revenue in two months.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "category": "Business",
+      "date": "2026-08-17T23:56:26.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/08/17/macos-26-7-unreleased-apple-devices/",
+      "title": "macOS Tahoe 26.7 is Full of References to Unreleased Apple Products",
+      "summary": "The macOS Tahoe 26.7 release candidate that Apple seeded today has references to several unreleased products, from home devices to iPhones, iPads, AirPods, and Macs. Some of these codenames have shown up in prior software updates but have new feature flags, while others haven't been seen in the code before. Home Accessories Home Hub (J490 and J491) - There are references to Siri setup for a \"J490\" home accessory, which has previously been identified as Apple's upcoming home hub. There's a second reference to J490 and J491. J490 is believed to be the version of the home hub with a base, while J491 is the version that's meant to be mounted on a wall. HomePod mini (B525) - Code mentions \"Argentium\" has been installed on a product codenamed B525, which likely corresponds to the HomePod mini.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/08/17/macos-26-7-unreleased-apple-devices/",
+      "category": "Tech",
+      "date": "2026-08-17T23:50:34.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
     {
       "id": "https://www.investing.com/news/stock-market-news/board-overseeing-washington-dulles-airport-to-vote-on-199-billion-overhaul-plan-4864095",
       "title": "Board overseeing Washington Dulles airport to vote on $19.9 billion overhaul plan",
@@ -567,17 +589,6 @@
       "date": "2026-08-17T15:11:00.000Z",
       "hot": false,
       "officialUrl": "https://feeds.feedburner.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/08/17/apple-wallet-ids-expanding-to-four-more-states/",
-      "title": "Apple Wallet Driver's License Feature to Launch in Four More U.S. States",
-      "summary": "States, residents can add their driver's license or state ID to the Apple Wallet app on the iPhone and Apple Watch, and then use it to display proof of identity or age at select airports and businesses, and in select apps. According to a new report and evidence within Apple's code, the feature is set to expand to four more states. A few days ago, North Carolina's DMV announced that it plans to launch a mobile ID program later this year. As reported by WRAL, North Carolina residents will be able to set up a digital ID through a new NC Wallet app starting in December, with Apple Wallet, Google Wallet, and Samsung Wallet support to follow in \"early 2027.\" To set up the feature, open the Wallet app on the iPhone and tap on the plus sign in the top-right corner. Next, tap on Driver's License and ID Cards, select your state from the list, and follow the on-screen steps to complete the process. Then, you can present your digital ID at participating TSA checkpoints and businesses, without handing over your device.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/08/17/apple-wallet-ids-expanding-to-four-more-states/",
-      "category": "Tech",
-      "date": "2026-08-17T14:53:03.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "https://www.techrepublic.com/article/news-open-weight-ai-openai-anthropic-valuations/",
@@ -1310,17 +1321,6 @@
       "officialUrl": "https://www.wired.com"
     },
     {
-      "id": "https://techcrunch.com/?p=3153090",
-      "title": "Kog is going deeper to squeeze more inference out of GPUs",
-      "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-      "category": "Business",
-      "date": "2026-08-14T14:50:11.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
       "id": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
       "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
       "summary": "Leading US AI labs such as OpenAI and Anthropic are releasing cheaper models as they fight to retain cost-conscious customers who are switching to cut-price alternatives from Chinese rivals. The price war comes as rising AI bills push companies to curb usage and seek cheaper models, helping Chinese developers including Moonshot and DeepSeek make inroads with users from Silicon Valley to Europe. OpenAI recently said that it was slashing prices for GPT-5.6 Luna, its “fastest and most affordable model”, by 80 percent. Anthropic has launched Claude Opus 5, touting the system’s “frontier intelligence.. at half the price” of Fable 5, the company’s most capable model.Read full article Comments",
@@ -1663,6 +1663,17 @@
       "officialUrl": "https://openai.com"
     },
     {
+      "id": "https://openai.com/index/previewing-ultrafast",
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "summary": "A new speed class for frontier intelligence, turning speed into a competitive advantage. Loading…ShareWhat early customers are experiencingWhat early customers are experiencingHow OpenAI is using UltrafastPowered by CerebrasAvailabilityWhat early customers are experiencingHow OpenAI is using UltrafastPowered by CerebrasAvailabilityToday, OpenAI is sharing an early look at Ultrafast, a new service tier that runs GPT‑5.6 Sol up to 14× faster than Standard processing, launching first in the OpenAI API. Powered by Cerebras, Ultrafast generates up to 750 output tokens per second, bringing OpenAI's most intelligent model to products and workflows where every second matters. With GPT‑5.6, OpenAI is pushing the frontier on what OpenAI's models can do and making them more efficient across every layer of OpenAI's stack. Those improvements have made advanced intelligence more affordable and more useful to more people. Until now, getting real-time speed typically meant choosing a smaller or more specialized model.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/previewing-ultrafast",
+      "category": "Models",
+      "date": "2026-08-13T10:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://openai.com"
+    },
+    {
       "id": "https://openai.com/index/dali-rajic-chief-revenue-officer",
       "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
       "summary": "As enterprise AI deployment accelerates, OpenAI is building on its global scale to grow even faster. Loading…ShareDali Rajic will be joining as Chief Revenue Officer, leading OpenAI’s global revenue organization. OpenAI brings together research, products, deployment, and infrastructure to make AI more capable, more affordable, and broadly useful. OpenAI's products now reach more than one billion weekly active users and more than two million businesses—twice as many as a year ago. OpenAI is now at an inflection point: the next generation of models will change not just how work gets done but how companies are built and run. Dali will build the revenue operating system needed to scale for this next phase.",
@@ -1694,113 +1705,6 @@
       "date": "2026-08-13T09:00:00.000Z",
       "hot": false,
       "officialUrl": "https://www.technologyreview.com"
-    },
-    {
-      "id": "https://huggingface.co/blog/icml-2026-open-reproductions",
-      "title": "What We Learned by Reproducing 2,200 papers from ICML",
-      "summary": "Explore project logs, code, and traces in an interactive logbook",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog/icml-2026-open-reproductions",
-      "category": "Research",
-      "date": "2026-08-13T00:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://huggingface.co"
-    },
-    {
-      "id": "https://x.com/ChatGPT/status/2088044956091089281?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "ChatGPT Now Lets Users Open and Edit Google Drive Files Without Switching Tabs",
-      "summary": "You probably hate tab switching. Understandable. You can now open any @googledrive Doc, Sheet, or Slide right inside ChatGPT and work side by side without switching tabs. Rolling out on web to Plus, Pro, Business, and Enterprise users in ChatGPT and ChatGPT Work.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://x.com/ChatGPT/status/2088044956091089281?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-08-13T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://x.com/ClaudeDevs/status/2088014831605702937?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Claude Code Desktop Adds Auto-Continue Feature to Resume Work After Usage Limit Resets",
-      "summary": "Hit your usage limit in Claude Code desktop? There's now an auto-continue checkbox. Turn it on, and it'll automatically continue where you left off once your limit resets.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://x.com/ClaudeDevs/status/2088014831605702937?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-08-13T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://openai.com/index/previewing-ultrafast/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "OpenAI Launches GPT-5.6 Sol Ultrafast Mode: 14x Faster, 750 Tokens/Sec via Cerebras",
-      "summary": "A new speed class for frontier intelligence, turning speed into a competitive advantage. Loading…ShareWhat early customers are experiencingWhat early customers are experiencingHow OpenAI is using UltrafastPowered by CerebrasAvailabilityWhat early customers are experiencingHow OpenAI is using UltrafastPowered by CerebrasAvailabilityToday, we’re sharing an early look at Ultrafast, a new service tier that runs GPT‑5.6 Sol up to 14× faster than Standard processing, launching first in the OpenAI API. Powered by Cerebras, Ultrafast generates up to 750 output tokens per second, bringing our most intelligent model to products and workflows where every second matters. With GPT‑5.6, we’re pushing the frontier on what our models can do and making them more efficient across every layer of our stack. Those improvements have made advanced intelligence more affordable and more useful to more people. Until now, getting real-time speed typically meant choosing a smaller or more specialized model.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://openai.com/index/previewing-ultrafast/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-08-13T00:00:00.000Z",
-      "hot": false,
-      "relatedCoverage": [
-        {
-          "source": "OpenAI News",
-          "url": "https://openai.com/index/previewing-ultrafast"
-        }
-      ]
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Google Launches Gemini 3.7 Flash With Major Coding Gains at Half the Price of 3.6 Flash",
-      "summary": "Our most intelligent workhorse model yet for coding and agents. Senior Director, Product Management, on behalf of the Gemini team Your browser does not support the audio element. Today, we’re building on the progress of our widely used Flash series by introducing Gemini 3.7 Flash, our most intelligent workhorse model yet for coding and agents. This release comes just three weeks after Gemini 3.6 Flash, and is a direct result of developer feedback and algorithmic innovations that we look forward to bringing to future models. 3.7 Flash delivers substantial improvements across software engineering, knowledge work, and web development workflows — with an introductory price of half the original 3.6 Flash cost per million tokens.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-08-13T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://www.youtube.com/watch?v=GZHp3WFc9Ps&utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Suno Studio 2.0 Launches with MIDI, Live Audio Tracking, and AI Plugin Creation",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://www.youtube.com/watch?v=GZHp3WFc9Ps&utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-08-13T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Anthropic's Claude Tag Gains Channel-Wide Context, 30% Better at Knowing When to Respond",
-      "summary": "Claude has more context to decide when to proactively collaborate in Slack (and when not to)",
-      "source": "FutureTools News",
-      "sourceUrl": "https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-08-13T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "MiniMax Music 3.0 Launches as Open-Weights AI Music Generation Model",
-      "summary": "Today, we are introducing MiniMax Music 3.0, our next-generation music generation model. Given a creative concept and optional lyrics, the model composes, arranges, performs, and produces a complete song in a single generation. Music 3.0 focuses on the aspects of music creation that are hardest to capture with a simple prompt: understanding the creator’s expressive intent; sustaining that intent across a complete song of up to five minutes; rendering instruments with clarity and physical realism; and generating vocals that sound performed rather than synthesized. To achieve this, we redesigned the entire generation pipeline—from music description and language modeling to audio rendering. Fine-grained temporal descriptions capture the evolution of emotion, instrumentation, and vocal delivery. A global–local Hybrid-LM jointly models long-range structure and acoustic detail.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-08-13T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://api-docs.deepseek.com/news/news260813/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "DeepSeek Launches V4-Pro with Agent Upgrades, Flexible Reasoning & New API Pricing",
-      "summary": "NewsDeepSeek-V4-Pro GA Release 2026/08/13On this pageDeepSeek-V4-Pro GA Release We’re launching DeepSeek-V4-Pro today! 🔷 Major Agent upgrades with strong production gains! 🔷 Flexible reasoning effort for V4-Pro & V4-Flash: low for simple tasks, high for daily Agent workflows, max for complex tasks. 🔷 Native OpenAI Responses API support, optimized for Codex with one-click setup. V4 Pro is now available on app/web. V4 Pro is also available via API.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://api-docs.deepseek.com/news/news260813/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-08-13T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://www.alibabacloud.com/blog/wan3-0-30-second-ai-video-generation-from-any-input_603452?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Alibaba Launches Wan3.0: AI Video Generation in 30 Seconds on Cloud Model Studio",
-      "summary": "Wan3.0 is the new generation of Alibaba's Wan video generation model family, now available on Alibaba Cloud Model Studio. It generates up to 30 seconds of video in a single pass, accepts text, images, audio, video, and — for the first time — documents (PPT, PDF, DOC, XLS, and more) as input, and delivers a major leap in real-world fidelity: lifelike, diverse human faces and precise reference-to-video consistency. API pricing starts at $0.05 per second for 480P output, with 720P and 1080P tiers available. If you build with video generation APIs — for film and short-form content, advertising, design and creative work, or destination marketing — this release changes what a single API call can produce: not a clip, but a complete story. Most AI video generation models produce clips of a few seconds — enough for a shot, not a story. Wan3.0 extends single-generation length to 30 seconds, and the difference is more than a bigger number.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://www.alibabacloud.com/blog/wan3-0-30-second-ai-video-generation-from-any-input_603452?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-08-13T00:00:00.000Z",
-      "hot": false
     }
   ]
 }
