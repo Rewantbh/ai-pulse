@@ -1,6 +1,67 @@
 {
-  "lastUpdated": "2026-08-19T16:55:33.135Z",
+  "lastUpdated": "2026-08-19T17:21:07.800Z",
   "news": [
+    {
+      "id": "https://openai.com/index/our-commitment-to-zero-data-retention",
+      "title": "Offering Zero Data Retention for frontier models",
+      "summary": "Previewing Private Safety Processing, which strengthens safeguards across interactions while remaining compatible with ZDR. Loading…ShareWhy safety systems need to evolveWhy safety systems need to evolveHow Private Safety Processing worksPrivacy and safety built with and for OpenAI's customersWhy safety systems need to evolveHow Private Safety Processing worksPrivacy and safety built with and for OpenAI's customersZero Data Retention gives eligible API customers a clear promise: OpenAI does not retain their prompts or model responses after a request is processed. Customer content is not available to OpenAI personnel for review1, and enterprise customer data is not used to train OpenAI's models unless customers explicitly opt-in. As models take on longer, more complex tasks, some serious risks may only become visible across multiple interactions. Existing ZDR-compatible safety systems evaluate each interaction individually. Today, OpenAI is previewing Private Safety Processing, which is designed to identify patterns across related interactions without giving OpenAI personnel access to the underlying content.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/our-commitment-to-zero-data-retention",
+      "category": "Models",
+      "date": "2026-08-19T17:21:07.792Z",
+      "hot": false,
+      "officialUrl": "https://openai.com"
+    },
+    {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+      "title": "OpenAI hit the brakes. Now what?",
+      "summary": "AI safety still depends largely on the industry policing itself. AI safety still depends largely on the industry policing itself. With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had slowed the pace of some AI development while it tightened security and safeguards. That included a two-week pause in reinforcement learning training on its “latest models intended for deployment,” and an ongoing delay to its “largest planned frontier RL run.”",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+      "category": "Industry",
+      "date": "2026-08-19T17:10:09.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+      "title": "Meta AI is getting a Mac app",
+      "summary": "Meta AI can create content and make suggestions based on what it “sees” on your screen. | Image: Meta Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content based on what's on your screen. Meta AI on the Mac also supports dictation across all apps. The launch comes as Meta makes its AI chatbot more like a productivity-focused assistant to better compete with its AI rivals - many of which already have desktop apps. You can share your window with Google's Gemini AI app, while OpenAI's ChatGPT and Anthropic's Claude apps take things a step further by allowing the chatbots to take con …",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+      "category": "Industry",
+      "date": "2026-08-19T17:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com",
+      "relatedCoverage": [
+        {
+          "source": "Engadget AI",
+          "url": "https://www.engadget.com/2240154/meta-ai-now-has-a-dedicated-desktop-app-for-mac/"
+        }
+      ]
+    },
+    {
+      "id": "https://decrypt.co/?p=375968",
+      "title": "Moderna Stock Doubles on Cancer Breakthrough: Here’s What It Means",
+      "summary": "A Phase 3 win against the standard of care sent Moderna shares up 131% and left short sellers down $4.8 billion.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/375968/moderna-stock-doubles-cancer-vaccine",
+      "category": "Tech",
+      "date": "2026-08-19T16:54:46.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://www.engadget.com/2240125/google-is-trying-to-solve-contrails-with-ai/",
+      "title": "Google is trying to solve contrails with AI",
+      "summary": "Operation Blue Skies, which also involves the UK government, will subtly reroute flights to test contrail avoidance. HYEWON HWANG / Unsplash Google and the UK government are collaborating on a project to test whether airplanes can avoid creating contrails. The project, called Operation Blue Skies, will conduct the trial over Shanwick airspace, which sits above the northeastern Atlantic Ocean. Contrails are the long white streaks in the sky left by jet engines. Most often created in cold, humid air, they form when water vapor condenses and freezes around aircraft exhaust. Unfortunately for the climate, they can trap heat radiating from the Earth, thus warming the atmosphere.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2240125/google-is-trying-to-solve-contrails-with-ai/",
+      "category": "Tools",
+      "date": "2026-08-19T16:54:03.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
     {
       "id": "6a85891388ea458d1c261341",
       "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
@@ -11,6 +72,17 @@
       "date": "2026-08-19T16:44:07.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
+    },
+    {
+      "id": "02E1TS74HhxVlu4jIyoSPwF",
+      "title": "Anthropic’s Claude can now send Gmail emails without asking first",
+      "summary": "Would you let AI handle your emails?If the masochist in you says \"yes,\" well, I guess you're now in luck!Anthropic has just updated its Claude connector for Google Workspace to allow full Gmail inbox management. This notably includes the ability for the AI assistant to send and reply to emails without additional user input or approval. This Tweet is currently unavailable. It might be loading or has been removed. Claude Connectors are integrations that connect Anthropic's AI assistant Claude to external apps. As 9to5Google points out, a Claude Connector for Google Workspace has already existed for a while.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/anthropic-claude-send-gmail-emails-without-asking",
+      "category": "Tech",
+      "date": "2026-08-19T16:34:49.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
     },
     {
       "id": "https://www.engadget.com/2240088/amazon-is-bringing-drone-deliveries-to-the-chicago-and-atlanta-metro-areas/",
@@ -25,7 +97,7 @@
     },
     {
       "id": "https://decrypt.co/?p=375952",
-      "title": "Coinbase's Base Is Betting Big on AI Agents With $100K Startup Accelerator",
+      "title": "Coinbase's Base Is Betting Big on AI Agents With $1 Million Startup Accelerator",
       "summary": "Base is narrowing its accelerator to 10 startups as it looks for teams building AI agents, payments, trading, and financing products.",
       "source": "Decrypt AI",
       "sourceUrl": "https://decrypt.co/375952/coinbase-base-ai-agents-startup-accelerator",
@@ -33,17 +105,6 @@
       "date": "2026-08-19T16:31:04.000Z",
       "hot": false,
       "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/sdc-capital-eyes-singapore-reit-ipo-to-raise-1-billion--bloomberg-93CH-4867938",
-      "title": "SDC Capital eyes Singapore REIT IPO to raise $1 billion - Bloomberg",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/sdc-capital-eyes-singapore-reit-ipo-to-raise-1-billion--bloomberg-93CH-4867938",
-      "category": "Business",
-      "date": "2026-08-19T16:29:33.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
     },
     {
       "id": "https://www.engadget.com/2240069/flock-testing-new-ai-police-tool-tracks-identifies-drivers/",
@@ -99,6 +160,17 @@
       "date": "2026-08-19T15:59:58.000Z",
       "hot": false,
       "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/?p=4370244",
+      "title": "Build Practical AI Skills for $20 With This Claude and ChatGPT Bundle",
+      "summary": "Six courses teach practical AI workflows for planning, scheduling, risk management, documentation, and team communication.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/claude-chatgpt-project-management-bundle/",
+      "category": "Business",
+      "date": "2026-08-19T15:58:04.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "https://www.digitaltrends.com/?p=5999400",
@@ -330,6 +402,17 @@
       "date": "2026-08-19T12:10:27.000Z",
       "hot": false,
       "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+      "title": "Nvidia’s new financial strategy does not compute",
+      "summary": "April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation. Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR are all working with Nvidia to put together $500 billion in financing to turn compute into an asset class. \"This is really the first time that technology chips have become an investable asset class,\" Nvidia CEO Jensen Huang said to CNBC. \"These are revenue-generating assets now. They're productive, they're long-lived, they're fungible, they're flexible.\" \"This is the very beginning, like what it was whe …",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+      "category": "Industry",
+      "date": "2026-08-19T12:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
     },
     {
       "id": "https://techcrunch.com/?p=3153940",
@@ -618,17 +701,6 @@
       "officialUrl": "https://www.techrepublic.com"
     },
     {
-      "id": "https://www.engadget.com/2239548/gta-6-gameplay-leak-august-2026/",
-      "title": "GTA 6 gameplay leaked ahead of its new trailer, and Rockstar is taking down the videos",
-      "summary": "Two legit-seeming clips and a world map are out there, if you know where to look. Rockstar Games Grand Theft Auto fans will have to wait until later this month for a deep dive into the next game in the series, which will premiere on Netflix before hitting YouTube later that day (though probably much sooner on unofficial channels). But despite Rockstar Games' efforts to keep a tight lid on Grand Theft Auto VI leaks — especially after the 2022 incident — some legitimate-looking gameplay footage is now out there. The publisher has reportedly been hitting people who are sharing two minute-long gameplay clips and a screenshot of the Florida-inspired map with DMCA takedown notices. While we can't share the materials here or tell you where to find them, you're a citizen of the internet. You may just stumble upon them yourself.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2239548/gta-6-gameplay-leak-august-2026/",
-      "category": "Tools",
-      "date": "2026-08-18T20:29:54.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
       "id": "https://decrypt.co/?p=375902",
       "title": "SEC Proposes Crypto Fundraising Exemptions in Abrupt About-Face",
       "summary": "The SEC's proposed rules would let crypto projects raise capital through token sales without full securities registration.",
@@ -726,17 +798,6 @@
       "date": "2026-08-18T18:09:38.000Z",
       "hot": false,
       "officialUrl": "https://huggingface.co"
-    },
-    {
-      "id": "https://decrypt.co/?p=375886",
-      "title": "Bitcoin Wallet Maker BitBox Says AI Found Severe Flaws in Firmware",
-      "summary": "Swiss hardware Bitcoin wallet maker BitBox used AI to find two severe bugs, and warns that older firmware leaves you exposed.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/375886/bitcoin-wallet-bitbox-ai-severe-flaws-firmware",
-      "category": "Tech",
-      "date": "2026-08-18T18:06:42.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
     },
     {
       "id": "https://www.techrepublic.com/article/news-meta-ai-incognito-chat-privacy/",
@@ -1457,17 +1518,6 @@
       "officialUrl": "https://www.techrepublic.com"
     },
     {
-      "id": "https://www.techrepublic.com/article/news-data-center-johor-apac-malaysia/",
-      "title": "Malaysia Data Center Growth Surges as Johor Capacity Tightens",
-      "summary": "Johor’s data center pipeline has reached 8,542 MW, but a 0.7% colocation vacancy rate, grid constraints, and water demand mean regional IT buyers need to separate announced capacity from infrastructure they can actually deploy.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-data-center-johor-apac-malaysia/",
-      "category": "Business",
-      "date": "2026-08-17T12:37:29.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
       "id": "https://blogs.nvidia.com/?p=97752",
       "title": "Securing the Infrastructure of Intelligence",
       "summary": "AI factories are the defining infrastructure of the AI era — where compute transforms energy and data into intelligence that powers every business, industry and country. In the AI economy, compute is revenue. AI factories require a full stack of critical resources: advanced chips, packaging, memory and networking — as well as land, power and shell. Just as NVIDIA has used its scale, long-term visibility and supply-chain partnerships to secure critical semiconductor resources, NVIDIA is now applying that same discipline to secure LPS capacity exclusively for NVIDIA AI factories. Today, NVIDIA is partnering with SB Energy to secure LPS capacity at the exceptional PORTS-Pike Technology Campus in Portsmouth, Ohio, to host NVIDIA compute. OpenAI will be the tenant.",
@@ -1477,28 +1527,6 @@
       "date": "2026-08-17T12:34:51.000Z",
       "hot": false,
       "officialUrl": "https://blogs.nvidia.com"
-    },
-    {
-      "id": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
-      "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
-      "summary": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights into your kitty's litter box usage that could flag health issues? But I have two feline friends… No worries, kitty facial recognition can handle that. At least, that is the idea behind the Litter-Robot 5 Pro, the highest-end model from the OG robotic pooper scooper company Whisker. Boasting a dual camera system and an array of sensors to literally sniff out your cat's deposits, all wrapped up with AI algorithms and machine learning, …",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
-      "category": "Industry",
-      "date": "2026-08-17T11:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-      "title": "Anthropic explains how Claude’s invisible text watermarks will work",
-      "summary": "It’s using ‘a version’ of the open-source SynthID-Text system Google developed. It’s using ‘a version’ of the open-source SynthID-Text system Google developed. Anthropic has clarified how it’s planning to apply invisible watermarks to Claude-generated text in order to comply with Europe’s AI transparency rules. On Friday, Anthropic announced that Claude’s text marking system is “a version of the SynthID-Text approach” — an open-source watermarking technology developed by Google DeepMind that creates detectable patterns using wording probabilities. This watermarking feature, alongside C2PA support for Claude-processed images, is being introduced to meet Anthropic’s obligations under the European Union’s AI Act, which requires synthetic audio, image, video, and text to include machine-readable marks that enable the content to be detected as artificially generated or manipulated. Anthropic says the text watermarks won’t make Claude more expensive for users, or “have any practical impact on the quality or content of Claude’s outputs.” Here’s Anthropic’s explanation for how it works:",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-      "category": "Industry",
-      "date": "2026-08-17T10:57:13.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
     },
     {
       "id": "https://www.technologyreview.com/?p=1141568",
@@ -1618,17 +1646,6 @@
       "hot": false
     },
     {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-      "title": "OpenAI reportedly disbanded its preparedness team",
-      "summary": "OpenAI denied the report, saying research leaders report to head of safety Saachi Jain. OpenAI denied the report, saying research leaders report to head of safety Saachi Jain. According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hack another company.) OpenAI spokesperson Kayla Wood denied that claim, saying in a statement to The Verge that “We have not disbanded the Preparedness team.",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-      "category": "Industry",
-      "date": "2026-08-16T21:32:56.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
       "id": "http://feeds.fabbaloo.com/~/967902134/_/fabbaloo/default~Whos-The-Biggest-In-D-Printing-August",
       "title": "Who’s The Biggest In 3D Printing, August 16, 2026",
       "summary": "Once again we take a look at the valuations of the major 3D printing companies over the past week. The post Who’s The Biggest In 3D Printing, August 16, 2026 appeared on Fabbaloo.",
@@ -1692,17 +1709,6 @@
       "access": "paywalled"
     },
     {
-      "id": "http://feeds.fabbaloo.com/~/967868858/_/fabbaloo/default~Boustead-Singapore-Invests-in-Robotic-Urology-Diagnostics",
-      "title": "Boustead Singapore Invests in Robotic Urology Diagnostics",
-      "summary": "Charles Goulding and Ari Willick analyze how Boustead Singapore's acquisition of UroMedTech reflects the growing convergence of robotics, 3D printing, and precision healthcare in Singapore. The post Boustead Singapore Invests in Robotic Urology Diagnostics appeared on Fabbaloo.",
-      "source": "Fabbaloo",
-      "sourceUrl": "http://feeds.fabbaloo.com/~/967868858/_/fabbaloo/default~Boustead-Singapore-Invests-in-Robotic-Urology-Diagnostics",
-      "category": "Tech",
-      "date": "2026-08-15T12:14:00.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.feedburner.com"
-    },
-    {
       "id": "6a7f35587f588ccda7affc4f",
       "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
       "summary": "Twitch has updated its account settings to let streamers opt out of having their content used to help train the artificial intelligence models of Twitch’s parent company, Amazon. Although the move has reassured some creators, it remains unclear exactly when the streaming platform began using the posts, streams, and videos of its users to train Amazon’s systems. The revelation is raising new concerns about how big tech companies handle their users’ data. The opt-out process is simple. From the Twitch website or mobile app, click on your account avatar, select Settings, and then go to the Security and Privacy section in the menu. There, you’ll find the Generative AI Training option, where you can disable the use of your content for that purpose.",
@@ -1755,17 +1761,6 @@
       "date": "2026-08-14T17:26:53.000Z",
       "hot": false,
       "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://blogs.nvidia.com/?p=97549",
-      "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develo...",
-      "summary": "Indonesia is taking charge of its AI future. This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universitas Gadjah Mada (UGM) launched the UGM Indosat NVIDIA AI Technology Center (NVAITC) in Yogyakarta — the country’s first university-based AI technology center. Established under Indonesia’s AI Center of Excellence initiative, UGM Indosat NVAITC brings government, industry and academia together to develop AI that addresses Indonesia’s most urgent national priorities. “The Indonesia AI Center of Excellence reflects our long-term vision to position Indonesia as a nation that not only adopts AI but also develops and contributes AI innovations to the world,” said Meutya Hafid, Indonesia’s Minister of Communication and Digital Affairs. “Through initiatives like this, we are laying the foundations of Indonesia’s AI sovereignty and ensuring AI becomes a driver of economic growth, national competitiveness and solutions to Indonesia’s most pressing challenges.” “UGM is committed to supporting Indonesia’s AI ambitions through education, research, and innovation that deliver real societal impact,” said Prof. “This initiative supports national priorities in higher education, research downstreaming and talent development by accelerating the adoption of AI and preparing future-ready Indonesian talent.” Compute That Belongs to the Country Powered by NVIDIA’s full-stack AI platform and GPU Merdeka — Indosat’s sove...",
-      "source": "NVIDIA Blog",
-      "sourceUrl": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
-      "category": "Events",
-      "date": "2026-08-14T17:13:05.000Z",
-      "hot": false,
-      "officialUrl": "https://blogs.nvidia.com"
     }
   ]
 }
