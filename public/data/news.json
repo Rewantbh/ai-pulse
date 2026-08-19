@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2026-08-19T22:17:54.827Z",
+  "lastUpdated": "2026-08-19T22:49:42.743Z",
   "news": [
+    {
+      "id": "https://decrypt.co/?p=376030",
+      "title": "Bitcoin's Sharpest Rally in Five Months Flips Markets From Bearish to Coin Flip",
+      "summary": "Bitcoin's steepest daily gain since March caught traders off guard, and Myriad's pump-or-dump market swung from 70-30 odds to even in a day.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/376030/bitcoin-rally-flips-markets-bearish-coin-flip",
+      "category": "Tech",
+      "date": "2026-08-19T22:18:01.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
     {
       "id": "https://techcrunch.com/?p=3154506",
       "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
@@ -276,34 +287,6 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
-      "id": "https://techcrunch.com/?p=3154456",
-      "title": "Google packs Search and Gemini with new AI study tools",
-      "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
-      "category": "Business",
-      "date": "2026-08-19T19:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://www.engadget.com/2240161/google-is-offering-college-students-a-year-of-ai-pro-for-free/",
-      "title": "Google is offering college students a year of its AI Pro plan for free",
-      "summary": "Sure, this is likely an attempt to juice those Gemini usage numbers, but it also comes with 5TB of cloud storage. Google Google has a new promotion that gives students a full year of its AI Pro subscription for free. This typically costs $200 per year, or $20 a month, and the offer is available to eligible college students in the US. The company is also selling a heavily-discounted bundle that includes access to both AI Pro and YouTube Premium. So this could be a fairly easy way to get access to a decent music-streaming service on the cheap, as the whole thing costs $9 per month. There's one major caveat, which is the same for all promotions of this type.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2240161/google-is-offering-college-students-a-year-of-ai-pro-for-free/",
-      "category": "Tools",
-      "date": "2026-08-19T19:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com",
-      "relatedCoverage": [
-        {
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/08/19/students-free-year-google-ai-pro/"
-        }
-      ]
-    },
-    {
       "id": "https://www.digitaltrends.com/?p=5999458",
       "title": "Researchers expose a worryingly simple trick to make AI bots go rogue and skip safety",
       "summary": "If you ask an AI agent to hack an account, it will most certainly refuse, but researchers at EPFL just proved there is an easier way in, and it involves patience rather than technical skill. Their new study shows that breaking a harmful goal into small, harmless-sounding requests can trick AI agents into completing tasks they would normally reject outright (via TechXplore). It echoes the recent 'Bioshocking' exploit in which AI browsers were manipulated into treating credential theft as part of a harmless game. The team built an automated testing tool called STING, short for Sequential Testing of Illicit N-step Goal execution, designed to mimic how a real attacker would actually operate. Instead of stating a harmful goal directly, STING plans ahead and breaks that goal into a sequence of smaller, seemingly innocent steps that build toward it over multiple conversation turns. Helpful to a Fault: Measuring Illicit Assistance in Multi-Turn, Multilingual LLM Agents Source Researchers tested this approach across 176 harmful scenarios against leading AI models, including ChatGPT, Gemini, and Claude.",
@@ -522,17 +505,6 @@
       "date": "2026-08-19T16:00:00.000Z",
       "hot": false,
       "officialUrl": "https://www.engadget.com"
-    },
-    {
-      "id": "07kkAVmdvzitPyHYC3Alw32",
-      "title": "Amazons $400-off deal on the MacBook Pro with the M5 Pro chip erases Apples price hike (and then ...",
-      "summary": "19, the Apple MacBook Pro with the M5 Pro chip (18-core CPU and 20-core GPU), 24GB of RAM, and 2TB of storage is on sale for $2,799 at Amazon and Best Buy. That's 13% off its usual sticker price of $3,199. Opens in a new window Credit: Apple Apple MacBook Pro, 14-inch (M5 Pro with 18-core CPU and 20-core GPU, 24GB RAM, 2TB SSD) $2,799 at Amazon $3,199 Save $400 Get Deal Opens in a new window Credit: Apple Apple MacBook Pro, 14-inch (M5 Pro with 18-core CPU and 20-core GPU, 24GB RAM, 2TB SSD) $2,799 at Best Buy $3,199 Save $400 Deal of the Day (only available Aug. Get Deal Apple jacked up its MacBook prices this June amid RAMageddon, making it all the more crucial to shop smart and look for deals before you buy a new model. Lately, Amazon has been the place to go for those. Following some discounts on the M5 MacBook Air and MacBook Pro earlier this month, the retail giant is selling another MacBook Pro variant for $400 off this week.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/aug-19-apple-macbook-pro-m5-deal",
-      "category": "Tech",
-      "date": "2026-08-19T15:59:58.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
     },
     {
       "id": "https://www.techrepublic.com/?p=4370244",
@@ -821,6 +793,30 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
+      "id": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Google Offers College Students 1 Free Year of Gemini AI Pro With New Study Tools",
+      "summary": "We’re offering one year of a Google AI plan free of charge for eligible college students around the world — plus new and enhanced study tools — so students can make the most of this school year. Your browser does not support the audio element. Google is offering eligible students one year of free access to advanced AI plans to help you succeed this semester. Visit the new student hub at gemini.google.com/students to claim your offer and explore tools like study notebooks, interactive 3D visualizations, and deep research capabilities. Use these features to organize your syllabus, track deadlines, and create custom study plans tailored to your class materials. Google is giving eligible college students a free year of their advanced AI plans to help with schoolwork.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-19T00:00:00.000Z",
+      "hot": false,
+      "relatedCoverage": [
+        {
+          "source": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/"
+        },
+        {
+          "source": "Engadget AI",
+          "url": "https://www.engadget.com/2240161/google-is-offering-college-students-a-year-of-ai-pro-for-free/"
+        },
+        {
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/08/19/students-free-year-google-ai-pro/"
+        }
+      ]
+    },
+    {
       "id": "https://openai.com/index/our-commitment-to-zero-data-retention/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "OpenAI Previews Private Safety Processing to Expand Zero Data Retention for API Users",
       "summary": "Previewing Private Safety Processing, which strengthens safeguards across interactions while remaining compatible with ZDR. Loading…ShareWhy safety systems need to evolveWhy safety systems need to evolveHow Private Safety Processing worksPrivacy and safety built with and for our customersWhy safety systems need to evolveHow Private Safety Processing worksPrivacy and safety built with and for our customersZero Data Retention gives eligible API customers a clear promise: OpenAI does not retain their prompts or model responses after a request is processed. Customer content is not available to OpenAI personnel for review1, and enterprise customer data is not used to train our models unless customers explicitly opt-in. As models take on longer, more complex tasks, some serious risks may only become visible across multiple interactions. Existing ZDR-compatible safety systems evaluate each interaction individually. Today, we’re previewing Private Safety Processing, which is designed to identify patterns across related interactions without giving OpenAI personnel access to the underlying content.",
@@ -853,6 +849,10 @@
         {
           "source": "The Verge AI",
           "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app"
+        },
+        {
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/08/19/meta-ai-mac-app/"
         }
       ]
     },
@@ -898,17 +898,6 @@
       "date": "2026-08-18T22:49:58.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=375903",
-      "title": "Mozilla Tests an AI 'Smart Window' in Firefox—But Only If You Opt In",
-      "summary": "The optional window puts an assistant of your choice next to your tabs, with a switch to disable it.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/375903/mozilla-ai-smart-firefox-opt-in",
-      "category": "Tech",
-      "date": "2026-08-18T22:31:04.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
     },
     {
       "id": "108351105",
@@ -997,17 +986,6 @@
       "date": "2026-08-18T19:28:30.000Z",
       "hot": false,
       "officialUrl": "https://www.theverge.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/08/18/national-parks-activity-challenge-2026/",
-      "title": "National Parks Apple Watch Activity Challenge Launching August 23",
-      "summary": "Apple will launch its annual National Parks Apple Watch activity challenge on Sunday, August 23 to celebrate national parks across the United States. Apple Watch owners can earn an Apple Watch activity award by doing a hike, walk, run, or wheelchair push that lasts for 20 minutes or more on August 23, 2026. Earning this award is a walk in the park. Just record one of these workouts for 20 minutes or more on August 23. Like all of the Apple Watch activity challenges, earning the award will provide users with animated stickers that can be used in the Messages app. Along with a new Apple Watch challenge, Apple typically offers other national parks-themed content in August, including an Apple Pay donation program, Apple TV content, Apple Music songs, books, podcasts, and more.Related Roundup: Apple Watch 11Tag: Activity ChallengeBuyer's Guide: Apple Watch (Don't Buy)This article, \"National Parks Apple Watch Activity Challenge Launching August 23\" first appeared on MacRumors.comDiscuss this article in our forums",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/08/18/national-parks-activity-challenge-2026/",
-      "category": "Tech",
-      "date": "2026-08-18T19:09:16.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "6a848674f787031f677590ed",
