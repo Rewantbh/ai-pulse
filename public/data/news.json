@@ -1,9 +1,42 @@
 {
-  "lastUpdated": "2026-08-20T22:20:03.600Z",
+  "lastUpdated": "2026-08-20T22:53:42.288Z",
   "news": [
     {
+      "id": "https://techcrunch.com/?p=3155215",
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "category": "Business",
+      "date": "2026-08-20T22:36:37.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=376158",
+      "title": "Tensions Flare as CME, Kalshi Execs Clash Over Prediction Markets in DC",
+      "summary": "CME Group Chairman Terry Duffy and Kalshi co-founder Luana Lopes Lara traded barbs during a CFTC meeting over prediction markets.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/376158/tensions-flare-cme-kalshi-clash-prediction-markets-dc",
+      "category": "Tech",
+      "date": "2026-08-20T22:32:11.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://www.engadget.com/2241272/github-says-commits-have-doubled-in-the-last-four-months/",
+      "title": "GitHub says commits have doubled in the last four months",
+      "summary": "The new traffic peak caused \"capacity failures\" that led to the developer platform's recent outage. John Keeble/Getty Images Following its extended outage on Monday, GitHub says capacity issues — not a code or configuration change — led to several of its services being inaccessible for over seven hours. In the developer platform's own words, \"traffic reached a new peak, and a critical infrastructure component in our Central US data center failed to scale with it.\" The change in demand that caused the traffic spike is dramatic. \"Since April, monthly commits have grown from 1.4 billion to 2.9 billion,\" GitHub says. \"That growth explains the pressure on our systems, but it does not excuse these outages.\" That means the number of changes being made to projects hosted on the platform has more than doubled in the last four months, a huge uptick in usage that tracks with the growing amount of code that's been produced by AI.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2241272/github-says-commits-have-doubled-in-the-last-four-months/",
+      "category": "Tools",
+      "date": "2026-08-20T22:26:02.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
       "id": "https://techcrunch.com/?p=3155224",
-      "title": "ChatGPT can now send texts for you with new Apple Messages plugin",
+      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
       "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
@@ -44,17 +77,6 @@
       "date": "2026-08-20T21:50:50.000Z",
       "hot": false,
       "officialUrl": "https://www.engadget.com"
-    },
-    {
-      "id": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-      "title": "Google Discover is getting an AI chatbot-tuned feed",
-      "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits. You'll find the option within the three-dot menu on your Discover feed. As shown in a video shared by Google, tapping the feature will open a chatbot-style interface, where you'll be able to describe your preferences. The chatbot will confirm your choices and lay out the types of content it will prioritize, but you'll also have the option to add more information if it doesn't get it qu …",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-      "category": "Industry",
-      "date": "2026-08-20T21:50:22.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
     },
     {
       "id": "https://www.investing.com/news/stock-market-news/standard-aero-wins-62m-navy-engine-repair-contract-93CH-4870588",
@@ -804,6 +826,16 @@
       "officialUrl": "https://aiweekly.co"
     },
     {
+      "id": "https://x.com/OpenAIDevs/status/2090536933571330440?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "OpenAI's GPT-Image-2 API Now Supports Transparent Background Generation in Preview",
+      "summary": "Transparent backgrounds are now available in preview for GPT-Image-2 in the API. Generate reusable assets you can place on any background—for product imagery, graphic design, website mockups, and marketing campaigns.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://x.com/OpenAIDevs/status/2090536933571330440?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-20T00:00:00.000Z",
+      "hot": false
+    },
+    {
       "id": "https://claude.com/blog/computer-use-skills-api-files-api?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Anthropic Launches Claude Computer Use, Skills API & Files API for Production Agents",
       "summary": "Computer use, the Skills API, and the Files API are generally available on the Claude Platform today. Computer use also adds a new browser use tool for agents that work in web applications. Together they let you build agents that operate software, apply your team's expertise, and return finished files.",
@@ -829,6 +861,16 @@
       "summary": "Sakana AIは本日、翻訳サービス「Sakana Translate」の翻訳モデルをアップデートしました。先日APIおよびSakana Chatで提供開始した新世代のSakana Namazuを搭載したことにより、日本語・英語・中国語の双方向翻訳という提供範囲は変わらず、訳文の自然さが向上しました。引き続き、どなたでも無料でお使いいただけます。 👉Sakana Translateを試す： https://translate.sakana.ai/ Sakana Namazuは、日本語と、その背景にある文化や文脈の理解を重視して開発してきたモデルシリーズです。今回のアップデートでは、ベースモデルの刷新と学習手法の改善により、Sakana Translateが掲げる「日本語を、深く翻訳する」というコンセプトをさらに深化させました。例えば、下記の日英翻訳の例では、「お宮参り」という日本独特の文化背景をもつ表現に対して、Sakana Translateはその意味を汲み取り、他社モデルと比べても自然な英語に翻訳できています。 Sakana Translateの翻訳品質を定量的に評価するために、Sakana AIが開発した「TransEvalnia」を用いた評価を実施しました。TransEvalniaは、訳語の適切さや自然さなど複数の観点からどの翻訳文が優れているかを判定できる手法です。 今回は、独自に用意した日英翻訳タスク（160件）について、Sakana Translateと他社の翻訳モデルと1対1で比較しました。下図に示す通り、すべての比較対象との比較において、Sakana Translateの出力がより優れていると判定された割合は50%を上回りました。 日本特有の表現や文化的背景を含む文章では、モデルの規模が大きく、汎用的な性能が高いほど良い翻訳になるとは限りません。訳文の質を左右するのは、日本語の文脈と、その背景にある文化への理解の深さです。今回の結果は、私たちが開発した事後学習手法によって日本語の文化的・言語的なニュアンスを捉える能力を高めることが、翻訳品質の向上に有効であることを示唆しています。",
       "source": "FutureTools News",
       "sourceUrl": "https://sakana.ai/translate-update/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-20T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://x.com/ChatGPT/status/2090499359641329950?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "ChatGPT Launches Apple Messages Plugin for Mac, Enabling AI-Powered Messaging",
+      "summary": "Everyday conversations just got easier with the new Apple Messages plugin. Search messages, catch up on conversations, draft and send replies—all with ChatGPT on your Mac. Now available in ChatGPT Work and Codex on desktop.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://x.com/ChatGPT/status/2090499359641329950?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-08-20T00:00:00.000Z",
       "hot": false
@@ -874,21 +916,21 @@
       "hot": false
     },
     {
-      "id": "https://www.salesforce.com/introducing-slack-code/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Salesforce Launches Slack Code for AI-Powered Team Collaboration on Coding",
-      "summary": "AI coding is now a team sport. Introducing Slack Code, where teams and AI agents write, review, and ship code together in the open in a dedicated code channel.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://www.salesforce.com/introducing-slack-code/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-08-20T00:00:00.000Z",
-      "hot": false
-    },
-    {
       "id": "https://blog.google/products/ads-commerce/ai-max-testing-planning-tools/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Google Ads AI Max Gains A/B Testing & Performance Planner Tools for Search Campaigns",
       "summary": "Director of Product Management, Search Ads Building on the one-click experiments in AI Max, we’re now introducing a way for you to test different budgets and ROI targets across multiple Search campaigns in a single A/B test. Rolling out in September, this will help you see exactly how scaling up your campaigns impacts your bottom line. If you rely on specific brand or location controls, A/B testing just got simpler. New capabilities in AI Max experiments now let you run tests with these settings enabled, so you can confidently test the impact of AI Max without compromising those guardrails. Performance Planner now allows you to see how changes, like bidding or budget targets, may impact your existing campaign performance.",
       "source": "FutureTools News",
       "sourceUrl": "https://blog.google/products/ads-commerce/ai-max-testing-planning-tools/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-20T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://www.salesforce.com/introducing-slack-code/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Salesforce Launches Slack Code for AI-Powered Team Collaboration on Coding",
+      "summary": "AI coding is now a team sport. Introducing Slack Code, where teams and AI agents write, review, and ship code together in the open in a dedicated code channel.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.salesforce.com/introducing-slack-code/?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-08-20T00:00:00.000Z",
       "hot": false
@@ -944,17 +986,6 @@
       "sourceUrl": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
       "category": "Business",
       "date": "2026-08-19T22:10:46.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3154652",
-      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-      "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
-      "category": "Business",
-      "date": "2026-08-19T21:51:23.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
     },
@@ -1022,17 +1053,6 @@
       "date": "2026-08-19T20:01:53.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=376006",
-      "title": "Trump Calls on Congress to Pass 'Fair Version' of Clarity Act at White House Crypto Meeting",
-      "summary": "Trump touted his admin’s crypto policies and said regulators are working to bring Hyperliquid into the U.S. under a compliant framework.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/376006/trump-pass-fair-version-clarity-white-house-crypto-meeting",
-      "category": "Tech",
-      "date": "2026-08-19T19:56:45.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
     },
     {
       "id": "https://www.techrepublic.com/article/news-round-hill-suno-anthropic-ai-copyright-lawsuits/",
@@ -1348,6 +1368,16 @@
       "hot": false
     },
     {
+      "id": "https://x.ai/news/grok-4-6-amazon-bedrock?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Grok 4.6 Now Available on Amazon Bedrock with 500K Context Window",
+      "summary": "Today, we’re announced that Grok 4.6 is now generally available on Amazon Bedrock. Grok 4.6 is our latest flagship model, built for long-running agents and ambitious interactive and visual work. It offers 500k context window and configurable reasoning efforts (low, medium, high, xhigh). Now, Amazon Bedrock users can leverage the model through Amazon Bedrock. For more on the model, read the Grok 4.6 announcement. Grok 4.6 is now available to all developers in supported AWS Regions.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://x.ai/news/grok-4-6-amazon-bedrock?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-19T00:00:00.000Z",
+      "hot": false
+    },
+    {
       "id": "https://www.theverge.com/tech/982270/meta-ai-mac-app?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Meta AI Launches Mac App With Screen Sharing and Google Workspace Integration",
       "summary": "You can share your window with the new Meta AI app, as well as connect it to Google Workspace. You can share your window with the new Meta AI app, as well as connect it to Google Workspace. Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content based on what’s on your screen. Meta AI on the Mac also supports dictation across all apps. The launch comes as Meta makes its AI chatbot more like a productivity-focused assistant to better compete with its AI rivals — many of which already have desktop apps.",
@@ -1362,16 +1392,6 @@
           "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app"
         }
       ]
-    },
-    {
-      "id": "https://x.ai/news/grok-4-6-amazon-bedrock?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Grok 4.6 Now Available on Amazon Bedrock with 500K Context Window",
-      "summary": "Today, we’re announced that Grok 4.6 is now generally available on Amazon Bedrock. Grok 4.6 is our latest flagship model, built for long-running agents and ambitious interactive and visual work. It offers 500k context window and configurable reasoning efforts (low, medium, high, xhigh). Now, Amazon Bedrock users can leverage the model through Amazon Bedrock. For more on the model, read the Grok 4.6 announcement. Grok 4.6 is now available to all developers in supported AWS Regions.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://x.ai/news/grok-4-6-amazon-bedrock?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-08-19T00:00:00.000Z",
-      "hot": false
     },
     {
       "id": "https://generalistai.com/blog/gen-1.5?utm_source=futuretools.io&utm_medium=newspage",
@@ -1422,17 +1442,6 @@
       "category": "Curation",
       "date": "2026-08-19T00:00:00.000Z",
       "hot": false
-    },
-    {
-      "id": "108351105",
-      "title": "Jim Cramer says the market is too negative — and that’s creating buying opportunities",
-      "summary": "CNBC’s Jim Cramer said widespread pessimism over rising rates, oil prices and inflation is pushing stocks lower and creating attractive buying opportunities.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/08/18/jim-cramer-market-too-negative-buying-opportunities.html",
-      "category": "Business",
-      "date": "2026-08-18T22:23:36.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "https://openai.com/index/chatgpt-ads-expands-across-europe",
@@ -1576,6 +1585,17 @@
       "date": "2026-08-18T13:00:04.000Z",
       "hot": false,
       "officialUrl": "https://arstechnica.com"
+    },
+    {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+      "title": "Firefox’s Smart Window promises a better AI browser",
+      "summary": "Mozilla says its AI browser feature is user-first and privacy-focused, without taking over your browser. Mozilla says its AI browser feature is user-first and privacy-focused, without taking over your browser. Starting today, AI chats in Firefox’s Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest tab groups and show visual previews of pages you previously visited when you search your browsing history using natural language. I saw a live demo that showed how the Smart Window AI could sort through selected links in your browsing history to pull up “running shoes I looked at last week,” and pop up images pulled from the sites browsed previously. The suggested groups of tabs can also find and close duplicates, making it easier to keep track of what’s important.",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+      "category": "Industry",
+      "date": "2026-08-18T13:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
     },
     {
       "id": "http://feeds.fabbaloo.com/~/967969286/_/fabbaloo/default~Digital-Biology-and-D-Printing",
