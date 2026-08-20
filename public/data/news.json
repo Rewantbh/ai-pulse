@@ -1,6 +1,39 @@
 {
-  "lastUpdated": "2026-08-20T22:53:42.288Z",
+  "lastUpdated": "2026-08-20T23:19:37.228Z",
   "news": [
+    {
+      "id": "https://www.macrumors.com/2026/08/20/chatgpt-imessages-mac/",
+      "title": "ChatGPT Can Now Read and Send iMessages on Mac",
+      "summary": "OpenAI today said there's a new Apple Messages plugin for ChatGPT, allowing ChatGPT on Mac to search messages, draft messages, analyze conversations, and send replies to people. The Apple Messages plugin can be installed from the ChatGPT Plugins interface, and it is listed under Public. OpenAI suggests users try these prompts: Check my calendar and reply to [name] with a few times I'm free for dinner next week Suggest follow ups from yesterday in messages Find birthdays in @messages and add them to my calendar Find potential spam messages I can delete ChatGPT can access iMessages, SMS messages, and RCS messages. Sending a message requires user approval by default, and OpenAI warns against granting persistent approval. For the Messages integration to work, ChatGPT needs Full Disk Access in System Settings, as well as access to contact names and automation tools. Apple's involvement in the plugin's development is unknown, but it uses AppleScript and Accessibility settings to function on a Mac.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/08/20/chatgpt-imessages-mac/",
+      "category": "Tech",
+      "date": "2026-08-20T23:12:55.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/exgoogle-engineers-conviction-for-stealing-ai-secrets-partially-overturned-4870621",
+      "title": "Ex-Google engineer’s conviction for stealing AI secrets partially overturned",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/exgoogle-engineers-conviction-for-stealing-ai-secrets-partially-overturned-4870621",
+      "category": "Business",
+      "date": "2026-08-20T23:07:27.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "108352242",
+      "title": "Micron CEO: AI has 'totally changed' the equation for the boom-and-bust memory industry",
+      "summary": "Micron CEO Sanjay Mehrotra said on Thursday that AI has dramatically changed the memory business.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/08/20/micron-ceo-ai-changed-memory-industry.html",
+      "category": "Business",
+      "date": "2026-08-20T22:51:36.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
     {
       "id": "https://techcrunch.com/?p=3155215",
       "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
@@ -422,7 +455,7 @@
     {
       "id": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
       "title": "It’s Greg Brockman’s OpenAI now",
-      "summary": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives have departed, including some of the company's biggest names. Throughout it all, one person has quietly amassed power: Greg Brockman. Brockman is currently OpenAI's president and cofounder. He's helped lead OpenAI since its inception, described as an \"engineering workhorse that pushed to build scaled-up systems that wou …",
+      "summary": "OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives have departed, including some of the company's biggest names. Throughout it all, one person has quietly amassed power: Greg Brockman. Brockman is currently OpenAI's president and co-founder. He's helped lead OpenAI since its inception, described as an \"engineering workhorse that pushed to build scaled-up systems that w …",
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
       "category": "Industry",
@@ -916,21 +949,21 @@
       "hot": false
     },
     {
-      "id": "https://blog.google/products/ads-commerce/ai-max-testing-planning-tools/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Google Ads AI Max Gains A/B Testing & Performance Planner Tools for Search Campaigns",
-      "summary": "Director of Product Management, Search Ads Building on the one-click experiments in AI Max, we’re now introducing a way for you to test different budgets and ROI targets across multiple Search campaigns in a single A/B test. Rolling out in September, this will help you see exactly how scaling up your campaigns impacts your bottom line. If you rely on specific brand or location controls, A/B testing just got simpler. New capabilities in AI Max experiments now let you run tests with these settings enabled, so you can confidently test the impact of AI Max without compromising those guardrails. Performance Planner now allows you to see how changes, like bidding or budget targets, may impact your existing campaign performance.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://blog.google/products/ads-commerce/ai-max-testing-planning-tools/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-08-20T00:00:00.000Z",
-      "hot": false
-    },
-    {
       "id": "https://www.salesforce.com/introducing-slack-code/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Salesforce Launches Slack Code for AI-Powered Team Collaboration on Coding",
       "summary": "AI coding is now a team sport. Introducing Slack Code, where teams and AI agents write, review, and ship code together in the open in a dedicated code channel.",
       "source": "FutureTools News",
       "sourceUrl": "https://www.salesforce.com/introducing-slack-code/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-20T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://blog.google/products/ads-commerce/ai-max-testing-planning-tools/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Google Ads AI Max Gains A/B Testing & Performance Planner Tools for Search Campaigns",
+      "summary": "Director of Product Management, Search Ads Building on the one-click experiments in AI Max, we’re now introducing a way for you to test different budgets and ROI targets across multiple Search campaigns in a single A/B test. Rolling out in September, this will help you see exactly how scaling up your campaigns impacts your bottom line. If you rely on specific brand or location controls, A/B testing just got simpler. New capabilities in AI Max experiments now let you run tests with these settings enabled, so you can confidently test the impact of AI Max without compromising those guardrails. Performance Planner now allows you to see how changes, like bidding or budget targets, may impact your existing campaign performance.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://blog.google/products/ads-commerce/ai-max-testing-planning-tools/?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-08-20T00:00:00.000Z",
       "hot": false
@@ -944,17 +977,6 @@
       "category": "Curation",
       "date": "2026-08-20T00:00:00.000Z",
       "hot": false
-    },
-    {
-      "id": "https://www.macrumors.com/2026/08/19/airpods-with-cameras-2027-launch/",
-      "title": "Apple's Camera AirPods Not Launching Until 2027 Despite Leaked Video",
-      "summary": "Apple's camera-equipped AirPods will not launch until 2027 despite the demo video MacRumors found earlier this week, reports Bloomberg's Mark Gurman. On Monday, MacRumors shared a demo video featuring the camera-equipped AirPods in action. The video was hidden in the macOS Tahoe 26.7 release candidate, suggesting Apple was preparing for a launch. That's apparently not the case, and people familiar with the product told Gurman the AirPods with cameras aren't going to launch anytime soon. The AirPods are not on Apple's 2026 release schedule because the company is still working to resolve supply chain and software challenges. Gurman's own reporting on the camera AirPods timing has been confusing.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/08/19/airpods-with-cameras-2027-launch/",
-      "category": "Tech",
-      "date": "2026-08-19T23:42:46.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "https://techcrunch.com/?p=3154600",
@@ -1295,17 +1317,6 @@
       "date": "2026-08-19T07:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "108350969",
-      "title": "California AG Bonta says case against Meta is about 'restitution and distortion,' not damages",
-      "summary": "Following opening arguments in the case against Meta, California Attorney General Bonta said the trial is not about extracting a massive payout.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/08/18/meta-attorneys-general-opening-arguments-california-bonta-restitution.html",
-      "category": "Business",
-      "date": "2026-08-19T01:34:22.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "https://www.perplexity.ai/hub/blog/brain-agentic-memory-as-a-knowledge-wiki?utm_source=futuretools.io&utm_medium=newspage",
@@ -1778,16 +1789,6 @@
       "hot": false
     },
     {
-      "id": "https://blog.google/products-and-platforms/products/chrome/gemini-in-chrome-android-auto-browse/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Gemini in Chrome Now Available to All U.S. Android Users With Auto Browse Feature",
-      "summary": "Gemini in Chrome, your browsing assistant, is now available to all Android users in the U.S., making it easier than ever to explore the web on your phone. Gemini in Chrome summarizes long articles, answers questions about web pages, and connects with your favorite Google apps — including Calendar and Keep — without making you switch between tabs. It even lets you customize and generate images on the go with Nano Banana. These features are built to be secure by design, and our models are trained to detect known threats, such as prompt injection. And for added control, auto browse is designed to ask for confirmation before completing some sensitive tasks. You can access Gemini in Chrome by tapping the Gemini icon or the three-dot menu on the top bar of your Android device.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://blog.google/products-and-platforms/products/chrome/gemini-in-chrome-android-auto-browse/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-08-18T00:00:00.000Z",
-      "hot": false
-    },
-    {
       "id": "https://openai.com/index/strengthening-democratic-oversight-in-national-security/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "OpenAI Launches $5M Initiative to Boost Democratic Oversight of AI in National Security",
       "summary": "OpenAI is launching a new initiative to help democratic oversight bodies develop the expertise and tools they need to understand and oversee government use of AI for national security. Loading…ShareEnsuring oversight keeps pace with AI adoptionEnsuring oversight keeps pace with AI adoptionWhat OpenAI will doThe choice in front of usEnsuring oversight keeps pace with AI adoptionWhat OpenAI will doThe choice in front of usAI is changing how democratic governments protect their people. It can help stop cyberattacks, secure critical infrastructure, detect threats earlier, and give public servants a clearer picture in a crisis. Used well, these tools can strengthen national security. Democratic oversight helps ensure that uses of public power remain accountable to the people they serve. As AI makes national security work faster and more capable, the institutions responsible for overseeing that work also need to keep pace.",
@@ -1802,6 +1803,16 @@
           "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security"
         }
       ]
+    },
+    {
+      "id": "https://blog.google/products-and-platforms/products/chrome/gemini-in-chrome-android-auto-browse/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Gemini in Chrome Now Available to All U.S. Android Users With Auto Browse Feature",
+      "summary": "Gemini in Chrome, your browsing assistant, is now available to all Android users in the U.S., making it easier than ever to explore the web on your phone. Gemini in Chrome summarizes long articles, answers questions about web pages, and connects with your favorite Google apps — including Calendar and Keep — without making you switch between tabs. It even lets you customize and generate images on the go with Nano Banana. These features are built to be secure by design, and our models are trained to detect known threats, such as prompt injection. And for added control, auto browse is designed to ask for confirmation before completing some sensitive tasks. You can access Gemini in Chrome by tapping the Gemini icon or the three-dot menu on the top bar of your Android device.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://blog.google/products-and-platforms/products/chrome/gemini-in-chrome-android-auto-browse/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-18T00:00:00.000Z",
+      "hot": false
     },
     {
       "id": "https://www.perplexity.ai/hub/blog/computer-now-works-in-email?utm_source=futuretools.io&utm_medium=newspage",
