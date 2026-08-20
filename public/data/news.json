@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2026-08-19T23:45:18.343Z",
+  "lastUpdated": "2026-08-20T00:49:35.591Z",
   "news": [
+    {
+      "id": "https://www.macrumors.com/2026/08/19/ec-epic-apple-app-store-changes/",
+      "title": "EU Welcomes Apple's App Store Changes, Epic Slams 'Junk Fees'",
+      "summary": "Apple yesterday updated its App Store fees in the EU to comply with the Digital Markets Act and to put an end to its ongoing conflict with the European Commission. Apple cut the Core Technology Fee and simplified its pricing structure, so apps distributed through alternative marketplaces or through the web will pay less than before. When announcing the changes, Apple said it worked in \"close collaboration\" with the EC, and that the updates would \"resolve Apple's disagreements with the Commission over business terms and alternative distribution.\" The European Commission has since confirmed that it approves of Apple's changes to its App Store policies, giving a statement to the Irish Independent: The Commission welcomes Apple's changes to their business terms, which follow a close dialogue between the Commission and Apple after the Commission issued a non-compliance decision related to Apple's steering terms as well as preliminary findings related to alternative app distribution, both in April 2025. Following today's announcement, the Commission will monitor Apple's effective implementation of the new terms. Under the DMA, users in the EU have a right to full and effective choice of alternative app distribution channels. The EC says it will continue to monitor how Apple implements the new terms, which will go into effect on October 1.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/08/19/ec-epic-apple-app-store-changes/",
+      "category": "Tech",
+      "date": "2026-08-20T00:16:25.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/robotaxi-stock-roundup-baidu-uber-alphabet-and-the-pureplay-bets-93CH-4868454",
+      "title": "Robotaxi stock roundup: Baidu, Uber, Alphabet and the pure-play bets",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/robotaxi-stock-roundup-baidu-uber-alphabet-and-the-pureplay-bets-93CH-4868454",
+      "category": "Business",
+      "date": "2026-08-19T23:45:17.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
     {
       "id": "https://www.digitaltrends.com/?p=5999588",
       "title": "You’ll have to wait until 2027 for those leaked AirPods with built-in cameras",
@@ -11,6 +33,17 @@
       "date": "2026-08-19T23:43:35.000Z",
       "hot": false,
       "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/08/19/airpods-with-cameras-2027-launch/",
+      "title": "Apple's Camera AirPods Not Launching Until 2027 Despite Leaked Video",
+      "summary": "Apple's camera-equipped AirPods will not launch until 2027 despite the demo video MacRumors found earlier this week, reports Bloomberg's Mark Gurman. On Monday, MacRumors shared a demo video featuring the camera-equipped AirPods in action. The video was hidden in the macOS Tahoe 26.7 release candidate, suggesting Apple was preparing for a launch. That's apparently not the case, and people familiar with the product told Gurman the AirPods with cameras aren't going to launch anytime soon. The AirPods are not on Apple's 2026 release schedule because the company is still working to resolve supply chain and software challenges. Gurman's own reporting on the camera AirPods timing has been confusing.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/08/19/airpods-with-cameras-2027-launch/",
+      "category": "Tech",
+      "date": "2026-08-19T23:42:46.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "https://techcrunch.com/?p=3154600",
@@ -99,17 +132,6 @@
       "date": "2026-08-19T21:51:23.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/why-is-ultragenyx-stock-surging-today-93CH-4868356",
-      "title": "Why is Ultragenyx stock surging today?",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/why-is-ultragenyx-stock-surging-today-93CH-4868356",
-      "category": "Business",
-      "date": "2026-08-19T21:39:14.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
     },
     {
       "id": "https://decrypt.co/?p=376026",
@@ -320,6 +342,17 @@
       "officialUrl": "https://blog.google"
     },
     {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+      "title": "Google Gemini is getting a dedicated student hub",
+      "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for graphs and images. It can even add test dates and deadlines to your Google Calendar based on your syllabus. Google is also adding Deep Research to Gemini Live. You can ask Gemini to generate complicated research reports and talk through the results.",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+      "category": "Industry",
+      "date": "2026-08-19T19:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
       "id": "https://www.digitaltrends.com/?p=5999458",
       "title": "Researchers expose a worryingly simple trick to make AI bots go rogue and skip safety",
       "summary": "If you ask an AI agent to hack an account, it will most certainly refuse, but researchers at EPFL just proved there is an easier way in, and it involves patience rather than technical skill. Their new study shows that breaking a harmful goal into small, harmless-sounding requests can trick AI agents into completing tasks they would normally reject outright (via TechXplore). It echoes the recent 'Bioshocking' exploit in which AI browsers were manipulated into treating credential theft as part of a harmless game. The team built an automated testing tool called STING, short for Sequential Testing of Illicit N-step Goal execution, designed to mimic how a real attacker would actually operate. Instead of stating a harmful goal directly, STING plans ahead and breaks that goal into a sequence of smaller, seemingly innocent steps that build toward it over multiple conversation turns. Helpful to a Fault: Measuring Illicit Assistance in Multi-Turn, Multilingual LLM Agents Source Researchers tested this approach across 176 harmful scenarios against leading AI models, including ChatGPT, Gemini, and Claude.",
@@ -406,6 +439,17 @@
       "date": "2026-08-19T17:10:45.000Z",
       "hot": false,
       "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+      "title": "OpenAI hit the brakes. Now what?",
+      "summary": "AI safety still depends largely on the industry policing itself. AI safety still depends largely on the industry policing itself. With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had slowed the pace of some AI development while it tightened security and safeguards. That included a two-week pause in reinforcement learning training on its “latest models intended for deployment,” and an ongoing delay to its “largest planned frontier RL run.”",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+      "category": "Industry",
+      "date": "2026-08-19T17:10:09.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
     },
     {
       "id": "04exCbQ8Dte5QPzY8FRLx7c",
@@ -516,6 +560,17 @@
       "date": "2026-08-19T16:02:19.000Z",
       "hot": false,
       "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/?p=4370244",
+      "title": "Build Practical AI Skills for $20 With This Claude and ChatGPT Bundle",
+      "summary": "Six courses teach practical AI workflows for planning, scheduling, risk management, documentation, and team communication.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/claude-chatgpt-project-management-bundle/",
+      "category": "Business",
+      "date": "2026-08-19T15:58:04.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "https://www.digitaltrends.com/?p=5999400",
@@ -825,6 +880,10 @@
       "hot": false,
       "relatedCoverage": [
         {
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app"
+        },
+        {
           "source": "MacRumors",
           "url": "https://www.macrumors.com/2026/08/19/meta-ai-mac-app/"
         }
@@ -905,17 +964,6 @@
       "date": "2026-08-18T22:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/08/18/icloud-photos-find-my-service-issues/",
-      "title": "iCloud, Photos, Find My and More Experiencing Issues",
-      "summary": "Several iCloud services are experiencing issues, according to Apple's system status page. Find My, Game Center, Photos, &zwnj;iCloud&zwnj; Calendar, &zwnj;iCloud&zwnj; Mail, &zwnj;iCloud&zwnj; Contacts, &zwnj;iCloud&zwnj; Web Apps, and iWork for &zwnj;iCloud&zwnj; are all experiencing service interruptions. Apple says only some users may run into problems. The issue started at 3:33 p.m. Eastern Time and is ongoing.Tags: Find My, PhotosThis article, \"iCloud, Photos, Find My and More Experiencing Issues\" first appeared on MacRumors.comDiscuss this article in our forums",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/08/18/icloud-photos-find-my-service-issues/",
-      "category": "Tech",
-      "date": "2026-08-18T20:56:35.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "https://www.techrepublic.com/article/news-nvidia-sb-energy-openai-ohio-data-center/",
@@ -1235,23 +1283,6 @@
       "date": "2026-08-18T10:06:43.000Z",
       "hot": false,
       "officialUrl": "https://www.technologyreview.com"
-    },
-    {
-      "id": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
-      "title": "Apple’s camera-equipped AirPods appear in leaked video",
-      "summary": "The AirPods in the video look like a chunkier version of Apple’s AirPods Pro 3. | Image: Apple / MacRumors We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is wearing the new AirPods - holding up a book with the cover displayed, so that Visual Intelligence can see the book title. A Siri voice-over plays over the clip, saying \"with Visual Intelligence, your world becomes savable. Just ask me to save it for later.\" Bloomberg's Mark Gurman has previously reported that the rumored AirPods with cameras are designed to take in \"visual information in low resolution\" and act as eyes …",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
-      "category": "Industry",
-      "date": "2026-08-18T09:00:01.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com",
-      "relatedCoverage": [
-        {
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/08/19/airpods-with-cameras-2027-launch/"
-        }
-      ]
     },
     {
       "id": "6a832c872b72af022841792b",
@@ -1594,17 +1625,6 @@
       "officialUrl": "https://www.techrepublic.com"
     },
     {
-      "id": "https://www.techrepublic.com/article/news-data-center-johor-apac-malaysia/",
-      "title": "Malaysia Data Center Growth Surges as Johor Capacity Tightens",
-      "summary": "Johor’s data center pipeline has reached 8,542 MW, but a 0.7% colocation vacancy rate, grid constraints, and water demand mean regional IT buyers need to separate announced capacity from infrastructure they can actually deploy.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-data-center-johor-apac-malaysia/",
-      "category": "Business",
-      "date": "2026-08-17T12:37:29.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
       "id": "https://blogs.nvidia.com/?p=97752",
       "title": "Securing the Infrastructure of Intelligence",
       "summary": "AI factories are the defining infrastructure of the AI era — where compute transforms energy and data into intelligence that powers every business, industry and country. In the AI economy, compute is revenue. AI factories require a full stack of critical resources: advanced chips, packaging, memory and networking — as well as land, power and shell. Just as NVIDIA has used its scale, long-term visibility and supply-chain partnerships to secure critical semiconductor resources, NVIDIA is now applying that same discipline to secure LPS capacity exclusively for NVIDIA AI factories. Today, NVIDIA is partnering with SB Energy to secure LPS capacity at the exceptional PORTS-Pike Technology Campus in Portsmouth, Ohio, to host NVIDIA compute. OpenAI will be the tenant.",
@@ -1614,28 +1634,6 @@
       "date": "2026-08-17T12:34:51.000Z",
       "hot": false,
       "officialUrl": "https://blogs.nvidia.com"
-    },
-    {
-      "id": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
-      "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
-      "summary": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights into your kitty's litter box usage that could flag health issues? But I have two feline friends… No worries, kitty facial recognition can handle that. At least, that is the idea behind the Litter-Robot 5 Pro, the highest-end model from the OG robotic pooper scooper company Whisker. Boasting a dual camera system and an array of sensors to literally sniff out your cat's deposits, all wrapped up with AI algorithms and machine learning, …",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
-      "category": "Industry",
-      "date": "2026-08-17T11:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-      "title": "Anthropic explains how Claude’s invisible text watermarks will work",
-      "summary": "It’s using ‘a version’ of the open-source SynthID-Text system Google developed. It’s using ‘a version’ of the open-source SynthID-Text system Google developed. Anthropic has clarified how it’s planning to apply invisible watermarks to Claude-generated text in order to comply with Europe’s AI transparency rules. On Friday, Anthropic announced that Claude’s text marking system is “a version of the SynthID-Text approach” — an open-source watermarking technology developed by Google DeepMind that creates detectable patterns using wording probabilities. This watermarking feature, alongside C2PA support for Claude-processed images, is being introduced to meet Anthropic’s obligations under the European Union’s AI Act, which requires synthetic audio, image, video, and text to include machine-readable marks that enable the content to be detected as artificially generated or manipulated. Anthropic says the text watermarks won’t make Claude more expensive for users, or “have any practical impact on the quality or content of Claude’s outputs.” Here’s Anthropic’s explanation for how it works:",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-      "category": "Industry",
-      "date": "2026-08-17T10:57:13.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
     },
     {
       "id": "https://www.technologyreview.com/?p=1141568",
@@ -1827,27 +1825,6 @@
       "date": "2026-08-15T09:00:00.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "https://x.com/DarioAmodei/status/2088758816376807762?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Anthropic CEO Amodei Defends AI Regulation Stance, Vows Real-World Medical Breakthroughs",
-      "summary": "1/2 Thanks Gavin for an especially thoughtful exchange. I don't usually spend much time on social media but I wanted to engage here because it really brings out the heart of an important conversation. First, on regulation, I think that “either concentrate it in the hands of a",
-      "source": "FutureTools News",
-      "sourceUrl": "https://x.com/DarioAmodei/status/2088758816376807762?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-08-15T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Alibaba's Qwen AI Models Surpass 3B Downloads, Topping Meta and Google",
-      "summary": "Alibaba's Qwen family of AI models has surpassed 3 billion global downloads in the past six months, overtaking Meta Platforms and Alphabet's Google to become the world's top open-weight AI model, according to a Hugging Face report published August 14. Google recorded 418 million downloads while Meta reached 227 million in 2026. Qwen has open-sourced over 460 models and spawned more than 300,000 derivatives, cementing Alibaba as a foundational pillar of the open AI ecosystem amid intensifying US-China AI competition.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-08-15T00:00:00.000Z",
-      "hot": false,
-      "access": "paywalled"
     }
   ]
 }
