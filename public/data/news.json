@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2026-08-22T21:17:02.637Z",
+  "lastUpdated": "2026-08-22T21:45:14.269Z",
   "news": [
+    {
+      "id": "https://www.engadget.com/2240138/if-waymo-cars-are-level-4-automation-what-is-level-5/",
+      "title": "If Waymo cars are Level 4 automation, what does it take to be a Level 5?",
+      "summary": "It's less about an autonomous vehicle's capabilities and more about what conditions it can operate in. Karolis Kavolelis/Shutterstock Seeing a car move through city traffic with no one in the driver's seat can make it feel like Waymo has already reached the highest possible level of automation. From a passenger's perspective, there's no steering, no monitoring and no need for a human to intervene. The vehicle handles the entire trip on its own. But under SAE's (Society of Automotive Engineers) driving automation framework, that capability is still Level 4 rather than the highest: Level 5. The key distinction isn't how \"independent\" the driving looks in practice, but where that independence is allowed to exist.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2240138/if-waymo-cars-are-level-4-automation-what-is-level-5/",
+      "category": "Tools",
+      "date": "2026-08-22T21:30:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
     {
       "id": "https://www.digitaltrends.com/?p=6000321",
       "title": "AMD’s next-gen Medusa APUs are getting ready for launch, and Linux just spilled the beans",
@@ -1252,17 +1263,6 @@
       "officialUrl": "https://openai.com"
     },
     {
-      "id": "https://aiweekly.co/issues/what-ai-models-are-actually-coming-in-the-next-six-months",
-      "title": "AI Weekly Issue #524: What AI models are actually coming in the next six months?",
-      "summary": "If you use AI at work, the tools you rely on could change again before February. OpenAI, Google, Meta, Anthropic, several Chinese labs, and a group of world-model startups are all preparing or rumored to be preparing new releases. Some have announced dates. Others have only appeared in testing reports, leaks, or investor comments. This issue sorts those signals into a practical list: what is likely to ship, what will probably slip, and which releases might actually be worth changing your plans for.",
-      "source": "AI Weekly",
-      "sourceUrl": "https://aiweekly.co/issues/what-ai-models-are-actually-coming-in-the-next-six-months",
-      "category": "Curation",
-      "date": "2026-08-20T00:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://aiweekly.co"
-    },
-    {
       "id": "https://x.com/opencode/status/2090544355824038300?utm_source=futuretools.io&utm_medium=newspage",
       "title": "OpenCode Launches Free Ox Alpha AI: 1M Context, Multimodal, Zero Data Retention",
       "summary": "Ox Alpha (stealth model) is free for the next week - 1M Context - Multi-modal - Zero Data Retention Generous rate limits, near unlimited usage We have capacity for 100T tokens per day, lets see what you can do",
@@ -1383,21 +1383,21 @@
       "hot": false
     },
     {
-      "id": "https://www.salesforce.com/introducing-slack-code/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Salesforce Launches Slack Code for AI-Powered Team Collaboration on Coding",
-      "summary": "AI coding is now a team sport. Introducing Slack Code, where teams and AI agents write, review, and ship code together in the open in a dedicated code channel.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://www.salesforce.com/introducing-slack-code/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-08-20T00:00:00.000Z",
-      "hot": false
-    },
-    {
       "id": "https://blog.google/products/ads-commerce/ai-max-testing-planning-tools/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Google Ads AI Max Gains A/B Testing & Performance Planner Tools for Search Campaigns",
       "summary": "Director of Product Management, Search Ads Building on the one-click experiments in AI Max, we’re now introducing a way for you to test different budgets and ROI targets across multiple Search campaigns in a single A/B test. Rolling out in September, this will help you see exactly how scaling up your campaigns impacts your bottom line. If you rely on specific brand or location controls, A/B testing just got simpler. New capabilities in AI Max experiments now let you run tests with these settings enabled, so you can confidently test the impact of AI Max without compromising those guardrails. Performance Planner now allows you to see how changes, like bidding or budget targets, may impact your existing campaign performance.",
       "source": "FutureTools News",
       "sourceUrl": "https://blog.google/products/ads-commerce/ai-max-testing-planning-tools/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-08-20T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://www.salesforce.com/introducing-slack-code/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Salesforce Launches Slack Code for AI-Powered Team Collaboration on Coding",
+      "summary": "AI coding is now a team sport. Introducing Slack Code, where teams and AI agents write, review, and ship code together in the open in a dedicated code channel.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.salesforce.com/introducing-slack-code/?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-08-20T00:00:00.000Z",
       "hot": false
@@ -2093,17 +2093,6 @@
       "category": "Curation",
       "date": "2026-08-18T00:00:00.000Z",
       "hot": false
-    },
-    {
-      "id": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
-      "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
-      "summary": "Three former SpaceX engineers have switched their attention from making rocket engines to manufacturing steel parts by using AI-driven software and robots. Their immediate goal involves establishing a prototype factory that can automate most of the steel fabrication process for crucial infrastructure components by 2027. The startup, called 1872, officially launched on July 22 with a ribbon-cutting ceremony at its Factory One facility in Cincinnati, Ohio. The company is initially focused on automating the manufacturing of steel skids—rectangular steel frames that can provide a moveable foundation for modular buildings—with the goal of supplying customers who are developing AI data centers or small modular nuclear reactors. “We're building towards autonomy, but we're not necessarily building in a dogmatic fashion towards full autonomy,” Dan Summers, CEO of 1872, told Ars. “We may achieve 80 percent autonomous operations, and we may decide that it makes sense to stop there because there's just diminishing returns to go to full 100 percent.”Read full article Comments",
-      "source": "Ars Technica AI",
-      "sourceUrl": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
-      "category": "Industry",
-      "date": "2026-08-17T21:18:49.000Z",
-      "hot": false,
-      "officialUrl": "https://arstechnica.com"
     }
   ]
 }
