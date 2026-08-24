@@ -1,6 +1,61 @@
 {
-  "lastUpdated": "2026-08-24T23:17:21.036Z",
+  "lastUpdated": "2026-08-24T23:44:50.951Z",
   "news": [
+    {
+      "id": "https://www.digitaltrends.com/?p=6000819",
+      "title": "Solid-state cooling could be the secret to faster AI laptops",
+      "summary": "Your next laptop's biggest bottleneck might not be its chip; it could be how well it stays cool. A new white paper from Ventiva, developed alongside analyst firm Moor Insights and Strategy, argues that thermal design is quickly becoming the deciding factor for how fast AI laptops can actually run. The paper explains that local AI performance is measured in tokens per second, and that number mostly comes down to memory bandwidth. Most laptops today still rely on 128-bit memory buses paired with LPDDR5 memory, which caps bandwidth around 150 GB per second. That is simply not fast enough to run today's more demanding AI models at usable speeds, and chipmakers are already racing to fix this. Sergei Starostin / Pexels Qualcomm has pushed its Snapdragon X2 Elite chips to 192-bit buses, while AMD and NVIDIA now offer 256-bit options in their client silicon.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/computing/solid-state-cooling-could-be-the-secret-to-faster-ai-laptops/",
+      "category": "Tech",
+      "date": "2026-08-24T23:43:17.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/08/24/siri-ai-ios-27-waitlist/",
+      "title": "Siri AI Will Have a Waitlist When iOS 27 Launches",
+      "summary": "IOS 27, iPadOS 27, and macOS Golden Gate include Siri AI, Apple's much more capable version of &zwnj;Siri&zwnj;. When the new updates launch, it appears Apple will use a waitlist and limit initial access. On the MacRumors forums, Mactracker found that the seventh betas of &zwnj;iOS 27&zwnj;, &zwnj;iPadOS 27&zwnj;, and &zwnj;macOS Golden Gate&zwnj; include waitlist infrastructure. Apple will use dynamic wait time messages once a user joins the &zwnj;Siri&zwnj; AI waitlist. It looks like Apple will give a clear estimate of the wait, and the company will be able to adjust the wait time readouts server-side based on demand and capacity. Apple will send a notification when &zwnj;Siri&zwnj; AI can be used.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/08/24/siri-ai-ios-27-waitlist/",
+      "category": "Tech",
+      "date": "2026-08-24T23:37:02.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/meta-to-launch-hatch-ai-agent-platform-in-coming-weeks-the-information-93CH-4874295",
+      "title": "Meta to launch Hatch AI agent platform in coming weeks- The Information",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/meta-to-launch-hatch-ai-agent-platform-in-coming-weeks-the-information-93CH-4874295",
+      "category": "Business",
+      "date": "2026-08-24T23:25:05.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/sheins-stock-market-listing-will-not-mask-sustainability-challenges-4874285",
+      "title": "Shein’s stock market listing will not mask sustainability challenges",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/sheins-stock-market-listing-will-not-mask-sustainability-challenges-4874285",
+      "category": "Business",
+      "date": "2026-08-24T23:13:11.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/99-85-45-these-aipicked-highconviction-value-stocks-keep-climbing-4874281",
+      "title": "+99%, +85%, +45%: These AI-picked high-conviction value stocks keep climbing",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/99-85-45-these-aipicked-highconviction-value-stocks-keep-climbing-4874281",
+      "category": "Business",
+      "date": "2026-08-24T23:06:44.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
     {
       "id": "https://www.digitaltrends.com/?p=6000805",
       "title": "Your Pixel 11 Pro just got its own AI tech support agent",
@@ -329,7 +384,7 @@
     {
       "id": "https://www.engadget.com/2242821/espn-is-raising-prices-on-most-of-its-streaming-subscriptions/",
       "title": "ESPN is raising prices on most of its streaming subscriptions, even bundles with Disney+",
-      "summary": "ESPN's Unlimited tier will cost $32 per month as of September 17.",
+      "summary": "The Unlimited tier will cost $32 per month as of September 17. ESPN Do you hear the rustling in the wind? It's another streaming platform getting ready to raise prices. ESPN is increasing the cost of every single one of its subscription plans, according to reporting by Sports Media Watch. These price bumps take effect on September 17. ESPN Unlimited, which provides access to the streaming platform and all affiliated live broadcast feeds, is shooting up to $32 a month from $30.",
       "source": "Engadget AI",
       "sourceUrl": "https://www.engadget.com/2242821/espn-is-raising-prices-on-most-of-its-streaming-subscriptions/",
       "category": "Tools",
@@ -578,17 +633,6 @@
       "officialUrl": "https://feeds.macrumors.com"
     },
     {
-      "id": "https://www.digitaltrends.com/?p=6000638",
-      "title": "As the music industry reels from a slop flood, Dr. Dre wants artists to adopt AI",
-      "summary": "AI-generated music is becoming increasingly difficult to avoid. As tools make it easier than ever to churn out entire songs with minimal effort, streaming platforms and social media are being flooded with what many call \"AI slop.\" For musicians, that has understandably raised some uncomfortable questions about where the industry is heading. Dre, however, isn't interested in running away from AI. He wants artists to embrace it. In an interview with The New York Times alongside longtime collaborator Jimmy Iovine, Dre revealed that he's already experimenting with AI while producing music. Rather than viewing the technology as something that could eventually replace musicians, the legendary producer sees it as another creative tool — and he thinks artists worried about it may be looking at the situation the wrong way.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/movies/as-the-music-industry-reels-from-a-slop-flood-dr-dre-wants-artists-to-adopt-ai/",
-      "category": "Tech",
-      "date": "2026-08-24T13:04:28.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
       "id": "https://www.macrumors.com/2026/08/24/airtag-2-85-amazon/",
       "title": "AirTag 2 4-Pack Hits New Low Price of $79.99 on Amazon [Updated]",
       "summary": "Apple's AirTag 2 is on sale for $79.99 this week on Amazon, down from $99.00. This deal is on the 4-Pack of the AirTag 2, and it's a new record low price for the accessory, beating the previous low by about $9. Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. We're also tracking a smaller deal on the AirTag 2 1-Pack, available for $24.00, down from $29.00. This is another record low price on the AirTag 2, and both have estimated delivery dates of August 28.",
@@ -609,17 +653,6 @@
       "date": "2026-08-24T13:00:24.000Z",
       "hot": false,
       "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/08/24/apple-store-app-virtual-shopping-assistant/",
-      "title": "Apple Store App Rolling Out 'Early Preview' of New Shopping Assistant",
-      "summary": "In the Apple Store app on the iPhone, select users have received access to an \"early preview\" of a new AI-powered virtual shopping assistant. Once it is available, you can open the chatbot by tapping on the speech bubble with two sparkles in the bottom-right corner of the app. Then, you can ask questions about Apple products, your existing Apple Store orders, trade-in values, payment options, and more, or simply tap on one of the common topics on the page to begin. MacRumors was first to report that the Apple Store app would be getting an AI shopping assistant, based on a new privacy policy added to Apple's website. The policy states that Apple uses your personal information to personalize the chat experience, provide relevant responses, and if you opt in, to improve the assistant. Apple has yet to officially announce this feature, so it seems to be quietly testing it with a smaller number of users for now.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/08/24/apple-store-app-virtual-shopping-assistant/",
-      "category": "Tech",
-      "date": "2026-08-24T12:56:14.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "https://decrypt.co/?p=376321",
@@ -1523,7 +1556,7 @@
     {
       "id": "https://variety.com/2026/music/news/apple-music-to-label-ai-made-tracks-1236839371/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Apple Music to Add \"Made With AI\" Labels to AI-Generated Tracks This Year",
-      "summary": "Apple Music will begin labeling songs on the platform derived from AI platforms, adding a \"Made With AI\" label to such songs later this year. In a note to its industry partners and one viewed by Variety, the service said that record labels and distributors will be required to tag songs in which \"a material portion of the content\" was created using AI. The labels follow Apple Music's introduction in March of AI Transparency Tagging, which dictates in the service's systems whether a track used AI. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366]]) .setClsOptimization(\"minsize\") ; }); \"As we implement Made With AI Labels, content providers will be important partners,\" Apple Music said. \"They are best positioned to know how their content was created, and the AI Transparency Tags that should be used.\" Popular on Variety if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: 'fdaee7b3-292f-4a85-89bb-29a56b567de3', playlistId: '019eb8f5-8351-7af5-8dd4-29ad0d5ed821', }).render(\"connatix_contextual_player_div\"); }); } else { // This sho",
+      "summary": "Apple Music will begin labeling songs on the platform derived from AI platforms, adding a \"Made With AI\" label to such songs later this year.",
       "source": "FutureTools News",
       "sourceUrl": "https://variety.com/2026/music/news/apple-music-to-label-ai-made-tracks-1236839371/?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
