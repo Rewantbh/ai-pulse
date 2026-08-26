@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2026-08-26T03:31:58.029Z",
+  "lastUpdated": "2026-08-26T04:33:06.945Z",
   "news": [
+    {
+      "id": "https://www.investing.com/news/stock-market-news/alibaba-shares-rise-as-jack-ma-buys-76-million-stake-amid-ai-push-4876235",
+      "title": "Alibaba shares rise as Jack Ma buys $76 million stake amid AI push",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/alibaba-shares-rise-as-jack-ma-buys-76-million-stake-amid-ai-push-4876235",
+      "category": "Business",
+      "date": "2026-08-26T03:47:34.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
     {
       "id": "https://techcrunch.com/?p=3156276",
       "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
@@ -11,39 +22,6 @@
       "date": "2026-08-26T03:30:00.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/asian-chip-stocks-rebound-ahead-of-nvidia-earnings-as-ai-trade-faces-key-test-4876225",
-      "title": "Asian chip stocks rebound ahead of Nvidia earnings as AI trade faces key test",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/asian-chip-stocks-rebound-ahead-of-nvidia-earnings-as-ai-trade-faces-key-test-4876225",
-      "category": "Business",
-      "date": "2026-08-26T03:10:32.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/asian-stocks-hesitant-before-nvidia-oil-slips-on-hormuz-hopes-4876210",
-      "title": "Asian stocks hesitant before Nvidia, oil slips on Hormuz hopes",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/asian-stocks-hesitant-before-nvidia-oil-slips-on-hormuz-hopes-4876210",
-      "category": "Business",
-      "date": "2026-08-26T02:25:18.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/explainerwhat-are-h1b-visas-for-skilled-workers-and-what-changes-loom-4875972",
-      "title": "Explainer-What are H-1B visas for skilled workers and what changes loom?",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/explainerwhat-are-h1b-visas-for-skilled-workers-and-what-changes-loom-4875972",
-      "category": "Business",
-      "date": "2026-08-26T02:18:44.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
     },
     {
       "id": "https://techcrunch.com/?p=3156922",
@@ -334,7 +312,7 @@
     {
       "id": "https://www.digitaltrends.com/?p=6000913",
       "title": "Claude now remembers what you told it, wherever you use it",
-      "summary": "Claude is making its memory available across chat and Cowork, allowing users to carry context between conversations and tasks while controlling what the AI remembers.",
+      "summary": "One of the most annoying parts of working with an AI assistant is having to explain yourself all over again. Claude is trying to fix that. Starting today, the memory Claude uses in chat is also available in Claude Cowork, meaning the context you've built up over months of conversations can follow you when you hand Claude a task. Claude / Anthropic That means Claude can know about your projects, priorities, and preferences without requiring another lengthy briefing. Explain in chat how your team defines its metrics, for example, and Cowork can use that information when building your next quarterly business review. Discuss a conference in chat, and Cowork can carry over details like the city, speakers, and headcount when it works on the logistics.",
       "source": "Digital Trends",
       "sourceUrl": "https://www.digitaltrends.com/cool-tech/claude-memory-chat-cowork/",
       "category": "Tech",
@@ -407,6 +385,17 @@
       "date": "2026-08-25T16:12:09.000Z",
       "hot": false,
       "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/article/news-github-copilot-teams-conversations-coding-agent/",
+      "title": "GitHub Copilot Coding Agent Can Now Use Microsoft Teams Conversations",
+      "summary": "GitHub Copilot's coding agent can now use Microsoft Teams conversations as context to investigate software tasks, change code, and create pull requests.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-github-copilot-teams-conversations-coding-agent/",
+      "category": "Business",
+      "date": "2026-08-25T16:11:18.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "https://www.macrumors.com/2026/08/25/everything-apple-announced-today/",
@@ -499,7 +488,7 @@
     {
       "id": "https://www.digitaltrends.com/?p=6001086",
       "title": "OpenAI says its Jalapeno AI chip delivers faster responses than rivals like Nvidia",
-      "summary": "Every time you ask ChatGPT a question, a chip somewhere is racing to send back an answer. OpenAI just shared fresh benchmark results claiming its custom Jalape&ntilde;o chip, co-developed with Broadcom, does that job significantly faster and more efficiently than rival chips in the market right now. We've designed and built our first AI chip: Jalape&ntilde;o.Designed from the ground up by OpenAI and brought to production with @Broadcom, Jalape&ntilde;o is purpose-built for the LLM workloads powering ChatGPT, Codex, the API, and future agentic products.Chips are foundational to the AI… pic.twitter.com/mHU7DaMMTi OpenAI tested Jalapeno using InferenceX, an independent benchmark from SemiAnalysis that measures how well a chip handles inference, which is the process of running a trained AI model to generate responses. Across three different AI models, Jalapeno delivered 1.5 to 1.9 times more AI work per watt of power, along with 1.7 to 3.6 times lower latency, meaning noticeably faster response times. For highly interactive tasks like AI agents, that advantage climbed even higher, reaching up to 4.1 times better performance.",
+      "summary": "OpenAI released benchmark results showing its Jalapeno chip, co-developed with Broadcom, delivers up to 1.9 times more AI work per watt and 3.6 times lower latency than Nvidia's top chips.",
       "source": "Digital Trends",
       "sourceUrl": "https://www.digitaltrends.com/computing/openai-says-its-jalapeno-ai-chip-delivers-faster-responses-than-rivals-like-nvidia/",
       "category": "Tech",
@@ -1485,17 +1474,6 @@
       "sourceUrl": "https://www.techrepublic.com/article/news-uk-cinemas-meta-smart-glasses-piracy/",
       "category": "Business",
       "date": "2026-08-21T17:33:33.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/article/news-chatgpt-reddit-citations-ai-search/",
-      "title": "ChatGPT Is Suddenly Citing Reddit Far Less: Here’s What Changed",
-      "summary": "ChatGPT citations to Reddit plunged in August as its search behavior shifted, raising new questions about how websites earn visibility in AI answers.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-chatgpt-reddit-citations-ai-search/",
-      "category": "Business",
-      "date": "2026-08-21T17:25:48.000Z",
       "hot": false,
       "officialUrl": "https://www.techrepublic.com"
     },
