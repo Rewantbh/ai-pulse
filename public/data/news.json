@@ -1,14 +1,36 @@
 {
-  "lastUpdated": "2026-08-26T04:33:06.945Z",
+  "lastUpdated": "2026-08-26T05:27:39.545Z",
   "news": [
     {
-      "id": "https://www.investing.com/news/stock-market-news/alibaba-shares-rise-as-jack-ma-buys-76-million-stake-amid-ai-push-4876235",
-      "title": "Alibaba shares rise as Jack Ma buys $76 million stake amid AI push",
+      "id": "https://www.investing.com/news/stock-market-news/buying-nvidia-ahead-of-todays-earnings-you-must-see-what-our-ai-models-say-first-4876102",
+      "title": "Buying Nvidia ahead of today’s earnings? You must see what our AI models say first",
       "summary": "",
       "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/alibaba-shares-rise-as-jack-ma-buys-76-million-stake-amid-ai-push-4876235",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/buying-nvidia-ahead-of-todays-earnings-you-must-see-what-our-ai-models-say-first-4876102",
       "category": "Business",
-      "date": "2026-08-26T03:47:34.000Z",
+      "date": "2026-08-26T05:06:40.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/asian-stocks-rebound-as-oil-slides-nvidia-earnings-loom-thai-rate-decision-due-4876256",
+      "title": "Asian stocks rebound as oil slides, Nvidia earnings loom; Thai rate decision due",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/asian-stocks-rebound-as-oil-slides-nvidia-earnings-loom-thai-rate-decision-due-4876256",
+      "category": "Business",
+      "date": "2026-08-26T04:53:03.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/why-is-haidilao-stock-rallying-today-93CH-4876253",
+      "title": "Why is Haidilao stock rallying today?",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/why-is-haidilao-stock-rallying-today-93CH-4876253",
+      "category": "Business",
+      "date": "2026-08-26T04:49:58.000Z",
       "hot": false,
       "officialUrl": "https://www.investing.com"
     },
@@ -387,17 +409,6 @@
       "officialUrl": "https://mashable.com"
     },
     {
-      "id": "https://www.techrepublic.com/article/news-github-copilot-teams-conversations-coding-agent/",
-      "title": "GitHub Copilot Coding Agent Can Now Use Microsoft Teams Conversations",
-      "summary": "GitHub Copilot's coding agent can now use Microsoft Teams conversations as context to investigate software tasks, change code, and create pull requests.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-github-copilot-teams-conversations-coding-agent/",
-      "category": "Business",
-      "date": "2026-08-25T16:11:18.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
       "id": "https://www.macrumors.com/2026/08/25/everything-apple-announced-today/",
       "title": "New Macs and More: Here's Everything Apple Announced Today",
       "summary": "Apple today unveiled a new Mac mini with M6 and M5 Pro chip options, a new Mac Studio with M5 Max and M5 Ultra chip options, a new version of the Polishing Cloth with a lower price, and updated Magic Keyboards for Macs. Both the M6 and M5 Ultra chips are new as of today: The new Mac mini and Mac Studio models can be pre-ordered starting today, with deliveries to customers and in-store availability set to begin on Tuesday, September 22. The new Polishing Cloth and Magic Keyboards are available immediately.",
@@ -488,7 +499,7 @@
     {
       "id": "https://www.digitaltrends.com/?p=6001086",
       "title": "OpenAI says its Jalapeno AI chip delivers faster responses than rivals like Nvidia",
-      "summary": "OpenAI released benchmark results showing its Jalapeno chip, co-developed with Broadcom, delivers up to 1.9 times more AI work per watt and 3.6 times lower latency than Nvidia's top chips.",
+      "summary": "Every time you ask ChatGPT a question, a chip somewhere is racing to send back an answer. OpenAI just shared fresh benchmark results claiming its custom Jalape&ntilde;o chip, co-developed with Broadcom, does that job significantly faster and more efficiently than rival chips in the market right now. We've designed and built our first AI chip: Jalape&ntilde;o.Designed from the ground up by OpenAI and brought to production with @Broadcom, Jalape&ntilde;o is purpose-built for the LLM workloads powering ChatGPT, Codex, the API, and future agentic products.Chips are foundational to the AI… pic.twitter.com/mHU7DaMMTi OpenAI tested Jalapeno using InferenceX, an independent benchmark from SemiAnalysis that measures how well a chip handles inference, which is the process of running a trained AI model to generate responses. Across three different AI models, Jalapeno delivered 1.5 to 1.9 times more AI work per watt of power, along with 1.7 to 3.6 times lower latency, meaning noticeably faster response times. For highly interactive tasks like AI agents, that advantage climbed even higher, reaching up to 4.1 times better performance.",
       "source": "Digital Trends",
       "sourceUrl": "https://www.digitaltrends.com/computing/openai-says-its-jalapeno-ai-chip-delivers-faster-responses-than-rivals-like-nvidia/",
       "category": "Tech",
@@ -1474,6 +1485,17 @@
       "sourceUrl": "https://www.techrepublic.com/article/news-uk-cinemas-meta-smart-glasses-piracy/",
       "category": "Business",
       "date": "2026-08-21T17:33:33.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/article/news-chatgpt-reddit-citations-ai-search/",
+      "title": "ChatGPT Is Suddenly Citing Reddit Far Less: Here’s What Changed",
+      "summary": "ChatGPT citations to Reddit plunged in August as its search behavior shifted, raising new questions about how websites earn visibility in AI answers.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-chatgpt-reddit-citations-ai-search/",
+      "category": "Business",
+      "date": "2026-08-21T17:25:48.000Z",
       "hot": false,
       "officialUrl": "https://www.techrepublic.com"
     },
