@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-30T06:37:44.693Z",
+  "lastUpdated": "2026-08-30T08:48:47.368Z",
   "news": [
     {
       "id": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-downgrades-for-sap-and-intuit-amd-lifted-to-strong-buy-4881980",
@@ -200,17 +200,6 @@
       "officialUrl": "https://mashable.com"
     },
     {
-      "id": "https://www.engadget.com/2246969/openai-pull-its-models-from-cursor-due-to-spacexai-acquisition/",
-      "title": "OpenAI will pull its models from Cursor due to SpaceXAI acquisition",
-      "summary": "SpaceXAI OpenAI is planning to cut off Cursor's access from its models, following the AI coding assistant's acquisition by SpaceXAI. In a post on its website, the company said it's giving Cursor users as much time as it could based on its contract. It intends to pull its models from the service on November 12, 2026, but it said that Cursor could choose an earlier termination date. In 2024, Musk filed a lawsuit to stop OpenAI from transitioning into a for-profit company from a nonprofit organization. He accused OpenAI of violating its founding mission of building AI \"for the benefit of humanity\" and of telling investors not to fund rival AI firms like xAI. Just this May, a jury ruled against Musk, and the judge in the case dismissed his claims of \"breach of charitable trust and unjust enrichment.\"",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2246969/openai-pull-its-models-from-cursor-due-to-spacexai-acquisition/",
-      "category": "Tools",
-      "date": "2026-08-29T14:58:40.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
       "id": "https://www.digitaltrends.com/?p=6002114",
       "title": "Proton found trackers inside most VPN apps downloaded in the US",
       "summary": "When you install a VPN, you're trusting another company with a large part of your internet traffic. Most people do this because they want more privacy, which makes Proton VPN's latest findings pretty damning. After examining more than 7,000 mobile VPN apps around the world, Proton says 85% of the VPNs in its US analysis contain trackers used for analytics, advertising, or profiling. Some of these apps can also access information such as your device ID, phone model, network type, mobile carrier, and even your physical location. For the analysis, Proton used Exodus Privacy, an open-source platform that searches Android apps for known tracker code. Finding one of these trackers does not necessarily tell us exactly what information a particular VPN is collecting or what it eventually does with that data.",
@@ -345,7 +334,7 @@
     {
       "id": "https://www.digitaltrends.com/?p=6002082",
       "title": "Brave’s new Email Alias feature can keep websites away from your real inbox address",
-      "summary": "Your email address is one of the easiest ways for websites and advertising companies to identify you online. If you provide the same address to multiple websites, it can potentially be used to connect your activity across different services. Brave is now trying to limit this type of tracking. Starting with desktop version 1.94, the browser has added Email Aliases, which let users provide websites with a different email address instead of revealing their primary one. Once users create a Brave Account, they can generate an alias directly from an email field on a website. Any messages sent to this address are then forwarded to the primary email address connected to the Brave Account.",
+      "summary": "Brave’s new Email Aliases feature can limit email-based tracking while still forwarding messages to a user’s primary inbox.",
       "source": "Digital Trends",
       "sourceUrl": "https://www.digitaltrends.com/computing/braves-new-email-aliases-can-keep-websites-away-from-your-real-inbox-address/",
       "category": "Tech",
@@ -2225,28 +2214,6 @@
       "date": "2026-08-25T09:00:00.000Z",
       "hot": false,
       "officialUrl": "https://www.technologyreview.com"
-    },
-    {
-      "id": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-      "title": "The full stack behind abundant intelligence",
-      "summary": "ShareJalapeño widens the lead at previous-best TBTJalapeño widens the lead at previous-best TBTBuild for breadth, own for leverageTurning efficiency into economic valueA compounding advantageJalapeño widens the lead at previous-best TBTBuild for breadth, own for leverageTurning efficiency into economic valueA compounding advantageProgress in AI compounds fastest when the entire system improves together. That is how the author think about OpenAI’s compute strategy: one integrated system spanning data centers and chips, frontier models, OpenAI's developer platform, consumer and enterprise products, and AI-native devices, with each layer strengthening the next. Better software makes hardware more productive. Hardware designed for OpenAI's workloads improves speed and efficiency. More capable models unlock better products, which generate more demand, usage, and learning. Those signals flow back through the system and help OpenAI improve it again.",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-      "category": "Models",
-      "date": "2026-08-25T07:05:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://openai.com/index/jalapeno-first-results",
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "summary": "ShareHow OpenAI measured Jalapeño’s performanceHow OpenAI measured Jalapeño’s performanceJalapeño widens the lead at previous-best TBTJalapeño delivers more tokens per userJalapeño delivers more throughput per kilowattArchitecting for speed and efficiency within a single chipWe used AI to design the chip, and designed the chip so AI could program itThe path ahead for efficient, ultra-fast inferenceAppendixJalapeño is pareto frontier at GPT‑OSS 120BJalapeño leads across GPT-OSS operating pointsJalapeño is pareto frontier at DeepSeek R1 670BJalapeño leads across DeepSeek R1 operating pointsJalapeño is pareto frontier at Kimi K2.5 1TJalapeño leads across Kimi K2.5 operating pointsHow OpenAI measured Jalapeño’s performanceJalapeño widens the lead at previous-best TBTJalapeño delivers more tokens per userJalapeño delivers more throughput per kilowattArchitecting for speed and efficiency within a single chipWe used AI to design the chip, and designed the chip so AI could program itThe path ahead for efficient, ultra-fast inferenceAppendixJalapeño is pareto frontier at GPT‑OSS 120BJalapeño leads across GPT-OSS operating pointsJalapeño is pareto frontier at DeepSeek R1 670BJalapeño leads across DeepSeek R1 operating pointsJalapeño is pareto frontier at Kimi K2.5 1TJalapeño leads across Kimi K2.5 operating pointsSince announcing Jalapeño, OpenAI’s first custom inference chip, OpenAI have been testing the chip and the system built around it. The results show a significant performanc...",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/jalapeno-first-results",
-      "category": "Models",
-      "date": "2026-08-25T07:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com"
     }
   ]
 }
