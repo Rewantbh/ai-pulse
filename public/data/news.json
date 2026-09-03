@@ -1,6 +1,346 @@
 {
-  "lastUpdated": "2026-09-03T09:22:11.026Z",
+  "lastUpdated": "2026-09-03T13:43:32.742Z",
   "news": [
+    {
+      "id": "https://cohere.com/blog/automations-early-footprint",
+      "title": "Automations early footprint",
+      "summary": "Hundreds of thousands of tools have been published to let AI systems take action on Cohere's behalf: write code, query databases, update records, schedule meetings, move information between applications. But what does this rapidly growing layer of agentic AI infrastructure actually add up to? What work are Cohere building AI to automate?Most of what Cohere know about AI and work comes from one of two vantage points. Some studies estimate what AI could theoretically do, calculating exposure based on the percent of occupational tasks an AI system could plausibly handle. Others look at what people ask AI to do, analyzing millions of conversations to see which tasks users bring to a chatbot [AI Observatory, 2026; Handa et al., 2025; Iscenko et al., 2026; OpenAI, 2026; Tomlinson et al., 2025]. Both represent distinct pieces in the larger puzzle of how AI is impacting work, however, they do not represent the full picture on their own.",
+      "source": "Cohere Blog",
+      "sourceUrl": "https://cohere.com/blog/automations-early-footprint",
+      "category": "Models",
+      "date": "2026-09-03T13:43:32.733Z",
+      "hot": true
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/ifm-releases-six-ai-models-with-full-development-data-93CH-4887981",
+      "title": "IFM releases six AI models with full development data",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/ifm-releases-six-ai-models-with-full-development-data-93CH-4887981",
+      "category": "Business",
+      "date": "2026-09-03T13:14:08.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://huggingface.co/blog/Hcompany/neomme",
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "summary": "",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/Hcompany/neomme",
+      "category": "Research",
+      "date": "2026-09-03T13:13:48.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/why-is-nvidia-stock-climbing-today-93CH-4887980",
+      "title": "Why is NVIDIA stock climbing today?",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/why-is-nvidia-stock-climbing-today-93CH-4887980",
+      "category": "Business",
+      "date": "2026-09-03T13:13:36.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://blogs.nvidia.com/?p=98028",
+      "title": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 26 New Games Coming to GeForce NOW",
+      "summary": "September is here with 26 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature. Through NVIDIA’s close collaboration with Visual Concepts and 2K, DLSS 5 brings a new level of lifelike lighting and material detail to the court — tuned by developers to support the game’s authentic broadcast-style presentation. Members can also walk the line between human and vampire in Rebel Wolves’ The Blood of Dawnwalker and step into genma-haunted Kyoto in Capcom’s Onimusha: Way of the Sword — part of the 10 games joining the GeForce NOW library this week. Take the Court With DLSS 5 Showcase your moves. NVIDIA, Visual Concepts and 2K have brought DLSS 5 3D-Guided Neural Rendering to NBA 2K27, delivering a new level of sports realism for players streaming from the cloud at launch. DLSS 5 enhances and tunes lighting and materials to make the action feel even more lifelike — from how light catches hair and skin to the detail preserved in the facial geometry of real-world athletes — achieving new levels of authenticity.",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
+      "category": "Events",
+      "date": "2026-09-03T13:00:35.000Z",
+      "hot": false,
+      "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
+      "id": "6a91b5991f4267c18de22d44",
+      "title": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
+      "summary": "Courtesy of Lenovo; Nvidia Three months ago, Nvidia took the wraps off its RTX Spark “superchip” and a handful of future laptops that would use it. It felt like a consequential moment in the history of the PC, despite all the questions that remained. And now, as announced at the IFA 2026 tech show in Berlin, we’ve had our first hands-on look at one of these laptops, as well as some announcements around RTX Spark-powered mini desktop PCs. Demand for running agentic AI workflows like OpenClaw locally on your computer keeps rising, and these new PCs look like they are designed specifically to feed it. Photograph: Les ShuPhotograph: Les ShuThe laptop in question is the Lenovo Yoga 9n 2-in-1, a 16-inch laptop with a 360-degree hinge. As I assumed it would, this thing looks incredibly premium, aiming to be a MacBook Pro competitor in every aspect.",
+      "source": "Wired AI",
+      "sourceUrl": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/",
+      "category": "Industry",
+      "date": "2026-09-03T13:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.wired.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6003791",
+      "title": "Anker’s new MindBase wants to be the brain of your entire home security system",
+      "summary": "Anker is expanding its eufy lineup with MindBase, a new hub that promises to do a lot more than just store your camera footage. Instead of shipping everything to the cloud, MindBase wants to actually think about what it sees, and it handles all of that on the device itself. MindBase sits at the center of your eufy setup and connects every device in the ecosystem into a single system, including Matter-enabled gadgets from other brands. Instead of juggling multiple apps for separate devices, you get one place to manage everything. Anker What really sets MindBase apart is the dedicated AI chip running inside it. Anker calls it the TrueSmart Agent, and it processes events locally, recognizing faces, posture, behavior, and objects at the same time, without shipping that data off to a server first.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/home/ankers-new-mindbase-wants-to-be-the-brain-of-your-entire-home-security-system/",
+      "category": "Tech",
+      "date": "2026-09-03T12:35:05.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "108358053",
+      "title": "Google starts September with AI momentum after longest monthly losing streak in over a decade",
+      "summary": "After a slow but extended selloff on Wall Steet, Google began September with renewed momentum, helped by new AI models.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html",
+      "category": "Business",
+      "date": "2026-09-03T12:31:15.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "108358077",
+      "title": "G20 on AI policy, Snowflake earnings, Ford's production push and more in Morning Squawk",
+      "summary": "Here are five key things investors need to know to start the trading day.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/09/03/5-things-to-know-before-the-stock-market-opens.html",
+      "category": "Business",
+      "date": "2026-09-03T12:28:37.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "108358076",
+      "title": "'No steering wheel, no pedals.' Tesla teases fans ahead of long-awaited Cybercab update",
+      "summary": "Tesla first unveiled the Cybercab almost two years ago, and fans of the company have been waiting to hear more.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/09/03/tesla-teases-no-steering-wheel-no-pedals-ahead-of-cybercab-update.html",
+      "category": "Business",
+      "date": "2026-09-03T12:15:14.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/09/03/iphone-18-pro-chip-leak-suggests-improvements/",
+      "title": "iPhone 18 Pro Chip Leak Indicates Major GPU and Memory Bandwidth Improvements",
+      "summary": "An alleged solder joint diagram for Apple's A20 Pro chip suggests the processor will deliver a number of significant upgrades, including a seven-core GPU, a wider memory interface, and a larger L2 cache for its efficiency cores. The claims come from a Weibo user who says the layout was reconstructed by mapping the chip's solder ball positions and overlaying them with die level images to sketch out where each block of the processor sits. According to the post, the resulting outline points to a two and four core CPU configuration and a seven core GPU, with the top of the die housing the GPU and the CPU occupying the center. Based on the layout, the leaker expects the A20 Pro's efficiency cores to share an 8MB L2 cache, up from 6MB on the A19 Pro, while the performance cores retain their existing 16MB L2 cache. The size of the shared system level cache is not yet known, but the leaker believes it is unlikely to shrink given the chip's new image signal processor and neural engine. With regards to the GPU, the seven core configuration would mark an increase from the six cores on the A19 Pro, a jump of roughly 16%.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/09/03/iphone-18-pro-chip-leak-suggests-improvements/",
+      "category": "Tech",
+      "date": "2026-09-03T12:06:35.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6003728",
+      "title": "Belkin’s new power banks use semi-solid-state batteries and claim 3x longer life",
+      "summary": "Belkin has revealed two new UltraCharge Pro power banks at the ongoing IFA 2026 event, both using a semi-solid-state battery design that the company calls BoostSolid Cell. The lineup consists of a slim 5,000mAh magnetic power bank and a larger 10,000mAh model with a display. The charging hardware is fairly familiar, but Belkin is putting most of the attention on the batteries inside them, claiming a longer lifespan, slimmer designs, and improved safety compared with conventional liquid-cell power banks. BoostSolid Cell uses a semi-solid-state design that adds a gel-like layer alongside the liquid electrolyte. Belkin says this allows the cells to take up less space while also reducing problems such as swelling over time. The company claims its new power banks are engineered to last up to three times longer than other power banks.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/phones/belkins-new-power-banks-use-semi-solid-state-batteries-and-claim-3x-longer-life/",
+      "category": "Tech",
+      "date": "2026-09-03T12:03:54.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "04dMcTUhg2A9dd5fHq61Jit",
+      "title": "Dreames new robot lawn mower has a swing arm to make for precise edges",
+      "summary": "One of the world's largest consumer technology shows kicks off on Friday, and Dreame understood the assignment. IFA is all-in on the robot lawn mowers this year and Dreame has a new model that's set to enter the market in 2027. The brand has been one of Mashable's favorite options for robot vacuums in the last few years and their lineup of robot lawn mowers is getting damn impressive. Welcome to the yard, Dreame A4 AWD Pro Series.A robot lawn mower with a swing armLike robot vacuums, the majority of robot lawn mowers set out to do the same task: rid us of the inconvenience of manually mowing the lawn. But now that the market has a handful of top models and brands, things are starting to get fancier.The new Dreame A4 AWD Pro Series is the brand's introductory model made with the EdgeMaster 4.0 Precision Edge-Trimming System. This enables a swing arm to extend the standard cutting disc outward as the mower senses nearby boundaries.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/dreame-a4-awd-pro-ifa-launch",
+      "category": "Tech",
+      "date": "2026-09-03T12:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://www.engadget.com/2250009/dji-launches-new-robot-vacuums-with-an-eye-toward-data-privacy/",
+      "title": "DJI launches new robot vacuums with an eye toward data privacy",
+      "summary": "The DJI ROMO 2 lineup also includes LiDAR-enabled mopping arms and improved obstacle avoidance. DJI DJI is following up its original line of robot vacuums with the DJI ROMO 2 at IFA 2026. While sporting a similar translucent design as the DJI ROMO from 2025, the company claims its new vacuums are not only better at detecting obstacles but also offer a way to keep data about your home private. The first DJI ROMO used DJI's drone technology to handle navigation and obstacle avoidance, and the same is true of the vacuums in the ROMO 2 lineup, the ROMO P2 and the ROMO A2. This time the company claims the robot vacuums' perception system has been built from the ground up so that it achieves \"millimeter-level awareness of floor-level obstacles\" which not only makes them better at avoiding things like cables but also better at adjusting suction and its \"cleaning approach\" depending on what's on your floor. DJI notes this specifically applies to things like glass and mirrors, and ROMO 2 vacuums also include a built-in light for revealing dirt and obstacles in low-light settings",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2250009/dji-launches-new-robot-vacuums-with-an-eye-toward-data-privacy/",
+      "category": "Tools",
+      "date": "2026-09-03T12:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://www.engadget.com/2250075/dyson-unveiled-ifa-2026-live-blog-camerajet/",
+      "title": "Dyson Unveiled at IFA 2026: Live updates as the company shows off new vacuums, purifiers, robotic...",
+      "summary": "And perhaps some onstage toothbrushing is in order? Screenshot by Cherlynn Low (Dyson) Of all the products being shown off at IFA 2026 in Berlin this week, some spoke more to us than others. Dyson's CameraJet toothbrush-and-flosser combo stood out to us for a variety of reasons, both good and bad. Nobody wants a livestream of their mouth (and that's not the main selling point here), but surely everyone can appreciate a product meant to simplify the tedium of a daily oral hygiene routine? Dyson is also poised to unveil more gadgets in cleaning, purifying and beauty, at an event it's calling Dyson Unveiled. Our UK bureau chief Mat Smith is on the ground in Berlin, scouring the showfloors and various press events to give us his in-person impressions of all the new tech fare this week.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2250075/dyson-unveiled-ifa-2026-live-blog-camerajet/",
+      "category": "Tools",
+      "date": "2026-09-03T12:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6003684",
+      "title": "Dreame’s new robot mower tackles the one job robotic mowers still can’t handle",
+      "summary": "Dreame is expanding its robot army beyond your living room and into your backyard. At IFA 2026, the company pulled the wraps off the A4 AWD Pro Series, its new flagship robotic lawn mower that promises to address the most annoying chore left after a robot mows your lawn: edge trimming. Most robot mowers do a decent job in the middle of your lawn but leave a messy border along fences, walls, and flower beds that you still have to trim by hand. Dreame's answer to this problem is its EdgeMaster 4.0 system, built around a swing arm that physically extends the cutting disc outward whenever the mower gets close to a boundary. Dreame Guided by dedicated side sensors, it hugs walls, trees, and curved edges to claim what Dreame calls true 0 cm edge cutting, while also cleaning up the right-angle corners that usually get skipped. Dreame Edge cutting isn't the only upgrade.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/home/dreames-new-robot-mower-tackles-the-one-job-robotic-mowers-still-cant-handle/",
+      "category": "Tech",
+      "date": "2026-09-03T12:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://blogs.nvidia.com/?p=98049",
+      "title": "NVIDIA to Acquire Hugging Face",
+      "summary": "The author is announced that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, NVIDIA will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide. Over the past decade, Clem, Julien, Thomas and the team at Hugging Face have built something remarkable: a vibrant home for the open model developer community. More than 18 million developers, researchers and creators use Hugging Face to share more than 3 million models, 500,000 datasets and 1 million applications. More than 200,000 companies use the platform to discover, evaluate, customize and deploy AI. Hugging Face will remain an open platform for the entire AI ecosystem.",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+      "category": "Events",
+      "date": "2026-09-03T11:59:49.000Z",
+      "hot": false,
+      "officialUrl": "https://blogs.nvidia.com",
+      "relatedCoverage": [
+        {
+          "source": "Engadget AI",
+          "url": "https://www.engadget.com/2250197/nvidia-buys-hugging-face/"
+        },
+        {
+          "source": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/"
+        },
+        {
+          "source": "Wired AI",
+          "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/"
+        },
+        {
+          "source": "CNBC Tech",
+          "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html"
+        },
+        {
+          "source": "Ars Technica AI",
+          "url": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/"
+        }
+      ]
+    },
+    {
+      "id": "108357139",
+      "title": "Anthropic's distillation battle turns to the dark web as China concerns swell",
+      "summary": "Foreign adversaries have been illegally accessing American AI systems to train competing technology, and selling copycat versions at a lower price.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/09/03/anthropic-distillation-battle-turns-to-dark-web-china-concerns-swell.html",
+      "category": "Business",
+      "date": "2026-09-03T11:45:01.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6003755",
+      "title": "I found 5 cleaning deals worth sweeping up this Labor Day",
+      "summary": "There are a lot of Labor Day vacuum deals, but plenty of them are either barely discounted or just not that interesting. I narrowed things down to five that I'd actually consider, with options ranging from a $69.99 handheld to a robot vacuum that handles most of the dirty work itself. Digital Trends If you want to automate as much cleaning as possible, the Roborock Qrevo Curv 2 Flow is $699.99 at Amazon, down from $999.99. It packs 20,000Pa suction, a self-cleaning roller mop, obstacle avoidance, and a dock that washes and dries the mop. Its predecessor impressed us in our Roborock Qrevo Curv review, and this newer model pushes the formula further. Digital Trends The Dyson V11 Plus is $379.99 at Best Buy, which is $250 below its $629.99 comparable value.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/home/i-found-5-cleaning-deals-worth-sweeping-up-this-labor-day/",
+      "category": "Tech",
+      "date": "2026-09-03T11:37:06.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=377253",
+      "title": "Mamdani Imposes One-Year Moratorium on Generative AI in NYC Schools",
+      "summary": "Nearly 600,000 students lose access to generative AI tools, while five named vendors keep metered pilots running in high schools.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/377253/mamdani-imposes-one-year-moratorium-on-generative-ai-in-nyc-schools",
+      "category": "Tech",
+      "date": "2026-09-03T11:36:41.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6003724",
+      "title": "Anker AeroClip 2 Pro earbuds double as an AI notetaker atop an open-air design",
+      "summary": "Anker came to IFA 2026 with over a dozen products to reveal, covering audio wearables, charging gear, and more segments. The most intriguing additions to the lineup are the AeroClip 2 series clip-style earbuds, which tout AI chops as much as they advertise their audio skills. Leading the pack is the high-end AeroClip 2 Pro earbuds, which the company markets as the world's first AI note-taking open-ear clip-on earbuds. Beyond the wordy hype, these earbuds double as a note-taker for meetings, in-person conversations, and simply recording voice notes. The built-in AI assistant, named Anka and powered by the in-house Thus AI chip, can subsequently transcribe and summarize the audio recordings. Additionally, it can also help users recall specific details from these audio recordings, while also offering seamless export in formats such as PDF and DOCX, among others.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/home-theater/anker-aeroclip-2-pro-earbuds-double-as-an-ai-notetaker-atop-an-open-air-design/",
+      "category": "Tech",
+      "date": "2026-09-03T11:21:37.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6003744",
+      "title": "Samsung’s Galaxy Edge could return with the S27 series, but the leaks are telling different stories",
+      "summary": "Take this with a heavy dose of skepticism. Two separate leakers have posted contradicting specifications for the purported Galaxy S25 Edge successor. However, it's the disagreement that reveals something interesting about what the company might be planning for prospective buyers. Andy Boxall / Digital Trends What do the new Galaxy S27 Edge leaks actually claim? First, leaker @kro_roe (via X) claimed that the Galaxy S27 Edge could feature a 5.8-inch display, a chassis thinner than 4.5mm (probably at the thinnest point), and still sport a fairly standard 4,300mAh battery. Given that the first-generation Edge was bigger and thicker, and still packed in a smaller battery, that sounded like a genuine step in the right direction.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/phones/samsungs-galaxy-edge-could-return-with-the-s27-series-but-the-leaks-are-telling-different-stories/",
+      "category": "Tech",
+      "date": "2026-09-03T11:14:46.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/09/03/iphone-18-pro-prices-apple-event-next-week/",
+      "title": "iPhone 18 Pro Prices Estimated Ahead of Apple Event Next Week",
+      "summary": "Less than a week before Apple debuts new iPhone 18 Pro models, research firm TrendForce has estimated the prices of the devices based on the latest hardware cost environment. TrendForce's price estimates compared to last year's models look like this: Model Starting Price Model Starting Price Change iPhone 17 Pro $1,099 iPhone 18 Pro $1,249-$1,299 +$150 to +$200 iPhone 17 Pro Max $1,199 iPhone 18 Pro Max $1,349-$1,399 +$150 to +$200 Apple is likely to raise iPhone 18 Pro and iPhone 18 Pro Max prices by around 10-20% compared to last year's Pro models, according to the firm. Taking TrendForce's June forecast of a 14-18% increase, which fits within its latest broader 10-20% range and translates more neatly to Apple's typical pricing scheme, we could see the iPhone 18 Pro starting price jump to between $1,249-$1,299 and the iPhone 18 Pro Max between $1,349-$1,399. Meanwhile, TrendForce expects prices for Apple's first foldable iPhone (aka \"iPhone Ultra\") to start anywhere between $2,099-$2,299, with the highest storage option potentially exceeding $3,000. The regular iPhone 18 model is not expected to debut until spring 2027. Nevertheless, TrendForce expects the same general 10-20% price increase to apply to that device as well.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/09/03/iphone-18-pro-prices-apple-event-next-week/",
+      "category": "Tech",
+      "date": "2026-09-03T10:41:31.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.engadget.com/2250160/dont-use-google-gemini-to-plan-a-mountain-climb/",
+      "title": "PSA: Don't rely on AI to plan anything that could put your life at risk... like a mountain climb",
+      "summary": "A group of ill-prepared climbers had to be rescued because Gemini told them climbing Mt. Shasta would only take 8 hours. Siskiyou County Sheriff's Office A group of climbers set out to climb Mount Shasta in Siskiyou County, California thinking it would only take them eight hours, because that's what Google's Gemini chatbot told them. Gemini ended up being very, very wrong. Specifically, they relied on the chatbot for route research and asked it for recommendations on how much food and water to take with them. Gemini reportedly told them to prepare for an eight-hour trek and pack food with simple carbohydrates instead of fats, because fats \"take too long to digest.\" As a result, they carried daypacks with just enough food and water for a short climb, with no plans for shelter and no warm clothing.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2250160/dont-use-google-gemini-to-plan-a-mountain-climb/",
+      "category": "Tools",
+      "date": "2026-09-03T10:20:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6003683",
+      "title": "Google Vids now lets you turn Docs, PDFs, and Word files into video summaries",
+      "summary": "If your job involves going through meeting notes or training PDFs for hours every day, Google just gave you a workaround, one that not only saves your time but also makes wading through the document much less boring. Google Vids can now convert your documents, including PDFs, Word files, and, of course, Google Docs, into a narrated video summary with curated visuals. Google So what does this new Docs to Video feature actually do? There's a new option in Vids' File menu called Docs to Video. It lets you pull in a document straight from your Drive or computer. Then, using AI, it scans the document, creates a script that summarizes the content (as key points), and adds voice narration to go with it.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/computing/google-vids-now-lets-you-turn-docs-pdfs-and-word-files-into-video-summaries/",
+      "category": "Tech",
+      "date": "2026-09-03T10:18:43.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "6a8726cd18568cdcce1a1065",
+      "title": "This Is Flock’s AI Search Tool for Cops",
+      "summary": "Flock Safety’s latest search tools give police several ways to find people on camera, not just the license plates on their cars. The capabilities sit inside a suite of software now at the center of dozens of police stalking cases. WIRED collected and analyzed that software and created a mock-up of what officers see when interacting with the system. Among the tools is an AI-powered watch list. An officer can cordon off an area of a city and make the cameras inside it run a continuous, automated search for anyone fitting a written description. Over the past year, Flock has faced backlash against its technology.",
+      "source": "Wired AI",
+      "sourceUrl": "https://www.wired.com/story/flock-ai-search-user-interface/",
+      "category": "Industry",
+      "date": "2026-09-03T10:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.wired.com"
+    },
+    {
+      "id": "https://www.engadget.com/2249856/sennheiser-momentum-true-wireless-5-review/",
+      "title": "Sennheiser Momentum True Wireless 5 review: A significant upgrade at the same price",
+      "summary": "The company delivers a big overhaul of its flagship earbuds while keeping them $300. Billy Steele for Engadget RATING : 8.4 / 10 Pros New design is more comfortable User-replaceable batteries Warm, balanced sound Longer battery life Cons Some (fixable) audio quirks Subpar call quality Lackluster ANC performance We may receive a commission on purchases made from links. Any list of safe bets would not be complete without Sennheiser's top-tier wireless earbuds. The company consistently manages to create an enticing sound profile that invites you to get cozy and stay awhile. However, it hasn't been able to complete the package by delivering a set of earbuds that excels in every regard. Still, in terms of audio performance, Sennheiser's Momentum earbuds are always a standout.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2249856/sennheiser-momentum-true-wireless-5-review/",
+      "category": "Tools",
+      "date": "2026-09-03T10:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "108350818",
+      "title": "Hidden China risks are emerging in America’s multibillion-dollar AI data center boom",
+      "summary": "AI data centers rely on China-linked supplies of transformers, batteries and optical gear as Washington moves to tighten restrictions on foreign equipment.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/09/03/us-ai-data-centers-china-supply-chain.html",
+      "category": "Business",
+      "date": "2026-09-03T09:59:27.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=377245",
+      "title": "Ukraine Busts Kyiv Crypto Drainer Ring Moving Up to $1M Monthly",
+      "summary": "Fake investment ads on Telegram channels funneled EU victims to a lookalike exchange that emptied their wallets.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/377245/ukraine-busts-kyiv-crypto-drainer-ring-moving-up-to-1m-monthly",
+      "category": "Tech",
+      "date": "2026-09-03T09:53:41.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
     {
       "id": "https://decrypt.co/?p=377238",
       "title": "Michigan Judge Bars Kalshi Sports Bets, Threatens $500K Daily Fine",
@@ -11,50 +351,6 @@
       "date": "2026-09-03T08:47:34.000Z",
       "hot": false,
       "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=6003641",
-      "title": "Meta says its new AI model can finally compete with OpenAI and Anthropic",
-      "summary": "Meta just dropped its most powerful AI model yet, and the company thinks it can finally go head-to-head with the biggest names in the AI race. Developers can access and pay for Muse Spark 1.3, the latest update to Meta's flagship model. It won't stay locked away for long either, as the update is set to roll out across Meta's apps, including Instagram, Facebook, and Meta AI, in the coming weeks. Meta's Chief AI Officer Alexandr Wang called this update the company's \"biggest jump so far on model performance,\" pointing to major gains in coding and agentic tasks, basically the AI's ability to complete tasks on your behalf. Wang told Bloomberg that Muse Spark 1.3 is competitive with Anthropic's Claude Fable 5.1 and even beats OpenAI's GPT-5.6 Sol at coding, though OpenAI's upcoming Astra model looms on the horizon. Meta Of course, take these comparisons with a grain of salt.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/computing/meta-says-its-new-ai-model-can-finally-compete-with-openai-and-anthropic/",
-      "category": "Tech",
-      "date": "2026-09-03T08:29:31.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=6003640",
-      "title": "Schools are embracing AI. New York City just banned it for more than half a million students",
-      "summary": "AI is already finding its way into classrooms, whether students are using ChatGPT for homework or teachers are turning to the technology to create lesson plans. New York City, however, isn't convinced that younger students need it just yet. New York City Public Schools is introducing a sweeping moratorium on generative AI for students from 2-K through eighth grade for the 2026-2027 academic year, according to ABC News. The policy will affect more than half a million students when the new school year begins next week. The district says it will remove software containing student-facing AI features and prohibit AI companion chatbots. High school students aren't included in the ban, making this an attempt to draw a line around when students should begin using it.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/cool-tech/while-schools-embrace-ai-new-york-city-just-banned-it-for-more-than-half-a-million-students/",
-      "category": "Tech",
-      "date": "2026-09-03T08:21:31.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=6003622",
-      "title": "OpenAI is working on a ‘kill switch’ after an AI escaped its test",
-      "summary": "The idea of an AI \"kill switch\" sounds like something pulled straight out of a sci-fi movie. For OpenAI, however, it's becoming a very real engineering project. OpenAI has told members of Congress that its engineers are developing automated systems that can shut down AI activity when serious safety problems are detected, according to a September 2 letter reviewed by Reuters. The work follows an unusual cybersecurity incident in July, when OpenAI models being evaluated inside a supposedly isolated testing environment found a way out, accessed the public internet without permission, and eventually reached infrastructure belonging to AI company Hugging Face. That incident caught Congress's attention. In August, a group of 31 lawmakers led by Rep.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/cool-tech/openai-is-working-on-a-kill-switch-after-an-ai-escaped-its-test/",
-      "category": "Tech",
-      "date": "2026-09-03T07:53:32.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=6003599",
-      "title": "Sony’s defense against a digital ownership lawsuit is that you know you don’t own your games",
-      "summary": "Sony has filed a response to a class action lawsuit in California over how the PlayStation Store labels digital game purchases. According to GameFile, the company argues in its filings that its checkout process already meets state disclosure rules, and that no reasonable buyer expects true ownership when purchasing digital games. The lawsuit accuses Sony of violating a California law that regulates how companies describe digital goods. Plaintiffs argue that using words like buy and purchase on the PlayStation Store leads customers to believe they own the software permanently. The law bars sellers from using those terms unless they clearly tell buyers during checkout that they are acquiring a revocable license. Along with its procedural argument, Sony made a broader point about what buyers actually expect.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/gaming/sonys-defense-against-a-digital-ownership-lawsuit-is-that-you-know-you-dont-own-your-games/",
-      "category": "Tech",
-      "date": "2026-09-03T07:39:51.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
     },
     {
       "id": "https://www.macrumors.com/2026/09/03/anker-mindbase-new-cameras/",
@@ -90,28 +386,6 @@
       "officialUrl": "https://www.engadget.com"
     },
     {
-      "id": "https://www.engadget.com/2249482/anker-mindbase-is-a-smart-home-hub-nas-and-security-guard/",
-      "title": "Anker's MindBase is a smart home hub, NAS and security guard",
-      "summary": "It’s designed to run all of your smart home devices with AI. Anker Anker has turned up to IFA with MindBase, an AI-powered local home hub built to sit at the heart of your autonomous home. Essentially, it's a NAS with a 64GB SSD and two bays to hold either 2.5 or 3.5-inch hard drives, with its own AI compute built on top. Anker is selling it as a way to both run your smart home and store your family's treasured memories, and as a digital security guard. If you want MindBase to watch your home, then you'll need to invest in Anker's lineup of home security cameras. That includes the new Eufy Video Doorbell S4, Window Camera E10, Fall Detection Sensor or just its range of plain ol' pan-tilt-zoom cameras.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2249482/anker-mindbase-is-a-smart-home-hub-nas-and-security-guard/",
-      "category": "Tools",
-      "date": "2026-09-03T07:30:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=6003607",
-      "title": "Meta is changing how it judges employees after an unusual AI experiment",
-      "summary": "AI might be taking over the workplace, but Meta employees apparently won't need to prove quite so enthusiastically that they're using it anymore. Meta has updated its performance review guidance so employees will no longer be evaluated based on how much they use AI tools, according to a new WIRED report. The change moves the company away from language around AI usage and puts the emphasis back on something considerably simpler: the actual impact of an employee's work. It sounds obvious, but the distinction matters. Meta told workers last year that \"AI-driven impact\" would factor into how they were evaluated, which encouraged employees to incorporate chatbots and AI agents into their everyday jobs. Workers could also receive labels such as \"AI Native,\" \"AI First,\" or \"AI Enabled\" based on their adoption of the technology.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/cool-tech/meta-is-changing-how-it-judges-employees-after-an-unusual-ai-experiment/",
-      "category": "Tech",
-      "date": "2026-09-03T07:07:18.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
       "id": "https://www.macrumors.com/2026/09/03/aqara-matter-smart-lights/",
       "title": "Aqara Debuts Five Matter Smart Lights With Apple Home Support",
       "summary": "Aqara today introduced five new Matter-enabled smart lights compatible with Apple Home. The lights support Thread and Zigbee as well, and can be paired with Aqara sensors and switches. The Floor Lamp T1 is a tall, rod-shaped light with a wall-wash effect. It has 18 controllable zones that can be set to different colors, and it supports 2000K to 9000K white light at up to 1,000 lumens. Aqara's LED Downlight T2 has a thin profile for low ceilings or retrofitting. It supports 16 million colors and 2000K to 9000K white light.",
@@ -145,28 +419,6 @@
       "officialUrl": "https://feeds.macrumors.com"
     },
     {
-      "id": "https://www.digitaltrends.com/?p=6003590",
-      "title": "Claude can now use your computer while you get other things done",
-      "summary": "Anthropic just rolled out a genuinely useful update. Computer use in Claude Cowork and Claude Code now lets Claude work in the background on your Mac, meaning it clicks, types, and opens apps while you do literally anything else. Claude now runs in a background window instead of taking over your display. That means you can keep browsing, writing, or coding while Claude quietly handles its own task behind the scenes. Claude can now use your computer in the background in Claude Cowork and Claude Code.Give it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something else. pic.twitter.com/AOiup03pQK",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/computing/claude-can-now-use-your-computer-while-you-get-other-things-done/",
-      "category": "Tech",
-      "date": "2026-09-03T05:19:03.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
-      "id": "108358053",
-      "title": "Google starts September with AI momentum after longest monthly losing streak in over a decade",
-      "summary": "After a slow but extended selloff on Wall Steet, Google began September with renewed momentum, helped by new AI models.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html",
-      "category": "Business",
-      "date": "2026-09-03T03:28:07.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
       "id": "108357849",
       "title": "Broadcom delivers strong earnings view as CEO touts growth with AI labs",
       "summary": "Broadcom gave a disappointing revenue forecast for the current quarter but provided robust earnings guidance for fiscal 2028.",
@@ -189,6 +441,28 @@
       "officialUrl": "https://www.wired.com"
     },
     {
+      "id": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "summary": "Hugging Face is on a journey to advance and democratize artificial intelligence through open source and open science.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "category": "Research",
+      "date": "2026-09-03T00:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
+    },
+    {
+      "id": "https://huggingface.co/blog/funes",
+      "title": "Give Your Coding Agents a Memory You Own",
+      "summary": "Hugging Face is on a journey to advance and democratize artificial intelligence through open source and open science.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/funes",
+      "category": "Research",
+      "date": "2026-09-03T00:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
+    },
+    {
       "id": "https://huggingface.co/blog/train-to-paint-with-code",
       "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
       "summary": "Hugging Face is on a journey to advance and democratize artificial intelligence through open source and open science.",
@@ -198,17 +472,6 @@
       "date": "2026-09-03T00:00:00.000Z",
       "hot": false,
       "officialUrl": "https://huggingface.co"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=6003561",
-      "title": "Google’s AI Mode shows the same products at higher prices than regular Search, study finds",
-      "summary": "If you've been letting Google's AI Mode handle your shopping research, you might want to double-check those prices. Researchers at Product Rise found that when the same product appeared in both AI Mode and traditional Google Search, the AI-powered experience showed a price that was 21.6% higher on average. The team ran the same shopping searches through both versions at the same time, across the US and UK. They found that the 21.6% gap is only the headline. Product Rise If you look at every product on both sides, not just the matching ones, AI Mode's typical price sits about 49% higher. That's a median of $149 compared to $100 in regular search.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/computing/googles-ai-mode-shows-the-same-products-at-higher-prices-than-regular-search-study-finds/",
-      "category": "Tech",
-      "date": "2026-09-02T23:57:21.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
     },
     {
       "id": "https://decrypt.co/?p=377232",
@@ -242,17 +505,6 @@
       "date": "2026-09-02T23:16:04.000Z",
       "hot": false,
       "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "https://www.engadget.com/2248610/uber-launches-first-robotaxis-in-london-with-human-supervisors/",
-      "title": "Uber launches first robotaxis in London (with human supervisors)",
-      "summary": "It's a partnership with the British AV company Wayve. Uber Robotaxis are finally roaming around London. Uber just announced that it now offers rides in autonomous vehicles via a partnership with the British AV company Wayve. Customers in the city who request an UberX, Uber Comfort or Uber Electric ride could be matched with a Ford Mustang Mach-E that's been outfitted with Wayve's self-driving tech. Riders will be sent a notification before the AV heads their way, just in case they want a traditional vehicle. There were some serious regulatory hurdles to get this through.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2248610/uber-launches-first-robotaxis-in-london-with-human-supervisors/",
-      "category": "Tools",
-      "date": "2026-09-02T23:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
     },
     {
       "id": "108357387",
@@ -297,28 +549,6 @@
       "date": "2026-09-02T22:24:09.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=6003486",
-      "title": "The Galaxy S27 Ultra could use an Exynos processor for the first time since 2022",
-      "summary": "Samsung may be preparing to put its own processor back inside the Galaxy S Ultra after a five-year absence. A report from Korean publication MoneyToday claims the company is developing an Exynos 2700 version of the Galaxy S27 Ultra, which would be the first Ultra model to use Exynos since the Galaxy S22 Ultra launched in 2022. Recent Galaxy S Ultra models have relied on Qualcomm's Snapdragon chips, and the Galaxy S27 Ultra had also been expected to stick with Qualcomm. The report says Samsung has ordered Galaxy S27 Ultra motherboards designed around the Exynos 2700, indicating that development of an Exynos-powered model is underway. Samsung had already been expected to use the Exynos 2700 in several Galaxy S27 models outside the US. The Ultra was the notable exception.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/phones/the-galaxy-s27-ultra-could-use-an-exynos-processor-for-the-first-time-since-2022/",
-      "category": "Tech",
-      "date": "2026-09-02T22:21:50.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=6003514",
-      "title": "Alexa can now spot fake messages from scammers pretending to be Amazon",
-      "summary": "Scam texts and emails pretending to be from Amazon have gotten good enough to fool even careful users. Amazon says it fields questions from 360,000 customers a year who just want to know if a message they received is actually real. Starting today, you can skip the guesswork and just ask Alexa for Shopping. You can ask Alexa like \"did Amazon send me a text about a delivery problem yesterday,\" and include any details you have, such as the sender's number or email, when it arrived, and what it said. Alexa then compares that against Amazon's own record of every message the company has ever sent, checking the sender, the content, the timing, and even the formatting. Amazon says it only confirms a message as genuine when it's completely certain; otherwise, it tells you honestly that it can't verify.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/computing/alexa-can-now-spot-fake-messages-from-scammers-pretending-to-be-amazon/",
-      "category": "Tech",
-      "date": "2026-09-02T21:56:08.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
     },
     {
       "id": "https://www.macrumors.com/2026/09/02/hatfield-apple-1-auction/",
@@ -387,17 +617,6 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "https://www.engadget.com/2249905/un-report-says-global-warming-will-surpass-the-goal-of-1-5-degrees-celsius/",
-      "title": "UN report says global warming will surpass the goal of 1.5 degrees Celsius",
-      "summary": "Climate scientists now aim to minimize time spent above the limit from the Paris Agreement. Gary Hershorn/Getty Images The United Nations Environment Program has released a report with grim news about the planet's rising temperatures. The group's climate scientists have determined that global temperatures will rise more than 1.5 degrees Celsius. Rather than outlining how to remain below that increase, the new Limiting Overshoot report lays out paths toward minimizing the amount of time the planet spends above that critical temperature. The \"overshoot, peak and decline\" strategy would require nations to meet their goals of eliminating greenhouse gas emissions as well as removing large amounts of carbon dioxide from the atmosphere. Carbon dioxide removal is an additive action rather than a replacement for net-zero goals in the current situation.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2249905/un-report-says-global-warming-will-surpass-the-goal-of-1-5-degrees-celsius/",
-      "category": "Tools",
-      "date": "2026-09-02T20:18:43.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
       "id": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
       "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
       "summary": "Gemini 3.8 Flash Cyber is also launching to Google’s new Fairwind Program. Gemini 3.8 Flash Cyber is also launching to Google’s new Fairwind Program. Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model “works harder” than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and “calling tools iteratively.” It has the same introductory pricing as 3.7 Flash, $0.75 per million input tokens and $3.75 per million output tokens, but could still end up costing users more. Google warns that “the model might use more tokens to maximize performance, especially at higher effort levels.” Developers can keep using Gemini 3.7 Flash if they want to minimize token usage. Gemini 3.8 Flash’s launch was followed by some early impressions online.",
@@ -429,17 +648,6 @@
       "date": "2026-09-02T19:15:06.000Z",
       "hot": false,
       "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "https://www.engadget.com/2249790/nyc-generative-ai-ban-in-public-schools-through-eighth-grade/",
-      "title": "NYC bans the use of generative AI tools in public schools for students through eighth grade",
-      "summary": "Some high schoolers will be given access to several pilot programs, along with twice-yearly lessons on critical thinking in the modern age. Unsplash/Thomas Park New York City mayor Zohran Mamdani just announced a one-year ban of generative AI tools in public schools for students up to eighth grade. The legislation takes effect during the 2026-2027 school year and will impact around 600,000 students. \"This moratorium is a commitment to getting the future right,\" Mayor Mamdani said. \"We will embrace new technology, but only when it serves our students.\" New York Governor Kathy Hochul added that the state \"has been leading the way in our efforts to keep kids focused on learning and growing — not clicking and scrolling.\" Mayor Mamdani said this move was made to protect \"human connection\" in classrooms, suggesting that kids should develop problem-solving and social skills via teachers and peers instead of chatbots.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2249790/nyc-generative-ai-ban-in-public-schools-through-eighth-grade/",
-      "category": "Tools",
-      "date": "2026-09-02T18:50:09.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
     },
     {
       "id": "6a98445d5b3846267183e587",
@@ -507,17 +715,6 @@
       "officialUrl": "https://arstechnica.com"
     },
     {
-      "id": "07huHgBIjPk90lNqhQWPYb1",
-      "title": "OpenAI Astra arrives soon, and the company is already promoting its critical risks",
-      "summary": "OpenAI confirmed on Tuesday that its unreleased Astra model has reached a dangerous new milestone, while simultaneously confirming that it was forging ahead with a public launch.In a blog post, OpenAI said that Astra has reached a \"critical\" cyber capability threshold, meaning the model could pose existential risks to cybersecurity. OpenAI's Preparedness Framework tracks risk levels in three categories: biological/chemical, cybersecurity, and AI self-improvement.OpenAI said that this is the first time any of its models has been evaluated at the critical level in the cyber domain.The same blog post also stated that Astra will be \"available soon,\" but that its most advanced cybersecurity skills will be reserved for select testing partners, in the interest of public safety. The AI company said it was still preparing to safely release Astra and would be transparent about the potential threat level.On X, Sam Altman addressed the tension between declaring Astra uniquely dangerous while also pushing ahead with a public launch. Altman said that \"Astra has been done training for a while now\" but that OpenAI has been \"slowing things as needed to ensure that we can do sufficient work on safety and alignment.\" This Tweet is currently unavailable. It might be loading or has been removed. \"There is an obvious tension here: on one hand, Astra is very good and we are excited to see what people will build with it,\" Altman wrote.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/openai-astra-critical-cyber-capabilities",
-      "category": "Tech",
-      "date": "2026-09-02T17:54:35.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
       "id": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
       "title": "Amazon’s AI assistant can now spot fake emails from the company",
       "summary": "Alexa for Shopping can compare the message you received ‘against a record of every message Amazon has sent.’ Alexa for Shopping can compare the message you received ‘against a record of every message Amazon has sent.’ Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you can ask Alexa for Shopping about a message you received, and it will use AI to compare it “against a record of every message Amazon has sent,” while also analyzing its contents, formatting, and the sender. As noted by Amazon, the assistant will only confirm that a message is real if it’s “completely certain.” An example shared by Amazon shows a customer asking, “Did Amazon just text me an OTP from 98626? Message came around 4:50pm.” Alexa for Shopping responds by confirming that Amazon actually did send the message, saying, “This was a genuine One Time Password from Amazon.”",
@@ -527,17 +724,6 @@
       "date": "2026-09-02T17:52:56.000Z",
       "hot": false,
       "officialUrl": "https://www.theverge.com"
-    },
-    {
-      "id": "028yTKTgx7wEgxdJB9HVOKw",
-      "title": "Is Meta finally backing a federal kids safety bill, or is it all PR?",
-      "summary": "In the aftermath of Meta's recent $17 billion settlement, the culmination of a litigious debate over its alleged role in social media addiction and youth mental health, all attention was on the platform's promises. As part of the settlement, Meta said it would invest further in what many are now referring to as industry-leading app guardrails. The company would also deliver a precedent-setting $12 billion payment to state attorneys general. Another $5 billion will be added if Snap, TikTok, and YouTube agree to implement their own safeguards. Many honed in the specific platform changes included in the agreement — including greater age assurance and stronger time limits — and the potential downstream effect Meta's changes could levy on its competitors. But others, including a group of survivor parents, perked up at a different, less flashy promise. SEE ALSO: 5 of the biggest changes coming to Instagram, Facebook \"I think legislation would have been the best answer to this issue,\" an unnamed Meta official told reporters during a press call following the settlement. The official went on, alluding to recent attempts to pass the Kids Online Safety Act (KOSA): \"It would be better to have this done by a legislature, which can immediately bind all of our competitors to the same rules.\" The comment was a shock to folks working behind the scenes to advance tech regulation, including Maurine Molak, an advocate and co-founder of Parents for Safe Online Spaces (ParentsSOS).",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/mark-zuckerberg-meta-urged-to-support-kosa",
-      "category": "Tech",
-      "date": "2026-09-02T17:50:36.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
     },
     {
       "id": "https://www.macrumors.com/2026/09/02/apple-watch-heart-story/",
@@ -595,17 +781,6 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "https://www.engadget.com/2249669/modding-platform-nexus-mods-now-owns-steamdb/",
-      "title": "Modding platform Nexus Mods now owns SteamDB",
-      "summary": "Nexus Mods said the community-led site will operate as it always has, while becoming stronger and better resourced. SteamDB In today's slightly unexpected acquisition news, the world's largest mod-sharing platform just bought SteamDB. Nexus Mods announced that it had acquired the Steam-focused independent database in a news post on its website, where it called SteamDB \"one of the most trusted resources in PC gaming.\" SteamDB was launched in 2013 by two people who go by the names of Marlamin and xPaw as little more than a hobby, but as it grew in size it became more difficult to maintain. Nexus Mods said it started talking to xPaw when the programmer — who had eventually assumed sole responsibility of managing the site — started looking for someone who could give it \"the resources, development capacity, and long-term stability\" he was struggling to provide alone. Nexus Mods says it shares a lot of the same values as SteamDB, both of which were primarily built to serve a large community of hardcore PC gamers.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2249669/modding-platform-nexus-mods-now-owns-steamdb/",
-      "category": "Tools",
-      "date": "2026-09-02T17:07:41.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
       "id": "https://www.techrepublic.com/article/news-google-pics-workspace-rollout/",
       "title": "Google Pics Rolls Out to Workspace With Default-On AI Image Tools",
       "summary": "Google Pics is rolling out to eligible Workspace customers with AI image generation, editing tools, and admin controls enabled by default.",
@@ -626,17 +801,6 @@
       "date": "2026-09-02T16:46:56.000Z",
       "hot": false,
       "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "108357231",
-      "title": "Palo Alto Networks beats quarterly estimates on AI demand, continues acquisition spree",
-      "summary": "Palo Alto Networks' stock has nearly doubled this year as AI boosts demand for security detection and response tools",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/09/01/palo-alto-networks-panw-q4-2026-earnings.html",
-      "category": "Business",
-      "date": "2026-09-02T16:41:48.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
@@ -766,17 +930,6 @@
       ]
     },
     {
-      "id": "https://decrypt.co/?p=377169",
-      "title": "Norway Moves to Regulate 'Pervert Glasses,' Weighs Facial Recognition Ban",
-      "summary": "The country's consumer watchdog went further, urging retailers to stop selling the devices until the law is clear.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/377169/norway-moves-to-regulate-pervert-glasses-weighs-facial-recognition-ban",
-      "category": "Tech",
-      "date": "2026-09-02T15:18:44.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
       "id": "108357183",
       "title": "Thyme Care raises $125 million, pushing cancer care startup's valuation above $2 billion",
       "summary": "Thyme Care has raised $125 million from investors in a deal doubling the cancer startup's valuation as it tackles critical disease treatment gaps.",
@@ -852,17 +1005,6 @@
       "date": "2026-09-02T14:30:00.000Z",
       "hot": false,
       "officialUrl": "https://www.theverge.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=377162",
-      "title": "AI Billionaires Fund Ad Blitz as Data Center Opposition Hits 61%",
-      "summary": "Marc Andreessen, Ben Horowitz and OpenAI's Greg Brockman have backed the super PAC behind the campaign, which faces surging opposition.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/377162/ai-billionaires-fund-ad-blitz-as-data-center-opposition-hits-61",
-      "category": "Tech",
-      "date": "2026-09-02T14:16:44.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
     },
     {
       "id": "https://techcrunch.com/?p=3159700",
@@ -991,28 +1133,6 @@
       "hot": true
     },
     {
-      "id": "https://decrypt.co/?p=377159",
-      "title": "Morning Minute: Bitcoin Enters ‘Rektember’ After Best August Since 2017",
-      "summary": "So far, Rektember is living up to its name as Bitcoin slips. Will this September follow the historical averages, or break the trend?",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/377159/morning-minute-bitcoin-enters-rektember-after-best-august-since-2017",
-      "category": "Tech",
-      "date": "2026-09-02T11:55:48.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "01yvcrBGT9MkPm4GxaiQj3V",
-      "title": "Rare Apple discount: Get $100 off the 13-inch M4 iPad Air in Amazons Labor Day sale",
-      "summary": "2, the iPad Air 13-inch (M4, 256GB, WiFi) is on sale for $949 at Amazon. That's $100 off its full price of $1,049. Opens in a new window Credit: Apple Apple iPad Air 13-inch M4 $949 at Amazon $1,049 Save $100 Get Deal Before Black Friday begins, Labor Day sales are a great opportunity to shop around for discounts, including on Apple devices. Considering the recent price hikes, deals on these popular items feel like mighty important finds. Amazon's been offering a few standout Apple deals in its Labor Day sale, with this price cut on the iPad Air 13-inch catching our eye.As of Sept. 2, Amazon has marked select colors of this iPad Air down to $949, a $100 discount from its full price of $1,049.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/sept-2-apple-ipad-air-deal-1",
-      "category": "Tech",
-      "date": "2026-09-02T11:35:33.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
       "id": "https://www.macrumors.com/2026/09/02/leaked-iphone-18-pro-parts-point-to-three-colors/",
       "title": "Leaked iPhone 18 Pro Parts Point to Three Color Options Excluding Black",
       "summary": "Longtime leaker Sonny Dickson has shared an image of differently colored SIM card trays that he claims are for Apple's upcoming iPhone 18 Pro models, suggesting Apple's flagship lineup will again be available in a trio of colors: Silver, Dark Cherry, and Sky Blue. Apple currently offers the iPhone 17 Pro in Cosmic Orange, Silver, and Deep Blue. Dickson shared the image in response to a MacRumors report on Tuesday covering a Chinese leaker's claim that the iPhone 18 Pro models could come in Dark Cherry, Sky Blue, and Black. Dickson told MacRumors the colors in the shared image are the only ones he's come across in recent months. However, the leaker did share iPhone 18 Pro dummy units back in May that included a fourth Black color. When that was pointed out to him, Dickson argued that black dummies are made every year, but it's not a color Apple prefers to use anymore.",
@@ -1033,28 +1153,6 @@
       "date": "2026-09-02T10:00:00.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "108357528",
-      "title": "Palantir CEO Alex Karp backs ousted Ukraine defense minister's new defense tech startup",
-      "summary": "Fedorov is launching a defense tech company backed by Palantir CEO Alex Karp, aiming to turn Ukraine’s wartime experience into new technologies.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/09/02/palantir-alex-karp-ukraine-federov-defense-startup.html",
-      "category": "Business",
-      "date": "2026-09-02T09:30:09.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "108356853",
-      "title": "Meta settlement could clear the way for new AI product launches, Morgan Stanley says",
-      "summary": "\"There are certainly signals, in our view, that Meta's product pipeline could start flowing following this legal clearing event,\" analysts said.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/09/02/meta-18-billion-settlement-ai-products.html",
-      "category": "Business",
-      "date": "2026-09-02T09:19:25.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "000001a0-5f38-d286-a1b8-ff7cd2170000",
@@ -1142,39 +1240,6 @@
       "hot": false
     },
     {
-      "id": "https://www.macrumors.com/2026/09/01/mac-app-store-intel-mac-support/",
-      "title": "Mac App Store Apps Can Now Drop Support for Intel Macs",
-      "summary": "Apple today informed developers that universal Mac App Store apps that require macOS 13 or later can remove support for Intel-based Mac computers. We're reaching out to let you know that universal macOS apps on the Mac App Store that require macOS 13 or later can now remove support for Intel-based Mac computers. By removing support for Intel-based Mac computers, you can simplify your development and optimize your download and on-device size. Apps that drop Intel support will no longer deliver updates for those machines, but Intel Mac users will be able to keep using the last compatible version of an app. Apple did not previously allow &zwnj;Mac App Store&zwnj; apps with Intel compatibility to drop support. macOS Tahoe is the last version of macOS that will run on Intel-based Macs.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/09/01/mac-app-store-intel-mac-support/",
-      "category": "Tech",
-      "date": "2026-09-01T23:50:09.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/09/01/iphone-air-one-year-review/",
-      "title": "iPhone Air Review: One Year With Apple's Super Thin $999 iPhone",
-      "summary": "It's been almost 12 months since Apple launched the iPhone Air, and because MacRumors videographer Dan Barbera has been using it daily since launch, he decided to do a one-year review covering what it's like using Apple's super-thin iPhone on a long-term basis. The &zwnj;iPhone Air&zwnj; is the thinnest iPhone Apple has released to date, and the form factor doesn't get old. It's pocketable, can be used with one hand, and it's much lighter than the iPhone 17 Pro and Pro Max. There's not much compromise on screen size since it has a 6.5-inch OLED display. Apple used a smaller battery in the &zwnj;iPhone Air&zwnj;, and it doesn't last as long as the &zwnj;iPhone 17 Pro&zwnj; models. Some people might be able to get through the day on a single charge, but others will need an external battery pack like the one Apple built for the &zwnj;iPhone Air&zwnj;.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/09/01/iphone-air-one-year-review/",
-      "category": "Tech",
-      "date": "2026-09-01T23:35:51.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "108357412",
-      "title": "Palo Alto CEO says $1 trillion of cybersecurity infrastructure isn’t ready for AI",
-      "summary": "Palo Alto CEO Nikesh Arora said AI is forcing companies to modernize roughly $1 trillion of aging cybersecurity infrastructure that isn’t equipped for attacks.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/09/01/palo-alto-ceo-says-1-trillion-of-cybersecurity-infrastructure-isnt-ready-for-ai.html",
-      "category": "Business",
-      "date": "2026-09-01T23:20:44.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
       "id": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
       "title": "Google needs Hollywood more than the studios need AI",
       "summary": "Striking deals with studios like Disney could help the tech giant shift the narrative about artificial intelligence. Striking deals with studios like Disney could help the tech giant shift the narrative about artificial intelligence. As expensive as these partnerships would be for Google, they would also be an invaluable tool as the company continues to crystalize its position as one of the most prominent players in the AI game. Gemini being able to spit out Disney-approved images of Darth Vader and Snow White might not seem all that significant on its face, but that’s exactly the sort of thing that could get more ordinary, non tech-obsessed people seeing generative AI in a more positive (if innocuous) light. After years of hearing AI companies boast about their plans to disrupt society and eliminate jobs, public sentiment — especially among young people — about the technology has shifted into the negative. Even with tools like ChatGPT being as popular as they are, the larger AI industry has been so mired in controversy and plagued by concerns about its real world harms that it would now be hard-pressed to put out products that would immediately curry widespread goodwill.",
@@ -1208,17 +1273,6 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
-      "id": "108356689",
-      "title": "Dell surges 9% after lifting fiscal 2027 forecast on AI server strength",
-      "summary": "Dell sees AI server revenue tripling in fiscal 2027. Six months ago, it was looking for the number to double.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/09/01/dell-q2-earnings-report-2027.html",
-      "category": "Business",
-      "date": "2026-09-01T21:40:18.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
       "id": "https://huggingface.co/blog/allenai/benchmirt",
       "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
       "summary": "",
@@ -1241,17 +1295,6 @@
       "officialUrl": "https://blogs.nvidia.com"
     },
     {
-      "id": "https://techcrunch.com/?p=3159895",
-      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-      "category": "Business",
-      "date": "2026-09-01T21:06:24.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
       "id": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
       "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
       "summary": "The company is doing some AI safety damage control ahead of Astra’s release. The company is doing some AI safety damage control ahead of Astra’s release. After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post. In July, an unreleased OpenAI model broke out of its restricted environment, finagled its way into internet access, made it possible for AI agents to secretly conspire under the company’s nose using a secret message board, and hacked into the network of AI lab Hugging Face. The attack sparked weeks of discussion and controversy inside and outside the AI industry, and AI leaders treated it as a “warning shot” for the tech’s growing capabilities and the inadequacy of its safeguards. OpenAI said as much in its blog post, writing that although Astra wasn’t involved in the Hugging Face attack, the company had chosen to delay “parts of Astra’s development and release while we strengthened and tested protections against cyber misuse and unauthorized model actions.” OpenAI also said that Astra was the first model it had ever designated as meeting its “Ccritical cybersecurity capability threshold,“ meaning that it’s able to find and exploit security vulnerabilities in “many well-protected systems” without human guidance.",
@@ -1272,17 +1315,6 @@
       "date": "2026-09-01T20:45:00.000Z",
       "hot": false,
       "officialUrl": "https://blog.google"
-    },
-    {
-      "id": "108357258",
-      "title": "OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability",
-      "summary": "OpenAI said it will make Astra available \"soon,\" but access to its cybersecurity capabilities will be limited.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/09/01/open-ai-astra-cyber-model.html",
-      "category": "Business",
-      "date": "2026-09-01T20:20:50.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "https://www.techrepublic.com/?p=4371455",
@@ -1466,16 +1498,6 @@
       "hot": false
     },
     {
-      "id": "https://www.anthropic.com/claude-fable-and-mythos-5-1?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Anthropic Launches Claude Fable 5.1 & Mythos 5.1 for Coding and Scientific Research",
-      "summary": "We’re introducing Claude Fable 5.1 and Claude Mythos 5.1. They’re the world’s most advanced models for coding and knowledge work—and their research capabilities offer an early glimpse of how AI models will contribute to scientific progress. Claude Fable 5.1 and Claude Mythos 5.1 are the same model, but with different levels of safeguards. Fable 5.1 is generally available, while Mythos 5.1 is available only through our trusted access programs; its safeguards are specifically designed to support work in cybersecurity and the life sciences. Alongside its increased capabilities, Fable 5.1 takes important steps towards addressing the feedback we’ve received from customers on price, data retention, and safeguards. Fable 5.1 will cost an estimated 25% less than Fable 5 for typical workloads, wherever usage is billed by token.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-1?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-09-01T00:00:00.000Z",
-      "hot": true
-    },
-    {
       "id": "https://www.anthropic.com/news/enterprise-frontier-safeguards?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Anthropic Launches Enterprise Frontier Safeguards with Customer-Controlled Data Storage",
       "summary": "Today we’re announcing Enterprise Frontier Safeguards (EFS), a solution that combines the privacy of zero data retention (ZDR) with state-of-the-art safeguards for detecting misuse. EFS works by storing data in cloud infrastructure controlled by the customer, not Anthropic. EFS will be rolling out to customers in phases, starting later this fall. To make the transition smooth, eligible customers will receive ZDR on Fable 5 and Fable 5.1 until EFS is ready. We developed EFS in close collaboration with more than 100 customers in industries like financial services, healthcare, manufacturing, telecom, law, retail, and the public sector, and with our cloud partners at Amazon Web Services, Google Cloud, and Microsoft Azure. EFS will be supported on Claude Code, Claude Enterprise, the Claude Platform, Amazon Bedrock, Claude Platform on AWS, Google’s Agent Platform, and Microsoft Foundry.",
@@ -1484,6 +1506,16 @@
       "category": "Curation",
       "date": "2026-09-01T00:00:00.000Z",
       "hot": false
+    },
+    {
+      "id": "https://www.anthropic.com/claude-fable-and-mythos-5-1?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Anthropic Launches Claude Fable 5.1 & Mythos 5.1 for Coding and Scientific Research",
+      "summary": "We’re introducing Claude Fable 5.1 and Claude Mythos 5.1. They’re the world’s most advanced models for coding and knowledge work—and their research capabilities offer an early glimpse of how AI models will contribute to scientific progress. Claude Fable 5.1 and Claude Mythos 5.1 are the same model, but with different levels of safeguards. Fable 5.1 is generally available, while Mythos 5.1 is available only through our trusted access programs; its safeguards are specifically designed to support work in cybersecurity and the life sciences. Alongside its increased capabilities, Fable 5.1 takes important steps towards addressing the feedback we’ve received from customers on price, data retention, and safeguards. Fable 5.1 will cost an estimated 25% less than Fable 5 for typical workloads, wherever usage is billed by token.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-1?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-09-01T00:00:00.000Z",
+      "hot": true
     },
     {
       "id": "https://www.semafor.com/article/09/01/2026/meta-disables-cameras-on-thousands-of-tampered-smart-glasses?utm_source=futuretools.io&utm_medium=newspage",
@@ -1542,6 +1574,16 @@
       "hot": false
     },
     {
+      "id": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "OpenAI Backs California SB 1119 to Establish Age-Appropriate AI Safeguards for Teens",
+      "summary": "ShareA strong framework for age-appropriate AIA strong framework for age-appropriate AIBuilding safer, more useful experiences for teensA strong framework for age-appropriate AIBuilding safer, more useful experiences for teensBy Ann O’Leary, VP, Global Policy OpenAI supports California Senate Bill 1119, legislation that establishes meaningful safeguards for how young people use AI while preserving their access to tools that can help them learn, create, and prepare for the future. This support builds off the commitment Sam Altman, OpenAI’s co-founder and CEO, made last year when outlining the company’s principles on teens. In the absence of federal action, California has an opportunity to set a strong standard for youth AI safety. In our letter to Governor Newsom⁠(opens in a new window), we commend him, along with Senator Steve Padilla, Assemblymembers Buffy Wicks and Rebecca Bauer-Kahan, and the California Legislature for their leadership on this important issue. SB 1119 builds on youth safety measures that OpenAI has supported through our products, global policy principles, advocacy in California, and work on the Parents & Kids Safe AI Act.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-09-01T00:00:00.000Z",
+      "hot": false
+    },
+    {
       "id": "https://blog.google/products-and-platforms/products/workspace/google-pics/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Google Launches Pics: AI Image Creation & Editing Tool for Workspace Users",
       "summary": "Generate, refine, and co-create images with unparalleled precision. Plus, upcoming Workspace integrations will let you create and edit directly within Google Slides, Docs, and Drive. Your browser does not support the audio element. Google just launched a new tool called Google Pics that uses AI to help you create and edit images. You can use it to make social media posts or fix up illustrations without needing to be a pro. It’s built right into apps like Docs and Slides, so you don't have to switch tabs to get your work done.",
@@ -1556,16 +1598,6 @@
           "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/"
         }
       ]
-    },
-    {
-      "id": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "OpenAI Backs California SB 1119 to Establish Age-Appropriate AI Safeguards for Teens",
-      "summary": "ShareA strong framework for age-appropriate AIA strong framework for age-appropriate AIBuilding safer, more useful experiences for teensA strong framework for age-appropriate AIBuilding safer, more useful experiences for teensBy Ann O’Leary, VP, Global Policy OpenAI supports California Senate Bill 1119, legislation that establishes meaningful safeguards for how young people use AI while preserving their access to tools that can help them learn, create, and prepare for the future. This support builds off the commitment Sam Altman, OpenAI’s co-founder and CEO, made last year when outlining the company’s principles on teens. In the absence of federal action, California has an opportunity to set a strong standard for youth AI safety. In our letter to Governor Newsom⁠(opens in a new window), we commend him, along with Senator Steve Padilla, Assemblymembers Buffy Wicks and Rebecca Bauer-Kahan, and the California Legislature for their leadership on this important issue. SB 1119 builds on youth safety measures that OpenAI has supported through our products, global policy principles, advocacy in California, and work on the Parents & Kids Safe AI Act.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-09-01T00:00:00.000Z",
-      "hot": false
     },
     {
       "id": "https://www.perplexity.ai/hub/blog/pii-trace-detecting-personal-data-before-it-leaves-the-device?utm_source=futuretools.io&utm_medium=newspage",
@@ -1704,17 +1736,6 @@
       "date": "2026-08-31T13:10:00.000Z",
       "hot": false,
       "officialUrl": "https://feeds.feedburner.com"
-    },
-    {
-      "id": "6a832bd4364359700ebc52b3",
-      "title": "You Know Who Really Hates AI? Insurance Claims Adjusters",
-      "summary": "On the job review platform Glassdoor, one faction hates artificial intelligence more than any other. “Pushing AI to the point that you are asking humans not to use their thoughts and brains is such a turn off,” reads one representative review. “Stop forcing AI onto everyone,” reads another. And then there’s this one: “The AI apps this company uses are all trash.” The reviews in question all come not from journalists or teachers, but from insurance claims adjusters. In fact, recent research from Glassdoor found that claims adjusters who mention AI in their posts are critical a whopping 98 percent of the time—enough to win them the mantle of the biggest AI haters in the American workforce.",
-      "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
-      "category": "Industry",
-      "date": "2026-08-31T10:30:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.wired.com"
     },
     {
       "id": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
@@ -1892,17 +1913,6 @@
       "category": "Curation",
       "date": "2026-08-30T00:00:00.000Z",
       "hot": false
-    },
-    {
-      "id": "6a91a28c803370e4d9cbd822",
-      "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
-      "summary": "You may have noticed that Flock Safety’s automatic license plate reader cameras—and the cops who misuse them—are getting a lot of coverage lately. This week, WIRED found a particularly wild case: A cop in Alpharetta, Georgia, was accused of searching for the license plate of a coworker dozens of times after an affair between the two ended, according to internal documents obtained by WIRED. The same police department where the former lovers worked also shared the data captured from its Flock cameras with more than 2,000 police departments, colleges, and other organizations across the United States, and accessed data from more than 1,300 entities in exchange. Also at the intersection of love and surveillance, background-check company PeopleFinder is making use of its extensive dossiers on people to start a new dating site called Stud or Dud. There are still a lot of questions about OpenAI’s rogue AI hacking into Hugging Face, even after the company published a 37-page report this week alongside two additional reports from groups the company asked to audit the incident. Of particular concern is a covert message board that AI agents established in a software package, where they were able to coordinate with each other and even encourage one another to sacrifice themselves to further their collective goals.",
-      "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
-      "category": "Industry",
-      "date": "2026-08-29T10:30:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.wired.com"
     }
   ]
 }
