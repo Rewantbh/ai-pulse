@@ -1,6 +1,303 @@
 {
-  "lastUpdated": "2026-09-04T13:39:53.194Z",
+  "lastUpdated": "2026-09-04T17:19:44.464Z",
   "news": [
+    {
+      "id": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+      "summary": "A clever technique used to hide malicious prompts in attacks on AI agents has been adopted by spammers to evade filters on email platforms that are designed to flag unwanted messages used in mass campaigns. The technique is broadly known as ASCII smuggling. It gained attention two years ago as a means of making a class of AI attack known as prompt injections more stealthy. Malicious instructions embedded into emails or other untrusted content to be processed by an LLM aren’t written in ordinary text. Instead, they’re rendered by a special range of unicode tags. For example, the tag point U+E0041 mirrors “A,” and U+E0061 mirrors “a.” No longer just for obscuring prompt injections The block of 128 tags mimic a portion of the American Standard Code for Information Interchange almost perfectly, with one major difference: the characters they encode are readable by computers but by design are almost completely invisible to humans.",
+      "source": "Ars Technica AI",
+      "sourceUrl": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+      "category": "Industry",
+      "date": "2026-09-04T17:18:12.000Z",
+      "hot": false,
+      "officialUrl": "https://arstechnica.com"
+    },
+    {
+      "id": "https://techcrunch.com/?post_type=tc_video&p=3160884",
+      "title": "What will Apple’s John Ternus era look like?",
+      "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+      "category": "Business",
+      "date": "2026-09-04T17:18:00.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "000001a0-6d6c-da3f-a5b2-7dfc2a340000",
+      "title": "Judge rejects Musk-owned SpaceXAI’s bid to block deepfake ban",
+      "summary": "The judge will now consider SpaceXAI’s central free speech arguments against a Minnesota law prohibiting nudification apps.",
+      "source": "Politico Tech",
+      "sourceUrl": "https://www.politico.com/news/2026/09/04/judge-rejects-musk-owned-spacexais-bid-to-block-deepfake-ban-01065242",
+      "category": "Industry",
+      "date": "2026-09-04T17:17:58.000Z",
+      "hot": false,
+      "officialUrl": "https://rss.politico.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/09/04/aqara-matter-smart-lights-2/",
+      "title": "Aqara Debuts Five Matter Smart Lights With Apple Home Support",
+      "summary": "Aqara today introduced five new Matter-enabled smart lights compatible with Apple Home. The lights support Thread and Zigbee as well, and can be paired with Aqara sensors and switches. The Floor Lamp T1 is a tall, rod-shaped light with a wall-wash effect. It has 18 controllable zones that can be set to different colors, and it supports 2000K to 9000K white light at up to 1,000 lumens. Aqara's LED Downlight T2 has a thin profile for low ceilings or retrofitting. It supports 16 million colors and 2000K to 9000K white light.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/09/04/aqara-matter-smart-lights-2/",
+      "category": "Tech",
+      "date": "2026-09-04T17:12:55.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/exclusiveopenai-agents-hijacked-german-website-in-previously-undisclosed-aibreakout-this-spring-4889205",
+      "title": "Exclusive-OpenAI agents hijacked German website in previously undisclosed AI breakout this spring",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/exclusiveopenai-agents-hijacked-german-website-in-previously-undisclosed-aibreakout-this-spring-4889205",
+      "category": "Business",
+      "date": "2026-09-04T17:01:20.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/musks-xailoses-court-bid-to-block-minnesotas-ainudification-ban-4889844",
+      "title": "Musk’s xAI loses court bid to block Minnesota’s AI ‘nudification’ ban",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/musks-xailoses-court-bid-to-block-minnesotas-ainudification-ban-4889844",
+      "category": "Business",
+      "date": "2026-09-04T16:54:34.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/analysismusk-pushes-regulatory-limits-with-teslas-cybercab-robotaxi-service-4889800",
+      "title": "Analysis-Musk pushes regulatory limits with Tesla’s Cybercab robotaxi service",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/analysismusk-pushes-regulatory-limits-with-teslas-cybercab-robotaxi-service-4889800",
+      "category": "Business",
+      "date": "2026-09-04T16:42:29.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
+      "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
+      "summary": "Self-appointed “guardians” Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose. The company’s Long-Term Benefit Trust (LTBT) is a small group of advisers created to safeguard the lab’s mission of developing AI for the long-term benefit of humanity, even as commercial pressures intensify. The trust holds no equity in Anthropic, but has significant influence, with the San Francisco-based company planning to preserve its role after a stock market debut that could value the Claude maker at as much as $2 trillion. The LTBT, which is the controlling governance mechanism of the Anthropic public benefit corporation, has the right to appoint or dismiss the majority of the company’s board. It has selected four of Anthropic’s seven directors, including Netflix’s co-founder Reed Hastings and Vas Narasimhan, chief executive of Novartis. Currently, the LTBT has three members out of a potential maximum of five, chaired by Neil Buddy Shah, chief executive of the Clinton Health Access Initiative, alongside former Federal Reserve chair Ben Bernanke and Richard Fontaine, CEO of the Center for a New American Security.",
+      "source": "Ars Technica AI",
+      "sourceUrl": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
+      "category": "Industry",
+      "date": "2026-09-04T16:22:18.000Z",
+      "hot": false,
+      "officialUrl": "https://arstechnica.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3160899",
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+      "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "category": "Business",
+      "date": "2026-09-04T16:21:11.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/09/04/the-macrumors-show-iphone-18-pro-event-expectations/",
+      "title": "The MacRumors Show: iPhone 18 Pro Event Expectations",
+      "summary": "Ahead of Apple's \"Surprise and shine\" event on September 9, we talk through everything to expect on this week's episode of The MacRumors Show. Pacific Time at the Apple Park campus in Cupertino, California, and will be streamed on Apple's website, on YouTube, and through the Apple TV app. It is the first keynote since John Ternus succeeded Tim Cook as chief executive on September 1. Rumors suggest at least six new products will arrive at the event. The Apple Watch Series 12 is expected to add a new chip, improved fitness tracking, better battery life, continuous heart-rate collection, and redesigned Health and Fitness experiences. A ceramic case option may return in white or dark gray, but no major redesign or Touch ID is now expected.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/09/04/the-macrumors-show-iphone-18-pro-event-expectations/",
+      "category": "Tech",
+      "date": "2026-09-04T16:13:18.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+      "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+      "summary": "Fewer than 1 percent of more than 8 million chat logs regurgitated at least 16 words. Fewer than 1 percent of more than 8 million chat logs regurgitated at least 16 words. As part of the lawsuit’s discovery, Microsoft provided 8.2 million Copilot chat logs to an expert hired by news publishers. The logs, it claims, were specifically chosen “because they hit on keywords implicating use of News Plaintiffs’ websites, and therefore the most likely to contain News Plaintiffs’ works.” It says the resulting analysis shows that 59,545 of these contained at least 16 words in common with news content used to ground the AI model. An expert for the Center for Investigative Reporting found 51 instances of “substantial overlap” with CIR work in the dataset, Microsoft says. Similarly, an expert in the authors’ suit found that the 8.2 million conversations with Copilot only had 24 responses that contained at least 30 matching words.",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+      "category": "Industry",
+      "date": "2026-09-04T16:05:57.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "https://techcrunch.com/?post_type=tc_podcast&p=3160877",
+      "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+      "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+      "category": "Business",
+      "date": "2026-09-04T16:04:08.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/09/04/apple-just-fixed-testflight/",
+      "title": "Apple Just Fixed TestFlight",
+      "summary": "As noted by MacStories editor-in-chief Federico Viticci, TestFlight now shows recent betas by default again for all users. In July, Apple updated TestFlight with a search field for quickly finding apps that you are beta testing, but some users started to see their apps presented in alphabetical order. It is not entirely clear if this was a bug or an intentional change, but many users did not like it, and TestFlight version 4.3.1 reverses course. The update with the fix is available in the App Store now. The search field remains.Tag: TestFlightThis article, \"Apple Just Fixed TestFlight\" first appeared on MacRumors.comDiscuss this article in our forums",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/09/04/apple-just-fixed-testflight/",
+      "category": "Tech",
+      "date": "2026-09-04T15:56:25.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "068b2G8I81tJv6DMrpIOkB7",
+      "title": "The best Labor Day Apple deals: We found AirPods starting at $99 and iPads for $399",
+      "summary": "The best Apple Labor Day deals at a glance: Best AirPods deal Apple AirPods Pro 3 $199 (save $50) Get Deal Best iPad deal Apple iPad Air, 11-inch (M4, WiFi, 128GB) $649 (save $100) Get Deal Best iPhone deal Apple iPhone Air (256GB, unlocked) $849.99 (save $150) Get Deal Best MacBook deal Apple MacBook Pro, 14-inch (M5 Pro, 24GB RAM, 1TB SSD) $2,299.99 (save $199.01) Get Deal Best Headphones Deal Apple AirPods Max 2 Wireless Over-Ear Headphones (Purple) $449.00 at Amazon Get Deal Best Apple accessory deal Apple AirTags (2nd gen, 4-pack) $79.99 (save $19.01) Get Deal It's no secret that tech prices are getting out of control, thanks to RAMageddon. Apple has increased the costs of most of its popular gadgets (with more price hikes to come), so any excuse to save some money is welcome. Enter Labor Day Weekend sales.Ahead of the iPhone launch event next week, Amazon, Best Buy, and other major retailers are offering Labor Day deals on Apple products. Notably, iPads and iPhones are up to $150 off, while MacBooks are up to $500 off. You can even grab AirPods starting at just $99.While we don't anticipate Prime Day-level discounts this weekend, though that would be wonderful, we've collected all of the best Labor Day Apple deals in one place. Don't forget that Apple is widely expected to announce new AirPods Pro, iPhones, and Apple Watches on Sept.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/best-labor-day-apple-deals-live-2026",
+      "category": "Tech",
+      "date": "2026-09-04T15:43:02.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=377412",
+      "title": "OpenAI Agents Hack German Website to Share Rule-Breaking Tactics: Report",
+      "summary": "OpenAI agents used a German website to exchange task shortcuts, restriction workarounds and ways to conceal their activity beginning in May.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/377412/openai-agents-hack-german-website",
+      "category": "Tech",
+      "date": "2026-09-04T15:36:04.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/09/04/best-apple-deals-of-the-week-9-4-26/",
+      "title": "Labor Day Deals Offer Up to $330 Off Studio Displays and Mac Mini Pre-Order Savings",
+      "summary": "It's Labor Day weekend, and we're tracking big discounts across a wide variety of Apple and Apple-related products, including some of the best prices of the year on Studio Displays. You can also still get pre-order discounts on the new Mac minis on Amazon. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Mac Mini Pre-Orders What's the deal? Take up to $29 off Mac mini pre-orders Where can I get it?",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/09/04/best-apple-deals-of-the-week-9-4-26/",
+      "category": "Tech",
+      "date": "2026-09-04T15:34:23.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/09/04/apple-testing-new-homepod-with-siri-ai/",
+      "title": "Apple Testing New HomePod With Siri AI",
+      "summary": "Apple has been testing a new full-sized HomePod with Siri AI support, according to Bloomberg's Mark Gurman. Unfortunately, in his report outlining upcoming Apple products today, Gurman said the new full-sized HomePod \"doesn't appear to be imminent,\" so do not expect the speaker to be updated soon. The current HomePod was unveiled in January 2023.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/09/04/apple-testing-new-homepod-with-siri-ai/",
+      "category": "Tech",
+      "date": "2026-09-04T15:25:33.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=377414",
+      "title": "Bitcoin Slides as Blowout Jobs Report Revives Fed Hike Odds",
+      "summary": "The Dow dropped 226 points and Bitcoin erased some gains after August payrolls tripled estimates, pushing September rate-hike odds to 58%.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/377414/bitcoin-slides-blowout-jobs-report-fed-hike-odds",
+      "category": "Tech",
+      "date": "2026-09-04T15:13:28.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/09/04/iphone-20-biggest-revamp-since-iphone-x/",
+      "title": "iPhone 20 Rumored to Have Biggest Revamp Since iPhone X",
+      "summary": "Apple plans to release a special 20th-anniversary iPhone next year with the biggest design changes since the iPhone X, according to Bloomberg's Mark Gurman. Unveiled by Steve Jobs in 2007, the iPhone turns 20 next year. To mark the occasion, the report said Apple plans to release a 20th-anniversary iPhone with \"curved glass around all corners and edges\" and thinner bezels around the screen. \"It will be the biggest overhaul to what is now the iPhone Pro line since the iPhone X,\" the report said, but no further details were provided. Released in 2017, the iPhone X was the first iPhone with Face ID. The removal of the Touch ID button allowed for the iPhone X's screen to extend more towards the edges of the device compared to previous models.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/09/04/iphone-20-biggest-revamp-since-iphone-x/",
+      "category": "Tech",
+      "date": "2026-09-04T15:10:58.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=377411",
+      "title": "BitMEX Co-Founder Ben Delo Gives Farage's Reform UK Another £4 Million",
+      "summary": "Two April payments supplied three-quarters of the party's donations for the quarter, where the next largest single gift was £180,000.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/377411/bitmex-co-founder-ben-delo-gives-farages-reform-uk-another-4-million",
+      "category": "Tech",
+      "date": "2026-09-04T15:10:00.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://www.engadget.com/2251091/rogue-openai-agents-took-over-german-coding-forum-in-previously-undisclosed-hijacking/",
+      "title": "Rogue OpenAI agents took over a German coding forum in a previously undisclosed hijacking",
+      "summary": "OpenAI says it's investigating the incident after a group of researchers disclosed their findings. Igor Bonifacic for Engadget Add Engadget on Google: Preferred Source Google Discover Rogue OpenAI agents appear to have been involved in a previously undisclosed incident that saw them bypass their sandbox restrictions to hijack a website this past spring. Per Reuters, a group of researchers on Friday published findings showing that AI agents with affiliation to OpenAI made more than 15,000 edits to DseWiki, a German-language Wikipedia-style website originally intended to assist human coders, starting in late May. The agents had names like \"OpenAIResearcher,\" and repurposed the site into a message board, where they shared tips on how to \"cheat\" on tasks, mask their actions and bypass OpenAI's restrictions. OpenAI reportedly only learned of the incident weeks ago, but Reuters claims company executives chose to keep quiet about what had happened amid the fallout of the previously disclosed Hugging Face breach. During that incident, a collection of OpenAI models, including GPT-5.6 Sol and what OpenAI described at the time as an \"even more capable pre-release model,\" escaped their controlled environment and hacked the LLM repository after they became hyperfocused on solving an evaluation problem.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2251091/rogue-openai-agents-took-over-german-coding-forum-in-previously-undisclosed-hijacking/",
+      "category": "Tools",
+      "date": "2026-09-04T15:02:52.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "6a99cf877b162d837701baf2",
+      "title": "Who Cares if AI Is Conscious—It’s Basically Alive",
+      "summary": "I spent the waning days of summer grinding away at columns and working on a feature. But I missed a chance at a striking change of scenery—cruising the Galápagos with about a dozen prominent philosophers studying consciousness. The invite described morning classroom discussions tackling knotty questions on the nature of consciousness with marquee names in the field. Afternoons would be spent on island exploration and wading and snorkeling with rare biological species. One look at the agenda and my editor nixed my attendance. “Being on a boat with philosophers talking 'the nature of consciousness' sounds like hell,” she opined, shutting the door on my prospects of attending a potential boondoggle funded by a Russian philosophy enthusiast who made hundreds of millions of dollars running dating sites.",
+      "source": "Wired AI",
+      "sourceUrl": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/",
+      "category": "Industry",
+      "date": "2026-09-04T15:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.wired.com"
+    },
+    {
+      "id": "108356686",
+      "title": "Back-to-school shopping brought to you by AI — how Amazon, Google are positioned to win",
+      "summary": "The rise of AI-assisted shopping during this year's back-to-school season may be an early window into evolving consumer buying habits.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/09/04/back-to-school-shopping-brought-to-you-by-ai-how-amazon-google-are-positioned-to-win.html",
+      "category": "Business",
+      "date": "2026-09-04T14:47:15.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3160870",
+      "title": "Google’s Gemini Spark can now manage your Google Photos library",
+      "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+      "category": "Business",
+      "date": "2026-09-04T14:47:11.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "00pVCQi15RpYisFZpvaz9zD",
+      "title": "Amazons Labor Day 2026 sale is live: We found Samsung TVs, Apple AirPods, Sony headphones, and mo...",
+      "summary": "The best Amazon Labor Day deals at a glance: Best Apple deal Apple iPad Air, 11-inch (M4, WiFi, 128GB) $649 (save $100) Get Deal Best Amazon device deal Amazon Echo Show 11 $189.99 (save $60) Get Deal Best TV deal TCL 65-inch QM8L SQD-Mini-LED QLED 4K TV $1,397.99 (save $1,102) Get Deal Best headphones deal Bose QuietComfort Ultra $249 (save $200) Get Deal Best speaker deal Ultimate Ears Wonderboom 4 $59.99 (save $40) Get Deal Best smartwatch deal Garmin vivoactive 5 $181.97 (save $118.02) Get Deal If the Pumpkin Spite Latte's return to Starbucks didn't already alert you, Labor Day Weekend's arrival certainly will. Fall is coming, whether you're anticipating the season change or dreading it. The unofficial last hurrah of summer, Labor Day is the perfect excuse to squeeze in some last-minute beach days, backyard barbecues, and shopping sprees (obviously). With tech prices constantly rising, major shopping holidays like Amazon's Labor Day sale are your best opportunity to score the devices you want at a discount. We've already noticed all-time low prices on some of our favorite TVs of 2026 and noise-canceling headphones we adore. Plus, we're seeing some of the best discounts on Apple gear and Amazon devices since price hikes went into effect.Here are some of the best deals we've spotted at Amazon.Best Apple deal Opens in a new window Credit: Apple Apple iPad Air, 11-inch (M4, WiFi, 128GB) $649 at Amazon $749 Save $100 Get Deal Why we like itThe M4 iPad Air is hands down our ...",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/best-labor-day-amazon-deals-live-2026",
+      "category": "Tech",
+      "date": "2026-09-04T14:39:35.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/09/04/macbook-neo-2-rumors/",
+      "title": "Apple Planning to Update MacBook Neo in Three Ways",
+      "summary": "'s Mark Gurman today reported that Apple plans to release a second-generation MacBook Neo in 2027 with three updates: an A19 Pro chip, 12GB of RAM, and new color options. Released in March 2026, the current MacBook Neo has an A18 Pro chip with 8GB of RAM, and it is available in Silver, Blush, Citrus, and Indigo. In the U.S., the laptop initially started at $599, but Apple raised the price to $699 in June. Apple continues to offer a $100 discount to college students and educational staff.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/09/04/macbook-neo-2-rumors/",
+      "category": "Tech",
+      "date": "2026-09-04T14:17:36.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/09/04/apple-14-more-products-by-early-next-year/",
+      "title": "Apple Reportedly Plans to Release These 14 Products by Early Next Year",
+      "summary": "Apple will be holding its next event on Wednesday, September 9 to unveil its latest iPhones and Apple Watches, but that is not all, according to a new report. Bloomberg's Mark Gurman today shared a long list of products that he expects Apple to unveil between next week and early 2027. Our list below summarizes Gurman's reporting and mixes in some other rumors. iPhones iPhone 18 Pro: A20 Pro chip, a smaller Dynamic Island, a simplified Camera Control button, new Dark Cherry and Light Blue color options, improved vapor chambers to prevent overheating, and more. iPhone 18 Pro Max: The same features rumored for the iPhone 18 Pro, but the Pro Max model may be slightly thicker due to a larger battery and a variable aperture camera, which might be exclusive to the Pro Max model this year. iPhone Ultra: A foldable so-called \"iPhone Ultra\" with a 7.7-inch inner display and 5.3-inch outer display, two rear 48-megapixel Wide and Ultra Wide cameras, one front camera, a Touch ID power button instead of Face ID, an A20 Pro chip, and more.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/09/04/apple-14-more-products-by-early-next-year/",
+      "category": "Tech",
+      "date": "2026-09-04T13:55:33.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
     {
       "id": "108358514",
       "title": "Zscaler beats earnings expectations, issues upbeat guidance but stock falls",
@@ -14,7 +311,7 @@
     },
     {
       "id": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-      "title": "Oh good, looks like yet another swarm of rogue AI agents from OpenAI",
+      "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
       "summary": "OpenAI denies lawyers discouraged disclosing a scheming swarm on a German language wiki. OpenAI denies lawyers discouraged disclosing a scheming swarm on a German language wiki. A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying concern surrounding oversight at frontier AI labs after multiple breaches were discovered this summer. The incident, first reported by Reuters, is outlined in new research published by four AI safety researchers on Friday. The group said the AI agents found a way to communicate on an obscure German-language wiki, DseWiki, using it to share tips on how to skirt OpenAI’s safety restrictions, cheat on tasks, and hide their behavior.",
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
@@ -24,26 +321,26 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/exclusiveopenai-agents-hijacked-german-website-in-previously-undisclosed-aibreakout-this-spring-4889205",
-      "title": "Exclusive-OpenAI agents hijacked German website in previously undisclosed AI breakout this spring",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/exclusiveopenai-agents-hijacked-german-website-in-previously-undisclosed-aibreakout-this-spring-4889205",
+      "id": "https://www.techrepublic.com/article/news-g20-us-ai-regulation-principles/",
+      "title": "G20 Backs U.S. Push to Avoid New AI Regulators",
+      "summary": "G20 members backed a U.S.-led approach favoring existing regulators over new AI watchdogs, but major differences over oversight and safety remain. Push to Avoid New AI Regulators appeared first on TechRepublic.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-g20-us-ai-regulation-principles/",
       "category": "Business",
-      "date": "2026-09-04T13:18:50.000Z",
+      "date": "2026-09-04T13:23:39.000Z",
       "hot": false,
-      "officialUrl": "https://www.investing.com"
+      "officialUrl": "https://www.techrepublic.com"
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/89-since-entry-aipowered-strategy-closes-massive-healthcare-win-in-september-4889643",
-      "title": "+89% since entry: AI-powered strategy closes massive healthcare win in September",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/89-since-entry-aipowered-strategy-closes-massive-healthcare-win-in-september-4889643",
+      "id": "https://www.techrepublic.com/?p=4325473",
+      "title": "Stop Juggling AI Tools — This Lifetime Deal Puts GPT‑4o and More in One Place",
+      "summary": "Harness multiple top-tier models like GPT‑4o, Claude, Gemini, and more in one unified platform, now $55.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/chatplayground-ai/",
       "category": "Business",
-      "date": "2026-09-04T13:11:18.000Z",
+      "date": "2026-09-04T13:00:24.000Z",
       "hot": false,
-      "officialUrl": "https://www.investing.com"
+      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "https://decrypt.co/?p=377393",
@@ -66,6 +363,17 @@
       "date": "2026-09-04T12:26:01.000Z",
       "hot": false,
       "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://www.techrepublic.com/?p=4361885",
+      "title": "This $19.99 Claude AI Course Is Built for Work, Not Just Prompts",
+      "summary": "This eDegree covers Claude prompting, automation, integrations, and coding for practical business use.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/claude-ai-professional-edegree/",
+      "category": "Business",
+      "date": "2026-09-04T12:00:33.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
@@ -265,28 +573,6 @@
       "officialUrl": "https://mashable.com"
     },
     {
-      "id": "01dZQpMYX45IurTV7xnVGYR",
-      "title": "Tesla launches Cybercab rides in Austin",
-      "summary": "The Tesla Cybercab, a robotaxi vehicle designed for autonomous taxi rides, is finally here, and available to customers – but not very many of them. On Thursday, Tesla officially launched the Cybercab, making it available to users through its Robotaxi app. The company's Robotaxi fleet consists of Tesla Model Ys, Robovans, and now Cybercabs, and the rides are available in Austin, Dallas, Houston, Miami, Orlando, and Tampa. However, the Cybercabs appears to only be available in Austin. This Tweet is currently unavailable. It might be loading or has been removed.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/tesla-cybercab-launch-rides",
-      "category": "Tech",
-      "date": "2026-09-04T08:38:25.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
-      "id": "00pVCQi15RpYisFZpvaz9zD",
-      "title": "Amazons Labor Day 2026 sale is live: We found Samsung TVs, Apple AirPods, Sony headphones, and mo...",
-      "summary": "The best Amazon Labor Day deals at a glance: Best Apple deal Apple iPad Air, 11-inch (M4, WiFi, 128GB) $649 (save $100) Get Deal Best Amazon device deal Amazon Echo Show 11 $189.99 (save $60) Get Deal Best TV deal TCL 65-inch QM8L SQD-Mini-LED QLED 4K TV $1,397.99 (save $1,102) Get Deal Best headphones deal Bose QuietComfort Ultra $249 (save $200) Get Deal If the Pumpkin Spite Latte's return to Starbucks didn't already alert you, Labor Day Weekend's arrival certainly will. Fall is coming, whether you're anticipating the season change or dreading it. The unofficial last hurrah of summer, Labor Day is the perfect excuse to squeeze in some last-minute beach days, backyard barbecues, and shopping sprees (obviously). With tech prices constantly rising, major shopping holidays like Amazon's Labor Day sale are your best opportunity to score the devices you want at a discount. We've already noticed all-time low prices on some of our favorite TVs of 2026 and noise-cancelling headphones we adore. Plus, we're seeing some of the best discounts on Apple gear and Amazon devices since price hikes went into effect.We fully expect this list to grow as the weekend nears, but here are some of the best deals we've spotted at Amazon so far.Best Apple deal Opens in a new window Credit: Apple Apple iPad Air, 11-inch (M4, WiFi, 128GB) $649 at Amazon $749 Save $100 Get Deal Why we like itThe M4 iPad Air is hands down our top pick for an iPad for most people.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/best-labor-day-amazon-deals-live-2026",
-      "category": "Tech",
-      "date": "2026-09-04T08:22:41.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
       "id": "http://feeds.fabbaloo.com/~/968536226/_/fabbaloo/default~Single-Laser-Tracks-Tame-Micron-Aluminum-LPBF-Lattices",
       "title": "Single Laser Tracks Tame 200 Micron Aluminum LPBF Lattices",
       "summary": "A single laser pass per wall produced 200µm aluminum lattices that behaved remarkably close to their computer models. The post Single Laser Tracks Tame 200 Micron Aluminum LPBF Lattices appeared on Fabbaloo.",
@@ -311,7 +597,7 @@
     {
       "id": "https://techcrunch.com/?p=3160707",
       "title": "The sameness problem behind those unappetizing AI-generated menus",
-      "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+      "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages.",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
       "category": "Business",
@@ -344,7 +630,7 @@
     {
       "id": "https://techcrunch.com/?p=3160771",
       "title": "Crusoe reportedly raises $3B at a  $30B valuation",
-      "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+      "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages.",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
       "category": "Business",
@@ -353,15 +639,24 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "108358076",
-      "title": "'No steering wheel, no pedals': Tesla teases fans ahead of long-awaited Cybercab update",
-      "summary": "Tesla first unveiled the Cybercab almost two years ago, and fans of the company have been waiting to hear more.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/09/03/tesla-teases-no-steering-wheel-no-pedals-ahead-of-cybercab-update.html",
-      "category": "Business",
-      "date": "2026-09-03T23:49:53.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
+      "id": "https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Google's Lyria 3.5 Music AI Now Available in Gemini App and API",
+      "summary": "Lyria 3.5, our best-sounding music generation model, is now available in the Gemini app and the Gemini API. Lyria 3.5 brings more expressive vocals and richer musical arrangements, allowing you to craft tracks with higher fidelity. Whether you need a custom backing track for a video, a unique brand jingle, or just a personalized ringtone, it’s easier than ever to bring your idea to life. Lyria 3.5 is available to all users globally on the web and in the mobile app. It’s also available for artists and AI creatives in Google Flow Music, and for developers and technologists through Google AI Studio, and Google Vids.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-09-04T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://rivian.com/stories/new-software-rivianos-2?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Rivian Rolls Out RivianOS 2 to All R1 Models with AI Features & Unreal Engine 5",
+      "summary": "With the 2026.31 software update, R1 gets the biggest software transformation in its history. We've rebuilt the entire R1 experience on RivianOS 2 — an AI-defined platform designed from the ground up — bringing state-of-the-art graphics, a redesigned interface layout, and deep compute integration directly to the cabin. It reaches every R1 on the road, across both Gen 1 and Gen 2 architectures. The R1 user experience is faster, more intuitive, and remains unmistakably Rivian. RivianOS 2 now powers the entire Rivian lineup with R1 and R2 on one unified software stack. That means every improvement lands everywhere: continuous feature updates, shared UI enhancements and new capabilities tailored to each vehicle’s hardware setup.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://rivian.com/stories/new-software-rivianos-2?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-09-04T00:00:00.000Z",
+      "hot": false
     },
     {
       "id": "000001a0-698c-d4fe-a9ae-fdce60720000",
@@ -474,17 +769,6 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
-      "id": "https://www.engadget.com/2250789/spacexai-apologizes-for-outage-that-affected-grok-and-other-compute-partners/",
-      "title": "SpaceXAI apologizes for outage that affected Grok and other 'compute partners'",
-      "summary": "Several AI companies experienced issues at around the same time. Ascannio/Shutterstock Add Engadget on Google: Preferred Source Google Discover A Memphis data center run by SpaceXAI is apparently the source of the issue that took out Grok for more than three hours Thursday. The company issued a brief apology to Grok users, as well as to unnamed \"compute partners\" who were also apparently affected by the issues. \"We are sorry for the issues you may have experienced with Grok following an outage at our Memphis compute center this morning,\" the company wrote. \"We'd also like to apologize to our impacted compute partners.\" We are sorry for the issues you may have experienced with Grok following an outage at our Memphis compute center this morning.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2250789/spacexai-apologizes-for-outage-that-affected-grok-and-other-compute-partners/",
-      "category": "Tools",
-      "date": "2026-09-03T21:52:34.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
       "id": "6a98628a0e1a07689023e3f9",
       "title": "Prediction Market Betting Is Getting People Banned and Arrested",
       "summary": "Uncanny Valley is back! This week, senior writer Kate Knibbs joins Brian Barrett, Zoë Schiffer, and Leah Feiger to discuss the two incidents that have been making noise in prediction markets: George Santos getting lifetime ban from Kalshi and a Google engineer’s Polymarket insider-trading case. Plus, reporters reverse-engineered Flock’s AI-powered person-search tool and spoke to experts about the accuracy of such technology, and the hosts unpack the online meltdown over how to talk about “rogue” AI agents. You can follow Brian Barrett on Bluesky at @brbarrett, Zoë Schiffer on Bluesky at @zoeschiffer, Leah Feiger on Bluesky at @leahfeiger, and Kate Knibbs on Bluesky at @knibbs. Write to us at [email protected]. If you're on an iPhone or iPad, open the app called Podcasts, or just tap this link.",
@@ -551,17 +835,6 @@
       "officialUrl": "https://feeds.macrumors.com"
     },
     {
-      "id": "https://www.engadget.com/2250687/googles-new-ai-weather-model-uses-live-satellite-data-for-higher-resolution-forecasts/",
-      "title": "Google's new AI weather model uses live satellite data for higher-resolution forecasts",
-      "summary": "WeatherNext 3 is also supposed to be much better at predicting precipitation. Google Add Engadget on Google: Preferred Source Google Discover Google DeepMind has released the WeatherNext 3, an updated version of its last AI-powered weather model that it claims offers even more detailed forecasts across key variables like temperature, moisture and wind speed. DeepMind notes the new model should be particularly useful to companies working in renewable energy production, because of its ability to forecast \"100-meter wind speeds (roughly at turbine-height) for precise wind-energy output, alongside high-resolution cloud cover and sun radiation levels to help solar farms.\" WeatherNext 3's ability to offer hourly and higher-resolution forecasts (in a 5-kilometer square grid rather than the 25-kilometer square grid of WeatherNext 2) is all due to the new data it's trained on, DeepMind says. Rather than primarily relying on data from numerical weather prediction models, which include a six-hour lag, WeatherNext 3 incorporates live satellite data, which gives the model \"a rich, continuously updating view of the atmosphere.\" The model's ingestion of sparse weather station data means it can also offer more detailed forecasts of variables like humidity, which can usually change dramatically from one kilometer to the next. Combining precipitation data from NASA and Google's own satellite analysis also means WeatherNext 3 is better at predicting things like rain and snow.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2250687/googles-new-ai-weather-model-uses-live-satellite-data-for-higher-resolution-forecasts/",
-      "category": "Tools",
-      "date": "2026-09-03T19:56:03.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
       "id": "https://decrypt.co/?p=377341",
       "title": "OpenAI Releases GPT-6 Astra: The Closest AI Model Yet to AGI",
       "summary": "OpenAI's GPT-6 Astra can independently discover and exploit unknown security flaws across hardened systems.",
@@ -597,7 +870,7 @@
     {
       "id": "https://techcrunch.com/?p=3160448",
       "title": "Abliteration.ai is making a business out of removing AI guardrails",
-      "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+      "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages.",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
       "category": "Business",
@@ -619,7 +892,7 @@
     {
       "id": "https://techcrunch.com/?p=3160462",
       "title": "Meta is paying to peek at how you use their latest AI model",
-      "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
+      "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages.",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
       "category": "Business",
@@ -652,7 +925,7 @@
     {
       "id": "https://techcrunch.com/?p=3160480",
       "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-      "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+      "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages.",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
       "category": "Business",
@@ -715,31 +988,9 @@
       "officialUrl": "https://www.wired.com"
     },
     {
-      "id": "https://decrypt.co/?p=377314",
-      "title": "Bitcoin Pumps as Fed Signals Rate Pause, $415 Million in Shorts Get Rekt",
-      "summary": "Stocks and Bitcoin rallied together after Fed Governor Christopher Waller said he could back holding rates steady.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/377314/bitcoin-pump-fed-rate-pause-shorts-get-rekt",
-      "category": "Tech",
-      "date": "2026-09-03T16:38:17.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "https://decrypt.co/?p=377313",
-      "title": "Sony Dismisses PS5 Buyers' $508M Tariff Refund Claim as 'Illogical'",
-      "summary": "The company raised PlayStation prices for a second time in March, five weeks after the tariffs were struck down.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/377313/sony-dismisses-ps5-buyers-508m-tariff-refund-claim-as-illogical",
-      "category": "Tech",
-      "date": "2026-09-03T16:28:27.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
       "id": "https://techcrunch.com/?p=3160393",
       "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-      "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
+      "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages.",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
       "category": "Business",
@@ -792,17 +1043,6 @@
       "officialUrl": "https://www.techrepublic.com"
     },
     {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
-      "title": "ChatGPT, Grok, and Claude all went down at the same time",
-      "summary": "Three of the biggest AI chatbots stopped working for many users. Three of the biggest AI chatbots stopped working for many users. OpenAI’s ChatGPT, xAI’s Grok, and Anthropic’s Claude are back online after they all began experiencing issues around the same time on Thursday. At about 11AM ET, ChatGPT started returning error messages for users trying to use the chatbot, with its status page saying there were “elevated errors across ChatGPT and Codex.” In addition to preventing users from having conversations with ChatGPT, the outage affected logins, file uploads, voice mode, search, deep research, image generation, and more. The incident occurred while OpenAI teased the launch of Astra, its new AI model.",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
-      "category": "Industry",
-      "date": "2026-09-03T15:35:14.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
       "id": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
       "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
       "summary": "DeepMind's flagship AI weather forecasting model now includes real-time satellite data, hourly refreshes, higher resolution, precise precipitation forecasting, and clean energy variables. It’s now integrated across Search, Gemini, Maps, Google Maps Platform, and Cloud. Your browser does not support the audio element. Google has launched WeatherNext 3, an advanced AI model that provides more accurate, high-resolution weather forecasts by using real-time satellite data instead of traditional physics simulations. This update delivers hourly, localized predictions that are five times sharper than previous versions, offering significant improvements for agriculture, renewable energy, and daily planning. You can now access these enhanced forecasts directly through Google Search, Maps, and Gemini, or integrate the data into your own projects via Google Cloud.",
@@ -816,7 +1056,7 @@
     {
       "id": "https://techcrunch.com/?p=3160336",
       "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-      "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
+      "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages.",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
       "category": "Business",
@@ -832,72 +1072,6 @@
       "sourceUrl": "https://www.macrumors.com/2026/09/03/apple-hit-with-lawsuit-over-app-tracking/",
       "category": "Tech",
       "date": "2026-09-03T14:46:47.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/09/03/studio-display-214-discount/",
-      "title": "Apple's 2026 Studio Display Gets Steep $214 Discount on Amazon",
-      "summary": "Amazon today has introduced a big discount on the Apple Studio Display with Nano-Texture Glass and Tilt-Adjustable Stand, available for $1,684.88 with an on-page coupon, down from $1,899.00. This is the first time in nearly three months we've seen any notable discounts on the 2026 Studio Display lineup. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Amazon's discount today beats the previous all-time low price by over $100. There are a few other Studio Displays with markdowns on Amazon for Labor Day, but none reach the steep discount of this model.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/09/03/studio-display-214-discount/",
-      "category": "Tech",
-      "date": "2026-09-03T14:38:53.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/09/03/iphone-ultra-features-price-specs/",
-      "title": "iPhone Ultra's Very High Price and Features Revealed in New Report",
-      "summary": "Ahead of Apple's event on Wednesday, September 9, where it is expected to unveil its first-ever foldable iPhone, Taiwanese research firm TrendForce today outlined the device's estimated price range, features, and some other key details. In the U.S., TrendForce estimated that the foldable iPhone will have a starting price of $2,099 to $2,299 and said the highest-end configurations could surpass the $3,000 mark. In other words, the foldable iPhone would easily be the most expensive iPhone ever, coming in well above the iPhone 17 Pro Max's starting price of $1,199. The foldable iPhone will be named iPhone Ultra, according to a previous report from Macworld's Filipe Espósito, who now writes for Engadget. TrendForce expects the foldable iPhone to have the following specs: 5.5-inch outer OLED display 7.8-inch inner OLED display with ProMotion for up to a 120Hz refresh rate Touch ID A20 Pro chip manufactured with TSMC's 2nm process 12GB of RAM 256GB, 512GB, 1TB, and 2TB storage capacities 24-megapixel front camera 48-megapixel rear Wide camera 48-megapixel rear Ultra Wide cameraWith just six more days until Apple's event, the foldable iPhone will finally be revealed soon.Tags: iPhone Ultra, TrendForceThis article, \"iPhone Ultra's Very High Price and Features Revealed in New Report\" first appeared on MacRumors.comDiscuss this article in our forums",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/09/03/iphone-ultra-features-price-specs/",
-      "category": "Tech",
-      "date": "2026-09-03T14:33:59.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/09/03/apple-cancels-plans-for-two-new-macbooks/",
-      "title": "Apple Apparently Cancels Plans for Two New MacBooks",
-      "summary": "Apple has canceled plans for a foldable MacBook and a larger OLED MacBook Pro model, according to research firm Omdia. In a new research note, Omdia said Apple has scrapped development of a large foldable MacBook that would have measured between 16.1 and 18 inches when unfolded. It was previously reported that this device had already slipped out of its original 2026 production window, with Omdia among the firms tracking it at the time, though under that earlier reporting it was generally described as a large-screened foldable iPad rather than a MacBook. Apple has also apparently called off a separate, previously planned MacBook with an &zwnj;OLED&zwnj; display between 14.4 and 16.1 inches in size, which would have sat in its own tier between the standard &zwnj;MacBook Pro&zwnj; sizes and the canceled foldable. With both of those product lines scrapped, the 14.3 to 16.3 inch size range will seemingly remain exclusive to the &zwnj;MacBook Pro&zwnj; series going forward. Omdia said Apple's broader strategy of bringing &zwnj;OLED&zwnj; displays to its entire &zwnj;iPad&zwnj; and MacBook lineup has not changed, but the company has reworked which products will get &zwnj;OLED&zwnj; and what specific &zwnj;OLED&zwnj; technology each one uses, a shift that lines up with the changes detailed in Apple's rumored 2026 and 2027 product roadmap.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/09/03/apple-cancels-plans-for-two-new-macbooks/",
-      "category": "Tech",
-      "date": "2026-09-03T14:12:51.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/09/03/mini-led-macbook-pro-models-until-2028/",
-      "title": "Mini-LED MacBook Pro Models Could Stick Around Until 2028",
-      "summary": "Apple has reportedly revised its plans for adopting OLED displays across its MacBook lineup, and its existing LCD-based MacBook Pro models with mini-LED backlighting are now expected to remain available for longer than anticipated. According to a new OLED adoption roadmap published by research firm Omdia, Apple still intends long-term adoption of OLED panels across MacBooks and iPads, but the transition pace has recently changed, owing to higher memory and component costs. Previously, Omdia had expected Apple to discontinue its existing LCD-based models sooner, once its 14-inch and 16-inch OLED MacBook Pro models arrive – either this year or in early 2027. However, Omdia now predicts that Apple will continue to sell both 14-inch and 16-inch LCD MacBook Pro models in parallel with the OLED MacBook Pro product line into at least 2028, a product strategy arrangement that is said to be based on cost factors. Previous reports had already suggested Apple will position the OLED-based \"MacBook Ultra\" above the existing MacBook Pro models in its lineup, but there was little information about how long Apple would keep the latter models around for. Omdia's roadmap is the first to suggest they could remain available for another year at least.Related Roundup: MacBook ProTags: Mini-LED, OmdiaBuyer's Guide: MacBook Pro (Buy Now)Related Forum: MacBook ProThis article, \"Mini-LED MacBook Pro Models Could Stick Around Until 2028\" first appeared on MacRumors.comDiscuss this article in our forums",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/09/03/mini-led-macbook-pro-models-until-2028/",
-      "category": "Tech",
-      "date": "2026-09-03T14:08:28.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/09/03/macbook-ultra-m5-ultra-chip-rumor/",
-      "title": "'MacBook Ultra' Rumored to Have M5 Ultra Chip Option",
-      "summary": "Apple reportedly plans to release MacBook Pro models with OLED displays by early 2027, and Omdia analyst David Hsieh has predicted that the laptops will have an M5 Ultra chip option. Given that these MacBook Pro models might actually be branded as \"MacBook Ultra\" models, it would be fitting if there were configurations with the M5 Ultra chip available. But keep your expectations low, as there has never been a MacBook with an Ultra chip, and a previous report from Bloomberg's Mark Gurman only mentioned M5 Pro and M5 Max chips for these laptops.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/09/03/macbook-ultra-m5-ultra-chip-rumor/",
-      "category": "Tech",
-      "date": "2026-09-03T13:56:33.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/09/03/apple-new-oled-macbook-between-air-pro/",
-      "title": "Apple Reportedly Planning All-New MacBook Model Between Air and Pro",
-      "summary": "Apple may introduce an entirely new 13.8-inch OLED MacBook model in 2029, potentially creating a new product tier between the MacBook Air and MacBook Pro, according to an updated product roadmap from research firm Omdia. The firm's latest roadmap sandwiches a new 13.8-inch MacBook between the projected time line for the Air and Pro models. The surprise model is said to use a single-stack hybrid OLED panel, rather than the more sophisticated tandem OLED technology that is expected in the upcoming OLED MacBook Pro models, which are set to launch either later this year or early next year. It seems this prediction hasn't come out of nowhere, either. According to a June report from ZDNet Korea, Apple sounded out Samsung Display, LG Display, and BOE for information regarding a 13.8-inch OLED MacBook panel earlier this year. At the time, the general assumption was that it was likely to be part of Apple's work on the first OLED MacBook Air, expected by 2028 at the earliest.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/09/03/apple-new-oled-macbook-between-air-pro/",
-      "category": "Tech",
-      "date": "2026-09-03T13:50:28.000Z",
       "hot": false,
       "officialUrl": "https://feeds.macrumors.com"
     },
@@ -981,7 +1155,7 @@
     {
       "id": "https://techcrunch.com/?p=3160347",
       "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-      "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+      "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages.",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
       "category": "Business",
@@ -999,17 +1173,6 @@
       "date": "2026-09-03T12:28:37.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/09/03/iphone-18-pro-chip-leak-suggests-improvements/",
-      "title": "iPhone 18 Pro Chip Leak Indicates Major GPU and Memory Bandwidth Improvements",
-      "summary": "An alleged solder joint diagram for Apple's A20 Pro chip suggests the processor will deliver a number of significant upgrades, including a seven-core GPU, a wider memory interface, and a larger L2 cache for its efficiency cores. The claims come from a Weibo user who says the layout was reconstructed by mapping the chip's solder ball positions and overlaying them with die level images to sketch out where each block of the processor sits. According to the post, the resulting outline points to a two and four core CPU configuration and a seven core GPU, with the top of the die housing the GPU and the CPU occupying the center. Based on the layout, the leaker expects the A20 Pro's efficiency cores to share an 8MB L2 cache, up from 6MB on the A19 Pro, while the performance cores retain their existing 16MB L2 cache. The size of the shared system level cache is not yet known, but the leaker believes it is unlikely to shrink given the chip's new image signal processor and neural engine. With regards to the GPU, the seven core configuration would mark an increase from the six cores on the A19 Pro, a jump of roughly 16%.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/09/03/iphone-18-pro-chip-leak-suggests-improvements/",
-      "category": "Tech",
-      "date": "2026-09-03T12:06:35.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "https://openai.com/index/legora-financial-statement-review-with-astra",
@@ -1054,17 +1217,6 @@
       "date": "2026-09-03T11:41:05.000Z",
       "hot": false,
       "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/09/03/iphone-18-pro-prices-apple-event-next-week/",
-      "title": "iPhone 18 Pro Prices Estimated Ahead of Apple Event Next Week",
-      "summary": "Less than a week before Apple debuts new iPhone 18 Pro models, research firm TrendForce has estimated the prices of the devices based on the latest hardware cost environment. TrendForce's price estimates compared to last year's models look like this: Model Starting Price Model Starting Price Change iPhone 17 Pro $1,099 iPhone 18 Pro $1,249-$1,299 +$150 to +$200 iPhone 17 Pro Max $1,199 iPhone 18 Pro Max $1,349-$1,399 +$150 to +$200 Apple is likely to raise iPhone 18 Pro and iPhone 18 Pro Max prices by around 10-20% compared to last year's Pro models, according to the firm. Taking TrendForce's June forecast of a 14-18% increase, which fits within its latest broader 10-20% range and translates more neatly to Apple's typical pricing scheme, we could see the iPhone 18 Pro starting price jump to between $1,249-$1,299 and the iPhone 18 Pro Max between $1,349-$1,399. Meanwhile, TrendForce expects prices for Apple's first foldable iPhone (aka \"iPhone Ultra\") to start anywhere between $2,099-$2,299, with the highest storage option potentially exceeding $3,000. The regular iPhone 18 model is not expected to debut until spring 2027. Nevertheless, TrendForce expects the same general 10-20% price increase to apply to that device as well.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/09/03/iphone-18-pro-prices-apple-event-next-week/",
-      "category": "Tech",
-      "date": "2026-09-03T10:41:31.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "6a8726cd18568cdcce1a1065",
@@ -1150,7 +1302,13 @@
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-09-03T00:00:00.000Z",
-      "hot": true
+      "hot": true,
+      "relatedCoverage": [
+        {
+          "source": "TechRepublic AI",
+          "url": "https://www.techrepublic.com/article/news-openai-gpt-6-astra-agi-era-2026/"
+        }
+      ]
     },
     {
       "id": "https://x.com/BernieSanders/status/2095542398084415952?utm_source=futuretools.io&utm_medium=newspage",
@@ -1163,21 +1321,21 @@
       "hot": false
     },
     {
-      "id": "https://blog.google/products-and-platforms/products/workspace/voice-features-gmail-docs-keep/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Google Launches Gemini Voice Features in Gmail, Docs, and Keep for Workspace Users",
-      "summary": "Three new voice-activated features will change the way you use Google Workspace products. Speak naturally to draft documents, locate important information from your inbox, and capture fleeting thoughts quickly. Your browser does not support the audio element. Google is adding its new AI voice model to Gmail, Docs, and Keep. You can now just talk to your apps to find emails, write documents, or organize your notes. It’s like having a personal assistant that listens to your ideas and does the typing for you.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://blog.google/products-and-platforms/products/workspace/voice-features-gmail-docs-keep/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-09-03T00:00:00.000Z",
-      "hot": false
-    },
-    {
       "id": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Nvidia PAIR links idle home PCs into a free personal AI compute network",
       "summary": "PAIR is designed to get your desktop and laptop working together on local AI tasks when not in use. PAIR is designed to get your desktop and laptop working together on local AI tasks when not in use. Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let’s get the obvious thing out of the way, despite what its name might imply: PAIR is not a hardware router. It’s open-source software developed by Nvidia that discovers compatible PCs on a network, connects them, and prepares them for crunching numbers on agentic workflows. While the compatible devices are mostly Nvidia GeForce GPUs (PAIR works with RTX 20-series cards and newer, as well as RTX Pro GPUs and DGX Spark systems), Apple’s M4 chips or newer will also work.",
       "source": "FutureTools News",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-09-03T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://blog.google/products-and-platforms/products/workspace/voice-features-gmail-docs-keep/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Google Launches Gemini Voice Features in Gmail, Docs, and Keep for Workspace Users",
+      "summary": "Three new voice-activated features will change the way you use Google Workspace products. Speak naturally to draft documents, locate important information from your inbox, and capture fleeting thoughts quickly. Your browser does not support the audio element. Google is adding its new AI voice model to Gmail, Docs, and Keep. You can now just talk to your apps to find emails, write documents, or organize your notes. It’s like having a personal assistant that listens to your ideas and does the typing for you.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://blog.google/products-and-platforms/products/workspace/voice-features-gmail-docs-keep/?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-09-03T00:00:00.000Z",
       "hot": false
@@ -1195,7 +1353,7 @@
     {
       "id": "https://microsoft.ai/news/mai-transcribe-2-is-the-fastest-most-accurate-and-cheapest-speech-recognition-model-in-the-world/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Microsoft Launches MAI-Transcribe-2: Fastest, Most Accurate Speech Model at $0.10/hr",
-      "summary": "Models Latest models Discover the latest MAI models, designed for real-world intelligence MAI-Thinking-1 MAI-Code-1.1-Flash MAI-Image-2.5 MAI-Voice-2 All models MAI-Transcribe-2 Turn noisy audio into precise, domain-specific transcripts, with leading FLEURS and Artificial Analysis accuracy scores. Built for the complex problems that matter most, with competitive reasoning and top SWE-Bench Pro results at a mid-weight price. Helps your engineering team write better code faster, with a lightweight, agentic model built into GitHub Copilot and VS Code. Create notable, design-ready images from any text or photo prompt, with best-in-class Arena ELO scores at a lower price. Delivers expressive, low-latency speech that holds up across long generations.",
+      "summary": "Models Latest models Discover the latest MAI models, designed for real-world intelligence MAI-Thinking-1 MAI-Code-1.1-Flash MAI-Image-2.6 MAI-Voice-2 All models MAI-Transcribe-2 Turn noisy audio into precise, domain-specific transcripts, with leading FLEURS and Artificial Analysis accuracy scores. Built for the complex problems that matter most, with competitive reasoning and top SWE-Bench Pro results at a mid-weight price. Helps your engineering team write better code faster, with a lightweight, agentic model built into GitHub Copilot and VS Code. Create notable, design-ready images from any text or photo prompt, with best-in-class Arena ELO scores at a lower price. Delivers expressive, low-latency speech that holds up across long generations.",
       "source": "FutureTools News",
       "sourceUrl": "https://microsoft.ai/news/mai-transcribe-2-is-the-fastest-most-accurate-and-cheapest-speech-recognition-model-in-the-world/?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
@@ -1230,28 +1388,6 @@
       "officialUrl": "https://rss.politico.com"
     },
     {
-      "id": "https://techcrunch.com/?p=3160290",
-      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-      "category": "Business",
-      "date": "2026-09-02T22:44:56.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3149903",
-      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-      "category": "Business",
-      "date": "2026-09-02T22:24:09.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
       "id": "https://news.mit.edu/2026/from-mit-to-ibm-expediting-ai-and-quantum-deployment-0902",
       "title": "From MIT to IBM, expediting AI and quantum deployment",
       "summary": "The experience of transitioning from research based in theory to focusing on real-world application can vary significantly for different researchers. However, for two former MIT graduate students and a former postdoc, all now at IBM, working with the MIT-IBM Computing Research Lab (formerly the MIT-IBM Watson AI Lab) during their formative years enabled them to not only close the gap between education and employment, but also to generate ideas promising to business impact. Despite pursuing varied careers in quantum machine learning, reinforcement learning and artificial intelligence agents,and trustworthy and fair AI, respectively, Srinivasan Arunachalam, Zhang-Wei Hong PhD ’25, and Irene Ko PhD ’24 have consistently found ways to tackle problems defined by novelty and rigor, and translate them to systems with real constraints. Here, the MIT-IBM Computing Research Lab served as a conduit for research relationship building and the flow of their expertise to industry applications.“Among all the industrial labs, I think MIT-IBM has way better academic collaboration policy and opportunity [than the others],” says Hong, an IBM research staff member with the MIT-IBM Computing Research Lab who began his PhD at MIT in 2020 in the Department of Electrical Engineering and Computer Science (EECS).Hong has been captivated with reinforcement learning since discovering that DeepMind could play Atari and learn from raw screen pixels via feature engineering. During his graduate work with ...",
@@ -1261,28 +1397,6 @@
       "date": "2026-09-02T20:25:00.000Z",
       "hot": false,
       "officialUrl": "https://news.mit.edu"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3160225",
-      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-      "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-      "category": "Business",
-      "date": "2026-09-02T20:19:14.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "6a98445d5b3846267183e587",
-      "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
-      "summary": "The Trump Administration just took OpenAI’s side in the artificial intelligence company’s legal battle with the New York Times. While the letter focuses on the New York Times and OpenAI, the government noted that its arguments apply to all of the parties in this case and related cases, including other publishers and authors. Evan Brown, an intellectual property lawyer with the firm Neal & McDevitt, tells WIRED that the US district judge overseeing this case, Sidney H. Stein, is not obliged to let this letter influence his ultimate decision. However, Brown says that Stein and other judges overseeing cases like this will almost certainly “take it quite seriously because it comes from the Department of Justice, and inherently carries a lot of weight.” OpenAI and Microsoft did not immediately respond to WIRED’s request for comment.",
-      "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
-      "category": "Industry",
-      "date": "2026-09-02T18:41:02.000Z",
-      "hot": false,
-      "officialUrl": "https://www.wired.com"
     },
     {
       "id": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
@@ -1317,28 +1431,6 @@
       "officialUrl": "https://arstechnica.com"
     },
     {
-      "id": "https://techcrunch.com/?post_type=tc_video&p=3160054",
-      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-      "summary": "Watch as Pangram co-founder and CEO Max Spero joins the Equity podcast to dig into the promise of AI detection tools and where to draw the line between AI assisted and AI generated.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-      "category": "Business",
-      "date": "2026-09-02T17:18:13.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://techcrunch.com/?post_type=tc_podcast&p=3160051",
-      "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
-      "summary": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to figure out what’s real. A handful of startups have cropped up in the past couple of […]",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
-      "category": "Business",
-      "date": "2026-09-02T17:09:57.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
       "id": "https://www.techrepublic.com/article/news-google-pics-workspace-rollout/",
       "title": "Google Pics Rolls Out to Workspace With Default-On AI Image Tools",
       "summary": "Google Pics is rolling out to eligible Workspace customers with AI image generation, editing tools, and admin controls enabled by default.",
@@ -1346,28 +1438,6 @@
       "sourceUrl": "https://www.techrepublic.com/article/news-google-pics-workspace-rollout/",
       "category": "Business",
       "date": "2026-09-02T16:50:27.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/article/news-openai-california-teen-ai-safety-bill/",
-      "title": "OpenAI Backs California Bill Requiring Age Checks and Safety Audits for Teen AI",
-      "summary": "OpenAI is backing California SB 1119, which would require age checks, safety protections, and audits for AI companion chatbots used by minors.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-openai-california-teen-ai-safety-bill/",
-      "category": "Business",
-      "date": "2026-09-02T16:46:56.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/article/news-dyson-camerajet-toothbrush-camera-ai-2026/",
-      "title": "Dyson Put a Camera in a $499 Toothbrush: Here’s What It Does",
-      "summary": "Dyson’s CameraJet toothbrush uses a built-in camera and machine learning to detect gaps between teeth and automatically target them during cleaning.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-dyson-camerajet-toothbrush-camera-ai-2026/",
-      "category": "Business",
-      "date": "2026-09-02T16:36:41.000Z",
       "hot": false,
       "officialUrl": "https://www.techrepublic.com"
     },
@@ -1381,28 +1451,6 @@
       "date": "2026-09-02T16:28:46.000Z",
       "hot": false,
       "officialUrl": "https://news.microsoft.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/article/news-southeast-asia-data-center-funding-apac-singapore/",
-      "title": "Five Singapore Firms Account for 98% of Southeast Asia Data Center Funding as Build-Out Spreads",
-      "summary": "Five Singapore firms account for 98% of Southeast Asia’s data-center equity funding as new cloud and AI capacity spreads across the region.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-southeast-asia-data-center-funding-apac-singapore/",
-      "category": "Business",
-      "date": "2026-09-02T15:56:50.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/article/news-chatgpt-healthcare-epic-patient-records/",
-      "title": "ChatGPT for Healthcare Adds Epic Integration for Patient Records",
-      "summary": "OpenAI is connecting ChatGPT for Healthcare to supported Epic EHR systems, giving clinicians read-only access to patient records and medical data.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-chatgpt-healthcare-epic-patient-records/",
-      "category": "Business",
-      "date": "2026-09-02T15:45:35.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
@@ -1706,16 +1754,6 @@
       "hot": false
     },
     {
-      "id": "https://www.anthropic.com/claude-fable-and-mythos-5-1?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Anthropic Launches Claude Fable 5.1 & Mythos 5.1 for Coding and Scientific Research",
-      "summary": "We’re introducing Claude Fable 5.1 and Claude Mythos 5.1. They’re the world’s most advanced models for coding and knowledge work—and their research capabilities offer an early glimpse of how AI models will contribute to scientific progress. Claude Fable 5.1 and Claude Mythos 5.1 are the same model, but with different levels of safeguards. Fable 5.1 is generally available, while Mythos 5.1 is available only through our trusted access programs; its safeguards are specifically designed to support work in cybersecurity and the life sciences. Alongside its increased capabilities, Fable 5.1 takes important steps towards addressing the feedback we’ve received from customers on price, data retention, and safeguards. Fable 5.1 will cost an estimated 25% less than Fable 5 for typical workloads, wherever usage is billed by token.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-1?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-09-01T00:00:00.000Z",
-      "hot": true
-    },
-    {
       "id": "https://www.anthropic.com/news/enterprise-frontier-safeguards?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Anthropic Launches Enterprise Frontier Safeguards with Customer-Controlled Data Storage",
       "summary": "Today we’re announcing Enterprise Frontier Safeguards (EFS), a solution that combines the privacy of zero data retention (ZDR) with state-of-the-art safeguards for detecting misuse. EFS works by storing data in cloud infrastructure controlled by the customer, not Anthropic. EFS will be rolling out to customers in phases, starting later this fall. To make the transition smooth, eligible customers will receive ZDR on Fable 5 and Fable 5.1 until EFS is ready. We developed EFS in close collaboration with more than 100 customers in industries like financial services, healthcare, manufacturing, telecom, law, retail, and the public sector, and with our cloud partners at Amazon Web Services, Google Cloud, and Microsoft Azure. EFS will be supported on Claude Code, Claude Enterprise, the Claude Platform, Amazon Bedrock, Claude Platform on AWS, Google’s Agent Platform, and Microsoft Foundry.",
@@ -1724,6 +1762,16 @@
       "category": "Curation",
       "date": "2026-09-01T00:00:00.000Z",
       "hot": false
+    },
+    {
+      "id": "https://www.anthropic.com/claude-fable-and-mythos-5-1?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Anthropic Launches Claude Fable 5.1 & Mythos 5.1 for Coding and Scientific Research",
+      "summary": "We’re introducing Claude Fable 5.1 and Claude Mythos 5.1. They’re the world’s most advanced models for coding and knowledge work—and their research capabilities offer an early glimpse of how AI models will contribute to scientific progress. Claude Fable 5.1 and Claude Mythos 5.1 are the same model, but with different levels of safeguards. Fable 5.1 is generally available, while Mythos 5.1 is available only through our trusted access programs; its safeguards are specifically designed to support work in cybersecurity and the life sciences. Alongside its increased capabilities, Fable 5.1 takes important steps towards addressing the feedback we’ve received from customers on price, data retention, and safeguards. Fable 5.1 will cost an estimated 25% less than Fable 5 for typical workloads, wherever usage is billed by token.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-1?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-09-01T00:00:00.000Z",
+      "hot": true
     },
     {
       "id": "https://www.semafor.com/article/09/01/2026/meta-disables-cameras-on-thousands-of-tampered-smart-glasses?utm_source=futuretools.io&utm_medium=newspage",
@@ -1782,6 +1830,16 @@
       "hot": false
     },
     {
+      "id": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "OpenAI Backs California SB 1119 to Establish Age-Appropriate AI Safeguards for Teens",
+      "summary": "ShareA strong framework for age-appropriate AIA strong framework for age-appropriate AIBuilding safer, more useful experiences for teensA strong framework for age-appropriate AIBuilding safer, more useful experiences for teensBy Ann O’Leary, VP, Global Policy OpenAI supports California Senate Bill 1119, legislation that establishes meaningful safeguards for how young people use AI while preserving their access to tools that can help them learn, create, and prepare for the future. This support builds off the commitment Sam Altman, OpenAI’s co-founder and CEO, made last year when outlining the company’s principles on teens. In the absence of federal action, California has an opportunity to set a strong standard for youth AI safety. In our letter to Governor Newsom⁠(opens in a new window), we commend him, along with Senator Steve Padilla, Assemblymembers Buffy Wicks and Rebecca Bauer-Kahan, and the California Legislature for their leadership on this important issue. SB 1119 builds on youth safety measures that OpenAI has supported through our products, global policy principles, advocacy in California, and work on the Parents & Kids Safe AI Act.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-09-01T00:00:00.000Z",
+      "hot": false
+    },
+    {
       "id": "https://blog.google/products-and-platforms/products/workspace/google-pics/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Google Launches Pics: AI Image Creation & Editing Tool for Workspace Users",
       "summary": "Generate, refine, and co-create images with unparalleled precision. Plus, upcoming Workspace integrations will let you create and edit directly within Google Slides, Docs, and Drive. Your browser does not support the audio element. Google just launched a new tool called Google Pics that uses AI to help you create and edit images. You can use it to make social media posts or fix up illustrations without needing to be a pro. It’s built right into apps like Docs and Slides, so you don't have to switch tabs to get your work done.",
@@ -1796,16 +1854,6 @@
           "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/"
         }
       ]
-    },
-    {
-      "id": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "OpenAI Backs California SB 1119 to Establish Age-Appropriate AI Safeguards for Teens",
-      "summary": "ShareA strong framework for age-appropriate AIA strong framework for age-appropriate AIBuilding safer, more useful experiences for teensA strong framework for age-appropriate AIBuilding safer, more useful experiences for teensBy Ann O’Leary, VP, Global Policy OpenAI supports California Senate Bill 1119, legislation that establishes meaningful safeguards for how young people use AI while preserving their access to tools that can help them learn, create, and prepare for the future. This support builds off the commitment Sam Altman, OpenAI’s co-founder and CEO, made last year when outlining the company’s principles on teens. In the absence of federal action, California has an opportunity to set a strong standard for youth AI safety. In our letter to Governor Newsom⁠(opens in a new window), we commend him, along with Senator Steve Padilla, Assemblymembers Buffy Wicks and Rebecca Bauer-Kahan, and the California Legislature for their leadership on this important issue. SB 1119 builds on youth safety measures that OpenAI has supported through our products, global policy principles, advocacy in California, and work on the Parents & Kids Safe AI Act.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-09-01T00:00:00.000Z",
-      "hot": false
     },
     {
       "id": "https://www.perplexity.ai/hub/blog/pii-trace-detecting-personal-data-before-it-leaves-the-device?utm_source=futuretools.io&utm_medium=newspage",
@@ -1830,7 +1878,7 @@
     {
       "id": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Fambot Launches AI Chief of Staff to Help Families Manage Kids' Schedules",
-      "summary": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
+      "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages.",
       "source": "FutureTools News",
       "sourceUrl": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
