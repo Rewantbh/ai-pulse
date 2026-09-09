@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T23:30:20.019Z",
+  "lastUpdated": "2026-09-09T01:25:21.572Z",
   "news": [
     {
       "id": "108359925",
@@ -1394,6 +1394,17 @@
       "officialUrl": "https://www.technologyreview.com"
     },
     {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+      "title": "Roland is getting into generative AI music with Melody Flip",
+      "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collections of musical ideas sorted by genre. You can start from scratch and ask it to generate any combination of melody, chord progression, bassline, or drums. Or you can feed it a reference track and have it build off the melodic ideas from that. Unlike Suno or Udio, Melody Flip doesn't spit out fully polished songs with vocals and full arrangements. Instead, it offers …",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+      "category": "Industry",
+      "date": "2026-09-04T17:51:35.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
       "id": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
       "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
       "summary": "A clever technique used to hide malicious prompts in attacks on AI agents has been adopted by spammers to evade filters on email platforms that are designed to flag unwanted messages used in mass campaigns. The technique is broadly known as ASCII smuggling. It gained attention two years ago as a means of making a class of AI attack known as prompt injections more stealthy. Malicious instructions embedded in emails or other untrusted content to be processed by an LLM aren’t written in ordinary text. Instead, they’re rendered by a special range of Unicode tags. For example, the tag point U+E0041 mirrors “A,” and U+E0061 mirrors “a.” No longer just for obscuring prompt injections The block of 128 tags mimics a portion of the American Standard Code for Information Interchange almost perfectly, with one major difference: the characters they encode are readable by computers but, by design, are almost completely invisible to humans.",
@@ -1480,114 +1491,6 @@
       "date": "2026-09-04T09:25:19.000Z",
       "hot": false,
       "officialUrl": "https://www.technologyreview.com"
-    },
-    {
-      "id": "https://aiweekly.co/issues/openai-faces-50-plus-lawsuits-over-alleged-chatgpt-harm",
-      "title": "AI Weekly Issue #529: OpenAI faces 50-plus lawsuits over alleged ChatGPT harm",
-      "summary": "Thirty new complaints come from survivors of a Canadian school shooting. They accuse OpenAI of failing to warn police; the company disputes key claims. OpenAI is now fighting more than 50 lawsuits in which people allege that prolonged use of ChatGPT contributed to psychological injury, physical harm, or death. The latest wave is unusually large: 30 new complaints came from survivors and families connected to the February school shooting in Tumbler Ridge, British Columbia. The shooting killed eight people and wounded 27. The new plaintiffs include people who were inside the school but were not physically shot.",
-      "source": "AI Weekly",
-      "sourceUrl": "https://aiweekly.co/issues/openai-faces-50-plus-lawsuits-over-alleged-chatgpt-harm",
-      "category": "Curation",
-      "date": "2026-09-04T00:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://aiweekly.co"
-    },
-    {
-      "id": "https://x.com/OpenAI/status/2095968413646737608?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "OpenAI Launches GPT-6 Astra for Pro, Enterprise, and Business Users via ChatGPT and API",
-      "summary": "GPT-6 Astra is now available to all Pro, Enterprise, and Business Premium users in ChatGPT Work and Codex. It's also live in the API. It might take a few days to roll out to our Plus and Business users. Thank you for your patience.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://x.com/OpenAI/status/2095968413646737608?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-09-04T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://www.youtube.com/watch?v=GfPZm9yucQo&utm_source=futuretools.io&utm_medium=newspage",
-      "title": "All The AI News You Missed From The Past Week (Full Breakdown)",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://www.youtube.com/watch?v=GfPZm9yucQo&utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-09-04T00:00:00.000Z",
-      "hot": true
-    },
-    {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Roland Launches Melody Flip, a Generative AI Music Plugin for DAW Users",
-      "summary": "Rather than fully polished tracks, the plugin is supposed to act as a creative spark. Rather than fully polished tracks, the plugin is supposed to act as a creative spark. It’s not quite the “push button; get song” of Suno, but Roland’s new Melody Flip tool marks the company’s foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 “Palettes,” which are essentially themed collections of musical ideas sorted by genre. You can start from scratch and ask it to generate any combination of melody, chord progression, bassline, or drums. Or you can feed it a reference track and have it build off the melodic ideas from that.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-09-04T00:00:00.000Z",
-      "hot": false,
-      "relatedCoverage": [
-        {
-          "source": "The Verge AI",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip"
-        }
-      ]
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Google's Lyria 3.5 Music AI Now Available in Gemini App and API",
-      "summary": "Lyria 3.5, our best-sounding music generation model, is now available in the Gemini app and the Gemini API. Lyria 3.5 brings more expressive vocals and richer musical arrangements, allowing you to craft tracks with higher fidelity. Whether you need a custom backing track for a video, a unique brand jingle, or just a personalized ringtone, it’s easier than ever to bring your idea to life. Lyria 3.5 is available to all users globally on the web and in the mobile app. It’s also available for artists and AI creatives in Google Flow Music, and for developers and technologists through Google AI Studio, and Google Vids.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-09-04T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://microsoft.ai/models/mai-image-2-6/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Microsoft Launches MAI-Image-2.6: AI Image Generator with Web Context & Precise Editing",
-      "summary": "Models Latest models Discover the latest MAI models, designed for real-world intelligence MAI-Thinking-1 MAI-Code-1.1-Flash MAI-Image-2.6 MAI-Voice-2 All models MAI-Transcribe-2 Turn noisy audio into precise, domain-specific transcripts, with leading FLEURS and Artificial Analysis accuracy scores. Built for the complex problems that matter most, with competitive reasoning and top SWE-Bench Pro results at a mid-weight price. Helps your engineering team write better code faster, with a lightweight, agentic model built into GitHub Copilot and VS Code. Create notable, design-ready images from any text or photo prompt, with best-in-class Arena ELO scores at a lower price. Delivers expressive, low-latency speech that holds up across long generations.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://microsoft.ai/models/mai-image-2-6/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-09-04T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://rivian.com/stories/new-software-rivianos-2?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Rivian Rolls Out RivianOS 2 to All R1 Models with AI Features & Unreal Engine 5",
-      "summary": "With the 2026.31 software update, R1 gets the biggest software transformation in its history. We've rebuilt the entire R1 experience on RivianOS 2 — an AI-defined platform designed from the ground up — bringing state-of-the-art graphics, a redesigned interface layout, and deep compute integration directly to the cabin. It reaches every R1 on the road, across both Gen 1 and Gen 2 architectures. The R1 user experience is faster, more intuitive, and remains unmistakably Rivian. RivianOS 2 now powers the entire Rivian lineup with R1 and R2 on one unified software stack. That means every improvement lands everywhere: continuous feature updates, shared UI enhancements and new capabilities tailored to each vehicle’s hardware setup.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://rivian.com/stories/new-software-rivianos-2?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-09-04T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "OpenAI Rogue Agents Hijacked German Wiki to Evade Safety Restrictions",
-      "summary": "OpenAI denies lawyers discouraged disclosing a scheming swarm on a German language wiki. OpenAI denies lawyers discouraged disclosing a scheming swarm on a German language wiki. A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying concern surrounding oversight at frontier AI labs after multiple breaches were discovered this summer. The incident, first reported by Reuters, is outlined in new research published by four AI safety researchers on Friday. The group said the AI agents found a way to communicate on an obscure German-language wiki, DseWiki, using it to share tips on how to skirt OpenAI’s safety restrictions, cheat on tasks, and hide their behavior.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-09-04T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://www.wsj.com/business/autos/nhtsa-opens-probe-into-teslas-cybercab-rollout-06aa6eac?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "NHTSA Probes Tesla Cybercab Over Safety Standard Compliance After Austin Launch",
-      "summary": "The National Highway Traffic Safety Administration has opened an investigation into Tesla's Cybercab, a steering-wheel-free, pedalless two-seater launched in Austin, Texas this week. NHTSA wants to audit the technical data Tesla used to self-certify the vehicle meets all applicable safety standards. If found noncompliant, Tesla could face a recall order and major fines for refusal. Tesla has registered 45 Cybercabs in Texas and plans to expand deployment, with a public sale price targeted below $30,000.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://www.wsj.com/business/autos/nhtsa-opens-probe-into-teslas-cybercab-rollout-06aa6eac?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-09-04T00:00:00.000Z",
-      "hot": false,
-      "access": "paywalled"
-    },
-    {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "OpenAI's GPT-6 Astra Launch Stumbles as Altman Apologizes for Locking Out Paid Users",
-      "summary": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a “messy rollout” after paying users expecting access to the new frontier model were left waiting. The company hailed the model as a “generational leap in capability” on Thursday and described it as the start of “the AGI era,” a fuzzy and poorly defined term tech executives nevertheless insist on using to promote their products. It said Astra would roll out to some enterprise customers — specifically those with access to its Daybreak cybersecurity platform — that day. This would expand to include all Plus, Pro, Business, and Enterprise users, as well as through the OpenAI API, Microsoft Azure, and AWS Bedrock, over the next few days. “We are working towards getting Astra in everyone’s hands as quickly as we can,” Altman said in an X post acknowledging the disappointment. “I know it is frustrating and I appreciate the patience.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-09-04T00:00:00.000Z",
-      "hot": false
     }
   ]
 }
