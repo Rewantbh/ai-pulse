@@ -1,38 +1,82 @@
 {
-  "lastUpdated": "2026-09-14T02:46:15.461Z",
+  "lastUpdated": "2026-09-14T06:13:46.726Z",
   "news": [
     {
-      "id": "https://www.investing.com/news/stock-market-news/iranuae-talks-put-hormuz-in-focus-as-ai-strategys-refining-bet-climbs-40-4898793",
-      "title": "Iran-UAE talks put Hormuz in focus as AI strategy’s refining bet climbs 40%",
+      "id": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-066-4898830",
+      "title": "Taiwan stocks lower at close of trade; Taiwan Weighted down 0.66%",
       "summary": "",
       "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/iranuae-talks-put-hormuz-in-focus-as-ai-strategys-refining-bet-climbs-40-4898793",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-066-4898830",
       "category": "Business",
-      "date": "2026-09-14T02:04:37.000Z",
+      "date": "2026-09-14T06:00:04.000Z",
       "hot": false,
       "officialUrl": "https://www.investing.com"
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/amazon-pauses-21-air-operations-after-miami-crash-wsj-reports-4898787",
-      "title": "Amazon pauses 21 Air operations after Miami crash, WSJ reports",
+      "id": "https://www.investing.com/news/stock-market-news/softbank-group-how-vulnerable-is-the-stock-to-a-frontier-ai-slowdown-93CH-4898825",
+      "title": "SoftBank Group: How vulnerable is the stock to a frontier AI slowdown?",
       "summary": "",
       "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/amazon-pauses-21-air-operations-after-miami-crash-wsj-reports-4898787",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/softbank-group-how-vulnerable-is-the-stock-to-a-frontier-ai-slowdown-93CH-4898825",
       "category": "Business",
-      "date": "2026-09-14T01:12:48.000Z",
+      "date": "2026-09-14T05:36:16.000Z",
       "hot": false,
       "officialUrl": "https://www.investing.com"
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/amazon-to-pause-operations-with-21air-after-deadly-crash-4898781",
-      "title": "Amazon to pause operations with 21Air after deadly crash",
+      "id": "https://www.investing.com/news/stock-market-news/softbank-group-stock-slides-11-after-openai-says-it-will-not-seek-a-2026-ipo-4898822",
+      "title": "Softbank Group stock slides 11% after OpenAI says it will not seek a 2026 IPO",
       "summary": "",
       "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/amazon-to-pause-operations-with-21air-after-deadly-crash-4898781",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/softbank-group-stock-slides-11-after-openai-says-it-will-not-seek-a-2026-ipo-4898822",
       "category": "Business",
-      "date": "2026-09-14T00:42:39.000Z",
+      "date": "2026-09-14T05:27:20.000Z",
       "hot": false,
       "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914",
+      "title": "New method enables AI for safety-critical situations",
+      "summary": "MIT researchers have developed a new technique that helps generative artificial intelligence models find solutions to high-stakes problems.In these settings, a plausible answer is not enough: The output often must also satisfy nonnegotiable safety, physical, or task-specific requirements, known as hard constraints.The researchers developed a method that helps generative models meet these strict requirements without sacrificing the quality of their outputs. The key to their technique is to give the model more freedom during the generation process and enforce hard constraints on the final output, rather than at every intermediate step. In experiments spanning robotics, control of physical processes, and computer vision, the new method consistently satisfied the required constraints while identifying better solutions than existing techniques. This adaptable, plug-and-play technique works at deployment time, so it can be applied to pretrained generative models without retraining them. It can make such models more useful in applications where safety rules, physical laws, or other strict requirements cannot be violated. “The promise of generative AI is its ability to explore a rich space of possibilities, but the real world places boundaries on which possibilities are acceptable. Our approach lets us preserve that generative power while enforcing the nonnegotiable requirements of high-stakes or safety-critical applications,” says Navid Azizan, the Alfred H. Hayes Career Developm...",
+      "source": "MIT News ML",
+      "sourceUrl": "https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914",
+      "category": "Research",
+      "date": "2026-09-14T04:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://news.mit.edu"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/09/13/apple-beats-game-controllers-rumor/",
+      "title": "Apple's Two Rumored Game Controllers Will 'Likely' Come From Beats",
+      "summary": "Earlier this month, references to two unreleased Apple game controllers were allegedly spotted in macOS 26.7 beta code, and now Bloomberg's Mark Gurman has shared more details. \"Apple sees this as a growing market and wants in,\" he wrote. No word on pricing or availability.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/09/13/apple-beats-game-controllers-rumor/",
+      "category": "Tech",
+      "date": "2026-09-14T03:06:30.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "108362230",
+      "title": "Z.ai shares tumble over 10% after $5 billion fundraising, its second major raise in two months",
+      "summary": "Z.ai shares tumbled after the Chinese AI company announced its second major fundraising in two months.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/09/14/zai-shares-tumble-second-major-raise-two-months-.html",
+      "category": "Business",
+      "date": "2026-09-14T03:03:58.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/09/12/iphone-18-pro-max-us-model-difference/",
+      "title": "Apple Says iPhone 18 Pro Max Sold in U.S. Differs in One Way",
+      "summary": "As noted by Nicolas Lellouche, who writes for the French tech website Numerama, Apple has updated its tech specs pages for the iPhone 18 Pro and iPhone 18 Pro Max to clarify which models are equipped with its new C2 cellular modem and where. Apple now says the iPhone 18 Pro has a C2 modem worldwide, while the iPhone 18 Pro Max uses the chip in every country except for the U.S. According to a tipster known as @itspdfu, who has been digging through Apple's software updates in recent weeks, iOS 27 code reveals that the iPhone 18 Pro Max is equipped with a Qualcomm modem instead of the C2 chip in the U.S. Apple has yet to provide an explanation for this modem difference, so we can only speculate for now. In 2023, Qualcomm announced that it would supply Apple with smartphone modems through 2026, so perhaps Apple is equipping the U.S. version of the iPhone 18 Pro Max with a Qualcomm modem in order to honor this agreement in a minimum way.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/09/12/iphone-18-pro-max-us-model-difference/",
+      "category": "Tech",
+      "date": "2026-09-14T03:00:20.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
@@ -66,17 +110,6 @@
       "date": "2026-09-13T23:30:00.000Z",
       "hot": false,
       "officialUrl": "https://www.engadget.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/09/13/apple-beats-game-controllers-rumor/",
-      "title": "Apple's Two Rumored Game Controllers Will 'Likely' Come From Beats",
-      "summary": "Earlier this month, references to two unreleased Apple game controllers were allegedly spotted in macOS 26.7 beta code, and now Bloomberg's Mark Gurman has shared more details. \"Apple sees this as a growing market and wants in,\" he wrote. No word on pricing or availability.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/09/13/apple-beats-game-controllers-rumor/",
-      "category": "Tech",
-      "date": "2026-09-13T23:25:06.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "https://www.engadget.com/2252859/how-to-use-gpt-6-astra-rollout-schedule/",
@@ -130,13 +163,7 @@
       "category": "Tools",
       "date": "2026-09-13T20:50:26.000Z",
       "hot": false,
-      "officialUrl": "https://www.engadget.com",
-      "relatedCoverage": [
-        {
-          "source": "Investing.com",
-          "url": "https://www.investing.com/news/stock-market-news/openais-altman-wont-do-ipo-this-year-calls-ai-extinction-risk-unacceptable-4898788"
-        }
-      ]
+      "officialUrl": "https://www.engadget.com"
     },
     {
       "id": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
@@ -337,13 +364,13 @@
       "officialUrl": "https://www.wired.com"
     },
     {
-      "id": "https://www.macrumors.com/2026/09/12/iphone-18-pro-max-us-model-difference/",
-      "title": "Apple Says iPhone 18 Pro Max Sold in U.S. Differs in One Way",
-      "summary": "As noted by Nicolas Lellouche, who writes for the French tech website Numerama, Apple has updated its tech specs pages for the iPhone 18 Pro and iPhone 18 Pro Max to clarify which models are equipped with its new C2 cellular modem and where. Apple now says the iPhone 18 Pro has a C2 modem worldwide, while the iPhone 18 Pro Max uses the chip in every country except for the U.S. According to a tipster known as @itspdfu, who has been digging through Apple's software updates in recent weeks, iOS 27 code reveals that the iPhone 18 Pro Max is equipped with a Qualcomm modem instead of the C2 chip in the U.S. Apple has yet to provide an explanation for this modem difference, so we can only speculate for now. In 2023, Qualcomm announced that it would supply Apple with smartphone modems through 2026, so perhaps Apple is equipping the U.S. version of the iPhone 18 Pro Max with a Qualcomm modem in order to honor this agreement in a minimum way.",
+      "id": "https://www.macrumors.com/2026/09/13/ios-27-release-date-time-zones/",
+      "title": "Here's When iOS 27 Rolls Out Around the World",
+      "summary": "Apple is about to release iOS 27, which will finally deliver more advanced Siri AI capabilities as well as a variety of other refinements, improvements, and new features to iPhones. It's Apple's biggest software update of the year, and Apple announced at Wednesday's iPhone event that it will be releasing &zwnj;iOS 27&zwnj; sometime tomorrow – Monday, September 14. &zwnj;iOS 27&zwnj; won't be the only release on Monday, as macOS Golden Gate and other releases in the OS 27 family will also drop around the same time as &zwnj;iOS 27&zwnj;. Based on past releases, the update is likely to drop at around 10:00 a.m. Apple's own websites for countries around the world also suggest a 10:00 a.m. Pacific Time release, with Apple's site for India listing a September 14 launch while the company's pages for Singapore, Hong Kong, and others in that region list a September 15 release.",
       "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/09/12/iphone-18-pro-max-us-model-difference/",
+      "sourceUrl": "https://www.macrumors.com/2026/09/13/ios-27-release-date-time-zones/",
       "category": "Tech",
-      "date": "2026-09-12T22:27:26.000Z",
+      "date": "2026-09-13T10:00:00.000Z",
       "hot": false,
       "officialUrl": "https://feeds.macrumors.com"
     },
@@ -1782,17 +1809,6 @@
       "date": "2026-09-09T11:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://www.technologyreview.com/?p=1143747",
-      "title": "What OpenAI’s latest controversy tells us about the future of math",
-      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But the announcement has been overshadowed by accusations that OpenAI used NYU mathematician Tristan Buckmaster’s and Anthropic employee Levent Alpöge’s AI-assisted work on the problem as a jumping-off point and failed to credit them. OpenAI has denied the accusations. It remains uncertain if OpenAI’s models made use of the work completed by Buckmaster and Alpöge, though Sébastien Bubeck, a member of the technical staff at OpenAI, said in a press briefing that the team was inspired to pursue the problem after hearing a rumor about Buckmaster and Alpöge’s efforts.",
-      "source": "MIT Technology Review AI",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-      "category": "Research",
-      "date": "2026-09-09T03:10:08.000Z",
-      "hot": false,
-      "officialUrl": "https://www.technologyreview.com"
     }
   ]
 }
