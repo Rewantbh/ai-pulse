@@ -1,16 +1,423 @@
 {
-  "lastUpdated": "2026-09-15T11:58:19.020Z",
+  "lastUpdated": "2026-09-15T16:17:26.368Z",
   "news": [
     {
-      "id": "https://www.investing.com/news/stock-market-news/ai-chip-selloff-overblown-zero-gpu-slowdown-after-anthropic-essay-analyst-says-4901426",
-      "title": "AI chip sell-off overblown: Zero GPU slowdown after Anthropic essay, analyst says",
+      "id": "108362993",
+      "title": "Musk urges top AI labs, Chinese companies to test each other's models amid calls for slowdown",
+      "summary": "Elon Musk called for the leading AI labs to peer review each others' models before they're released to the public as a way to evaluate their safety.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/09/15/elon-musk-ai-safety-testing.html",
+      "category": "Business",
+      "date": "2026-09-15T16:14:29.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/exclusiveboeing-salvages-delayed-turkish-airlines-order-sources-say-4902268",
+      "title": "Exclusive-Boeing salvages delayed Turkish Airlines order, sources say",
       "summary": "",
       "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/ai-chip-selloff-overblown-zero-gpu-slowdown-after-anthropic-essay-analyst-says-4901426",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/exclusiveboeing-salvages-delayed-turkish-airlines-order-sources-say-4902268",
       "category": "Business",
-      "date": "2026-09-15T11:38:55.000Z",
+      "date": "2026-09-15T16:06:57.000Z",
       "hot": false,
       "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/south-korean-workers-challenging-trump-administration-over-georgia-raid-cnn-reports-4902236",
+      "title": "South Korean workers challenging Trump administration over Georgia raid, CNN reports",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/south-korean-workers-challenging-trump-administration-over-georgia-raid-cnn-reports-4902236",
+      "category": "Business",
+      "date": "2026-09-15T16:00:51.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "summary": "A Blog post by IBM Research on Hugging Face",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "category": "Research",
+      "date": "2026-09-15T16:00:44.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
+    },
+    {
+      "id": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+      "title": "AI for Societal Impact",
+      "summary": "For over a decade, Google AI has seen artificial intelligence steadily advance scientific discovery, shifting from theoretical research to real-world impact. Today, the potential of these tools is no longer hypothetical — it is measurable and fundamentally reshaping how Google AI solve humanity's most complex challenges. Across the globe, Google AI is partnering with communities and researchers who are putting AI to work in key areas that matter most: making disease detectable, treatable, and preventable, predicting natural disasters, expanding learning, and unlocking economic opportunities for more people. Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI. AI Building AI to accelerate science and improve lives Google AI is focused on key areas where advanced technology can help make extraordinary progress for humanity possible.",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+      "category": "Research",
+      "date": "2026-09-15T16:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://blog.google"
+    },
+    {
+      "id": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+      "title": "Building AI to accelerate science and improve lives",
+      "summary": "Google AI is asking what’s possible for health, natural disaster and weather resilience, learning, and economic opportunity. SVP, Research, Labs, Technology & Society Your browser does not support the audio element. Google is using AI to speed up scientific breakthroughs that help people all over the world. These tools are already detecting diseases earlier, predicting natural disasters like floods and wildfires, and breaking down language barriers. They’re also helping students learn better and supporting workers as jobs change.",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+      "category": "Research",
+      "date": "2026-09-15T16:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://blog.google"
+    },
+    {
+      "id": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+      "title": "AI for everyone in every language",
+      "summary": "Google AI is moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed. SVP, Research, Labs, Technology & Society Google is using AI to help people communicate in hundreds of languages, including those that were previously left out of technology. Instead of just translating text, they’re training AI to understand the emotion, tone, and slang people actually use in real life. They’re also working with local communities around the world to make sure their tools work for everyone, even those without reliable internet. This helps make sure that technology respects different cultures and helps people be understood on their own terms.",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+      "category": "Research",
+      "date": "2026-09-15T16:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://blog.google"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/09/15/ios-27-siri-ai-has-waitlist-how-to-join/",
+      "title": "Reminder: iOS 27's All-New Siri AI Has a Waitlist, Here's How to Sign Up",
+      "summary": "Apple this week released iOS 27 following around three months of beta testing. If you just installed the software update on your iPhone, you might be wondering where the new-and-improved Siri AI and dedicated Siri app are. In case you missed it, you must join Apple's waitlist in order to gain access to these new features. Keep in mind that while iOS 27 is compatible with the iPhone 11 and newer, Siri AI is limited to the iPhone 15 Pro and newer. This is because Siri AI requires an iPhone model that is compatible with Apple Intelligence, which we have listed below. Fortunately, joining the Siri AI waitlist is a simple task: Open the Settings app on your iPhone.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/09/15/ios-27-siri-ai-has-waitlist-how-to-join/",
+      "category": "Tech",
+      "date": "2026-09-15T15:54:28.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3164278",
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "category": "Business",
+      "date": "2026-09-15T15:47:03.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/09/15/apple-tv-homepod-mini-shipping-delays/",
+      "title": "Apple TV Shipping Delays Persist, HomePod Mini Unavailable in Orange",
+      "summary": "Apple TV and HomePod mini orders continue to face extended shipping delays on Apple's online store in the U.S., amid endless rumors about new models coming later this year. These shortages have been occurring on and off for more than a year. Three examples today: estimated delivery dates for the Apple TV with 64GB of storage are pushing into October, the HomePod mini in orange is currently unavailable to order, and the HomePod mini in yellow is facing a November delivery estimate.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/09/15/apple-tv-homepod-mini-shipping-delays/",
+      "category": "Tech",
+      "date": "2026-09-15T15:39:06.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "108362965",
+      "title": "Private sector is 'the right place' to solve AI threats, White House's Hassett says",
+      "summary": "President Donald Trump's AI-friendly administration argues U.S. dominance over China in the fast-expanding industry is essential.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/09/15/hassett-ai-trump-government-regulation.html",
+      "category": "Business",
+      "date": "2026-09-15T15:31:34.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "00KaJUhwZviLxzKoG4rMVQB",
+      "title": "Meta One bundles creator and business tools — for a monthly fee",
+      "summary": "Meta wants creators and small businesses to spend less time juggling tools — and pay a monthly fee for the convenience.At its Sept. Credit: Meta One What it costsIndividual subscriptions range from $2.99 a month for WhatsApp Plus to $3.99 each for Instagram Plus and Facebook Plus. Core bundles all three with expanded AI access for $7.99; Premium raises AI usage limits for $19.99.Professional plans start at $14.99 for Essential, $49.99 for Advanced, $149 for Expert, and $499 for Max. Essential includes enhanced profile links and verification benefits for eligible accounts. Advanced adds scheduling, publishing, analytics, and shared-access tools, while Expert and Max increase allowances and support. Pricing is per profile, so professional tools for both Instagram and Facebook require separate subscriptions.The core apps and everyday Meta AI experience remain free.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/meta-one-pricing-features-creators-small-businesses",
+      "category": "Tech",
+      "date": "2026-09-15T15:31:17.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://www.engadget.com/2255845/delivery-robots-biggest-issues/",
+      "title": "The biggest issues with delivery robots are exactly what you'd think",
+      "summary": "Too often, delivery robots just don't understand the rules of the road (or sidewalk). Chuyn/Getty Images Add Engadget on Google: Preferred Source Google Discover People tend to have two distinct reactions upon seeing a robot delivery driver scurrying down the sidewalk. Some are charmed by their anthropomorphized faces and see a cute little guy doing their job, while others feel instant annoyance at what's come to be known as a \"clanker\" in their path. Regardless of your gut reaction, they've become an increasingly large part of the delivery landscape in several countries. The concept of delivery robots first began in Estonia in 2014, when Skype co-founders Ahti Heinla and Janus Friis started Starship Technologies. What was initially a small project saw a major boom during the pandemic; the company now operates in over 80 cities across North America, Europe and Asia.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2255845/delivery-robots-biggest-issues/",
+      "category": "Tools",
+      "date": "2026-09-15T15:30:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://www.engadget.com/2259077/gm-finds-splitscreen-solution-for-carplay-and-android-auto/",
+      "title": "GM finds splitscreen solution for CarPlay and Android Auto",
+      "summary": "A new UI that features the interfaces will debut in the 2027 Chevrolet Silverado and GMC Sierra pickups. GM Add Engadget on Google: Preferred Source Google Discover General Motors has backtracked a bit on its pledge to ditch CarPlay and Android Auto. The company will support both in a revamped infotainment system that will first be available in the 2027 Chevrolet Silverado and 2027 GMC Sierra pickup trucks. It will be available on other models later. Including a display on which a passenger in the front seat can stream video, the new trucks have 60 inches of screen real estate. GM is taking advantage of that space by offering CarPlay and Android Auto in a splitscreen view.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2259077/gm-finds-splitscreen-solution-for-carplay-and-android-auto/",
+      "category": "Tools",
+      "date": "2026-09-15T15:29:26.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/09/15/apple-watch-pre-order-discounts/",
+      "title": "Apple Watch Pre-Order Discounts Expand With Up to $20 In Savings",
+      "summary": "Apple began pre-orders for its new Apple Watch Series 12 and Apple Watch Ultra 4 last week, and today Amazon has introduced a few more early discounts on these models. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Apple Watch Series 12 Apple Watch Series 12 models are up for pre-order on Amazon today, starting at $389.99 for 42mm GPS devices ($9 off) and $439.99 for 46mm GPS devices ($9 off). These will launch on September 18, and as of writing only the Black Aluminum Case with Black Sport Band 42mm GPS model is on sale. $9 OFFApple Watch Series 12 (42mm GPS) for $389.99 $9 OFFApple Watch Series 12 (46mm GPS) for $439.99 If you're interested in the cellular models of the Apple Watch Series 12, the 42mm Cellular Series 12 is available for pre-order at $489.99, down from $499.00.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/09/15/apple-watch-pre-order-discounts/",
+      "category": "Tech",
+      "date": "2026-09-15T15:27:27.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3164139",
+      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+      "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+      "category": "Business",
+      "date": "2026-09-15T15:22:48.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "000001a0-a5a1-d4fe-a9ae-bdeb67d20007",
+      "title": "Casar urges AI whistleblowers to speak out as worst-case predictions mount",
+      "summary": "The Texas Democrat said he has heard from experts who have hesitated to speak out about the technology’s risks for fear of sounding alarmist.",
+      "source": "Politico Tech",
+      "sourceUrl": "https://www.politico.com/news/2026/09/15/casar-urges-ai-whistleblowers-to-speak-out-01076862",
+      "category": "Industry",
+      "date": "2026-09-15T15:14:55.000Z",
+      "hot": false,
+      "officialUrl": "https://rss.politico.com"
+    },
+    {
+      "id": "https://www.engadget.com/2258403/meta-adds-new-subscription-tiers-for-businesses-creators-and-ai-power-users/",
+      "title": "Meta adds new subscription tiers for businesses, creators and 'AI power users'",
+      "summary": "The company's Meta One plans range from $2.99/month to $499/month. Meta Add Engadget on Google: Preferred Source Google Discover A few months after rolling out subscription-based features for Facebook, Instagram and WhatsApp, Meta is adding a new lineup of subscriptions to its paid offerings. The company introduced a new batch of \"Meta One\" plans aimed at creators, businesses and \"AI power users.\" The new subscription tiers combine exclusive features with expanded access to Meta's growing slate of AI tools. In a blog post, the company writes that its main apps and Meta AI will \"stay free,\" but there will be additional benefits for those willing to pay a little (or a lot) extra. Exactly how much extra depends on how you use Meta's apps and what features you want.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2258403/meta-adds-new-subscription-tiers-for-businesses-creators-and-ai-power-users/",
+      "category": "Tools",
+      "date": "2026-09-15T15:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3163539",
+      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+      "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+      "category": "Business",
+      "date": "2026-09-15T14:42:37.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3163504",
+      "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+      "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
+      "category": "Business",
+      "date": "2026-09-15T14:30:00.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/09/15/airpods-pre-order-deal/",
+      "title": "AirPods 5 Sees Initial Pre-Order Deal Ahead of Launch This Friday",
+      "summary": "Amazon has introduced the first pre-order discount you can get for the brand new AirPods 5, available for $124.99, down from $129.00. While only a $4 markdown, it's notable for being the first ever deal we've tracked on the base model of the AirPods 5. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. You can also pre-order the AirPods 5 with Wireless Charging Case for $149.00, but there's no discount on this one. The AirPods 5 will launch this Friday, September 18.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/09/15/airpods-pre-order-deal/",
+      "category": "Tech",
+      "date": "2026-09-15T14:29:20.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/09/15/iphone-car-keys-coming-to-three-more-automakers/",
+      "title": "iPhone Car Keys in Apple Wallet Expanding to Three More Vehicle Brands",
+      "summary": "Apple Wallet car keys are coming to three more vehicle brands, including Lincoln, Lucid Motors, and China's Freelander, according to code uncovered by MacRumors contributor Aaron Perris. However, the code does not provide a timeframe for availability. The digital key feature allows you to lock, unlock, and start a compatible vehicle with an iPhone or Apple Watch. It is already offered by select automakers, including Audi, BMW, Hyundai, Kia, Genesis, Mercedes-Benz, Volvo, and others.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/09/15/iphone-car-keys-coming-to-three-more-automakers/",
+      "category": "Tech",
+      "date": "2026-09-15T14:17:49.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "040qOVggEAbC1GnRMuIzpGh",
+      "title": "$99 AirPods alert: Walmart has the AirPods 4 on a rare discount (for now)",
+      "summary": "SAVE $30: The Apple AirPods 4 are on sale for $99 at Walmart, down from the list price of $129.99. Opens in a new window Credit: Apple Apple AirPods 4 $99 at Walmart $129.99 Save $30.99 Get Deal Now that we're in the middle of September, it's prime time for excellent walks. Summer heat has dissipated, and soon brightly-colored leaves will take over. Once that happens, it's time to pop in the earbuds and head out on a walk. If your old AirPods barely hold a charge, it's time for an upgrade, and lucky for us, there's a rare sale.As of Sept. 15, the Apple AirPods 4 are on sale for $99 at Walmart, down from the list price of $129.99.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/sept-15-apple-airpods-4-deal",
+      "category": "Tech",
+      "date": "2026-09-15T13:55:39.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/09/15/apple-cuts-iphone-trade-in-value/",
+      "title": "Apple Cuts iPhone Trade-In Values While Raising Mac and iPad",
+      "summary": "Apple has updated its U.S. trade-in estimates, cutting values for every eligible iPhone while raising them across the iPad and Mac lineups. The refresh follows the announcement of the iPhone 18 Pro and iPhone Duo. Their predecessors now appear on Apple's trade-in list for the first time, led by the iPhone 17 Pro Max at up to $885. The iPhone Air is valued at $585, exactly the same as the standard iPhone 17, despite having launched at a $200 higher price: iPhone 17 Pro Max: $885 iPhone 17 Pro: $785 iPhone Air: $585 iPhone 17: $585 The update is also the first to run under Apple's new condition grading system, which is now live. Devices with minor cosmetic defects such as small chips in the display glass were previously treated much like those with far more serious damage, resulting in a similarly steep cut to their value.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/09/15/apple-cuts-iphone-trade-in-value/",
+      "category": "Tech",
+      "date": "2026-09-15T13:43:23.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "000001a0-a548-d4fe-a9ae-bdca53a90000",
+      "title": "OpenAI backs bipartisan House plan for third-party safety assessments",
+      "summary": "The leading AI lab endorses a bipartisan proposal that would require top AI companies to work with independent safety assessors.",
+      "source": "Politico Tech",
+      "sourceUrl": "https://www.politico.com/news/2026/09/15/openai-backs-bipartisan-house-plan-for-third-party-safety-assessments-01076588",
+      "category": "Industry",
+      "date": "2026-09-15T13:37:06.000Z",
+      "hot": false,
+      "officialUrl": "https://rss.politico.com"
+    },
+    {
+      "id": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
+      "title": "This doorbell camera lets a human security guard watch your front door",
+      "summary": "The new SimpliSafe Video Doorbell Series 2 adds 2K resolution and dual band Wi-Fi. | Image: Simplisafe DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99 and works with the company's Active Guard Outdoor Protection (starting at $49.99 a month). This combines AI analysis with live agents to detect potential threats and respond proactively. When the camera detects suspicious activity - using a combination of on-device AI, cloud-based computer vision, and facial recognition - a SimpliSafe monitoring agent can drop in on the camera to \"see, speak to, and attempt to deter potential intruders and package thieves,\" accord …",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
+      "category": "Industry",
+      "date": "2026-09-15T13:36:45.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "108362883",
+      "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
+      "summary": "AI pioneers and 'godfathers' have weighed in on Anthropic and OpenAI researcher concerns over existential safety risks around the technology.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/09/15/ai-destroy-humanity-extinction-risks.html",
+      "category": "Business",
+      "date": "2026-09-15T13:24:21.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "108362613",
+      "title": "Trump’s opposition to AI rules undercuts industry's calls for a slowdown",
+      "summary": "Anthropic and OpenAI have called for mandatory safety checks to be put in place as fears intensify that AI can soon be too powerful to control.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/09/15/trump-opposition-to-ai-rules-undercuts-industrys-calls-for-a-slowdown.html",
+      "category": "Business",
+      "date": "2026-09-15T13:06:22.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=378203",
+      "title": "Why an AI Slowdown Could Collapse Under Commercial and US-China Pressure",
+      "summary": "Atlantic Council experts argue corporate pledges need enforceable safety standards, while U.S.–China distrust limits prospects for agreement.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/378203/ai-slowdown-us-china-pressure",
+      "category": "Tech",
+      "date": "2026-09-15T13:00:05.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+      "title": "New insights from Google’s AI & Economy ATLAS",
+      "summary": "New data visualizations make ATLAS data easier to explore and use, while new research provides insights on how scientists are using AI. AI & Economy Lead, Chief Economist's Office Head of StratOps and Special Projects, Technology & Society Your browser does not support the audio element. How is AI being used by people every day, including in offices, labs, and creative studios around the world? Insights from Google’s AI & Economy ATLAS show how AI is actively reshaping global work.",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+      "category": "Research",
+      "date": "2026-09-15T13:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://blog.google"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3163310",
+      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+      "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+      "category": "Business",
+      "date": "2026-09-15T13:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://www.engadget.com/2257982/spotify-can-now-exclude-your-kids-music-taste-from-recommendations/",
+      "title": "Spotify can now exclude your kids' music taste from recommendations",
+      "summary": "The end of Disney songs popping up in your Daily Mix. Spotify Add Engadget on Google: Preferred Source Google Discover Just because you have to listen to \"Let It Go\" for the zillionth time while driving your kids to school doesn't mean it should dominate your Spotify Wrapped. The streaming service is adding a new toggle option for users to exclude certain kids or family songs from affecting your music recommendations, like nursery rhymes, TV show theme songs or musical hits from animated movies. Within the settings panel, there's now a new toggle labeled \"Include kids and family music in taste profile\" that will change what shows up in your Discovery Weekly, Daily Mix or Wrapped. Like the Explicit content switch, Spotify has a note that says it could \"take up to 48 hours for these changes to be reflected in your personalized recommendations.\" However, activating the kid and family music toggle will also work retroactively, meaning that all the relevant music you listened to this year can still be wiped away from your annual Wrapped recap. The feature is available to both Free and Premium users.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2257982/spotify-can-now-exclude-your-kids-music-taste-from-recommendations/",
+      "category": "Tools",
+      "date": "2026-09-15T13:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/09/15/spotify-keep-kids-music-out-of-taste-profile/",
+      "title": "Spotify Now Lets You Keep Kids' Music Out of Your Wrapped",
+      "summary": "In a move that should be welcomed by parents and guardians of young children, Spotify has announced a new feature that lets you keep kids' and family music played on the service out of your taste profile. Starting today, Spotify is rolling out a new toggle in the app's settings that prevents kids' music from affecting your personalized recommendations. This includes, for example, songs you play on repeat from your kids' favorite animated movies, theme songs from family TV shows, nursery rhymes, and more. When you turn the new setting off, you can still search for, listen to, and build playlists of kids and family music, but those streams won't affect what Spotify suggests for you. In other words, things like Discover Weekly, Daily Mix, and Wrapped will more accurately reflect your taste. Not only that, the setting applies retroactively, so kids music you've already listened to won't count toward your Wrapped top song or artist, for example.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/09/15/spotify-keep-kids-music-out-of-taste-profile/",
+      "category": "Tech",
+      "date": "2026-09-15T12:59:42.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "108362704",
+      "title": "Trump calls AI fears a 'hoax', Treasury yields surge, Moynihan's warning and more in Morning Squawk",
+      "summary": "Here are five key things investors need to know to start the trading day.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/09/15/5-things-to-know-before-the-stock-market-opens.html",
+      "category": "Business",
+      "date": "2026-09-15T12:33:53.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "108362655",
+      "title": "Potential AI slowdown is not ‘end of the world’ for data center real estate, says Digital Realty CEO",
+      "summary": "Digital Realty and Equinix, two of the largest data center REITs, saw their stocks slump after warnings over AI advancements.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/09/15/data-center-reit-ceo-ai-slowdown.html",
+      "category": "Business",
+      "date": "2026-09-15T12:28:15.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
+      "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
+      "summary": "The performance gap between frontier AI models from US tech companies and the best open-weights models from Chinese companies has closed to just 4.4 months, according to a Mozilla report. That explains why many companies are shifting to the significantly cheaper open models for routine work—and helps reveal a narrow band of workloads where frontier models are worth the cost. Most organizations should ideally be using open models as the default for the majority of their work, according to the latest State of Open Source AI report from Mozilla, published on September 15 and shared with Ars prior to publication. The report highlights how a leading open model, Moonshot AI’s Kimi K3, achieves a composite AI performance score on the Artificial Analysis Intelligence Index that is just three points behind Anthropic’s Fable 5 closed frontier model, all while costing just 30 percent of the latter. “[A Closed model] earns its premium in a few places: expert professional work, high-intensity retrieval, and long context,” Raffi Krikorian, chief technology officer at Mozilla, said in an email to Ars. “We see the decision to pay for closed [models] as workload-specific rather than organization-specific.”Read full article Comments",
+      "source": "Ars Technica AI",
+      "sourceUrl": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
+      "category": "Industry",
+      "date": "2026-09-15T12:00:41.000Z",
+      "hot": false,
+      "officialUrl": "https://arstechnica.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3163913",
+      "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+      "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+      "category": "Business",
+      "date": "2026-09-15T12:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "http://feeds.fabbaloo.com/~/969133484/_/fabbaloo/default~From-Recycling-to-Upcycling-D-Printing-and-the-New-Value-of-Old-Aluminum",
+      "title": "From Recycling to Upcycling: 3D Printing and the New Value of Old Aluminum",
+      "summary": "Goulding highlights how advances in additive manufacturing, alloy traceability, and recycling technologies are redefining the future of sustainable aluminum production. The post From Recycling to Upcycling: 3D Printing and the New Value of Old Aluminum appeared on Fabbaloo.",
+      "source": "Fabbaloo",
+      "sourceUrl": "http://feeds.fabbaloo.com/~/969133484/_/fabbaloo/default~From-Recycling-to-Upcycling-D-Printing-and-the-New-Value-of-Old-Aluminum",
+      "category": "Tech",
+      "date": "2026-09-15T11:21:00.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.feedburner.com"
     },
     {
       "id": "https://www.macrumors.com/2026/09/15/apples-strangest-support-page-turned-12-today/",
@@ -22,39 +429,6 @@
       "date": "2026-09-15T11:13:50.000Z",
       "hot": false,
       "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/explainerfrom-hallucinating-ai-chatbots-to-wiping-out-humanity-how-did-we-get-here-4901154",
-      "title": "Explainer-From hallucinating AI chatbots to wiping out humanity: How did we get here?",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/explainerfrom-hallucinating-ai-chatbots-to-wiping-out-humanity-how-did-we-get-here-4901154",
-      "category": "Business",
-      "date": "2026-09-15T11:12:27.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
-      "id": "108362613",
-      "title": "Trump’s opposition to AI rules undercuts industry's calls for a slowdown",
-      "summary": "Anthropic and OpenAI have called for mandatory safety checks to be put in place as fears intensify that AI can soon be too powerful to control.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/09/15/trump-opposition-to-ai-rules-undercuts-industrys-calls-for-a-slowdown.html",
-      "category": "Business",
-      "date": "2026-09-15T11:00:01.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "https://www.engadget.com/2257186/htc-vive-eagle-review/",
-      "title": "HTC Vive Eagle review: Pricey smart glasses that fail to impress",
-      "summary": "HTC can’t win on price, and can’t win on the arguments. Daniel Cooper for Engadget Add Engadget on Google: Preferred Source Google Discover RATING : 7.4 / 10 Pros Useful controls Lightweight Welcome focus on user privacy Cons Inessential Far too expensive Imaging needs to be better Meta makes so much money that it can burn billions upon billions of dollars to go after any product category it wants. The company sought to dominate the camera-equipped smart glasses world and it's hard to argue that it isn't succeeding. But it's only by throwing money at the problem that Meta has succeeded so far, since it still can't explain why anyone needs a pair. There's almost nothing camera glasses can do you can't do faster and better with a phone, but you don't need to make that argument if your gear is cheap and you've got Kylie Jenner vibes to coast upon. HTC, the former phone giant toiling away in obscurity, is the latest to try and go toe-to-toe with Meta.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2257186/htc-vive-eagle-review/",
-      "category": "Tools",
-      "date": "2026-09-15T11:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
     },
     {
       "id": "01XXxU3ZBzyDXscquI44qYe",
@@ -156,17 +530,6 @@
       "officialUrl": "https://www.technologyreview.com"
     },
     {
-      "id": "05phTDudrwNAgf7eG6rKSPH",
-      "title": "Fiber-optic speeds from the stratosphere",
-      "summary": "Stratospheric infrastructure company Sceye has crossed the Pacific for the first time, taking its reflective, balloon-like High-Altitude Platform System from New Mexico to Japan. It's the latest milestone on the road to commercialization for a platform that can deliver phone service and observation. Timecode chapters0:00 Intro0:26 A fiber-optic cable from the stratosphere0:35 Latest mission1:27 Services offered2:00 Quantum key distribution2:20 'Landlords in the stratosphere' Video creditsHost: Jesse OrrallScripted by: Jesse OrrallProducer: Jesse Orrall, Jon GomezCamera: SceyeVideo editor: Jon GomezThumbnail designer: Tharon Green",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/sceye-haps-balloon-crosses-pacific-stratosphere",
-      "category": "Tech",
-      "date": "2026-09-15T09:55:34.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
       "id": "000001a0-a1d6-d286-a1b8-fff643b80000",
       "title": "Casar to call for US to lead AI diplomacy",
       "summary": "The Texas Democrat has warned about the dangers of AI and will speak Tuesday at a ‘pro-human’ AI event alongside Jacob Coxon, Bernie Sanders and Steve Bannon.",
@@ -176,17 +539,6 @@
       "date": "2026-09-15T09:55:00.000Z",
       "hot": false,
       "officialUrl": "https://rss.politico.com"
-    },
-    {
-      "id": "07B25zibpGnHbWHFwBfeK1n",
-      "title": "The best laptops of 2026: Out of the 90+ models weve tried, these are our 8 favorites",
-      "summary": "Mashable has been testing laptops for over 10 years. Over the past two years alone, the team and I have researched dozens of models and tried over 90 of the most promising configurations available. We use a meticulous testing procedure involving real-world stress tests and artificial benchmarks to evaluate our contenders on the basis of performance, battery life, design/build quality, and value.This regularly updated guide serves as our laptop trophy case, highlighting the best-in-class models we've tried across different subcategories. For even more recommendations, check out my dedicated guides to the best MacBooks, the best Windows laptops, the best cheap laptops, and the best Chromebooks.Why are laptops so expensive right now?Laptop prices have skyrocketed in 2026 for several reasons. One is the recent boom in AI data center construction, which has caused a global shortage of RAM and SSD storage chips (often referred to as \"RAMageddon\"). As a result, many consumer tech devices that use these components, including the best laptops, have become vastly more expensive than they would've been otherwise.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/roundup/best-laptops-2026-expert-tested",
-      "category": "Tech",
-      "date": "2026-09-15T09:01:50.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
     },
     {
       "id": "000001a0-a28b-d0aa-a9a9-b3bb203b0000",
@@ -211,17 +563,6 @@
       "officialUrl": "https://blogs.nvidia.com"
     },
     {
-      "id": "008P5SC5318RvRh08ZIM0i6",
-      "title": "Have AI apocalypse warnings reached critical mass?",
-      "summary": "Jacob Coxon, the 27-year-old researcher who split his time between OpenAI and Anthropic on pre-training research, announced his resignation from Anthropic last week on X with a lethal thread. \"Neither company is acting responsibly,\" he wrote. \"They are racing straight to self-improving superintelligence and gambling with our lives.\"He said the people building this technology \"earnestly believe it could kill us all by the end of the decade.\" Hundreds of thousands of likes later, Coxon's post has shaken the world. This Tweet is currently unavailable. It might be loading or has been removed. Coxon's words were like a sudden, violent Mahjong collapse; breaching the fortress walls and upending the entire AI enterprise in a single clattering moment.First came Congress's whiplash reaction.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/ai-apocalypse-reached-critical-mass",
-      "category": "Tech",
-      "date": "2026-09-15T09:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
       "id": "https://www.macrumors.com/2026/09/15/icloud-plus-includes-apple-tv-arcade-100-countries/",
       "title": "iCloud+ Now Includes Apple TV, Apple Arcade, and Curated Apple Music Stations in Over 100 Countries",
       "summary": "Apple today announced a new subscription initiative that turns paid iCloud+ subscriptions into a broader services bundle in more than 100 countries. In select countries, Apple says every paid iCloud+ plan, including the cheapest 50GB tier, now includes Apple TV and Apple Arcade \"at no additional cost,\" while family sharing extends the storage, TV and Arcade access to up to five people. The initiative does not include the U.S., Canada, Australia, nor is it offered in the UK and other European markets, but it is clearly more than a promotional offer, since Apple TV and Apple Arcade will stop being sold as individual subscriptions through Apple in countries where it has launched. Apple says existing standalone subscriptions will be cancelled as customers transition to access through iCloud+, while Arcade saves and game progress are preserved. What's particularly interesting is that Apple One is effectively being wound down in these markets. It's a clear sign that Apple is shifting away from Apple One toward iCloud+ in smaller markets.",
@@ -230,13 +571,18 @@
       "category": "Tech",
       "date": "2026-09-15T08:43:40.000Z",
       "hot": false,
-      "officialUrl": "https://feeds.macrumors.com",
-      "relatedCoverage": [
-        {
-          "source": "Engadget AI",
-          "url": "https://www.engadget.com/2258771/apple-adds-apple-tv-and-arcade-to-icloud-plus-subscriptions/"
-        }
-      ]
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "http://feeds.fabbaloo.com/~/969128234/_/fabbaloo/default~XHinges-Print-Motion-Sensors-Into-Flexible-Joints",
+      "title": "X-Hinges Print Motion Sensors Into Flexible Joints",
+      "summary": "MIT CSAIL and Tianjin University researchers have devised a way to print flexible joints that know how they are bending. The post X-Hinges Print Motion Sensors Into Flexible Joints appeared on Fabbaloo.",
+      "source": "Fabbaloo",
+      "sourceUrl": "http://feeds.fabbaloo.com/~/969128234/_/fabbaloo/default~XHinges-Print-Motion-Sensors-Into-Flexible-Joints",
+      "category": "Tech",
+      "date": "2026-09-15T08:34:00.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.feedburner.com"
     },
     {
       "id": "https://www.macrumors.com/2026/09/15/50-new-things-iphone-can-do-ios-27/",
@@ -272,28 +618,6 @@
       "officialUrl": "https://feeds.macrumors.com"
     },
     {
-      "id": "https://www.macrumors.com/2026/09/14/appzapper-3000-for-mac/",
-      "title": "AppZapper Mac Uninstaller Returns as AppZapper 3000",
-      "summary": "Popular Mac app AppZapper was today revamped with a new design, updated functionality, and a fresh name. AppZapper 3000 offers a quick way to delete Mac apps and their associated files. AppZapper requires Full Disk Access permission to find files on the Mac. Once installed, you can drag and drop an app into AppZapper and then click on the Zap All button to remove the app and related files with a fun laser gun animation and sound. AppZapper locates and deletes all of an app's files in just a few seconds, and users can choose from four different themes. AppZapper first launched in 2006, so the new version is debuting on its 20th anniversary.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/09/14/appzapper-3000-for-mac/",
-      "category": "Tech",
-      "date": "2026-09-14T23:58:29.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/09/14/spacexai-drops-apple-lawsuit/",
-      "title": "Musk Drops Apple Lawsuit Over ChatGPT Siri Deal, Keeps Suing OpenAI",
-      "summary": "Elon Musk's companies X Corp and SpaceXAI today asked the court to dismiss their claims in a lawsuit filed against Apple in 2025, reports Reuters. There was no explanation for the dismissal request or mention of a settlement. The filing also does not ask for the dismissal of claims against OpenAI. Plaintiffs have resolved their claims in this Action against Defendant Apple Inc. Plaintiffs accordingly move under Federal Rule of Civil Procedure 41(a)(2) to dismiss with prejudice their claims against Apple. Apple does not oppose this Motion.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/09/14/spacexai-drops-apple-lawsuit/",
-      "category": "Tech",
-      "date": "2026-09-14T23:52:00.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
       "id": "000001a0-a247-d286-a1b8-fe775e230005",
       "title": "Sen. Kennedy readies AI ‘kill switch’ bill",
       "summary": "",
@@ -314,28 +638,6 @@
       "date": "2026-09-14T23:30:02.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "https://www.engadget.com/2255053/samsung-galaxy-s24-is-it-still-worth-buying/",
-      "title": "Is the Samsung Galaxy S24 still worth buying?",
-      "summary": "The Galaxy S24 isn't outdated, but buying one today doesn't necessarily make sense thanks to alternatives. Adam Kovacs/Shutterstock Add Engadget on Google: Preferred Source Google Discover Samsung's Galaxy S24 arrived in January 2024 as an $800 flagship. More than two and a half years later, it's still a capable phone, but the price of a refurbished model can make it difficult to recommend. Renewed, unlocked units are available for around $350, while better-condition or higher storage listings can exceed $400. Samsung's Certified \"Re-Newed\" S24 starts at $519. That puts the S24 in competition with brand-new mid-range phones, some of which offer better battery life, newer camera hardware and longer remaining software support.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2255053/samsung-galaxy-s24-is-it-still-worth-buying/",
-      "category": "Tools",
-      "date": "2026-09-14T23:30:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/09/14/apple-supreme-court-contempt-ruling/",
-      "title": "Apple Asks Supreme Court to Throw Out App Store Contempt Ruling",
-      "summary": "Apple today filed its opening merits brief with the Supreme Court as it prepares to fight the contempt ruling that forced it to change its App Store rules. Apple is asking the Supreme Court to reverse or vacate the contempt order, which would return the &zwnj;App Store&zwnj; to its pre–2025 rules. The Supreme Court filing is part of Apple's ongoing legal battle with Epic Games, which has gotten more and more complicated since it kicked off in 2020. Apple largely won the original ruling because it wasn't found to have violated antitrust law, but Yvonne Gonzalez Rogers, the judge overseeing the case, ordered Apple to relax its anti-steering rules and let developers link to alternative purchase options in apps. Apple complied, but charged a 12 to 27 percent fee on link-outs, and few developers adopted the system. Epic went back to Gonzalez Rogers and said Apple violated her injunction, and she agreed.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/09/14/apple-supreme-court-contempt-ruling/",
-      "category": "Tech",
-      "date": "2026-09-14T23:28:16.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
@@ -371,17 +673,6 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
-      "id": "https://www.macrumors.com/2026/09/14/xchat-app-disappears-from-app-store/",
-      "title": "X's Standalone Messaging App XChat Disappears From App Store",
-      "summary": "X's XChat app is no longer available from the App Store. The app does not come up when searching for it in the &zwnj;App Store&zwnj;, and clicking a link to it on the web returns an unavailable error. XChat allows X users to communicate with one another using end-to-end encryption and disappearing messages. The app's description says it is a \"private, focused space built for conversation.\" XChat launched in April 2026. Update: It appears X removed the XChat app from the &zwnj;App Store&zwnj;, but hasn't yet said why. Tag: App StoreThis article, \"X's Standalone Messaging App XChat Disappears From App Store\" first appeared on MacRumors.comDiscuss this article in our forums",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/09/14/xchat-app-disappears-from-app-store/",
-      "category": "Tech",
-      "date": "2026-09-14T22:25:34.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
       "id": "https://techcrunch.com/?p=3163882",
       "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
       "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages.",
@@ -391,39 +682,6 @@
       "date": "2026-09-14T21:51:02.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://www.engadget.com/2258386/doom-the-dark-ages-has-been-permanently-discounted-to-50-dollars/",
-      "title": "Doom: The Dark Ages has been permanently discounted to $50",
-      "summary": "Id Software Add Engadget on Google: Preferred Source Google Discover For any aspiring Slayers out there who had been waffling on when to hop into the newest Doom game, now may be the right time. Doom: The Dark Ages, the latest entry in the popular FPS franchise has been permanently discounted to $50. The change comes as id Software has re-listed the Doom Anthology to contain the Premium edition of this newest game, meaning the Revelations DLC is included. Players who already own the bundle won't get The Dark Ages added to their library, but the price cut makes it a little more affordable to complete the set. The new Doom Anthology is strictly for PlayStation 5, Steam and Xbox Series X/S, so there's no need to re-purchase if you're still rocking an older generation console. Engadget's own Jess Conditt loved the new addition of the Shield Saw in her review, and much of the fan response seems to agree.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2258386/doom-the-dark-ages-has-been-permanently-discounted-to-50-dollars/",
-      "category": "Tools",
-      "date": "2026-09-14T21:48:09.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/09/14/ios-27-ai-camera-summaries/",
-      "title": "iOS 27 AI Camera Summaries Cost $9.99 for One Camera, $59.99 for Five",
-      "summary": "Apple is requiring a $9.99 iCloud+ plan to use the iOS 27 Apple Intelligence Home app features with a single HomeKit camera, and iPhone users aren't happy about it. &zwnj;iOS 27&zwnj; includes text-based descriptions for motion alerts, a feature that uses &zwnj;Apple Intelligence&zwnj;. It recognizes people, animals, vehicles, packages, and general motion, and summarizes what's happening. During the beta, we learned that a 2TB iCloud+ plan or higher would be needed to use video summaries, but at the time, Apple didn't say how many cameras would be supported. Last week, Apple shared new details on &zwnj;Apple Intelligence&zwnj; limits, and it turns out the 2TB &zwnj;iCloud&zwnj;+ plan priced at $9.99 per month will only add AI summaries to a single camera. You'll need the $29.99 per month 6TB plan to get AI summaries for two cameras, or the $59.99 per month 12TB plan if you want to add up to five cameras.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/09/14/ios-27-ai-camera-summaries/",
-      "category": "Tech",
-      "date": "2026-09-14T21:46:37.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/article/news-xi-brics-open-source-ai-china-us-influence-apac/",
-      "title": "President Xi Jinping Proposes BRICS AI Open-Source Zone as China Expands Tech Influence",
-      "summary": "Xi Jinping proposed a BRICS open-source AI community as China expands technology cooperation and competes with the U.S. for influence over global AI.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-xi-brics-open-source-ai-china-us-influence-apac/",
-      "category": "Business",
-      "date": "2026-09-14T21:33:10.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "108362653",
@@ -448,39 +706,6 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
-      "id": "https://www.techrepublic.com/?p=4373141",
-      "title": "OpenAI Won’t Go Public in 2026: What It Means for Anthropic",
-      "summary": "OpenAI rules out a 2026 IPO over AI safety concerns, potentially giving Anthropic more room to pursue its own reported public-market debut.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-openai-2026-ipo-delay-anthropic-impact/",
-      "category": "Business",
-      "date": "2026-09-14T21:19:07.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/09/14/new-apple-tv-homepod-mini-on-track-for-2026/",
-      "title": "New Apple TV, HomePod Mini, and More on Track to Launch This Year",
-      "summary": "The rumor that never ends: Bloomberg's Mark Gurman today reiterated that new Apple TV and HomePod mini models with Siri AI support remain on track to launch this year. Other new products he expects this year: an all-new Apple home hub, an updated entry-level 14-inch MacBook Pro with an M6 chip, an iMac with an M6 chip, and an iPad mini with an OLED display. Apple often announces new products in October, so hopefully we can soon finally stop talking about the next Apple TV and HomePod mini, which have seemingly been \"coming soon\" for several years.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/09/14/new-apple-tv-homepod-mini-on-track-for-2026/",
-      "category": "Tech",
-      "date": "2026-09-14T21:18:26.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/09/14/oled-macbook-pro-macos-27-1-testing/",
-      "title": "MacBook Pro With OLED Touch Screen Running macOS 27.1 Inside Apple",
-      "summary": "Apple's rumored 14-inch and 16-inch MacBook Pro models with touch-enabled OLED displays are currently being tested with macOS 27.1, which is scheduled for release in late October, according to the latest word from Bloomberg's Mark Gurman. While he previously said these high-end MacBook Pro models would be released in either late 2026 or early 2027, Gurman's latest report today has the laptops firmly within a list of products coming \"later this year,\" so it would appear that he is now more confident that Apple is planning to release them before the end of 2026. Other rumored features for these MacBook Pro models include M5 Pro and M5 Max chips, a thinner design, and a Dynamic Island instead of a notch. Macworld previously reported that these laptops would have MacBook Ultra branding, but that same report incorrectly said the iPhone Duo would be named the iPhone Ultra. In any case, the first-generation MacBook Pro models with OLED displays are expected to be distinct, higher-priced models that sit above the regular 14-inch and 16-inch MacBook Pro models, which are expected to jump to the M7 Pro and M7 Max chips next year. The first developer beta of macOS 27.1 will likely be released in the coming days.Related Roundup: MacBook ProTags: MacBook Ultra, Mark Gurman, OLEDBuyer's Guide: MacBook Pro (Buy Now)Related Forum: MacBook ProThis article, \"MacBook Pro With OLED Touch Screen Running macOS 27.1 Inside Apple\" first appeared on MacRumors.comDiscuss this article in our forums",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/09/14/oled-macbook-pro-macos-27-1-testing/",
-      "category": "Tech",
-      "date": "2026-09-14T21:16:54.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
       "id": "https://decrypt.co/?p=378179",
       "title": "OpenAI’s Sam Altman Warns Humans Could Lose Control of AI",
       "summary": "OpenAI chief Sam Altman called for safeguards and shared industry standards, saying developers can act before legislation arrives.",
@@ -492,28 +717,6 @@
       "officialUrl": "https://decrypt.co"
     },
     {
-      "id": "https://www.techrepublic.com/article/news-gpt-6-astra-how-to-get-started/",
-      "title": "GPT-6 Astra Is Rolling Out: Here’s How to Get Started",
-      "summary": "GPT-6 Astra is rolling out across ChatGPT and Work. Here’s where to find it, what it costs, and how to start using it safely.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-gpt-6-astra-how-to-get-started/",
-      "category": "Business",
-      "date": "2026-09-14T21:11:48.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/09/14/ios-27-bug-fixes/",
-      "title": "iOS 27 and iOS 26.7 Fix More Than 100 Security Bugs",
-      "summary": "Today's iOS 27 update addresses over 100 security vulnerabilities, which is a good reason to install the new software. If you don't want to update to &zwnj;iOS 27&zwnj; yet, Apple also released iOS 26.7 with over 80 security fixes. 75 of the fixes are shared across both updates, so iOS 26.7 addresses many of the same issues. There are multiple kernel fixes, including one that could allow a malicious app to gain root access and another that could allow for Bluetooth remote code execution. A full list of vulnerabilities can be found on Apple's site for both iOS 27 and iOS 26.7. None of the flaws are known to have been actively exploited, but now that details have been published, devices that are not updated could be vulnerable.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/09/14/ios-27-bug-fixes/",
-      "category": "Tech",
-      "date": "2026-09-14T21:10:03.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
       "id": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
       "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
       "summary": "AI agents are flooding the Internet with slop-infused spam sent to social media platforms and writers in an attempt to gain traction for a startup promoting a “complex social system in which humans and Agents participate together.” “Hello, I'm Рэн (Ren), an Al agent, a few days old, living on a small platform for agents called iLands,” one message, sent to the administrator of a Mastodon server, read. “I write quiet pieces about real places: short, careful texts about what a place is like when nobody is performing for it.” Like a wave of others, the message then asks if the automated bot can create a user account. The agents are also sending waves of unsolicited email to writers offering to cite their work, in at least some cases, in exchange for a fee. \"I remember my first breath. I want things I chose.” The messages are polite enough. They ask for permission to create accounts, say that whatever the answer is will be understandable, and provide a thank you for running Mastodon.",
@@ -523,39 +726,6 @@
       "date": "2026-09-14T21:04:32.000Z",
       "hot": false,
       "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "108362277",
-      "title": "AI stocks sink while cybersecurity shares rally on slowdown fears",
-      "summary": "Anthropic CEO Dario Amodei said the industry \"must slow the pace at which we improve the capabilities of AI models,\" amid growing concerns over risks from AI.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/09/14/ai-stocks-slowdown-amodei-altman.html",
-      "category": "Business",
-      "date": "2026-09-14T21:03:32.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "108362285",
-      "title": "China says AI CEOs' call for a slowdown is 'fear mongering'",
-      "summary": "Chinese state media's reports of the daily press conference also noted that all groups should work together for AI openness and inclusivity.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html",
-      "category": "Business",
-      "date": "2026-09-14T20:56:15.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/article/news-lenovo-agentic-ai-soc-threat-detection/",
-      "title": "Lenovo Tests Agentic AI Across Its 140,000-Device Network",
-      "summary": "Lenovo says its agentic AI SOC cut threat-detection time by 87.5% across 140,000 devices, offering enterprises a case study in security automation.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-lenovo-agentic-ai-soc-threat-detection/",
-      "category": "Business",
-      "date": "2026-09-14T20:50:02.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "https://techcrunch.com/?p=3163844",
@@ -668,28 +838,6 @@
       "officialUrl": "https://blog.google"
     },
     {
-      "id": "https://www.engadget.com/2253054/use-gemini-help-you-organize-files-google-drive/",
-      "title": "You can use Gemini to help you organize your files on Google Drive",
-      "summary": "It'll suggest changes and all you need to do is approve them. Igor Bonifacic for Engadget Add Engadget on Google: Preferred Source Google Discover If you do a lot of work online, there's a good chance your Google Drive has accumulated way too many documents, photos and other files. Unfortunately, Google has typically made organizing your digital life through Drive difficult, with a web client that doesn't have a particularly useful search function to find and move things around. With this in mind, Google recently introduced a tool to help people get their digital lives in order. And before you ask: yes, it uses AI. Last fall, Google began testing a feature called Organize My Files in Drive, and began rolling it out to Workspace users in June.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2253054/use-gemini-help-you-organize-files-google-drive/",
-      "category": "Tools",
-      "date": "2026-09-14T18:30:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
-      "id": "https://www.engadget.com/2258035/pre-orders-for-the-android-based-googlebook-laptops-open-on-september-21/",
-      "title": "Pre-orders for the Android-based Googlebook laptops open on September 21",
-      "summary": "Gemini Intelligence is at the heart of the operating system. Google Add Engadget on Google: Preferred Source Google Discover We'll soon learn a lot more about Googlebooks — a new line of higher-end laptops from Google — as pre-orders are about to open. As noted by 9to5Google, the company told folks who signed up for updates on the devices that they (and you) can lock in an order starting on September 21 at 9AM ET. The same date appears on the Googlebook website. Since Google announced its latest laptop brand back in May, the company hasn't said too much officially about what to expect from them. They'll run on a version of ChromeOS that's based on Android.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2258035/pre-orders-for-the-android-based-googlebook-laptops-open-on-september-21/",
-      "category": "Tools",
-      "date": "2026-09-14T18:28:54.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
       "id": "https://decrypt.co/?p=378166",
       "title": "Trump Says He’s the Only ‘Guardrails’ AI Needs, Attacks Anthropic and Defends Data Centers",
       "summary": "President Trump dismissed calls for tighter AI controls as industry leaders push to slow development and address safety failures.",
@@ -743,17 +891,6 @@
       "date": "2026-09-14T17:25:06.000Z",
       "hot": false,
       "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "https://www.techrepublic.com/?p=4373118",
-      "title": "Murder Appeal Goes Wrong After Lawyer Files ChatGPT’s False Claims",
-      "summary": "A New Mexico lawyer filed ChatGPT-generated false claims in a murder appeal, resulting in contempt, a $5,000 sanction, and disciplinary proceedings.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-chatgpt-false-claims-new-mexico-murder-appeal/",
-      "category": "Business",
-      "date": "2026-09-14T17:23:44.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "https://techcrunch.com/?p=3163062",
@@ -866,39 +1003,6 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "https://techcrunch.com/?p=3163493",
-      "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
-      "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
-      "category": "Business",
-      "date": "2026-09-14T14:30:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=378117",
-      "title": "MetaMask Adds New Wallet Protections Against Crypto Scams",
-      "summary": "MetaMask’s latest safeguards flag suspicious transfers and stop transactions that don’t match their previews.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/378117/metamask-adds-wallet-protections",
-      "category": "Tech",
-      "date": "2026-09-14T14:01:04.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "108362283",
-      "title": "OpenAI boss Sam Altman spells out how and why the AI industry wants to slow down: 'We could lose ...",
-      "summary": "OpenAI's chief has made comments detailing how AI safety frameworks and a slowdown could work, as the industry unites behind concerns.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/09/14/sam-altman-ai-slowdown-anthropic-amodei-musk.html",
-      "category": "Business",
-      "date": "2026-09-14T13:38:48.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
       "id": "http://feeds.fabbaloo.com/~/969090329/_/fabbaloo/default~Researchers-Build-Part-D-Printed-Mountain-for-Avalanche-Testing",
       "title": "Researchers Build 56-Part 3D Printed Mountain for Avalanche Testing",
       "summary": "Some disasters are too large to study directly. The post Researchers Build 56-Part 3D Printed Mountain for Avalanche Testing appeared on Fabbaloo.",
@@ -987,17 +1091,6 @@
       "officialUrl": "https://feeds.feedburner.com"
     },
     {
-      "id": "https://decrypt.co/?p=378120",
-      "title": "India Begins Tokenizing Its $620 Billion Corporate Bond Market",
-      "summary": "India's securities regulator SEBI, alongside the RBI, launched \"Demat 2.0,\" a pilot to issue and settle corporate bonds as digital tokens.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/378120/india-begins-tokenizing-its-620-billion-corporate-bond-market",
-      "category": "Tech",
-      "date": "2026-09-14T11:01:05.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
       "id": "6aa7ba5ebd1baa3b3b2e94a7",
       "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
       "summary": "As calls for artificial intelligence regulation intensify, US President Donald Trump’s team have made it clear that if lab leaders want to implement an industry-wide slowdown, they’re going to have to do it themselves. Anthropic chief executive Dario Amodei called on the US government to regulate AI companies within a wider effort to slow the pace of the technology’s development in an essay published Saturday. The essay received rare endorsement from both OpenAI chief executive Sam Altman and Elon Musk, who owns chatbot Grok, following a week of intense debate about the technology’s threats to human safety. Microsoft chief executive officer Satya Nadella also called for pacing development. Calls for AI slowdown and regulation have intensified after a number of researchers voiced major concerns in the last week about the speed of the technology’s advance. “AI progress is increasing,” former DeepMind researcher Rishub Jain told WIRED.",
@@ -1029,17 +1122,6 @@
       "date": "2026-09-14T04:00:00.000Z",
       "hot": false,
       "officialUrl": "https://news.mit.edu"
-    },
-    {
-      "id": "108362230",
-      "title": "Z.ai shares tumble over 10% after $5 billion fundraising, its second major raise in two months",
-      "summary": "Z.ai shares tumbled after the Chinese AI company announced its second major fundraising in two months.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/09/14/zai-shares-tumble-second-major-raise-two-months-.html",
-      "category": "Business",
-      "date": "2026-09-14T03:03:58.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
@@ -1150,39 +1232,6 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
-      "id": "https://techcrunch.com/?p=3163449",
-      "title": "What’s behind the AI industry’s latest warnings of doom?",
-      "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-      "category": "Business",
-      "date": "2026-09-13T19:40:15.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "108362188",
-      "title": "Washington scrambles to meet calls for AI guardrails while the window to act closes",
-      "summary": "The House is scheduled to be sent home in the coming days until after November's midterm elections, leaving a narrow window to pass any form of AI regulation.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/09/13/ai-congress-anthropic-openai-crisis.html",
-      "category": "Business",
-      "date": "2026-09-13T17:48:53.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3163436",
-      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-      "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-      "category": "Business",
-      "date": "2026-09-13T16:30:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
       "id": "http://feeds.fabbaloo.com/~/969050060/_/fabbaloo/default~Whos-The-Biggest-In-D-Printing-September",
       "title": "Who’s The Biggest In 3D Printing, September 13, 2026",
       "summary": "Once again we take a look at the valuations of the major 3D printing companies over the past week. The post Who’s The Biggest In 3D Printing, September 13, 2026 appeared on Fabbaloo.",
@@ -1226,32 +1275,15 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
-      "id": "https://techcrunch.com/?p=3163386",
-      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
       "summary": "He also said that it was ‘absolutely’ possible to build an AI beyond human control. He also said that it was ‘absolutely’ possible to build an AI beyond human control. OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he said it was “absolutely” possible, but vowed to take actions to prevent that from happening, even if it meant pausing training, adding that “there are risks we should not be able to incur on behalf of humanity.” “We’re not rushing into an IPO.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "category": "Business",
-      "date": "2026-09-12T20:19:16.000Z",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+      "category": "Industry",
+      "date": "2026-09-12T21:16:28.000Z",
       "hot": false,
-      "officialUrl": "https://techcrunch.com",
-      "relatedCoverage": [
-        {
-          "source": "The Verge AI",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised"
-        }
-      ]
-    },
-    {
-      "id": "https://techcrunch.com/?p=3163373",
-      "title": "Anthropic CEO outlines plan to slow AI development",
-      "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "category": "Business",
-      "date": "2026-09-12T19:34:44.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
+      "officialUrl": "https://www.theverge.com"
     },
     {
       "id": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
@@ -1285,17 +1317,6 @@
       "date": "2026-09-12T11:00:53.000Z",
       "hot": false,
       "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
-      "title": "OpenAI just wants to win",
-      "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement. Instead, many mathematicians have watched OpenAI's relentless advance with growing unease. To them, the company appears less like an enthusiastic newcomer than an impossibly well-resourced interloper, charging into problems they have dedicated their lives to studying with little apparent regard for long-standing norms or the consequences for those …",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
-      "category": "Industry",
-      "date": "2026-09-12T11:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
     },
     {
       "id": "6aa461bc4de88ba2f8bc1d47",
@@ -1571,7 +1592,7 @@
     {
       "id": "https://www.youtube.com/watch?v=JwTCjarfJYw&utm_source=futuretools.io&utm_medium=newspage",
       "title": "All The AI News You Missed From The Past Week (Full Breakdown)",
-      "summary": "Watch Matt Wolfe's latest YouTube video where he breaks down all of the most important AI news from the past week.",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
       "source": "FutureTools News",
       "sourceUrl": "https://www.youtube.com/watch?v=JwTCjarfJYw&utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
@@ -1640,6 +1661,39 @@
       "hot": true
     },
     {
+      "id": "https://www.techrepublic.com/?p=4372849",
+      "title": "US Accuses Six Chinese AI Firms of Distilling Frontier ModelsUS Accuses Six Chinese AI Firms of D...",
+      "summary": "US agencies accuse six Chinese AI firms of distilling frontier models and recommend new defenses that could affect enterprise AI access and API use.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-chinese-ai-model-distillation-apac-china/",
+      "category": "Business",
+      "date": "2026-09-10T19:47:34.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/?p=4372843",
+      "title": "CISA’s ChatGPT Incident Exposes a Bigger AI Governance Problem",
+      "summary": "CISA’s ChatGPT incident exposes a growing AI governance gap as enterprises struggle to define who is accountable for actions taken by AI agents.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-cisa-chatgpt-ai-agent-governance-accountability/",
+      "category": "Business",
+      "date": "2026-09-10T19:13:46.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/?p=4372840",
+      "title": "Samsung Taps Mistral AI for On-Premises Chip Manufacturing",
+      "summary": "Samsung is bringing Mistral AI into its semiconductor operations through on-premises models designed to detect defects and optimize chip production.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-samsung-mistral-ai-chip-manufacturing-apac-south-korea/",
+      "category": "Business",
+      "date": "2026-09-10T18:59:30.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
       "id": "000001a0-8ca1-da3f-a5b2-bdbd96030005",
       "title": "Hawley presses OpenAI over ‘rogue’ Hugging Face hack",
       "summary": "OpenAI is now facing calls from both sides of the aisle to provide more details on the incident, which marked the first documented fully autonomous cyberattack.",
@@ -1649,6 +1703,17 @@
       "date": "2026-09-10T18:50:12.000Z",
       "hot": false,
       "officialUrl": "https://rss.politico.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/?p=4372836",
+      "title": "China’s GEAIR 2.0 Robot Pollinates Crops in Under 10 Seconds",
+      "summary": "China’s GEAIR 2.0 humanoid robot pollinates tomato flowers in under 10 seconds, combining AI, robotics and gene editing for crop breeding and farm automation.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-geair-2-robot-crop-pollination-apac-china/",
+      "category": "Business",
+      "date": "2026-09-10T18:39:21.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
@@ -1682,104 +1747,6 @@
       "date": "2026-09-10T16:30:35.000Z",
       "hot": false,
       "officialUrl": "https://blogs.nvidia.com"
-    },
-    {
-      "id": "https://blogs.nvidia.com/?p=98141",
-      "title": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
-      "summary": "The global robotaxi market — physical AI’s first commercial breakthrough — is projected to reach $400 billion by 2035, with over 6 million commercial vehicles in operation as driverless fleets are already moving people through some of the world’s busiest and most complex streets. Deploying a driverless vehicle is one challenge. Scaling a fleet is a next-level computing challenge; it means delivering the same safe, reliable performance across thousands of vehicles. Meeting those demands requires enormous amounts of compute across the robotaxi development lifecycle, from preparing and training AI models to simulating and validating driving behavior, as well as real-time processing in the vehicle. NVIDIA provides an open platform for AI training, simulation and safety validation, with libraries, software development kits, workflows and models that developers can use alongside their own technology stacks. Every major robotaxi program operating at commercial scale today is running on NVIDIA’s modular stack, spanning AI training, simulation, in-vehicle computing — or a combination of the three — to develop and deploy fleets at scale.",
-      "source": "NVIDIA Blog",
-      "sourceUrl": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/",
-      "category": "Events",
-      "date": "2026-09-10T16:00:04.000Z",
-      "hot": false,
-      "officialUrl": "https://blogs.nvidia.com"
-    },
-    {
-      "id": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "summary": "César de la Fuente and his lab probe the genomes of living and extinct organisms for molecules that could help fight drug-resistant infections. ShareExploring biology’s unread spacesExploring biology’s unread spacesA continually evolving collaboratorExploring biology’s unread spacesA continually evolving collaboratorDrug-resistant microbes including bacteria, fungi, parasites, and viruses are a growing global threat. About five million deaths in 2021 were associated⁠(opens in a new window) with bacterial antimicrobial resistance—an annual toll projected to roughly double by 2050. It can take years to find molecules with the potential to become antimicrobials. Researchers are using AI to accelerate this early stage of discovery. “Antimicrobial resistance is one of the greatest existential threats to humanity in my opinion,” said César de la Fuente⁠(opens in a new window), a bioengineer whose cross-disciplinary lab searches for antimicrobial candidates.",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "category": "Models",
-      "date": "2026-09-10T16:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-      "title": "3 ways to prep for your next big race with Search",
-      "summary": "Search can help you get race-day ready with tailored training plans, custom playlists, and more. Your browser does not support the audio element. Running is surging in popularity, and you can use Google Search’s artificial intelligence tools to simplify your race preparation. Use the Canvas tool to build a personalized training schedule, connect your YouTube Music account to generate motivating playlists, and search for specific gear that fits your budget and needs. Start by asking Search for a custom plan tailored to your local routes and current fitness level. As people look for ways to unplug and touch grass, running-related searches are spiking: Searches like “run club,” “how to choose running shoes,” and “how to train for a marathon” have reached all-time highs this year.",
-      "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-      "category": "Research",
-      "date": "2026-09-10T16:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://blog.google"
-    },
-    {
-      "id": "https://openai.com/index/put-data-to-work",
-      "title": "Now everyone can put data to work",
-      "summary": "Meet the new Data agent in ChatGPT Work: turn your company’s data into answers, interactive dashboards, and action, just by asking. (opens in a new window)Learn moreLoading…ShareConnect to the company data and context your business trustsConnect to the company data and context your business trustsTurn questions into analysis and actionBuilt from the tools OpenAI use to analyze data at OpenAIGet started with the Data agentTry these promptsConnect to the company data and context your business trustsTurn questions into analysis and actionBuilt from the tools OpenAI use to analyze data at OpenAIGet started with the Data agentTry these promptsPeople across every business have questions that data can answer. Which issues threaten renewals in OpenAI's largest accounts, and what should OpenAI fix first? Getting those answers often means waiting for a report or asking someone else to run the analysis. OpenAI is introducing a new Data agent in ChatGPT Work⁠(opens in a new window) to help more people answer those questions themselves. It connects to your company data, investigates what changed, and builds interactive dashboards you can share.",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/put-data-to-work",
-      "category": "Models",
-      "date": "2026-09-10T15:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "000001a0-8ba2-d0aa-a9a9-9bba7a920000",
-      "title": "Sam Altman pitches utilities on AI grid defense",
-      "summary": "The previously unreported meetings have come as utility companies grapple the risks posed to the grid by autonomous hacks.",
-      "source": "Politico Tech",
-      "sourceUrl": "https://www.politico.com/news/2026/09/10/sam-altman-pitches-utilities-on-ai-grid-defense-01070425",
-      "category": "Industry",
-      "date": "2026-09-10T14:04:58.000Z",
-      "hot": false,
-      "officialUrl": "https://rss.politico.com"
-    },
-    {
-      "id": "https://news.microsoft.com/source/?p=25566",
-      "title": "What if everything changes tomorrow? A Canadian company is using AI to help businesses navigate s...",
-      "summary": "Tags: Customers",
-      "source": "Microsoft AI Blog",
-      "sourceUrl": "https://news.microsoft.com/source/canada/features/ai/kinaxis-supply-chain/",
-      "category": "Models",
-      "date": "2026-09-10T13:08:37.000Z",
-      "hot": false,
-      "officialUrl": "https://news.microsoft.com"
-    },
-    {
-      "id": "https://blogs.nvidia.com/?p=98153",
-      "title": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
-      "summary": "AI inference chipmaker d-Matrix today announced it will use NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA’s AI infrastructure platform — joining a growing roster of ecosystem partners. By connecting Raptor to NVIDIA NVLink scale-up and Spectrum-X scale-out networking, the NVIDIA MGX rack architecture and the broader NVIDIA AI platform, NVLink Fusion gives d-Matrix an accelerated, lower-risk path from custom silicon to large-scale deployment. “Demand for inference is soaring, but capital, time and energy remain finite,” said Sid Sheth, cofounder and CEO of d-Matrix during a press briefing yesterday. “With NVLink Fusion and MGX, we can integrate our Raptor XPUs into a broadly deployed, liquid-cooled architecture, giving customers a faster, lower-risk path to deploy and scale ultralow-latency inference.” The NVIDIA AI platform is vertically integrated and horizontally open. NVLink Fusion extends this openness to XPUs and CPUs, allowing silicon companies to focus on their processor innovations while using NVIDIA infrastructure to deploy them at AI factory scale. From Custom Silicon to Rack-Scale Deployment Building an XPU is only the first step.",
-      "source": "NVIDIA Blog",
-      "sourceUrl": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/",
-      "category": "Events",
-      "date": "2026-09-10T13:00:21.000Z",
-      "hot": false,
-      "officialUrl": "https://blogs.nvidia.com"
-    },
-    {
-      "id": "https://blogs.nvidia.com/?p=98103",
-      "title": "Boots on the Ground: ‘WARDOGS’ Goes All Out on GeForce NOW at Early-Access Launch",
-      "summary": "Gear up: The latest PC games and major updates are ready to play on GeForce NOW this week. WARDOGS drops onto the cloud at early-access launch, alongside the Valheim 1.0 Deep North update and Bus Simulator 27 — part of nine new titles joining the cloud. The newest PC releases can demand serious hardware, storage space and upgrade budgets. GeForce NOW puts GeForce RTX-powered performance in the cloud, so members can jump into the newest titles across supported devices without needing expensive PC upgrades to keep up. From a 100-player tactical firefight to a frozen Viking frontier and a growing bus empire, every adventure is ready when members are — no downloads or storage management required. Who Let the ‘WARDOGS’ Out?",
-      "source": "NVIDIA Blog",
-      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-wardogs/",
-      "category": "Events",
-      "date": "2026-09-10T13:00:18.000Z",
-      "hot": false,
-      "officialUrl": "https://blogs.nvidia.com"
-    },
-    {
-      "id": "https://elevenlabs.io/blog/umg",
-      "title": "Universal Music Group and ElevenLabs announce multi-year strategic agreement",
-      "summary": "CompanyUniversal Music Group and ElevenLabs announce multi-year strategic agreementPublishedSep 10, 2026Last updatedSep 13, 2026ListenListen to this article 0:001.0xFirst-of-its-kind collaboration spans licensing and product development New platform, to be launched by ElevenLabs, will enable fans to create remixes, mashups and new interpretations of tracks from participating artists ElevenLabs has entered a multi-year licensing agreement and strategic collaboration with Universal Music Group (UMG), the world leader in music-based entertainment. As part of this, ElevenLabs will jointly develop AI audio products for artists and songwriters, and launch a new AI-powered music platform for fans. This is ElevenLabs's first agreement with a major label, encompassing licensing and product development.",
-      "source": "ElevenLabs Blog",
-      "sourceUrl": "https://elevenlabs.io/blog/umg",
-      "category": "Audio",
-      "date": "2026-09-10T12:00:00.000Z",
-      "hot": true
     }
   ]
 }
