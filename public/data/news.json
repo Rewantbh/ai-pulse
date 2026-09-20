@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19T23:49:53.384Z",
+  "lastUpdated": "2026-09-20T02:45:43.603Z",
   "news": [
     {
       "id": "https://www.engadget.com/2259087/apple-carplay-vs-ultra-differences-explained/",
@@ -1795,7 +1795,7 @@
     {
       "id": "https://x.com/ShaneLegg/status/2100229706641539248?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Google DeepMind Launches Institute to Study AGI Implications",
-      "summary": "@ShaneLeggMy journey to develop AGI spans 25 yrs, including 10+ yrs thinking about technical & societal perspectives at Google DeepMind. AGI is on the horizon - we need deeper understanding of its implications. To help, we've created the DeepMind Institute. Introducing the DeepMind Institute1495103.6K2.3K/*! tailwindcss v4.3.3 | MIT License | https://tailwindcss.com */ @layer properties{@supports (((-webkit-hyphens:none)) and (not (margin-trim:inline))) or ((-moz-orient:inline) and (not (color:rgb(from red r g b)))){*,:before,:after,::backdrop{--tw-border-spacing-x:0;--tw-border-spacing-y:0;--tw-translate-x:0;--tw-translate-y:0;--tw-translate-z:0;--tw-border-style:solid;--tw-leading:initial;--tw-font-weight:initial;--tw-outline-style:solid;--tw-duration:initial}}}@layer utilities{.pointer-events-none{pointer-events:none}.absolute{position:absolute}.fixed{position:fixed}.relative{position:relative}.static{position:static}.sticky{position:sticky}.inset-0{inset:0}.inset-x-0{inset-inline:0}.inset-s-3{inset-inline-start:calc(var(--spacing,.25rem) * 3)}.end-2{inset-inline-end:calc(var(--spacing,.25rem) * 2)}.top-0{top:0}.top-2{top:calc(var(--spacing,.25rem) * 2)}.top-3{top:calc(var(--spacing,.25rem) * 3)}.bottom-0{bottom:0}.left-0{left:0}.z-10{z-index:10}.container{width:100%}@media (width>=40rem){.container{max-width:40rem}}@media (width>=48rem){.container{max-width:48rem}}@media (width>=64rem){.container{max-width:64rem}}@media (width>=80rem){.container{max-width:80rem}}",
+      "summary": "@ShaneLeggMy journey to develop AGI spans 25 yrs, including 10+ yrs thinking about technical & societal perspectives at Google DeepMind. AGI is on the horizon - we need deeper understanding of its implications. To help, we've created the DeepMind Institute. Introducing the DeepMind Institute1485103.6K2.3K/*! tailwindcss v4.3.3 | MIT License | https://tailwindcss.com */ @layer properties{@supports (((-webkit-hyphens:none)) and (not (margin-trim:inline))) or ((-moz-orient:inline) and (not (color:rgb(from red r g b)))){*,:before,:after,::backdrop{--tw-border-spacing-x:0;--tw-border-spacing-y:0;--tw-translate-x:0;--tw-translate-y:0;--tw-translate-z:0;--tw-border-style:solid;--tw-leading:initial;--tw-font-weight:initial;--tw-outline-style:solid;--tw-duration:initial}}}@layer utilities{.pointer-events-none{pointer-events:none}.absolute{position:absolute}.fixed{position:fixed}.relative{position:relative}.static{position:static}.sticky{position:sticky}.inset-0{inset:0}.inset-x-0{inset-inline:0}.inset-s-3{inset-inline-start:calc(var(--spacing,.25rem) * 3)}.end-2{inset-inline-end:calc(var(--spacing,.25rem) * 2)}.top-0{top:0}.top-2{top:calc(var(--spacing,.25rem) * 2)}.top-3{top:calc(var(--spacing,.25rem) * 3)}.bottom-0{bottom:0}.left-0{left:0}.z-10{z-index:10}.container{width:100%}@media (width>=40rem){.container{max-width:40rem}}@media (width>=48rem){.container{max-width:48rem}}@media (width>=64rem){.container{max-width:64rem}}@media (width>=80rem){.container{max-width:80rem}}",
       "source": "FutureTools News",
       "sourceUrl": "https://x.com/ShaneLegg/status/2100229706641539248?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
@@ -1870,6 +1870,17 @@
       "date": "2026-09-15T17:47:51.000Z",
       "hot": false,
       "officialUrl": "https://www.technologyreview.com"
+    },
+    {
+      "id": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "summary": "Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking are DeepMind's most advanced live dialogue models yet. Major upgrades in intelligence and parallel reasoning make them more intuitive to collaborate with and use to execute complex tasks using your voice. Member of Technical Staff, on behalf of the Gemini Audio Team Your browser does not support the audio element. DeepMind is launching Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking to make voice interactions more natural, fluid, and intelligent. These models handle complex reasoning, real-time visual context, and background task execution without interrupting your conversation.",
+      "source": "DeepMind Blog",
+      "sourceUrl": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "category": "Research",
+      "date": "2026-09-15T17:05:57.000Z",
+      "hot": false,
+      "officialUrl": "https://deepmind.google"
     },
     {
       "id": "https://blogs.nvidia.com/?p=98194",
@@ -1980,112 +1991,6 @@
       "date": "2026-09-15T09:00:42.000Z",
       "hot": false,
       "officialUrl": "https://blogs.nvidia.com"
-    },
-    {
-      "id": "https://sakana.ai/marlin-update/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Sakana Marlin Adds Interactive Reading and PowerPoint Export for AI Research Reports",
-      "summary": "Sakana AIは本日、「Sakana Marlin」に2つの機能を追加しました。 いずれも、Sakana Marlinが生み出した数十ページのアウトプットを、読み手が深く理解し、より良い意思決定につなげるための機能です。 今年6月に公開した「Sakana Marlin」のコンセプトは、「リサーチはAIへ。人間は意思決定に集中する。」です。独自技術AB-MCTSを活用した最大8時間に及ぶリサーチで、仮説設定から情報収集、調査結果のレポート化までを、AIが自律的に行います。 開発の背景には、生成AIの登場以降、社会の変化が著しく速くなり、私たちが処理する必要のある情報の量は、日夜増大し続けているという認識があります。そこでSakana Marlinは、公開情報の中から本当に必要な情報を的確かつ効率的に収集し、可読性の高い文書やスライド資料にまとめることで、人々が良質な意思決定に集中できるようにすることを目指してきました。 実際、リリース以降は大手企業、スタートアップ、コンサルティングファーム、金融機関、大学・研究機関など、多様な組織にて利用いただき、その調査業務をサポートしてきました。 一方で、Sakana Marlinを実際の業務で使っていただくなかで、私たちはリリース時に想定していなかった新たな課題に向き合うことになりました。それは、調査結果を私たち人間が読み解き、内容の確からしさを判定し、その主張に納得するという、「理解」のプロセスにおけるボトルネックです。",
-      "source": "FutureTools News",
-      "sourceUrl": "https://sakana.ai/marlin-update/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-09-15T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Google Launches Gemini 3.8 Live and Extended Thinking Voice AI Models",
-      "summary": "Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking are our most advanced live dialogue models yet. Major upgrades in intelligence and parallel reasoning make them more intuitive to collaborate with and use to execute complex tasks using your voice. Member of Technical Staff, on behalf of the Gemini Audio Team Your browser does not support the audio element. We are launching Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking to make voice interactions more natural, fluid, and intelligent. These models handle complex reasoning, real-time visual context, and background task execution without interrupting your conversation.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-09-15T00:00:00.000Z",
-      "hot": false,
-      "relatedCoverage": [
-        {
-          "source": "DeepMind Blog",
-          "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
-        }
-      ]
-    },
-    {
-      "id": "https://typesafe.ai/blog/introducing-system-one-models-and-jev?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "TypeSafe AI Launches Jev, a Fast Structured-Output Model for Software Automation",
-      "summary": "Models have been superhuman at chat for years, so where is all the automation? This has been my driving question for the last four years. At OpenAI, I helped build the methods that made language models useful at following instructions and talking with people. That work ended up as the research behind ChatGPT. At the time, I thought maybe chat models would lead to AGI, but despite the hype it became obvious to me that there was something really big missing. After two years in stealth, countless technical challenges, and research breakthroughs… I am beyond announced that today, TypeSafe AI is releasing our first System One Model: a new class of frontier models built to make fast, structured decisions that software can use directly. We built a new stack entirely focused on automation: with a new model architecture, parallel sampler for maximum efficiency, and training method we call Reinforcement Learning for Calibrated Decisions (RLCD).",
-      "source": "FutureTools News",
-      "sourceUrl": "https://typesafe.ai/blog/introducing-system-one-models-and-jev?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-09-15T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://claude.com/blog/salesforce-in-claude?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Anthropic Launches Salesforce in Claude Plugin with 37 Sales Skills for CRM Automation",
-      "summary": "Sellers can now research companies, prep for calls, review pipeline, and draft CRM updates with our new Salesforce in Claude plugin.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://claude.com/blog/salesforce-in-claude?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-09-15T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://www.salesforce.com/agentforce/koa/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Salesforce Launches Koa CRM Reasoning Model for Agentforce, Built on Nvidia Nemotron",
-      "summary": "A new CRM reasoning model to power your digital workforce Introducing Koa, Salesforce’s first CRM reasoning model for Agentforce, built on NVIDIA Nemotron™. Koa is trained with 27 years of Salesforce CRM intelligence to enable agents to reason through the complex, multi-step tasks required for enterprise work.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://www.salesforce.com/agentforce/koa/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-09-15T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://claude.com/blog/building-an-ai-native-revenue-organization?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Anthropic Releases Guide to Rolling Out Claude Across Sales Organizations",
-      "summary": "In this guide, we share how revenue leaders can roll out Claude across a sales organization, including the setup decisions, a three-phase rollout plan, and an ROI measurement framework.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://claude.com/blog/building-an-ai-native-revenue-organization?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-09-15T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Anthropic Expands Claude for Small Business With 43 Workflows, 27 Integrations & Free Training",
-      "summary": "We’re releasing new Claude for Small Business workflows and integrations to help owners run and grow their business. We're also kicking off the next leg of our Claude SMB tour, with free partner webinars and community-run workshops.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-09-15T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Google AI Reaches 7B People, Maps Human Genome & Boosts Disaster Prediction",
-      "summary": "We’re asking what’s possible for health, natural disaster and weather resilience, learning, and economic opportunity. SVP, Research, Labs, Technology & Society Your browser does not support the audio element. Google is using AI to speed up scientific breakthroughs that help people all over the world. These tools are already detecting diseases earlier, predicting natural disasters like floods and wildfires, and breaking down language barriers. They’re also helping students learn better and supporting workers as jobs change.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-09-15T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-study-tools-september-2026/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Gemini Notebook Adds Real-Time Voice Chat, Audio Recording & Interactive Study Tools",
-      "summary": "We’re rolling out new features that bring a more personalized and powerful learning experience, including the ability to have real-time conversations with your notebooks and create interactive learning overviews for focused studying. Director of Product Management, Gemini Notebook Your browser does not support the audio element. Gemini Notebook now offers new tools to help you study, including real-time voice conversations, an audio recorder for lectures, and interactive learning overviews like quizzes and flashcards. You can also create short video summaries to better understand complex topics. If you are a college student, check your eligibility to claim one year of free access to higher usage limits.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-study-tools-september-2026/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-09-15T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Meta Launches \"Meta One\" Subscription Service With AI Tools Starting at $2.99/Month",
-      "summary": "Today, we’re introducing Meta One: a new subscription service that brings more value to the apps and experiences billions of people already use — with plans for individuals, creators, and businesses. We’re launching with more than 50 features on Instagram, Facebook, WhatsApp, and Meta AI, and will expand to Edits, AI glasses, and more over time. Earlier this year, we launched Meta One single product plans — Instagram Plus, Facebook Plus, and WhatsApp Plus — offering exclusive new features that enable more connection and creativity on Instagram and Facebook and more organization and personalization on WhatsApp. These plans are seeing strong retention and we’re continuing to grow them. Instagram Plus recently added custom DM and Story fonts, notifications when certain people view your Story, and DM previews. Facebook Plus is adding customization options for Messenger, offering more Reels insights, and expanding super reactions to Reels and Feed posts.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-09-15T00:00:00.000Z",
-      "hot": false
     }
   ]
 }
