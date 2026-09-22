@@ -1,6 +1,269 @@
 {
-  "lastUpdated": "2026-09-22T17:29:02.830Z",
+  "lastUpdated": "2026-09-22T20:24:06.332Z",
   "news": [
+    {
+      "id": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "title": "Better prompt caching for GPT-6",
+      "summary": "Higher cache hit rates and new tools to help persistent agents run faster and cost less. ShareMonitor caching and diagnose cache missesMonitor caching and diagnose cache missesOptimize caching for your applicationGet startedMonitor caching and diagnose cache missesOptimize caching for your applicationGet startedGPT‑6 enables persistent agents to work for hours on complex tasks, from refactoring codebases to producing well-researched documents and presentations. The applications behind these agents make a series of API requests that build on one another, often carrying forward the same instructions, tool definitions, and context from earlier turns. OpenAI caches that shared context to reuse computation across requests, reducing response times and giving developers discounts of up to 90% on cached input tokens. With the GPT‑6 family, OpenAI launched an improved prompt caching system that delivers higher cache hit rates by default. OpenAI now give cache discounts for eligible shared prefixes reused within a 30-minute window.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "category": "Models",
+      "date": "2026-09-22T20:24:06.324Z",
+      "hot": false,
+      "officialUrl": "https://openai.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/airtel-money-plans-london-ipo-filing-as-early-as-wednesday-93CH-4911549",
+      "title": "Airtel Money plans London IPO filing as early as Wednesday",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/airtel-money-plans-london-ipo-filing-as-early-as-wednesday-93CH-4911549",
+      "category": "Business",
+      "date": "2026-09-22T20:04:22.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.engadget.com/2265628/qualcomm-is-making-not-one-but-two-versions-of-its-flagship-snapdragon-8-elite-gen-6-chip/",
+      "title": "Qualcomm is making not one but two versions of its flagship Snapdragon 8 Elite Gen 6 chip",
+      "summary": "The extreme variant comes with 50 percent more shared memory, wider codec support and better video capture. Qualcomm Add Engadget on Google: Preferred Source Google Discover Now that most of the major smartphone releases are done for the year, Qualcomm is preparing for the next generation of handsets with its upcoming flagship mobile chip and this time it will be available in two versions: the Snapdragon 8 Elite Gen 6 and Snapdragon 8 Elite Extreme Gen 6. Based on a 2nm process node, the Snapdragon 8 Elite Gen 6 features an eight-core Oryon CPU composed of two prime cores with clockspeeds of up to 5GHz. The chip also has 16MB of what Qualcomm is calling Flex Cache, which the company says allows the processor to dynamically allocate the cache pool to improve single-threaded performance. Elsewhere, the chip features an Adreno GPU that's 35 percent faster than the previous generation while also providing faster rendering speeds in games. Meanwhile, the Snapdragon 8 Elite Gen 6's NPU is 14 percent faster and offers 20 percent better performance-per-watt for machine learning-based tasks.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2265628/qualcomm-is-making-not-one-but-two-versions-of-its-flagship-snapdragon-8-elite-gen-6-chip/",
+      "category": "Tools",
+      "date": "2026-09-22T20:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://www.engadget.com/2265564/motorolas-new-signature-27-is-among-the-first-smartphone-to-use-the-snapdragon-8-elite-extreme-gen-6-processor/",
+      "title": "Motorola's new Signature 27 is among the first smartphone to use the Snapdragon 8 Elite Extreme G...",
+      "summary": "Motorola Add Engadget on Google: Preferred Source Google Discover Motorola just revealed the Signature 27 smartphone at the Snapdragon Summit. This is a refresh of the pre-existing Signature handset. It features the Snapdragon 8 Elite Extreme Gen 6 mobile processor. It's one of the first phones to use Qualcomm's latest and greatest mobile SoC. This is a flagship model that Motorola is calling \"the most advanced smartphone\" it has ever created. There's some Bang & Olufsen speakers, and an upgraded cooling system to ensure the components don't get too hot.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2265564/motorolas-new-signature-27-is-among-the-first-smartphone-to-use-the-snapdragon-8-elite-extreme-gen-6-processor/",
+      "category": "Tools",
+      "date": "2026-09-22T20:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+      "summary": "Microsoft said Tuesday that it led an industry-wide disruption of a subscription-based scam platform that used an AI chatbot to compromise 12,000 Microsoft accounts over a few-month span. Named EvilTokens, the platform was introduced over a Telegram channel in February and charged an initial $1,500 fee and a recurring $500 charge each month after that. EvilTokens provided a single service for streamlining most steps required to compromise email accounts in large numbers. From there, the platform helped customers analyze inboxes, select targets that would provide the biggest potential payouts, and draft follow-up emails that provided realistic ruses for tricking company employees into transferring funds to attacker-controlled accounts. Minutes, not days “While EvilTokens helped cybercriminals access email accounts, at the center of the service was an AI-style chatbot that could analyze a victim’s inbox and help criminals identify trusted relationships, payment authorizations, and sensitive responsibilities, as well as other circumstances where fraud was most likely to succeed,” Microsoft said. “The platform could even recommend fraud strategies, including drafting messages that impersonated trusted contacts to help criminals trick victims into taking action.”Read full article Comments",
+      "source": "Ars Technica AI",
+      "sourceUrl": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+      "category": "Industry",
+      "date": "2026-09-22T19:45:47.000Z",
+      "hot": false,
+      "officialUrl": "https://arstechnica.com"
+    },
+    {
+      "id": "108366178",
+      "title": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
+      "summary": "OpenAI introduced GPT-6 Sol and GPT-6 Luna. Anthropic unveiled Claude Opus 5.5.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html",
+      "category": "Business",
+      "date": "2026-09-22T19:43:21.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/09/22/apple-park-visitor-center-loses-exhibition/",
+      "title": "Apple Park Visitor Center Just Lost an Attraction Offered Since 2017",
+      "summary": "Following renovations, the Apple Park Visitor Center in Cupertino, California no longer features a 3D augmented reality model of the Apple Park campus. The area that housed the 3D model, which was called the Exhibition Space, now has wall-mounted shelves known as \"Avenues\" and new, rounder tables for product displays. The remodeling process began in July and was completed recently. Apple Park Visitor Center's former Exhibition Space now displays products (source) The redesigned product tables have been set up at select other stores, such as Apple Williamsburg and Apple The Mall at Bay Plaza in New York City. The 3D model of Apple Park had been a fixture of the Visitor Center since it opened in 2017. Apple Park Visitor Center functions as both a store and a tourist attraction.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/09/22/apple-park-visitor-center-loses-exhibition/",
+      "category": "Tech",
+      "date": "2026-09-22T19:42:26.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/?p=4374163",
+      "title": "Apple’s $5,499 Mac Studio Is Here: Meet Its Most Powerful Mac",
+      "summary": "Apple’s M5 Ultra Mac Studio starts at $5,499. See what the extra $3,000 delivers and who actually needs its AI, memory, and GPU power.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-apple-mac-studio-m5-ultra-5499-worth-it/",
+      "category": "Business",
+      "date": "2026-09-22T19:42:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
+      "id": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
+      "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
+      "summary": "The families of victims killed in one of the deadliest mass shootings in Canada’s history have already sued OpenAI over its failure to warn law enforcement after discovering in advance that the shooter was using ChatGPT to plan the violence. Now, British Columbia is suing, explaining for the first time how costly and extreme the disaster response has been. OpenAI and Sam Altman owe the tiny remote mining community shattered by the tragedy much more than an apology, the Canadian province argued. They must make meaningful changes to end ChatGPT-assisted violence and then pay whatever it costs to help Tumbler Ridge to rebuild, recover, and heal. In a complaint filed Monday, British Columbia explained that Tumbler Ridge Secondary School had to be demolished after an 18-year-old transgender shooter, Jesse Van Rootselaar, committed suicide there in February after killing five kids and an education assistant. In total, eight lives were lost, as prior to the school shooting, Van Rootselaar shot their mother and half-brother.Read full article Comments",
+      "source": "Ars Technica AI",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
+      "category": "Industry",
+      "date": "2026-09-22T19:28:23.000Z",
+      "hot": false,
+      "officialUrl": "https://arstechnica.com"
+    },
+    {
+      "id": "https://www.engadget.com/2265801/anthropic-and-openai-announce-more-powerful-and-cheaper-ai-models/",
+      "title": "Anthropic and OpenAI announce more powerful (and cheaper) AI models",
+      "summary": "After a lot of back and forth about slowing the pace of AI development, both companies are releasing new models. Tada Images/Shutterstock Add Engadget on Google: Preferred Source Google Discover The conversation in the AI industry has largely been focused on slowing down AI development or \"pacing the frontier,\" but that apparently won't stop Anthropic and OpenAI from releasing new models. Both companies are iterating on their previous releases, Fable 5.1 and GPT-6 Astra, with new models that offer similar levels of performance but at lower costs. In the case of Claude, Anthropic says its new Opus 5.5 model is better at handling complex work, \"finding and fixing inefficiencies in software\" and financial analysis and business work — all pitches laser-targeted at Anthropic's enterprise customers. Anthropic's benchmarks claim Opus 5.5 also scored better at agentic coding than GPT-6 Astra on both Terminal-Bench 4.0 and FrontierCode v1.1 (Main), which could make it more appealing for developers. Improvements extend outside of the tasks the model can handle and to how it works: Anthropic claims Opus 5.5 produces writing that's easier to understand, and that it \"attempted to circumvent boundaries around 85 percent less often\" than past models, suggesting it'll disobey directions less often.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2265801/anthropic-and-openai-announce-more-powerful-and-cheaper-ai-models/",
+      "category": "Tools",
+      "date": "2026-09-22T19:11:11.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3167713",
+      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+      "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "category": "Business",
+      "date": "2026-09-22T19:09:11.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=378986",
+      "title": "OpenAI Launches GPT-6 Sol and Luna Minutes After Anthropic Drops Claude Opus 5.5",
+      "summary": "OpenAI cut prices 50% on its mid-tier models the same day Anthropic shipped a cheaper flagship, escalating a rivalry now measured in minutes.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/378986/openai-launches-gpt-6-sol-luna-anthropic-claude-opus-5-5",
+      "category": "Tech",
+      "date": "2026-09-22T19:00:38.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://decrypt.co/?p=378972",
+      "title": "Bitcoin Breaks Out as Nasdaq Hits Records and Oil Slides on Iran Hopes",
+      "summary": "A stretched but firmly bullish Bitcoin chart is riding the same tailwind lifting stocks: falling oil, a record Nasdaq, and a dovish Fed.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/378972/bitcoin-breaks-out-nasdaq-hits-records-oil-slides",
+      "category": "Tech",
+      "date": "2026-09-22T18:46:03.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://www.techrepublic.com/?p=4374150",
+      "title": "Simbe Surpasses 3,000 Contracted Robots for Retail Stores",
+      "summary": "Simbe says more than 3,000 Tally retail robots are under contract as it expands shelf-scanning technology into a broader store intelligence platform.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-simbe-3000-contracted-retail-robots/",
+      "category": "Business",
+      "date": "2026-09-22T18:28:49.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/09/22/apple-screenless-fitness-band/",
+      "title": "Apple Testing Prototypes of Whoop-Like Screenless Fitness Band",
+      "summary": "Apple is working on an activity tracker that doesn't have a screen, reports Bloomberg. The screen-free health and fitness device is said to be similar to Whoop's line of bands. Whoop makes wrist-worn trackers with 24/7 monitoring, but without a display. Apple has apparently been \"exploring\" the category for months and has developed prototypes, but hasn't decided whether the project will move forward. Apple chair Tim Cook and services chief Eddy Cue are interested in the product, notable because Cue now leads Apple's health teams. Cue is said to be pushing for wearables with simpler interfaces, like the screen-free Whoop and Oura Ring.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/09/22/apple-screenless-fitness-band/",
+      "category": "Tech",
+      "date": "2026-09-22T18:21:23.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/09/22/apple-beats-360-firmware-update/",
+      "title": "Apple Releases Firmware Update for Beats 360",
+      "summary": "Apple today released a firmware update for the Beats 360 over-ear headphones, so customers ordering the headphones will have new software available when they arrive. The firmware has a 4A262 version number, up from the prior 4A260 firmware. We don't know what's included in the firmware update, but Apple may share details on its support site. Announced this morning, the Beats 360 feature an all-new over-ear headphone design with a focus on comfort, active noise cancellation, and sound quality. Beats 360 come in multiple colors and can be customized with removable ear cups and headband cushions in different colors. The headphones are priced at $349.99 and can be ordered from Apple's website and from Amazon.com.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/09/22/apple-beats-360-firmware-update/",
+      "category": "Tech",
+      "date": "2026-09-22T18:05:40.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3167633",
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "category": "Business",
+      "date": "2026-09-22T18:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://www.engadget.com/2264095/how-far-you-should-sit-from-computer-monitor-laptop/",
+      "title": "How far away should you sit from your computer monitor or laptop?",
+      "summary": "It’s not just about distance; height and tilt matter too. Fuse Img/Getty Images Add Engadget on Google: Preferred Source Google Discover Whether you work from home or are at the office full-time, you should have a proper computer setup: organized desk, comfortable office chair, proper lighting, and useful accessories. Once you have the gear, you need to position everything for the best ergonomic experience. This includes having your display eye-level at the proper distance away from your face. But what is that distance? The answer depends on the size of your monitor, but the simplest guidance to follow is the arm's length rule.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2264095/how-far-you-should-sit-from-computer-monitor-laptop/",
+      "category": "Tools",
+      "date": "2026-09-22T18:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "108365670",
+      "title": "Autonomous trucking company Aurora looks to accelerate toward profitability",
+      "summary": "Aurora's founder and CEO told CNBC the company is targeting positive free cash flow by 2028, driven by a substantial increase in the number autonomous trucks.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/09/22/aurora-autonomous-semi-ride.html",
+      "category": "Business",
+      "date": "2026-09-22T17:57:36.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=378947",
+      "title": "Anthropic’s New Claude Opus 5.5 Matches Fable at 60% the Price",
+      "summary": "Anthropic's new flagship claims Fable 5.1-level performance at a fraction of the cost—but GPT-6 Astra still tops it.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/378947/anthropic-claude-opus-5-5-fable-price-comparison",
+      "category": "Tech",
+      "date": "2026-09-22T17:49:07.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://cohere.com/blog/ai-change-management",
+      "title": "Ai change management",
+      "summary": "Change management has long covered two familiar kinds of change: the rollout of new tools and technologies, and broader human-led transformations such as leadership changes and restructuring. But that distinction starts to blur as artificial intelligence becomes woven into the fabric of organizations. Although AI is software, it has a unique capacity for open-ended, context-dependent work that involves collaborating with people. This raises the question: Should Cohere simply treat AI like software to be deployed, or should Cohere think of it as an active participant in Cohere's workflows whose role needs to be defined? The instinctive answer is just to treat it like software. Organizations often try to retrofit AI into existing infrastructure and processes, assuming it can slot into the same guardrails, integrations, and workflows that support CRM systems, ERP platforms, and other enterprise software.",
+      "source": "Cohere Blog",
+      "sourceUrl": "https://cohere.com/blog/ai-change-management",
+      "category": "Models",
+      "date": "2026-09-22T17:45:00.000Z",
+      "hot": true
+    },
+    {
+      "id": "https://www.macrumors.com/2026/09/22/beats-360-pre-orders-open-amazon/",
+      "title": "Beats 360 Pre-Orders Open at Amazon With Cushion Kits on Sale, Plus More Beats Deals",
+      "summary": "The new Beats 360 headphones were announced today, and can be pre-ordered on Amazon ahead of their launch on Thursday. They're available in Black, Cloud, plus a bundle where you can style the headphones however you'd like thanks to interchangeable ear cushions and headbands. Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Alongside the launch, Beats announced that its Cushion Kits compatible with the Beats 360 are available for just $9.99 for the next month, down from $49.99. Amazon has both the Performance Knit and UltraPlush options in all colors at this price.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/09/22/beats-360-pre-orders-open-amazon/",
+      "category": "Tech",
+      "date": "2026-09-22T17:40:24.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/article/news-spacexai-grok-4-7-pricing-token-use/",
+      "title": "SpaceXAI Launches Grok 4.7: Low Prices, Heavy Token Use",
+      "summary": "SpaceXAI’s Grok 4.7 improves coding benchmarks and keeps API prices low, but heavy token consumption could raise the cost of completing real-world tasks.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-spacexai-grok-4-7-pricing-token-use/",
+      "category": "Business",
+      "date": "2026-09-22T17:30:58.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
+      "id": "108366203",
+      "title": "Altman and Amodei expected to join UN Security Council meeting about AI",
+      "summary": "President Donald Trump addressed the U.N. General Assembly on Tuesday and pledged to support AI, despite calls to pace advanced models.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/09/22/altman-amodei-unga-ai-safety.html",
+      "category": "Business",
+      "date": "2026-09-22T17:30:27.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
     {
       "id": "https://www.macrumors.com/2026/09/22/apple-pauses-ai-pin-development/",
       "title": "Apple Puts AirTag-Sized AI Pin on Hold",
@@ -35,17 +298,6 @@
       "officialUrl": "https://decrypt.co"
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/accelevation-targets-up-to-54-billion-valuation-in-us-ipo-4910506",
-      "title": "AI infrastructure firm Accelevation targets up to $5.4 billion valuation in US IPO",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/accelevation-targets-up-to-54-billion-valuation-in-us-ipo-4910506",
-      "category": "Business",
-      "date": "2026-09-22T17:07:36.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
       "id": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
       "title": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
       "summary": "Toyota workers are already helping to train humanoid robots as part of the automaker’s race to eventually deploy 400,000 factory robots—but a Toyota executive said the robotic push is not meant to directly replace humans. Starting in 2028, the Toyota Motor group aims to start investing $6.42 billion every year in upgrading factories with the new robotic workforce, according to Nikkei Asia. The company wants to put 150,000 robots in its own automotive plants and deploy another 250,000 at group company facilities that produce various components and materials. Toyota has already begun deploying some of its ELEY humanoid robots across assembly lines to learn from human workers. Nikkei Asia reported that workers are teaching the robots, which roll around on wheels, to perform tasks requiring precise hand movements by wearing “jigs” based on the humanoids’ fingers.Read full article Comments",
@@ -55,28 +307,6 @@
       "date": "2026-09-22T17:06:16.000Z",
       "hot": false,
       "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/09/22/apple-screenless-fitness-band/",
-      "title": "Apple Testing Prototypes of Whoop-Like Screenless Fitness Band",
-      "summary": "Apple is working on an activity tracker that doesn't have a screen, reports Bloomberg. The screen-free health and fitness device is said to be similar to Whoop's line of bands. Whoop makes wrist-worn trackers with 24/7 monitoring, but without a display. Apple has apparently been \"exploring\" the category for months and has developed prototypes, but hasn't decided whether the project will move forward. Apple chair Tim Cook and services chief Eddy Cue are interested in the product, notable because Cue now leads Apple's health teams. Cue is said to be pushing for wearables with simpler interfaces, like the screen-free Whoop and Oura Ring.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/09/22/apple-screenless-fitness-band/",
-      "category": "Tech",
-      "date": "2026-09-22T16:48:45.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "108365670",
-      "title": "Autonomous trucking company Aurora looks to accelerate toward profitability",
-      "summary": "Aurora's founder and CEO told CNBC the company is targeting positive free cash flow by 2028, driven by a substantial increase in the number autonomous trucks.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/09/22/aurora-autonomous-semi-ride.html",
-      "category": "Business",
-      "date": "2026-09-22T16:45:43.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
@@ -103,6 +333,10 @@
         {
           "source": "Mashable Tech",
           "url": "https://mashable.com/tech/claude-opus-launch-promises-better-performance-cheaper-price"
+        },
+        {
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/09/22/anthropic-claude-opus-5-5/"
         }
       ]
     },
@@ -140,17 +374,6 @@
       "officialUrl": "https://feeds.macrumors.com"
     },
     {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
-      "title": "Trump says the US is officially renaming AI to ‘super intelligence’",
-      "summary": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" climate change, and transgender people while also claiming that the US is now \"officially\" renaming artificial intelligence to \"super intelligence.\" Oddly, this wasn't one of the entries in the poll Trump posted a few days ago when he started on this tangent. Why is he saying this at all? Because, according to Trump, the word artificial makes intelligence fake. Is that what makes it sound fake to you? I can think of a few other reasons. Trump has previously decreed renaming the Gulf of Mexico, Lake Superior, the Kennedy Center, and Denal …",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
-      "category": "Industry",
-      "date": "2026-09-22T16:01:10.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
       "id": "6ab132184889b7f47da96288",
       "title": "Rabbit Is Back, This Time With an AI Agent App",
       "summary": "Courtesy of Rabbit Jesse Lyu doesn't think the Rabbit R1 was a flop. Lyu's gadget was among the first in the gold rush to create dedicated AI hardware that acted as a virtual assistant. You could speak into the R1 and ask it to complete tasks for you—book an Uber; order food on DoorDash. After a buzzy launch at CES 2024, it earned scathing reviews. All the agentic stuff on the R1 just didn't work that well. Since those early days, the capabilities of AI assistants have vastly improved, and now the tech is all the rage.",
@@ -182,17 +405,6 @@
       "date": "2026-09-22T15:59:46.000Z",
       "hot": false,
       "officialUrl": "https://mashable.com"
-    },
-    {
-      "id": "108366203",
-      "title": "Altman and Amodei expected to join UN Security Council meeting about AI",
-      "summary": "President Donald Trump addressed the U.N. General Assembly on Tuesday and pledged to support AI, despite calls to pace advanced models.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/09/22/altman-amodei-unga-ai-safety.html",
-      "category": "Business",
-      "date": "2026-09-22T15:57:54.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "02B5cRtTdEN7iSEvC8hzKhB",
@@ -337,17 +549,6 @@
       "officialUrl": "https://www.engadget.com"
     },
     {
-      "id": "https://www.engadget.com/2263860/beats-360-vs-airpods-max-2-comparison/",
-      "title": "Beats 360 vs AirPods Max 2: How do Apple's flagship headphones compare?",
-      "summary": "The Beats 360 and AirPods Max 2 share many features, but key differences remain. Engadget/Apple Add Engadget on Google: Preferred Source Google Discover Beats just announced its new Beats 360 headphones, and it's impossible not to compare them to the AirPods Max 2. Not only because, technically, they're both from Apple, but also because they share a lot of similarities. Both are over-ear headphones with a flexible headband and interchangeable ear cushions. Not only that, but both Beats and AirPods support Apple features like quick pairing, auto-device switching and Find My. So which one is actually better?",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2263860/beats-360-vs-airpods-max-2-comparison/",
-      "category": "Tools",
-      "date": "2026-09-22T14:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
       "id": "https://www.macrumors.com/2026/09/22/beats-360-headphone-launch/",
       "title": "Beats 360 Deliver Customizability and a Revamped Over-Ear Headphone Design",
       "summary": "After months of teases and leaks, Beats is officially announcing its new Beats 360 headphone today. Priced at $349.99, Beats 360 represents a rethinking of the Beats over-ear headphone design, with an emphasis on sound quality, comfort, and customizability. Beats 360 is not a replacement for the brand's Studio Pro over-ear headphone, as the Studio Pro will remain part of the Beats lineup at a reduced price point of $299.99, down from the previous $349.99. Compared to Studio Pro, Beats 360 features a completely new acoustic architecture that delivers up to 1.75× more active noise cancellation and a 12dB increase in output while maintaining clarity across all frequencies with low distortion. In addition to active noise cancellation (ANC), which utilizes a system of eight microphones to analyze the acoustic environment inside and outside the headphone, Beats 360 also support Transparency mode to still allow you to hear the world around you, while turning off ANC and Transparency activates Adaptive EQ to continually tune acoustic performance. Personalized Spatial Audio with dynamic head tracking is also supported, allowing users to take full advantage of Apple's platforms that deliver 360-degree Dolby Atmos sound and move within the sound field as they turn their heads.\"Beats didn't just participate in the rise of over-ear headphones—we helped define the category,\" said Oliver Schusser, Apple's vice president of Music, Sports, and Beats.",
@@ -399,17 +600,6 @@
       "sourceUrl": "https://www.macrumors.com/2026/09/22/apple-to-bring-iphone-duo-display-tech-to-pro/",
       "category": "Tech",
       "date": "2026-09-22T13:27:17.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/09/22/tap-to-pay-on-iphone-8-more-countries/",
-      "title": "Apple Announces 'Tap to Pay on iPhone' Availability in 8 More Countries",
-      "summary": "Apple today announced that Tap to Pay on iPhone is now available in eight more countries: Argentina, Colombia, Costa Rica, the Dominican Republic, Guatemala, Honduras, Panama, and Peru. Tap to Pay on iPhone allows businesses to accept contactless payments on an iPhone, with no point-of-sale hardware required. Instead, customers can simply tap their own iPhone or Apple Watch, credit card or debit card, or other contactless payment option on the merchant's iPhone.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/09/22/tap-to-pay-on-iphone-8-more-countries/",
-      "category": "Tech",
-      "date": "2026-09-22T13:22:15.000Z",
       "hot": false,
       "officialUrl": "https://feeds.macrumors.com"
     },
@@ -469,17 +659,6 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "https://www.macrumors.com/2026/09/22/new-mac-mini-mac-studio-same-day-pickup/",
-      "title": "New Mac Mini and Mac Studio Now Available for Same-Day Pickup at Apple Stores",
-      "summary": "Apple launches its new Mac mini and Mac Studio models today in 30 countries and regions, including the U.S, and same-day pickup is now available at many Apple Store locations. To order a product with ‌Apple Store‌ pickup, add the product to your bag on Apple.com, proceed to checkout, select the \"I'll pick it up\" option, enter your ZIP code, choose an available ‌Apple Store‌ location, and select a pickup date. Payment is completed online, and a valid government-issued photo ID and the order number may be required upon pickup. Same-day Apple Store pickup is not available for custom Mac configurations with upgraded specifications ordered through Apple's online store. Our previous coverage: Apple Announces New Mac Mini With M6 and M5 Pro Chips and More Apple Unveils New Mac Studio With M5 Max and M5 Ultra Chips Apple Reveals M6 as First-Ever 2nm Chip Apple Debuts M5 Ultra as Most Powerful Chip Ever Mac mini with M6 starts at $899 ($799 for eligible education customers), while Mac mini with M5 Pro starts at $1,699 ($1,599 for eduction). Mac Studio with M5 Max starts at $2,499 ($2,299 for eduction), and Mac Studio with M5 Ultra starts at $5,499 ($5,099 for education).",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/09/22/new-mac-mini-mac-studio-same-day-pickup/",
-      "category": "Tech",
-      "date": "2026-09-22T12:00:42.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
       "id": "https://blogs.nvidia.com/?p=98370",
       "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
       "summary": "To build and deploy sophisticated robotics applications that can perceive, reason and act in dynamic environments, developers need new physical AI models and tools. The ROS open framework is a project from Open Robotics that helps humans build robots. NVIDIA Isaac ROS 5.0 — a collection of GPU-accelerated packages built on ROS, released today at the ROSCon conference in Toronto, Canada — helps humans and AI agents build robots together. The release introduces new agentic workflows and platform support to help developers build, customize and deploy robotics applications faster. ROS provides the open source foundation for much of modern robotics development, giving developers common tools, libraries and standards for building and connecting robot applications. NVIDIA Isaac ROS brings NVIDIA accelerated computing, physical AI models and production-ready libraries to the nearly 1.3 million ROS users, helping developers build high-performance robotics applications using free, familiar, open source tools.",
@@ -502,15 +681,15 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
-      "id": "https://www.macrumors.com/2026/09/22/apple-still-working-on-iphone-anti-snatching/",
-      "title": "Apple Still Working on Anti-Snatching Feature That Locks Stolen iPhones",
-      "summary": "New references in the latest iOS 27.2 beta show that Apple continues to develop a new feature which will lock your iPhone if it's snatched from your hand by a thief. As previously reported, the feature will use the gyroscope, accelerometer, and other sensors to determine when an iPhone has been grabbed. It'll also rely on a paired Apple Watch to detect when the iPhone has suddenly moved away from the owner's wrist. According to new code seen by 9to5Mac, the feature is called \"AutoLock\" internally, and it can use several different methods to determine whether an iPhone has been snatched from its owner: A sharp acceleration consistent with the phone being snatched. A paired Apple Watch remaining unreachable for a certain period. Loss of connectivity to a paired Apple Watch.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/09/22/apple-still-working-on-iphone-anti-snatching/",
+      "id": "http://feeds.fabbaloo.com/~/969470651/_/fabbaloo/default~Kelly-Johnson%e2%80%99s-Impossible-Factory-What-Skunk-Works-Can-Teach-D-Printing",
+      "title": "Kelly Johnson’s Impossible Factory: What Skunk Works Can Teach 3D Printing",
+      "summary": "Goulding describes how Josh Dean’s new book chronicles the remarkable career of Lockheed engineer Kelly Johnson and the Skunk Works culture that transformed aerospace. Its lessons about rapid development, manufacturing and innovation remain remarkably relevant to 3D printing today. The post Kelly Johnson’s Impossible Factory: What Skunk Works Can Teach 3D Printing appeared on Fabbaloo.",
+      "source": "Fabbaloo",
+      "sourceUrl": "http://feeds.fabbaloo.com/~/969470651/_/fabbaloo/default~Kelly-Johnson%e2%80%99s-Impossible-Factory-What-Skunk-Works-Can-Teach-D-Printing",
       "category": "Tech",
-      "date": "2026-09-22T11:45:06.000Z",
+      "date": "2026-09-22T11:15:00.000Z",
       "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
+      "officialUrl": "https://feeds.feedburner.com"
     },
     {
       "id": "https://www.technologyreview.com/?p=1144867",
@@ -533,17 +712,6 @@
       "date": "2026-09-22T10:30:00.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/09/22/apple-backtracks-camera-feature-compatibility/",
-      "title": "Apple Quietly Excludes Older iPhones From New Camera Feature",
-      "summary": "Apple's new Texture and Grain controls for Photographic Styles are not available on iPhones other than the latest iPhone 18 Pro models and upcoming iPhone Duo, despite the company's original wording suggesting otherwise. When Apple announced the iPhone 18 Pro and iPhone 18 Pro Max earlier this month, its Newsroom press release said the new Texture and Grain controls would be \"available in iOS 27 on iPhone models that support the latest generation of Photographic Styles.\" That original wording is preserved in copies of Apple's launch-day press release distributed through Business Wire and Notice Nearby. Elsewhere, in Apple's User Guide for iOS 27, devices that support the \"latest generation Photographic Styles\" are listed as the iPhone 16 series, iPhone 17 series, iPhone Air, and iPhone 18 Pro models. Apple has since changed the footnote on its iPhone 18 Pro Newsroom announcement. It now says Texture and Grain controls are available \"only for photos captured on iPhone 18 Pro models and with the Ultra Wide, Main, and Center Stage cameras on the iPhone Duo.\" Apple also states definitively in its iOS 27 User Guide that changing the texture of a photo can be achieved \"on iPhone 18 Pro models.\" wtf? Apple now says that the texture and grain will NOT be coming to older iPhonesthere's no reason why this shouldn't be coming to older iPhones this is what i despise about Apple.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/09/22/apple-backtracks-camera-feature-compatibility/",
-      "category": "Tech",
-      "date": "2026-09-22T10:15:46.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "6aa2d039a722d0b475134265",
@@ -612,17 +780,6 @@
       "officialUrl": "https://www.techrepublic.com"
     },
     {
-      "id": "https://www.macrumors.com/2026/09/22/app-switcher-returns-watchos-27-2-beta/",
-      "title": "App Switcher Returns in watchOS 27.2 Beta With New Launch Gesture",
-      "summary": "Apple has apparently listened to user feedback and brought back the App Switcher screen in the latest watchOS 27.2 beta, but accessing it is a little different than before. In watchOS 26 and earlier versions, a double press of the Digital Crown would bring up the App Switcher, where you could easily switch to the last-used app and view and open other recently used apps. You could also swipe left on a misbehaving app to force close it. In watchOS 27, the Digital Crown double-press gesture is now reserved for Apple's upcoming new Live Rewind AI feature, so it no longer brings up the App Switcher screen. There were concerns that this meant the App Switcher would be gone for good, but Apple has reinstated it in the second watchOS 27.2 beta, released yesterday. The gesture for opening it has changed, though.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/09/22/app-switcher-returns-watchos-27-2-beta/",
-      "category": "Tech",
-      "date": "2026-09-22T08:41:09.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
       "id": "http://feeds.fabbaloo.com/~/969462290/_/fabbaloo/default~RIMPAC-Brings-D-Printing-into-Fleet-Logistics",
       "title": "RIMPAC 2026 Brings 3D Printing into Fleet Logistics",
       "summary": "Goulding and Andressa Bonafe explore how RIMPAC 2026 is transforming 3D printing from an onboard repair tool into a fleet-wide logistics network powered by digital manufacturing and autonomous delivery. The post RIMPAC 2026 Brings 3D Printing into Fleet Logistics appeared on Fabbaloo.",
@@ -656,6 +813,17 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
+      "id": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "title": "Priorities and principles for effective third party assessments",
+      "summary": "SharePriority areas for assessmentPriority areas for assessmentPrinciples for effective assessmentsThe road aheadPriority areas for assessmentPrinciples for effective assessmentsThe road aheadFrontier AI labs carry an immense responsibility in training, evaluating, and deploying models safely. Third party assessments are a critical part of balancing that responsibility, expanding opportunities for input on AI safety, keeping the world informed, and keeping labs accountable to clear and independently supported safety claims. As part of OpenAI's efforts to pace the frontier, OpenAI is committed to supporting independent assessments with deep levels of access across training, evaluation, and deployment. That access should enable assessors to challenge OpenAI's assumptions, identify risks OpenAI may have missed, and reach their own conclusions about the effectiveness of OpenAI's safeguards. OpenAI have long worked with third party assessors at various stages of the model development and deployment process. OpenAI have also incorporated third party assessments into OpenAI's Preparedness Framework practices and supported organizations and legislation that advocate for a more rigorous and accountable process.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "category": "Models",
+      "date": "2026-09-22T00:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://openai.com"
+    },
+    {
       "id": "https://huggingface.co/blog/evaleval-aisi",
       "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
       "summary": "Hugging Face is on a journey to advance and democratize artificial intelligence through open source and open science.",
@@ -687,6 +855,48 @@
       "date": "2026-09-22T00:00:00.000Z",
       "hot": false,
       "officialUrl": "https://huggingface.co"
+    },
+    {
+      "id": "https://openai.com/index/introducing-gpt-6-sol-and-luna/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "OpenAI Launches GPT-6 Sol and Luna With 50% Price Cuts Over Previous Models",
+      "summary": "More ways to bring frontier intelligence into the work you do every day. ShareGPT‑6 API pricingGPT‑6 API pricingA step up across the model familyProfessional workFactualityCodingComputer useCollaboration styleImproving caching for agents and long conversationsContinuing to improve alignmentAvailabilityGPT‑6 API pricingA step up across the model familyProfessional workFactualityCodingComputer useCollaboration styleImproving caching for agents and long conversationsContinuing to improve alignmentAvailabilityEarlier this month, we introduced GPT‑6 Astra, the most intelligent and aligned model in the world. While the most demanding and important projects still call for Astra’s full depth, work happens at different scales, rhythms, and budgets. That’s why we’re expanding the GPT‑6 universe with GPT‑6 Sol and GPT‑6 Luna. GPT‑6 Astra introduced a new generation of intelligence—these models help distribute the benefits of that intelligence by advancing the frontier on cost efficiency. We trained GPT‑6 Sol and Luna with similar methods as GPT‑6 Astra, bringing the advances behind Astra’s state-of-the-art performance in professional work, factuality, coding, computer use, and alignment to faster, more affordable models.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://openai.com/index/introducing-gpt-6-sol-and-luna/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-09-22T00:00:00.000Z",
+      "hot": true,
+      "relatedCoverage": [
+        {
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna"
+        }
+      ]
+    },
+    {
+      "id": "https://www.anthropic.com/claude-opus-5-5?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Anthropic Launches Claude Opus 5.5: 40% Cheaper, Faster Agentic Coding Leader",
+      "summary": "We’re introducing Claude Opus 5.5, the first model in our new Claude 5.5 family. It performs at the level of Claude Fable 5.1 on most work and costs 40% less to run than Opus 5. Claude Opus 5.5 is our first release since we called for pacing the frontier. It was tested before release by external evaluators, including Frontier Design and METR. On our automated behavioral audit, the most comprehensive alignment test we run, Opus 5.5 is the strongest-performing model we’ve tested to date. It also comes with the safeguards we’ve developed for our most capable models.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.anthropic.com/claude-opus-5-5?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-09-22T00:00:00.000Z",
+      "hot": true
+    },
+    {
+      "id": "https://x.com/atrupar/status/2102413962729968116?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Trump Announces Renaming of \"Artificial Intelligence\" to \"Super Intelligence\" in US Documents",
+      "summary": "Trump tells the UN he is officially changing the name of Artificial Intelligence to \"Super Intelligence\" and says all US government documents will now be changed to refer to \"SI\"",
+      "source": "FutureTools News",
+      "sourceUrl": "https://x.com/atrupar/status/2102413962729968116?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-09-22T00:00:00.000Z",
+      "hot": false,
+      "relatedCoverage": [
+        {
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence"
+        }
+      ]
     },
     {
       "id": "https://techcrunch.com/?p=3167267",
@@ -843,17 +1053,6 @@
       "officialUrl": "https://www.techrepublic.com"
     },
     {
-      "id": "https://decrypt.co/?p=378874",
-      "title": "Coinbase Brings IPO Shares to US Retail Traders, With Oura Up First",
-      "summary": "Eligible Coinbase customers can request IPO shares at the offering price, but allocations are not guaranteed.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/378874/coinbase-ipo-shares-us-traders-oura",
-      "category": "Tech",
-      "date": "2026-09-21T19:26:49.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
       "id": "https://www.techrepublic.com/?p=4374024",
       "title": "OpenAI’s Compute Costs Could Burn Through $280 Billion by 2030",
       "summary": "OpenAI reportedly projects $280 billion in cash burn through 2030 as soaring compute and infrastructure costs continue to outpace its revenue growth.",
@@ -887,17 +1086,6 @@
       "officialUrl": "https://www.wired.com"
     },
     {
-      "id": "https://decrypt.co/?p=378840",
-      "title": "What Is VVV? The Privacy-Obsessed AI Token That’s Up 3,000% in 2026",
-      "summary": "Venice (VVV) has clawed back from under a dollar to a record $34, and the pitch behind it is simple: an AI chatbot that promises to forget.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/378840/what-is-vvv-privacy-ai-token-up-3000-percent-2026",
-      "category": "Tech",
-      "date": "2026-09-21T18:31:03.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
       "id": "https://blogs.nvidia.com/?p=98386",
       "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
       "summary": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy. Choosing products that fit the complete factory design helps builders turn computing capacity into useful AI output. To help builders make those decisions, NVIDIA is introducing NVIDIA DSX Ready, a qualification program for partner products and solutions that meet applicable NVIDIA DSX AI factory reference design requirements. The program launches with two initial categories: battery energy storage systems (BESS) and cooling distribution units (CDUs). Category-specific requirements and review through the program help builders evaluate offerings with greater confidence, reduce integration risk and move toward deployment.",
@@ -920,17 +1108,6 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "https://decrypt.co/?p=378836",
-      "title": "Can a Fruit Fly Brain Mine Bitcoin? These Companies Are Testing It",
-      "summary": "Hardware maker FutureBit says it is using a simulated fruit fly brain to perform Bitcoin mining calculations in a web browser.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/378836/fruit-fly-brain-mine-bitcoin-these-companies-testing",
-      "category": "Tech",
-      "date": "2026-09-21T17:46:02.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
       "id": "000001a0-c501-d462-adb2-e5bbc2c40000",
       "title": "OpenAI urges US to lead global standards push",
       "summary": "The company is calling for a common international approach to evaluating models and controlling self-improving systems.",
@@ -940,17 +1117,6 @@
       "date": "2026-09-21T17:28:41.000Z",
       "hot": false,
       "officialUrl": "https://rss.politico.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=378824",
-      "title": "xAI Launches Grok 4.7. It's Bigger, But Late to the AI Frontier Party",
-      "summary": "XAI says the new AI model is a \"notable improvement\" over Grok 4.6 at the same price. The benchmarks say it's still in second place.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/378824/xai-launches-grok-4-7",
-      "category": "Tech",
-      "date": "2026-09-21T17:16:03.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
     },
     {
       "id": "https://www.techrepublic.com/article/news-trump-ai-force-us-china-safety-channel/",
@@ -984,17 +1150,6 @@
       "date": "2026-09-21T16:57:26.000Z",
       "hot": false,
       "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3166970",
-      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-      "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-      "category": "Business",
-      "date": "2026-09-21T16:38:51.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
     },
     {
       "id": "https://www.techrepublic.com/?p=4373993",
@@ -1063,17 +1218,6 @@
       "officialUrl": "https://feeds.feedburner.com"
     },
     {
-      "id": "https://techcrunch.com/?p=3166744",
-      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCru...",
-      "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026. Save up to $200 before Sept 25.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
-      "category": "Business",
-      "date": "2026-09-21T15:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
       "id": "https://blogs.nvidia.com/?p=98407",
       "title": "AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack",
       "summary": "AI security is an engineering problem. That means defined security requirements, enforceable controls, named owners and evidence that protections work. As AI becomes more capable, the industry must accelerate security engineering, broaden access to defensive tools and share what works faster. Technology Changes, Security Fundamentals Endure The internet and cloud computing changed how software operates, while core security responsibilities endured: establish identity, control access, limit exposure and verify that protections work. AI agents introduce new capabilities — reasoning, using tools and adapting actions based on the data they encounter. Those capabilities require applying established principles to new operating conditions.",
@@ -1085,28 +1229,6 @@
       "officialUrl": "https://blogs.nvidia.com"
     },
     {
-      "id": "https://www.techrepublic.com/article/digital-employee-experience-management-ai-readiness/",
-      "title": "Why Digital Employee Experience Management Is Becoming an AI-Readiness Requirement",
-      "summary": "Explore how digital employee experience management helps IT teams support AI workloads, monitor endpoints, and plan device refreshes.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/digital-employee-experience-management-ai-readiness/",
-      "category": "Business",
-      "date": "2026-09-21T14:22:09.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/article/news-humanoid-robots-chatgpt-moment-2027-spirit-ai-china-apac/",
-      "title": "Humanoid Robots May Get Their ‘ChatGPT Moment’ by Mid-2027",
-      "summary": "Spirit AI predicts humanoid robots could handle natural-language, multi-step physical tasks by mid-2027, with factories likely to adopt them first.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-humanoid-robots-chatgpt-moment-2027-spirit-ai-china-apac/",
-      "category": "Business",
-      "date": "2026-09-21T14:20:42.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
       "id": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
       "title": "Can John Ternus find Apple’s next big thing?",
       "summary": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On. Earlier this month, Apple hosted its annual iPhone hardware event, virtually every detail of which was reported ahead of time by Mark. But this event was special, for a number of reasons. It was new Apple CEO John Ternus’ first major product launch since he took over for former CEO Tim Cook less than two weeks prior. It was also the debut of the iPhone Duo, Apple’s first foldable smartphone. The timing of those two things was not at all coincidental, as you’ll hear Mark explain. Apple takes these hardware events — and the stories they tell — extremely seriously. This year’s story actually says a great deal about what’s happening at Apple, how Cook managed in wholesale leadership ranks over the past year, and how all of that might change Apple’s culture. Furthermore, what all that tells about Ternus’ plan to navigate Apple from what you might call the iPhone era into the AI era.",
@@ -1116,17 +1238,6 @@
       "date": "2026-09-21T14:00:00.000Z",
       "hot": false,
       "officialUrl": "https://www.theverge.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/article/news-pinterest-nvidia-multimodal-ai-search/",
-      "title": "Pinterest Wants Smarter Visual Search Without the Huge AI Computing Bill",
-      "summary": "Pinterest is using Nvidia Blackwell GPUs and Dynamo to speed up multimodal AI search, reduce inference latency, and give its Assistant more visual context.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-pinterest-nvidia-multimodal-ai-search/",
-      "category": "Business",
-      "date": "2026-09-21T13:48:01.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
@@ -1148,7 +1259,13 @@
       "category": "Industry",
       "date": "2026-09-21T13:36:52.000Z",
       "hot": false,
-      "officialUrl": "https://www.theverge.com"
+      "officialUrl": "https://www.theverge.com",
+      "relatedCoverage": [
+        {
+          "source": "Wired AI",
+          "url": "https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/"
+        }
+      ]
     },
     {
       "id": "http://feeds.fabbaloo.com/~/969418532/_/fabbaloo/default~AI-Agent-D-Printing-Project-Shows-Automated-Printer-Control",
@@ -1310,16 +1427,6 @@
       ]
     },
     {
-      "id": "https://openai.com/index/building-standards-next-phase-ai/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "OpenAI Calls for US-Led Global AI Standards to Govern Autonomous AI Research",
-      "summary": "ShareRSIRSIInternational standards(1) A mechanism that facilitates complementary national and international frontier standards(2) Common measurements and incident reporting protocols for better collective actionThe United States should leadRSIInternational standards(1) A mechanism that facilitates complementary national and international frontier standards(2) Common measurements and incident reporting protocols for better collective actionThe United States should leadOur mission is to ensure that artificial general intelligence benefits all of humanity. As outlined recently by Sam Altman and Jakub Pachocki, we prioritize our work towards this mission with three main goals: Navigate the next period of AI progress, by building an automated AI researcher, iterating with it on the alignment problem, and finding ways for people to remain part of the self-improvement loop. Deliver the benefits of scientific progress and economic growth that very intelligent machines enable. Empower everyone individually with a personal AGI. AI is accelerating our own research and engineering, and AI-enabled research has led to advances in mathematics, including the Navier-Stokes Millennium Problem.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://openai.com/index/building-standards-next-phase-ai/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-09-21T00:00:00.000Z",
-      "hot": false
-    },
-    {
       "id": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "OpenAI Academy Expands With New AI Learning Paths for Developers, Leaders & Students",
       "summary": "Role-based learning helps employees, developers, leaders, educators, and students build practical AI skills and demonstrate what they’ve learned. (opens in a new window)Loading…ShareChoose a learning path for the work you doChoose a learning path for the work you doKnowledge workers: Apply AI at WorkDevelopers: Build with AILeaders: Lead AI AdoptionEducators and students: Teach and Learn with AIBring OpenAI Academy courses to your organizationChoose a learning path for the work you doKnowledge workers: Apply AI at WorkDevelopers: Build with AILeaders: Lead AI AdoptionEducators and students: Teach and Learn with AIBring OpenAI Academy courses to your organizationUsing AI safely and effectively takes practice. People need to learn how to apply it to the work in front of them, whether they’re improving a daily workflow, building a product, leading a team, or teaching a class. At OpenAI, we treat learning as part of deployment. Today, we’re expanding OpenAI Academy with new courses for developers, leaders, educators, and college students. These join Apply AI at Work, which helps people build foundational skills, create repeatable workflows, and direct work with agents.",
@@ -1334,6 +1441,16 @@
           "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths"
         }
       ]
+    },
+    {
+      "id": "https://openai.com/index/building-standards-next-phase-ai/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "OpenAI Calls for US-Led Global AI Standards to Govern Autonomous AI Research",
+      "summary": "ShareRSIRSIInternational standards(1) A mechanism that facilitates complementary national and international frontier standards(2) Common measurements and incident reporting protocols for better collective actionThe United States should leadRSIInternational standards(1) A mechanism that facilitates complementary national and international frontier standards(2) Common measurements and incident reporting protocols for better collective actionThe United States should leadOur mission is to ensure that artificial general intelligence benefits all of humanity. As outlined recently by Sam Altman and Jakub Pachocki, we prioritize our work towards this mission with three main goals: Navigate the next period of AI progress, by building an automated AI researcher, iterating with it on the alignment problem, and finding ways for people to remain part of the self-improvement loop. Deliver the benefits of scientific progress and economic growth that very intelligent machines enable. Empower everyone individually with a personal AGI. AI is accelerating our own research and engineering, and AI-enabled research has led to advances in mathematics, including the Navier-Stokes Millennium Problem.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://openai.com/index/building-standards-next-phase-ai/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-09-21T00:00:00.000Z",
+      "hot": false
     },
     {
       "id": "https://x.ai/news/grok-4-7?utm_source=futuretools.io&utm_medium=newspage",
@@ -1390,7 +1507,7 @@
     {
       "id": "https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Amazon Blocks Meta's Muse AI Agent From Shopping on Amazon.com Over Security Concerns",
-      "summary": "By Todd Bishop on Sep 20, 2026 at 11:05 pmSeptember 21, 2026 at 10:49 am Amazon says it has cut off Meta’s new Muse personal AI agent from shopping on Amazon.com on behalf of customers, after attempting unsuccessfully to get the Facebook parent company to voluntarily exclude the e-commerce site from the experience. The problem, Amazon says, is that it never agreed to any of it. Meta didn’t tell Amazon that Muse would access its store, the agent doesn’t identify itself when it browses, and it appears to capture and store customer credentials, which the company says could create privacy and security risks. As of Sunday night, people trying to use Muse to shop on Amazon were seeing the popup, “Continued access by an unauthorized AI agent violates Amazon’s Conditions of Use, to which our customers have agreed.” “We think it’s fairly straightforward that third-party applications that offer to make purchases on behalf of customers from other businesses should operate openly and respect service provider decisions about whether or not to participate,” an Amazon spokesperson said in a statement.",
+      "summary": "By Todd Bishop on Sep 20, 2026 at 11:05 pmSeptember 22, 2026 at 10:56 am Amazon says it has cut off Meta’s new Muse personal AI agent from shopping on Amazon.com on behalf of customers, after attempting unsuccessfully to get the Facebook parent company to voluntarily exclude the e-commerce site from the experience. The problem, Amazon says, is that it never agreed to any of it. Meta didn’t tell Amazon that Muse would access its store, the agent doesn’t identify itself when it browses, and it appears to capture and store customer credentials, which the company says could create privacy and security risks. As of Sunday night, people trying to use Muse to shop on Amazon were seeing the popup, “Continued access by an unauthorized AI agent violates Amazon’s Conditions of Use, to which our customers have agreed.” “We think it’s fairly straightforward that third-party applications that offer to make purchases on behalf of customers from other businesses should operate openly and respect service provider decisions about whether or not to participate,” an Amazon spokesperson said in a statement.",
       "source": "FutureTools News",
       "sourceUrl": "https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
@@ -1515,17 +1632,6 @@
       "date": "2026-09-18T14:00:00.000Z",
       "hot": false,
       "officialUrl": "https://blog.google"
-    },
-    {
-      "id": "http://feeds.fabbaloo.com/~/969265199/_/fabbaloo/default~Atlant-D-Patent-Proposes-Atomic-Scale-Multi-Fluid-Printing",
-      "title": "Atlant 3D Patent Proposes Atomic Scale Multi Fluid Printing",
-      "summary": "A printer head that dispenses three different fluids through the same tiny nozzle could bring atomic layer processing closer to a genuinely three-dimensional workflow. The post Atlant 3D Patent Proposes Atomic Scale Multi Fluid Printing appeared on Fabbaloo.",
-      "source": "Fabbaloo",
-      "sourceUrl": "http://feeds.fabbaloo.com/~/969265199/_/fabbaloo/default~Atlant-D-Patent-Proposes-Atomic-Scale-Multi-Fluid-Printing",
-      "category": "Tech",
-      "date": "2026-09-18T13:45:00.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.feedburner.com"
     },
     {
       "id": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
@@ -1673,39 +1779,6 @@
       "sourceUrl": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
       "category": "Industry",
       "date": "2026-09-17T20:24:34.000Z",
-      "hot": false,
-      "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
-      "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
-      "summary": "“Astonishing theft” Microsoft exec called AI scraping the “largest theft of labor in human history” Microsoft, OpenAI emails reveal fear of AI “doom loop” killing news orgs. However, now the details that should never have been marked confidential are starting to leak. In a motion for summary judgment that was unsealed Thursday from news plaintiffs led by The New York Times, internal documents are exposed that news groups alleged show exactly how Microsoft and OpenAI viewed the threat to news before unleashing new AI products like ChatGPT and Copilot. Perhaps most explosively, Microsoft Director of Applied Science Brent Hecht repeatedly warned in documents that scraping news for AI training was “an astonishing theft of unprecedented proportions,” calling it perhaps the “largest theft of labor in human history,” news orgs said. In another document, Hecht contradicted Microsoft and OpenAI’s argument that training AI on news content is fair use, suggesting that the plan to widely scrape news made “a complete mockery of the idea of ‘fair use.’” Over at OpenAI, ChatGPT head Nick Turley wrote in an internal message that publishers would face an “existential threat” from commercial products trained on news content that can be used to substitute news providers.",
-      "source": "Ars Technica AI",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
-      "category": "Industry",
-      "date": "2026-09-17T20:10:41.000Z",
-      "hot": false,
-      "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-      "title": "Making global data easier to explore",
-      "summary": "UN System Data Commons is an open, AI-ready platform integrating critical global statistics into a single searchable resource. Your browser does not support the audio element. Every year, entities across the United Nations system compile data to track challenges that affect how Google AI work, learn, stay healthy, and care for Google AI's loved ones. These agencies work with some of the highest-integrity data in the world. But the statistics needed to solve big global challenges have lived in separate silos, organized in conflicting formats across, and within, different UN system organizations. Connecting the dots often meant months of painstaking manual work for data analysts before any real analysis could begin.",
-      "source": "Google AI Blog",
-      "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-      "category": "Research",
-      "date": "2026-09-17T20:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://blog.google"
-    },
-    {
-      "id": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
-      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
-      "summary": "In response to a new European Union law, AI platforms are implementing new schemes for watermarking the content they generate. Anthropic recently disclosed its future Claude models will use SynthID-Text, an approach Google created and released as open source. It uses a secret key that subtly changes the process a model uses for choosing the next word in a sentence. Whereas a top next word choice might be “cloudy,” the key might change it to “overcast.” Anyone who knows the key can determine if it was generated by the platform using it. New research shows that SynthID-Text can change not just word selection but also the tools a model invokes and the chances it will adhere to or disregard safety guardrails it has been trained to follow. The threat can become greater in the face of an adversarial prompt, in which an attacker attempts to cause a model to carry out a harmful action, such as revealing a password or other sensitive information.",
-      "source": "Ars Technica AI",
-      "sourceUrl": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
-      "category": "Industry",
-      "date": "2026-09-17T18:33:13.000Z",
       "hot": false,
       "officialUrl": "https://arstechnica.com"
     }
