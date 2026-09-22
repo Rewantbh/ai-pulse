@@ -1,9 +1,16 @@
 {
-  "lastRun": "2026-09-22T20:24:06.334Z",
+  "lastRun": "2026-09-22T23:07:40.729Z",
   "sources": [
     {
       "name": "NVIDIA Blog",
       "items": 15,
+      "status": "ok",
+      "failStreak": 0,
+      "emptyStreak": 0
+    },
+    {
+      "name": "Microsoft AI Blog",
+      "items": 10,
       "status": "ok",
       "failStreak": 0,
       "emptyStreak": 0
@@ -23,21 +30,14 @@
       "emptyStreak": 0
     },
     {
-      "name": "DeepMind Blog",
+      "name": "OpenAI News",
       "items": 15,
       "status": "ok",
       "failStreak": 0,
       "emptyStreak": 0
     },
     {
-      "name": "Microsoft AI Blog",
-      "items": 10,
-      "status": "ok",
-      "failStreak": 0,
-      "emptyStreak": 0
-    },
-    {
-      "name": "OpenAI News",
+      "name": "DeepMind Blog",
       "items": 15,
       "status": "ok",
       "failStreak": 0,
@@ -48,21 +48,21 @@
       "items": 0,
       "status": "empty",
       "failStreak": 0,
-      "emptyStreak": 1247
+      "emptyStreak": 1248
     },
     {
       "name": "Meta AI Blog",
       "items": 0,
       "status": "empty",
       "failStreak": 0,
-      "emptyStreak": 1247
+      "emptyStreak": 1248
     },
     {
       "name": "Anthropic News",
       "items": 0,
       "status": "empty",
       "failStreak": 0,
-      "emptyStreak": 1247
+      "emptyStreak": 1248
     },
     {
       "name": "Suno Blog",
@@ -83,7 +83,7 @@
       "items": 0,
       "status": "empty",
       "failStreak": 0,
-      "emptyStreak": 55
+      "emptyStreak": 56
     },
     {
       "name": "The Verge AI",
@@ -97,8 +97,8 @@
       "items": 0,
       "status": "error",
       "error": "HTTP 429",
-      "failStreak": 147,
-      "emptyStreak": 147
+      "failStreak": 148,
+      "emptyStreak": 148
     },
     {
       "name": "MIT Technology Review AI",
@@ -115,13 +115,6 @@
       "emptyStreak": 0
     },
     {
-      "name": "Pika Blog",
-      "items": 0,
-      "status": "empty",
-      "failStreak": 0,
-      "emptyStreak": 321
-    },
-    {
       "name": "Wired AI",
       "items": 10,
       "status": "ok",
@@ -129,14 +122,28 @@
       "emptyStreak": 0
     },
     {
-      "name": "Engadget AI",
-      "items": 7,
+      "name": "Pika Blog",
+      "items": 0,
+      "status": "empty",
+      "failStreak": 0,
+      "emptyStreak": 322
+    },
+    {
+      "name": "Mashable Tech",
+      "items": 8,
       "status": "ok",
       "failStreak": 0,
       "emptyStreak": 0
     },
     {
-      "name": "Ars Technica AI",
+      "name": "Engadget AI",
+      "items": 6,
+      "status": "ok",
+      "failStreak": 0,
+      "emptyStreak": 0
+    },
+    {
+      "name": "TechRepublic AI",
       "items": 15,
       "status": "ok",
       "failStreak": 0,
@@ -150,14 +157,7 @@
       "emptyStreak": 0
     },
     {
-      "name": "Mashable Tech",
-      "items": 4,
-      "status": "ok",
-      "failStreak": 0,
-      "emptyStreak": 0
-    },
-    {
-      "name": "TechRepublic AI",
+      "name": "Ars Technica AI",
       "items": 15,
       "status": "ok",
       "failStreak": 0,
@@ -165,18 +165,10 @@
     },
     {
       "name": "CNBC Tech",
-      "items": 10,
+      "items": 12,
       "status": "ok",
       "failStreak": 0,
       "emptyStreak": 0
-    },
-    {
-      "name": "Digital Trends",
-      "items": 0,
-      "status": "error",
-      "error": "HTTP 405",
-      "failStreak": 147,
-      "emptyStreak": 147
     },
     {
       "name": "MacRumors",
@@ -186,15 +178,23 @@
       "emptyStreak": 0
     },
     {
-      "name": "Investing.com",
-      "items": 1,
+      "name": "Digital Trends",
+      "items": 0,
+      "status": "error",
+      "error": "HTTP 405",
+      "failStreak": 148,
+      "emptyStreak": 148
+    },
+    {
+      "name": "MIT News ML",
+      "items": 13,
       "status": "ok",
       "failStreak": 0,
       "emptyStreak": 0
     },
     {
-      "name": "MIT News ML",
-      "items": 13,
+      "name": "Investing.com",
+      "items": 3,
       "status": "ok",
       "failStreak": 0,
       "emptyStreak": 0
@@ -218,14 +218,14 @@
       "items": 0,
       "status": "empty",
       "failStreak": 0,
-      "emptyStreak": 1247
+      "emptyStreak": 1248
     },
     {
       "name": "Leonardo AI Blog",
       "items": 0,
       "status": "empty",
       "failStreak": 0,
-      "emptyStreak": 1247
+      "emptyStreak": 1248
     },
     {
       "name": "LlamaIndex Blog",
@@ -246,11 +246,11 @@
       "items": 0,
       "status": "empty",
       "failStreak": 0,
-      "emptyStreak": 3
+      "emptyStreak": 4
     },
     {
       "name": "FutureTools News",
-      "items": 17,
+      "items": 20,
       "status": "ok",
       "failStreak": 0,
       "emptyStreak": 0
@@ -260,14 +260,14 @@
       "items": 0,
       "status": "empty",
       "failStreak": 0,
-      "emptyStreak": 1247
+      "emptyStreak": 1248
     },
     {
       "name": "Bing Search Blog",
       "items": 0,
       "status": "empty",
       "failStreak": 0,
-      "emptyStreak": 1247
+      "emptyStreak": 1248
     },
     {
       "name": "X / Twitter (Top AI Voices)",

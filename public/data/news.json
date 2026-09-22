@@ -1,38 +1,192 @@
 {
-  "lastUpdated": "2026-09-22T20:24:06.332Z",
+  "lastUpdated": "2026-09-22T23:07:40.727Z",
   "news": [
     {
-      "id": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "title": "Better prompt caching for GPT-6",
-      "summary": "Higher cache hit rates and new tools to help persistent agents run faster and cost less. ShareMonitor caching and diagnose cache missesMonitor caching and diagnose cache missesOptimize caching for your applicationGet startedMonitor caching and diagnose cache missesOptimize caching for your applicationGet startedGPT‑6 enables persistent agents to work for hours on complex tasks, from refactoring codebases to producing well-researched documents and presentations. The applications behind these agents make a series of API requests that build on one another, often carrying forward the same instructions, tool definitions, and context from earlier turns. OpenAI caches that shared context to reuse computation across requests, reducing response times and giving developers discounts of up to 90% on cached input tokens. With the GPT‑6 family, OpenAI launched an improved prompt caching system that delivers higher cache hit rates by default. OpenAI now give cache discounts for eligible shared prefixes reused within a 30-minute window.",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "category": "Models",
-      "date": "2026-09-22T20:24:06.324Z",
-      "hot": false,
-      "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/airtel-money-plans-london-ipo-filing-as-early-as-wednesday-93CH-4911549",
-      "title": "Airtel Money plans London IPO filing as early as Wednesday",
+      "id": "https://www.investing.com/news/stock-market-news/exgoogle-safety-chief-warns-ai-could-harm-children-more-than-social-media-did-4911398",
+      "title": "Ex-Google safety chief warns AI could harm children more than social media did",
       "summary": "",
       "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/airtel-money-plans-london-ipo-filing-as-early-as-wednesday-93CH-4911549",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/exgoogle-safety-chief-warns-ai-could-harm-children-more-than-social-media-did-4911398",
       "category": "Business",
-      "date": "2026-09-22T20:04:22.000Z",
+      "date": "2026-09-22T22:48:28.000Z",
       "hot": false,
       "officialUrl": "https://www.investing.com"
     },
     {
-      "id": "https://www.engadget.com/2265628/qualcomm-is-making-not-one-but-two-versions-of-its-flagship-snapdragon-8-elite-gen-6-chip/",
-      "title": "Qualcomm is making not one but two versions of its flagship Snapdragon 8 Elite Gen 6 chip",
-      "summary": "The extreme variant comes with 50 percent more shared memory, wider codec support and better video capture. Qualcomm Add Engadget on Google: Preferred Source Google Discover Now that most of the major smartphone releases are done for the year, Qualcomm is preparing for the next generation of handsets with its upcoming flagship mobile chip and this time it will be available in two versions: the Snapdragon 8 Elite Gen 6 and Snapdragon 8 Elite Extreme Gen 6. Based on a 2nm process node, the Snapdragon 8 Elite Gen 6 features an eight-core Oryon CPU composed of two prime cores with clockspeeds of up to 5GHz. The chip also has 16MB of what Qualcomm is calling Flex Cache, which the company says allows the processor to dynamically allocate the cache pool to improve single-threaded performance. Elsewhere, the chip features an Adreno GPU that's 35 percent faster than the previous generation while also providing faster rendering speeds in games. Meanwhile, the Snapdragon 8 Elite Gen 6's NPU is 14 percent faster and offers 20 percent better performance-per-watt for machine learning-based tasks.",
+      "id": "https://decrypt.co/?p=379008",
+      "title": "UN Security Council Will Get Advice on AI Risks From Tech Giants Building It",
+      "summary": "Anthropic, OpenAI, DeepSeek, and Moonshot are all set to address the UN Security Council on AI risks on Wednesday.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/379008/un-security-council-ai-risks-anthropic-openai-deepseek",
+      "category": "Tech",
+      "date": "2026-09-22T22:16:03.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://www.engadget.com/2264296/apple-music-songs-grayed-out-why-how-to-fix/",
+      "title": "Why are some songs grayed out on Apple Music (And how to fix it)",
+      "summary": "Here's what to do if some of your favorite songs are suddenly unavailable. Riska/Getty Images Add Engadget on Google: Preferred Source Google Discover There's nothing better than listening to your favorite album, which is why it's so unsettling when tracks stop playing on your Apple device. And when you take a look at the track listing, you may find some of your tracks are grayed out. Often this is because your device is offline. Typically, you'll regain access once you get online again. Licensing is another common cause.",
       "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2265628/qualcomm-is-making-not-one-but-two-versions-of-its-flagship-snapdragon-8-elite-gen-6-chip/",
+      "sourceUrl": "https://www.engadget.com/2264296/apple-music-songs-grayed-out-why-how-to-fix/",
       "category": "Tools",
-      "date": "2026-09-22T20:00:00.000Z",
+      "date": "2026-09-22T22:00:00.000Z",
       "hot": false,
       "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3167901",
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "category": "Business",
+      "date": "2026-09-22T21:56:43.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/boeing-wins-334-million-air-force-avionics-contract-93CH-4911760",
+      "title": "Boeing wins $33.4 million Air Force avionics contract",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/boeing-wins-334-million-air-force-avionics-contract-93CH-4911760",
+      "category": "Business",
+      "date": "2026-09-22T21:55:43.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/booz-allen-hamilton-wins-85m-air-force-research-contract-93CH-4911758",
+      "title": "Booz Allen Hamilton wins $85m Air Force research contract",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/booz-allen-hamilton-wins-85m-air-force-research-contract-93CH-4911758",
+      "category": "Business",
+      "date": "2026-09-22T21:52:48.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "05j7U8DjqwsUMe4bzYnopol",
+      "title": "ShinyHunters claims it stole FBI employee data. Here’s what we know.",
+      "summary": "Back in May, the FBI warned the public about a \"cyber criminal group\" that steals sensitive data and uses it to extort victims. It appears the FBI is its latest target.The group, known as ShinyHunters, claims it has stolen personal information on FBI employees and job applicants, according to multiple reports published Sept. The alleged stolen data includes names, home addresses, phone numbers, and details about some employees' spouses, 404 Media reported. ShinyHunters' stated demand to the FBI? The group also reportedly defaced an FBI recruitment website with a message mimicking a law enforcement seizure notice. The FBI Jobs website Credit: Screenshot/Chance Townsend ShinyHunters also supplied 404 Media with a sample purportedly containing personal information on 5,000 FBI employees, including home addresses, phone numbers, dates of birth, and, in some cases, details about their spouses.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/shinyhunters-fbi-hack-employee-data-claims",
+      "category": "Tech",
+      "date": "2026-09-22T21:39:20.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+      "summary": "The Frontier Is Savings New Anthropic, OpenAI models make same promise: A little more for a lot less money The frontier AI model race has entered its comparison shopping phase. OpenAI and Anthropic both recently released new models aimed at lowering costs. Anthropic announced Opus 5.5, the latest version of its main mass-market workhorse model, used for tasks like coding and other complex knowledge work. And OpenAI announced GPT-6 Sol and Luna, the latest versions of its middle-of-the-road or smaller models focused on efficiency and speed. These new releases are not about notable new capabilities. Rather, they’re about efficiency.",
+      "source": "Ars Technica AI",
+      "sourceUrl": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+      "category": "Industry",
+      "date": "2026-09-22T21:25:18.000Z",
+      "hot": false,
+      "officialUrl": "https://arstechnica.com"
+    },
+    {
+      "id": "108365852",
+      "title": "Qualcomm releases Android chip built for AI as memory shortage weighs on smartphone market",
+      "summary": "The overall smartphone market is expected to contract 14% in terms of units shipped in 2026.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/09/22/qualcomm-releases-android-chip-built-for-ai-amid-memory-shortage.html",
+      "category": "Business",
+      "date": "2026-09-22T21:09:17.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "00HID4qZxWj1m1AAwMlbX8t",
+      "title": "Big banks are worried AI agents could increase the risk of scams and fraud",
+      "summary": "While AI true believers worry about doom-and-gloom scenarios of AI destroying the world, some major financial institutions are sounding the alarm over a more grounded AI-related concern: scams.On Tuesday, a consortium of big global banks put out a \"principles paper\" detailing their apprehensions regarding AI assistants as it relates to commerce. It also details principles that they would like to see followed as AI companies develop and continue to work on the technology.Namely, the banks are concerned that AI agents empowered to act on behalf of customers will lose money to scams and fraud and, in turn, hurt merchants.\"As highly regulated financial entities, we are focused on managing risk effectively as emerging technologies arise,\" reads the opening of the paper. \"Consumers are unclear if AI agents will act in their interests.\"\"They are concerned that AI agents may buy the wrong thing or spend too much – or even worse, lose their money to scams and fraud,\" the paper continues. \"They are not sure whether they will be protected or who they ​will need to go ​to if things ⁠go wrong.\"The paper, called Building Trust in Agentic Commerce, was published by Bank of America, Capital One, ASB Bank, Commonwealth Bank of Australia, ING Group, and NatWest Group.Agentic commerce introduces new safety risks, with potential for higher rates of scams, fraud and disputes. There may be mismatched expectations between consumers, AI agents and merchants on what product or service should be pr...",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/big-banks-concerned-about-ai-chatbot-scams-fraud",
+      "category": "Tech",
+      "date": "2026-09-22T21:01:05.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/09/22/openai-gpt-6-sol-luna/",
+      "title": "OpenAI's New GPT-6 Sol and Luna Models Bring Astra Improvements to Cheaper Tiers",
+      "summary": "OpenAI today launched GPT–6 Sol and GPT–6 Luna, two new models that follow GPT–6 Astra. OpenAI says the new models were developed using methods similar to Astra's for improvements in professional work, factuality, coding, computer use, and alignment. GPT–6 Sol is for everyday work, and it costs less than Astra. GPT–6 Luna is an even cheaper model. Luna is optimized for fast responses and higher volume, while Sol has more reasoning capability. The new models outperform their predecessors on OpenAI's benchmark tests, and GPT–6 Sol makes \"about half as many mistakes\" as GPT–5.6 Sol.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/09/22/openai-gpt-6-sol-luna/",
+      "category": "Tech",
+      "date": "2026-09-22T20:58:32.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+      "summary": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\" runs in the cloud but operates locally across Windows, Mac, and Linux devices. According to Rabbit, you can add up to five devices to one account, along with your preferred AI models. OS3 will automatically determine the devices, files, apps, and AI models it needs to complete a task. You can also access OS3 through its dedicated desktop site, a paired messaging app like Telegram or iMessage, as well as on Rabbit's R1 device …",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+      "category": "Industry",
+      "date": "2026-09-22T20:52:40.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "03OPBZ85qBWXbkXCesbJCOT",
+      "title": "ChatGPT-6 Sol and Luna are here: Pricing and benchmarks data",
+      "summary": "Not to be outdone by Anthropic, OpenAI is launching a couple of new ChatGPT models on Tuesday.Mere hours after the launch of Claude Opus 5.5, GPT-6 Sol and Luna became available to users, per an OpenAI blog post. These new models are said to provide better accuracy at a more cost-efficient value than prior models. They can also be thought of as less-intensive versions of GPT-6 Astra, which launched earlier in September. OpenAI says Sol and Luna are better for work at different scales than what you might use Astra for.\"We trained GPT‑6 Sol and Luna with similar methods as GPT‑6 Astra, bringing the advances behind Astra's state-of-the-art performance in professional work, factuality, coding, computer use, and alignment to faster, more affordable models,\" OpenAI's blog post said. This Tweet is currently unavailable. It might be loading or has been removed.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/openai-chatgpt-6-sol-launches-available-now",
+      "category": "Tech",
+      "date": "2026-09-22T20:50:21.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "108365078",
+      "title": "U.S. regulators rush to write crypto rulebook after Clarity Act stalls in Senate",
+      "summary": "State and federal regulators are rushing to fill the void after comprehensive crypto rules failed to clear the Senate.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/09/22/clarity-act-crypto-rules-regulators.html",
+      "category": "Business",
+      "date": "2026-09-22T20:46:52.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=379004",
+      "title": "CME Expands Crypto Futures Lineup With Bitcoin Cash and Uniswap",
+      "summary": "CME is adding standard and micro contracts for Bitcoin Cash and Uniswap, extending a pattern of recent altcoin rollouts.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/379004/cme-crypto-bitcoin-cash-uniswap-futures",
+      "category": "Tech",
+      "date": "2026-09-22T20:46:03.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "00yjUvwYM3WFtz9nx1BqIdU",
+      "title": "Waymo now offering transit rewards to riders",
+      "summary": "Waymo just announced a new transit rewards program that incentivizes pairing robotaxi rides with public transit.The transit rewards program is now available to Waymo employees in the San Francisco Bay Area, but it will open to the Bay Area public in a few weeks, according to the Google-owned autonomous rideshare company. The program requires a Visa credit or debit tap-to-pay card (rival credit card Mastercard already offers transit incentives on most major U.S. systems, many of which already offer tap-to-pay in lieu of transit cards or tokens). \"To participate, riders will link their Visa card in the Waymo app,\" according to a statement from Waymo. \"When riders in the SF Bay Area use their Visa card to take a Waymo trip and public transit within 2 hours of each other, we will automatically issue $2.85 in Waymo Cash, which is the cost of a bus fare in San Francisco.\" The Waymo Cash is loaded into the app and can be used for future robotaxi rides.Over two dozen San Francisco Bay Area transit agencies are participating in Waymo's rewards program, according to the company.In announcing the rewards, Waymo also stated the company is leasing 40 parking spots at stations within the Caltrain commuter system, which covers a wide swath of the Bay Area. Waymo vehicles will occupy the parking spots and be available to take riders from train stations to their destinations.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/waymo-transit-rewards",
+      "category": "Tech",
+      "date": "2026-09-22T20:25:02.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3166854",
+      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "category": "Business",
+      "date": "2026-09-22T20:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
     },
     {
       "id": "https://www.engadget.com/2265564/motorolas-new-signature-27-is-among-the-first-smartphone-to-use-the-snapdragon-8-elite-extreme-gen-6-processor/",
@@ -40,6 +194,17 @@
       "summary": "Motorola Add Engadget on Google: Preferred Source Google Discover Motorola just revealed the Signature 27 smartphone at the Snapdragon Summit. This is a refresh of the pre-existing Signature handset. It features the Snapdragon 8 Elite Extreme Gen 6 mobile processor. It's one of the first phones to use Qualcomm's latest and greatest mobile SoC. This is a flagship model that Motorola is calling \"the most advanced smartphone\" it has ever created. There's some Bang & Olufsen speakers, and an upgraded cooling system to ensure the components don't get too hot.",
       "source": "Engadget AI",
       "sourceUrl": "https://www.engadget.com/2265564/motorolas-new-signature-27-is-among-the-first-smartphone-to-use-the-snapdragon-8-elite-extreme-gen-6-processor/",
+      "category": "Tools",
+      "date": "2026-09-22T20:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://www.engadget.com/2265628/qualcomm-is-making-not-one-but-two-versions-of-its-flagship-snapdragon-8-elite-gen-6-chip/",
+      "title": "Qualcomm is making not one but two versions of its flagship Snapdragon 8 Elite Gen 6 chip",
+      "summary": "The extreme variant comes with 50 percent more shared memory, wider codec support and better video capture. Qualcomm Add Engadget on Google: Preferred Source Google Discover Now that most of the major smartphone releases are done for the year, Qualcomm is preparing for the next generation of handsets with its upcoming flagship mobile chip and this time it will be available in two versions: the Snapdragon 8 Elite Gen 6 and Snapdragon 8 Elite Extreme Gen 6. Based on a 2nm process node, the Snapdragon 8 Elite Gen 6 features an eight-core Oryon CPU composed of two prime cores with clockspeeds of up to 5GHz. The chip also has 16MB of what Qualcomm is calling Flex Cache, which the company says allows the processor to dynamically allocate the cache pool to improve single-threaded performance. Elsewhere, the chip features an Adreno GPU that's 35 percent faster than the previous generation while also providing faster rendering speeds in games. Meanwhile, the Snapdragon 8 Elite Gen 6's NPU is 14 percent faster and offers 20 percent better performance-per-watt for machine learning-based tasks.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2265628/qualcomm-is-making-not-one-but-two-versions-of-its-flagship-snapdragon-8-elite-gen-6-chip/",
       "category": "Tools",
       "date": "2026-09-22T20:00:00.000Z",
       "hot": false,
@@ -92,7 +257,7 @@
     {
       "id": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
       "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
-      "summary": "The families of victims killed in one of the deadliest mass shootings in Canada’s history have already sued OpenAI over its failure to warn law enforcement after discovering in advance that the shooter was using ChatGPT to plan the violence. Now, British Columbia is suing, explaining for the first time how costly and extreme the disaster response has been. OpenAI and Sam Altman owe the tiny remote mining community shattered by the tragedy much more than an apology, the Canadian province argued. They must make meaningful changes to end ChatGPT-assisted violence and then pay whatever it costs to help Tumbler Ridge to rebuild, recover, and heal. In a complaint filed Monday, British Columbia explained that Tumbler Ridge Secondary School had to be demolished after an 18-year-old transgender shooter, Jesse Van Rootselaar, committed suicide there in February after killing five kids and an education assistant. In total, eight lives were lost, as prior to the school shooting, Van Rootselaar shot their mother and half-brother.Read full article Comments",
+      "summary": "The families of victims killed in one of the deadliest mass shootings in Canada’s history have already sued OpenAI over its failure to warn law enforcement after discovering in advance that the shooter was using ChatGPT to plan the violence. Now, British Columbia is suing, explaining for the first time how costly and extreme the disaster response has been. OpenAI and Sam Altman owe the tiny remote mining community shattered by the tragedy much more than an apology, the Canadian province argued. They must make meaningful changes to end ChatGPT-assisted violence and then pay whatever it costs to help Tumbler Ridge to rebuild, recover, and heal. In a complaint filed Monday, British Columbia explained that Tumbler Ridge Secondary School had to be demolished after an 18-year-old transgender shooter, Jesse Van Rootselaar, died by suicide there in February after killing five kids and an education assistant. In total, eight lives were lost, as prior to the school shooting, Van Rootselaar shot their mother and half-brother.Read full article Comments",
       "source": "Ars Technica AI",
       "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
       "category": "Industry",
@@ -311,7 +476,7 @@
     {
       "id": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
       "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Go...",
-      "summary": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, NVIDIA, OpenAI, Palantir, Replit, and Stripe, along with $42 million in funding led by a16z. While billed as a \"highly selective school,\" it does not grant any degree or accreditation. Instead, students will attend short classes led by tech figureheads, like OpenAI CEO Sam Altman, as well as \"co-ops\" that give students roles at tech companies. To partake in the one-year …",
+      "summary": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, Nvidia, OpenAI, Palantir, Replit, and Stripe, along with $42 million in funding led by a16z. While billed as a \"highly selective school,\" it does not grant any degree or accreditation. Instead, students will attend short classes led by tech figureheads, like OpenAI CEO Sam Altman, as well as \"co-ops\" that give students roles at tech companies. To partake in the one-year …",
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
       "category": "Industry",
@@ -495,17 +660,6 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "https://www.engadget.com/2262360/reasons-keep-iphone-17-pro-instead-of-upgrading-iphone-18-pro/",
-      "title": "Five reasons to stick with your iPhone 17 Pro instead of upgrading to the 18 Pro",
-      "summary": "The iPhone 18 Pro is an impressive phone, but you won't notice a big difference compared to the 17 Pro. Ekaterina_Minaeva/Shutterstock Add Engadget on Google: Preferred Source Google Discover September means new iPhones are out in the wild, and while all eyes are on the fancy iPhone Duo, we shouldn't forget about the iPhone 18 Pro. This generation isn't radically different from the iPhone 17 Pro, but some folks might still consider upgrading — especially if you get a good deal from your carrier. But is it really worth moving from the iPhone 17 Pro to the iPhone 18 Pro? You'd likely be better off saving the cash and sticking with your current device for now. All told, these two units aren't that different.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2262360/reasons-keep-iphone-17-pro-instead-of-upgrading-iphone-18-pro/",
-      "category": "Tools",
-      "date": "2026-09-22T15:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
       "id": "https://decrypt.co/?p=378921",
       "title": "Bitcoin ETFs Take Nearly $1B in a Day as Average Holder Returns to Profit",
       "summary": "The funds pulled in more on Monday than across the whole of last week, when they posted the weakest net inflow of their history.",
@@ -536,17 +690,6 @@
       "category": "Audio",
       "date": "2026-09-22T14:00:00.000Z",
       "hot": true
-    },
-    {
-      "id": "https://www.engadget.com/2262080/robotaxi-what-passengers-should-look-out-for/",
-      "title": "Robotaxis aren't always a smooth ride - here's what passengers should look out for",
-      "summary": "Waymo, Zoox and Tesla have all faced challenges. Michael Vi/Getty Images Add Engadget on Google: Preferred Source Google Discover Autonomous car manufacturers have long claimed that self-driving vehicles would reduce traffic accidents. Thus far, the stats are largely in their favor. According to a report by the Insurance Institute for Highway Safety (IIHS), Google's Waymo robotaxis were involved in roughly 65 percent fewer car crashes than human drivers last year. Waymo's own internal statistics, meanwhile, claim that the autonomous vehicles (AVs) reduce accidents with serious injuries by 94 percent. Some critics are understandably dubious, however, noting that more testing needs to be done before anyone can meaningfully certify these safety gains.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2262080/robotaxi-what-passengers-should-look-out-for/",
-      "category": "Tools",
-      "date": "2026-09-22T14:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
     },
     {
       "id": "https://www.macrumors.com/2026/09/22/beats-360-headphone-launch/",
@@ -591,17 +734,6 @@
       "date": "2026-09-22T13:33:16.000Z",
       "hot": false,
       "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/09/22/apple-to-bring-iphone-duo-display-tech-to-pro/",
-      "title": "Apple Planning to Bring iPhone Duo Display Tech to Pro in 2029",
-      "summary": "Apple's 2029 \"Pro\" iPhones could adopt thinner and more power-efficient OLED screens, according to UBI Research. The technology, known as Color Filter on Encapsulation (CoE), removes the conventional polarizer from the &zwnj;OLED&zwnj; panel and places a color filter directly on top of its encapsulation layer. A polarizer helps suppress reflections from ambient light, but it also absorbs a significant portion of the light produced by the display. Removing the polarizer allows more light to pass through, potentially enabling a display to reach greater brightness without consuming additional power, or use less power while maintaining the same brightness. Eliminating the separate layer can also make the display assembly thinner, freeing up internal space for components such as the battery, cameras, and more. Samsung first commercialized the technology, which it branded Eco² &zwnj;OLED&zwnj;, with the Galaxy Z Fold3.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/09/22/apple-to-bring-iphone-duo-display-tech-to-pro/",
-      "category": "Tech",
-      "date": "2026-09-22T13:27:17.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "https://techcrunch.com/?p=3167216",
@@ -659,6 +791,17 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
+      "id": "https://decrypt.co/?p=378918",
+      "title": "Morning Minute: Robinhood CEO Bets Crypto Will Beat Sports at Prediction Markets",
+      "summary": "Crypto is interesting again and that means attention is flowing back to the sector. And it’s starting to show in the data.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/378918/morning-minute-robinhood-ceo-bets-crypto-will-beat-sports-at-prediction-markets",
+      "category": "Tech",
+      "date": "2026-09-22T12:15:44.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
       "id": "https://blogs.nvidia.com/?p=98370",
       "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
       "summary": "To build and deploy sophisticated robotics applications that can perceive, reason and act in dynamic environments, developers need new physical AI models and tools. The ROS open framework is a project from Open Robotics that helps humans build robots. NVIDIA Isaac ROS 5.0 — a collection of GPU-accelerated packages built on ROS, released today at the ROSCon conference in Toronto, Canada — helps humans and AI agents build robots together. The release introduces new agentic workflows and platform support to help developers build, customize and deploy robotics applications faster. ROS provides the open source foundation for much of modern robotics development, giving developers common tools, libraries and standards for building and connecting robot applications. NVIDIA Isaac ROS brings NVIDIA accelerated computing, physical AI models and production-ready libraries to the nearly 1.3 million ROS users, helping developers build high-performance robotics applications using free, familiar, open source tools.",
@@ -668,6 +811,17 @@
       "date": "2026-09-22T12:00:41.000Z",
       "hot": false,
       "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
+      "id": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. ShareCompiling six months of data twice as fastCompiling six months of data twice as fastReaching high-quality answers in fewer stepsCompiling six months of data twice as fastReaching high-quality answers in fewer stepsParallel⁠(opens in a new window) builds developer infrastructure for AI agents that do knowledge work over the web. Its tools support everything from web grounding for voice agents to research for financial institutions and legal customers, combining frontier models with web search. For Parallel’s longest-running research tasks, getting a high-quality answer typically meant using a bigger model with extended reasoning, which consumed more time and resources. The company has seen a major improvement in time and cost with GPT‑6 Astra. In one test of GPT‑6 Astra, Parallel asked its agent to research six different labor-market statistics across four states over six months.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "category": "Models",
+      "date": "2026-09-22T12:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://openai.com"
     },
     {
       "id": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
@@ -857,6 +1011,22 @@
       "officialUrl": "https://huggingface.co"
     },
     {
+      "id": "https://openai.com/index/better-prompt-caching-for-gpt-6/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "OpenAI GPT-6 Boosts Prompt Caching with Higher Hit Rates, New Diagnostics Tools",
+      "summary": "Higher cache hit rates and new tools to help persistent agents run faster and cost less. ShareMonitor caching and diagnose cache missesMonitor caching and diagnose cache missesOptimize caching for your applicationGet startedMonitor caching and diagnose cache missesOptimize caching for your applicationGet startedGPT‑6 enables persistent agents to work for hours on complex tasks, from refactoring codebases to producing well-researched documents and presentations. The applications behind these agents make a series of API requests that build on one another, often carrying forward the same instructions, tool definitions, and context from earlier turns. OpenAI caches that shared context to reuse computation across requests, reducing response times and giving developers discounts of up to 90% on cached input tokens. With the GPT‑6 family, we launched an improved prompt caching system that delivers higher cache hit rates by default. We now give cache discounts for eligible shared prefixes reused within a 30-minute window.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://openai.com/index/better-prompt-caching-for-gpt-6/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-09-22T00:00:00.000Z",
+      "hot": false,
+      "relatedCoverage": [
+        {
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/better-prompt-caching-for-gpt-6"
+        }
+      ]
+    },
+    {
       "id": "https://openai.com/index/introducing-gpt-6-sol-and-luna/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "OpenAI Launches GPT-6 Sol and Luna With 50% Price Cuts Over Previous Models",
       "summary": "More ways to bring frontier intelligence into the work you do every day. ShareGPT‑6 API pricingGPT‑6 API pricingA step up across the model familyProfessional workFactualityCodingComputer useCollaboration styleImproving caching for agents and long conversationsContinuing to improve alignmentAvailabilityGPT‑6 API pricingA step up across the model familyProfessional workFactualityCodingComputer useCollaboration styleImproving caching for agents and long conversationsContinuing to improve alignmentAvailabilityEarlier this month, we introduced GPT‑6 Astra, the most intelligent and aligned model in the world. While the most demanding and important projects still call for Astra’s full depth, work happens at different scales, rhythms, and budgets. That’s why we’re expanding the GPT‑6 universe with GPT‑6 Sol and GPT‑6 Luna. GPT‑6 Astra introduced a new generation of intelligence—these models help distribute the benefits of that intelligence by advancing the frontier on cost efficiency. We trained GPT‑6 Sol and Luna with similar methods as GPT‑6 Astra, bringing the advances behind Astra’s state-of-the-art performance in professional work, factuality, coding, computer use, and alignment to faster, more affordable models.",
@@ -883,6 +1053,16 @@
       "hot": true
     },
     {
+      "id": "https://www.prnewswire.com/news-releases/rabbit-unveils-os3-the-agentic-operating-system-for-every-device-302886403.html?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Rabbit Launches OS3 Agentic OS With Multi-Device Control and Universal AI Skill Support",
+      "summary": "Featuring direct computer control and universal skills compatibility, OS3 is the agentic operating system built to do it all. SANTA MONICA, Calif., Sept. 22, 2026 /PRNewswire/ -- rabbit, a pioneer in consumer-level agentic AI, today announced the general release of OS3, an agentic operating system. Built around a single chat interface as its primary entry point, OS3 changes how people work with their devices. A user states an outcome, and the system works out the rest by reasoning with connected AI models and whatever else the task calls for: the web, services already in use, or connected devices. OS3 runs in the cloud, but connects to and operates devices through the rabbit agent, which installs with a single command.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.prnewswire.com/news-releases/rabbit-unveils-os3-the-agentic-operating-system-for-every-device-302886403.html?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-09-22T00:00:00.000Z",
+      "hot": false
+    },
+    {
       "id": "https://x.com/atrupar/status/2102413962729968116?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Trump Announces Renaming of \"Artificial Intelligence\" to \"Super Intelligence\" in US Documents",
       "summary": "Trump tells the UN he is officially changing the name of Artificial Intelligence to \"Super Intelligence\" and says all US government documents will now be changed to refer to \"SI\"",
@@ -897,6 +1077,16 @@
           "url": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence"
         }
       ]
+    },
+    {
+      "id": "https://mimo.xiaomi.com/mimo-v2-6?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Xiaomi Launches MiMo-V2.6 Multimodal AI Series with Open Development Approach",
+      "summary": "Introducing the MiMo-V2.6 series: frontier intelligence, all the modalities, built in public.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://mimo.xiaomi.com/mimo-v2-6?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-09-22T00:00:00.000Z",
+      "hot": false
     },
     {
       "id": "https://techcrunch.com/?p=3167267",
@@ -974,28 +1164,6 @@
       "date": "2026-09-21T22:24:38.000Z",
       "hot": false,
       "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=378891",
-      "title": "After Clarity Act Fails, Crypto Super PAC Fairshake Targets Sherrod Brown With $30 Million",
-      "summary": "Crypto super PAC Fairshake plans to spend $30 million opposing former Democratic Sen. Sherrod Brown’s bid to return to Congress.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/378891/clarity-act-crypto-super-pac-fairshake-sherrod-brown-30-million",
-      "category": "Tech",
-      "date": "2026-09-21T22:16:03.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "https://decrypt.co/?p=378889",
-      "title": "Robinhood CEO Says Crypto Will Beat Sports at Prediction Markets' Own Game",
-      "summary": "Robinhood CEO Vlad Tenev says crypto event contracts are already outpacing sports bets, and could become the platform's dominant category.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/378889/robinhood-ceo-crypto-will-beat-sports-prediction-markets",
-      "category": "Tech",
-      "date": "2026-09-21T21:46:03.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
     },
     {
       "id": "108365835",
@@ -1095,17 +1263,6 @@
       "date": "2026-09-21T18:00:07.000Z",
       "hot": false,
       "officialUrl": "https://blogs.nvidia.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3167032",
-      "title": "Meta’s AI agent has been blocked from using Amazon.com",
-      "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-      "category": "Business",
-      "date": "2026-09-21T17:55:18.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
     },
     {
       "id": "000001a0-c501-d462-adb2-e5bbc2c40000",
@@ -1279,22 +1436,22 @@
       "officialUrl": "https://feeds.feedburner.com"
     },
     {
-      "id": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "summary": "ShareOn August 28, OpenAI began training a new internal model. In addition to resolving the Navier–Stokes Millennium Prize problem⁠, this model has now resolved more than 100 long-standing open problems across most areas of mathematics. The pace of its progress⁠ in mathematics has surprised the mathematicians within OpenAI. This has led to internal discussions on the best way to inform the community of the rapid progress to prepare and adapt the field. Mathematics is a fundamental science, and novel discoveries may result in a wide range of applications. That makes the promise of these capabilities substantial, and their responsible development and deployment important beyond mathematics itself.",
+      "id": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "summary": "With GPT‑6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster. ShareTurning one ad into new possibilitiesTurning one ad into new possibilitiesBringing creative ideas to market fasterTurning one ad into new possibilitiesBringing creative ideas to market fasterHiggsfield AI⁠(opens in a new window) helps creatives complete video workflows end to end with AI. Its mission is to make creative storytelling more accessible to professionals around the world, including small businesses using video ads to sell. GPT‑6 Astra supports both sides of that mission: improving ad creation for customers and accelerating feature development inside Higgsfield. Creating ads with Higgsfield can start with a simple request, such as “Take my top-performing ad and generate 100 new variations.” With GPT‑6 selected, the workflow turns that request into new creative directions for an existing ad to generate variations, such as customizing the ads for different countries. For small businesses, this makes it easier to explore different versions of an ad through a single prompt.",
       "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "sourceUrl": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
       "category": "Models",
       "date": "2026-09-21T12:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
     },
     {
-      "id": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "summary": "With GPT‑6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster. ShareTurning one ad into new possibilitiesTurning one ad into new possibilitiesBringing creative ideas to market fasterTurning one ad into new possibilitiesBringing creative ideas to market fasterHiggsfield AI⁠(opens in a new window) helps creatives complete video workflows end to end with AI. Its mission is to make creative storytelling more accessible to professionals around the world, including small businesses using video ads to sell. GPT‑6 Astra supports both sides of that mission: improving ad creation for customers and accelerating feature development inside Higgsfield. Creating ads with Higgsfield can start with a simple request, such as “Take my top-performing ad and generate 100 new variations.” With GPT‑6 selected, the workflow turns that request into new creative directions for an existing ad to generate variations, such as customizing the ads for different countries. For small businesses, this makes it easier to explore different versions of an ad through a single prompt.",
+      "id": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "summary": "ShareOn August 28, OpenAI began training a new internal model. In addition to resolving the Navier–Stokes Millennium Prize problem⁠, this model has now resolved more than 100 long-standing open problems across most areas of mathematics. The pace of its progress⁠ in mathematics has surprised the mathematicians within OpenAI. This has led to internal discussions on the best way to inform the community of the rapid progress to prepare and adapt the field. Mathematics is a fundamental science, and novel discoveries may result in a wide range of applications. That makes the promise of these capabilities substantial, and their responsible development and deployment important beyond mathematics itself.",
       "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "sourceUrl": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
       "category": "Models",
       "date": "2026-09-21T12:00:00.000Z",
       "hot": false,
@@ -1411,6 +1568,17 @@
       "officialUrl": "https://huggingface.co"
     },
     {
+      "id": "https://aiweekly.co/issues/ai-labs-shipped-agents-before-agreeing-how-to-report",
+      "title": "AI Weekly Issue #531: AI labs shipped agents before agreeing how to report failures",
+      "summary": "The AI story of September 14–20 was not one spectacular model launch. It was the machinery around agents becoming visible: people reading private chats, models writing instructions into their own memory, plugins updating beneath users, and regulators asking how to stop a system after release. The latest AI Weekly Who’s Who census surfaced 535 expert-shared links. We ranked them by consequence and reader relevance, not by raw share count. Here is what mattered last week—and, more importantly, what could move the story from September 22–28.",
+      "source": "AI Weekly",
+      "sourceUrl": "https://aiweekly.co/issues/ai-labs-shipped-agents-before-agreeing-how-to-report",
+      "category": "Curation",
+      "date": "2026-09-21T00:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://aiweekly.co"
+    },
+    {
       "id": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Meta's AI App Muse Surpasses ChatGPT's Early Mobile Downloads With 1.8M in 12 Days",
       "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
@@ -1418,13 +1586,7 @@
       "sourceUrl": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-09-21T00:00:00.000Z",
-      "hot": false,
-      "relatedCoverage": [
-        {
-          "source": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/"
-        }
-      ]
+      "hot": false
     },
     {
       "id": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths/?utm_source=futuretools.io&utm_medium=newspage",
@@ -1481,17 +1643,6 @@
       "category": "Curation",
       "date": "2026-09-21T00:00:00.000Z",
       "hot": false
-    },
-    {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-      "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
-      "summary": "He claims there is a ‘0% chance’ of AI ending the world. He claims there is a ‘0% chance’ of AI ending the world. The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a “0% chance” of AI being the end of the world. He also said of people sounding the alarm about the dangers of AI that, “Scaring people is unnecessary. He also claims that calls from CEOs like Anthropic’s Dario Amodei and OpenAI’s Sam Altman to slow down the development of AI are “not grounded in science.” He even argued that there was no need for new rules, laws, or guidelines, in the face of several high-profile cases in which models escaped containment and hacked other companies.",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-      "category": "Industry",
-      "date": "2026-09-20T18:50:18.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
     },
     {
       "id": "http://feeds.fabbaloo.com/~/969352331/_/fabbaloo/default~Whos-The-Biggest-In-D-Printing-September",
@@ -1748,39 +1899,6 @@
       "category": "Curation",
       "date": "2026-09-18T00:00:00.000Z",
       "hot": true
-    },
-    {
-      "id": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
-      "title": "Small AI models let drones autonomously identify and attack battlefield targets",
-      "summary": "Federated learning on the battlefield Small AI models let drones autonomously identify and attack battlefield targets Scaleout deploys decentralized AI-driven learning to military bases and drones. The company, Scaleout Systems, was originally founded by researchers from Uppsala University in Sweden in 2018, and initially focused on training and deploying machine learning models directly on the hardware available in commercial trucks and other vehicles. But once Russia launched its full-scale invasion of Ukraine in 2022, the company pivoted toward defense applications. “With the war in Ukraine and a shifting world, we realized that this technology can be very important to operationalize edge data and sensor data for machine learning to make sure that NATO allies have found that strategic advantage,” Andreas Hellander, cofounder and CEO of Scaleout Systems, told Ars. Instead of using frontier AI models from OpenAI or Anthropic, Scaleout is harnessing leaner ones, such as machine learning models that can perform computer vision tasks on the hardware of drones or computers used at forward bases. “They need to fit on forward-deployed hardware and edge hardware, which can vary quite a bit from small embedded devices to quite powerful edge workstations,” Hellander said.",
-      "source": "Ars Technica AI",
-      "sourceUrl": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
-      "category": "Industry",
-      "date": "2026-09-17T22:12:58.000Z",
-      "hot": false,
-      "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "000001a0-b112-d670-a7ea-f7bbf69d0000",
-      "title": "AI titans invited to Trump-Xi dinner",
-      "summary": "The executives' attendance signals artificial intelligence could be a key talking point during negotiations next week.",
-      "source": "Politico Tech",
-      "sourceUrl": "https://www.politico.com/news/2026/09/17/ai-titans-trump-xi-dinner-01083068",
-      "category": "Industry",
-      "date": "2026-09-17T20:36:05.000Z",
-      "hot": false,
-      "officialUrl": "https://rss.politico.com"
-    },
-    {
-      "id": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
-      "title": "Google announces new experimental \"CC\" AI agent for families",
-      "summary": "Google's AI models may not be in the lead by most measures right now, but the company does have one key advantage: your data. If you're deep in the Google ecosystem, Gemini models have a lot of context on you already. Google's latest Google Labs experiment, known as CC, aims to expand that kind of customization to the whole family. CC is an evolution of something that Google announced in 2025. The original CC eventually became Gemini's Daily Brief, which churns through the data in your Google account to offer daily action items and suggestions. The new CC has a similar goal, but it's designed to be a shared resource for up to six users in a family.",
-      "source": "Ars Technica AI",
-      "sourceUrl": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
-      "category": "Industry",
-      "date": "2026-09-17T20:24:34.000Z",
-      "hot": false,
-      "officialUrl": "https://arstechnica.com"
     }
   ]
 }
