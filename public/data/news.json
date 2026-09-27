@@ -1,6 +1,61 @@
 {
-  "lastUpdated": "2026-09-27T18:37:28.207Z",
+  "lastUpdated": "2026-09-27T21:47:13.907Z",
   "news": [
+    {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "title": "Engram is a sampler that turns broken AI hallucinations into music",
+      "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a box, though. This isn't a \"push-button, get-song\" device, aimed at creating something that sounds ready for top-40 radio. It's about creating experimental, uncanny sounds and pushing AI audio models beyond their limits. Engram isn't connected to the internet.",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "category": "Industry",
+      "date": "2026-09-27T20:46:36.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3170334",
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "category": "Business",
+      "date": "2026-09-27T19:57:30.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/anthropic-ceo-amodei-to-meet-trump-privately-ahead-of-ai-summit-4919089",
+      "title": "Anthropic CEO Amodei to meet Trump privately ahead of AI summit",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/anthropic-ceo-amodei-to-meet-trump-privately-ahead-of-ai-summit-4919089",
+      "category": "Business",
+      "date": "2026-09-27T19:17:33.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "108368085",
+      "title": "Anthropic CEO Amodei set to meet with Trump after missing state dinner",
+      "summary": "As top tech CEOs rubbed elbows at President Trump's glitzy dinner for Chinese President Xi on Thursday, Anthropic's CEO was noticeably absent.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/09/27/dario-amodei-set-to-have-dinner-with-trump-after-missing-state-dinner.html",
+      "category": "Business",
+      "date": "2026-09-27T19:13:27.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.engadget.com/2270166/bill-gates-says-that-its-completely-irresponsible-for-ai-to-not-have-safeguards/",
+      "title": "Bill Gates says it's 'completely irresponsible' for AI to not have safeguards",
+      "summary": "The Microsoft co-founder said that the more present danger is bad actors with access to AI tools. Chip Somodevilla/Getty Images Add Engadget on Google: Preferred Source Google Discover After several CEOs of leading AI companies have agreed on slowing down the pace of AI development, Bill Gates has offered supporting sentiments and called for more regulation and safeguards. In an interview with NBC News' Meet the Press, the Microsoft co-founder said that \"it's completely irresponsible not to require every AI to have these safeguards and monitoring capabilities.\" To that end, Anthropic recently tapped Accenture to act as a third-party evaluator for its latest AI models. As for other approaches to deal with AI's rapid rate of evolution, California's governor, Gavin Newsom, proposed a \"kill switch\" as part of a larger solution. When asked about the kill switch approach to curb AI, Gates said that, \"I would never want to say that I'm against a kill switch,\" but added that this approach wouldn't address a more imminent danger. Instead, Gates said the more pressing concern is when bad actors tap into the power of AI to aid with bioterrorism or mass financial fraud incidents.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2270166/bill-gates-says-that-its-completely-irresponsible-for-ai-to-not-have-safeguards/",
+      "category": "Tools",
+      "date": "2026-09-27T19:12:29.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
     {
       "id": "000001a0-e41d-d276-aff6-e57f19ef0000",
       "title": "Anthropic CEO to attend White House dinner with Trump",
@@ -10,7 +65,17 @@
       "category": "Industry",
       "date": "2026-09-27T18:25:43.000Z",
       "hot": false,
-      "officialUrl": "https://rss.politico.com"
+      "officialUrl": "https://rss.politico.com",
+      "relatedCoverage": [
+        {
+          "source": "CNBC Tech",
+          "url": "https://www.cnbc.com/2026/09/27/trump-dinner-anthropic-ceo-amodei.html"
+        },
+        {
+          "source": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/"
+        }
+      ]
     },
     {
       "id": "https://www.engadget.com/2266434/foldable-phone-pros-cons/",
@@ -220,17 +285,6 @@
       "date": "2026-09-27T01:30:00.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://www.engadget.com/2266671/iphone-duo-wont-know-how-visible-crease-for-long-time/",
-      "title": "Why we won't know how visible the iPhone Duo's crease is for a long time",
-      "summary": "Apple's nano-texture screen might not hide the crease forever. Benjamin Fanjoy/Getty Images Add Engadget on Google: Preferred Source Google Discover Apple's first foldable phone is coming soon, and it caused quite a stir upon its announcement earlier this month. That's no surprise, since everyone was waiting to see how the iPhone Duo would address the competition's shortcomings. It's still early to tell, given that it won't hit stores until next month and all we've had so far are a few brief hands-on experiences. But one of the most anticipated features is the new nano-texture display, which promises to make the crease on the screen much less visible. In fact, it does seem to be much less noticeable — but it will be a long time before we know for sure.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2266671/iphone-duo-wont-know-how-visible-crease-for-long-time/",
-      "category": "Tools",
-      "date": "2026-09-27T00:30:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
     },
     {
       "id": "https://techcrunch.com/?p=3170285",
@@ -472,13 +526,7 @@
       "category": "Industry",
       "date": "2026-09-26T01:38:25.000Z",
       "hot": false,
-      "officialUrl": "https://rss.politico.com",
-      "relatedCoverage": [
-        {
-          "source": "Investing.com",
-          "url": "https://www.investing.com/news/stock-market-news/openai-pauses-training-a-second-time-as-rogue-agents-hit-us-government-websites-4918960"
-        }
-      ]
+      "officialUrl": "https://rss.politico.com"
     },
     {
       "id": "https://techcrunch.com/?p=3170030",
@@ -762,17 +810,6 @@
       "officialUrl": "https://feeds.macrumors.com"
     },
     {
-      "id": "https://techcrunch.com/?p=3169728",
-      "title": "Astra and Opus just passed Turing’s other test",
-      "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
-      "category": "Business",
-      "date": "2026-09-25T17:24:36.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
       "id": "https://decrypt.co/?p=379350",
       "title": "Bitget Hack Losses Climb to $387M: Here’s What Happened, and Why North Korea Is a Suspect",
       "summary": "Hackers stole roughly $387.5 million in crypto from Bitget yesterday in what is believed to be the biggest crypto hack of the year.",
@@ -821,17 +858,6 @@
       "date": "2026-09-25T16:49:53.000Z",
       "hot": false,
       "officialUrl": "https://www.theverge.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3169621",
-      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-      "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-      "category": "Business",
-      "date": "2026-09-25T16:16:52.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
     },
     {
       "id": "https://www.macrumors.com/2026/09/25/the-macrumors-show-tyler-stalman-iphone-18-pro-camera/",
@@ -920,17 +946,6 @@
       "date": "2026-09-25T15:16:44.000Z",
       "hot": false,
       "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "108367951",
-      "title": "Trump and Xi dined with AI's biggest names. Here's what we know about tech talks so far",
-      "summary": "AI was a key topic during Trump-Xi talks on Thursday, after safety concerns shot to the top of the global geopolitical agenda in recent weeks.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/09/25/the-tech-download-trump-xi-ai-talks.html",
-      "category": "Business",
-      "date": "2026-09-25T14:43:23.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "https://www.techrepublic.com/article/news-google-gemini-call-for-me-pixel-11/",
@@ -1122,17 +1137,6 @@
       "date": "2026-09-24T18:20:58.000Z",
       "hot": false,
       "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
-      "title": "Jensen Huang talks about AI and climate change like a supervillain",
-      "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of The Ezra Klein Show. But his comments boil down to the same accelerationist spin we've seen from a variety of tech leaders as well as President Donald Trump. They promise that AI will be such a gift to humanity that it's worth the damage caused by data centers currently running on dirty energy. Huang's extreme level of privilege is glaring Huang's extreme level of privilege is glaring in the interview. He …",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
-      "category": "Industry",
-      "date": "2026-09-24T18:04:44.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
     },
     {
       "id": "000001a0-d468-d462-adb2-f4fb488f0000",
@@ -1768,14 +1772,14 @@
       "hot": false
     },
     {
-      "id": "https://about.fb.com/news/2026/09/introducing-meta-vr-glasses-3d-movies-immersive-live-sports-100-grams/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Meta Launches 100g VR Glasses With 5K Display, AI, and Hologram Calls for $1,299",
-      "summary": "Meet Meta VR Glasses: our most advanced device yet, delivering a personal cinema, courtside seat, workspace, and gaming console, all in a pair of glasses that weighs about 100 grams — roughly the same as a deck of cards. Thanks to the breakthrough glasses form factor, there are no straps or heavy hardware on your face. The open sides and passthrough camera keep you aware of what’s happening nearby. You can wear Meta VR Glasses to comfortably watch a full movie or privately work on a long flight while maintaining a sense of the world around you. Meta VR Glasses are five times lighter than Meta Quest 3, primarily because of their two-part system. The VR Glasses handle the sensors and display, while the puck, connected by an optical tether, handles compute, battery, and storage, and conveniently clips to your pocket or bag.",
+      "id": "https://about.fb.com/news/2026/09/introducing-ray-ban-meta-audio-glasses-new-styles-plus-muse/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Meta Launches Ray-Ban Meta Audio Glasses and Expands AI Glasses Lineup at Connect",
+      "summary": "We’re building AI glasses for everyone. By the end of the year, we’ll offer more than 100 different glasses options across Ray-Ban, Oakley, and Meta Glasses, including lightweight frames made for all-day wear and new styles with slimmer designs and longer battery life. And with regular software updates, new AI features, and our growing ecosystem of apps and experiences, these glasses will only keep getting better. AI glasses help you on the go, from giving you sports scores and local restaurant picks to translating live conversations. With a connection to your personal AI agent from Muse, they’ll offer more ways than ever to help you manage your daily life — whether you’re building healthy habits or navigating a busy calendar — all without reaching for your phone. Audio has been our most popular feature since day one because our glasses give you high-quality sound without closing you off from the world around you.",
       "source": "FutureTools News",
-      "sourceUrl": "https://about.fb.com/news/2026/09/introducing-meta-vr-glasses-3d-movies-immersive-live-sports-100-grams/?utm_source=futuretools.io&utm_medium=newspage",
+      "sourceUrl": "https://about.fb.com/news/2026/09/introducing-ray-ban-meta-audio-glasses-new-styles-plus-muse/?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-09-23T00:00:00.000Z",
-      "hot": true
+      "hot": false
     },
     {
       "id": "https://about.fb.com/news/2026/09/new-features-for-meta-ray-ban-display-navigation-hologram/?utm_source=futuretools.io&utm_medium=newspage",
@@ -1783,16 +1787,6 @@
       "summary": "Today at Connect 2026, we shared updates to Meta Ray-Ban Display, including new features, online ordering, and an expansion into five new markets. Heads-up navigation is a feature consumers consistently tell us they love in our Meta Ray-Ban Display glasses, and we’re excited to build on that. Glasses are great for hands-free calls, but sometimes you want the person on the other end to be able to see you. After a short self capture in the Meta AI app, you can get a photorealistic digital version of your face for calls from Meta Ray-Ban Display — so your mom can see you chopping vegetables when you cook together on opposite coasts. No propping up a phone or having to hold it in front of your face, and no awkward angles. Your hologram is driven entirely by your voice, and the hologram model infers your expression from what you’re saying and how you’re saying it.",
       "source": "FutureTools News",
       "sourceUrl": "https://about.fb.com/news/2026/09/new-features-for-meta-ray-ban-display-navigation-hologram/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-09-23T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://about.fb.com/news/2026/09/introducing-ray-ban-meta-audio-glasses-new-styles-plus-muse/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Meta Launches Ray-Ban Meta Audio Glasses and Expands AI Glasses Lineup at Connect",
-      "summary": "We’re building AI glasses for everyone. By the end of the year, we’ll offer more than 100 different glasses options across Ray-Ban, Oakley, and Meta Glasses, including lightweight frames made for all-day wear and new styles with slimmer designs and longer battery life. And with regular software updates, new AI features, and our growing ecosystem of apps and experiences, these glasses will only keep getting better. AI glasses help you on the go, from giving you sports scores and local restaurant picks to translating live conversations. With a connection to your personal AI agent from Muse, they’ll offer more ways than ever to help you manage your daily life — whether you’re building healthy habits or navigating a busy calendar — all without reaching for your phone. Audio has been our most popular feature since day one because our glasses give you high-quality sound without closing you off from the world around you.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://about.fb.com/news/2026/09/introducing-ray-ban-meta-audio-glasses-new-styles-plus-muse/?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-09-23T00:00:00.000Z",
       "hot": false
@@ -1808,6 +1802,16 @@
       "hot": false
     },
     {
+      "id": "https://about.fb.com/news/2026/09/introducing-meta-vr-glasses-3d-movies-immersive-live-sports-100-grams/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Meta Launches 100g VR Glasses With 5K Display, AI, and Hologram Calls for $1,299",
+      "summary": "Meet Meta VR Glasses: our most advanced device yet, delivering a personal cinema, courtside seat, workspace, and gaming console, all in a pair of glasses that weighs about 100 grams — roughly the same as a deck of cards. Thanks to the breakthrough glasses form factor, there are no straps or heavy hardware on your face. The open sides and passthrough camera keep you aware of what’s happening nearby. You can wear Meta VR Glasses to comfortably watch a full movie or privately work on a long flight while maintaining a sense of the world around you. Meta VR Glasses are five times lighter than Meta Quest 3, primarily because of their two-part system. The VR Glasses handle the sensors and display, while the puck, connected by an optical tether, handles compute, battery, and storage, and conveniently clips to your pocket or bag.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://about.fb.com/news/2026/09/introducing-meta-vr-glasses-3d-movies-immersive-live-sports-100-grams/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-09-23T00:00:00.000Z",
+      "hot": true
+    },
+    {
       "id": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-in-google-vids/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Google Vids Now Free for All: Gemini Omni 1.1 Enables HD AI Video Creation",
       "summary": "We integrated our newest AI models into Google Vids so anyone with a Google Account can create videos for free. Your browser does not support the audio element. You can now create high-quality, 1080p videos for free using the new Gemini Omni model in Google Vids. This tool lets you control scene duration and transitions, making it easy to produce professional content without editing experience. Visit vids.new on your desktop to start building your first project today. Google Vids now lets anyone create high-quality videos for free using AI.",
@@ -1818,21 +1822,21 @@
       "hot": false
     },
     {
-      "id": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Claude Discovers Novel CRISPR-Like Enzyme System in Massive DNA Database Search",
-      "summary": "We’re introducing a new life sciences research group and laboratory at Anthropic. Our focus is on fundamental biology research using Claude: exploring datasets of DNA to identify uncharacterized protein families, generating hypotheses at scale, and testing them through experiments in the lab. This post introduces the team behind this work and shares early results in which Claude discovered a novel enzyme system with properties reminiscent of CRISPR, with only high-level direction from our scientists.Many discoveries that have revolutionized biology and medicine started with a scientist noticing something odd in the staggering diversity of molecular machines found in nature. Restriction enzymes, proteins that cut DNA at specific short sequences, were found in bacterial immune systems, where they destroy the DNA of invading viruses. Researchers realized they could use these enzymes to cut DNA at chosen places and splice genes from one organism into another, which launched the biotechnology industry. Taq polymerase, an enzyme that copies DNA at high temperatures, was identified in a bacterium in a Yellowstone hot spring.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-09-23T00:00:00.000Z",
-      "hot": false
-    },
-    {
       "id": "https://openai.com/index/introducing-mentalhealthbench/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "OpenAI Launches MentalHealthBench: Open AI Benchmark Built With 80+ Mental Health Experts",
       "summary": "An open benchmark developed with more than 80 licensed mental health experts to evaluate AI responses in realistic mental health conversations. (opens in a new window)Loading…ShareSupporting mental health across all contextsSupporting mental health across all contextsBuilt in collaboration with expertsPerformance of modelsUnderstanding user perspectives on mental healthMaking better mental health evaluation a shared resourceSupporting mental health across all contextsBuilt in collaboration with expertsPerformance of modelsUnderstanding user perspectives on mental healthMaking better mental health evaluation a shared resourcePeople turn to AI for many kinds of conversations: navigating a difficult relationship, working through everyday stress, supporting someone they care about, or deciding how to approach a challenging situation. These conversations require accuracy, practical judgment, and respect for people’s agency. With more than one billion people using ChatGPT each week, our research focuses on helping models respond with care across a wide range of needs and put people’s safety and well-being first. Most evaluations of AI in this domain have focused primarily on emergency scenarios, given their importance to safety, and measure success using broad, predefined criteria. This has left a gap in understanding how models perform across the full range of mental health conversations, and how well their responses align with expert guidance for each situation, beyond whether th",
       "source": "FutureTools News",
       "sourceUrl": "https://openai.com/index/introducing-mentalhealthbench/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-09-23T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Claude Discovers Novel CRISPR-Like Enzyme System in Massive DNA Database Search",
+      "summary": "We’re introducing a new life sciences research group and laboratory at Anthropic. Our focus is on fundamental biology research using Claude: exploring datasets of DNA to identify uncharacterized protein families, generating hypotheses at scale, and testing them through experiments in the lab. This post introduces the team behind this work and shares early results in which Claude discovered a novel enzyme system with properties reminiscent of CRISPR, with only high-level direction from our scientists.Many discoveries that have revolutionized biology and medicine started with a scientist noticing something odd in the staggering diversity of molecular machines found in nature. Restriction enzymes, proteins that cut DNA at specific short sequences, were found in bacterial immune systems, where they destroy the DNA of invading viruses. Researchers realized they could use these enzymes to cut DNA at chosen places and splice genes from one organism into another, which launched the biotechnology industry. Taq polymerase, an enzyme that copies DNA at high temperatures, was identified in a bacterium in a Yellowstone hot spring.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-09-23T00:00:00.000Z",
       "hot": false
@@ -1858,21 +1862,21 @@
       "hot": false
     },
     {
-      "id": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Gemini Adds Adobe, Peloton, Airtable & More via New Connected Apps",
-      "summary": "We are bringing more of your favorite apps directly into Gemini. Instead of switching between tabs, you can now manage projects, design creative assets, and plan your workouts all in one place. Beginning to roll out today, you can connect new tools to Gemini across a variety of categories: To get started, connect your favorite apps in Gemini settings, or simply bring them into your chat by typing @ mention or asking directly.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-09-23T00:00:00.000Z",
-      "hot": false
-    },
-    {
       "id": "https://blog.google/innovation-and-ai/models-and-research/google-labs/six-new-tools-built-by-creatives/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Google Flow Launches 6 Creator-Built Tools for Audio, Design & Motion Graphics",
       "summary": "We’ve been working with leaders from across three creative industries — architecture, sound design, and digital content — to understand what tools are most helpful in their work. Today we’re sharing 6 new tools they made. Director of User Experience Research, Technology & Society We understand that everyone’s needs and workflows are different, so with Google Flow Tools, you can build custom workflows simply by describing what you need. We've seen a variety of creative fields bring their work into Google Flow, from filmmaking to architecture, sound design, and digital content creation. We’ve been working with leaders from across these industries to understand what tools are most helpful in their workflows, and today we’re releasing six new tools:",
       "source": "FutureTools News",
       "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/google-labs/six-new-tools-built-by-creatives/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-09-23T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Gemini Adds Adobe, Peloton, Airtable & More via New Connected Apps",
+      "summary": "We are bringing more of your favorite apps directly into Gemini. Instead of switching between tabs, you can now manage projects, design creative assets, and plan your workouts all in one place. Beginning to roll out today, you can connect new tools to Gemini across a variety of categories: To get started, connect your favorite apps in Gemini settings, or simply bring them into your chat by typing @ mention or asking directly.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-09-23T00:00:00.000Z",
       "hot": false
@@ -1888,21 +1892,21 @@
       "hot": false
     },
     {
-      "id": "https://blog.youtube/news-and-events/made-on-youtube-new-tools-power-creation-journey/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "YouTube Studio Adds Gemini Conversational Editing, Video A/B Testing & Voice Protection",
-      "summary": "Running a YouTube channel means you aren't just a video creator. You're a researcher, an editor, a community manager, and more. At Made on YouTube, we announced a new generation of tools to help across all the dimensions of your work and ease your creation journey from start to finish. Creating videos on YouTube involves dozens of creative decisions, from brainstorming concepts to designing thumbnails. YouTube Studio is adding new tools across web and mobile to help creators at every stage of the process. New Insights and Research destinations help you understand past video performance and discover outlier videos to spark your next piece of content.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://blog.youtube/news-and-events/made-on-youtube-new-tools-power-creation-journey/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-09-23T00:00:00.000Z",
-      "hot": false
-    },
-    {
       "id": "https://blog.youtube/news-and-events/made-on-youtube-music-new-discovery-features/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "YouTube Music Adds AI \"Ask Music\" Chat Tool and Personalized Podcast Lineup Feature",
       "summary": "At this year’s Made On YouTube, we unveiled new features that bring YouTube Music app users closer to their favorite artists, songs, and podcasts: YouTube Music users discovered an artist new to them over 450 million times in July 2026, and now we’re making that even easier: we’re rolling out improvements to the YouTube Music app so you can further explore new artists and podcasts. Built directly into the YouTube Music app, Ask Music is a conversational experience across podcasts and our catalog of over 300 million songs, including official studio recordings, remixes, live performance, covers and DJ sets. With new features that let you customize your queue or dive deeper into artist lore, Ask Music makes controlling your music effortless.",
       "source": "FutureTools News",
       "sourceUrl": "https://blog.youtube/news-and-events/made-on-youtube-music-new-discovery-features/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-09-23T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://blog.youtube/news-and-events/made-on-youtube-new-tools-power-creation-journey/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "YouTube Studio Adds Gemini Conversational Editing, Video A/B Testing & Voice Protection",
+      "summary": "Running a YouTube channel means you aren't just a video creator. You're a researcher, an editor, a community manager, and more. At Made on YouTube, we announced a new generation of tools to help across all the dimensions of your work and ease your creation journey from start to finish. Creating videos on YouTube involves dozens of creative decisions, from brainstorming concepts to designing thumbnails. YouTube Studio is adding new tools across web and mobile to help creators at every stage of the process. New Insights and Research destinations help you understand past video performance and discover outlier videos to spark your next piece of content.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://blog.youtube/news-and-events/made-on-youtube-new-tools-power-creation-journey/?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-09-23T00:00:00.000Z",
       "hot": false
@@ -1926,39 +1930,6 @@
       "category": "Curation",
       "date": "2026-09-23T00:00:00.000Z",
       "hot": false
-    },
-    {
-      "id": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
-      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
-      "summary": "The Frontier Is Savings New Anthropic, OpenAI models make same promise: A little more for a lot less money The frontier AI model race has entered its comparison shopping phase. OpenAI and Anthropic both recently released new models aimed at lowering costs. Anthropic announced Opus 5.5, the latest version of its main mass-market workhorse model, used for tasks like coding and other complex knowledge work. And OpenAI announced GPT-6 Sol and Luna, the latest versions of its middle-of-the-road or smaller models focused on efficiency and speed. These new releases are not about notable new capabilities. Rather, they’re about efficiency.",
-      "source": "Ars Technica AI",
-      "sourceUrl": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
-      "category": "Industry",
-      "date": "2026-09-22T21:25:18.000Z",
-      "hot": false,
-      "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "title": "Better prompt caching for GPT-6",
-      "summary": "Higher cache hit rates and new tools to help persistent agents run faster and cost less. ShareMonitor caching and diagnose cache missesMonitor caching and diagnose cache missesOptimize caching for your applicationGet startedMonitor caching and diagnose cache missesOptimize caching for your applicationGet startedGPT‑6 enables persistent agents to work for hours on complex tasks, from refactoring codebases to producing well-researched documents and presentations. The applications behind these agents make a series of API requests that build on one another, often carrying forward the same instructions, tool definitions, and context from earlier turns. OpenAI caches that shared context to reuse computation across requests, reducing response times and giving developers discounts of up to 90% on cached input tokens. With the GPT‑6 family, OpenAI launched an improved prompt caching system that delivers higher cache hit rates by default. OpenAI now give cache discounts for eligible shared prefixes reused within a 30-minute window.",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "category": "Models",
-      "date": "2026-09-22T21:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
-      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
-      "summary": "Microsoft said Tuesday that it led an industry-wide disruption of a subscription-based scam platform that used an AI chatbot to compromise 12,000 Microsoft accounts over a few-month span. Named EvilTokens, the platform was introduced over a Telegram channel in February and charged an initial $1,500 fee and a recurring $500 charge each month after that. EvilTokens provided a single service for streamlining most steps required to compromise email accounts in large numbers. From there, the platform helped customers analyze inboxes, select targets that would provide the biggest potential payouts, and draft follow-up emails that provided realistic ruses for tricking company employees into transferring funds to attacker-controlled accounts. Minutes, not days “While EvilTokens helped cybercriminals access email accounts, at the center of the service was an AI-style chatbot that could analyze a victim’s inbox and help criminals identify trusted relationships, payment authorizations, and sensitive responsibilities, as well as other circumstances where fraud was most likely to succeed,” Microsoft said. “The platform could even recommend fraud strategies, including drafting messages that impersonated trusted contacts to help criminals trick victims into taking action.”Read full article Comments",
-      "source": "Ars Technica AI",
-      "sourceUrl": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
-      "category": "Industry",
-      "date": "2026-09-22T19:45:47.000Z",
-      "hot": false,
-      "officialUrl": "https://arstechnica.com"
     }
   ]
 }
