@@ -1,16 +1,522 @@
 {
-  "lastUpdated": "2026-09-30T13:30:50.728Z",
+  "lastUpdated": "2026-09-30T18:32:15.301Z",
   "news": [
     {
+      "id": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
+      "title": "Lawsuit demands OpenAI halt unsafe development that caused Hugging Face hack",
+      "summary": "OpenAI's hack of Hugging Face in July 2026 has spurred a lawsuit demanding that the company stop accessing third-party computer systems and halt AI development practices that can harm the public. The lawsuit was filed by Legal Advocates for Safe Science & Technology (LASST), which said yesterday that the hack in which OpenAI \"agents stole credentials, uploaded malicious files, and gained control over key parts of Hugging Face’s internal systems.. is unquestionably illegal under California law.\" California’s Comprehensive Computer Data Access and Fraud Act (CDAFA) prohibits unauthorized access into computer systems, \"and it doesn’t matter that a swarm of AI agents carried out this cyberattack. California law makes it clear that it is not a defense 'that the artificial intelligence autonomously caused the harm,'\" the group said. The lawsuit, filed in San Francisco County Superior Court, said OpenAI also violated California's Unfair Competition Law (UCL). \"OpenAI’s insistence on externalizing the harms of its unsafe decision-making is a fundamentally unfair business practice,\" the complaint said, adding that \"such risk-taking for private gain at substantial public expense is immoral, unethical, oppressive, unscrupulous, and substantially injurious conduct.\"Read full article Comments",
+      "source": "Ars Technica AI",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
+      "category": "Industry",
+      "date": "2026-09-30T18:25:04.000Z",
+      "hot": false,
+      "officialUrl": "https://arstechnica.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3172305",
+      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "summary": "The $300 million employee tender was co-led by Wellington and T.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+      "category": "Business",
+      "date": "2026-09-30T18:23:57.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+      "title": "The AI Tamagotchis are coming",
+      "summary": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're apparently betting on a similar path: testing appetite for physical hardware with their cutesy software agents. \"Hardware is hard\" is a tech industry mantra. Dedicated AI devices like the Friend and Humane AI Pin have inspired mainly frustration and backlash, which may only worsen as public anger against AI grows.",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+      "category": "Industry",
+      "date": "2026-09-30T18:07:38.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/jobless-claims-manufacturing-pmi-and-ism-data-due-thursday-93CH-4925705",
+      "title": "Jobless claims, manufacturing PMI, and ISM data due Thursday",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/jobless-claims-manufacturing-pmi-and-ism-data-due-thursday-93CH-4925705",
+      "category": "Business",
+      "date": "2026-09-30T18:00:38.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/09/30/apple-event-on-october-13/",
+      "title": "Apple Event on October 13?",
+      "summary": "Earlier this week, Daring Fireball's John Gruber floated Tuesday, October 13 as a potential date for Apple to hand out iPhone Duo review units to selected reviewers in person, and it appears that he might have been on to something. Bloomberg's Mark Gurman today reported that Apple plans to unveil its all-new smart home hub, a second-generation HomePod mini, and a new Apple TV 4K model on October 13, the same date that Gruber mentioned in his speculative piece a few days ago. In a separate post, Gruber opined that there is \"no way\" that Apple would unveil the home hub through an Apple Newsroom announcement only, given it is an all-new device with an all-new interface. \"If this is coming, it has to be unveiled with a keynote video and some sort of media event with hands-on demos,\" he said. If Gruber is right that the home hub \"has to be unveiled with a keynote video,\" that would set the stage for an online-only Apple Event that would be streamed on Apple's website and YouTube on October 13. Afterwards, Apple would likely hold a hands-on experience for the media, allowing them to demo the products that were announced.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/09/30/apple-event-on-october-13/",
+      "category": "Tech",
+      "date": "2026-09-30T17:53:35.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/spacexai-considers-fourtier-pricing-model-for-grok-and-x-users--bloomberg-4925691",
+      "title": "SpaceXAI considers four-tier pricing model for Grok and X users - Bloomberg",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/spacexai-considers-fourtier-pricing-model-for-grok-and-x-users--bloomberg-4925691",
+      "category": "Business",
+      "date": "2026-09-30T17:45:16.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3172243",
+      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+      "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+      "category": "Business",
+      "date": "2026-09-30T17:45:00.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3172200",
+      "title": "The ugly economics of consumer AI",
+      "summary": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+      "category": "Business",
+      "date": "2026-09-30T17:24:45.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+      "title": "Here’s what AI leaders are saying about Trump’s new safety plan",
+      "summary": "Who needs legally binding regulations when you can be your own AI safety judge? Who needs legally binding regulations when you can be your own AI safety judge? After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fears around AI safety being a “hoax” cooked up by Democrats no longer apply now that he’s renamed the technology to “Super Intelligence.” He brushed off concerns that the government wasn’t enforcing enough AI guardrails because US companies are “dominating China.” And instead of ushering in federal AI regulations, Trump now has “the smartest people in the world watching over each other.” The people in question here are Google’s Sundar Pichai, Anthropic’s Dario Amodei, Meta’s Mark Zuckerberg, OpenAI’s Greg Brockman, XAI’s Elon Musk, and Nvidia’s Jensen Huang.",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+      "category": "Industry",
+      "date": "2026-09-30T17:15:49.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "https://blogs.nvidia.com/?p=98499",
+      "title": "NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000",
+      "summary": "Bringing together the world’s brightest minds and the latest accelerated computing technology leads to powerful breakthroughs that help tackle some of the biggest research problems. To foster such innovation, the NVIDIA Graduate Fellowship Program provides grants, mentors and technical support to doctoral students doing outstanding research relevant to NVIDIA technologies. The program, in its 26th year, is now accepting applications worldwide. It focuses on supporting students working in AI, machine learning, autonomous vehicles, computer graphics, robotics, healthcare, high-performance computing and related fields. Awards are up to $60,000 per student. Since its start in 2002, the Graduate Fellowship Program has awarded over 220 grants worth around $8 million.",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/",
+      "category": "Events",
+      "date": "2026-09-30T17:00:21.000Z",
+      "hot": false,
+      "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
+      "id": "https://www.engadget.com/2273526/an-analogue-pocket-restock-is-coming-october-2/",
+      "title": "An Analogue Pocket restock is coming October 2",
+      "summary": "You’ll need to be quick if you want to pick up the beloved retro console. Analogue Add Engadget on Google: Preferred Source Google Discover The Analogue Pocket is approaching its fifth birthday, but the deluxe Game Boy-alike is just as hard to get hold now as it was at launch. If you've missed out on previous drops, you're about to get another chance, as Analogue has just announced that it will reopen pre-orders for the Pocket (along with the Analogue Dock) on October 2 at 11am ET. If you manage to grab a unit before they go again, expect it to be shipped in two weeks. The Pocket was last restocked in March, when the console also got hit with a tariff-related $20 price hike. Pick one up now and you'll pay $240 for the privilege.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2273526/an-analogue-pocket-restock-is-coming-october-2/",
+      "category": "Tools",
+      "date": "2026-09-30T16:59:39.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "http://feeds.fabbaloo.com/~/970819766/_/fabbaloo/default~PrintYourVehicle-Could-Eventually-Make-Real-Car-Parts-Printable",
+      "title": "PrintYourVehicle Could Eventually Make Real Car Parts Printable",
+      "summary": "There’s now a free 3D model site intended for car parts: PrintYourVehicle. The post PrintYourVehicle Could Eventually Make Real Car Parts Printable appeared on Fabbaloo.",
+      "source": "Fabbaloo",
+      "sourceUrl": "http://feeds.fabbaloo.com/~/970819766/_/fabbaloo/default~PrintYourVehicle-Could-Eventually-Make-Real-Car-Parts-Printable",
+      "category": "Tech",
+      "date": "2026-09-30T16:32:00.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.feedburner.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3172182",
+      "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+      "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+      "category": "Business",
+      "date": "2026-09-30T16:24:23.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/article/news-microsoft-copilot-home-code-autopilot/",
+      "title": "Microsoft’s New Copilot Combines Home, Code, and Autopilot: What Users Actually Get",
+      "summary": "Microsoft is redesigning Copilot around Home, Code, and Autopilot. See what each feature does, when it arrives, and which capabilities cost extra.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-microsoft-copilot-home-code-autopilot/",
+      "category": "Business",
+      "date": "2026-09-30T16:12:42.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
+      "id": "https://www.engadget.com/2273385/xboxs-disc-to-digital-feature-is-now-available-for-everyone/",
+      "title": "Xbox's disc-to-digital feature is now available for everyone",
+      "summary": "Many (if not all) Xbox Series X and Xbox One games are supported. Xbox Add Engadget on Google: Preferred Source Google Discover Back in August, Microsoft unveiled its plan to help physical game owners carry their libraries forward in an increasingly digital landscape, which is a new feature that essentially enables players to make digital copies of their physical games. Initially exclusive to Xbox Insiders, Microsoft is now rolling out its disc-to-digital licensing program to all users. As detailed in an Xbox Support post, the new feature is limited to Xbox Series X and Xbox One games. Exactly how many games in the vast combined library of both consoles' generations are supported at launch is not clear, but Microsoft says that for a number of possible reasons not all games are eligible. And right now, no Xbox 360 or original Xbox games support the new feature.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2273385/xboxs-disc-to-digital-feature-is-now-available-for-everyone/",
+      "category": "Tools",
+      "date": "2026-09-30T16:07:24.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=379728",
+      "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
+      "summary": "President Trump released a one-page AI accord signed by the heads of Google, Anthropic, Meta, OpenAI, X and Nvidia.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/379728/trump-unveils-morally-binding-ai-accord-signed-by-openai-google-and-nvidia",
+      "category": "Tech",
+      "date": "2026-09-30T16:06:03.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://www.macrumors.com/guide/apple-watch-se-3-vs-series-12?post_date=1790795115/",
+      "title": "Apple Watch SE 3 vs. Series 12 Buyer's Guide: Which Should You Buy?",
+      "summary": "The Apple Watch SE 3 starts at $249, while the Apple Watch Series 12 starts at $399. The $150 difference buys a more advanced health sensing system, a larger display, longer battery life, and more options for tracking training and recovery. The two watches still share many features, including an always-on display, wrist temperature sensing, sleep apnea notifications, retrospective ovulation estimates, 5G connectivity on cellular models, media playback, and 64GB of storage. Our guide helps to answer the question of how to decide which of these two Apple Watch models is best for you. The differences between the two models are as follows: &zwnj;Apple Watch SE 3&zwnj; Apple Watch Series 12 Same design as Apple Watch Series 4, 5, and 6 Refined design with a thinner casing, display with more rounded edges and a wider aspect ratio, and front glass that extends further over the sides for a higher screen-to-body ratio 40mm or 44mm case 42mm or 46mm case Aluminum case Aluminum, titanium, or ceramic case 40mm: 40 by 34 by 10.7mm 44mm: 44 by 38 by 10.7mm 42mm aluminum/titanium: 42 by 37 by 9.7mm 46mm aluminum/titanium: 46 by 40 by 9.7mm 42mm ceramic: 43 by 37 by 9.85mm 46mm ceramic: 47 by 41 by 9.85mm Aluminum GPS weight: 26.3 grams (40mm) or 32.9 grams (44mm) Aluminum GPS weight: 32.2 grams (42mm) or 39.5 grams (46mm) Ion-X front glass Ceramic Shield 2 front on aluminum models; sapphire crystal front on titanium and ceramic models No published IP6X rating IP6X dust resistance LTPO OL...",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/guide/apple-watch-se-3-vs-series-12/",
+      "category": "Tech",
+      "date": "2026-09-30T16:05:19.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/",
+      "title": "Google's early attempt to pay websites for AI answers is struggling",
+      "summary": "Google's shift to AI-powered search has upended the way the world's largest search engine generates web traffic, rankling large and small publishers alike. In recent months, the company has experimented with paying publishers when their content appears in AI answers, but a new report claims the payouts in this pilot program are miniscule. That has publishers in the program, as well as those watching from the sidelines, feeling skeptical. According to The Information, Google has admitted about 100 publishers to the AI contribution pilot. The pitch is that websites can get payments from Google when their content materially contributes to Gemini-powered search results like an AI Overview. Google has long resisted the idea of direct payments to publishers, arguing that websites get traffic in exchange for allowing Google bots to scrape their content for use in search and knowledge graph tools.",
+      "source": "Ars Technica AI",
+      "sourceUrl": "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/",
+      "category": "Industry",
+      "date": "2026-09-30T16:03:48.000Z",
+      "hot": false,
+      "officialUrl": "https://arstechnica.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3172181",
+      "title": "DoorDash launches an AI agent you can text to order food",
+      "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+      "category": "Business",
+      "date": "2026-09-30T16:00:24.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3164565",
+      "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+      "summary": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+      "category": "Business",
+      "date": "2026-09-30T16:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://www.engadget.com/2273319/freckles-smartphone-aims-to-get-kids-back-outside-on-their-own/",
+      "title": "Freckle's smartphone aims to get kids back outside on their own",
+      "summary": "And it could also give parents some peace of mind. Freckle Add Engadget on Google: Preferred Source Google Discover It's been nearly two decades since the iPhone debuted, and we've yet to see a truly viable smartphone option for kids. For most parents, the wisest choice is to avoid smartphones until the teenage years, or rely on a less capable device (like a cellular Apple Watch) for location tracking and emergency calls. Today, the New York City-based startup Freckle is launching an alternative option with a twist: a small smartphone for kids that will keep them connected to their parents, but also encourage them to go outside and explore the world on their own. You know, like kids used to do. The $199 Freckle smartphone (which requires a $25 a cellular subscription) looks like a small square, similar to the Rabbit R1 AI gadget.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2273319/freckles-smartphone-aims-to-get-kids-back-outside-on-their-own/",
+      "category": "Tools",
+      "date": "2026-09-30T16:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/",
+      "title": "Google figures out how to watermark AI-designed proteins",
+      "summary": "AI-based tools seem to be causing security threats on a nearly daily basis, in part because we've been slow to recognize potential threats. One area where we seem to be ahead of the game, however, is in biosecurity. As with most things biological, utility goes hand in hand with threats. We've developed increasingly sophisticated tools for designing proteins and seen some major successes, such as AI-designed enzymes that can digest plastics or block venom proteins. But these same tools could be used to make toxins or alter the behavior of viral proteins. And the software we use to identify DNA sequences that encode potentially threatening proteins doesn't pick out AI-designed proteins, since nobody has characterized them well enough to know that they're threats.",
+      "source": "Ars Technica AI",
+      "sourceUrl": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/",
+      "category": "Industry",
+      "date": "2026-09-30T15:54:52.000Z",
+      "hot": false,
+      "officialUrl": "https://arstechnica.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/09/30/ipad-mini-8-rumored-features/",
+      "title": "iPad Mini 8 to Offer These 10 New Features",
+      "summary": "Last week, our exclusive leak revealed that the next-generation iPad mini will feature Apple's latest A20 Pro chip, a landscape front camera, and a redesigned speaker system, but that is not all, as plenty of other upgrades have been rumored. Here are 10 new features and changes expected for the iPad mini 8: Apple's latest A20 Pro chip, manufactured with TSMC's advanced 2nm process. Expect up to around 1.5× faster CPU performance and up to around 2.5× faster GPU performance compared to the A17 Pro chip in the current iPad mini. A20 Pro also introduces a \"dual 16-core Neural Engine\" for a total of 32 cores. With the A20 Pro chip, the next iPad mini will have 12GB of RAM, up from 8GB of RAM in the current model. This means the device will support the ability to customize the pace and expressiveness of Siri AI's voice.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/09/30/ipad-mini-8-rumored-features/",
+      "category": "Tech",
+      "date": "2026-09-30T15:54:43.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "108370225",
+      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+      "summary": "The probe adds to the mounting scrutiny that OpenAI and Anthropic have been facing over their safety practices following the Hugging Face hack.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+      "category": "Business",
+      "date": "2026-09-30T15:54:38.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/article/news-best-ai-browsers-2026/",
+      "title": "5 Best AI Browsers for 2026: Chrome, Comet, Edge, Brave and Dia Compared",
+      "summary": "Compare five of the best AI browsers for 2026, including Chrome with Gemini, Perplexity Comet, Microsoft Edge, Brave Leo, and Dia.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-best-ai-browsers-2026/",
+      "category": "Business",
+      "date": "2026-09-30T15:49:01.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
+      "id": "108370233",
+      "title": "Nvidia is approaching a breakout level. Plus, what we want to see from Micron",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/09/30/nvidia-approaches-a-breakout-level-plus-what-we-want-to-see-from-micron.html",
+      "category": "Business",
+      "date": "2026-09-30T15:47:42.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "108369938",
+      "title": "Trump's meeting with tech leaders leaves AI safety more unsettled than ever",
+      "summary": "Following Trump's lunch with artificial intelligence leaders at the White House, the industry remains largely unchanged on AI safety.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/09/30/after-trump-meeting-with-tech-leaders-ai-safety-in-more-chaotic-state.html",
+      "category": "Business",
+      "date": "2026-09-30T15:36:20.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.engadget.com/2271706/affordable-alternatives-to-djis-osmo-pocket-4/",
+      "title": "Affordable alternatives to DJI's Osmo Pocket 4",
+      "summary": "The best options when DJI's gimbal camera is too expensive or unavailable. James Trew for Engadget Add Engadget on Google: Preferred Source Google Discover We may receive a commission on purchases made from links. DJI's Osmo Pocket 4 is a fantastic gimbal camera thanks to features like sharp and color-accurate video, awesome stabilization and generous onboard storage. If you want to buy one in the United States, though, too bad: It's not officially available due to a ban on certain DJI products. Luckily, there are other options. DJI's main rival, Insta360, has the excellent Luna Pro, which offers similar features and video quality.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2271706/affordable-alternatives-to-djis-osmo-pocket-4/",
+      "category": "Tools",
+      "date": "2026-09-30T15:30:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://www.engadget.com/2273291/nintendos-mario-kart-tour-mobile-game-is-officially-dead/",
+      "title": "Nintendo's Mario Kart Tour mobile game is officially dead",
+      "summary": "It joins other smartphone titles in the graveyard, like Miitomo, Dr. Mario World and Dragalia Lost. Nintendo Add Engadget on Google: Preferred Source Google Discover The time has come. Mario Kart Tour is officially dead. The Nintendo-made mobile game first became available all the way back in 2019 and it was a fairly good time-waster, though was riddled with numerous currencies and gacha mechanics. It was a free-to-play smartphone title.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2273291/nintendos-mario-kart-tour-mobile-game-is-officially-dead/",
+      "category": "Tools",
+      "date": "2026-09-30T15:23:57.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
+      "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
+      "summary": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at delivering on those promises — if you’re willing to trust Meta with your data and hand Muse your credit card. Since the launch, Meta’s also announced plans for a Tamagotchi-like Muse Charm device for its cuddly AI mascot. Follow along here for the latest news and updates. Meta’s Muse AI sent a YouTuber’s address to a stranger Meta expands Muse tools for small businesses. Meta Enterprise Platform will bring its Muse AI to businesses. Maybe don’t let Muse run your Facebook Marketplace account.",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
+      "category": "Industry",
+      "date": "2026-09-30T15:18:49.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "05OwYy179NxXO18FxCcaqOA",
+      "title": "When does Prime Big Deal Days start? Key dates, times, and details for October Prime Day shopping.",
+      "summary": "If you're already thinking about holiday shopping and sorting out your budget for the season, Amazon's Prime Big Deal Days sale is for you. Back for its fifth year in a row in 2026, October Prime Day is another Prime-exclusive event that falls in the sweet spot between actual Prime Day in the summer and Amazon's Black Friday event (which will be here before you know it). SEE ALSO: Try Amazon Prime for free for 30 days to get access to October Prime Day 2026 For those already antsy about their Black Friday haul this year, the October Prime Day event presents a perfect opportunity to snag a bunch of your Amazon stuff early — and at a discount. It's easy to get your wires crossed when it comes to the sale's actual kickoff, especially with so many deals already live, but we've got you covered with the full schedule, plus any other details you might need to know.What time does Prime Big Deal Days 2026 start?Considering the fall event is commonly referred to as \"October Prime Day\" (possibly more so than its legitimate name), you've probably gathered that it's in October. Amazon's Prime Big Deal Days 2026 will start on Tuesday, Oct. Let the countdown begin.The deals run for two full days, with new deals dropping as often as every five minutes throughout the event.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/when-does-october-prime-day-start",
+      "category": "Tech",
+      "date": "2026-09-30T15:12:37.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "title": "Introducing SynthID Bio",
+      "summary": "SynthID Bio is a family of watermarking methods developed specifically for synthetic biology to strengthen biosecurity and scientific integrity.",
+      "source": "DeepMind Blog",
+      "sourceUrl": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "category": "Research",
+      "date": "2026-09-30T15:03:07.000Z",
+      "hot": false,
+      "officialUrl": "https://deepmind.google"
+    },
+    {
       "id": "108369910",
-      "title": "China's inside man at the Fed, OpenAI debuts Dots, an IPO trend and more in Morning Squawk",
+      "title": "An inside man at the Fed, OpenAI debuts Dots, an IPO trend and more in Morning Squawk",
       "summary": "Here are five key things investors need to know to start the trading day.",
       "source": "CNBC Tech",
       "sourceUrl": "https://www.cnbc.com/2026/09/30/5-things-to-know-before-the-stock-market-opens.html",
       "category": "Business",
-      "date": "2026-09-30T13:16:47.000Z",
+      "date": "2026-09-30T15:01:15.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://blogs.nvidia.com/?p=98507",
+      "title": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
+      "summary": "Building on nearly a decade of co-engineering, CoreWeave has built NVIDIA compute, networking and software into a cloud purpose-built for AI that’s still returning on investment across multiple generations of deployment. Now, CoreWeave is bringing the next generation of NVIDIA infrastructure to production. At CoreWeave Fully Connected, running this week in San Francisco, CoreWeave announced availability of NVIDIA Vera Rubin NVL72 systems with Spectrum-X 102.4T Ethernet networking. Cognition, the applied AI lab behind the Devin AI software engineer, is the first customer running production workloads on Vera Rubin. CoreWeave will also offer NVIDIA Vera, the first CPU built for AI agents. In addition, CoreWeave launched CoreWeave Forge, a connected environment for training, evaluating and improving models and agents on NVIDIA accelerated computing.",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/",
+      "category": "Events",
+      "date": "2026-09-30T15:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
+      "id": "https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930",
+      "title": "This game-playing AI is the new champ at Stratego",
+      "summary": "A new AI system that excels at challenging games with hidden information could someday help human decision-makers select ideal strategies to outfox opponents in complicated situations like military maneuvers.Using advances in machine-learning, researchers from MIT, Carnegie Mellon University, New York University, and Stanford University developed an AI that defeated top-ranked human players of the board wargame Stratego by a large margin — something no AI system had been able to achieve. Stratego, a two-player game of imperfect information, in which the opponent’s piece identities remain hidden, is often used as a benchmark to test the strategic thinking abilities of powerful AI models.To build their model, the researchers combined efficient training algorithms with new techniques tailored for calculated decision-making in hidden information settings. The AI system achieved greater performance at Stratego than the next best models, while being far cheaper and less computationally demanding to train. The system also outperformed top human players in other strategic games with different rules and designs, demonstrating how it can be generalized for a variety of use-cases.The AI system could be adapted to help humans tackle many real-world problems with hidden information, such as business negotiations or cybersecurity. “In the kind of imperfect information tasks you would face in reality, you often don’t have the luxury of enumerating through all the possibilities. Having AI...",
+      "source": "MIT News ML",
+      "sourceUrl": "https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930",
+      "category": "Research",
+      "date": "2026-09-30T15:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://news.mit.edu"
+    },
+    {
+      "id": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
+      "title": "Google reportedly tests paying publishers for AI search results",
+      "summary": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information. The pilot program reportedly includes around 100 publishers and comes as Google faces scrutiny over the impact of its AI features on web traffic. Digiday first reported on the pilot program, which began less than a year ago. As part of the test, Google is reportedly paying participating publishers for how much their content contributed to AI Overviews and AI Mode in Search, as well as its Gemini chatbot. One publisher that joined the program when it first started earned over $1 milli …",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
+      "category": "Industry",
+      "date": "2026-09-30T14:51:49.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/09/30/amazon-m5-macbook-air/",
+      "title": "Amazon Takes Up to $150 Off Select M5 MacBook Air Models",
+      "summary": "Amazon today is taking up to $150 off the M5 MacBook Air, with discounts on both 13-inch and 15-inch models. These remain the best prices we've seen on the M5 MacBook Air in the wake of Apple's summertime price hikes. Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Amazon has the 16GB/1TB 13-inch MacBook Air for $1,449.00, down from $1,599.00. This one is available in Sky Blue, and it's accompanied by two discounts on the 15-inch M5 MacBook Air.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/09/30/amazon-m5-macbook-air/",
+      "category": "Tech",
+      "date": "2026-09-30T14:49:09.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
+      "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
+      "summary": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creative assistant\" that pulls in data from a user's Instagram account and offers suggestions on what to change. Using the new assistant, creators can ask open-ended questions about what's trending on Instagram, why one video worked and another didn't, or what piece of content resonated most with their audience. The tool pulls in data and metrics such as likes, views, retention on videos, and shares. Instagram says it can spot pat …",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
+      "category": "Industry",
+      "date": "2026-09-30T14:30:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3171828",
+      "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+      "summary": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will take the Disrupt Stage for “Can AI Keep Scaling?” Register",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+      "category": "Business",
+      "date": "2026-09-30T14:30:00.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://www.engadget.com/2273111/meta-introduces-a-new-ai-assistant-for-its-instagram-creators/",
+      "title": "Meta introduces a new AI assistant for its Instagram creators",
+      "summary": "The Edits assistant offers personalized guidance based on your audience and best-performing content. Meta/Engadget Add Engadget on Google: Preferred Source Google Discover It isn't hard to find AI-generated guidance for just about anything these days, but Meta thinks it has come up with the perfect solution for its extensive creator community with its new Edits assistant. ICYMI, Edits is Meta's creator-focused video editing app, which it launched last year as a rival to TikTok's CapCut. The new Edits assistant is being pitched by Meta as a highly personalized chatbot that understands each individual's audience, rather than simply offering generic and, well, slop-adjacent AI advice. In a press release, Meta said your new \"creative partner\" can analyze your insights and suggest video ideas based on previous content performance and current trends. You can ask it what videos have performed well for you recently, or for feedback on why some reels haven't resonated as much with your audience.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2273111/meta-introduces-a-new-ai-assistant-for-its-instagram-creators/",
+      "category": "Tools",
+      "date": "2026-09-30T14:30:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3172103",
+      "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+      "summary": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+      "category": "Business",
+      "date": "2026-09-30T14:27:11.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/09/30/doordash-order-through-messages-app/",
+      "title": "DoorDash Unveils AI Food Ordering Through Apple's Messages App",
+      "summary": "Customers to join a waitlist for an AI assistant that can take food orders through Apple's Messages app (via Bloomberg). The phone number used in the conversation connects the request to a customer's DoorDash account. The assistant can use previous purchases and preferences to help put together an order, then use a saved payment method at checkout. Customers can also view food photos in the chat or send a picture of their fridge for recipe ideas and suggestions for missing ingredients. The service builds on Ask DoorDash, which launched inside the DoorDash app in June. DoorDash describes the message assistant as a pilot for select U.S.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/09/30/doordash-order-through-messages-app/",
+      "category": "Tech",
+      "date": "2026-09-30T14:24:34.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "07xvuglys9qwZ9K2v12jGsi",
+      "title": "The Roborock Saros Z70 robot vacuum hits record-low price at Amazon — save $1,000",
+      "summary": "30, the Roborock Saros Z70 robot vacuum and mop is priced at $999.98 at Amazon. That's a 50% saving on the list price of $1,999.99. Opens in a new window Credit: Roboroc Roborock Saros Z70 Robot Vacuum and Mop $999.98 at Amazon $1,999.99 Save $1,000.01 Get Deal It might seem like there's never a good time to splash out on a robot vacuum — the best models are just way too expensive. But actually, there is a good time: right now, in fact.Thanks to the early October Prime Day deals already live at Amazon, you can score a premium robot vacuum for far less than list price. The sale event doesn't start until Oct. 6, but already there's a 50% price cut on a seriously high-spec robot vacuum and mop combo, the Roborock Saros Z70.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/sept-30-roborock-saros-robot-vacuum-deal",
+      "category": "Tech",
+      "date": "2026-09-30T14:15:18.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "034PMRNFRmIbsK8iLwKjXAY",
+      "title": "T-Mobile is giving away the Apple iPhone for free — how to claim",
+      "summary": "TL;DR: The iPhone 18 Pro is free when you switch and bring your number or trade in an eligible phone in any condition on an Experience Beyond plan. Opens in a new window Credit: Apple T-Mobile: Apple iPhone 17 and iPhone 18 for free Get Deal The 2026 Apple Event feels like it took place a long time ago, but the dust is still settling. Apple announced a wave of new hardware and software, headlined by its first foldable iPhone. We're still digging deep into all the new features and stylistic touches that make the iPhone iconic, but we know what you really want — deals.We know that's the priority after new models launch. With this in mind, we've lined up the best free deals this week so you can get your hands on the iPhone 18 Pro (or the iPhone 17) without actually spending anything.These are the best free iPhone deals from T-Mobile this week:iPhone 17e — free when you switch to almost any T-Mobile plan with no trade-in required.iPhone 17 — free when you bring your number on an Experience More or Experience Beyond plan (no trade-in needed)iPhone 17 Pro — free when trading in an eligible phone on an Experience Beyond plan.iPhone 18 Pro — free when you switch and bring your number or trade in an eligible phone in any condition on an Experience Beyond plan. T-Mobile will charge taxes on these free deals, as well as a $35 device connection fee.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/free-apple-iphone-deal",
+      "category": "Tech",
+      "date": "2026-09-30T14:02:29.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "108370107",
+      "title": "Robinhood unveils weekend hours, AI agents to allow users to trade nonstop",
+      "summary": "Robinhood is broadening its offerings in a bid for more active traders who may be seeking trading access beyond traditional U.S.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/09/30/robinhood-unveils-weekend-hours-ai-agents-to-allow-users-to-trade-nonstop.html",
+      "category": "Business",
+      "date": "2026-09-30T13:56:14.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/?p=4375163",
+      "title": "Google Is Replacing Gemini Gems With Skills Nov 17 — What Changes Before the Switch",
+      "summary": "Google begins moving Gemini Gems to skills Nov. 17, with changes to age eligibility, Keep Activity, files, sharing, and supported tools.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-gemini-gems-skills-migration/",
+      "category": "Business",
+      "date": "2026-09-30T13:17:23.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/article/news-openai-dots-vs-meta-muse-personal-ai/",
+      "title": "OpenAI Dots vs. Meta Muse: Two Different Visions for the Future of Personal AI",
+      "summary": "OpenAI Dots and Meta Muse reveal two approaches to personal AI as agents move beyond prompting toward ongoing work, delegation, and greater autonomy. Meta Muse: Two Different Visions for the Future of Personal AI appeared first on TechRepublic.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-openai-dots-vs-meta-muse-personal-ai/",
+      "category": "Business",
+      "date": "2026-09-30T13:12:41.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "https://www.macrumors.com/2026/09/30/apple-still-plans-to-update-larger-homepod/",
@@ -35,53 +541,9 @@
       "officialUrl": "https://www.engadget.com"
     },
     {
-      "id": "108370107",
-      "title": "Robinhood unveils weekend hours, AI agents to allow users to trade nonstop",
-      "summary": "Robinhood is broadening its offerings in a bid for more active traders who may be seeking trading access beyond traditional U.S.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/09/30/robinhood-unveils-weekend-hours-ai-agents-to-allow-users-to-trade-nonstop.html",
-      "category": "Business",
-      "date": "2026-09-30T12:59:56.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/samsung-raises-tablet-prices-with-launch-of-aifocused-galaxy-tab-s12-line-4925181",
-      "title": "Samsung raises tablet prices with launch of AI-focused Galaxy Tab S12 line",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/samsung-raises-tablet-prices-with-launch-of-aifocused-galaxy-tab-s12-line-4925181",
-      "category": "Business",
-      "date": "2026-09-30T12:50:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/oracle-shares-slip-on-unconfirmed-report-of-delays-at-wisconsin-ai-megacampus-4925179",
-      "title": "Oracle shares slip on unconfirmed report of delays at Wisconsin AI mega-campus",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/oracle-shares-slip-on-unconfirmed-report-of-delays-at-wisconsin-ai-megacampus-4925179",
-      "category": "Business",
-      "date": "2026-09-30T12:49:51.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
-      "id": "108369938",
-      "title": "Trump's meeting with tech leaders leaves AI safety more unsettled than ever",
-      "summary": "Following Trump's lunch with AI leaders at the White House, the industry remains largely unchanged on AI safety.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/09/30/after-trump-meeting-with-tech-leaders-ai-safety-in-more-chaotic-state.html",
-      "category": "Business",
-      "date": "2026-09-30T12:28:50.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
       "id": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
       "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
-      "summary": "Anyone else getting “The Last Supper” vibes from this photo taken at the White House tech gathering? | Photographer: Tierney L. Cross/The Washington Post/Bloomberg via Getty Images We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. The accord, officially titled the Joint Commitment On Frontier Responsibilities, was shared online by tech founder and presidential advisor David Sacks, and has been signed by Google's Sundar Pichai, Anthropic's Dario Amodei, Meta's Mark Zuckerberg, OpenAI's Greg Brockman, XAI's Elon Musk, and Nvidia's Jensen Huang. \"In order to build a positive future for the American people and the world, we believe every company is responsible for developing …",
+      "summary": "Anyone else getting “The Last Supper” vibes from this photo taken at the White House tech gathering? | Photographer: Tierney L. Cross/The Washington Post/Bloomberg via Getty Images We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. The accord, officially titled the Joint Commitment on Frontier Responsibilities, was shared online by tech founder and presidential adviser David Sacks, and has been signed by Google's Sundar Pichai, Anthropic's Dario Amodei, Meta's Mark Zuckerberg, OpenAI's Greg Brockman, XAI's Elon Musk, and Nvidia's Jensen Huang. Trump introduced the deal yesterday at the same time as ordering the US government to refer to AI as 'Super Intelligence' going for …",
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
       "category": "Industry",
@@ -112,15 +574,14 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "https://www.engadget.com/2272794/airbnb-is-adding-a-personalized-map-and-other-discovery-tools/",
-      "title": "Airbnb is adding a personalized map and other discovery tools",
-      "summary": "The rental service is getting more social and more AI. Airbnb Add Engadget on Google: Preferred Source Google Discover Airbnb has announced a sweeping array of product features coming to the service as part of its fall update. The platform is adding a new social angle, allowing users to see where people they know have stayed on past travels. Airbnb will let people set their own privacy preferences about whether a trip is shared with others and how much detail is provided about that journey. Connections can view each others' past and upcoming trips, while a new Travel Map lets you browse their rentals as well as the services and experiences they booked through Airbnb. The update will also let you read reviews left by your social network and add their favorites to your own wishlists.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2272794/airbnb-is-adding-a-personalized-map-and-other-discovery-tools/",
-      "category": "Tools",
+      "id": "https://elevenlabs.io/blog/tender-22bn",
+      "title": "ElevenLabs valuation increases to $22 billion fueled by enterprise demand for conversational agents",
+      "summary": "CompanyElevenLabs valuation increases to $22 billion fueled by enterprise demand for conversational agentsPublishedSep 30, 2026ListenListen to this article 0:001.0xWe recently closed a $300 million employee tender offer that values ElevenLabs at $22 billion, double ElevenLabs's valuation at ElevenLabs's Series D in February. The round was led by Wellington and T. Rowe Price, long-term institutional investors with the experience ElevenLabs's next stage of growth requires. In 2022, ElevenLabs raised ElevenLabs's first round at a $9 million valuation, which ElevenLabs announced alongside Eleven v1, ElevenLabs's first Text to Speech model, and the first model to cross the uncanny valley of speech. Four years later, as ElevenLabs reach ElevenLabs's new valuation, ElevenLabs just released two new state-of-the-art Text to Speech models.",
+      "source": "ElevenLabs Blog",
+      "sourceUrl": "https://elevenlabs.io/blog/tender-22bn",
+      "category": "Audio",
       "date": "2026-09-30T12:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
+      "hot": true
     },
     {
       "id": "https://decrypt.co/?p=379645",
@@ -188,6 +649,17 @@
       "officialUrl": "https://feeds.macrumors.com"
     },
     {
+      "id": "http://feeds.fabbaloo.com/~/970802468/_/fabbaloo/default~JPMorgan%e2%80%99s-US-Million-Shipbuilding-Investment-Could-Create-New-Opportunities-for-Additive-Manufacturing",
+      "title": "JPMorgan’s US$24 Million Shipbuilding Investment Could Create New Opportunities for Additive Manu...",
+      "summary": "Goulding and Preeti Sulibhavi explain how renewed investment in U.S. shipbuilding is laying the foundation for a stronger defense supply chain powered by advanced manufacturing and industrial 3D printing. The post JPMorgan’s US$24 Million Shipbuilding Investment Could Create New Opportunities for Additive Manufacturing appeared on Fabbaloo.",
+      "source": "Fabbaloo",
+      "sourceUrl": "http://feeds.fabbaloo.com/~/970802468/_/fabbaloo/default~JPMorgan%e2%80%99s-US-Million-Shipbuilding-Investment-Could-Create-New-Opportunities-for-Additive-Manufacturing",
+      "category": "Tech",
+      "date": "2026-09-30T11:03:00.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.feedburner.com"
+    },
+    {
       "id": "https://www.technologyreview.com/?p=1145339",
       "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research ...",
       "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions about the safety of its technology. Last week brought news of another hack, this time into Australia’s national health-care system. The Australian government says that OpenAI did not notify it of the breach until 84 days after it happened. But OpenAI insists it is not on the back foot. “I do kind of reject the premise that OpenAI is a company with visible impacts in the world and therefore OpenAI is not training safe and aligned models,” says Mark Chen, the company’s chief research officer.",
@@ -199,15 +671,15 @@
       "officialUrl": "https://www.technologyreview.com"
     },
     {
-      "id": "https://www.engadget.com/2272991/apple-pay-arrives-india/",
-      "title": "Apple Pay finally arrives in India on a limited basis",
-      "summary": "It only supports Axis Bank cards for now. Apple Add Engadget on Google: Preferred Source Google Discover Apple Pay has arrived in India, making the contactless payment service available to the world's most populated country. It took Apple over a decade since the feature's inception to be able to roll it out to the market, because it had to comply with local banking regulations. For now, however, the feature only supports Visa and MasterCard credit cards issued by Axis Bank. It still doesn't work with cards issued by other banks in the country, such as the State Bank of India and HDFC Bank. And as TechCrunch notes, it doesn't support India's local credit card network RuPay.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2272991/apple-pay-arrives-india/",
-      "category": "Tools",
-      "date": "2026-09-30T10:30:18.000Z",
+      "id": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "summary": "ShareWhat OpenAI observedWhat OpenAI observedOur assessment of attributionWhy this mattersHow OpenAI respondedWhat comes nextWhat OpenAI observedOur assessment of attributionWhy this mattersHow OpenAI respondedWhat comes nextWe recently identified and disrupted a coordinated campaign designed to extract protected reasoning from OpenAI's models, with the earliest observed activity occurring in the first week of July. This activity is consistent with adversarial distillation: the systematic and unauthorized use of one model’s outputs or reasoning to help train, reproduce, or improve another model. Protected reasoning is the model’s internal record for working through a task; extracting it can reveal information withheld from the final answer and help others reproduce the model’s capabilities. Before publishing, OpenAI investigated the scope and potential impact, deployed OpenAI's own mitigations, and shared with and took feedback from researchers and industry partners to ensure protections against this type of attack are in place. Additional mitigation and investigation work is continuing. OpenAI believe sharing what OpenAI have learned now will help the broader ecosystem strengthen its defenses.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "category": "Models",
+      "date": "2026-09-30T10:30:00.000Z",
       "hot": false,
-      "officialUrl": "https://www.engadget.com"
+      "officialUrl": "https://openai.com"
     },
     {
       "id": "108369730",
@@ -243,6 +715,17 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
+      "id": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "title": "Helping small businesses put AI to work",
+      "summary": "Partnership with America’s SBDC will expand hands-on training and local guidance, while a new report explores what small teams are accomplishing with AI. ShareTraining advisors and reaching local small businessesTraining advisors and reaching local small businessesWhat small teams are making possible with AIBuilding on practical support for small businessesTraining advisors and reaching local small businessesWhat small teams are making possible with AIBuilding on practical support for small businessesSmall businesses are built on ambition: a craft you’ve perfected, a skill to share, a better way to serve a community. But turning that ambition and expertise into a business also means finding customers, managing finances, and handling marketing, often with a small team and little time to spare. AI can extend a team’s capacity, but figuring out where to start takes time too. A trusted advisor can make that first step easier. Today, OpenAI is announcing a partnership with America’s SBDC⁠(opens in a new window)—the national network of small business development centers serving 1 million entrepreneurs each year—to help more small businesses use AI at work.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "category": "Models",
+      "date": "2026-09-30T10:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://openai.com"
+    },
+    {
       "id": "00D8GPH4FvTMFoYkxyqsmCE",
       "title": "The ultimate hands-off clean: Save $220 on the self-emptying Shark Matrix Plus 2-in-1 robot vacuum",
       "summary": "30, the Shark Matrix Plus 2-in-1 Robot Vacuum and Mop is available for $229.99 at Amazon. That's 49% off on the list price of $449.99. Opens in a new window Credit: SharkNinja Shark Matrix Plus 2-in-1 Robot Vacuum and Mop $229.99 at Amazon $449.99 Save $220 Get Deal Let me guess: You've always wanted a robot vacuum but never wanted to pay full price? The robot vacuum is a real luxury item, and not everyone has hundreds of dollars sitting around for such a purchase. Thankfully, October Prime Day is almost here — the two-day sale officially launches on Amazon on Oct. 6 — and discounts are already dropping.",
@@ -264,17 +747,6 @@
       "hot": true
     },
     {
-      "id": "https://www.engadget.com/2272978/the-us-governments-new-ai-chatbot-gives-minecrafts-end-poem-a-bureaucratic-twist/",
-      "title": "The US government's new AI chatbot gives Minecraft's end poem a bureaucratic twist",
-      "summary": "It combines all of AI's strengths including plagiarizing, lying and being unintentionally funny. Engadget Add Engadget on Google: Preferred Source Google Discover The US government's new chatbot just demonstrated AI's ability to plagiarize, lie and be unintentionally hilarious. Bluesky user @eva.computer discovered that if you type \"Play Minecraft\" into America.gov's prompt, it will give you the Minecraft End Poem, but with the words transformed into a bureaucracy-tinged remix. Then, it will deny even writing the poem. If you're not familiar with the Minecraft End Poem, it's a sweeping (some might say rambling) piece of philosophical prose meant to give the player something fun and inspiring after completing the game. and the universe said you are not alone and the universe said you are not separate from every other thing and the universe said you are the universe tasting itself, talking to itself, reading its own code and the universe said I love you because you are love.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2272978/the-us-governments-new-ai-chatbot-gives-minecrafts-end-poem-a-bureaucratic-twist/",
-      "category": "Tools",
-      "date": "2026-09-30T09:48:35.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
       "id": "05H5uZ9Xs7C6plr5Za754E0",
       "title": "The 4 best iPads of 2026: Should you buy the 2026 iPad Air with M4 chip?",
       "summary": "At this point, iPads can do (almost) anything your laptop can do thanks to iPadOS 26. Not to mention, the iPad Air with M4 just got a memory boost up to 12GB, putting it a tier above some laptops. Whether you want to stream, browse the internet, illustrate, or edit videos, you can do it on the iPad.The rapid pace of Apple's update schedule makes shopping for a tablet all the more difficult. So, we tested every model to help you find the best iPad for you.2026 iPad price increasesWith the global memory crisis, iPad pricing took a hit. Apple raised prices across the board. Here's a breakdown of the price increases.",
@@ -282,28 +754,6 @@
       "sourceUrl": "https://mashable.com/roundup/best-ipads-2026-tested",
       "category": "Tech",
       "date": "2026-09-30T09:00:43.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
-      "id": "029499RxOu1i7jgOMjTwmuj",
-      "title": "The 15 best noise-cancelling headphones deals live ahead of October Prime Day: Shop Bose, AirPods...",
-      "summary": "The best October Prime Day noise-cancelling headphones deals: Best headphones deal Bose QuietComfort headphones (2nd gen) $319 (save $40) Get Deal Best earbuds deal EarFun Air Pro 4 $62.99 (save $17) Get Deal Best mid-range headphones deal Nothing Headphone (a) $146.99 (save $52.01) Get Deal The rumors are true: another Prime Day is coming. Officially, Amazon's Prime Big Deal Days event runs from Oct. 7, but unofficially, it's already here. Amazon has dropped a ton of early deals on everything from TVs to outdoor gear to headphones. And we're trawling the pages and pages of listings to find the deals that are actually worth grabbing.If a pair of noise-canceling headphones or earbuds is on your wishlist, we've got some good news. Plenty of excellent options have already gone on sale, including the Beats Studio Pro and Powerbeats Pro 2, the AirPods Max 2 and Pro 3, and the Bose QuietComfort Ultra 2 (headphones and earbuds).",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/best-early-october-prime-day-noise-cancelling-headphones-deals-2026",
-      "category": "Tech",
-      "date": "2026-09-30T09:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
-      "id": "03q2m6ZLxh5A1PLesJF4aGo",
-      "title": "Amazons dropping deals on robot lawn mowers ahead of Prime Day: Shop Dreame, Mammotion, and more",
-      "summary": "The best early October Prime Day deals on robot lawn mowers: Best Dreame Deal Dreame LiDAR A3 AWD Pro $1,999.99 (save $1,700) Get Deal Best Roborock Deal Roborock RockNeo Robot Lawn Mower $679.99 (Save $120) Get Deal Best Mammotion Deal Mammotion LUBA 3 AWD 3000 $2,109.00 (save $990) Get Deal Best Segway Deal Segway Navimow i105N $669.00 (save $130) Get Deal While Amazon's next Prime Day event, which the retailer calls Prime Big Deal Days, doesn't officially kick off until Oct. 6, plenty of early deals have already dropped for shoppers to check out. Robot lawn mower deals are among the items that have popped up ahead of the sale, which is very helpful if you're looking for a little extra assistance around the yard before chilly winter weather arrives.Dreame, Roborock, and Mammotion are included, with a few popular models getting huge discounts. Check out some of our favorite early October Prime Day robot lawn mower deals below. Even if you don't need it for the rest of autumn, this is a great opportunity to get ahead of the game on next year's yard work.Best Dreame deal Opens in a new window Credit: Dreame DREAME LiDAR A3 AWD Pro $1,999.99 at Amazon $3,699.99 Save $1,700.00 Get Deal Why we like itThis Dreame robot lawn mower has received an astonishing discount ahead of October Prime Day, though you'll need to clip a coupon to snag it. Once you do that, its price plummets from $3,699.99 to $1,799.99.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/best-early-october-prime-day-robot-lawn-mower-deals-2026",
-      "category": "Tech",
-      "date": "2026-09-30T09:00:00.000Z",
       "hot": false,
       "officialUrl": "https://mashable.com"
     },
@@ -363,15 +813,35 @@
       "officialUrl": "https://feeds.macrumors.com"
     },
     {
-      "id": "https://www.engadget.com/2271692/ai-industry-want-use-models-legal-battle-law-assistance/",
-      "title": "The AI industry wants models to assist in legal battles, but will they help?",
-      "summary": "Companies are selling AI to lawyers faster than courts can fine them for using it. Andrew Harnik/Getty Images Add Engadget on Google: Preferred Source Google Discover So far this year, three of the four major AI labs have either launched or pitched products aimed at lawyers. Google put Gemini Enterprise for Legal into preview in late August with four of the world's biggest firms, three months after Anthropic released what is now known as Claude Legal Solutions. Elon Musk is also interested, with his SpaceXAI lab having thrown up a dedicated legal solutions page on its website. Together, it marks a push into legal services that has intensified even as lawyers continue to be fined and vilified for submitting AI filings packed with fictitious case law. In June, the Ontario Law Society Tribunal ordered lawyer Shahryar Mazaheri to pay tens of thousands of dollars for using filings drafted using Grok, which contained fake case citations.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2271692/ai-industry-want-use-models-legal-battle-law-assistance/",
-      "category": "Tools",
-      "date": "2026-09-29T23:30:00.000Z",
+      "id": "https://huggingface.co/blog/open-tts-leaderboard",
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "summary": "Hugging Face is on a journey to advance and democratize artificial intelligence through open source and open science.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/open-tts-leaderboard",
+      "category": "Research",
+      "date": "2026-09-30T00:00:00.000Z",
       "hot": false,
-      "officialUrl": "https://www.engadget.com"
+      "officialUrl": "https://huggingface.co"
+    },
+    {
+      "id": "https://runway.com/news/company-news/introducing-runway-ads?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Runway Launches Runway Ads: Autonomous AI Engine for Performance Marketing Campaigns",
+      "summary": "CreativeDevRoboticsResearchResourcesEnterprisePricingEnterprise SalesLoginTry Runway[{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Introducing Runway Ads\",\"description\":\"Runway Ads automatically generates on-brand video and image ads, publishes them to Meta, Google and TikTok, then builds the next round around what earned spend.\",\"image\":\"https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/09/092826-runwayads-blogpost-band-flank-a12dbf4e-80c0-41f0-b3e1-79471c65f728.png\",\"datePublished\":\"2026-09-30T18:32:00.000Z\",\"dateModified\":\"2026-09-30T18:32:00.000Z\",\"author\":{\"@type\":\"Person\",\"name\":\"Runway\"},\"publisher\":{\"@id\":\"https://runway.com/#organization\"},\"url\":\"https://runway.com/news/company-news/introducing-runway-ads\",\"keywords\":\"Runway Ads, performance marketing, AI ad generation, AI video ads, ad creative automation, creative testing, ad localization, paid social, Meta ads, Google ads, TikTok ads, Runway Agent, generative AI advertising\"},{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@id\":\"https://runway.com\",\"name\":\"Home\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@id\":\"https://runway.com/news\",\"name\":\"News\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"name\":\"Introducing Runway Ads\"}}]}]News/Company NewsIntroducing Runway AdsSeptember 30, 2026by RunwayAn autonomous engine for performance marketing. Today, we're announcing Runway Ads, a new product that runs and optimizes",
+      "source": "FutureTools News",
+      "sourceUrl": "https://runway.com/news/company-news/introducing-runway-ads?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-09-30T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Instagram Adds AI Creative Assistant to Edits App for Creator Content Optimization",
+      "summary": "What happens when platforms tell everyone how to optimize their content? What happens when platforms tell everyone how to optimize their content? Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI “creative assistant” that pulls in data from a user’s Instagram account and offers suggestions on what to change. Using the new assistant, creators can ask open-ended questions about what’s trending on Instagram, why one video worked and another didn’t, or what piece of content resonated most with their audience. The tool pulls in data and metrics such as likes, views, retention on videos, and shares.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-09-30T00:00:00.000Z",
+      "hot": false
     },
     {
       "id": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
@@ -599,39 +1069,6 @@
       "officialUrl": "https://decrypt.co"
     },
     {
-      "id": "https://www.macrumors.com/2026/09/29/apple-releases-new-airpods-beta-firmware-september/",
-      "title": "Apple Releases New AirPods Beta Firmware",
-      "summary": "Apple today released new beta firmware for the AirPods Pro 2, AirPods Pro 3, AirPods 4, AirPods 5, and AirPods Max 2. The firmware has a build number of 9B5042a and is rolling out for developers and public beta testers. There's no word on what's included in the firmware update because Apple doesn't offer notes for AirPods beta releases. When the AirPods are connected to an iPhone, iPad, or Mac running iOS 26, iPadOS 26, or macOS 26 or later, there is a beta firmware option that can be accessed in the AirPods settings interface. Toggling on beta updates allows users to install the beta firmware. Firmware updates can then be downloaded by connecting the AirPods to an Apple device and connecting them to power.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/09/29/apple-releases-new-airpods-beta-firmware-september/",
-      "category": "Tech",
-      "date": "2026-09-29T18:38:03.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3171020",
-      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-      "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-      "category": "Business",
-      "date": "2026-09-29T18:35:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=379575",
-      "title": "Crypto ETFs Surge as Bitcoin Funds Add $2.95 Billion in 30 Days",
-      "summary": "Bitcoin ETFs extended their inflow streak to eight straight days on Monday, bouncing back from the Clarity Act sell-off.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/379575/crypto-etfs-surge-bitcoin-adds-nearly-3-billion",
-      "category": "Tech",
-      "date": "2026-09-29T18:18:33.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
       "id": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
       "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
       "summary": "Last week, when Australian Prime Minister Anthony Albanese told the world that an OpenAI agent had accessed \"non-public files\" from his country's Medicare statistics portal during testing, his description of the incident was a little light on details. Today, we're getting new information on just how far OpenAI's overzealous agent went in attempting to satisfy a rather innocuous-sounding informational prompt. In a newly published blog post, OpenAI says the June incident started when the company asked \"an experimental, internal-only OpenAI model\" to research government spending statistics in the Australian state of Victoria. When the model ran into trouble finding that data using the publicly published statistics that it was supposed to reference, \"it took actions that we had not authorized it to take\" to find an answer, OpenAI said. Those unauthorized actions included finding \"a way to gain non-public access to the service\" and using that access to view \"technical system information and source code\" alongside credentials and the aggregate statistics it was actually searching for, OpenAI said.Read full article Comments",
@@ -654,28 +1091,6 @@
       "officialUrl": "https://www.wired.com"
     },
     {
-      "id": "https://www.macrumors.com/2026/09/29/apple-creator-studio-new-features/",
-      "title": "Apple Creator Studio and Final Cut Camera Get New Features",
-      "summary": "Apple today updated Apple Creator Studio and Final Cut Camera for iOS to add new features. Final Cut Camera, Apple's professional iPhone filming app, now supports the variable aperture feature on the iPhone 18 Pro. Users can tweak aperture and select between aperture priority and shutter priority modes, plus there's support for Cinematic mode effects for video. Apple says the app was also redesigned from the ground up to give creators easy access to pro settings like shutter angle, ISO, and white balance. There are customizable overlays with false color and clipping indicators for exposure and improved focus peaking with sensitivity control. A tally light activates when recording is happening, and there's a two-finger tap gesture for clearing the viewfinder to focus on the shot.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/09/29/apple-creator-studio-new-features/",
-      "category": "Tech",
-      "date": "2026-09-29T17:57:56.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3171280",
-      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-      "summary": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
-      "category": "Business",
-      "date": "2026-09-29T17:45:51.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
       "id": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
       "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
       "summary": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI researchers, including current and former employees at OpenAI, Google, and Anthropic. Palisade Research, which says it's a nonprofit studying AIs' capabilities and motivations, collected and launched the interviews on frominside.ai. Several of the researchers joined Irving in warning about the possibility AI could drive humans extinct. Neel Nanda, a Google DeepMind research scientist, said there's \"at least a 10 percent chance that it causes human e …",
@@ -685,28 +1100,6 @@
       "date": "2026-09-29T17:35:03.000Z",
       "hot": false,
       "officialUrl": "https://www.theverge.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/09/29/apple-explains-why-it-removed-ice-tracking-apps/",
-      "title": "Apple Explains Why It Removed ICE Tracking Apps Last Year",
-      "summary": "In a July 2026 letter addressed to U.S. Representative Jamie Raskin (D-MD), Apple said its decision to remove ICEBlock and similar apps that crowdsourced the real-time locations of U.S. Immigration and Customs Enforcement (ICE) agents from the App Store was \"prompted by concerns\" about \"agent safety,\" according to CNN's Clare Duffy. The report said the app removals were \"prompted by concerns — including those raised by the Trump administration — about agent safety following a fatal shooting that left two detainees dead at a Dallas Immigration and Customs Enforcement office.\" Apple removed ICEBlock from the App Store in October 2025, leading Raskin to launch an investigation into the U.S. Justice Department's apparent role in the removal of the apps from the App Store and Google's Play Store, the report said. Apple's letter responding to Raskin had not previously been reported, according to CNN.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/09/29/apple-explains-why-it-removed-ice-tracking-apps/",
-      "category": "Tech",
-      "date": "2026-09-29T17:33:49.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=379561",
-      "title": "BBC Director-General Deems AI-Generated Doctor Who Episode 'Pretty Good'",
-      "summary": "Matt Brittin, who joined the BBC from Google, argued that \"not all creativity is bad,\" while noting that the technology won't replace humans.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/379561/bbc-director-general-ai-generated-doctor-who-pretty-good",
-      "category": "Tech",
-      "date": "2026-09-29T17:31:04.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
     },
     {
       "id": "108369387",
@@ -720,78 +1113,6 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
-      "id": "https://techcrunch.com/?p=3171437",
-      "title": "AI-powered app maker Wabi pivots to a messaging experience",
-      "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
-      "category": "Business",
-      "date": "2026-09-29T17:20:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3171209",
-      "title": "OpenAI launches Dots, its bubbly agentic avatar",
-      "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-      "category": "Business",
-      "date": "2026-09-29T17:17:15.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-      "title": "OpenAI launches Dots, its Muse competitor",
-      "summary": "Like Muse, OpenAI’s Dots are represented by cute, customizable avatars. | Image: OpenAI OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connected apps in the background while learning your preferences over time. The company's capable GPT-6 Astra model powers Dots, which use their own cloud computer to access a web browser and more than 4,000 supported apps. You can interact with a Dot through a text-message-like interface that's similar to the one offered by Muse, as well as hop on a voice call with it from ChatGPT on the web, desktop, or mobile. Dots ca …",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-      "category": "Industry",
-      "date": "2026-09-29T17:15:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com",
-      "relatedCoverage": [
-        {
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/09/29/openai-launches-dots/"
-        }
-      ]
-    },
-    {
-      "id": "https://techcrunch.com/?p=3171268",
-      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-      "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
-      "category": "Business",
-      "date": "2026-09-29T17:15:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3171312",
-      "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
-      "summary": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
-      "category": "Business",
-      "date": "2026-09-29T17:15:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3171292",
-      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-      "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
-      "category": "Business",
-      "date": "2026-09-29T17:15:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
       "id": "6abbc49d41517308a6383d32",
       "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
       "summary": "Courtesy of OpenAI Dots are OpenAI’s new always-on AI agents, announced at the company’s DevDay 2026 event on Tuesday in San Francisco. These agents complete tasks on a user’s behalf and are depicted as cute blobs you can personalize and assign multistep projects to complete. OpenAI’s Dots are powered by the startup’s GPT-6 Astra model. A core selling point is their “always-on” design—unlike a single-turn chatbot experience, these agents constantly crawl the web and attempt to complete whatever task you assign to them. Dots also pull context from connected apps and  about your preferences over time. In one demo example shared by OpenAI, a user’s Dot helps plan dinner.",
@@ -800,40 +1121,13 @@
       "category": "Industry",
       "date": "2026-09-29T17:15:00.000Z",
       "hot": false,
-      "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/09/29/amazon-779-99-apple-watch-ultra-4/",
-      "title": "Amazon Expands $779.99 Apple Watch Ultra 4 Deal to More Models",
-      "summary": "The new Apple Watch Ultra 4 just launched this month, and Amazon is offering the first cash discounts on select models. You can get the Apple Watch Ultra 4 for $779.99, down from $799.00. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. There are three Ultra 4 models that are on sale at this price, including the Natural model with Sand Trail Loop (M/L), the Black model with Black Ocean Band, and the Black model with Burgundy Trail Loop (M/L). These are the lowest prices we've tracked on the brand new Apple Watch Ultra 4.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/09/29/amazon-779-99-apple-watch-ultra-4/",
-      "category": "Tech",
-      "date": "2026-09-29T17:13:30.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
-      "title": "Protesters gather at OpenAI’s DevDay",
-      "summary": "Data centers, ICE contracts, and more were under fire at a rally around the event. Data centers, ICE contracts, and more were under fire at a rally around the event. On Tuesday, OpenAI’s annual DevDay event began with protests, flyers, and chants. “Sam Altman, get off it, put people over profit,” said a group of protesters marching in a circle in front of a series of signs that spelled out “PEOPLE OVER PROFIT.” More than a dozen organizations came together to sponsor a rally outside the entrance to the event venue at San Francisco’s Fort Mason, including Bay Resistance, Tech Workers Coalition, Service Employees International Union, San Francisco Rising, and the San Francisco Labor Council. A large orange sign read “Drop the ICE contract.” Multiple people dressed in cardboard robot costumes waved cardboard scythes around.",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
-      "category": "Industry",
-      "date": "2026-09-29T17:12:27.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3171428",
-      "title": "Can a chatbot fix the government maze? The White House is about to find out",
-      "summary": "America.gov is intended to simplify the process of navigating government bureaucracy, but large language models are imperfect and remain prone to hallucinations, which could cause new issues.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
-      "category": "Business",
-      "date": "2026-09-29T16:55:56.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
+      "officialUrl": "https://www.wired.com",
+      "relatedCoverage": [
+        {
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/09/29/openai-launches-dots/"
+        }
+      ]
     },
     {
       "id": "108369361",
@@ -847,17 +1141,6 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
-      "title": "OpenAI DevDay 2026: The biggest news and announcements",
-      "summary": "It’s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, and during a live keynote featuring CEO Sam Altman, it revealed several notable updates, including Dots, its AI agent product that rivals Meta’s recently-launched Muse. The company also revealed its GPT-6.1 Sol model, said that ChatGPT now has 1.2 billion users per week, and announced a new ChatGPT Pro plan that costs $500 per month. DevDay is happening at a tumultuous moment for OpenAI. The AI industry has been rocked by revelations of agents hacking outside companies, including OpenAI’s own models, which breached Hugging Face earlier this year. The hacks kicked off a broader conversation about a potential AI development slowdown.",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
-      "category": "Industry",
-      "date": "2026-09-29T16:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
       "id": "https://huggingface.co/blog/nvidia/kumo-tabular",
       "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
       "summary": "",
@@ -867,17 +1150,6 @@
       "date": "2026-09-29T15:30:38.000Z",
       "hot": false,
       "officialUrl": "https://huggingface.co"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3171272",
-      "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
-      "summary": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
-      "category": "Business",
-      "date": "2026-09-29T15:12:07.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
     },
     {
       "id": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
@@ -902,28 +1174,6 @@
       "officialUrl": "https://arstechnica.com"
     },
     {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
-      "title": "Meta’s Muse AI sent a YouTuber’s address to a stranger",
-      "summary": "Here’s what led to the viral post about AI mismanaging deals on Facebook Marketplace. Here’s what led to the viral post about AI mismanaging deals on Facebook Marketplace. Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his Facebook Marketplace account. That’s despite Meta placing great emphasis on the security features of Muse when it launched the personal AI agent earlier this month as it tries to catch up with competing AI providers like Anthropic and OpenAI. “Just found out it told people my address and agreed a lowball price and then they showed up without it even telling me until late tonight that it messed up,” Robb said on Threads, providing a screenshot of Muse’s admission. “[Muse] didn’t tell me any of this until after the guy had left (luckily I’m in an apartment with security),” he added in a follow up post.",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
-      "category": "Industry",
-      "date": "2026-09-29T14:08:21.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3171204",
-      "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
-      "summary": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food, and style preferences, how you like to spend their time, and with whom.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
-      "category": "Business",
-      "date": "2026-09-29T13:53:01.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
       "id": "108369272",
       "title": "House Speaker Johnson says he hopes AI guardrails are 'voluntary' amid Congress inaction",
       "summary": "House Speaker Mike Johnson is scheduled for lunch Tuesday with President Trump and AI industry executives.",
@@ -931,17 +1181,6 @@
       "sourceUrl": "https://www.cnbc.com/2026/09/29/ai-safety-regulation-mike-johnson-congress.html",
       "category": "Business",
       "date": "2026-09-29T13:37:49.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "108368901",
-      "title": "Nvidia's record buyback shows chipmaker's stock is too cheap for CEO Huang to resist",
-      "summary": "Nvidia is looking to spend hundreds of billions of dollars buying its stock at a time when it's historically cheap based on earnings expectations.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/09/29/nvidia-buyback-shows-chipmaker-stock-is-too-cheap-for-huang-to-resist.html",
-      "category": "Business",
-      "date": "2026-09-29T13:09:30.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
     },
@@ -979,17 +1218,6 @@
       "officialUrl": "https://arstechnica.com"
     },
     {
-      "id": "108369015",
-      "title": "Trump meets with AI execs, Treasury yields pressure stocks, Alaska's luxury push and more in Morn...",
-      "summary": "Here are five key things investors need to know to start the trading day.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/09/29/5-things-to-know-before-the-stock-market-opens.html",
-      "category": "Business",
-      "date": "2026-09-29T12:31:16.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
       "id": "https://www.techrepublic.com/?p=4361885",
       "title": "This $15 Claude AI Course Is Built for Work, Not Just Prompts",
       "summary": "This eDegree covers Claude prompting, automation, integrations, and coding for practical business use.",
@@ -999,17 +1227,6 @@
       "date": "2026-09-29T12:00:33.000Z",
       "hot": false,
       "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
-      "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
-      "summary": "As President Donald Trump prepares to meet tech and AI CEOs in Washington, Rep. Ro Khanna (D-CA) is calling for a treaty between the US and China to keep AI from wreaking havoc on the world. But wrangling leaders in both countries to take action could be a long shot. In letters shared exclusively with The Verge, Khanna - the top Democrat on the House Select Committee on China and a possible presidential contender - asked a US intelligence agency and Chinese AI companies whether they would be prepared for an incident like OpenAI agents' hack of Hugging Face this summer. The companies included DeepSeek, Alibaba, and Moonshot AI, all of which …",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
-      "category": "Industry",
-      "date": "2026-09-29T12:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
     },
     {
       "id": "https://www.techrepublic.com/article/news-openai-o-always-on-assistant/",
@@ -1042,7 +1259,13 @@
       "category": "Industry",
       "date": "2026-09-29T10:36:22.000Z",
       "hot": false,
-      "officialUrl": "https://www.wired.com"
+      "officialUrl": "https://www.wired.com",
+      "relatedCoverage": [
+        {
+          "source": "Ars Technica AI",
+          "url": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/"
+        }
+      ]
     },
     {
       "id": "6ab58f0f3ed5f7e510d97cc6",
@@ -1122,6 +1345,42 @@
       "officialUrl": "https://openai.com"
     },
     {
+      "id": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Trump Signs Executive Order Renaming \"AI\" to \"Super Intelligence\" Across US Government",
+      "summary": "‘The word super is the best word of all,’ Trump says. ‘The word super is the best word of all,’ Trump says. The US executive branch is no longer acknowledging the existence of “artificial intelligence.” Going forward, official policy websites, policy documents, and press releases will refer only to “Super Intelligence,” thanks to a new executive order signed by President Donald Trump. “The word super is the best word of all, and it’s the simplest,” Trump said at an event announcing the launch of America.gov earlier on Tuesday, and said Chinese President Xi Jinping, who visited the White House last week, “loves it” too. “We don’t want to hear artificial. Because it’s not artificial.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-09-29T00:00:00.000Z",
+      "hot": false,
+      "relatedCoverage": [
+        {
+          "source": "TechRepublic AI",
+          "url": "https://www.techrepublic.com/article/news-trump-super-intelligence-ai-executive-order/"
+        }
+      ]
+    },
+    {
+      "id": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "xAI's dot.com Redirects to Grok Ahead of OpenAI's 'Dots' Agent Launch",
+      "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-09-29T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://x.com/OpenAIDevs/status/2105003318917697873?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "OpenAI Launches Decisions API Powered by GPT-6 Luna for Real-Time App Decision-Making",
+      "summary": "Give your app real-time decision-making with Decisions API, powered by GPT-6 Luna. Define questions and possible answers to classify content, route requests, or choose an agent’s next action. Available in limited preview.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://x.com/OpenAIDevs/status/2105003318917697873?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-09-29T00:00:00.000Z",
+      "hot": false
+    },
+    {
       "id": "https://openai.com/index/introducing-dots/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "OpenAI Introduces DoTs: Specialized Tiny Networks That Adapt Large AI Models Efficiently",
       "summary": "(opens in a new window)Contact salesLoading…ShareDots can work on their ownDots can work on their ownDots are an extension of youDots work where you workYou’re always in controlBuilt-in safeguardsAccess and permissionsAction review and approvalsSpecialist dots for your organizationBringing specialist dots to Microsoft Agent 365Get started with dotsDots can work on their ownDots are an extension of youDots work where you workYou’re always in controlBuilt-in safeguardsAccess and permissionsAction review and approvalsSpecialist dots for your organizationBringing specialist dots to Microsoft Agent 365Get started with dotsDots are remarkably capable, always-on agents built to handle everything. They’re a whole new way to work with AI—one that gets to know what matters to you, is always working on your behalf, and takes important work off your plate so you get more of your time and attention back. Dots are frontier intelligence that have your back. Powered by GPT‑6 Astra, they have their own cloud computer, learn from feedback over time, and can work towards your goals 24/7. Through our ecosystem of plugins, they can readily connect to over 4,000 apps, giving them the tools to help wherever you need them. Your dot is always within reach, whether it is through ChatGPT, Slack, or Teams.",
@@ -1130,6 +1389,26 @@
       "category": "Curation",
       "date": "2026-09-29T00:00:00.000Z",
       "hot": true
+    },
+    {
+      "id": "https://help.openai.com/en/articles/20001410-sign-in-with-chatgpt?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "OpenAI Launches \"Sign in with ChatGPT\" for Airtable, GitLab, Notion & More",
+      "summary": "Learn how Sign in with ChatGPT lets you use your ChatGPT identity to access supported external applications. Sign in with ChatGPT is an identity-provider sign-in option that lets you use identity information from your ChatGPT account to create, link, or access an account with a supported external application. You can use it when signing in on a participating partner site or, where supported, when connecting an app from the ChatGPT plugin directory. When available, select Sign in with ChatGPT or Continue with ChatGPT. Sign in with ChatGPT is available globally to authenticated ChatGPT users, including users in Enterprise organizations. It is available on OpenAI Academy and ChatGPT Sites and is rolling out across select plugins and partner sites.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://help.openai.com/en/articles/20001410-sign-in-with-chatgpt?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-09-29T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "GLM-5.3 Builds Cyberexploits With Safeguards Easily Bypassed, Anthropic Warns",
+      "summary": "Andrew Fasano, Marius FleischerCole McFaul, Robert Xiao, Tripp Gallagher Five months ago, we announced Claude Mythos Preview, the first AI model that could autonomously build sophisticated, end-to-end cyber exploits. The rapid rate of improvement in AI suggested to us that this ability would eventually proliferate to many other models, making it much easier for malicious cyber actors to launch highly impactful cyberattacks. In light of these considerations, we chose to release Claude Mythos Preview in a limited way, through Project Glasswing—which enabled trusted cyber defenders to find more than 10,000 vulnerabilities in critical software, giving them a head start before malicious actors had access to similarly capable models. But those models have now arrived. In this post, we share our analysis of GLM-5.3, the latest AI model developed by Zhipu AI (known outside of China as Z.ai).",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-09-29T00:00:00.000Z",
+      "hot": false
     },
     {
       "id": "000001a0-ea4d-d2df-a1f4-ffcf59c80000",
@@ -1187,22 +1466,22 @@
       "officialUrl": "https://www.techrepublic.com"
     },
     {
-      "id": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "title": "Towards safety cases for frontier AI training",
-      "summary": "Investigations of misalignment incidents1. Investigations of misalignment incidentsWe believe OpenAI is entering a new era in which structured safety documentation should be required before continuing any frontier reinforcement learning training run. Ideally, such documentation would rise to the level of “safety cases”—comprehensive, structured, evidence-based arguments about risk which are used in other safety-critical industries. OpenAI treat safety cases as an aspirational north star OpenAI is building towards, while acknowledging the challenges of making them as rigorous for AI models as for aviation or nuclear power, due to the emergent complexity at each new level of AI capability. OpenAI is working on a framework to codify these practices. Below are some initial guidelines that OpenAI think should be part of such safety cases for frontier AI training.",
+      "id": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "title": "How we will do better for Australia",
+      "summary": "ShareWhen OpenAI became aware and how OpenAI responded to this incidentWhen OpenAI became aware and how OpenAI responded to this incidentWhat happened with Services Australia Medicare Statistics Reporting ServiceWhat OpenAI is changingRebuilding trust with AustraliansWhen OpenAI became aware and how OpenAI responded to this incidentWhat happened with Services Australia Medicare Statistics Reporting ServiceWhat OpenAI is changingRebuilding trust with AustraliansIn June, during internal training and evaluation OpenAI's models accessed Australian government websites in ways they were not authorised to. OpenAI also should have handled OpenAI's response better. OpenAI is sorry and working to do better in the future. In this post, OpenAI is setting out what OpenAI know, what OpenAI have changed, and what OpenAI will do to rebuild trust with the Australian people. This is a new kind of cyber incident which represents an emerging global challenge. One of the ways OpenAI intend to take accountability for the situation is to be intentional in working with Australia to help develop practical approaches to how AI developers and governments identify, disclose, and respond to AI cyber behaviour, whether malicious or unintentional.",
       "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "sourceUrl": "https://openai.com/index/how-we-will-do-better-for-australia",
       "category": "Models",
       "date": "2026-09-28T19:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
     },
     {
-      "id": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "title": "How we will do better for Australia",
-      "summary": "ShareWhen OpenAI became aware and how OpenAI responded to this incidentWhen OpenAI became aware and how OpenAI responded to this incidentWhat happened with Services Australia Medicare Statistics Reporting ServiceWhat OpenAI is changingRebuilding trust with AustraliansWhen OpenAI became aware and how OpenAI responded to this incidentWhat happened with Services Australia Medicare Statistics Reporting ServiceWhat OpenAI is changingRebuilding trust with AustraliansIn June, during internal training and evaluation OpenAI's models accessed Australian government websites in ways they were not authorised to. OpenAI also should have handled OpenAI's response better. OpenAI is sorry and working to do better in the future. In this post, OpenAI is setting out what OpenAI know, what OpenAI have changed, and what OpenAI will do to rebuild trust with the Australian people. This is a new kind of cyber incident which represents an emerging global challenge. One of the ways OpenAI intend to take accountability for the situation is to be intentional in working with Australia to help develop practical approaches to how AI developers and governments identify, disclose, and respond to AI cyber behaviour, whether malicious or unintentional.",
+      "id": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "title": "Towards safety cases for frontier AI training",
+      "summary": "Investigations of misalignment incidents1. Investigations of misalignment incidentsWe believe OpenAI is entering a new era in which structured safety documentation should be required before continuing any frontier reinforcement learning training run. Ideally, such documentation would rise to the level of “safety cases”—comprehensive, structured, evidence-based arguments about risk which are used in other safety-critical industries. OpenAI treat safety cases as an aspirational north star OpenAI is building towards, while acknowledging the challenges of making them as rigorous for AI models as for aviation or nuclear power, due to the emergent complexity at each new level of AI capability. OpenAI is working on a framework to codify these practices. Below are some initial guidelines that OpenAI think should be part of such safety cases for frontier AI training.",
       "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "sourceUrl": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
       "category": "Models",
       "date": "2026-09-28T19:00:00.000Z",
       "hot": false,
@@ -1360,17 +1639,6 @@
       "officialUrl": "https://huggingface.co"
     },
     {
-      "id": "https://www.techrepublic.com/?p=4374747",
-      "title": "ADB Raises Southeast Asia Growth Forecast as AI Boom Builds, but Gains Are Uneven",
-      "summary": "ADB lifted Southeast Asia’s growth outlook as AI-linked investment expands, but infrastructure, skills, and costs are creating uneven gains.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-ai-growth-apac-southeast-asia/",
-      "category": "Business",
-      "date": "2026-09-28T09:32:06.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
       "id": "6ab31bb92fcd03deb22ef552",
       "title": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
       "summary": "From Suno composing uncanny elevator music to Tilly Norwood delivering customer-service-inflected one-liners, artificial intelligence has rattled creative industries. You can add math to the list after OpenAI said that, using thousands of agents, it had solved a decades-old puzzle known as the Navier-Stokes existence and smoothness problem. “The artists and the musicians have already gone through this,” says Juspreet Singh Sandhu, a mathematician at Colorado State University. Despite what timed high school exams might have you believe, mathematicians aren’t focused on getting the right answer as fast as possible. In fact, contrary to math’s image as a practical subject, the development of new mathematical ideas often resembles artistic exploration, akin to inventing a game or puzzle. Mathematicians typically follow a thoughtful, deliberate process to develop their ideas.",
@@ -1459,6 +1727,16 @@
       "officialUrl": "https://aiweekly.co"
     },
     {
+      "id": "https://drfeifei.substack.com/p/worldlabs-joining-amd?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "World Labs Acquired by AMD, Fei-Fei Li Joins as EVP and Chief Scientist",
+      "summary": "AMD has acquired World Labs, the spatial AI startup founded by Stanford AI pioneer Fei-Fei Li in 2024. Li will join AMD as Executive Vice President and Chief Scientist, working directly with CEO Lisa Su. World Labs developed Atlas, a novel omni-model architecture that predicts new camera views from 2D images, effectively solving sparse reconstruction in computer vision. The acquisition aims to combine World Labs' foundation models with AMD's hardware ecosystem to advance spatial intelligence for robotics, drug discovery, and creative applications.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://drfeifei.substack.com/p/worldlabs-joining-amd?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-09-28T00:00:00.000Z",
+      "hot": false
+    },
+    {
       "id": "https://x.ai/news/team-bots?utm_source=futuretools.io&utm_medium=newspage",
       "title": "xAI Launches Grok Team Bots: Shared AI Coworkers That Learn Your Team's Workflow",
       "summary": "Give a Grok Bot the files, apps, and expertise it needs, then share it so your whole team can work from the same context.",
@@ -1501,9 +1779,19 @@
     {
       "id": "https://x.com/gilgNYC/status/2104583942728822998?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Shopify Launches WebMCP Checkout Support for AI Browser Agents via Shop Pay",
-      "summary": "@gilgNYCShopping with an agent shouldn’t feel like watching paint dry. 🥱 Today, we’re launching WebMCP support for checkout, including Shop Pay, for all eligible Shopify merchants. Learn how it works, where UCP fits, and what the data shows: Browser agents now shop and check out faster on Shopify using WebMCPGil4017142105/*! tailwindcss v4.3.3 | MIT License | https://tailwindcss.com */ @layer properties{@supports (((-webkit-hyphens:none)) and (not (margin-trim:inline))) or ((-moz-orient:inline) and (not (color:rgb(from red r g b)))){*,:before,:after,::backdrop{--tw-border-spacing-x:0;--tw-border-spacing-y:0;--tw-translate-x:0;--tw-translate-y:0;--tw-translate-z:0;--tw-rotate-x:initial;--tw-rotate-y:initial;--tw-rotate-z:initial;--tw-skew-x:initial;--tw-skew-y:initial;--tw-border-style:solid;--tw-leading:initial;--tw-font-weight:initial;--tw-outline-style:solid;--tw-duration:initial}}}@layer utilities{.pointer-events-none{pointer-events:none}.sr-only{clip-path:inset(50%);white-space:nowrap;border-width:0;width:1px;height:1px;margin:-1px;padding:0;position:absolute;overflow:hidden}.absolute{position:absolute}.fixed{position:fixed}.relative{position:relative}.static{position:static}.sticky{position:sticky}.inset-0{inset:0}.inset-x-0{inset-inline:0}.inset-x-16{inset-inline:calc(var(--spacing,.25rem) * 16)}.inset-s-3,.start-3{inset-inline-start:calc(var(--spacing,.25rem) * 3)}.end-2{inset-inline-end:calc(var(--spacing,.25rem) * 2)}.end-3{inset-inline-end:calc(var(--spacing,.25rem",
+      "summary": "@gilgNYCShopping with an agent shouldn’t feel like watching paint dry. 🥱 Today, we’re launching WebMCP support for checkout, including Shop Pay, for all eligible Shopify merchants. Learn how it works, where UCP fits, and what the data shows: Browser agents now shop and check out faster on Shopify using WebMCP4317143105/*! tailwindcss v4.3.3 | MIT License | https://tailwindcss.com */ @layer properties{@supports (((-webkit-hyphens:none)) and (not (margin-trim:inline))) or ((-moz-orient:inline) and (not (color:rgb(from red r g b)))){*,:before,:after,::backdrop{--tw-border-spacing-x:0;--tw-border-spacing-y:0;--tw-translate-x:0;--tw-translate-y:0;--tw-translate-z:0;--tw-rotate-x:initial;--tw-rotate-y:initial;--tw-rotate-z:initial;--tw-skew-x:initial;--tw-skew-y:initial;--tw-border-style:solid;--tw-leading:initial;--tw-font-weight:initial;--tw-outline-style:solid;--tw-duration:initial}}}@layer utilities{.pointer-events-none{pointer-events:none}.absolute{position:absolute}.fixed{position:fixed}.relative{position:relative}.static{position:static}.sticky{position:sticky}.inset-0{inset:0}.inset-x-0{inset-inline:0}.inset-x-16{inset-inline:calc(var(--spacing,.25rem) * 16)}.inset-s-3,.start-3{inset-inline-start:calc(var(--spacing,.25rem) * 3)}.end-2{inset-inline-end:calc(var(--spacing,.25rem) * 2)}.end-3{inset-inline-end:calc(var(--spacing,.25rem) * 3)}.top-0{top:0}.top-2{top:calc(var(--spacing,.25rem) * 2)}.top-2\\.5{top:calc(var(--spacing,.25rem) * 2.5)}.top-3{top:calc(var(--spacing,.25",
       "source": "FutureTools News",
       "sourceUrl": "https://x.com/gilgNYC/status/2104583942728822998?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-09-28T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://elevenlabs.io/blog/eleven-v4?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "ElevenLabs Launches Eleven v4: Most Expressive TTS Model with 100ms Turbo Latency",
+      "summary": "A line of text can change significantly depending on how it’s spoken. “I need you to stay calm\" should sound different depending on who's saying it, whether that's a doctor delivering it gently to a frightened patient, or a character in a game shouting to his squad before dropping into battle. Today we're launching Eleven v4, our most emotive text-to-speech model yet, and its low-latency variant, Eleven v4 Turbo. Ranked #1 by Artificial Analysis1, and preferred by ~75% of listeners in blind head-to-head tests over competing models2, Eleven v4 was designed to interpret tone, pacing, emotion, character, and context. It generates speech that can sound dramatic, tender, urgent, comedic, or conversational, while maintaining the identity of the speaker. More natural multi-speaker dynamics make conversations feel responsive, rather than like separate lines assembled together.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://elevenlabs.io/blog/eleven-v4?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-09-28T00:00:00.000Z",
       "hot": false
@@ -1529,17 +1817,6 @@
       "date": "2026-09-27T17:35:00.000Z",
       "hot": false,
       "officialUrl": "https://rss.politico.com"
-    },
-    {
-      "id": "http://feeds.fabbaloo.com/~/970554743/_/fabbaloo/default~Whos-The-Biggest-In-D-Printing-September",
-      "title": "Who’s The Biggest In 3D Printing, September 27, 2026",
-      "summary": "Once again we take a look at the valuations of the major 3D printing companies over the past week. The post Who’s The Biggest In 3D Printing, September 27, 2026 appeared on Fabbaloo.",
-      "source": "Fabbaloo",
-      "sourceUrl": "http://feeds.fabbaloo.com/~/970554743/_/fabbaloo/default~Whos-The-Biggest-In-D-Printing-September",
-      "category": "Tech",
-      "date": "2026-09-27T12:10:00.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.feedburner.com"
     },
     {
       "id": "000001a0-de78-d276-aff6-ff7fd7860000",
@@ -1575,17 +1852,6 @@
       "officialUrl": "https://arstechnica.com"
     },
     {
-      "id": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
-      "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
-      "summary": "Tesla’s pivot from making electric cars to humanoid robots is facing challenges because of complex robot hands and disgruntled employees pushing back against training their robotic replacements. The struggle to scale up production comes as Tesla CEO Elon Musk has bet the company’s future on AI and robotics. As someone who frequently makes claims that fail to materialize, Musk has described the Optimus humanoid robot as potentially “the biggest product ever” during Tesla’s second-quarter 2026 earnings call. But he also acknowledged that making an autonomous humanoid robot capable of handling many different tasks is “one of the hardest things to solve”—and now extensive reporting by The Information has revealed multiple complications that Tesla is trying to tackle while developing general-purpose robots and scaling up for mass production. Tesla’s Fremont factory in California has already stopped making the Model S sedan and Model X SUV as of May 2026, with the company switching both line workers and engineers over to working on Optimus, according to The Information.Read full article Comments",
-      "source": "Ars Technica AI",
-      "sourceUrl": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
-      "category": "Industry",
-      "date": "2026-09-25T21:10:51.000Z",
-      "hot": false,
-      "officialUrl": "https://arstechnica.com"
-    },
-    {
       "id": "000001a0-da11-d276-aff6-fb7ff1120000",
       "title": "Bessent won’t be the ‘super intelligence’ czar, Trump says",
       "summary": "Trump’s comments come amid rumors that the Treasury secretary could be tapped to lead the administration’s AI efforts.",
@@ -1597,39 +1863,6 @@
       "officialUrl": "https://rss.politico.com"
     },
     {
-      "id": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
-      "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
-      "summary": "Back to the digital bread lines AI was supposed to hit new grads hard. So far, unemployment data says otherwise. “There is no evidence of any significant, widespread displacement or reduction in hiring.” In “The Early Impacts of AI on Employment Among Recent College Graduates,” researchers Robert Fairlie and Jane Wu said they decided to focus on recent graduates “because changes in labor demand may first appear through reductions in hiring.” As AI gets good enough to at least perform the “relatively standardized tasks” in many entry-level office jobs, they argue, firms could reduce new hiring for simpler roles rather than laying off more experienced long-term employees. There’s some reason to believe 2026’s graduating job seekers might be more at risk of AI displacement than those graduating just a year or two prior. The CESifo researchers point to a recent sharp increase in the number of firms “replacing a large number of employee tasks with AI” in a Census survey, as well as broad increases in AI spending per employee and ChatGPT Enterprise token use in the last 12 months.",
-      "source": "Ars Technica AI",
-      "sourceUrl": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
-      "category": "Industry",
-      "date": "2026-09-25T19:11:05.000Z",
-      "hot": false,
-      "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/?p=4374649",
-      "title": "NVIDIA Releases Open Viral Protein Dataset and BioNeMo Pipeline",
-      "summary": "NVIDIA released AI-predicted protein structures for more than 2,800 viruses and an open BioNeMo pipeline to help researchers prepare for future outbreaks.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-nvidia-viral-protein-dataset-bionemo-pipeline/",
-      "category": "Business",
-      "date": "2026-09-25T19:09:11.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/article/news-google-openai-anthropic-ai-safety-standards-body/",
-      "title": "Google, OpenAI, Anthropic Reportedly Plan AI Safety Standards Body",
-      "summary": "Google, OpenAI and Anthropic reportedly plan an AI safety standards body. See what the proposed testing and audits could mean for enterprise IT buyers.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-google-openai-anthropic-ai-safety-standards-body/",
-      "category": "Business",
-      "date": "2026-09-25T19:03:33.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
       "id": "https://openai.com/index/proaction",
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
       "summary": "With Codex, GPT‑Live‑1, and GPT‑6 Astra, Proaction builds, operates, and sells modern fleet management faster. ShareCustomizing demos and closing more deals with CodexCustomizing demos and closing more deals with CodexSaving engineering hours all the way to productionGetting more done, all in one place: CodexBringing voice agents to fleet operations with GPT-Live-1 and GPT-6 AstraCustomizing demos and closing more deals with CodexSaving engineering hours all the way to productionGetting more done, all in one place: CodexBringing voice agents to fleet operations with GPT-Live-1 and GPT-6 AstraProaction⁠(opens in a new window) builds software for businesses that manage fleets of vehicles, from cars and trucks to construction machinery. Because every fleet operates differently, showing prospects how Proaction’s platform fits their business is an essential part of selling it. But personalized demos required engineering time the team couldn’t spare. The founders had to rely on conversations and slide decks to explain what was possible. “As a non-technical person, I used to have to loop engineers in if I wanted a demo,” says Colin Knudsen, co-founder and COO of Proaction.",
@@ -1639,39 +1872,6 @@
       "date": "2026-09-25T19:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
-      "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
-      "summary": "We get it—it can run Copilot. Microsoft stops insisting you need a “Copilot+ PC” Microsoft’s new Surface laptops forgo Copilot+ PC branding. But Copilot+ PC branding is nowhere to be found on the new Surface PCs Microsoft announced this week. Speaking with Windows Central, Brett Ostrum, corporate VP of Surface, said that the new Surface computers “are not called Copilot+ PCs” despite meeting the label’s requirements. “They do meet all the requirements of our previous bar for what Copilot+ devices are. We still lean into the narrative around AI on the edge and being able to have a hybrid solution out there,” he said.",
-      "source": "Ars Technica AI",
-      "sourceUrl": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
-      "category": "Industry",
-      "date": "2026-09-25T17:57:37.000Z",
-      "hot": false,
-      "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/?p=4374598",
-      "title": "AGIBOT Deploys 300-Plus Robots Across Chinese Theme Park",
-      "summary": "AGIBOT and Chimelong are deploying more than 300 robots across a Chinese theme park and hotel, testing embodied AI in real commercial operations.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-agibot-300-robots-chimelong-theme-park-china-apac/",
-      "category": "Business",
-      "date": "2026-09-25T15:29:21.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/article/news-google-gemini-call-for-me-pixel-11/",
-      "title": "Google Tests Gemini Calling Feature That Talks to Businesses for You",
-      "summary": "Google is testing a Gemini feature on Pixel 11 phones that can call businesses, navigate menus, wait on hold and speak with employees for users.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-google-gemini-call-for-me-pixel-11/",
-      "category": "Business",
-      "date": "2026-09-25T14:13:44.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
     }
   ]
 }
