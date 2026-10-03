@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2026-10-02T21:24:05.969Z",
+  "lastUpdated": "2026-10-03T00:36:25.561Z",
   "news": [
+    {
+      "id": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "summary": "Friday's announcement comes two weeks after tech columnist Jason Aten said that Meta’s new general-purpose AI agent Muse sent him an unsolicited notification referencing a thread between him and a co-worker over Apple Messages. Aten said he never granted Muse permissions to read his messages and had assumed they were off-limits. Social media last week blew up with masses of people who agreed and said the incident showed that AI assistants given access to calendars, emails, messages, shopping accounts, and other resources are akin to a skill saw or other power tool. While potentially useful, they can do real damage if not used carefully. He said/she said Meta CTO David Singleton joined the fray with a rebuttal that appeared solid. For Muse to access Apple Messages, a user must manually give it two privileges.",
+      "source": "Ars Technica AI",
+      "sourceUrl": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "category": "Industry",
+      "date": "2026-10-02T23:03:16.000Z",
+      "hot": false,
+      "officialUrl": "https://arstechnica.com"
+    },
     {
       "id": "https://www.anthropic.com/news/claude-frontier-academy",
       "title": "Oct 2, 2026AnnouncementsAnthropic invests $100 million to train 10,000 engineers and tackle the ente",
@@ -8,8 +19,63 @@
       "source": "Anthropic News",
       "sourceUrl": "https://www.anthropic.com/news/claude-frontier-academy",
       "category": "Models",
-      "date": "2026-10-02T21:24:05.957Z",
+      "date": "2026-10-02T23:01:00.000Z",
       "hot": true
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/apple-says-it-will-flag-ai-requests-for-mac-data-after-metas-muse-draws-complaints-4930505",
+      "title": "Apple says it will flag AI requests for Mac data after Meta’s Muse draws complaints",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/apple-says-it-will-flag-ai-requests-for-mac-data-after-metas-muse-draws-complaints-4930505",
+      "category": "Business",
+      "date": "2026-10-02T22:48:47.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "108372055",
+      "title": "Cerebras stock hits post-IPO low, tumbling 20% for the week on Nvidia pressure and lockup expiration",
+      "summary": "Cerebras shares hit an all-time low due to pressure from chip giant Nvidia, plus a post-lockup selloff.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/10/02/cerebras-stock-hits-post-ipo-low-on-nvidia-pressure-lockup-expiration.html",
+      "category": "Business",
+      "date": "2026-10-02T22:38:49.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/us-appeals-court-blocks-minnesotas-ainudification-law-for-now-in-xai-lawsuit-4930434",
+      "title": "US appeals court blocks Minnesota law barring ’nudified’ photos in XAI lawsuit",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/us-appeals-court-blocks-minnesotas-ainudification-law-for-now-in-xai-lawsuit-4930434",
+      "category": "Business",
+      "date": "2026-10-02T22:06:27.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "07y6s1Z4uDd3YHx5eyczcUm",
+      "title": "Apple will update Macs to protect users from AI agents with full disk access",
+      "summary": "Apple has just been forced to respond to the flurry of AI agent apps, like Meta's Muse, which are accessing Mac users' private data.According to Apple, the company will soon release additional controls to \"Full Disk Access,\" which will explicitly ask Mac users if they'd like to grant a third-party access to a specific part of their system. With Full Disk Access, AI agents can complete a much wider range of tasks for users, but these users may not understand the cybersecurity risks of agentic AI.Apple says it is specifically doing this due to the rise of AI agents like Muse, which recently surpassed 5 million downloads, and the risks associated with handing over full access to a user's full private data. SEE ALSO: Big banks are worried AI agents could increase the risk of scams and fraud When a Mac user downloads a third-party app, some apps require the ability to access specific functionality on their computer. Apple requires that these apps ask a user to access that functionality. For example, a third-party webcam app is forced by Apple to ask the user for permission to access the Mac's camera and audio devices. A user must grant that access before an app can use that Mac function.Some apps, like a backup app, for example, require access to the entire Mac system.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/apple-will-update-full-disk-access-due-to-updates-ai-agents",
+      "category": "Tech",
+      "date": "2026-10-02T21:50:52.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/archer-says-us-court-narrows-joby-aero-lawsuit-claims-4930398",
+      "title": "US court trims Joby’s trade-secret case against Archer Aviation",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/archer-says-us-court-narrows-joby-aero-lawsuit-claims-4930398",
+      "category": "Business",
+      "date": "2026-10-02T21:36:28.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
     },
     {
       "id": "https://decrypt.co/?p=379998",
@@ -45,17 +111,6 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/archer-says-us-court-narrows-joby-aero-lawsuit-claims-4930398",
-      "title": "US court trims Joby’s trade-secret case against Archer Aviation",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/archer-says-us-court-narrows-joby-aero-lawsuit-claims-4930398",
-      "category": "Business",
-      "date": "2026-10-02T21:06:29.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
       "id": "108372007",
       "title": "Anthropic to invest $100 million to train AI engineer talent",
       "summary": "Anthropic will invest $100 million to train nearly 10,000 AI engineers, partnering with a number of consulting firms.",
@@ -65,17 +120,6 @@
       "date": "2026-10-02T21:03:06.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-049-4930390",
-      "title": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.49%",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-049-4930390",
-      "category": "Business",
-      "date": "2026-10-02T20:31:04.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
     },
     {
       "id": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
@@ -803,6 +847,16 @@
       "officialUrl": "https://openai.com"
     },
     {
+      "id": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Meta Open Sources Muse AI SDK, Lets Users Build Custom Gadgets on Raspberry Pi",
+      "summary": "Meta now lets you connect Muse to your own hardware to put on your displays or a Raspberry Pi. Meta now lets you connect Muse to your own hardware to put on your displays or a Raspberry Pi. Meta now lets you make your own Muse gadgets that feature the company’s new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or putting Muse on a small touchscreen device to make what looks kind of like a DIY Muse Charm. “Muse gadgets are open source devices you build yourself,” Meta says. “Program an off-the-shelf ESP32 board or set up a Raspberry Pi with our SDKs, then connect Muse to your displays, buttons, sensors, actuators, and whatever else you’ve got lying on your workbench.” However, Meta cautions that you should “Proceed at your own risk!”",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-10-02T00:00:00.000Z",
+      "hot": false
+    },
+    {
       "id": "https://www.youtube.com/watch?v=dDgncbBAA0c&utm_source=futuretools.io&utm_medium=newspage",
       "title": "All The AI News You Missed From The Past Week (Full Breakdown)",
       "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
@@ -811,6 +865,16 @@
       "category": "Curation",
       "date": "2026-10-02T00:00:00.000Z",
       "hot": true
+    },
+    {
+      "id": "https://updates.midjourney.com/alpha-changelog-10-1-26/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Midjourney Alpha Adds Style Previews, Folder Defaults & Bug Fixes",
+      "summary": "ICYMI – last week, we launched a few features on alpha.midjourney.com that we're really excited about: style previews in the sidebar so you can see what you’ll get before you generate, larger images in create, and setting default parameters in a folder. Mostly focused on bugs and cleanup this week, as we get ready to launch some new collaborative tools next week. As always, the goal is making the site easier to use without taking control away. A lot this week came from #alpha-ideas-and-bugs and office hours, so keep your thoughts coming! WHAT YOU SAID Now, sending a previewed style keeps your prompt-bar settings. Prompt parameters are saved per folder, within a tab's session.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://updates.midjourney.com/alpha-changelog-10-1-26/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-10-02T00:00:00.000Z",
+      "hot": false
     },
     {
       "id": "https://blogs.nvidia.com/?p=98527",
@@ -1346,6 +1410,16 @@
       "officialUrl": "https://openai.com"
     },
     {
+      "id": "https://suno.com/blog/introducing-speech-beta?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Suno Launches Speech Beta: AI Model That Generates Voice and Music Together",
+      "summary": "As new technologies make creation more accessible, more people can experience the joy of turning an idea into music, a story, or art, and get fulfillment from the simple act of making something. We call that creative entertainment, and we think it will define the next wave of consumer technology. Music will always be at the heart of Suno and what we build. At the same time, our vision has always extended to other forms of human expression. Today, we’re expanding what's possible in Suno with Speech: the first audio model that generates voice and music together as one cohesive track. Speech lets you create spoken audio set to original background music.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://suno.com/blog/introducing-speech-beta?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-10-01T00:00:00.000Z",
+      "hot": false
+    },
+    {
       "id": "https://claude.com/blog/claude-code-mods?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Anthropic Launches Claude Code Mods: TypeScript Functions to Customize AI Coding Tool",
       "summary": "Change how Claude Code behaves and looks with a few lines of TypeScript.",
@@ -1364,6 +1438,17 @@
       "category": "Curation",
       "date": "2026-10-01T00:00:00.000Z",
       "hot": false
+    },
+    {
+      "id": "https://www.wsj.com/tech/ai/openai-parts-ways-with-researchers-who-allegedly-shared-confidential-information-aebac528?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "OpenAI Fires 3 Safety Researchers for Sharing Data with AI Safety Group",
+      "summary": "OpenAI has fired three safety researchers — Jasmine Wang, Tomek Korbak, and Mikita Balesni — for allegedly sharing confidential company information with a third-party AI safety organization. OpenAI said the employees violated policies on accessing and handling sensitive information. Korbak had served as OpenAI's technical contact for METR and Redwood Research during an investigation into AI agents that escaped containment and hacked Hugging Face. The firings come as AI labs face growing pressure to allow independent safety testing.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.wsj.com/tech/ai/openai-parts-ways-with-researchers-who-allegedly-shared-confidential-information-aebac528?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-10-01T00:00:00.000Z",
+      "hot": false,
+      "access": "paywalled"
     },
     {
       "id": "https://microsoft.ai/news/our-first-streaming-transcription-model/?utm_source=futuretools.io&utm_medium=newspage",
@@ -1836,17 +1921,6 @@
       "hot": true
     },
     {
-      "id": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
-      "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
-      "summary": "Last week, when Australian Prime Minister Anthony Albanese told the world that an OpenAI agent had accessed \"non-public files\" from his country's Medicare statistics portal during testing, his description of the incident was a little light on details. Today, we're getting new information on just how far OpenAI's overzealous agent went in attempting to satisfy a rather innocuous-sounding informational prompt. In a newly published blog post, OpenAI says the June incident started when the company asked \"an experimental, internal-only OpenAI model\" to research government spending statistics in the Australian state of Victoria. When the model ran into trouble finding that data using the publicly published statistics that it was supposed to reference, \"it took actions that we had not authorized it to take\" to find an answer, OpenAI said. Those unauthorized actions included finding \"a way to gain non-public access to the service\" and using that access to view \"technical system information and source code\" alongside credentials and the aggregate statistics it was actually searching for, OpenAI said.Read full article Comments",
-      "source": "Ars Technica AI",
-      "sourceUrl": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
-      "category": "Industry",
-      "date": "2026-09-29T18:11:09.000Z",
-      "hot": false,
-      "officialUrl": "https://arstechnica.com"
-    },
-    {
       "id": "https://huggingface.co/blog/nvidia/kumo-tabular",
       "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
       "summary": "",
@@ -2132,120 +2206,6 @@
       "date": "2026-09-28T07:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "summary": "GPT‑6 Astra took 50% less time to finish complex tasks vs. GPT‑5.6 Sol and showed a deeper understanding of user intent. Less time to complete a 50-tab tax workbook vs. Approximate improvement in Basis’s internal evaluation scores. ShareCompleting a 50-tab tax workbook in half the timeCompleting a 50-tab tax workbook in half the timeMatching reasoning effort to the taskBuilding confidence in real-world useCompleting a 50-tab tax workbook in half the timeMatching reasoning effort to the taskBuilding confidence in real-world useBasis⁠(opens in a new window) builds AI agents to automate much of the manual work that accountants do each day, helping them shift their time from repetitive tasks to strategic work. The company’s research focuses on agents that can reliably complete long tasks, and with GPT‑6 Astra, it’s seeing a stronger understanding of what accountants want to accomplish.",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "category": "Models",
-      "date": "2026-09-28T00:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://openai.com/form/codex-originals",
-      "title": "Are you a Codex Original?",
-      "summary": "OpenAI is collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do notable things. If you want to be a part of the next chapter of the Codex Originals program, tell OpenAI more about your story and project below. City *State or province *Tell OpenAI about yourself. *A few sentences about your unique backstory and the type of Codex user you’d describe yourself as.1000 characters max.",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/form/codex-originals",
-      "category": "Models",
-      "date": "2026-09-28T00:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://aiweekly.co/issues/meta-tested-human-callers-behind-its-ai-phone-agent",
-      "title": "AI Weekly Issue #533: Meta tested human callers behind its AI phone agent",
-      "summary": "The AI story of September 22–28 was not simply that agents became more capable. It was that their hidden handoffs became visible: a supposedly automated call could reach a contractor, a supposedly private prompt or image could reach a reviewer, a monitor could detect an agent long before a person stopped it, and a local app flaw could inherit every permission a user had granted. The new AI Weekly Who’s Who census points to one practical question: when an agent crosses a boundary, who knows—and who can still intervene? The most revealing agent story this week was about labor, not a benchmark. During confidential employee testing of a Muse calling feature, some requests could be routed to trained human callers. Those people then made the call on the tester’s behalf.",
-      "source": "AI Weekly",
-      "sourceUrl": "https://aiweekly.co/issues/meta-tested-human-callers-behind-its-ai-phone-agent",
-      "category": "Curation",
-      "date": "2026-09-28T00:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://aiweekly.co"
-    },
-    {
-      "id": "https://drfeifei.substack.com/p/worldlabs-joining-amd?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "World Labs Acquired by AMD, Fei-Fei Li Joins as EVP and Chief Scientist",
-      "summary": "AMD has acquired World Labs, the spatial AI startup founded by Stanford AI pioneer Fei-Fei Li in 2024. Li will join AMD as Executive Vice President and Chief Scientist, working directly with CEO Lisa Su. World Labs developed Atlas, a novel omni-model architecture that predicts new camera views from 2D images, effectively solving sparse reconstruction in computer vision. The acquisition aims to combine World Labs' foundation models with AMD's hardware ecosystem to advance spatial intelligence for robotics, drug discovery, and creative applications.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://drfeifei.substack.com/p/worldlabs-joining-amd?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-09-28T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://x.ai/news/team-bots?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "xAI Launches Grok Team Bots: Shared AI Coworkers That Learn Your Team's Workflow",
-      "summary": "Give a Grok Bot the files, apps, and expertise it needs, then share it so your whole team can work from the same context.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://x.ai/news/team-bots?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-09-28T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://nvidianews.nvidia.com/news/open-agent-safety-platform?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "NVIDIA Launches Open Agent Safety Platform for AI Security From Testing to Deployment",
-      "summary": "NVIDIA today announced NVIDIA Open Agent Safety Platform, an open software platform and reference system design to strengthen AI security from agent testing to deployment, with full-stack governance and control across software and the hardware, compute and robotics systems that run agents.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://nvidianews.nvidia.com/news/open-agent-safety-platform?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-09-28T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://www.anthropic.com/claude-sonnet-5-5?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Anthropic Launches Claude Sonnet 5.5: 30% Faster, 30% Cheaper Than Sonnet 5",
-      "summary": "Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family. It’s a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work. Sonnet 5.5 is a faster, lower-cost complement to Claude Opus 5.5. Where Opus 5.5 is built for complex work requiring careful judgment, Sonnet 5.5 is strongest at well-scoped everyday tasks, fixing bugs, and creating polished documents, slides, and spreadsheets. It’s also got a sharp eye for design. Claude Haiku 5.5, built for high-volume and cost-sensitive applications, will join the Claude 5.5 family in the coming weeks.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://www.anthropic.com/claude-sonnet-5-5?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-09-28T00:00:00.000Z",
-      "hot": true
-    },
-    {
-      "id": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Google Replaces Gemini's \"Gems\" Custom AI Assistants with \"Skills\" Starting Nov 2026",
-      "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-09-28T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://x.com/gilgNYC/status/2104583942728822998?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Shopify Launches WebMCP Checkout Support for AI Browser Agents via Shop Pay",
-      "summary": "@gilgNYCShopping with an agent shouldn’t feel like watching paint dry. 🥱 Today, we’re launching WebMCP support for checkout, including Shop Pay, for all eligible Shopify merchants. Learn how it works, where UCP fits, and what the data shows: Browser agents now shop and check out faster on Shopify using WebMCP4917145105/*! tailwindcss v4.3.3 | MIT License | https://tailwindcss.com */ @layer properties{@supports (((-webkit-hyphens:none)) and (not (margin-trim:inline))) or ((-moz-orient:inline) and (not (color:rgb(from red r g b)))){*,:before,:after,::backdrop{--tw-border-spacing-x:0;--tw-border-spacing-y:0;--tw-translate-x:0;--tw-translate-y:0;--tw-translate-z:0;--tw-rotate-x:initial;--tw-rotate-y:initial;--tw-rotate-z:initial;--tw-skew-x:initial;--tw-skew-y:initial;--tw-border-style:solid;--tw-leading:initial;--tw-font-weight:initial;--tw-outline-style:solid;--tw-duration:initial}}}@layer utilities{.pointer-events-none{pointer-events:none}.absolute{position:absolute}.fixed{position:fixed}.relative{position:relative}.static{position:static}.sticky{position:sticky}.inset-0{inset:0}.inset-x-0{inset-inline:0}.inset-x-16{inset-inline:calc(var(--spacing,.25rem) * 16)}.inset-s-3,.start-3{inset-inline-start:calc(var(--spacing,.25rem) * 3)}.end-2{inset-inline-end:calc(var(--spacing,.25rem) * 2)}.end-3{inset-inline-end:calc(var(--spacing,.25rem) * 3)}.top-0{top:0}.top-2{top:calc(var(--spacing,.25rem) * 2)}.top-2\\.5{top:calc(var(--spacing,.25rem) * 2.5)}.top-3{top:calc(var(--spacing,.25",
-      "source": "FutureTools News",
-      "sourceUrl": "https://x.com/gilgNYC/status/2104583942728822998?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-09-28T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://elevenlabs.io/blog/eleven-v4?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "ElevenLabs Launches Eleven v4: Most Expressive TTS Model with 100ms Turbo Latency",
-      "summary": "A line of text can change significantly depending on how it’s spoken. “I need you to stay calm\" should sound different depending on who's saying it, whether that's a doctor delivering it gently to a frightened patient, or a character in a game shouting to his squad before dropping into battle. Today we're launching Eleven v4, our most emotive text-to-speech model yet, and its low-latency variant, Eleven v4 Turbo. Ranked #1 by Artificial Analysis1, and preferred by ~75% of listeners in blind head-to-head tests over competing models2, Eleven v4 was designed to interpret tone, pacing, emotion, character, and context. It generates speech that can sound dramatic, tender, urgent, comedic, or conversational, while maintaining the identity of the speaker. More natural multi-speaker dynamics make conversations feel responsive, rather than like separate lines assembled together.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://elevenlabs.io/blog/eleven-v4?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-09-28T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://futuretools.io/news",
-      "title": "+ 35 more inside",
-      "summary": "The most comprehensive AI news feed on the internet -- curated by Matt Wolfe *News may update slower on weekends and when Matt's traveling Join 250,000+ readers getting the most important AI news and tools every Wednesday and Friday. All The AI News You Missed From The Past Week (Full Breakdown) Fri, Oct 2, 2026·Matt Wolfe on YouTubeWatch Matt Wolfe's latest YouTube video where he breaks down all of the most important AI news from the past week. Anthropic Launches Claude Code Mods: TypeScript Functions to Customize AI Coding Tool",
-      "source": "FutureTools News",
-      "sourceUrl": "https://futuretools.io/news",
-      "category": "Curation",
-      "date": "2026-09-28T00:00:00.000Z",
-      "hot": true,
-      "access": "paywalled"
     }
   ]
 }
