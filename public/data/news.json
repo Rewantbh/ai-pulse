@@ -1,6 +1,485 @@
 {
-  "lastUpdated": "2026-10-07T17:09:48.885Z",
+  "lastUpdated": "2026-10-07T22:10:21.183Z",
   "news": [
+    {
+      "id": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+      "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
+      "summary": "For a while, those hoping to avoid the difficulty and expense of dealing with Adobe's Creative Suite have been able to use several free and/or open-source alternatives that replicate some or all of those capabilities. Now, one developer is using AI-powered reverse engineering to mimic the look, feel, and functionality of Adobe's well-known software with what he hopes will soon be perfect fidelity. Artcraft got its start last year as a \"controllable AI for artists\" that allows for precise post-generation editing of AI-crafted images and videos. Over the weekend, though, the brand debuted its pivot to a suite of seven open source apps recreating the user interface and tools found in Adobe's Photoshop, Illustrator, Premiere, Lightroom, After Effects, InDesign, and Acrobat Pro. In announcing those new apps on Reddit earlier this week, software developer Brandon Thomas said he used Anthropic's Claude Opus 5.5 to create \"clean-room replacements\" for Adobe's closed source software in Rust (with WebAssembly versions available for use in a browser). And while commenters on Hacker News and elsewhere have taken pains to point out the new software's many current shortcomings, Thomas make the grandiose promise that the current \"super early alpha\" state will soon lead to something just as functional as anything Adobe has ever put out.Read full article Comments",
+      "source": "Ars Technica AI",
+      "sourceUrl": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+      "category": "Industry",
+      "date": "2026-10-07T21:56:42.000Z",
+      "hot": false,
+      "officialUrl": "https://arstechnica.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=380366",
+      "title": "OpenAI Says a Secret AI Model Cracked Hundreds of Open Math Problems in One Prompt—Mathematicians...",
+      "summary": "OpenAI posted 722 AI-written math manuscripts from an unreleased model, saying most came from a single prompt.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/380366/openai-secret-ai-model-cracked-hundreds-math-problems-one-prompt",
+      "category": "Tech",
+      "date": "2026-10-07T21:46:03.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/10/07/apple-watch-series-12-teardown/",
+      "title": "Apple Watch Series 12 and Ultra 4 Score 4/10 for Repairability",
+      "summary": "Repair site iFixit this week continued taking apart the latest Apple devices, this time tearing down the Apple Watch Series 12 and the Apple Watch Ultra 4. The &zwnj;Apple Watch Ultra 4&zwnj; has no repairability changes. There are copious amounts of glue between the casing and the display for waterproofing, and getting to the battery has to be done through the screen. It's easy to slice through the display cable when attempting to pry the device open. The Apple Watch Series 12 is also difficult to get into, but it has a pull tab for the adhesive holding the battery in place, which iFixit says is a \"modest\" repairability improvement. The Series 12 also drops the ZIF connector that made repairs more difficult, which makes for a simpler process.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/10/07/apple-watch-series-12-teardown/",
+      "category": "Tech",
+      "date": "2026-10-07T21:44:17.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "01LI8kWtIOmq8bd8H9kVK8T",
+      "title": "Miss browser games? Google wants you to build your own with AI",
+      "summary": "Google wants the next hit browser game to start with a prompt. The company launched Playground on Oct. 7, an experimental platform for creating, playing, and sharing custom games.\"Playground lowers the barriers to creation, so bringing game ideas to life can now be as easy as describing it through a few prompts — no coding experience required,\" Google software engineer Maryam Karimzadehgan wrote in the announcement.Creators can start from scratch, remix starter prompts, or use guided support to shape an idea, then test and revise it through a conversational interface. \"Want to tweak the physics, rewrite the rules, customize the characters, or overhaul the environment? Just ask,\" Karimzadehgan adds. \"You stay in complete control of the creative direction from rough concept to final product.\" Credit: Screenshot: Google Playground Users can choose genres such as trivia or racing, select 2D or 3D graphics, and upload visuals for the AI to transform into game assets.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/google-playground-ai-browser-game-creation",
+      "category": "Tech",
+      "date": "2026-10-07T21:38:14.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/profound-medical-stock-surges-20-on-raised-q3-revenue-outlook-4937591",
+      "title": "Profound Medical stock surges 20% on raised Q3 revenue outlook",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/profound-medical-stock-surges-20-on-raised-q3-revenue-outlook-4937591",
+      "category": "Business",
+      "date": "2026-10-07T21:32:49.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/10/07/apple-creative-labs-kings-trust/",
+      "title": "Apple Launches Creative Labs Program With The King's Trust",
+      "summary": "Apple is partnering with UK charity The King's Trust to launch a new education program that will help young people build careers in creative industries, Apple said today. The Apple x King's Trust Creative Labs will give people aged 18 to 30 the opportunity to work with Apple experts as they look into different career paths. An initial cohort of up to 20 people is participating in specialized workshops to learn \"valuable, industry-aligned skills using Apple technologies.\" The educational experience started this week with music industry and creative workshops timed to the opening of Apple Music Hall at Battersea Power Station in London. Apple chairman Tim Cook and King Charles III visited Apple Music Hall to meet with attendees. More cohorts and more sessions will follow over the next year. Apple has worked with The King's Trust since 2019, expanding access to science, technology, engineering, arts, and mathematics programming to schools across the UK.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/10/07/apple-creative-labs-kings-trust/",
+      "category": "Tech",
+      "date": "2026-10-07T21:29:46.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/broadcom-oracle-and-spacex-pursue-blockbuster-debt-deals-amid-ai-buildout--wsj-4937581",
+      "title": "Broadcom, Oracle, and SpaceX pursue blockbuster debt deals amid AI buildout - WSJ",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/broadcom-oracle-and-spacex-pursue-blockbuster-debt-deals-amid-ai-buildout--wsj-4937581",
+      "category": "Business",
+      "date": "2026-10-07T21:28:28.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "04Nqh3c0TgP5xC6gPGUEiAZ",
+      "title": "October Prime Day 2026 live updates: Amazon is still dropping 50% discounts in the final hours",
+      "summary": "Amazon's Prime Big Deal Days sale is fast approaching its final hours, and Mashable shopping experts are still bringing you live updates on all of the best October Prime Day deals. If you're looking to restock on everyday essentials or desperately need some relief from this year's tech price hikes, then this is your chance to save some serious cash. We know that shoppers are keeping an eye on the build-up to Black Friday, but this event has dropped deals in just about every category. We've seen price drops on Apple MacBooks, first-ever deals on new Bose headphones, and huge discounts on top TVs from brands like Samsung, LG, and TCL. No matter what's on your holiday wishlist, our shopping reporters are ready to help you save, and we'll be cross-checking prices at Amazon, Best Buy, Target, and Walmart to make sure you know where to find the lowest prices as we approach the end of the sale. Keep scrolling for the full schedule of events, the latest Prime Day deals, price drops, low-stock alerts, and news from the Mashable shopping team.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/october-prime-day-live-deals-updates-2026",
+      "category": "Tech",
+      "date": "2026-10-07T21:25:31.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "032LZmXOHKS6GPhgbm5g69B",
+      "title": "Top 25 noise-cancelling headphone deals for October Prime Day: Time is running out to grab AirPod...",
+      "summary": "The best October Prime Day noise-cancelling headphones deals: Best Overall Bose QuietComfort headphones (2nd gen) $319 (save $40) Get Deal Best Sony Headphones Deal Sony WH-1000XM6 Active Noise-Cancelling Headphones $378 (save $81.99) Get Deal Best AirPods Deal Apple AirPods Max 2 $429 (save $120) Get Deal Best Nothing headphones deal Nothing Headphone (a) $129 (save $70) Get Deal Best ANC earbuds Sony WF-1000XM6 $258 (save $71.99) Get Deal Best budget earbuds deal EarFun Air Pro 4 $50.50 (save $29.49) Get Deal Best Under $100 Sony WH-CH720N $88 (save $91.99) Get Deal Best Mid-Range ANC Heapdhones Bose QuietComfort Headphones (1st Gen) $169 (save $190) Get Deal Just like that, Prime Big Deal Days is in its final hours. The 48-hour event kicked off Oct. 6 and wraps up at midnight Oct. 7, so you've still got some time to shop all the best deals. Don't worry; we've made it easy for you by combing through pages and pages of listings to find the deals that are actually worth grabbing. To be frank, the headphones deals are some of the best of the sale.If noise-cancelling headphones or earbuds, in particular, are on your wishlist, many of Mashable's favorites are on sale.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/best-october-prime-day-noise-cancelling-headphones-deals-live-2026",
+      "category": "Tech",
+      "date": "2026-10-07T21:19:52.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "108374094",
+      "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
+      "summary": "Since SpaceX's record-breaking IPO in June, rates have sold off, and yields on its bonds have risen, along with other AI-related bonds.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/10/07/spacex-nvidia-chips-apollo-financing.html",
+      "category": "Business",
+      "date": "2026-10-07T21:16:24.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=380363",
+      "title": "Ethereum Researcher Says AI May Break Encryption Before Quantum Does",
+      "summary": "Ethereum Foundation researcher Justin Drake urged holders to move funds to unused addresses, warning that AI could break crypto signatures.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/380363/ethereum-researcher-ai-break-encryption-before-quantum",
+      "category": "Tech",
+      "date": "2026-10-07T21:16:03.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://www.techrepublic.com/article/news-microsoft-surface-laptop-ultra-nvidia-rtx-spark/",
+      "title": "Microsoft’s $2,599 Surface Laptop Ultra Puts Nvidia RTX Spark Inside a Windows Laptop",
+      "summary": "Microsoft’s Surface Laptop Ultra starts at $2,599 with an Nvidia RTX Spark GPU, up to 128GB of memory, and support for running large AI models locally.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-microsoft-surface-laptop-ultra-nvidia-rtx-spark/",
+      "category": "Business",
+      "date": "2026-10-07T21:02:10.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3175337",
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "summary": "The developer of Hermes agent raised a $90 million Series B.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "category": "Business",
+      "date": "2026-10-07T20:48:45.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "108373462",
+      "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
+      "summary": "The new device shows Microsoft remains committed to making its own PCs even though it's not one of the top device makers.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html",
+      "category": "Business",
+      "date": "2026-10-07T20:26:13.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3175292",
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "category": "Business",
+      "date": "2026-10-07T20:22:37.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=380349",
+      "title": "SEC and CFTC Crypto Rules 'Fall Short' of Clarity, Says Rep. French Hill",
+      "summary": "House Financial Services Chairman French Hill says only \"permanent law change\" through the Clarity Act can secure U.S.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/380349/sec-cftc-crypto-rules-fall-short-clarity-french-hill",
+      "category": "Tech",
+      "date": "2026-10-07T20:16:04.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "04oxtVosvkKXspE9Ulw8RJj",
+      "title": "The 37 best Prime Day tech deals: We found deals under $25, but also $1,200 savings on OLED TVs",
+      "summary": "Best October Prime Day tech deals at a glance: Best Amazon device deal Amazon Fire TV Stick 4K Plus $37.99 (save $22 at Amazon) Get Deal Best Kindle deal Amazon Kindle (2024) $103.99 (save $46 at Amazon) Get Deal Best smartwatch deal Apple Watch SE 3 (GPS, 40mm) $199 (save $50 at Amazon) Get Deal Best AirPods deal Apple AirPods 4 $79 (save $50 at Walmart) Get Deal Best laptop deal Apple MacBook Air (M5, 16GB RAM, 512GB SSD) $1,099 (save $200 at Amazon) Get Deal Best Bluetooth Speaker Deal Ultimate Ears Wonderboom 4 $54.14 (save $45.85) Get Deal Best OLED TV deal Samsung 65-Inch S90H Series OLED 4K Smart TV $1,497.99 (save $1,200 at Best Buy) Get Deal Best Budget TV Deal Toshiba 43-inch M450 Series QLED 4K Smart Fire TV $139.99 (save $190 at Amazon) Get Deal Best Memory Deal SanDisk 1TB Extreme Portable SSD $209.99 (save $90 at Amazon) Get Deal Best Deal Under $25 Apple AirTag (2nd Gen) $24 (save $5 at Amazon) Get Deal Amazon's Prime Big Deal Days sale is still going strong, but it ends at 11:59 p.m. PT tonight, which means you're running out of time to save. The best Prime Day tech deals let us get some much-needed relief from all of this year's price hikes, and there have been a lot of them. Mashable's reporters and editors test tech year-round. For Prime Big Deal Days, we're pairing those hands-on findings with price-history checks to help you decide what's worth buying, which upgrades are worth paying for, and where a cheaper model will do the job. We're looking for dis...",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/best-october-prime-day-tech-deals-live-2026",
+      "category": "Tech",
+      "date": "2026-10-07T19:55:10.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=380347",
+      "title": "Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets",
+      "summary": "Tether, issuer of the USDT stablecoin, will help Kazakhstan's central bank study a tenge-pegged token and put RWAs on a blockchain.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets",
+      "category": "Tech",
+      "date": "2026-10-07T19:46:04.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "01OYQqpI3ef86kpPaeGnsrR",
+      "title": "The best Apple deals on October Prime Day: $200 off MacBooks and iPads still live, but only until...",
+      "summary": "The best October Prime Day Apple deals at a glance: Best AirPods Deal Apple AirPods 4 $79 (save $50) Get Deal Best Apple Watch deal Apple Watch Series 12 (GPS, 42mm) $349.99 (save $49.01) Get Deal Best MacBook Air deal Apple MacBook Air, 13-inch (M5, 16GB RAM, 512GB SSD) $1,099 (save $200) Get Deal Best MacBook Pro deal Apple MacBook Pro, 14-inch (M5 Pro with 18-core CPU/20-core GPU, 24GB RAM, 2TB SSD) $2,699 (save $500) Get Deal Best iPad deal Apple iPad Air, 11-inch (M4, WiFi, 128GB) $649 (save $100) Get Deal Bes Apple Accessory Deal Apple AirTag 2 $24 (save $5) Get Deal Best Apple Headphones Deal Beats Studio Pro $149.95 (save $150.04) Get Deal Best budget Apple Watch deal Apple Watch SE 3 (GPS, 40mm) $199 (save $50) Get Deal Best budget iPad deal Apple iPad, 11-inch (A16, WiFi, 128GB) $399 (save $50) Get Deal Prime Big Deal Days sale is live — and so are some shockingly excellent Apple deals. This 48-hour \"October Prime Day\" serves as Amazon's kickoff to the Black Friday holiday shopping season, which is the best time to find discounts on popular Apple devices (among many other tech products we love). This year, it doubles as some much-needed relief from RAMageddon price increases.As we head into the latter half of day two of the sale, which wraps up at midnight PT tonight (Oct. 7), Amazon continues to offer some great deals on AirPods, Apple Watches, iPads, and MacBooks. Some of them are even better than we expected: The new Apple Watch Series 12 got its first real di...",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/best-october-prime-day-apple-deals-live-2026",
+      "category": "Tech",
+      "date": "2026-10-07T19:33:58.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "00aq9XP95KaZlYR71Px6abm",
+      "title": "Californias new AI law: Ban on bots used to fire employees",
+      "summary": "Employers in the Golden State can't offload the hard parts of running a business to AI, according to a new state law. Signed by California Governor Gavin Newsom last week, SB 947 sets restrictions on the use of the novel technology in disciplinary decision making, including firing employees. SB 947 may sound like an obvious regulatory move as industries continue to worry about AI's impact on employment, but the \"No Robo Bosses Act\" marks the first law of its kind in the nation. SEE ALSO: Report: OpenAI should pause ChatGPT for Teens over safety Other states, including California, have enacted bans on AI-enabled discrimination and laws that restrict the authority of automated systems in hiring and benefits decisions. The federal government has clarified that existing employee discrimination law also covers the use of AI systems. Still, AI remains an elusive element in modern workplace management.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/california-ai-workplace-law",
+      "category": "Tech",
+      "date": "2026-10-07T19:28:09.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/?p=4376210",
+      "title": "Claude vs Gemini: Comparing Google Docs, Sheets and Slides",
+      "summary": "Claude now works inside Google Docs, Sheets, and Slides. See how it compares with Gemini for editing, spreadsheets, presentations, and Workspace context.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-claude-vs-gemini-google-workspace/",
+      "category": "Business",
+      "date": "2026-10-07T19:12:59.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+      "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+      "summary": "With GPT-6, the chatbot’s responses can include interactive responses directly inside your conversation. With GPT-6, the chatbot’s responses can include interactive responses directly inside your conversation. OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more. In a blog post explaining the change, OpenAI says it trained GPT-6 when to generate interactive visuals over text, as well as how to format them in its response. An example shared by OpenAI shows how ChatGPT might show a diagram of a seven-speed bicycle if you ask about its design, complete with interactive buttons that highlight different parts.",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+      "category": "Industry",
+      "date": "2026-10-07T19:10:42.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=380339",
+      "title": "Hackers Used AI Agents to Raid a Megachurch's Database, Exposing 850,000 Members",
+      "summary": "Seoul's Yoido Full Gospel Church says data on 850,000 members may be compromised, and a security firm found signs AI helped run the attack.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/380339/hackers-ai-agents-megachurch-database",
+      "category": "Tech",
+      "date": "2026-10-07T19:10:31.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/10/07/apple-watch-series-12-skin-irritation/",
+      "title": "Apple Watch Series 12, Ultra 4 Owners Report Skin Irritation",
+      "summary": "Some Apple Watch Series 12 and Ultra 4 owners have experienced unexpected skin irritation with the new models, according to reports on the MacRumors forums and Reddit. Affected users complain of a burning sensation and redness under the sensor area. The Apple Watch Series 12 and Ultra 4 measure heart rate every five seconds, and some people have wondered if that's the cause of the skin irritation. Along with more frequent heart rate readings, the Series 12 and Ultra 4 have a larger ECG electrode surface, photodiodes in a ring-shaped arrangement, and larger green LEDs. It is unknown if any of these design changes are a problem, but wrist irritation from the Apple Watch is a complaint that dates back to the original model. Apple says reactions can be caused by wearing a band too tight or too loose, or by irritants like soap and sweat under the watch.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/10/07/apple-watch-series-12-skin-irritation/",
+      "category": "Tech",
+      "date": "2026-10-07T19:02:52.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "06w1hN7jqFHIPJndkCaBpOx",
+      "title": "The best last-chance October Prime Day laptop deals: Save up to $750 on MacBooks, Surface Laptops",
+      "summary": "The best October Prime Day laptop deals you can still shop: Best MacBook Air deal Apple MacBook Air, 13-inch (M5, 16GB RAM, 512GB SSD) $1,099 at Amazon (save $200) Get Deal Best MacBook Pro deal Apple MacBook Pro, 14-inch (M5 Pro with 18-core CPU/20-core GPU, 24GB RAM, 2TB SSD) $2,699 at Amazon (save $500) Get Deal Best budget laptop deal (under $1,000) Dell XPS 13 (Intel Core 5 320, 8GB RAM, 512GB SSD) $599.99 at Best Buy (save $200) Get Deal Best Microsoft Surface Laptop deal Microsoft Surface Laptop 7, 13.8-inch (Snapdragon X Elite, 16GB RAM, 1TB SSD) $1,349 at Amazon (save $750.99) Get Deal Another great Windows laptop deal HP OmniBook Ultra 14 (Intel Core Ultra 7 356H, 16GB RAM, 1TB SSD) $1,399.99 at Best Buy (save $600) Get Deal Best gaming laptop deal Acer Nitro V 16S AI (AMD Ryzen AI 7 350, Nvidia GeForce RTX 5070, 16GB RAM, 1TB SSD) $1,401.99 at Amazon (save $248) Get Deal I've had a weird year as Mashable's resident laptop reporter. In recent months, many of the models I've covered and tested have gotten anywhere from $100 to $950 more expensive due to the ongoing memory crisis, making it harder to pinpoint truly great values on the market. That's why I was particularly antsy for Prime Big Deal Days, Amazon's 48-hour \"October Prime Day\" sale: It's getting the ball rolling on holiday tech deals that negate a lot of those price hikes.On the second day of the sale, Amazon is still offering some particularly sweet deals on MacBooks and Microsoft Surface Laptops. The ...",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/best-october-prime-day-laptop-deals-live-2026",
+      "category": "Tech",
+      "date": "2026-10-07T18:47:17.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://blogs.nvidia.com/?p=98615",
+      "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+      "summary": "At a Microsoft event in San Francisco on Wednesday, Jensen Huang and Satya Nadella outlined how NVIDIA and Microsoft are co-engineering hardware and software for AI agents to run on Windows PCs. NVIDIA was founded because of Windows, Huang said. Now AI agents are coming to Windows. “If you look at the entire journey of our company, Windows was at the core of it,” Huang said, tracing back NVIDIA’s support for Windows and Microsoft over several decades. “If not for Windows there would be no GeForce.” NVIDIA founder and CEO Jensen Huang connected that history — and his long-term vision — to the agentic era Wednesday during a fireside chat with Microsoft CEO Satya Nadella hosted by Sriram Krishnan, a former senior White House policy advisor on AI at the Windows AI and Surface event, held at Dogpatch Studios in San Francisco. “The thing that I really give Jensen all the credit for, quite frankly, is that consistency of vision of what this can be—not today, not tomorrow, but as a secular trend,” Nadella said.",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+      "category": "Events",
+      "date": "2026-10-07T18:45:28.000Z",
+      "hot": false,
+      "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
+      "id": "6ac3dfb697d1c72b4c81d740",
+      "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
+      "summary": "Aditya Ramabadran, Simon Mahns, and Tobias Gessler, three AI engineers at a startup called Axiom, recently fancied In-N-Out Burger for lunch. They weren’t about to drive themselves, though. Sitting in a 2024 Toyota Corolla near the Bay Area restaurant’s drive-thru lane, they opened a laptop and asked OpenAI’s GPT-6 Astra to take the wheel. They linked a chat interface to a server, which was connected to several windscreen-mounted cameras and the car’s power steering system. A safety driver kept one foot above the brake, just in case. The AI model, which is normally tasked with generating text, code, and the odd image, slowly but surely navigated the vehicle up to the take-out window so they could collect their food.",
+      "source": "Wired AI",
+      "sourceUrl": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
+      "category": "Industry",
+      "date": "2026-10-07T18:45:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.wired.com"
+    },
+    {
+      "id": "https://www.engadget.com/2280417/surface-laptop-ultra-hands-on-a-beautiful-beast-powered-by-nvidias-rtx-spark/",
+      "title": "Surface Laptop Ultra hands-on: A beautiful beast powered by NVIDIA's RTX Spark",
+      "summary": "Yes, it's just a premium laptop. Devindra Hardawar for Engadget Add Engadget on Google: Preferred Source Google Discover When we first caught a glimpse of the Surface Laptop Ultra back in June, I was struck by how normal it seemed. Even though Microsoft claimed it was the most powerful Surface Laptop ever, it really looked like a straightforward MacBook Pro clone, even more so than the Surface Laptop (or the Laptop Studio, which nobody talks about anymore). There aren't any weird hinges or flashy Surface features — just pure premium laptop by the looks of it. After spending a bit of time with it today, I can confirm that remains the case. At the same time, it feels better than any other Windows laptop I've held before.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2280417/surface-laptop-ultra-hands-on-a-beautiful-beast-powered-by-nvidias-rtx-spark/",
+      "category": "Tools",
+      "date": "2026-10-07T18:43:19.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/article/news-best-smart-home-security-cameras-2026/",
+      "title": "Best Smart Home Security Cameras for 2026: Ring, Nest, Arlo and Eufy",
+      "summary": "We compare current Ring, Nest, Arlo, and Eufy outdoor security cameras by video quality, AI features, storage, subscriptions, and long-term cost.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-best-smart-home-security-cameras-2026/",
+      "category": "Business",
+      "date": "2026-10-07T18:18:45.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3175219",
+      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+      "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "category": "Business",
+      "date": "2026-10-07T18:15:28.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=380326",
+      "title": "Google Lets You Build a Video Game by Typing a Description",
+      "summary": "Google's Playground turns a typed description into a playable, shareable game, no coding required.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/380326/google-build-video-game-typing-description",
+      "category": "Tech",
+      "date": "2026-10-07T18:08:51.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+      "title": "Microsoft is giving Copilot more control over Windows and your files",
+      "summary": "With features powered by ‘Hybrid Intelligence,’ Copilot can use files on your Windows PC to take actions. With features powered by ‘Hybrid Intelligence,’ Copilot can use files on your Windows PC to take actions. At today’s Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It’s part of an idea Microsoft is calling “Hybrid Intelligence,” where apps and tools rely on a mix of local and cloud AI models to accomplish tasks efficiently. To show off how Hybrid Intelligence works, Jacob Andreou, Microsoft’s EVP of Copilot, walked through a video demo onstage asking Microsoft’s Autopilot tool to help with filing taxes. Andreou told the AI agent that he got an email from his accountant and asked Autopilot to get her what she needs.",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+      "category": "Industry",
+      "date": "2026-10-07T18:01:20.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3174749",
+      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+      "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+      "category": "Business",
+      "date": "2026-10-07T18:00:19.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "6ac65d4eac79b670a5c39488",
+      "title": "The New ChatGPT Is More Show Than Tell",
+      "summary": "Screenshot: Courtesy of OpenAI When you ask a chatbot a question, you’ll often get a wall of text back, maybe with an image or two pulled from the web. That may no longer be the case soon, as OpenAI overhauls how ChatGPT answers prompts. On Wednesday, OpenAI unveiled an “Intelligent UI” update for ChatGPT that generates visual, custom elements—when helpful—for answering a user's questions. The company's new experience is powered by its recent GPT-6 model, which rolls out to paid users today and to free users tomorrow. I got a quick test of the user interface before launch, and these visual elements felt like a welcome change. When I asked for a diagram of a slug, ChatGPT generated an anatomy-focused visual with buttons I could press for each different part, from the upper tentacles to the muscular foot.",
+      "source": "Wired AI",
+      "sourceUrl": "https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/",
+      "category": "Industry",
+      "date": "2026-10-07T18:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.wired.com"
+    },
+    {
+      "id": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
+      "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
+      "summary": "Tortured streaming fraudster department Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift Man gets 18 months for AI scheme stealing $8M in music streaming royalties. In a press release Tuesday, the US Department of Justice said that Smith is the first American criminally charged with AI-assisted streaming fraud. First charged in 2024, Smith successfully ran the scheme for seven years without detection. Starting in 2017, Smith began using fake email accounts and “fraudulently obtained debit cards” to create “thousands of fraudulent accounts” on services including Amazon Music, Apple Music, Spotify, and YouTube Music, the DOJ said. He then employed software that pushed the bots to continuously stream songs that he claimed to own, which the DOJ said were AI-generated. By his arrest in 2024, he had created “hundreds of thousands of AI-generated songs,” then dispersed billions of automated streams among them so that the bots could avoid raising any red flags by all targeting the same song at once.",
+      "source": "Ars Technica AI",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
+      "category": "Industry",
+      "date": "2026-10-07T17:57:39.000Z",
+      "hot": false,
+      "officialUrl": "https://arstechnica.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/10/07/prime-day-ends-today-october-26/",
+      "title": "Get AirPods Pro 3 for $179, Apple Watch for $199, and More Before Prime Day Ends Today",
+      "summary": "Amazon Prime Big Deal Days is coming to a close later today, so we're quickly recapping all of the best Apple and Apple-related deals that are still live on Amazon right now. Since many of these products have been on sale for a few days, shipping may be delayed, but they're all at some of the lowest prices we've ever seen. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Amazon Prime Day requires you to have an Amazon Prime membership to take advantage of the discounts. AirPods The best AirPods discount so far this Prime Day is on the AirPods Pro 3, available for the record low price of $179.00, down from $249.00.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/10/07/prime-day-ends-today-october-26/",
+      "category": "Tech",
+      "date": "2026-10-07T17:55:57.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.engadget.com/2280319/disney-will-stream-the-super-bowl-along-with-some-monday-night-football-games/",
+      "title": "Disney+ will stream the Super Bowl, along with some Monday Night Football games",
+      "summary": "The big event will also air on ABC and ESPN. Disney Add Engadget on Google: Preferred Source Google Discover It's been over 20 years since the Disney-owned ABC has aired a Super Bowl game, but that changes on February 14. ABC will run the broadcast live, along with ESPN. However, it has just been announced that it'll also stream on Disney+. This should make it easy for just about anyone to tune in, as the livestream will be available in 55 global markets. The platform will air the event in both English and Spanish.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2280319/disney-will-stream-the-super-bowl-along-with-some-monday-night-football-games/",
+      "category": "Tools",
+      "date": "2026-10-07T17:52:55.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://www.engadget.com/2280310/microsoft-may-have-finally-fixed-windows-search-by-turning-it-into-a-chatbot/",
+      "title": "Microsoft may have finally fixed Windows search by turning it into a chatbot",
+      "summary": "Microsoft Add Engadget on Google: Preferred Source Google Discover Less than a year after it promised to remove unnecessary Copilot integration from Windows 11, Microsoft announced today that it plans to turn part of the operating system's Task Bar into a sort of chatbot. Starting this fall, the Search Menu will allow you to carry out thousands of different actions across Windows just by typing short commands into its interface. During the company's fall Surface event, Pavan Davuluri, Microsoft's executive vice president of Windows and Devices, demoed how the new Search experience can quickly turn on and off settings like dark mode and do not disturb. He also demoed how the redesigned menu allows users to converse with the new Copilot app, without launching the app on its own. Davuluri said the redesigned interface is also faster, and more efficient, promising it will make finding apps, settings and files easier. The inference is more contextual as well.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2280310/microsoft-may-have-finally-fixed-windows-search-by-turning-it-into-a-chatbot/",
+      "category": "Tools",
+      "date": "2026-10-07T17:47:14.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
+      "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
+      "summary": "Microsoft's Nvidia-powered Surface RTX Spark Dev Box is available for preorder now and is slated to ship in November for just about $6,000. It's pricier than the DGX Spark mini PC Nvidia launched last year, but PC prices have been climbing due to shortages of RAM and other components. The Dev Box's flat, 3D-printed anodized aluminum chassis doubles as a heatsink and resembles the top vents on an Xbox Series X. It was introduced alongside the new Surface Laptop Ultra and runs on Nvidia's Arm-based RTX Spark platform and 128GB of unified memory. With that much memory, along with a 100-watt thermal envelope and Nvidia's Tensor cores, you could …",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
+      "category": "Industry",
+      "date": "2026-10-07T17:46:44.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "https://www.engadget.com/2280302/microsoft-surface-laptop-ultra-specs/",
+      "title": "Here's everything we know about Microsoft's Surface Laptop Ultra",
+      "summary": "Microsoft is finally sharing details about its first builder-class PC. Microsoft Add Engadget on Google: Preferred Source Google Discover Earlier this year, Microsoft teased the Surface Laptop Ultra, describing it as \"the most powerful thing we've ever made.\" And while we know some details about it including its super bright MiniLED display and NVIDIA RTX Spark chip, other specs have been hard to come by. But today at an event in San Francisco, Microsoft finally gave us a closer look at its upcoming flagship notebook. Now before we go any further, it's important to highlight that the Surface Laptop Ultra will be a very beefy system, so buying one simply to browse the web, edit videos or even game on it will be overkill. This machine is more for developers and AI researchers than your typical PC user and to help drive that point home, Microsoft described the Surface Laptop Ultra as a \"builder class PC.\" The Surface Laptop Ultra comes standard with a 15-inch Mini-LED PixelSense Ultra touchscreen with a 3:2 aspect ratio and up to a whopping 2,000 nits of peak brightness.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2280302/microsoft-surface-laptop-ultra-specs/",
+      "category": "Tools",
+      "date": "2026-10-07T17:42:35.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://www.engadget.com/2280298/everything-announced-at-microsofts-windows-and-surface-event/",
+      "title": "Everything announced at Microsoft's Windows and Surface event",
+      "summary": "The company highlighted agentic AI features for Windows as well as the Surface Laptop Ultra. Microsoft Add Engadget on Google: Preferred Source Google Discover Microsoft shed more light on its personal computing plans and what it's offering developers at a Windows and Surface event on Wednesday. Along with other announcements, we learned more about the company's vision for how AI agents that run locally may change how people use their PCs. The company showcased the Surface Laptop Ultra, a laptop that it teased earlier this year. It's said to be the most powerful Surface laptop yet and it runs on NVIDIA's RTX Spark system-on-a-chip (SOC). NVIDIA CEO Jensen Huang even appeared during the San Francisco event for a chat with Microsoft counterpart Sayta Nadella.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2280298/everything-announced-at-microsofts-windows-and-surface-event/",
+      "category": "Tools",
+      "date": "2026-10-07T17:41:41.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com",
+      "relatedCoverage": [
+        {
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced"
+        }
+      ]
+    },
+    {
+      "id": "https://www.techrepublic.com/?p=4376186",
+      "title": "XtalPi Details Kodexia AI Platform for siRNA Drug Discovery",
+      "summary": "XtalPi’s Kodexia combines generative AI and automated lab testing for siRNA drug discovery. Explore its workflow, reported results and preclinical limits.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-xtalpi-kodexia-ai-sirna-drug-discovery/",
+      "category": "Business",
+      "date": "2026-10-07T17:25:06.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
+      "id": "108373786",
+      "title": "Google ordered to halt work on two data centers in ‘Texas of Europe’",
+      "summary": "Finland has emerged as a key location for data centers amid the AI boom.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/10/07/google-finland-data-center-halt.html",
+      "category": "Business",
+      "date": "2026-10-07T17:16:28.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
     {
       "id": "https://decrypt.co/?p=380313",
       "title": "US Government Moves $103 Million in Seized Bitcoin and BNB, But Hasn't Said Why",
@@ -35,83 +514,6 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/biman-bangladesh-airlines-orders-10-airbus-aircraft-93CH-4937234",
-      "title": "Biman Bangladesh Airlines orders 10 Airbus aircraft",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/biman-bangladesh-airlines-orders-10-airbus-aircraft-93CH-4937234",
-      "category": "Business",
-      "date": "2026-10-07T16:49:29.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
-      "id": "04Nqh3c0TgP5xC6gPGUEiAZ",
-      "title": "October Prime Day 2026 live updates: Amazon is still dropping 50% discounts",
-      "summary": "Amazon's Prime Big Deal Days sale has entered its second and final day, and Mashable shopping experts are still bringing you live updates on all of the best October Prime Day deals. If you're looking to restock on everyday essentials or desperately need some relief from this year's tech price hikes, then this is your chance to save some serious cash. We know that shoppers are keeping an eye on the build-up to Black Friday, but this event has dropped deals in just about every category. We've seen price drops on Apple MacBooks, first-ever deals on new Bose headphones, and huge discounts on top TVs from brands like Samsung, LG, and TCL. No matter what's on your holiday wishlist, our shopping reporters are ready to help you save, and we'll be cross-checking prices at Amazon, Best Buy, Target, and Walmart to make sure you know where to find the lowest prices as we approach the end of the sale. Keep scrolling for the full schedule of events, the latest Prime Day deals, price drops, low-stock alerts, and news from the Mashable shopping team.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/october-prime-day-live-deals-updates-2026",
-      "category": "Tech",
-      "date": "2026-10-07T16:42:41.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
-      "id": "108374094",
-      "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
-      "summary": "Since SpaceX's record-breaking IPO in June, rates have sold off, and yields on its bonds have risen, along with other AI-related bonds.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/10/07/spacex-nvidia-chips-apollo-financing.html",
-      "category": "Business",
-      "date": "2026-10-07T16:32:30.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "009IjzHlZBokjsJzgLloC6K",
-      "title": "Amazon has dropped mega deals on robot lawn mowers for Prime Day: Shop Dreame, Mammotion, and more",
-      "summary": "The best October Prime Day deals on robot lawn mowers: Best Roborock Deal Roborock RockNeo Q110H Robot Lawn Mower $679.99 (Save $120) Get Deal Best Mammotion Deal Mammotion LUBA 3 AWD 3000 $2,109.00 (save $690) Get Deal Best Segway Deal Segway Navimow i206 AWD $849.00 (save $150) Get Deal Best Dreame Deal Dreame LiDAR A3 AWD Pro $1,709.99 ($990) Get Deal Best Ecovacs deal Ecovacs Goat O1000 RTK $630.80 (save $369.19) Get Deal Amazon's next Prime Day event, Prime Big Deal Days, is in its final day. As expected, Amazon is stacked with deals, but we're running out of time to shop. If you're in the mood for a major home improvement upgrade, you might want to check out the deals on robot lawn mowers.Robot lawn mower deals are some of the standout savings right now, which is very helpful if you're looking for a little extra assistance around the yard before chilly winter weather arrives.Top manufacturer brands Roborock and Mammotion are both included, with a few popular models getting huge discounts. Check out some of our favorite October Prime Day robot lawn mower deals below. Even if you don't need it for the rest of autumn, this is a great opportunity to get ahead of the game on next year's yard work.Best Dreame deal Opens in a new window Credit: Dreame DREAME LiDAR A3 AWD Pro $1,709.99 at Amazon $2,699.99 Save $990.00 get a free Dreame LiDAR Robot Lawn Mower 4-Piece Ultimate Care Kit Get Deal Why we like itThis Dreame robot lawn mower has received a decent discount for Octob...",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/best-october-prime-day-robot-lawn-mowers-live-deals-2026",
-      "category": "Tech",
-      "date": "2026-10-07T16:15:03.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
-      "id": "04oxtVosvkKXspE9Ulw8RJj",
-      "title": "The 37 best Prime Day tech deals: We found deals under $25, but also $1,200 savings on OLED TVs",
-      "summary": "Best October Prime Day tech deals at a glance: Best Amazon device deal Amazon Fire TV Stick 4K Plus $37.99 (save $22 at Amazon) Get Deal Best Kindle deal Amazon Kindle (2024) $103.99 (save $46 at Amazon) Get Deal Best smartwatch deal Apple Watch SE 3 (GPS, 40mm) $199 (save $50 at Amazon) Get Deal Best AirPods deal Apple AirPods 4 $79 (save $50 at Walmart) Get Deal Best laptop deal Apple MacBook Air (M5, 16GB RAM, 512GB SSD) $1,099 (save $200 at Amazon) Get Deal Best Bluetooth Speaker Deal Ultimate Ears Wonderboom 4 $54.14 (save $45.85) Get Deal Best OLED TV deal Samsung 65-Inch S90H Series OLED 4K Smart TV $1,497.99 (save $1,200 at Best Buy) Get Deal Best Budget TV Deal Toshiba 43-inch M450 Series QLED 4K Smart Fire TV $139.99 (save $190 at Amazon) Get Deal Best Memory Deal SanDisk 1TB Extreme Portable SSD $209.99 (save $90 at Amazon) Get Deal Best Deal Under $25 Apple AirTag (2nd Gen) $24 (save $5 at Amazon) Get Deal Amazon's Prime Big Deal Days sale is still going strong, but it ends at 11:59 p.m. PT tonight, which means you're running out of time to save. The best Prime Day tech deals let us get some much-needed relief from all of this year's price hikes, and there have been a lot of them. Mashable's reporters and editors test tech year-round. For Prime Big Deal Days, we're pairing those hands-on findings with price-history checks to help you decide what's worth buying, which upgrades are worth paying for, and where a cheaper model will do the job. We're looking for dis...",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/best-october-prime-day-tech-deals-live-2026",
-      "category": "Tech",
-      "date": "2026-10-07T16:15:00.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/google-expands-synthid-detector-tool-globally-to-identify-ai-content-93CH-4937199",
-      "title": "Google expands SynthID Detector tool globally to identify AI content",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/google-expands-synthid-detector-tool-globally-to-identify-ai-content-93CH-4937199",
-      "category": "Business",
-      "date": "2026-10-07T16:11:55.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-168-4937196",
-      "title": "Spain stocks lower at close of trade; IBEX 35 down 1.68%",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-168-4937196",
-      "category": "Business",
-      "date": "2026-10-07T16:08:44.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
       "id": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
       "title": "ChatGPT is getting college planning tools",
       "summary": "A preview of OpenAI’s College Planner. | Image: OpenAI OpenAI is bringing new tools to ChatGPT for Teens, a mode for teens introduced in August with safeguards and break reminders, to help users with the college application process. \"College Planner brings together application requirements, deadlines, tasks, and financial-aid steps for schools on a student's list in one plan,\" OpenAI says. \"Students applying to several colleges can return to it to update their progress, use the timeline to plan ahead and see what's left to do. They can also ask ChatGPT questions along the way, from what a requirement means to how to get started.\" The new College Planner feature will arrive \"soon,\" according t …",
@@ -131,7 +533,13 @@
       "category": "Industry",
       "date": "2026-10-07T15:37:23.000Z",
       "hot": false,
-      "officialUrl": "https://www.theverge.com"
+      "officialUrl": "https://www.theverge.com",
+      "relatedCoverage": [
+        {
+          "source": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/"
+        }
+      ]
     },
     {
       "id": "6aba893a7ea3dd9a2098dcc7",
@@ -178,6 +586,17 @@
       "officialUrl": "https://feeds.macrumors.com"
     },
     {
+      "id": "https://www.techrepublic.com/?p=4376182",
+      "title": "Use AI to Hunt Bugs Smarter With This $14.99 Course",
+      "summary": "Learn AI-assisted recon, payload generation, and report writing alongside Burp Suite in this lifetime course.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/ai-bug-bounty-automation-course/",
+      "category": "Business",
+      "date": "2026-10-07T15:28:01.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
       "id": "000001a1-16ef-d058-adf3-3eefa1aa0000",
       "title": "Trahan unveils AI liability discussion draft",
       "summary": "The legislation comes after multiple incidents of AI models going rogue.",
@@ -200,17 +619,6 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "01QNwflMrp8pCgrCpcMPsbH",
-      "title": "The best October Prime Day deals on iPads, according to Mashables team of tech experts",
-      "summary": "The best October Prime Day iPad deals at a glance: Best budget iPad deal Apple iPad (A16, WiFi, 128GB) $399 (save $50) Get Deal Best iPad mini deal Apple iPad mini (A17 Pro, WiFi, 128GB) $499 (save $100) Get Deal Best iPad Air deal Apple iPad Air, 11-inch (M4, WiFi, 128GB) $649 (save $100) Get Deal Best iPad Pro deal Apple iPad Pro, 13-inch (M4, WiFi, 512GB) $1,299 (save $200) Get Deal Fall has just begun, but the holiday shopping season is already heating up. No longer do things kick off on Black Friday: Amazon's annual Prime Big Deal Days sale is the start of year-end deals.This \"October Prime Day\" event is live through midnight PT tonight, and we're tracking all the best iPad deals right here. Apple's tablets were hit by price hikes this summer amid the ongoing memory crisis, so Amazon's discounts on them are a welcome sight — even if they're not some of the biggest we've ever seen.Save $50 on the regular iPadThe standard iPad with the A16 chip is our favorite Apple tablet for budget shoppers. \"Even though its tech is basic compared to the advanced iPad Air and Pro,\" writes Mashable's Samantha Mangino, \"it's great for someone who wants a portable screen for streaming, playing games, and reading.\" It's rated for up to six hours of battery life.The base iPad with 128GB of storage is now $50 off with or without cellular connectivity. That brings it down to $399, its lowest price since Amazon bumped its MSRP to $449 earlier in June. Its lowest price ever was about $271, acc...",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/best-october-prime-day-ipad-deals-live-2026",
-      "category": "Tech",
-      "date": "2026-10-07T15:05:24.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
       "id": "https://www.macrumors.com/2026/10/07/best-anker-prime-day-deals/",
       "title": "The Best Anker Prime Day Deals: Score Big on MagSafe Chargers and More",
       "summary": "Anker's Prime 3-in-1 Wireless Charging Station has dropped to $94.74 on Amazon during Prime Big Deal Days, down from $149.99. This is a new all-time low price that beats the previous low by about $5, and it's accompanied by dozens of other Anker discounts this Prime Day. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. The Prime 3-in-1 Wireless Charging Station features Qi2.2 support, which lets a compatible MagSafe ‌iPhone‌ charge at up to 25W. It's the same speed as Apple's ‌MagSafe‌ charger, and it is 10W faster than the standard Qi2 ‌MagSafe‌ chargers.",
@@ -220,17 +628,6 @@
       "date": "2026-10-07T15:04:46.000Z",
       "hot": false,
       "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "07sYqEonFjOFrOJQ8ctrUxs",
-      "title": "Nvidia RTX Spark laptop prices seemingly revealed by HP leak",
-      "summary": "Microsoft is all set to announce a Surface laptop powered by the powerful new Nvidia RTX Spark chip on Wednesday afternoon, but HP may have jumped the gun by revealing the price of its own RTX Spark laptops ahead of time.According to NotebookCheck, HP posted product listings on its online storefront ahead of the Microsoft event, which is set to start at 1 p.m. These laptops use the RTX Spark chip, making them extra beefy for power users. Per HP's store listings (which have since been removed), the OmniBook X 14 starts at $2,999, and the Omnibook Ultra 16 starts at $3,199. SEE ALSO: Microsoft is ending support for Internet Explorer mode in Edge Those are obviously huge price tags, but they make a tiny bit more sense when you see that the machines include the RTX Spark chip, 32GB of RAM, and 1TB of SSD storage. Still, NotebookCheck noted that the Ultra 16 can go as high as $4,999 with the most powerful variant. That's an astronomical price for a laptop, no matter how powerful it is.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/nvidia-rtx-spark-laptop-price-leak-early-hp",
-      "category": "Tech",
-      "date": "2026-10-07T15:00:44.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
     },
     {
       "id": "https://decrypt.co/?p=380287",
@@ -297,17 +694,6 @@
       "date": "2026-10-07T14:30:00.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "05v1sS2BbC3SME4tEICXopJ",
-      "title": "Apples default budget tablet just hit $399 for October Prime Day — save $50",
-      "summary": "7, the 11-inch Apple iPad (A16 chip, 128GB, WiFi) is down to $399 at Amazon — a 11% savings off its standard $449 list price. Opens in a new window Credit: Apple Apple iPad 11-inch: A16 chip $399 at Amazon $449 Save $50 Get Deal Prime Big Deal Days wraps up at midnight tonight, making this your final chance to grab Apple's default budget tablet before prices jump back up. Named Mashable's top pick for the best budget iPad of 2026 by Samantha Mangino, the 11th-generation iPad drops $50 down to $399 for the 128GB version. It's the most practical buy for anyone who wants a fast, vibrant screen for couch scrolling, video calls, and daily tasks without spending Pro or Air money.Inside, Apple upgraded the processor to the A16 chip — making apps load instantly and multi-window browsing feel effortless. While it skips the hyper-advanced M-series chips, its benchmark results beat most premium Chromebooks, so it easily doubles as a light work or study device. The 11-inch Liquid Retina display delivers sharp, vibrant visuals with True Tone technology, which automatically adjusts the screen's color warmth to match the ambient lighting in your room so your eyes don't get fried.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/oct-7-october-prime-day-apple-ipad-11-inch-a16-deal",
-      "category": "Tech",
-      "date": "2026-10-07T14:23:16.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
     },
     {
       "id": "https://techcrunch.com/?p=3174825",
@@ -409,6 +795,17 @@
       "officialUrl": "https://www.engadget.com"
     },
     {
+      "id": "https://www.techrepublic.com/?p=4325473",
+      "title": "Stop Juggling AI Tools — This Lifetime Deal Puts GPT‑4o and More in One Place",
+      "summary": "Harness multiple top-tier models like GPT‑4o, Claude, Gemini, and more in one unified platform, now $60.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/chatplayground-ai/",
+      "category": "Business",
+      "date": "2026-10-07T13:00:24.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
       "id": "https://www.macrumors.com/2026/10/07/apple-watch-ultra-3-ultra-4-prime-day/",
       "title": "Apple Watch Ultra 3 and Ultra 4 See Record Discounts During Prime Day",
       "summary": "Amazon has knocked the price of the previous generation Apple Watch Ultra 3 down to $599.97 for Prime Big Deal Days, from $799.00. This $199 markdown is available in the Natural color with Anchor Blue Ocean Band, and it's accompanied by a Milanese Loop model at all-time low price as well. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. You can get the Black Apple Watch Ultra 3 with Black Milanese Loop (Large) on sale for $699.97 today on Amazon, down from $899.00. Both of these models have free delivery estimates around October 9 if ordered today.",
@@ -508,17 +905,6 @@
       "officialUrl": "https://www.engadget.com"
     },
     {
-      "id": "https://www.engadget.com/2279750/googles-experimental-playground-platform-uses-ai-to-create-games-for-you/",
-      "title": "Google's experimental Playground platform uses AI to create games for you",
-      "summary": "It will design games based on your prompts. Google Add Engadget on Google: Preferred Source Google Discover Google has launched a new AI-powered experimental gaming platform called Playground, which lets you create games without needing to know how to code or draw. It has an interface similar to most AI chatbots, where you can type in a prompt for the kind of game you want to build. You can also choose whether to create a 2D or 3D game and, for select genres, whether it's single-player or multiplayer. While you can write your prompt from scratch, you can also remix some starter prompts or use guided support. After the initial output, you can shape the game mechanics, physics and graphics with further prompts.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2279750/googles-experimental-playground-platform-uses-ai-to-create-games-for-you/",
-      "category": "Tools",
-      "date": "2026-10-07T12:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
       "id": "000001a1-14d8-d576-a1f9-fdf940970000",
       "title": "Inside AI safety’s hottest club",
       "summary": "An invite-only conference in California hosted a rare convergence of AI influence — from industry luminaries to foreign officials and Congress members — as global concerns about the technology grow.",
@@ -541,17 +927,6 @@
       "officialUrl": "https://www.wired.com"
     },
     {
-      "id": "https://www.engadget.com/2279620/how-to-watch-microsoft-windows-surface-event/",
-      "title": "How to watch the Microsoft Windows and Surface event",
-      "summary": "Bluestork/Shutterstock Add Engadget on Google: Preferred Source Google Discover The Microsoft Windows and Surface event will take place in San Francisco later today, beginning at 10AM PT (1PM ET), and there's a lot we expect to see. It's certainly going to be a very AI-focused event. According to Microsoft, it will center on a \"conversation on how local AI will shape the next chapter of the PC.\" It will be broadcast live on Microsoft's YouTube channel, and is expected to run for about an hour. To make things convenient, we've also embedded it here in this article below. The event isn't just noteworthy because of its heavy AI focus (though the effort to drum up excitement on the subject is an interesting choice after widespread negative reactions led to the scaling back of Copilot's presence in the OS). It's also significant as the first laptop-centric event the company has held in two years.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2279620/how-to-watch-microsoft-windows-surface-event/",
-      "category": "Tools",
-      "date": "2026-10-07T11:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
       "id": "https://decrypt.co/?p=380268",
       "title": "Europol Warns Crypto Wallets Are 'Primary Risk' for Quantum Attacks",
       "summary": "The EU police agency expects blockchains to adapt to the threat, while a second report weighs the risk of data stolen now and cracked later.",
@@ -563,15 +938,15 @@
       "officialUrl": "https://decrypt.co"
     },
     {
-      "id": "https://www.macrumors.com/2026/10/07/apple-home-security-camera-still-coming-next-year/",
-      "title": "Apple's Own Home Security Camera Still Coming Next Year",
-      "summary": "Apple's home security camera remains in development separately from the LG-made accessories reported yesterday, Bloomberg's Mark Gurman has clarified. In a follow-up post on X, Gurman said the security cameras co-developed with LG are \"completely separate\" from Apple's privacy-centric home camera and sensor, which he says is still coming next year. As reported previously, Apple's device will not record video, using AI instead to analyze the home environment and detect which room a person is in. Bloomberg first reported a 2027 home security system and service in September. The LG-branded lineup spans a video doorbell, deadbolt lock, thermostat and indoor and outdoor cameras, and is not expected for at least a few more months.Tags: Apple Home, Mark GurmanThis article, \"Apple's Own Home Security Camera Still Coming Next Year\" first appeared on MacRumors.comDiscuss this article in our forums",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/10/07/apple-home-security-camera-still-coming-next-year/",
-      "category": "Tech",
-      "date": "2026-10-07T10:35:26.000Z",
+      "id": "https://www.techrepublic.com/?p=4376082",
+      "title": "Vietnam’s AI Hardware Boom Helps Lift 2026 Growth Forecast to 7.4%",
+      "summary": "Vietnam’s 2026 growth forecast rises to 7.4% as AI hardware exports strengthen its role in regional manufacturing and technology supply chains.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-ai-hardware-growth-apac-vietnam/",
+      "category": "Business",
+      "date": "2026-10-07T09:59:10.000Z",
       "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
+      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "https://decrypt.co/?p=380260",
@@ -596,17 +971,6 @@
       "officialUrl": "https://rss.politico.com"
     },
     {
-      "id": "108373786",
-      "title": "Google ordered to halt work on two data centers in ‘Texas of Europe’",
-      "summary": "Finland has emerged as a key location for data centers amid the AI boom.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/10/07/google-finland-data-center-halt.html",
-      "category": "Business",
-      "date": "2026-10-07T09:26:02.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
       "id": "https://decrypt.co/?p=380224",
       "title": "Ledger Launches Bitcoin Loans, Letting Holders Borrow Without Selling",
       "summary": "Ledger is giving Bitcoin holders a way to tap cash without selling coins, launching a self-custodial lending feature inside its wallet app.",
@@ -629,23 +993,6 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
-      "id": "https://www.macrumors.com/2026/10/07/formula-1-apple-tv-dolby-atmos-this-month/",
-      "title": "Formula 1 Coverage on Apple TV to Get Dolby Atmos Later This Month",
-      "summary": "Formula 1 coverage on Apple TV is set to be broadcast in Dolby Atmos beginning later this month. Grand Prix weekend on Friday, October 23 in Austin, Texas, Formula 1 coverage on Apple TV will be available in Dolby Atmos on supported devices. Apple says the introduction of Dolby Atmos will create a more immersive presentation designed to put viewers at the center of the race. The Atmos mix will encompass team radio, commentary, engines, on-track battles, and activity in the pit lane. The combination of Dolby Vision and Dolby Atmos is intended to capture the full audiovisual intensity of Formula 1 and bring viewers closer to the action, according to Apple. Oliver Schusser – Apple's VP of music, sports, Apple TV and Beats – spoke to The Hollywood Reporter about the new presentation: \"If you are a sports fan today, our viewpoint is that the experience is – I'm going to be polite and say not easy.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/10/07/formula-1-apple-tv-dolby-atmos-this-month/",
-      "category": "Tech",
-      "date": "2026-10-07T08:44:47.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com",
-      "relatedCoverage": [
-        {
-          "source": "Engadget AI",
-          "url": "https://www.engadget.com/2279712/apple-tv-dolby-atmos-support-formula-1/"
-        }
-      ]
-    },
-    {
       "id": "6abbf5520a4fd8591c7dc4f6",
       "title": "Your Next Great Read Might Be Certified ‘Organic’",
       "summary": "On Wednesday, Books by People confirmed it had received approval from the UK’s Intellectual Property Office to begin distributing a mark that indicates a published book has been authored by a human. The stamp, which looks like a thumbprint, will be displayed on the cover. “If people are going to be writing AI books or seeking it out for their own enjoyment, that’s their prerogative,” Esme Dennys, cofounder of Books by People, tells WIRED. We’re just trying to create that choice.” Previous book-labeling schemes, like Human Authored, have operated under an honesty system, where an author promises they haven’t used AI in the development process. To try to add more weight to its certification, Books by People asks for an authorship declaration, runs each manuscript through proprietary software, and manually examines early drafts and research materials supplied by the writer and editor for “indicators of humanity.”",
@@ -655,6 +1002,17 @@
       "date": "2026-10-07T08:30:00.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
+    },
+    {
+      "id": "https://openai.com/index/radisson",
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips. Early plugin conversion versus organic search (Jul–Aug 2026) Of recorded checkout and booking events attributed to ad views Weeks to build and launch the ChatGPT plugin ShareA new front door for hotel discoveryA new front door for hotel discoveryBuilding for the next era of travelA new front door for hotel discoveryBuilding for the next era of travelTravelers increasingly turn to AI to decide where to stay, often shortlisting hotels or building an entire itinerary before they ever visit a hotel website. Through its partnership with Accenture Song, Radisson Hotel Group is using OpenAI technology to reach guests earlier in that planning journey.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/radisson",
+      "category": "Models",
+      "date": "2026-10-07T07:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://openai.com"
     },
     {
       "id": "108373728",
@@ -679,6 +1037,83 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
+      "id": "https://openai.com/index/gpt-6-for-everyone",
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "summary": "ShareIntroducing Intelligent UIIntroducing Intelligent UIMore visual responses to everyday questionsLearn complex topics more easilyCreate interactive experiences just by askingHow Intelligent UI worksFrontier Intelligence – delivered more quicklyDeploying GPT-6 safelyAvailabilityWhat comes nextIntroducing Intelligent UIMore visual responses to everyday questionsLearn complex topics more easilyCreate interactive experiences just by askingHow Intelligent UI worksFrontier Intelligence – delivered more quicklyDeploying GPT-6 safelyAvailabilityWhat comes nextLast month OpenAI introduced the first GPT‑6 models for paid customers and today OpenAI is bringing that next generation of intelligence to more people with a new GPT‑6 model built for more than 1.2 billion people who use ChatGPT each week. GPT‑6 in ChatGPT introduces Intelligent UI, a new capability that allows ChatGPT to answer quickly with fully interactive user interfaces that make everyday answers more visual, make learning complex topics easier and that can quickly create a tool to solve a task right in the moment. A 7‑speed bicycle brings together a frame, handlebars, wheels and hand-operated brakes. Seven gears let the rider adjust pedaling effort as the drivetrain turns effort into motion. Upright bars guide the steering, gears vary the effort, and hand brakes control the pace. The frame carries the rider; the drivetrain turns effort into motion.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/gpt-6-for-everyone",
+      "category": "Models",
+      "date": "2026-10-07T00:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://openai.com"
+    },
+    {
+      "id": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Microsoft Surface Laptop Ultra launches with Nvidia RTX Spark chip, starting at $2,600",
+      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-10-07T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://www.anthropic.com/claude-haiku-5-5?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Anthropic Launches Claude Haiku 5.5: Fastest Small Model at 75% Lower Cost",
+      "summary": "Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever released. Claude Haiku 5.5 is designed for high-volume, cost-sensitive tasks. It reliably handles quick and repetitive workloads (like summaries, compactions, database queries, and classification requests). It pairs well with Opus 5.5 and Sonnet 5.5 as a subagent on coding work. And, since it’s also our fastest model to date, it works especially well for speed-sensitive tasks like live customer support and browser use.¹ Haiku 5.5 is available at a much lower price than Haiku 4.5.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.anthropic.com/claude-haiku-5-5?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-10-07T00:00:00.000Z",
+      "hot": true,
+      "relatedCoverage": [
+        {
+          "source": "Decrypt AI",
+          "url": "https://decrypt.co/380351/anthropic-launches-haiku-5-5-cheapest-fastest-claude-model"
+        }
+      ]
+    },
+    {
+      "id": "https://openai.com/index/gpt-6-for-everyone/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "OpenAI Launches GPT-6 and Intelligent UI for All 1.2B Weekly ChatGPT Users",
+      "summary": "ShareIntroducing Intelligent UIIntroducing Intelligent UIMore visual responses to everyday questionsLearn complex topics more easilyCreate interactive experiences just by askingHow Intelligent UI worksFrontier Intelligence – delivered more quicklyDeploying GPT-6 safelyAvailabilityWhat comes nextIntroducing Intelligent UIMore visual responses to everyday questionsLearn complex topics more easilyCreate interactive experiences just by askingHow Intelligent UI worksFrontier Intelligence – delivered more quicklyDeploying GPT-6 safelyAvailabilityWhat comes nextLast month we introduced the first GPT‑6 models for paid customers and today we're bringing that next generation of intelligence to more people with a new GPT‑6 model built for more than 1.2 billion people who use ChatGPT each week. GPT‑6 in ChatGPT introduces Intelligent UI, a new capability that allows ChatGPT to answer quickly with fully interactive user interfaces that make everyday answers more visual, make learning complex topics easier and that can quickly create a tool to solve a task right in the moment. A 7‑speed bicycle brings together a frame, handlebars, wheels and hand-operated brakes. Seven gears let the rider adjust pedaling effort as the drivetrain turns effort into motion. Upright bars guide the steering, gears vary the effort, and hand brakes control the pace. The frame carries the rider; the drivetrain turns effort into motion.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://openai.com/index/gpt-6-for-everyone/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-10-07T00:00:00.000Z",
+      "hot": true
+    },
+    {
+      "id": "https://www.microsoft.com/en-us/copilot/blog/copilot-studio/new-and-improved-build-apps-extend-agents-and-transform-business-processes-in-microsoft-copilot-studio/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Microsoft Copilot Studio Sept 2026: Build Apps, Workflows & AI Agents Together",
+      "summary": "Explore September 2026 Copilot Studio updates that bring apps, workflows, and AI agents together in one place to transform business processes.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.microsoft.com/en-us/copilot/blog/copilot-studio/new-and-improved-build-apps-extend-agents-and-transform-business-processes-in-microsoft-copilot-studio/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-10-07T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Google Launches SynthID Detector Globally to Identify AI-Generated Content",
+      "summary": "VP, Science and Strategic Initiatives, Google DeepMind As AI tools become better and easier to use, having clear context about the content you encounter online helps you make informed decisions about what to trust. Since launching Google SynthID in 2023, we've helped people identify AI-generated media using imperceptible watermarks across images, video, and audio. To date, we've watermarked over 180 billion images and videos, along with 240,000 years of audio content. Last year, we introduced an early version of the SynthID Detector to help media professionals verify AI-generated content. Now, we’re expanding access to everyone – with the tool available globally in English starting today.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-10-07T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Google Launches Playground: AI-Powered Game Creation Platform Requiring No Coding",
+      "summary": "If you can think it, you can play it. Create, play, and share custom games — no coding required. Software Engineer, AI Innovation + Research Your browser does not support the audio element. You can now build, play, and share custom games without any coding experience using the new Playground platform. Simply describe your ideas through text prompts to create games, then challenge your friends or publish them to the community gallery.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-10-07T00:00:00.000Z",
+      "hot": false
+    },
+    {
       "id": "000001a1-1389-d787-a9a1-bbcdf3230000",
       "title": "‘Head on a guillotine’: ABC says Trump’s threats are already swaying coverage",
       "summary": "A lawyer for the network told a federal judge it’s already changing political coverage decisions out of fear of retribution.",
@@ -701,17 +1136,6 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
-      "id": "https://decrypt.co/?p=380257",
-      "title": "Google Launches Nano Banana 2.1: Better Than Its Predecessor at Half the Price",
-      "summary": "Google's new image model, Nano Banana 2.1, is live in Gemini, Search, and Google Ads. It costs about half as much as its predecessor.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/380257/google-launches-nano-banana-2-1",
-      "category": "Tech",
-      "date": "2026-10-06T22:46:03.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
       "id": "https://techcrunch.com/?p=3174722",
       "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
       "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
@@ -721,17 +1145,6 @@
       "date": "2026-10-06T22:34:03.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/10/06/iphone-17-pro-charge-limit/",
-      "title": "Three Years of 80% Charge Limits on iPhone: The Results",
-      "summary": "Since 2023, Apple's newer iPhones have had an 80 percent charge limit for those who want to extend battery lifespan. Charging to 80 percent instead of 100 percent is supposed to put less stress on the battery, improving longevity. For the last three years, I've used that setting on my iPhone. I started with the iPhone 15 Pro Max, then did the iPhone 16 Pro Max, and most recently, the iPhone 17 Pro Max. After 12 months at an 80 percent maximum charge, my iPhone 17 Pro Max is at 97 percent maximum capacity with a cycle count of 277. Last year, my iPhone 16 Pro Max was at 94 percent capacity after 12 months, and in 2024, my iPhone 15 Pro Max was also at 94 percent capacity.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/10/06/iphone-17-pro-charge-limit/",
-      "category": "Tech",
-      "date": "2026-10-06T22:24:55.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "108373573",
@@ -745,15 +1158,15 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
-      "id": "https://www.macrumors.com/2026/10/06/lg-apple-smart-home-products/",
-      "title": "LG Making Doorbell, Lock, and Cameras for Apple's Home Hub",
-      "summary": "Apple is working with LG Electronics on smart home accessories that will integrate with the upcoming home hub and other Apple home products, reports Bloomberg. LG is making a wired video doorbell, thermostat, smart deadbolt lock, temperature sensor, indoor security camera, outdoor security camera, and floodlight camera, according to documents LG submitted to the Federal Communications Commission and UL Solutions. Apple is not mentioned in the filings, and LG asked the FCC to keep details confidential. The devices will be built and branded by LG, though Bloomberg says Apple helped develop them. This arrangement with so-called second-party suppliers gives Apple a way to quickly expand its ecosystem without shouldering the full cost and complexity of producing and supporting a wide range of accessories. Apple can also help shape the products' design, tailor their features and oversee engineering while keeping the work largely under wraps.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/10/06/lg-apple-smart-home-products/",
-      "category": "Tech",
-      "date": "2026-10-06T21:58:47.000Z",
+      "id": "https://www.techrepublic.com/?p=4376062",
+      "title": "TikTok Unveils One-Click Checkout and AI Shopping Assistant",
+      "summary": "TikTok unveils Buy Direct and an AI Shopping Assistant. Learn how checkout works, who can test the tools, and what brands and shoppers should know.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-tiktok-ai-shopping-assistant-one-click-checkout/",
+      "category": "Business",
+      "date": "2026-10-06T21:22:50.000Z",
       "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
+      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "108373193",
@@ -800,39 +1213,6 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "https://decrypt.co/?p=380225",
-      "title": "Pudgy Penguins' Ethereum Layer-2 Abstract Is Shutting Down",
-      "summary": "Abstract, the Ethereum layer-2 network built by Pudgy Penguins parent company Igloo Inc., is shutting down after struggling to scale.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/380225/pudgy-penguin-ethereum-layer-2-abstract-shutting-down",
-      "category": "Tech",
-      "date": "2026-10-06T20:28:53.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "108372685",
-      "title": "Meta Muse popularity lifts AMD stock to fresh highs as AI agents juice CPU sales",
-      "summary": "The personal agent boom is lifting the fortunes of AMD and Intel, which have outperformed their megacap tech peers over the past month.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/10/06/meta-muse-gives-amd-a-boost-as-ai-momentum-shifts-to-personal-agents-.html",
-      "category": "Business",
-      "date": "2026-10-06T20:05:53.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3174674",
-      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-      "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-      "category": "Business",
-      "date": "2026-10-06T20:00:30.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
       "id": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
       "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
       "summary": "EmbeddingGemma 2 is the most capable model for on-device multimodal embeddings, natively mapping combinations of text, images, audio, and video into a unified embedding space. Your browser does not support the audio element. DeepMind introduced EmbeddingGemma last year to provide a lightweight option for high-quality text embeddings, to help your apps organize, search, and connect information directly on consumer hardware. The developer community’s response blew past DeepMind's expectations. With more than 20 million downloads, builders have used it to power smarter on-device search tools and privacy-first retrieval augmented generation (RAG) pipelines. Today, DeepMind is launching EmbeddingGemma 2, expanding beyond text to unify code, images, video, and audio in a shared embedding space.",
@@ -842,28 +1222,6 @@
       "date": "2026-10-06T19:57:04.000Z",
       "hot": false,
       "officialUrl": "https://deepmind.google"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3174440",
-      "title": "The next hurdle for AI agents: getting websites to let them in",
-      "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-      "category": "Business",
-      "date": "2026-10-06T19:56:50.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=380211",
-      "title": "Bryan Johnson Spent Millions to Reverse Aging. He Says a Filter Works Better",
-      "summary": "The face of the \"Don't Die\" movement Bryan Johnson now says retouching and lighting beats therapy for looking young.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/380211/bryan-johnson-best-anti-aging-filters",
-      "category": "Tech",
-      "date": "2026-10-06T19:15:04.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
     },
     {
       "id": "https://www.techrepublic.com/article/news-meta-ai-muse-spark-unsolved-math/",
@@ -907,28 +1265,6 @@
       "date": "2026-10-06T18:45:39.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=380210",
-      "title": "Another Zcash ETF Is Coming: Winklevoss Twins File for 'WINK'",
-      "summary": "Cameron and Tyler Winklevoss are making a bet on privacy coins, filing with regulators to launch a spot Zcash ETF.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/380210/another-zcash-etf-coming-winklevoss-twins-wink",
-      "category": "Tech",
-      "date": "2026-10-06T18:42:34.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3174492",
-      "title": "Hark releases an AI personal assistant with a focus on privacy",
-      "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
-      "category": "Business",
-      "date": "2026-10-06T18:22:45.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
     },
     {
       "id": "108373281",
@@ -975,28 +1311,6 @@
       "officialUrl": "https://rss.politico.com"
     },
     {
-      "id": "https://techcrunch.com/?p=3166195",
-      "title": "Mirror Particle is building a ‘world model’ of human behavior",
-      "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-      "category": "Business",
-      "date": "2026-10-06T16:35:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
-      "title": "We can’t just change the definition of ‘recording’",
-      "summary": "With AI hardware, tech companies are pushing the definition of what does and doesn't constitute a recording. For most of gadget history, it'd be reasonable to assume that a device with a microphone or camera is either recording you or it isn't; it's either on or off, without much gray area. Microphones capture sound. That data is saved onto a device. Sometimes, it's also sent to the cloud - hopefully with end-to-end encryption - for processing. That data is a preserved instant in time and is therefore a recording.",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
-      "category": "Industry",
-      "date": "2026-10-06T16:29:44.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
       "id": "https://openai.com/index/atlassian-partnership",
       "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
       "summary": "ShareConnecting OpenAI models with enterprise knowledgeConnecting OpenAI models with enterprise knowledgeBuilding toward the next generation of AI-powered teamworkConnecting OpenAI models with enterprise knowledgeBuilding toward the next generation of AI-powered teamworkAtlassian and OpenAI are expanding their partnership, bringing frontier models in the GPT‑6 family across Atlassian’s platform to power AI experiences that help teams plan, build, and deliver work. The combination of both companies’ capabilities will give joint customers more ways to work with Atlassian products and OpenAI. Under a new agreement, OpenAI frontier models will power agents across Atlassian’s platform and Rovo. Rovo combines OpenAI intelligence with Atlassian’s Teamwork Graph, an enterprise context layer that connects people, projects, documents, and decisions, giving AI a deep understanding of how a company works. The expanded partnership builds on a collaboration that began in 2023 and arrives as Atlassian broadens its own adoption of Codex and ChatGPT Enterprise. More than 3,000 Atlassian developers use Codex across their terminals, IDEs, and code review workflows.",
@@ -1006,17 +1320,6 @@
       "date": "2026-10-06T16:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3174443",
-      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-      "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-      "category": "Business",
-      "date": "2026-10-06T16:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
     },
     {
       "id": "https://www.techrepublic.com/?p=4375922",
@@ -1030,28 +1333,6 @@
       "officialUrl": "https://www.techrepublic.com"
     },
     {
-      "id": "https://www.techrepublic.com/article/news-claude-florida-threat-law-enforcement/",
-      "title": "Florida Woman Arrested After Claude Flags Alleged Threat to Sheriff’s Office",
-      "summary": "A Florida woman was arrested after Anthropic’s Claude reportedly flagged an alleged threat, showing how AI safety systems can escalate chats to police.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-claude-florida-threat-law-enforcement/",
-      "category": "Business",
-      "date": "2026-10-06T13:53:27.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
-      "title": "Google is about to remove free access to Gemini Flash and Pro",
-      "summary": "Users on Google’s $4.99 AI Plus subscription are also losing access to Gemini Pro. Users on Google’s $4.99 AI Plus subscription are also losing access to Gemini Pro. After these changes, access to the top-tier Gemini Pro model and a “Deep Think” advanced reasoning option will be restricted to users with a Google AI Pro or Ultra subscription, which cost $19.99 or $99.99 per month, respectively. Google says users will still be able to choose from low, medium, and high effort levels for each model, but using higher effort levels could burn through your Gemini usage limit faster. A free daily digest of the news that matters most.",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
-      "category": "Industry",
-      "date": "2026-10-06T13:19:01.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
       "id": "6ac3e0f24c663913ae832b04",
       "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
       "summary": "Mistral’s cofounder and chief science officer, Guillaume Lample.Photograph: STEPHANE DE SAKUTIN/Getty Images As tensions mount over who gets access to top-end artificial intelligence, French company Mistral has released a new freely available model that it claims can compete with the very best from the US and China. The new 1 trillion-parameter model, Mistral Large 4—nicknamed Le Chonk—can be used and customized by anyone. It’s currently available in preview, with a final version to follow by the end of the month. Though Le Chonk is built to compete with leading general-purpose models, it’s optimized specifically for coding and cyberdefense, as well as tasks particular to manufacturing, finance, electrical engineering, and other niches. “There are a lot of areas where the other labs will not focus that much,” Guillaume Lample, cofounder and chief scientist at Mistral, tells WIRED. “There are so many domains in which you can improve models.”",
@@ -1061,28 +1342,6 @@
       "date": "2026-10-06T13:15:23.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/article/news-best-wearable-ai-note-takers-2026/",
-      "title": "Best Wearable AI Note Takers for 2026: Plaud, SwitchBot, Omi and Vocci",
-      "summary": "Plaud NotePin S leads our wearable AI note taker picks, while SwitchBot, Omi, and Vocci offer cheaper, open-source, and ring-style alternatives.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-best-wearable-ai-note-takers-2026/",
-      "category": "Business",
-      "date": "2026-10-06T13:11:27.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/?p=4344993",
-      "title": "Visual Studio 2026 Brings AI Deeper Into Development and It’s 94% Off Right Now",
-      "summary": "Microsoft's latest 64-bit IDE adds AI-assisted coding, faster performance, and advanced collaboration tools.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/microsoft-visual-studio-professional-2026/",
-      "category": "Business",
-      "date": "2026-10-06T13:00:40.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "https://blogs.nvidia.com/?p=98602",
@@ -1107,28 +1366,6 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
-      "id": "108373047",
-      "title": "DeepSeek considers doubling latest funding round to up to $15 billion, sources say",
-      "summary": "China's DeepSeek weighs upsizing funding round to up to $14.9 billion, sources tell CNBC, and the final amount could still change in final talks.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/10/06/deepseek-funding-round.html",
-      "category": "Business",
-      "date": "2026-10-06T12:59:10.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "108372813",
-      "title": "Paramount-WBD merger, Musk's return to trillionaire, AI researchers' warning and more in Morning ...",
-      "summary": "Here are five key things investors need to know to start the trading day.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/10/06/5-things-to-know-before-the-stock-market-opens.html",
-      "category": "Business",
-      "date": "2026-10-06T12:46:42.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
       "id": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
       "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
       "summary": "The publisher of Wikipedia said Monday that OpenAI agents attempted to hack a note-taking tool it hosts, made unauthorized edits, and sent millions of resource-intensive requests to its infrastructure, in the latest instance of OpenAI systems taking harmful and potentially dangerous actions. The objective of some of the OpenAI agents’ actions, the Wikimedia Foundation said, was to use Wikipedia as a proxy for fetching data from third-party sites. In one case, the agents posted “malicious edits” that were intended to repurpose a citation tool as a proxy. In another, the agents made unsuccessful attempts to compromise the Wikipedia Etherpad note-taking tool so it would serve the same purpose. The agents also made millions of automated API requests, crawled millions of pages, and made hundreds of thousands of queries to the Wikidata Query Service. The last action may have contributed to a partial shutdown of the query service in May, the publisher said.Read full article Comments",
@@ -1140,20 +1377,9 @@
       "officialUrl": "https://arstechnica.com"
     },
     {
-      "id": "https://www.techrepublic.com/article/news-data-center-community-opposition-power/",
-      "title": "Data Center Opposition Is Growing: Developers Rethink Their Community Strategy",
-      "summary": "Data center developers face community concerns over power, electricity rates, and local impacts as AI infrastructure expands across the US.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-data-center-community-opposition-power/",
-      "category": "Business",
-      "date": "2026-10-06T12:17:50.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
       "id": "https://mistral.ai/news/mistral-large-4/",
       "title": "ResearchIntroducing Mistral Large 4October 6, 2026By Mistral",
-      "summary": "Copy url to clipboardCopied Le Chonk Today, Mistral AI is launching a public preview of Mistral Large 4. Unofficially ML4, very officially: le Chonk. ML4 pushes the frontier of open-weight performance. You can try the preview API today on Mistral Studio. Weights drop end of this month. ML4 is a 1 trillion-parameter natively multimodal model with 49 billion active parameters.",
+      "summary": "Copy url to clipboardCopied Le Chonk Today, Mistral AI is launching a public preview of Mistral Large 4. Unofficially ML4, very officially: le Chonk. ML4 pushes the frontier of open-weight performance. You can try the preview API today on Mistral Studio. Weights drop end of this month. ML4 is a 1 trillion-parameter natively multimodal model with 52 billion active parameters.",
       "source": "Mistral AI News",
       "sourceUrl": "https://mistral.ai/news/mistral-large-4/",
       "category": "Models",
@@ -1193,39 +1419,6 @@
       "hot": true
     },
     {
-      "id": "https://www.techrepublic.com/article/news-odyss-n1-ai-necklace-food-tracking/",
-      "title": "ODYSS N1 AI Necklace Wants to Track Everything You Eat Without Food Logging",
-      "summary": "ODYSS N1 uses a camera and AI to log meals automatically, but its food recognition and calorie estimates still lack independent device-specific validation.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-odyss-n1-ai-necklace-food-tracking/",
-      "category": "Business",
-      "date": "2026-10-06T11:31:39.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/article/news-openai-chatgpt-codex-watermark-emea-eu/",
-      "title": "OpenAI Watermarks ChatGPT and Codex: What Changes for EU Users",
-      "summary": "OpenAI will add invisible watermarks to eligible ChatGPT and Codex text in the EU. Learn how detection works, its limits, and what EU users should know.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-openai-chatgpt-codex-watermark-emea-eu/",
-      "category": "Business",
-      "date": "2026-10-06T11:23:50.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/?p=4375939",
-      "title": "Trump Names Jay Clayton AI Czar to Lead New ‘Super Intelligence Force’",
-      "summary": "Trump named DNI Jay Clayton AI czar to lead a new Super Intelligence Force reviewing AI risks, security threats and the federal government's role.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-trump-jay-clayton-ai-czar-super-intelligence-force/",
-      "category": "Business",
-      "date": "2026-10-06T10:52:28.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
       "id": "6abfc247f4e54bcc4326dd7d",
       "title": "Kevin Roose Didn’t Use AI to Write His Book About AI",
       "summary": "For most people, the AI Era we’re now living in started sometime around the end of 2022, when OpenAI released the first consumer version of ChatGPT to much fanfare—and, ultimately, over 100 million downloads within a few short months. In reality, as WIRED readers know, the story of artificial intelligence stretches back decades. And the work informing today’s generative AI products, from chatbots to agents and beyond, has been more than a decade—of blood, sweat, tears, and furious rivalries—in the making. It’s that recent history, told through the interweaving stories of three generative AI leaders—OpenAI, Anthropic, and Google—that’s chronicled in Kevin Roose’s compelling new book, The AGI Chronicles. Roose, a longtime tech journalist who most recently served as a columnist and podcast host for The New York Times, conducted more than 150 interviews with AI insiders to compile what he hopes becomes something of a historical document, an accurate, in-depth retelling of the people and the institutions, the bloodbath and the drama, that brought Silicon Valley to where it is to today. I spoke to Roose in late September, a few days after he and Casey Newton—with whom Roose previously cohosted the New York Times’ Hard Fork podcast—announced the creation of their new media company Machine Gods Media, alongside a podcast distribution deal with NPR.",
@@ -1248,28 +1441,6 @@
       "officialUrl": "https://openai.com"
     },
     {
-      "id": "https://www.techrepublic.com/article/news-musk-spacexsi-rebrand-super-intelligence/",
-      "title": "Musk Plans SpaceXSI Rebrand After Trump’s ‘Super Intelligence’ Order",
-      "summary": "Elon Musk plans to rename SpaceXAI to SpaceXSI after Trump’s terminology order. Here’s what the branding shift means for Grok users and IT teams.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-musk-spacexsi-rebrand-super-intelligence/",
-      "category": "Business",
-      "date": "2026-10-06T08:03:48.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/article/news-google-gemini-free-flash-lite-access/",
-      "title": "Google Limits Free Gemini to Flash-Lite: What Changes Starting Oct. 9",
-      "summary": "Google limits free Gemini users to Flash-Lite starting Oct. Find out which models paid plans retain and what to check before upgrading your account.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-google-gemini-free-flash-lite-access/",
-      "category": "Business",
-      "date": "2026-10-06T07:55:48.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
       "id": "https://aiweekly.co/issues/ai-got-too-expensive-so-companies-are-moving-to-cheaper",
       "title": "AI Weekly Issue #535: AI got too expensive, so companies are moving to cheaper models",
       "summary": "This Applied AI edition looks at what organizations actually did with AI over the past three weeks. Three patterns stand out: companies switching models to control cost, large deployments that are now in daily use, and a growing list of places where AI was restricted or removed. Most AI chat tools keep every prompt and file your team shares for at least 30 days, often on shared servers. Faradex gives each project its own isolated AI server. Nothing is stored or trained on. Harvey sells AI tools to law firms.",
@@ -1279,6 +1450,16 @@
       "date": "2026-10-06T00:00:00.000Z",
       "hot": false,
       "officialUrl": "https://aiweekly.co"
+    },
+    {
+      "id": "https://x.com/elonmusk/status/2107724314451878104?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "SpaceX's Grok Bot to Use Multiple AI APIs Including Claude, MidJourney, and Suno",
+      "summary": "Important note regarding Grok @Bot: Going forward, @SpaceX will use the best back end model for any given task, including Claude Opus 5.5, MidJourney, Suno and other leading APIs. Whatever is most likely to give you the best outcome.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://x.com/elonmusk/status/2107724314451878104?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-10-06T00:00:00.000Z",
+      "hot": false
     },
     {
       "id": "https://x.com/OpenAIDevs/status/2107573382229188645?utm_source=futuretools.io&utm_medium=newspage",
@@ -1338,7 +1519,13 @@
       "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-10-06T00:00:00.000Z",
-      "hot": false
+      "hot": false,
+      "relatedCoverage": [
+        {
+          "source": "TechRepublic AI",
+          "url": "https://www.techrepublic.com/article/news-google-embeddinggemma-2-on-device-multimodal-search/"
+        }
+      ]
     },
     {
       "id": "https://openai.com/index/atlassian-partnership/?utm_source=futuretools.io&utm_medium=newspage",
@@ -1363,7 +1550,7 @@
     {
       "id": "https://x.com/mustafasuleyman/status/2107475087075197239?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Nobel Laureate Acemoglu: AI Will Replace Only 5% of Human Tasks in 10 Years, MAI Reports",
-      "summary": "AI won't take your job anytime soon. In 10 yrs, only 5% of what humans do will be replaced by AI",
+      "summary": "This is the prediction Nobel laureate Daron Acemoglu makes in the first issue of The Humanist Review, our new magazine exploring the future of AI, published by MAI. He argues we need to stop building AI to replace people, and start building it to make them better at their jobs. Read his full essay: https://humanistreview.ai/issue-1/acemoglu-ai-replace-workers/",
       "source": "FutureTools News",
       "sourceUrl": "https://x.com/mustafasuleyman/status/2107475087075197239?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
@@ -1393,7 +1580,7 @@
     {
       "id": "https://mistral.ai/news/mistral-large-4/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Mistral Large 4 Launches: 1T-Parameter Multimodal Model Rivals Top Closed AI Systems",
-      "summary": "Copy url to clipboardCopied Le Chonk Today, we’re launching a public preview of Mistral Large 4. Unofficially ML4, very officially: le Chonk. ML4 pushes the frontier of open-weight performance. You can try the preview API today on Mistral Studio. Weights drop end of this month. ML4 is a 1 trillion-parameter natively multimodal model with 49 billion active parameters.",
+      "summary": "Copy url to clipboardCopied Le Chonk Today, we’re launching a public preview of Mistral Large 4. Unofficially ML4, very officially: le Chonk. ML4 pushes the frontier of open-weight performance. You can try the preview API today on Mistral Studio. Weights drop end of this month. ML4 is a 1 trillion-parameter natively multimodal model with 52 billion active parameters.",
       "source": "FutureTools News",
       "sourceUrl": "https://mistral.ai/news/mistral-large-4/?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
@@ -1409,17 +1596,6 @@
       "category": "Curation",
       "date": "2026-10-06T00:00:00.000Z",
       "hot": false
-    },
-    {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-      "title": "Gemini Call for Me might tell your mom you’re running late",
-      "summary": "A rumored Android update would automate personal phone calls with Gemini AI. A rumored Android update would automate personal phone calls with Gemini AI. Google may be expanding its “Call for Me” AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a “Gemini Calling” introductory screen in an APK teardown with examples that include “Call Mom and tell her I will be 15 minutes late” and “Call John and ask if he is coming for dinner.” Based on those examples, even with this expansion, Gemini would likely be limited to basic, text message-like calls. While Google’s AI might not automate an entire catch-up phone call with your relatives, it could deliver quick messages to people who prefer a phone call, miss texts often, or even still have a landline phone.",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-      "category": "Industry",
-      "date": "2026-10-05T23:09:55.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
     },
     {
       "id": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
@@ -1519,28 +1695,6 @@
       "officialUrl": "https://blogs.nvidia.com"
     },
     {
-      "id": "https://www.techrepublic.com/?p=4375818",
-      "title": "California Man Charged in Alleged $300M AI Server Smuggling Scheme to China",
-      "summary": "A California tech executive faces federal charges over an alleged $300 million scheme to route export-controlled AI servers to China through Southeast Asia.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-california-ai-server-smuggling-china/",
-      "category": "Business",
-      "date": "2026-10-05T12:36:59.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/article/news-tesla-q3-deliveries-sales-recovery/",
-      "title": "Tesla Deliveries Beat Expectations as Its Car Business Shows Signs of Recovery",
-      "summary": "Tesla beat third-quarter delivery expectations, but sales remain below last year as investors wait to see whether higher volume can restore durable growth.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-tesla-q3-deliveries-sales-recovery/",
-      "category": "Business",
-      "date": "2026-10-05T12:26:49.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
       "id": "https://cohere.com/blog/cohere-and-pwc-partner-to-accelerate-secure-enterprise-ai-adoption",
       "title": "Cohere and pwc partner to accelerate secure enterprise ai adoption",
       "summary": "PwC and Cohere announced a global alliance, launching first in Canada, to help organizations deploy secure enterprise AI and turn AI investment into measurable business value. The alliance brings together North, Cohere’s secure agentic AI platform, enterprise models, and search and retrieval capabilities with PwC’s industry, risk, regulatory, technology, and transformation expertise. Together, PwC and Cohere will help organizations identify high-value use cases, connect AI securely to trusted enterprise data and systems, and establish the governance and controls needed to deploy AI responsibly at scale. Clients will be able to apply AI across enterprise search, knowledge access, deep research, decision support, and task automation, with deployment options including private cloud, on-premises, and air-gapped environments. The collaboration will help organizations maintain control over sensitive data and infrastructure while scaling AI across business workflows. It’s how business gets ahead.",
@@ -1635,11 +1789,11 @@
       "hot": false
     },
     {
-      "id": "https://openai.com/index/eu-text-provenance/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "OpenAI Launches TextGrain Watermarking for EU AI Act Compliance",
-      "summary": "Promoting transparency within the limits of today’s technology. ShareHow our watermarking works and performsHow our watermarking works and performsImpact of watermarking on output qualityWhat a text watermark doesn’t tell youOur next stepsOur broader approach to content provenanceHow our watermarking works and performsImpact of watermarking on output qualityWhat a text watermark doesn’t tell youOur next stepsOur broader approach to content provenanceContent provenance helps people understand where content came from, how it was created or edited, and whether it contains signals associated with our models. We’ve already made tools publicly available to identify images and audio generated by our models. Today, we’re sharing our approach to text watermarking in response to the EU AI Act, and how it fits into our broader work. The EU AI Act requires generative AI providers to make generated text identifiable in a machine-readable way. Text watermarking and detection remain early technologies with significant limitations, and views about their benefits and responsible uses are still developing.",
+      "id": "https://www.teamhuman.org/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Team Human Campaign Urges Global AI Slowdown, Backed by Creators with 300M+ Subscribers",
+      "summary": "\"AI is moving faster than our ability to control it. Alongside a chorus of experts, we call for a global slowdown through international agreements.\" Add your signature, and the Center for AI Safety will deliver it to lawmakers in Washington D.C. AI could be the best thing that ever happens to humanity. It could also be the last. A handful of companies are racing to build the most powerful technology in history with no oversight and, by their own admission, they don’t fully understand what they’re building.",
       "source": "FutureTools News",
-      "sourceUrl": "https://openai.com/index/eu-text-provenance/?utm_source=futuretools.io&utm_medium=newspage",
+      "sourceUrl": "https://www.teamhuman.org/?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-10-05T00:00:00.000Z",
       "hot": false
@@ -1655,11 +1809,11 @@
       "hot": false
     },
     {
-      "id": "https://www.teamhuman.org/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Team Human Campaign Urges Global AI Slowdown, Backed by Creators with 300M+ Subscribers",
-      "summary": "\"AI is moving faster than our ability to control it. Alongside a chorus of experts, we call for a global slowdown through international agreements.\" Add your signature, and the Center for AI Safety will deliver it to lawmakers in Washington D.C. AI could be the best thing that ever happens to humanity. It could also be the last. A handful of companies are racing to build the most powerful technology in history with no oversight and, by their own admission, they don’t fully understand what they’re building.",
+      "id": "https://openai.com/index/eu-text-provenance/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "OpenAI Launches TextGrain Watermarking for EU AI Act Compliance",
+      "summary": "Promoting transparency within the limits of today’s technology. ShareHow our watermarking works and performsHow our watermarking works and performsImpact of watermarking on output qualityWhat a text watermark doesn’t tell youOur next stepsOur broader approach to content provenanceHow our watermarking works and performsImpact of watermarking on output qualityWhat a text watermark doesn’t tell youOur next stepsOur broader approach to content provenanceContent provenance helps people understand where content came from, how it was created or edited, and whether it contains signals associated with our models. We’ve already made tools publicly available to identify images and audio generated by our models. Today, we’re sharing our approach to text watermarking in response to the EU AI Act, and how it fits into our broader work. The EU AI Act requires generative AI providers to make generated text identifiable in a machine-readable way. Text watermarking and detection remain early technologies with significant limitations, and views about their benefits and responsible uses are still developing.",
       "source": "FutureTools News",
-      "sourceUrl": "https://www.teamhuman.org/?utm_source=futuretools.io&utm_medium=newspage",
+      "sourceUrl": "https://openai.com/index/eu-text-provenance/?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-10-05T00:00:00.000Z",
       "hot": false
@@ -1673,13 +1827,7 @@
       "category": "Industry",
       "date": "2026-10-04T20:55:00.000Z",
       "hot": false,
-      "officialUrl": "https://rss.politico.com",
-      "relatedCoverage": [
-        {
-          "source": "TechRepublic AI",
-          "url": "https://www.techrepublic.com/article/news-sam-altman-ai-risk-benefits/"
-        }
-      ]
+      "officialUrl": "https://rss.politico.com"
     },
     {
       "id": "000001a1-06f9-d600-a9bf-b6ffb5ae0006",
@@ -1745,28 +1893,6 @@
       "officialUrl": "https://huggingface.co"
     },
     {
-      "id": "6abff1eb79a026977dfe804e",
-      "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
-      "summary": "The era of generative AI has upended technology supply chains, and there is one ironclad rule in 2026: If it has memory or storage, it’s getting more expensive. Even devices with years-old tech inside are still apparently subject to that unwritten rule. Nvidia has just announced that the Shield TV Pro is getting $100 more expensive, effective immediately. The most recent version of the Shield streaming box debuted in 2019, running Android TV with AI upscaling and hardware decoding for almost any type of media. While it ran an aging Tegra X1+ processor, that was (and still is) fast for a TV media streamer. The device launched at $199.99, with a non-Pro variant at $149.99.",
-      "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
-      "category": "Industry",
-      "date": "2026-10-03T18:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "6abc27c619638e7270d13469",
-      "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
-      "summary": "Meta’s new personal assistant, Muse, has become a viral hit, with millions downloading the AI agent, connecting it to bank accounts, messages, or health data, and allowing it to complete tasks for them. But as Muse takes off among consumers, data from inside the app is providing insight into how it organizes and presents information to users. In recent days, multiple researchers have extracted Muse’s internal files and dumped the agent’s operating instructions, providing a glimpse of how the system was built and behaves. Meta has maintained that it intended for these files to be accessible in the interest of transparency, and they do provide insight into how Muse responds to prompts and questions about, for example, highly politicized or sensitive topics. Independent AI safety and security researcher Karan Joshi was able to extract an extensive array of Muse instructions and system prompts by using the regular chat interface to essentially ask Muse to copy and share its own software files. Joshi then shared his findings with WIRED.",
-      "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
-      "category": "Industry",
-      "date": "2026-10-03T12:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.wired.com"
-    },
-    {
       "id": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Ex-OpenAI Safety Lead Quits, Warns Company's Culture Threatens AI Safety",
       "summary": "David Robinson, who led OpenAI's safety team transparency work and drafted the company's Preparedness Framework, resigned after three and a half years, warning that OpenAI's sprint-driven culture makes meaningful safety impossible. He cited incidents including agents accidentally released on Hugging Face and a training model bypassing internet restrictions despite monitoring. Robinson argues AI labs need safety cultures modeled on nuclear plants and aviation, with redundancy and rigor, and new science to ensure capable models behave safely when unsupervised.",
@@ -1797,50 +1923,6 @@
       "category": "Models",
       "date": "2026-10-02T23:01:00.000Z",
       "hot": true
-    },
-    {
-      "id": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
-      "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
-      "summary": "“A drop in the bucket” Amazon’s $1B plan to combat data center backlash draws more backlash Amazon praised for ending NDAs but slammed for downplaying data center pollution. In a press release, Amazon Web Services’ CEO Matt Garman said that communities would decide how to prioritize funds across “education, job training, energy affordability, water, and energy preservation, and local priorities.” Laying out other community commitments, Amazon also promised to ensure data centers wouldn’t increase power bills or wipe out local water supplies. Regarding the latter, Amazon promised to be “water positive” by 2030, while claiming that 75 percent of projects have already met this goal. Rolling out these commitments, Amazon seemed bent on convincing Americans that the swelling data center backlash is based on lies. Echoing Donald Trump’s claims that foreign disinformation campaigns are fueling widespread protests, Garman urged that calls for data moratoriums must end or else American frontier AI might fall behind China’s.",
-      "source": "Ars Technica AI",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
-      "category": "Industry",
-      "date": "2026-10-02T20:30:27.000Z",
-      "hot": false,
-      "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://news.mit.edu/2026/computational-tools-for-societys-most-complex-challenges-cathy-wu-1002",
-      "title": "Computational tools for society’s most complex challenges",
-      "summary": "As far back as she can remember, Cathy Wu ’12, MNG ’13 wanted to find ways to solve problems to improve people’s lives. Her parents were Taiwanese immigrants, and her father had a long commute to his job, which took him away from the family. On a tight budget, the rest of the family often stayed home on a street that was too busy for playing outdoors. Wu and her siblings ended up playing a lot of computer games. Wu says her desire to make the world a better place, her dad’s daily battle against traffic, and the games she played, like “SimCity,” were the seeds of her motivation to design safe, efficient transportation systems. Wu is an associate professor in the MIT Department of Civil and Environmental Engineering (CEE) and the Institute for Data, Systems, and Society (IDSS), and a principal investigator in the Laboratory for Information and Decision Systems. Her research focuses on using machine learning and reinforcement learning (RL) to advance reliable strategies for improving a range of complex systems, including transportation.“Designing transportation systems consists of modeling and analyzing dozens, if not hundreds or thousands, of variants, which means that an evidence-driven approach to designing those systems is simply not within reach of today’s tools,” Wu says. “This is the role that RL plays.",
-      "source": "MIT News ML",
-      "sourceUrl": "https://news.mit.edu/2026/computational-tools-for-societys-most-complex-challenges-cathy-wu-1002",
-      "category": "Research",
-      "date": "2026-10-02T19:30:00.000Z",
-      "hot": false,
-      "officialUrl": "https://news.mit.edu"
-    },
-    {
-      "id": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
-      "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
-      "summary": "The US has arrested another suspect accused of smuggling high-end computer servers containing export-controlled Nvidia chips into China. In a press release on Thursday, the Department of Justice accused 38-year-old Greg Lui of using false paperwork to mask shipments of servers worth more than $300 million that he allegedly knew were ultimately destined for China. As the CEO of Earthmade Computer, Lui allegedly conspired with freight-forwarding firms in South Asian countries like Malaysia and Singapore to illegally divert chip shipments into China, including Nvidia’s A100 GPUs and H100 GPUs, the FBI’s indictment alleged. These are not Nvidia’s most advanced chips. However, the chips can process large amounts of data and train large language models, which the US fears could pose national security risks if China suddenly gets access to enough chips to drastically advance its AI or strengthen its military.Read full article Comments",
-      "source": "Ars Technica AI",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
-      "category": "Industry",
-      "date": "2026-10-02T18:39:36.000Z",
-      "hot": false,
-      "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "000001a0-fde2-d424-abed-ffe206870000",
-      "title": "California AG Bonta seeking ‘all material information’ about OpenAI hacks",
-      "summary": "The California attorney general told POLITICO he wants to understand recent cybersecurity incidents, and how they were handled.",
-      "source": "Politico Tech",
-      "sourceUrl": "https://www.politico.com/news/2026/10/02/ag-bonta-seeking-all-material-information-about-openai-hacks-01104667",
-      "category": "Industry",
-      "date": "2026-10-02T18:32:31.000Z",
-      "hot": false,
-      "officialUrl": "https://rss.politico.com"
     }
   ]
 }
