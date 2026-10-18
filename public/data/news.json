@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2026-10-18T01:19:41.314Z",
+  "lastUpdated": "2026-10-18T05:51:20.623Z",
   "news": [
+    {
+      "id": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
+      "title": "Giving AI a “crystal clear” view of the materials world",
+      "summary": "In principle, artificial intelligence could make finding the right material for an application as simple as ordering dinner: Scientists would tell a large language model what they want, and it would serve them a perfectly designed crystal for the job.Unfortunately, that approach doesn’t work well yet, and the problem comes down to data: Most materials consist of crystals, which are 3D periodic arrangements of atoms whose structures are stored in specialized formats, not the text streams that today’s large language models are trained on. The experimental literature is also heavily biased toward a few popular classes of crystals, making AI outputs skew toward those materials.Now MIT researchers have created a multimodal AI model that tackles these problems. The model combines 3D atomic structures with natural language descriptions to create rich linguistic descriptions about the structures from experimental research papers and first-principles computational databases. The unified description outlines not just the chemical composition and structure, but also its properties, processing considerations, and potential applications, helping AI  about what makes materials impactful.In a new paper in Nature Communications, the researchers showed their system could identify better material designs than models trained on text streams alone by allowing the model to “see” the atomic arrangements and bonding patterns. For example, when the researchers asked the model to identify material...",
+      "source": "MIT News ML",
+      "sourceUrl": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
+      "category": "Research",
+      "date": "2026-10-18T04:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://news.mit.edu"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/asian-ai-stocks-fall-as-rising-financing-costs-threaten-spending-boom--bloomberg-4955727",
+      "title": "Asian AI stocks fall as rising financing costs threaten spending boom - Bloomberg",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/asian-ai-stocks-fall-as-rising-financing-costs-threaten-spending-boom--bloomberg-4955727",
+      "category": "Business",
+      "date": "2026-10-18T02:00:03.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
     {
       "id": "https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/",
       "title": "OpenAI is building a humanoid robot, but the body isn't the real challenge",
@@ -244,17 +266,6 @@
       "officialUrl": "https://www.investing.com"
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/explainercould-hackers-get-inside-my-fridge-4955339",
-      "title": "Explainer-Could hackers get inside my fridge?",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/explainercould-hackers-get-inside-my-fridge-4955339",
-      "category": "Business",
-      "date": "2026-10-17T08:36:22.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
       "id": "06mim6ahPsdwn7qmodAS7Uh",
       "title": "Get ChatGPT, Claude, Gemini, and Grok access for $39.99 for life",
       "summary": "TL;DR: Get lifetime access to AskAnyModel AI Pro for just $39.99 (reg. Opens in a new window Credit: AskAnyModel AskAnyModel AI Pro Plan: Lifetime Subscription $39.99 $499 Save $459.01 Get Deal ChatGPT says one thing. Claude has another suggestion. Gemini takes a different approach. Comparing AI responses can be useful, but bouncing between platforms gets old quickly. AskAnyModel AI Pro offers lifetime access for $39.99 (reg.",
@@ -275,17 +286,6 @@
       "date": "2026-10-17T05:00:01.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/chinese-online-retailer-temu-agrees-to-data-privacy-restrictions-to-settle-texas-lawsuit-documents-say-4954577",
-      "title": "Chinese online retailer Temu agrees to data privacy curbs to settle Texas lawsuit",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/chinese-online-retailer-temu-agrees-to-data-privacy-restrictions-to-settle-texas-lawsuit-documents-say-4954577",
-      "category": "Business",
-      "date": "2026-10-17T04:18:21.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
     },
     {
       "id": "https://aiweekly.co/issues/ai-made-midterm-ads-top-137-million-and-70-carry-no-ai-label",
@@ -2248,17 +2248,6 @@
       "date": "2026-10-13T09:00:00.000Z",
       "hot": false,
       "officialUrl": "https://www.technologyreview.com"
-    },
-    {
-      "id": "https://blogs.nvidia.com/?p=98737",
-      "title": "NVIDIA Announces New Investments in France’s Startups",
-      "summary": "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to application. France’s progress sits on deliberate groundwork. The AI Action Summit in February 2025 and Choose France Summits in 2025 and 2026 anchored major compute commitments on French soil. What the ecosystem has built since then spans the full stack. Read All NVIDIA in Europe Announcements NVIDIA’s Investments in France NVIDIA has been investing in France’s startup ecosystem, having previously invested in leading technology companies including Alice&Bob, Gradium and Scintil Photonics. Across all of Europe, NVIDIA has committed nearly $10 billion to the technology ecosystem.",
-      "source": "NVIDIA Blog",
-      "sourceUrl": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
-      "category": "Events",
-      "date": "2026-10-13T05:00:31.000Z",
-      "hot": false,
-      "officialUrl": "https://blogs.nvidia.com"
     }
   ]
 }
