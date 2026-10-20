@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-10-19T21:55:16.248Z",
+  "lastRun": "2026-10-20T00:52:17.203Z",
   "sources": [
     {
       "name": "NVIDIA Blog",
@@ -23,14 +23,14 @@
       "emptyStreak": 0
     },
     {
-      "name": "OpenAI News",
+      "name": "Google AI Blog",
       "items": 15,
       "status": "ok",
       "failStreak": 0,
       "emptyStreak": 0
     },
     {
-      "name": "Google AI Blog",
+      "name": "OpenAI News",
       "items": 15,
       "status": "ok",
       "failStreak": 0,
@@ -48,14 +48,14 @@
       "items": 0,
       "status": "empty",
       "failStreak": 0,
-      "emptyStreak": 1415
+      "emptyStreak": 1416
     },
     {
       "name": "Perplexity Hub",
       "items": 0,
       "status": "empty",
       "failStreak": 0,
-      "emptyStreak": 1415
+      "emptyStreak": 1416
     },
     {
       "name": "Anthropic News",
@@ -69,7 +69,7 @@
       "items": 0,
       "status": "empty",
       "failStreak": 0,
-      "emptyStreak": 8
+      "emptyStreak": 9
     },
     {
       "name": "Cohere Blog",
@@ -83,7 +83,7 @@
       "items": 0,
       "status": "empty",
       "failStreak": 0,
-      "emptyStreak": 57
+      "emptyStreak": 58
     },
     {
       "name": "The Verge AI",
@@ -97,8 +97,8 @@
       "items": 0,
       "status": "error",
       "error": "HTTP 429",
-      "failStreak": 315,
-      "emptyStreak": 315
+      "failStreak": 316,
+      "emptyStreak": 316
     },
     {
       "name": "MIT Technology Review AI",
@@ -126,25 +126,18 @@
       "items": 0,
       "status": "empty",
       "failStreak": 0,
-      "emptyStreak": 128
+      "emptyStreak": 129
     },
     {
       "name": "Mashable Tech",
-      "items": 8,
+      "items": 9,
       "status": "ok",
       "failStreak": 0,
       "emptyStreak": 0
     },
     {
       "name": "Engadget AI",
-      "items": 3,
-      "status": "ok",
-      "failStreak": 0,
-      "emptyStreak": 0
-    },
-    {
-      "name": "TechRepublic AI",
-      "items": 14,
+      "items": 4,
       "status": "ok",
       "failStreak": 0,
       "emptyStreak": 0
@@ -152,6 +145,13 @@
     {
       "name": "Decrypt AI",
       "items": 9,
+      "status": "ok",
+      "failStreak": 0,
+      "emptyStreak": 0
+    },
+    {
+      "name": "TechRepublic AI",
+      "items": 14,
       "status": "ok",
       "failStreak": 0,
       "emptyStreak": 0
@@ -165,7 +165,7 @@
     },
     {
       "name": "CNBC Tech",
-      "items": 11,
+      "items": 12,
       "status": "ok",
       "failStreak": 0,
       "emptyStreak": 0
@@ -175,8 +175,8 @@
       "items": 0,
       "status": "error",
       "error": "HTTP 405",
-      "failStreak": 315,
-      "emptyStreak": 315
+      "failStreak": 316,
+      "emptyStreak": 316
     },
     {
       "name": "MIT News ML",
@@ -186,15 +186,15 @@
       "emptyStreak": 0
     },
     {
-      "name": "Investing.com",
-      "items": 2,
+      "name": "MacRumors",
+      "items": 15,
       "status": "ok",
       "failStreak": 0,
       "emptyStreak": 0
     },
     {
-      "name": "MacRumors",
-      "items": 15,
+      "name": "Investing.com",
+      "items": 6,
       "status": "ok",
       "failStreak": 0,
       "emptyStreak": 0
@@ -218,14 +218,14 @@
       "items": 0,
       "status": "empty",
       "failStreak": 0,
-      "emptyStreak": 1415
+      "emptyStreak": 1416
     },
     {
       "name": "LangChain Blog",
       "items": 0,
       "status": "empty",
       "failStreak": 0,
-      "emptyStreak": 1415
+      "emptyStreak": 1416
     },
     {
       "name": "LlamaIndex Blog",
@@ -250,7 +250,7 @@
     },
     {
       "name": "FutureTools News",
-      "items": 25,
+      "items": 14,
       "status": "ok",
       "failStreak": 0,
       "emptyStreak": 0
@@ -260,14 +260,14 @@
       "items": 0,
       "status": "empty",
       "failStreak": 0,
-      "emptyStreak": 1415
+      "emptyStreak": 1416
     },
     {
       "name": "Bing Search Blog",
       "items": 0,
       "status": "empty",
       "failStreak": 0,
-      "emptyStreak": 1415
+      "emptyStreak": 1416
     },
     {
       "name": "X / Twitter (Top AI Voices)",
