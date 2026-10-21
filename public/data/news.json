@@ -1,27 +1,384 @@
 {
-  "lastUpdated": "2026-10-21T06:15:14.615Z",
+  "lastUpdated": "2026-10-21T12:08:51.488Z",
   "news": [
     {
-      "id": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-090-4961637",
-      "title": "Taiwan stocks higher at close of trade; Taiwan Weighted up 0.90%",
+      "id": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/",
+      "title": "CompanyMistral Advances AI for Engineering with NVIDIAMistral is collaborating with NVIDIA to develo",
+      "summary": "Mistral and NVIDIA are collaborating to revolutionize engineering workflows by integrating Mistral’s AI models with NVIDIA’s accelerated computing and physics modeling tools, enabling faster simulations and closed-loop AI-driven design. The partnership will introduce public benchmarks and open datasets to standardize evaluations for physics and agentic AI in computer-aided engineering, while leveraging NVIDIA’s Omniverse for 3D simulation and asset creation. Building on their existing work, including the development of Mistral Large 4, the initiative aims to push the boundaries of AI-powered engineering across industries like aerospace, automotive, and semiconductors. Mistral is collaborating with NVIDIA to develop a new generation of AI-native engineering workflows powered by NVIDIA accelerated computing. Combining Mistral Large 4, with Mistral’s data generation, and physics modeling pipelines, accelerated by NVIDIA CUDA-X libraries and NVIDIA Warp, the initiative aims to accelerate engineering simulation and enable closed-loop workflows that connect simulation, AI model development and engineering design. Mistral and NVIDIA will also work together to integrate Mistral's models with NVIDIA Omniverse libraries for GPU-accelerated 3D scene generation and SimReady asset creation.",
+      "source": "Mistral AI News",
+      "sourceUrl": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/",
+      "category": "Models",
+      "date": "2026-10-21T12:00:20.000Z",
+      "hot": true
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/applied-digital-shares-climb-on-texas-ai-data-center-pact-and-bullish-analyst-call-4962783",
+      "title": "Applied Digital shares climb on Texas AI data center pact and bullish analyst call",
       "summary": "",
       "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-090-4961637",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/applied-digital-shares-climb-on-texas-ai-data-center-pact-and-bullish-analyst-call-4962783",
       "category": "Business",
-      "date": "2026-10-21T06:05:04.000Z",
+      "date": "2026-10-21T11:57:17.000Z",
       "hot": false,
       "officialUrl": "https://www.investing.com"
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/klepierre-raises-2026-guidance-after-strong-third-quarter-93CH-4961622",
-      "title": "Klepierre raises 2026 guidance after strong third quarter",
+      "id": "108437808",
+      "title": "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck",
+      "summary": "Nvidia says its DSX Pod AI Factory, which combines seven Vera Rubin racks in a shipping container, could cut the time to start serving AI tokens to 14 days.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/10/21/nvidia-announces-vera-rubin-racks-that-can-be-shipped-on-a-truck-.html",
+      "category": "Business",
+      "date": "2026-10-21T11:54:28.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/zoom-video-upgraded-at-oppenheimer-on-ai-platform-traction-shares-jump-4962734",
+      "title": "Zoom Video upgraded at Oppenheimer on AI platform traction, shares jump",
       "summary": "",
       "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/klepierre-raises-2026-guidance-after-strong-third-quarter-93CH-4961622",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/zoom-video-upgraded-at-oppenheimer-on-ai-platform-traction-shares-jump-4962734",
       "category": "Business",
-      "date": "2026-10-21T05:58:41.000Z",
+      "date": "2026-10-21T11:45:40.000Z",
       "hot": false,
       "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=381483",
+      "title": "'Mentality Issue': PlayStation Founder Waves Away Disc Ownership Anger",
+      "summary": "PlayStation founder Ken Kutaragi pushed back against anger at Sony's decision to stop producing physical game discs.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/381483/mentality-issue-playstation-founder-waves-away-disc-ownership-anger",
+      "category": "Tech",
+      "date": "2026-10-21T11:19:34.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+      "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Fa...",
+      "summary": "Search SimReady assets and retrieve building component data",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+      "category": "Research",
+      "date": "2026-10-21T10:59:42.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
+    },
+    {
+      "id": "https://blogs.nvidia.com/?p=99244",
+      "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
+      "summary": "At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware. RTX Spark, which launched last week, powers personal agents on Windows PCs; DGX Spark supports developers building and scaling applications on Linux; and DGX Station serves enterprise teams running frontier workloads on Linux, with a Windows version arriving in December. Announcements include: Underdog Desktop Agent now available for RTX Spark DGX Spark 64GB available on Friday, Oct. 23 NVIDIA Sync to support eight DGX Sparks and add Model Launcher this month October DGX Spark software update adds Wi-Fi Assistant and updates DGX Spark Skills DGX Station improves manageability with seven new integrations DGX Station for Windows launches in December with support for many manufacturing apps and agent harnesses Three new open source reference workflows for robotics on DGX Station NVIDIA Cloud Functions is coming in early access to DGX Station Recursive Flint, a new local coding model, is now available for NVIDIA local hardware Day-0 support for new Nemotron, GLM, DeepSeek, Qwen, MiniMax and FLUX.3 AI models New accelerations for llama.cpp and vLLM inference engines and a new collection of checkpoints optimized for local AI hardware.  about these local AI announcements below, and check out the demos and sessions at GTC Berlin. Read All NVIDIA in Europe Announcements RTX Spark Brings Personal Agents to the Windows PC RTX Spark is a new beginning for the PC — running personal agents, accelerated content cre...",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
+      "category": "Events",
+      "date": "2026-10-21T10:50:37.000Z",
+      "hot": false,
+      "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/article/news-amazon-bee-frontier-eclipse-workplace-consent/",
+      "title": "Amazon Bee Frontier and Bee Eclipse Raise Workplace Consent Concerns",
+      "summary": "",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-amazon-bee-frontier-eclipse-workplace-consent/",
+      "category": "Business",
+      "date": "2026-10-21T10:50:04.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
+      "id": "https://blogs.nvidia.com/?p=99227",
+      "title": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
+      "summary": "General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference and large-scale reinforcement learning to cloud customers. A5X instances bring together NVIDIA Vera Rubin NVL72, NVIDIA ConnectX-9 SuperNICs, Google Cloud Virgo Network and Google Cloud’s fourth-generation advanced liquid-cooling technology for demanding agentic inference and reinforcement learning workloads at scale. Google Cloud plans to scale its Vera Rubin-based infrastructure to as many as 960,000 Rubin GPUs across multiple sites. Ineffable Intelligence, a London-based technology company founded by AlphaGo creator David Silver, was the first customer to access A5X. Ineffable is using the platform to advance large-scale reinforcement learning and shape “superlearner” systems that learn continuously from experience. Read All NVIDIA in Europe Announcements Learning through interaction requires a continuous cycle of generating experience, evaluating outcomes and updating models, requiring infrastructure that can support the entire process at scale.",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
+      "category": "Events",
+      "date": "2026-10-21T10:45:17.000Z",
+      "hot": false,
+      "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
+      "id": "108440556",
+      "title": "'MAKE DEALS': Trump says data centers should pay communities a 'dividend' to win support",
+      "summary": "Trump says data centers should consider community \"dividends\" as AI financing worries grow.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/10/21/trump-data-centers-community-dividend.html",
+      "category": "Business",
+      "date": "2026-10-21T10:34:20.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://blogs.nvidia.com/?p=99232",
+      "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
+      "summary": "Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever. Developers need compute closer to their data, open models they can customize and serve at scale, and full-stack infrastructure that is secure by design. NVIDIA Cloud Partners across Europe, the Nordics, Africa, and Central Asia are expanding regional compute capacity for model training and inference, helping developers build agentic and physical AI applications, and establishing boundaries around what agents can access and do. Together, they’re turning Europe’s energy, data, research and industrial expertise into productive intelligence — supporting new models, applications, organizations and jobs while giving people more control over where and how they develop and deploy AI. Read All NVIDIA in Europe Announcements Sovereign: AI Clouds Building European AI Infrastructure Europe is home to world-class research, engineering talent, industrial expertise, data, the next generation of models and applications that requires large-scale computing close to where that knowledge resides. Regional AI clouds provide the infrastructure foundation on which model builders, enterprises and entire industries can grow.",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
+      "category": "Events",
+      "date": "2026-10-21T10:30:41.000Z",
+      "hot": false,
+      "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
+      "id": "https://blogs.nvidia.com/?p=99195",
+      "title": "Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
+      "summary": "To increase productivity, accelerate innovation and create new opportunities for economic growth, Europe’s industrial leaders are tapping NVIDIA CUDA-X and Omniverse libraries, as well as NVIDIA Cosmos and Nemotron open models, across the engineering and manufacturing lifecycle. Bringing those capabilities together on the factory floor, the NVIDIA Factory Operations Blueprint (FOX) is now available in early access on GitHub, providing a path for developers to build and deploy always-on factory manager agents that coordinate work across machines, and specialist agents focused on use cases such as visual inspection, root cause analysis, report generation and fleet management. These agents can connect to frontier models, including NVIDIA Cosmos and Nemotron, and foundational knowledge including computer-aided design, product lifecycle management, simulation software, and IT and operational technology systems. Building on the FOX blueprint enables the ecosystem to build industrial agents that monitor factory operations in real time, correlate visual findings and machine logs to investigate problems, and coordinate responses. With Cosmos in-context learning, these agents can adapt using examples and documentation, without fine-tuning. Siemens is integrating agents built using FOX into Intelligence Center X, its agentic enterprise system, to help identify root causes and coordinate factory operations, for estimated cost savings of 20%.",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
+      "category": "Events",
+      "date": "2026-10-21T10:30:40.000Z",
+      "hot": false,
+      "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
+      "id": "https://blogs.nvidia.com/?p=99204",
+      "title": "NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations",
+      "summary": "NVIDIA cuDSS, launched today in general availability, is an NVIDIA CUDA-X library that shifts a critical part of engineering and scientific simulations onto GPUs. Complex engineering feats — from advanced chips to aircraft to industrial systems —– depend on simulation to predict how designs will perform before they’re built. As designs become more complex, simulations take longer to run, increasing computing demands and limiting the number of ideas teams can test. NVIDIA cuDSS accelerates solving large sparse systems — the math-heavy step that repeats throughout engineering and scientific simulations and often limits how many designs a team can test — by tapping into GPUs. This lets applications reduce time to results and increase simulation throughput, enabling end users to explore larger more realistic models, more accurate representations and a wider design space at a reduced cost. Read All NVIDIA in Europe Announcements Industry leaders are already integrating NVIDIA cuDSS into their tools to transform workflows for their end customers: Applied Materials: With cuDSS, Applied Materials accelerated sparse solves in Ginestra, its physics-based, defect-centric simulation platform, by up to 10x versus CPU-only approaches, speeding exploration of semiconductor materials and device reliability.",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+      "category": "Events",
+      "date": "2026-10-21T10:30:25.000Z",
+      "hot": false,
+      "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
+      "id": "https://blogs.nvidia.com/?p=99214",
+      "title": "NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across ...",
+      "summary": "NVIDIA builds tools to enable safe agents across the stack. The NVIDIA OpenShell Reference Architecture, announced today, is part of NVIDIA’s growing portfolio of technologies that enables organizations to safely deploy agents at scale. NVIDIA Confidential Computing is the infrastructure layer that protects the models and data those agents depend on while running. Today, NVIDIA is expanding that layer with Confidential Bare Metal, a new deployment option with NVIDIA Confidential Computing that enables frontier model builders to run sensitive workloads on dedicated third-party infrastructure while retaining control of their models and data. NVIDIA is introducing new platform security controls that protect data in transit, measure platform integrity and enforce hardware-level access restrictions. These new controls let frontier model builders use bare-metal instances to own and operate their bespoke software stack, including host and platform infrastructure software, when operating on NVIDIA accelerated computing infrastructure across third-party cloud, neocloud and enterprise infrastructure.",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/",
+      "category": "Events",
+      "date": "2026-10-21T10:30:02.000Z",
+      "hot": false,
+      "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
+      "id": "6ad7916c8c60213697a5287a",
+      "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
+      "summary": "OpenAI’s venture capital arm as well as Peter Thiel’s Founders Fund are investing in Coherence Neuro, a startup developing a brain implant to detect and treat cancer. The investments are part of a $45 million seed funding round for Coherence and reflect Big Tech’s burgeoning interest in brain data. Coherence’s CEO and cofounder Ben Woodington says there is “growing synergy” between the big AI labs and companies building devices to decode the brain, known as brain-computer interfaces. “The idea of capturing data to train better models and use it to optimize treatments is going to be super important,” he says. “The AI companies seem to be aligned with this thesis as well—that this novel data source is going to be valuable.” Woodington says AI is a “perfect use case” for brain-computer interfaces because developers of these devices generate massive datasets that are too large for humans to analyze themselves.",
+      "source": "Wired AI",
+      "sourceUrl": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/",
+      "category": "Industry",
+      "date": "2026-10-21T10:30:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.wired.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=381475",
+      "title": "UK Banks Hit With 10,000 Complaints Over Blocked Crypto Transfers in 90 Days: Report",
+      "summary": "Lloyds drew the most complaints despite having no published policy restricting crypto transfers, according to a Stand With Crypto report.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/381475/uk-banks-hit-with-10000-complaints-over-blocked-crypto-transfers-in-90-days-report",
+      "category": "Tech",
+      "date": "2026-10-21T10:29:41.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://blogs.nvidia.com/?p=99221",
+      "title": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data",
+      "summary": "Agents are only as useful as what they know, and only as trustworthy as the boundaries they run within. Leading enterprises are using the open source NVIDIA Agent Toolkit — now expanded with new tools — to customize and control agents, use company data to inform their answers and actions, monitor what they do and govern how they operate. NVIDIA Agent Toolkit comprises: The new NVIDIA Agent Knowledge Foundation with NVIDIA CUDA-X libraries NVIDIA open models including Nemotron Retriever and the new Kumo family NVIDIA OpenShell secure agent runtime NVIDIA NemoClaw secure agent blueprints Tools and skills, like NeMo Relay and NeMo Compass Read All NVIDIA in Europe Announcements To develop agents that accomplish real work and are trustworthy from development to deployment, builders need an open agent stack that brings together the models, harness, runtime, data and tools. NVIDIA Agent Knowledge Foundation helps enterprises turn data into company intelligence agents can use. Agents can find relevant information, understand what it means for the business and use it to make predictions and help people decide what to do next. Companies can use Agent Knowledge Foundation without moving data, rebuilding existing workflows or changing governance controls.",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/",
+      "category": "Events",
+      "date": "2026-10-21T10:10:01.000Z",
+      "hot": false,
+      "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/article/news-microsoft-surface-laptop-ultra-cheat-sheet/",
+      "title": "Microsoft Surface Laptop Ultra Cheat Sheet: Price, Specs, Features, and More",
+      "summary": "Explore the Microsoft Surface Laptop Ultra's price, specs, Nvidia RTX Spark AI performance, battery life, and key features before buying.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-microsoft-surface-laptop-ultra-cheat-sheet/",
+      "category": "Business",
+      "date": "2026-10-21T10:07:06.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
+      "id": "https://blogs.nvidia.com/?p=99217",
+      "title": "NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries",
+      "summary": "NVIDIA is expanding its family of open models across language, robotics, biology, and quantum computing, giving developers, researchers and enterprises what they need to build applications tailored to local languages and industries The portfolio includes the new NVIDIA Nemotron 3.5 Super VL and Nemotron 3.5 Bolt models; new NVIDIA Nemotron Retriever models for embedding, reranking and document parsing; the new NVIDIA Kumo family open weight foundation models and libraries for structured business data; NVIDIA Cosmos 3.5 world models; NVIDIA Alpamayo 2 Edge for autonomous vehicles; NVIDIA BioNeMo for healthcare and scientific discovery; and NVIDIA Ising for quantum computing. The open models give organizations a foundation they can customize with local data and deploy on infrastructure they control. Read All NVIDIA in Europe Announcements NVIDIA Nemotron Powers Post-Training Across Industries NVIDIA Nemotron brings open language models, datasets and recipes to developers building agents. The models support text and images, helping agents orchestrate workflows, reason through complex problems and complete specialized tasks at a lower cost. Nemotron models are built with data, research and expertise from the NVIDIA Nemotron Coalition, including European partners Black Forest Labs, H-Company and Mistral. Nemotron provides a foundation for enterprises to build applications based on their own knowledge and expertise.",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/open-models-europe-industry/",
+      "category": "Events",
+      "date": "2026-10-21T10:00:07.000Z",
+      "hot": false,
+      "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
+      "id": "065ZSf5BKmh7SjqdHaECp6b",
+      "title": "The Roborock Q7 M5+ robot vacuum is over $100 off at Amazon before Black Friday",
+      "summary": "SAVE OVER $100: As of Oct. 21, the Roborock Q7 M5+ robot vacuum and mop is on sale for $249.98 at Amazon. That's $110.01 off its full price of $359.99. Opens in a new window Credit: Roborock Roborock Q7 M5+ Robot Vacuum and Mop $249.98 at Amazon $359.99 Save $110.01 Get Deal at Amazon Vacuuming is an important chore on a home cleaning to-do list, but carrying an upright vacuum from room to room can make it feel like a hassle. That's where a robot vacuum comes in handy. These devices take care of the cleanup for you, with some even able to mop the floor.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/oct-21-roborock-q7-m5-plus-robot-vacuum-mop-deal",
+      "category": "Tech",
+      "date": "2026-10-21T09:46:56.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/article/news-inception-mercury-3-ai-speed/",
+      "title": "Inception Says Mercury 3 Generates Text Up to 8x Faster Than Rivals",
+      "summary": "Inception says Mercury 3 generates text up to 8x faster than rivals. Explore its AI agent use cases, API pricing, benchmarks, and migration deadline.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-inception-mercury-3-ai-speed/",
+      "category": "Business",
+      "date": "2026-10-21T09:33:36.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
+      "id": "02suCnv6VoM9TMxOLCQM9B0",
+      "title": "Walmarts Holiday Gift Guide is live: See our top 10 picks ahead of Black Friday 2026",
+      "summary": "TL;DR: Walmart's official 2026 Holiday Gift Guide is live. Shop top picks from the catalog — ranging from $50 off Apple AirPods Pro 3 and the $499 Nintendo Switch 2.Walmart's 2026 Holiday Gift Guide is officially live, giving shoppers an early look at what the retail giant expects to be the season's biggest hits. Rather than a fast-moving doorbuster event, Walmart's Gift Guide functions as a complete holiday roadmap — curating top picks across every age group and budget tier.Whether you want to score major savings on flagship Apple gear, hunt down the new Nintendo Switch 2, or grab budget-friendly blind boxes under $15, the blog maps out the best places to spend your money wisely. You can check out the full ad scan directly over on BlackFriday.com to browse every page.Below, we've rounded up 10 of the best picks from Walmart's lineup, ranging from budget stocking stuffers to premium, splurge-worthy tech.The internet's favorite stocking stuffer hits WalmartBlind boxes are taking over TikTok for a reason, and the Sad Baby Animals figures are almost illegally cute. Each box holds a surprise palm-sized vinyl creature — featuring capybaras, highland cows, and axolotls — with big, dramatic eyes that beg you to adopt them all. They're an instant serotonin hit, a perfect stocking stuffer, and a dangerously fun addiction if you end up hunting for that ultra-rare 1-in-128 secret figure.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/walmart-holiday-gift-guide-black-friday-2026",
+      "category": "Tech",
+      "date": "2026-10-21T09:32:24.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://blogs.nvidia.com/?p=99238",
+      "title": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote",
+      "summary": "Founded in a tent near the Berlin Wall in 1980, the Tempodrom moved several times before settling near Anhalter Bahnhof in 2001. Its permanent home has since hosted concerts, galas and political events. Today, it hosts a different kind of spectacle. GTC Berlin runs three days, with more than 100 sessions on agentic AI, robotics, physical AI, open models and accelerated computing underway at STATION-Berlin down the road. Here, journalists, analysts and partners have gathered for the main event: NVIDIA founder and CEO Jensen Huang’s keynote. Huang Takes the Stage Huang opened with a question: What do L’Oréal, Revolut, Spotify, Merck, Vodafone, Zara, Porsche, Nestlé and HSBC have in common?",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
+      "category": "Events",
+      "date": "2026-10-21T09:30:16.000Z",
+      "hot": false,
+      "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/article/news-snapdragon-x2-linux-laptop-support/",
+      "title": "Snapdragon X2 Linux Laptop Support: What Works, What Doesn’t",
+      "summary": "Linux support is progressing for Snapdragon X2 laptops, but missing drivers and hardware limitations mean buyers should check exact models before switching.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-snapdragon-x2-linux-laptop-support/",
+      "category": "Business",
+      "date": "2026-10-21T09:27:14.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
+      "id": "00y4XWU9Wq4UGh2FeOQlBVN",
+      "title": "Get lifetime website hosting, unlimited storage, and 54 domains for $150",
+      "summary": "TL;DR: Host website affordably for good with this lifetime subscription to the Hostdeal Unlimited Plan, on sale now for just $149.99 (reg. Opens in a new window Credit: Light Speed Technologies Hostdeal Unlimited Plan: Lifetime Subscription $149.99 $1,800 Save $1,650.01 Get Deal If you think paying someone to build your website is where the expenses end when it comes to launching your website, we have some bad news. The expenses just continue from there with hosting and storage fees, and they can be ongoing. That's where Hostdeal shines, allowing you to pay once and enjoy a lifetime of web hosting.Right now, a lifetime subscription to Hostdeal Unlimited Plan is on sale for just $149.99.Running your websites doesn't have to cost an endless fortune. Hostdeal offers the option to pay once and enjoy a lifetime of free domains and SSL certificates, making it a great choice for agencies, developers, entrepreneurs, businesses, and people seeking maximum flexibility for their websites.The Hostdeal Unlimited Plan provides unlimited website hosting, unlimited NVMe SSD storage, and 54 free lifetime domains to use as you'd like. You can even tackle high-volume website management with this Unlimited Plan, complete with enterprise-grade security and fast performance.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/oct-21-hostdeal-unlimited-plan-lifetime-subscription",
+      "category": "Tech",
+      "date": "2026-10-21T09:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "000001a1-5bb4-d632-a1af-ffbc37aa0008",
+      "title": "Why Anthropic’s draft bill sets $1 billion threshold for AI risk",
+      "summary": "The artificial intelligence company’s proposed threshold mirrors a California law — but repurposes it to decide when the government could block an advanced AI model.",
+      "source": "Politico Tech",
+      "sourceUrl": "https://www.politico.com/news/2026/10/21/anthropic-bill-ai-risk-threshold-01128458",
+      "category": "Industry",
+      "date": "2026-10-21T09:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://rss.politico.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/10/21/apple-stores-looted-during-french-protests/",
+      "title": "Apple Stores in Bordeaux and Lille Looted During French Protests",
+      "summary": "Apple retail stores in Bordeaux and Lille were looted earlier this week amid unrest accompanying demonstrations against the high cost of living in France, Boursorama reports. Both locations were among numerous businesses targeted across the country. The same Bordeaux location, Apple Sainte-Catherine, was previously looted in December 2018 during unrest surrounding France's \"yellow vest\" demonstrations. Note: This discussion thread is located in our Political News forum with special rules.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/10/21/apple-stores-looted-during-french-protests/",
+      "category": "Tech",
+      "date": "2026-10-21T08:59:06.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/?p=4377971",
+      "title": "Synaptics Astra SR200 Google Coral NPU: Coralboard SL Ships, SR200 Chips Still Sampling",
+      "summary": "Synaptics' Astra SR200 processors target wearables, cameras, and industrial AI, while the separate Coralboard SL development kit is available now.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-synaptics-astra-sr200-google-coral-npu/",
+      "category": "Business",
+      "date": "2026-10-21T08:53:28.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
+      "id": "https://www.engadget.com/2292594/spacex-tesla-exploring-possible-merger/",
+      "title": "SpaceX and Tesla are exploring a possible merger",
+      "summary": "The companies formed special committees with independent directors from both sides. Finn Gomez/Getty Images Add Engadget on Google: Preferred Source Google Discover SpaceX and Tesla have formed special committees to discuss the possibility of a merger, Elon Musk has revealed during the former's earnings call for the third quarter of 2026. Musk, who serves as CEO for both companies, said the committees were formed at the request of shareholders. The committees are made up of independent directors from SpaceX and Tesla. Musk himself can't be part of the discussions, as someone who's considered a \"conflicted party,\" along with his brother Kimbal Musk. Based on the corporate information listed on the companies' websites, Tesla has seven independent directors, while SpaceX has six.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2292594/spacex-tesla-exploring-possible-merger/",
+      "category": "Tools",
+      "date": "2026-10-21T08:40:59.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/10/21/loop-capital-cuts-apple-rating-over-iphone-sales-outlook/",
+      "title": "Loop Capital Cuts Apple Rating Over iPhone Sales Outlook",
+      "summary": "Loop Capital has lowered its rating on Apple from \"Buy\" to \"Hold,\" saying the company is unlikely to make up an estimated 13 million iPhone shipments cut from its plans for the second half of 2026, according to Investing.com. The firm reduced its Apple stock price target from $370 to $330. Loop previously believed shortages of memory and processors had delayed shipments that Apple would recover in 2027. Its latest supply chain checks have led it to drop that assumption. The firm now forecasts 79 million iPhone shipments in the December quarter, below initial estimates of 85 million. It also expects a lower average selling price, reducing its forecast from $1,239 to $1,123.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/10/21/loop-capital-cuts-apple-rating-over-iphone-sales-outlook/",
+      "category": "Tech",
+      "date": "2026-10-21T08:38:06.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "6ad79c45a4cc6513f80c0b82",
+      "title": "Europe Wants Data Centers. Its Climate Goals Are Getting in the Way",
+      "summary": "Earlier this year, the German government laid out an ambitious plan: By 2030, it would double the scale of the country’s data center fleet, and quadruple the amount of compute available for running artificial intelligence models. The idea was to minimize Germany’s dependence on the United States for access to AI—a point of concern across Europe—and boost its faltering economy. However, Germany has found that its AI ambitions are butting up against its climate commitments. EU member states have committed to cutting greenhouse gas emissions by 55 percent by the end of the decade. But policies meant to help meet that target are interfering with attempts to trigger a data center building frenzy. As part of its broader climate commitments, the previous German administration voted through the Energy Efficiency Act in 2023.",
+      "source": "Wired AI",
+      "sourceUrl": "https://www.wired.com/story/europe-data-centers-climate-change/",
+      "category": "Industry",
+      "date": "2026-10-21T08:30:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.wired.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/10/21/bluesound-adds-native-apple-music-support/",
+      "title": "Bluesound Adds Native Apple Music Support",
+      "summary": "Bluesound offers a range of high-end home audio products ranging from wireless speakers and soundbars to streaming components that connect to existing hi-fi systems. Its products use BluOS, a platform that lets users control music and link audio equipment across multiple rooms. The new integration makes &zwnj;Apple Music&zwnj; accessible within the BluOS Controller app. &zwnj;AirPlay&zwnj; 2 remains available. For households with several BluOS products, the addition also brings &zwnj;Apple Music&zwnj; into the same system used to manage playback around the home. Users can play music across grouped devices or choose different music for individual rooms.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/10/21/bluesound-adds-native-apple-music-support/",
+      "category": "Tech",
+      "date": "2026-10-21T08:06:00.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "108440477",
+      "title": "OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it",
+      "summary": "Warnings about the risks of developing increasingly advanced AI systems have ramped up in recent months, amid cyberattacks from rogue AI models.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html",
+      "category": "Business",
+      "date": "2026-10-21T07:49:48.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com",
+      "relatedCoverage": [
+        {
+          "source": "Engadget AI",
+          "url": "https://www.engadget.com/2292644/openai-agents-disabled-own-safety-monitoring-systems/"
+        }
+      ]
+    },
+    {
+      "id": "https://www.macrumors.com/2026/10/21/john-ternus-explains-good-design/",
+      "title": "Apple CEO John Ternus Explains What Makes Good Product Design",
+      "summary": "Apple CEO John Ternus says improving the user's experience guides Apple's design decisions, whether that means adding practical features or an animation that simply makes a device more enjoyable to use. TIME published an interview with Ternus last week, and released the video version on Tuesday with additional discussion about design. In the video, Ternus was asked how Apple distinguishes a design choice that contributes to a product from one that merely attracts attention. He said teams work together to determine what will make a product better for its users, ruling out ideas that are frivolous or distracting. That approach apparently still leaves room for playful details. Ternus pointed to the animation that appears when opening the iPhone Duo's inner display, explaining that it serves no functional purpose but can make the experience more satisfying.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/10/21/john-ternus-explains-good-design/",
+      "category": "Tech",
+      "date": "2026-10-21T07:03:00.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "https://www.macrumors.com/2026/10/21/whatsapp-developing-browser-for-chat-links/",
@@ -261,17 +618,6 @@
       "officialUrl": "https://arstechnica.com"
     },
     {
-      "id": "https://www.engadget.com/2292281/meta-suspends-muse-chats-sharing-feature-after-it-left-private-details-exposed/",
-      "title": "Meta suspends Muse chats sharing feature after it left private details exposed",
-      "summary": "Researchers accessed 6,800 shared conversations with the AI agent. Meta Add Engadget on Google: Preferred Source Google Discover Meta debuted its Muse agentic AI platform last month and bug hunters have already uncovered a privacy problem. Users would share their Muse conversations by creating a URL, but that feature has been disabled after researchers found that anyone could potentially access those links. Researchers at security firm Claroc discovered that the links for users' shared Muse chats can be found and accessed via a passive DNS search because all the URLs for sharing had the same domain name and used the conversation's title in the subdomain. Passive DNS are records of how human-readable domains resolve to browser-readable IP addresses, basically acting like a phone book for the Internet. \"Muse names each share's web address after the conversation's own title, and that address is written into public DNS,\" Claroc explained in a blog post.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2292281/meta-suspends-muse-chats-sharing-feature-after-it-left-private-details-exposed/",
-      "category": "Tools",
-      "date": "2026-10-20T20:00:43.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
       "id": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
       "title": "Gemini's Personal Intelligence is coming to cars",
       "summary": "Google kicked off 2026 with the addition of Personal Intelligence to Gemini, allowing its AI to pull in more of your data to formulate answers. It started as a paid feature but eventually came to all Gemini users. However, this feature wasn't available in the car until now. Google is rolling out Personal Intelligence to Android Auto and Google Built-in, and it is still, thankfully, an optional feature. As Google points out, a generative AI's outputs are better \"when it knows the world and knows you,\" which is correct in an uncomfortable sort of way. The more context you can provide to a model, the better the output will be at the end of the token shuffle.",
@@ -281,17 +627,6 @@
       "date": "2026-10-20T20:00:33.000Z",
       "hot": false,
       "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://www.engadget.com/2292027/google-brings-gemini-personal-intelligence-to-android-auto/",
-      "title": "Google brings Gemini Personal Intelligence to Android Auto",
-      "summary": "In the coming months, the feature will also roll out to cars with Google built-in. In practice, the company says today's update will improve Gemini's reasoning capabilities in cars. It will also make the assistant capable of delivering more specific details as they relate to your questions and prompts. For example, if you're driving to the airport, Google suggests Gemini with Personal Intelligence will be able to answer questions like \"what's my flight gate?\" and \"is my flight on time?\" Provided you've linked your Gmail account, it can do all this without you needing to pull over to find a confirmation email. More broadly, Google says Personal Intelligence makes it easier to interact with Gemini more naturally. For instance, if you need directions to your doctor's office, you can just say \"take me to my doctor's appointment,\" instead of speaking a specific address.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2292027/google-brings-gemini-personal-intelligence-to-android-auto/",
-      "category": "Tools",
-      "date": "2026-10-20T20:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
     },
     {
       "id": "https://www.macrumors.com/guide/touchscreen-macbook-pro?post_date=1792536041/",
@@ -388,28 +723,6 @@
       "officialUrl": "https://arstechnica.com"
     },
     {
-      "id": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-      "summary": "",
-      "source": "Hugging Face Blog",
-      "sourceUrl": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-      "category": "Research",
-      "date": "2026-10-20T18:17:47.000Z",
-      "hot": false,
-      "officialUrl": "https://huggingface.co"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/10/20/apple-apps-iphone-duo/",
-      "title": "Here's What Apple's Apps Look Like on the iPhone Duo",
-      "summary": "With just three days to go until the iPhone Duo is released, Apple is getting ready for the launch. Behind the scenes, the App Store now has screenshots of Apple's built-in apps running on the Duo. We've seen some apps in marketing materials, but images of the ones we haven't seen give us an idea of what it will be like using the &zwnj;iPhone Duo&zwnj; day to day. Many apps are shown in landscape orientation with an iPad-like interface that uses some of the screen real estate for sidebar navigation. Other apps use the full screen for more viewing space. Some apps have a dual view that goes beyond sidebar navigation.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/10/20/apple-apps-iphone-duo/",
-      "category": "Tech",
-      "date": "2026-10-20T18:12:50.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
       "id": "https://www.techrepublic.com/article/news-apple-512gb-mac-studio-release-date-price-ai/",
       "title": "Apple’s 512GB Mac Studio Is Almost Here: What Buyers Should Know",
       "summary": "Apple's 512GB Mac Studio is coming in late October 2026. Here's what to know about its M5 Ultra chip, AI capabilities, pricing, and availability.",
@@ -474,17 +787,6 @@
       "date": "2026-10-20T17:40:20.000Z",
       "hot": false,
       "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/10/20/telstra-may-support-rcs-on-ios-27-3/",
-      "title": "iOS 27.3 May Expand RCS Support to Australia's Telstra in December",
-      "summary": "In a support document that it has since deleted, Australian carrier Telstra said RCS support would be available starting with an iOS update coming in December. If this timeframe remains accurate, then iPhone users with Telstra will likely be able to use RCS in the Messages app starting with iOS 27.3. RCS has many benefits over the traditional SMS standard for text messaging with Android users, including end-to-end encryption, read receipts, typing indicators, in-line replies, and more. Apple maintains a list of supported carriers.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/10/20/telstra-may-support-rcs-on-ios-27-3/",
-      "category": "Tech",
-      "date": "2026-10-20T17:28:56.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "https://techcrunch.com/?p=3179696",
@@ -564,39 +866,6 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "https://www.macrumors.com/2026/10/20/apple-iphone-18-pro-m6-mac-mini-repair-parts/",
-      "title": "Apple Now Sells DIY Repair Parts for iPhone 18 Pro and Two New Macs",
-      "summary": "As reported by 9to5Mac, Apple is now selling parts for the iPhone 18 Pro, iPhone 18 Pro Max, new Mac mini with M6 and M5 Pro chips, and new Mac Studio with M5 Max and M5 Ultra chips on its self-service repair store in the U.S., Canada, and Europe. After ordering parts and tools, customers with the know-how can follow the steps in Apple's repair manuals for each of these devices, allowing them to skip a visit to the Apple Store's Genius Bar or an Apple Authorized Service Provider.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/10/20/apple-iphone-18-pro-m6-mac-mini-repair-parts/",
-      "category": "Tech",
-      "date": "2026-10-20T15:53:34.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "02nZreND1AFQ5DcJRFS1cgu",
-      "title": "Spotify wants proof you live with your Family plan members",
-      "summary": "If you're still on your parents' Spotify Family plan after moving out of the house, keeping your share of the subscription could be getting harder.Spotify is now asking some Premium Family members to scan a changing QR code on their plan manager's phone to verify that they live together, according to Spotify's support page. Members have seven days from the date of notification to complete the check. Miss the deadline or fail verification, and they cannot join a different Family or Duo plan for 12 months.That could put a sizable dent in the savings from sharing. In the U.S., Premium Family costs $21.99 a month for up to six accounts — roughly $3.67 each if everyone splits the bill equally. Premium Individual costs $12.99 a month, more than three times that amount. SEE ALSO: How much is Spotify Premium in the U.S.?",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/spotify-family-plan-qr-code-verification",
-      "category": "Tech",
-      "date": "2026-10-20T15:48:50.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
-      "id": "05MuOdJjIH2NNKjgTqP6NVk",
-      "title": "Early Black Friday 2026 deals: See holiday gift guides from Amazon, The Home Depot, Nordstrom, Ul...",
-      "summary": "Early Black Friday Gift Guide deals at a glance Best Walmart deal Apple Airpods Pro 3 $199 (save $50) Get Deal Best Amazon deal Hisense 85-inch E6 Hi-QLED 4K TV $797.97 (save $102.02) Get Deal Best Target deal Tineco Go HammerHead Cordless Wet/Dry Mop & Vacuum $149.99 (save $130) Get Deal Best Ulta deal Conair InfinitiPRO DigitalAIRE Drying Wand $90.99 (save $39) Get Deal Best Home Depot deal Milwaukee M18 18-Volt Lithium-Ion Cordless Combo Kit $649 (save $649) Get Deal It's not often walk to the mailbox and find something inside we're excited about. Amidst the bills and junk mail, top brands launch their Black Friday gift guides, and some might be landing in your mailbox. The official Black Friday date is Nov. 27 this year, the day after Thanksgiving. But you don't need to wait for deals to drop then. Amazon, The Home Depot, and Target all have Black Friday sales underway right now.Browsing the deals is half the fun of shopping during Black Friday.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/early-black-friday-gift-guides-2026",
-      "category": "Tech",
-      "date": "2026-10-20T15:44:57.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
       "id": "https://www.technologyreview.com/?p=1146937",
       "title": "The new economics of enterprise AI",
       "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from “can we use it?” to “how efficiently are we using it?” Enterprise AI is going through the same shift. What began as isolated chatbot and copilot experiments is becoming a foundational layer of the business, with models, agents, and data increasingly interconnected in production workloads. The important question stops being what a token or GPU-hour costs. It becomes how efficiently the AI environment converts paid capacity into useful business outcomes.",
@@ -628,28 +897,6 @@
       "date": "2026-10-20T15:07:43.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "03QPAkR5IGyZi2wEw4sK3zR",
-      "title": "Having Windows Outlook access problems? An update might have caused it.",
-      "summary": "Microsoft may have borked Outlook for some folks with a new Windows update.Specifically, a Windows Server security update has caused access issues for Outlook on some Exchange Server systems, according to a Microsoft security note (cited by BleepingComputer). This is specifically affecting systems running Windows Server 2019 and later, per Microsoft. As a result, users may not be able to access Outlook, or sent messages might just remain in the Outlook outbox without actually going anywhere. SEE ALSO: Microsoft president warns AI is less regulated than milk and washing machines There is no firm fix for this problem just yet. Microsoft says that the severity of the problem will differ from server to server, with some not encountering any problems at all. In a different post, Microsoft urged users not to uninstall the problematic update, instead offering a workaround:Open an elevated Command Prompt on an Exchange ServerEnter the following as a command: \"reg add \"HKLM\\SOFTWARE\\Microsoft\\Rpc\" /v EpmapSavedContextCap /t REG_DWORD /d 65536 /f\"Reboot the serverThat should help alleviate the issue until Microsoft offers a long-term fix for it.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/microsoft-windows-outlook-connection-error-update",
-      "category": "Tech",
-      "date": "2026-10-20T14:57:15.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/10/20/new-apple-tv-4k-whole-room-audio/",
-      "title": "New Apple TV 4K Features 'Whole Room Audio' With Four HomePods",
-      "summary": "The new fourth-generation Apple TV 4K announced last week can connect to up to four HomePods in front-left, front-right, rear-left, and rear-right positions, enabling an all-Apple surround sound system for home theater setups. There is also a related new feature that has not received as much attention: Whole Room Audio. Apple says the Whole Room Audio feature spreads sound evenly across four HomePods in a room. \"Whole Room Audio spreads sound evenly across four HomePod speakers for audio that's perfect for parties or game day,\" says Apple. \"Everything from music to sports commentary comes through clearly, no matter where you are in the room.\" According to the user \"pdfu,\" who has been digging into Apple's software code in recent months, \"Surround Sound\" and \"Whole Room Audio\" will be separate options in tvOS 27.2's audio settings when four HomePods are connected to the new Apple TV 4K. You'll get new audio controls when you set up four HomePods with the new Apple TV.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/10/20/new-apple-tv-4k-whole-room-audio/",
-      "category": "Tech",
-      "date": "2026-10-20T14:49:32.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "https://www.techrepublic.com/article/news-minimax-m31-flash-ai-model-pricing-benchmarks-china-apac/",
@@ -705,17 +952,6 @@
       "date": "2026-10-20T14:12:38.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=381413",
-      "title": "French Lawmakers Back Stablecoin Swap Tax by Just One Vote",
-      "summary": "The amendment would make swapping crypto into euro or dollar stablecoins taxable in France from 2027, with gains measured coin by coin.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/381413/french-lawmakers-back-stablecoin-swap-tax-by-just-one-vote",
-      "category": "Tech",
-      "date": "2026-10-20T14:04:10.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
     },
     {
       "id": "https://www.techrepublic.com/article/news-dhs-deepseek-federal-systems-security-ban/",
@@ -816,17 +1052,6 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "02uFBYex932XCl50qNJjHI4",
-      "title": "Sony is giving away custom team-edition XM6 headphones for free  — how to claim",
-      "summary": "TL;DR: Sony is giving away custom XM6 headphones for five teams (Cowboys, Broncos, Patriots, Steelers, and Seahawks). They aren't available in stores, but fans can enter the online sweepstakes through Nov. 30 for a chance to win a pair.Sony is bringing game-day style straight to your ears with a brand new lineup of limited-edition XM6 wireless noise-canceling headphones. Clad in custom NFL team designs for five iconic franchises, these custom cans give football fans a fresh way to rep their squad on and off the field.There is just one catch: you cannot actually buy these. Sony isn't putting these on store shelves, instead making them available exclusively through an official, limited-time giveaway running from Oct. 30.Which teams are included?The custom collection covers five major NFL franchises: the Dallas Cowboys, Denver Broncos, New England Patriots, Pittsburgh Steelers, and Seattle Seahawks.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/sony-m6-custom-nfl-headphones-how-to-buy",
-      "category": "Tech",
-      "date": "2026-10-20T12:42:41.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
       "id": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
       "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
       "summary": "Muse, the new general-purpose AI agent from Meta, can expose sensitive information when users share conversations through web links, researchers reported Monday. In response to questions from Ars about the behavior, Meta said it's suspending the sharing feature while the company reviews it and considers making changes. Like many online services, Muse has allowed users to share searches, conversations, images, and similar content with other people. Such share features usually involve clicking an option to create a unique URL that anyone can use to load a page hosting the content. To keep potentially sensitive information from being accessible to unintended people, the URLs typically contain a long sequence of text that can’t be easily guessed. A single query is all that's required Muse, which Meta CEO Mark Zuckerberg said last month was “built from the ground up for privacy and security,” seems to take the same precautions.",
@@ -847,28 +1072,6 @@
       "date": "2026-10-20T12:28:37.000Z",
       "hot": false,
       "officialUrl": "https://news.microsoft.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/article/news-what-is-ai-tool-calling-2026/",
-      "title": "What Is Tool Calling in AI? How It Works and Why It Matters",
-      "summary": "Learn how AI tool calling works, how it differs from APIs and MCP, and what businesses should know about integrations, permissions and security risks.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-what-is-ai-tool-calling-2026/",
-      "category": "Business",
-      "date": "2026-10-20T12:28:22.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/article/news-gmail-ai-inbox-workspace-admin-controls/",
-      "title": "Gmail AI Inbox Reaches Workspace: What IT Admins Can Control",
-      "summary": "Gmail AI Inbox is expanding to paid Google Workspace accounts. Learn what IT admins can control, how rollout works, and what users should verify.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-gmail-ai-inbox-workspace-admin-controls/",
-      "category": "Business",
-      "date": "2026-10-20T12:07:25.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "https://mistral.ai/news/voxtral-3/",
@@ -902,28 +1105,6 @@
       "hot": true
     },
     {
-      "id": "https://www.techrepublic.com/article/viceforge-lifetime-subscription/",
-      "title": "Turn Raw Gameplay Into Shareable Clips With This $50 AI Editor",
-      "summary": "ViceForge Gamer Pro finds wins, eliminations, and clutch plays in your footage, then exports polished clips.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/viceforge-lifetime-subscription/",
-      "category": "Business",
-      "date": "2026-10-20T11:56:20.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/article/news-white-house-ai-task-force-120-day-review/",
-      "title": "White House Begins 120-Day AI Safety Review Amid Growing Security Concerns",
-      "summary": "The White House AI task force has begun a 120-day review of cybersecurity, biosecurity and oversight, with potential implications for businesses and developers.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-white-house-ai-task-force-120-day-review/",
-      "category": "Business",
-      "date": "2026-10-20T11:52:59.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
       "id": "108436822",
       "title": "AI rally fades away from Wall Street as a tiny IPO makes big waves",
       "summary": "Here are the key things investors need to know to start the trading day.",
@@ -946,39 +1127,6 @@
       "officialUrl": "https://feeds.feedburner.com"
     },
     {
-      "id": "00PCHbAHR8Xwh5ynxpz5RPg",
-      "title": "Hideo Kojima and Casetify just dropped a Death Stranding collab: How to claim free limited-editio...",
-      "summary": "Casetify x Hideo Kojima collection lineup: DS — Damage Sensor Tape & Cargo ID Set $88 at Casetify (save $14) Get Deal DS — Bridges Set $166 at Casetify (save $14) Get Deal DS2 — Dollman Plush Set $170 at Casetify (save $28) Get Deal DS2 — Drawbridge Set $176 at Casetify (save $28) Get Deal Yoji Shinkawa Original Design — Collectible Set $328 at Casetify (save $28) Get Deal As the holiday season keeps rolling, Casetify just dropped a brand-new collection with Hideo Kojima that makes for an easy gift for gamers or anyone who wants artistic flair on their everyday gear. Centered on the genre-defying Death Stranding franchise, this drop marks the very first time Casetify has collaborated directly with a game developer to bring a full lineup to life.Developed straight out of Tokyo with Kojima Productions, the collection blends Hideo Kojima's signature world-building and Yoji Shinkawa's unmistakable visual language with Casetify's product engineering. Instead of just slapping logos onto plastic, they worked right from the source — turning early sketches, symbols, and materials into physical tech artifacts. SEE ALSO: Casetify's new Hello Kitty Y2K collection just launched: Where to buy exclusive collection You'll spot iconic visual codes like Ludens and the Qpid pulled out of the games and rebuilt into dimensional structures, translucent finishes, sculptural forms, and textured cases. Every order from the collection also comes with a free randomized Chase Card out of 10 collectib...",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/casetify-hideo-kojima-collection-where-to-buy",
-      "category": "Tech",
-      "date": "2026-10-20T11:21:53.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
-      "id": "05CfKAD3vTFNOxMZnRGV5IQ",
-      "title": "Introducing the TechPulse app: All the internet and tech news you need, without the cost",
-      "summary": "Tech and the internet today — from AI and our devices to TikTok trends and the creator economy — are evolving faster than most people can keep up with. Every day, our technology and the digital culture that surrounds it are shifting and changing, shaping how we work, how we play, how we live and how we connect with one another. It can be overwhelming for anyone to digest. To help navigate it all, we need accurate, objective reporting from expert journalists we can rely on and trust. That's where Mashable, our sister sites in CNET Group, and our new TechPulse app come in. With the launch of TechPulse, fans of Mashable, CNET, PCMag, Lifehacker, and ZDNET will be able to curate and control how they consume their tech and digital culture news, reviews, videos, tips, and perspectives from some of the best brands in the business. Featured Video For You Introducing TechPulse, a Unified App Powered by Five Top Tech Publishers Download the app to: Stay ahead of what's new and next with tech, digital culture, space and entertainment news, reviews, original reporting and features from Mashable. Make tech buying easy with lab-tested and hands-on reviews from experts across our publications.Get the latest breaking tech news from reporters with objective takes on what you need to know.Streamline your daily routine and unlock practical hacks and science-based productivity tips from Lifehacker.Track disruptive professional tech breakthroughs and emerging industry trends from ZDNET.And get...",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/techpulse-app-tech-internet-news-mashable",
-      "category": "Tech",
-      "date": "2026-10-20T11:06:05.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=381392",
-      "title": "Mt. Gox Pushes Repayment Deadline to 2027 With $2.8B in Bitcoin Still to Distribute",
-      "summary": "The defunct exchange's trustee said many creditors still have not completed the procedures needed to get their Bitcoin back.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/381392/mt-gox-pushes-repayment-deadline-to-2027-with-2-8b-in-bitcoin-still-to-distribute",
-      "category": "Tech",
-      "date": "2026-10-20T10:55:48.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
       "id": "108436552",
       "title": "HSBC CEO warns the AI boom won’t make every data center a good bet",
       "summary": "Data center campuses house the servers that power AI and cloud computing.",
@@ -988,6 +1136,17 @@
       "date": "2026-10-20T10:39:17.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://blogs.nvidia.com/?p=99208",
+      "title": "European Leaders Turn to NVIDIA Vera CPUs to Build Local Infrastructure",
+      "summary": "Nebius and Nscale are among global technology partners looking to NVIDIA Vera CPUs to build the next wave of infrastructure. Their momentum reflects rapid advancements in agentic computing. Agents do more than generate answers: they retrieve information, run software tools, execute code and evaluate results. Each step depends on fast CPU processing. Vera accelerates that work, helping agents respond faster and enabling data centers to make better use of computing capacity. Vera is designed to sustain that speed even when running thousands of tasks simultaneously, helping organizations expand services without trading responsiveness for scale.",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/european-leaders-vera-cpu-infrastructure/",
+      "category": "Events",
+      "date": "2026-10-20T10:30:11.000Z",
+      "hot": false,
+      "officialUrl": "https://blogs.nvidia.com"
     },
     {
       "id": "https://openai.com/index/ted-taylor-restaurant",
@@ -1190,28 +1349,6 @@
       ]
     },
     {
-      "id": "108433760",
-      "title": "Jim Cramer says don't chase the AI rebound just yet. Here's what needs to happen first",
-      "summary": "CNBC’s Jim Cramer warned investors against rushing back into AI stocks quite yet.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/10/19/jim-cramer-dont-chase-ai-rebound-yet.html",
-      "category": "Business",
-      "date": "2026-10-19T22:46:33.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "108433996",
-      "title": "Jim Cramer says the recent AI stock sell-off echoes a crucial lesson from the 1987 market crash",
-      "summary": "CNBC’s Jim Cramer said the 1987 stock market crash offers an important lesson that can be applied to the recent AI sell-off.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/10/19/cramer-recent-ai-sell-off-echoes-lesson-1987-crash.html",
-      "category": "Business",
-      "date": "2026-10-19T22:22:45.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
       "id": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
       "title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
       "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesday Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. Its shares are down more than 20 percent since Tuesday's close, which is kind of a lot! There even seemed to be some collateral damage in the market on other AI companies, too. Now, I have also asked if the AI industry is a bubble, but when the SPAC King echoes concerns held by a lady whose ongoing questi …",
@@ -1306,17 +1443,6 @@
       "officialUrl": "https://www.technologyreview.com"
     },
     {
-      "id": "108432910",
-      "title": "Apple's iPhone Duo is proving itself the catalyst that Jim Cramer said it would be",
-      "summary": "Preorders of Apple's iPhone Duo are proving Jim Cramer right, as early indications show strong demand.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/investingclub/2026/10/19/apples-iphone-duo-is-proving-the-catalyst-that-jim-cramer-said-it-would-be.html",
-      "category": "Business",
-      "date": "2026-10-19T17:25:20.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
       "id": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
       "title": "AI game clones are making indie developers afraid to show their work",
       "summary": "Defensive crouch AI game clones are making indie developers afraid to show their work Delayed Steam Next Fest demo is a sign of a growing problem for indie devs. Developer Alliance Arts highlighted this trend over the weekend, delaying the launch of a planned public demo for its demon-themed Russian Roulette drinking game Drunken Goddess Reflux, which had been set to go live with today’s launch of Steam Next Fest. In a post on social media Friday evening, the Alliance Arts team wrote that, in addition to concerns about managing streaming restrictions, “we’re concerned that the demo’s content could be used to quickly imitate or replicate the game’s presentation and gameplay with AI or other tools and that such works could be released before our launch.” Instead, the developer now plans to share the demo only in “closed sessions” with those who agree to rules regarding posting and streaming gameplay. Alliance Arts isn’t alone in taking a more defensive stance toward sharing ideas. Papers, Please developer Lucas Pope said on an April podcast that, in general, “you don’t really talk about stuff when you’re working on it because I don’t know it’s going to get slurped up by AI or people are going to copy it or something else like that… I just didn’t feel as comfortable talking about the stuff I was working on again.”",
@@ -1381,17 +1507,6 @@
       "date": "2026-10-19T14:30:00.000Z",
       "hot": false,
       "officialUrl": "https://www.theverge.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/article/news-microsoft-ai-jobs-initiative-apac-thailand/",
-      "title": "Thailand Becomes First to Launch Microsoft’s 19-Country AI Jobs Initiative",
-      "summary": "Thailand becomes the first country in Microsoft's 19-nation AI jobs initiative, linking AI education and workforce training with employer demand.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-microsoft-ai-jobs-initiative-apac-thailand/",
-      "category": "Business",
-      "date": "2026-10-19T14:23:31.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
@@ -1547,7 +1662,7 @@
     {
       "id": "https://www.anthropic.com/news/public-benefit-fund",
       "title": "Public benefit fund",
-      "summary": "Today, Anthropic is committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Subject to stockholder approval, 5% of Anthropic’s shares will be committed today, with an additional 2% added at the board’s discretion for every 50% increase in the company’s value above a set baseline. As a public benefit corporation, most of Anthropic's work in pursuit of Anthropic's mission takes place inside the company: research relevant to AI safety and interpretability; applied biomedical research; discounts on Claude for nonprofits and scientific institutions. These activities have both a public benefit component and for-profit value, so Anthropic house them directly in the company. The Anthropic Public Benefit Fund will have increased flexibility and scale, enabling Anthropic to pursue Anthropic's mission in new ways: for example, Anthropic might explore large donations to traditional nonprofits or direct distributions to specific populations. One example is labor market impacts.",
+      "summary": "Today, Anthropic is committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new wholly owned entity with a structure that increases the stake as the company grows. Subject to stockholder approval, 5% of Anthropic’s shares will be committed today, with an additional 2% added at the board’s discretion for every 50% increase in the company’s value above a set baseline. As a public benefit corporation, most of Anthropic's work in pursuit of Anthropic's mission takes place inside the company: research relevant to AI safety and interpretability; applied biomedical research; discounts on Claude for nonprofits and scientific institutions. These activities have both a public benefit component and for-profit value, so Anthropic house them directly in the company. The Anthropic Public Benefit Fund will have increased flexibility and scale, enabling Anthropic to pursue Anthropic's mission in new ways: for example, Anthropic might explore large donations to traditional nonprofits or direct distributions to specific populations. One example is labor market impacts.",
       "source": "Anthropic News",
       "sourceUrl": "https://www.anthropic.com/news/public-benefit-fund",
       "category": "Models",
@@ -1688,17 +1803,6 @@
       "officialUrl": "https://arstechnica.com"
     },
     {
-      "id": "6ad24df34fa2063ab5f076cb",
-      "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
-      "summary": "Before being fired five days into her stint as White House press secretary, Katie Zacharia spent much of the day attempting to explain her past. Throughout her brief tenure, Zacharia’s résumé was the source of much intrigue. Foremost was the fact that despite claiming to be an attorney for much of her career, she never actually passed the California bar, as she was eventually forced to admit. Another element of her professional history, WIRED reported, was a role as an affiliate marketer for Beachbody, a fitness multilevel marketing company. WIRED has now uncovered new details of her relationship to an AI-powered rare-earth mining operation called NRED Intelligent Mining, which counts former Department of Homeland Security secretary Kristi Noem as a strategic adviser. On June 24, NRED—then known as NovaRed Mining, a small copper-and-gold exploration company in Vancouver, Canada—issued a press release to share that Zacharia, who had left a role as a DHS spokesperson two months before, was joining the advisory board alongside Noem.",
-      "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
-      "category": "Industry",
-      "date": "2026-10-16T20:05:08.000Z",
-      "hot": false,
-      "officialUrl": "https://www.wired.com"
-    },
-    {
       "id": "https://openai.com/index/itau-generative-ai",
       "title": "How Itaú is building generative AI for its entire customer base",
       "summary": "With ia.the author, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors. of the customer base is the goal by the end of 2026 documents in the legal solution’s repository efficiency gains in the department’s processes ShareThe challenge is to make the technology disappearThe challenge is to make the technology disappearia.the author: from convenience to advice, in one placeIARA: the layer that makes scale possibleAI First on the inside, tooResults overviewLessons for leadersTipsNext stepsThe challenge is to make the technology disappearia.the author: from convenience to advice, in one placeIARA: the layer that makes scale possibleAI First on the inside, tooResults overviewLessons for leadersTipsNext stepsThe challenge is to make the technology disappearCreating a close, personalized experience for millions of customers in a country like Brazil is, first and foremost, a question of simplicity rather than of models. “Much of it is about making something simple, direct, and useful, delivering a direct benefit to the customer, and making the technology almost unnoticeable,” says Carlos Eduardo Mazzei, CTO of Itaú.",
@@ -1743,17 +1847,6 @@
       "officialUrl": "https://arstechnica.com"
     },
     {
-      "id": "6ad1204cb10b053f192727b9",
-      "title": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
-      "summary": "Rob Kim/Getty Images During four decades of studying the effects of interaction with computers, Sherry Turkle has developed a reputation as a careful if critical social scientist who approaches her work with academic rigor and distance. Her new book, Artificial Intimacy: Who We Become When We Talk to Machines, breaks this mold. It is a polemic warning that we have reached a state of emergency where our humanity is at risk from overreliance on soulless machines who pose as our tutors, mentors, friends, colleagues, and lovers. Turkle is aiming for the high bar of books —Silent Spring, The Jungle, Unsafe at Any Speed—that awaken the public to impending crises. Essentially, this diminutive MIT professor is taking on a multitrillion-dollar industry backed by a government eager to accelerate AI into every corner of our personal and professional lives. STEVEN LEVY: Your previous books reported results of your research as a social scientist, often leading to troubling conclusions about how people, especially children, interact with computers.",
-      "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
-      "category": "Industry",
-      "date": "2026-10-16T15:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.wired.com"
-    },
-    {
       "id": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/",
       "title": "Super Scam Me documentary shows what it takes to catch a romance scammer",
       "summary": "If you got a DM from an unverified Jon Bon Jovi account after commenting on one of his official Instagram posts, what would it take to make you believe it was really the rock star hoping to connect? And at what point when he starts asking you to send money—like lose-your-house kind of money—would you snap out of the fantasy and stop draining your bank account? In a documentary premiering Saturday—Super Scam Me—investigative journalist Mariana van Zeller goes deep into this toxic love-bombing terrain. In a clip that Ars is exclusively debuting below, you can see how van Zeller worked with an ethical hacker, Arman the Cyber, to use a fake bitcoin receipt and bait the fake Bon Jovi, giving the victim some much-needed closure. Sneak peek at National Geographic's Super Scam Me. Scamming a romance scammer Broadcasting on National Geographic at 9 pm ET and available to stream on Disney+ and Hulu, the documentary takes viewers on an empathetic quest to understand how the line between “lover” and “fraud victim” gets blurred in romance scams that the Federal Trade Commission says cost Americans nearly $1.5 billion in losses each year.Read full article Comments",
@@ -1772,17 +1865,6 @@
       "sourceUrl": "http://feeds.fabbaloo.com/~/971693957/_/fabbaloo/default~Meshy-Edit-Lets-Users-Regenerate-Selected-Parts-of-AI-D-Models",
       "category": "Tech",
       "date": "2026-10-16T13:55:00.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.feedburner.com"
-    },
-    {
-      "id": "http://feeds.fabbaloo.com/~/971687888/_/fabbaloo/default~America-Makes-Fuels-Metal-AM-Growth-with-USM-Supplier-Defense-Initiative",
-      "title": "America Makes Fuels Metal AM Growth with US$10.5M, 25-Supplier Defense Initiative",
-      "summary": "Goulding and Preeti Sulibhavi consider how America Makes' newest metal AM initiative is strengthening the U.S. defense supply chain and why participating companies may also benefit from valuable R&D tax incentives. The post America Makes Fuels Metal AM Growth with US$10.5M, 25-Supplier Defense Initiative appeared on Fabbaloo.",
-      "source": "Fabbaloo",
-      "sourceUrl": "http://feeds.fabbaloo.com/~/971687888/_/fabbaloo/default~America-Makes-Fuels-Metal-AM-Growth-with-USM-Supplier-Defense-Initiative",
-      "category": "Tech",
-      "date": "2026-10-16T11:35:00.000Z",
       "hot": false,
       "officialUrl": "https://feeds.feedburner.com"
     }
