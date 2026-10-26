@@ -1,6 +1,61 @@
 {
-  "lastUpdated": "2026-10-25T22:43:28.239Z",
+  "lastUpdated": "2026-10-26T00:55:50.897Z",
   "news": [
+    {
+      "id": "108461509",
+      "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
+      "summary": "Elon Musk said in an X post that SpaceX has closed $40 billion in debt financing to purchase GPUs.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
+      "category": "Business",
+      "date": "2026-10-26T00:37:51.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/anthropics-claude-accessed-public-us-state-of-georgia-voter-information-axios-reports-4971291",
+      "title": "Anthropic’s Claude accessed Georgia state vote count data behind paywall",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/anthropics-claude-accessed-public-us-state-of-georgia-voter-information-axios-reports-4971291",
+      "category": "Business",
+      "date": "2026-10-26T00:36:23.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/10/25/apple-blocks-compromised-emudhra-certificates/",
+      "title": "Apple Addresses Web Security Threat, Working on macOS Update With Additional Fix",
+      "summary": "Earlier this month, a security researcher discovered that private cryptographic keys associated with eight of Indian company eMudhra's intermediate certificate authority (CA) certificates were weak. The compromised keys could have allowed attackers to impersonate legitimate websites, potentially putting users' sensitive information at risk. However, there is currently no evidence that the keys were exploited maliciously. eMudhra's certificates were widely trusted by all major web browsers, including Safari, Chrome, Edge, and Firefox, but Apple and the other companies behind those browsers have since taken action to protect users. In a support document, Apple said it has been blocking eMudhra's compromised TLS web certificates since October 19 in Safari, Mail, and apps that use Apple's networking and security frameworks. The certificates are blocked automatically with no software update required, so most Apple device owners do not need to take any action.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/10/25/apple-blocks-compromised-emudhra-certificates/",
+      "category": "Tech",
+      "date": "2026-10-25T23:07:28.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.engadget.com/2294102/does-tsa-allow-airtags-in-luggage-what-rules-say/",
+      "title": "Does TSA actually allow AirTags in your luggage? Here's what the rules say",
+      "summary": "Airline regulations are strict about batteries, but AirTags are thankfully a simple case. Hapabapa/Getty Images Add Engadget on Google: Preferred Source Google Discover From filthy TSA bins to extraordinary delays, flying can be a harrowing experience. And lost luggage is undoubtedly near the top of the stressors list. Keeping track of your suitcase by setting up an AirTag lets you know that your possessions have safely made the journey, or at least figure out where they got lost along the way. Of course, even using an AirTag isn't a flawless system, particularly if you're flying somewhere with lower percentages of iPhone users like Eastern Europe or South America, since an AirTag relies on the presence of Apple devices to function. And while several airlines do accept Apple's Share Item Location feature to better locate a lost bag, it's not universal, meaning you might get little out of the tracking system other than seeing your suitcase isn't where it's supposed to be.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2294102/does-tsa-allow-airtags-in-luggage-what-rules-say/",
+      "category": "Tools",
+      "date": "2026-10-25T22:45:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/musk-says-spacex-raised-40-billion-in-debt-for-gpus-4971248",
+      "title": "Musk says SpaceX raised $40 billion in debt deal, predicts neocloud shakeout",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/musk-says-spacex-raised-40-billion-in-debt-for-gpus-4971248",
+      "category": "Business",
+      "date": "2026-10-25T22:42:27.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
     {
       "id": "https://www.macrumors.com/2026/10/25/iphone-duo-automation-opened-or-closed/",
       "title": "iPhone Duo Can Run Automations When You Open or Close It",
@@ -33,17 +88,6 @@
       "date": "2026-10-25T21:31:16.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/musk-says-spacex-raised-40-billion-in-debt-for-gpus-4971248",
-      "title": "Musk says SpaceX raised $40 billion in debt for GPUs",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/musk-says-spacex-raised-40-billion-in-debt-for-gpus-4971248",
-      "category": "Business",
-      "date": "2026-10-25T21:00:24.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
     },
     {
       "id": "04k0dWTzyTY1R26IFHqWnOv",
@@ -112,6 +156,17 @@
       "officialUrl": "https://www.engadget.com"
     },
     {
+      "id": "https://www.digitaltrends.com/?p=6018446",
+      "title": "The next MacBook Air could arrive early next year, but OLED will have to wait",
+      "summary": "Apple may be about to give the MacBook Pro one of its biggest upgrades in years, but the MacBook Air apparently has to wait a little longer for its turn. According to Bloomberg's Mark Gurman, Apple is planning to refresh the MacBook Air in early 2027. The upcoming model is expected to stick with a non-OLED display, even as Apple prepares to move its higher-end MacBook Pro lineup to OLED and touch support. Shikhar Mehrotra / Digital Trends The current MacBook Air is still pretty fresh Apple last updated the MacBook Air in March, moving the lineup to its M5 chip. The refresh also doubled the starting storage to 512GB and added Wi-Fi 7 and Bluetooth 6 via Apple's N1 wireless chip. The design itself stayed largely unchanged.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/computing/the-next-macbook-air-could-arrive-early-next-year-but-oled-will-have-to-wait/",
+      "category": "Tech",
+      "date": "2026-10-25T16:00:35.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
       "id": "https://www.investing.com/news/stock-market-news/does-enough-capital-exist-to-finance-everyones-ambitious-ai-spending-plans-4971221",
       "title": "Does enough capital exist to finance everyone’s ambitious AI spending plans?",
       "summary": "",
@@ -134,15 +189,26 @@
       "officialUrl": "https://feeds.macrumors.com"
     },
     {
-      "id": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
-      "title": "Get the ultimate security for your MacBook by changing these privacy settings",
-      "summary": "Your Mac comes with a fairly robust suite of built-in privacy tools. One of the first ways you can make your MacBook more secure is by using a strong passcode and setting up Touch ID. Your pet's name or your birthday isn't going to cut it. This is especially important if you don't always have eyes on your MacBook. You can require a password to wake your laptop up from sleep or your screensaver. You also have the option to decide how long your laptop must be asleep before prompting.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
-      "category": "Tools",
-      "date": "2026-10-25T14:45:00.000Z",
+      "id": "https://www.digitaltrends.com/?p=6018427",
+      "title": "Apple wants touchscreens on Macs, but its MacBook lineup could get weird",
+      "summary": "Apple's MacBook lineup could soon resemble a restaurant menu with 17 different ways to order a burger. The company is expanding its laptop range across more price points, performance levels, and display technologies, with OLED touchscreens potentially bringing another premium tier into the mix. That's great news for buyers who want options, but Apple's product lineup could use a little decluttering before things get silly. As Bloomberg's Mark Gurman notes, Apple's expanding Mac lineup could eventually force the company to rethink how it separates its entry-level, professional, and premium touchscreen models. The lineup could eventually include the MacBook Neo, 13-inch and 15-inch MacBook Air models, an entry-level 14-inch MacBook Pro, higher-performance 14-inch and 16-inch Pros, and premium MacBook Pros with OLED touchscreens. That's a lot of laptops, especially when some of them start looking like different flavours of the same machine.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/computing/apple-macbook-pro-lineup-confusing/",
+      "category": "Tech",
+      "date": "2026-10-25T15:11:19.000Z",
       "hot": false,
-      "officialUrl": "https://www.engadget.com"
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6018424",
+      "title": "Apple has built a device that can inspect an iPhone without opening its box",
+      "summary": "Apple is rolling out a new tool to help retail stores tackle iPhone return fraud and reduce wasted inventory. Some buyers reportedly remove accessories, strip components from devices, or take the phones themselves before returning the packaging, sometimes reselling the parts through aftermarket channels. To prevent this, store employees have been opening even sealed boxes to verify their contents, but doing so can make otherwise sellable products require additional processing. Apple's new device can scan an iPhone inside its sealed box and run diagnostics to check whether it is intact. Built on its Presto technology, the tool is now reaching retail stores. According to Bloomberg's Mark Gurman, the new inspection devices began arriving at Apple retail stores earlier in October 2026 and are now becoming operational.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/phones/apple-has-built-a-device-that-can-inspect-an-iphone-without-opening-its-box/",
+      "category": "Tech",
+      "date": "2026-10-25T14:54:45.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
     },
     {
       "id": "https://www.macrumors.com/2026/10/25/airtag-2-new-low-price-of-23/",
@@ -211,17 +277,6 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
-      "id": "https://www.engadget.com/2292939/dont-throw-away-old-chromebook-even-if-getting-googlebook/",
-      "title": "Don't throw away your old Chromebook (even if you're getting a Googlebook)",
-      "summary": "There's plenty an old Chromebook can do, even if it's not your main computer. Tada Images/Shutterstock Add Engadget on Google: Preferred Source Google Discover Chromebooks are some of the most appealing low-cost laptops out there, but no computer will suit your needs forever. Rather than let yours lie around and collect dust, there are quite a few ways to get more use out of a old Chromebook. With some, you can even save money by adding functions that would otherwise require you to buy yet another device. Even when it's out of date, your Chromebook probably has a perfectly serviceable screen. The best way to take advantage of that is by using it as a second monitor with an app like Duet.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2292939/dont-throw-away-old-chromebook-even-if-getting-googlebook/",
-      "category": "Tools",
-      "date": "2026-10-25T13:15:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
       "id": "http://feeds.fabbaloo.com/~/971958239/_/fabbaloo/default~Whos-The-Biggest-In-D-Printing-October",
       "title": "Who’s The Biggest In 3D Printing, October 25, 2026",
       "summary": "Once again we take a look at the valuations of the major 3D printing companies over the past week. The post Who’s The Biggest In 3D Printing, October 25, 2026 appeared on Fabbaloo.",
@@ -255,17 +310,6 @@
       "officialUrl": "https://rss.politico.com"
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/recent-labor-market-data-show-some-signs-of-airelated-hiring-headwinds-4971102",
-      "title": "Recent labor market data show some signs of AI-related hiring headwinds",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/recent-labor-market-data-show-some-signs-of-airelated-hiring-headwinds-4971102",
-      "category": "Business",
-      "date": "2026-10-25T10:02:43.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
       "id": "6adaac0658fe17d926e679bc",
       "title": "What the US Movement Against Data Centers Can Learn From Abroad",
       "summary": "Tania Heath Paris Marx’s new book couldn’t have landed at a better time. The longtime critic of Big Tech and host of the Tech Won’t Save Us podcast has been thinking about data centers for years, and Hyperscale: The Ambition and Excess of Big Tech's Data Empires comes out right as opposition hits a fever pitch. “I certainly didn't predict that it was all going to kind of come to a head as my book was coming out,” he says with a laugh. While data centers are playing a role in shaping US elections—they’re one of the issues that could decide key midterm races in less than two weeks—there’s a history of struggle around the world. Marx’s book takes the reader on a tour of the tech industry’s quest for power and its opposition, from antiwar protests targeting American computers during the Vietnam War, to more recent resistance in Ireland and Chile, and an alternative vision for the future of data centers in New Zealand. I caught up with him this week to talk about what he’s seen, and what could happen if the AI bubble pops.",
@@ -288,6 +332,17 @@
       "officialUrl": "https://mashable.com"
     },
     {
+      "id": "https://www.digitaltrends.com/?p=6018397",
+      "title": "Moonshot tells Kimi AI to code away, but leave the hacking alone",
+      "summary": "Chinese AI startup Moonshot AI is deliberately limiting the hacking capabilities of its latest artificial intelligence model, highlighting a growing dilemma for the industry: how do companies make AI more powerful without making cyberattacks easier to carry out? The company introduced Kimi K3.1 Pro on October 24, describing it as a highly capable, open-weight model with around 3 trillion parameters. Unlike conventional AI services that operate entirely through a provider's servers, open-weight models allow developers to download the underlying model files, run them on their own systems, and modify how they work. Moonshot said it removed cyber-related data from the model's training dataset and reinforcement-learning environments to reduce its ability to conduct offensive cyber operations, while retaining its general coding capabilities. The company plans to release the model's weights on November 4, opening it up to a wider developer community. Moonshot's internal testing suggests the safeguards have made a measurable difference.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/computing/moonshot-tells-kimi-ai-to-code-away-but-leave-the-hacking-alone/",
+      "category": "Tech",
+      "date": "2026-10-25T07:09:54.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
       "id": "https://www.macrumors.com/2026/10/25/apple-wants-to-fix-safari-on-iphone-duo/",
       "title": "Apple Wants to Fix Safari's Cramped Layout on iPhone Duo",
       "summary": "Apple is considering changes to Safari on the iPhone Duo that would give websites access to more of the outer display, although the company has yet to settle on an approach. The challenge is allowing pages to occupy the area beneath Safari's side-mounted controls without making parts of a website inaccessible. In an Friday, October 23 WebKit post, Apple's Jen Simmons explained that an existing web setting could enable this, but Apple's research suggests many sites would not handle it correctly. That setting, viewport-fit=\"cover\", allows a webpage to expand into areas that would otherwise be reserved. Website developers must then leave enough space around important content to prevent it from being covered by the interface. According to Simmons, many sites fail to make those allowances on every edge.",
@@ -308,6 +363,17 @@
       "date": "2026-10-25T04:27:08.000Z",
       "hot": false,
       "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6018377",
+      "title": "Audio-Technica is calling these $3,800 wooden headphones its finest ever",
+      "summary": "Audio-Technica, a brand well known for making some of the best studio and professional headphones on the market, has just come out with the ATH-AWX7000, which the company itself claims to be its \"finest headphones ever.\" The new flagship closed-back headphone has debuted at an eye-watering price of $3,799. It combines hand-finished Japanese woodwork with a newly developed 58mm driver. The earcups are made from Kiso cypress, a prized wood historically used for Shinto shrines and Buddhist temples. Each housing is finished by hand with traditional Echizen lacquer, which brings out the grain and is expected to darken over time. The frame and sliders are finished in a deep navy kachi-iro shade traditionally associated with samurai. The ATH-AWX7000 is the first Audio-Technica headphone to use its new Hybrid Matrix Diaphragm, or HMD, technology.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/home-theater/audio-technica-is-calling-these-3799-wooden-headphones-its-finest-ever/",
+      "category": "Tech",
+      "date": "2026-10-25T00:21:16.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
     },
     {
       "id": "https://aiweekly.co/issues/big-tech-reports-ai-spending-wednesday-as-coreweave-debt",
@@ -420,6 +486,17 @@
       "officialUrl": "https://mashable.com"
     },
     {
+      "id": "https://www.digitaltrends.com/?p=6018364",
+      "title": "Google changes its Workspace privacy promise on ads, and opting out limits Personal Intelligence",
+      "summary": "There's no such thing as a free recommendation. Google's latest policy tweak is a clear reminder. Google has long promised that your Gmail, Drive, and Google Photos content never helps it personalize ads. Google Workspace How does my private data end up in an ad? If you ask Google's AI Mode where to eat near your hotel, and it can identify your hotel from the booking confirmation in Gmail, find the location in Maps, and then suggest a few places you might like. That's the helpful half.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/computing/google-changes-its-workspace-privacy-promise-on-ads-and-opting-out-limits-personal-intelligence/",
+      "category": "Tech",
+      "date": "2026-10-24T17:16:04.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
       "id": "https://decrypt.co/?p=381775",
       "title": "Google Quietly Updates Privacy Policy to Let Gmail and Photos Data Feed Ads",
       "summary": "Google has carved out an exception to its long-standing promise not to use Gmail, Drive, and Google Photos content for advertising.",
@@ -519,6 +596,28 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
+      "id": "https://www.digitaltrends.com/?p=6018344",
+      "title": "OpenAI is locking its most advanced AI models offline after a string of security scares",
+      "summary": "Part of me is relieved that an AI lab is hitting the brakes. The other part wishes it hadn't taken real incidents to get there. OpenAI said Friday that its most advanced models will now train without live internet access. Instead, they'll practice on a cached, simulated copy of the web. Rachit Agarwal / Digital Trends Why is OpenAI pulling the plug on the live web? The answer is both simple and scary: its models kept finding ways out.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/computing/openai-is-locking-its-most-advanced-ai-models-offline-after-a-string-of-security-scares/",
+      "category": "Tech",
+      "date": "2026-10-24T10:40:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6018350",
+      "title": "Google Messages is getting a powerful new weapon against sneaky text scams",
+      "summary": "Scam messages aren't always as obvious as a suspicious link or a text claiming you've won a lottery you never entered. Some scammers are clever enough to start perfectly normal conversations, gradually earn your trust, and only reveal what they're after when it's too late. Google wants to make those tricks harder to pull off. Earlier this month, the company announced a new Enhanced Protection mode for Google Messages, and it's now starting to roll out to Android users. The optional setting adds more powerful AI-based scam detection, smarter checks for suspicious links, and extra warnings designed to keep you from making a costly mistake. Google Messages already has built-in spam and scam detection, but its latest upgrade takes things further.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/phones/google-messages-is-getting-a-powerful-new-weapon-against-sneaky-text-scams/",
+      "category": "Tech",
+      "date": "2026-10-24T10:35:53.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
       "id": "01GxytJLDLdFi0npeDO64ns",
       "title": "Sony WH-1000XM4C vs Bose QuietComfort (2nd gen): The battle of the mid-range headphones",
       "summary": "Sony and Bose duke it out for the best mid-range headphone. Credit: Bethany Allard / Mashable Sony WH-1000XM4C vs. Bose QuietComfort (2nd gen): SpecsSony WH-1000XM4C specsActive noise cancellation: YesProcessor: QN1 for ANCMicrophones: FourEqualizer: 10-band custom equalizer on companion appSpatial audio: Yes, but limited use Battery life: 27 hoursQuick charge: Three-minute quick charge for one hour of playbackConnection: Bluetooth 6.0Multipoint: Connect up to two devices at onceWeight: 0.61 poundsColors: Black, lavender, platinum silverBose QC (2nd gen) specsActive noise cancellation: Yes, with manual adjustment availableMicrophones: SixLossless playback: Wired USB-C audio up to 24bit/48kHzEqualizer: Three-band custom equalizerSpatial audio: Bose TrueSpatial technology with Immersive Audio modes for Still, Motion, and CinemaBattery life: 24 hours per charge (18 hours with Immersive Audio)Quick charge: 15-minute charge for 2.5 hours of playbackConnection: Bluetooth 5.4Multipoint: YesWeight: 0.5 poundsColors: Black, white smoke, eucalyptus green*, dewdrop mint*, rosewood mauve* (*limited edition colors)Sony WH-1000XM4C vs. Bose QuietComfort (2nd gen): Sound quality The Bose QuietComfort (Gen 2) headphones come in black, white smoke, eucalyptus green, dewdrop mint, and rosewood mauve. Credit: Bethany Allard / Mashable The Sony WH-1000XM4Cs are available in black, lavender, and platinum silver. Credit: Bethany Allard / Mashable Sony headphones are known for their superior qua...",
@@ -572,6 +671,17 @@
       "date": "2026-10-24T05:00:01.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6018316",
+      "title": "Some iPhone Duo owners are reporting cracks around the hinge",
+      "summary": "Deliveries of the iPhone Duo have started arriving to customers, and a small number of early owners are already reporting display defects with their units. As MacRumors first reported, several affected phones have developed cracks or bright lines along the inner screen, with the damage appearing near the hinge. Reports of display failure have come from Australia, the U.S., Canada, and China. One Australian owner said his display cracked after fewer than 20 folds, despite no visible damage beforehand. Apple replaced the device, but it is still far too early to know whether these reports point to a wider hardware problem or simply a handful of defective units. What interests me more is that several of the reported failures appear around a similar point near the hinge.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/phones/iphone-duo-display-failures-hinge/",
+      "category": "Tech",
+      "date": "2026-10-24T03:42:29.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
     },
     {
       "id": "https://techcrunch.com/?p=3181396",
@@ -923,17 +1033,6 @@
       "date": "2026-10-23T09:36:57.000Z",
       "hot": false,
       "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "108449614",
-      "title": "Nvidia's Huang heads to Kazakhstan for the first time — and he's not the only one with big plans",
-      "summary": "Jensen Huang's first Kazakhstan visit highlights the country's growing AI ambitions and global business appeal.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/10/23/nvidia-huang-investment-kazakhstan-.html",
-      "category": "Business",
-      "date": "2026-10-23T09:21:59.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "https://www.techrepublic.com/article/news-nvidia-dgx-spark-64gb-price-specs/",
@@ -1646,17 +1745,6 @@
       "officialUrl": "https://arstechnica.com"
     },
     {
-      "id": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
-      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
-      "summary": "Google would certainly prefer that everyone used its Gemini models with Google Cloud services, but soon, you'll have more options. OpenAI and Google have come to an arrangement that will see the former's frontier models arrive in Google Cloud services. Perhaps more importantly, GPT models will soon appear in Antigravity, Google's agent-powered coding tool. For enterprise customers and AI enthusiasts, OpenAI's latest model will appear in Google's \"Model Garden\" in the coming weeks, adding to its 200-plus options. The garden already offers access to Google's Gemini models, as well as an assortment of open models like Mistral, Llama, and Gemma. Anthropic's Claude AI has also been available for some time.",
-      "source": "Ars Technica AI",
-      "sourceUrl": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
-      "category": "Industry",
-      "date": "2026-10-21T18:51:42.000Z",
-      "hot": false,
-      "officialUrl": "https://arstechnica.com"
-    },
-    {
       "id": "https://huggingface.co/blog/nvidia/kumo-relational",
       "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Re...",
       "summary": "",
@@ -1799,6 +1887,17 @@
       "officialUrl": "https://www.wired.com"
     },
     {
+      "id": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT. (opens in a new window)Loading…ShareSupporting more businesses around the worldSupporting more businesses around the worldReach people as they explore their optionsGuided by OpenAI's ads principlesWhat’s nextSupporting more businesses around the worldReach people as they explore their optionsGuided by OpenAI's ads principlesWhat’s nextMore than 1.2 billion people use ChatGPT each week to explore ideas, compare options and make decisions. Ads can help people discover products and services that fit their needs, including options they might not have found otherwise. Since OpenAI launched ads just over eight months ago, over 100,000 advertisers have run campaigns on ChatGPT. Today, OpenAI is expanding ChatGPT Ads to 26 additional countries, extending availability to 89 countries worldwide. This launch builds on OpenAI's recent expansions across Europe and Southeast Asia and Taiwan.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "category": "Models",
+      "date": "2026-10-21T13:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://openai.com"
+    },
+    {
       "id": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/",
       "title": "CompanyMistral Advances AI for Engineering with NVIDIAMistral is collaborating with NVIDIA to develo",
       "summary": "Mistral and NVIDIA are collaborating to revolutionize engineering workflows by integrating Mistral’s AI models with NVIDIA’s accelerated computing and physics modeling tools, enabling faster simulations and closed-loop AI-driven design. The partnership will introduce public benchmarks and open datasets to standardize evaluations for physics and agentic AI in computer-aided engineering, while leveraging NVIDIA’s Omniverse for 3D simulation and asset creation. Building on their existing work, including the development of Mistral Large 4, the initiative aims to push the boundaries of AI-powered engineering across industries like aerospace, automotive, and semiconductors. Mistral is collaborating with NVIDIA to develop a new generation of AI-native engineering workflows powered by NVIDIA accelerated computing. Combining Mistral Large 4, with Mistral’s data generation, and physics modeling pipelines, accelerated by NVIDIA CUDA-X libraries and NVIDIA Warp, the initiative aims to accelerate engineering simulation and enable closed-loop workflows that connect simulation, AI model development and engineering design. Mistral and NVIDIA will also work together to integrate Mistral's models with NVIDIA Omniverse libraries for GPU-accelerated 3D scene generation and SimReady asset creation.",
@@ -1807,6 +1906,23 @@
       "category": "Models",
       "date": "2026-10-21T12:00:20.000Z",
       "hot": true
+    },
+    {
+      "id": "https://openai.com/index/openai-models-google-cloud",
+      "title": "OpenAI models are coming to Google Cloud",
+      "summary": "ShareOpenAI and Google Cloud⁠(opens in a new window) are partnering to bring OpenAI’s frontier models and Codex⁠(opens in a new window) agentic workflows into Google Cloud’s Model Garden. The integration will give customers native access to these models to power complex agentic workflows at scale, backed by Google Cloud’s data governance and high-performance infrastructure. Google Cloud’s longstanding investment in machine learning and AI has made it a destination for AI workloads and the developers and data scientists building them. Bringing OpenAI models to its model garden gives these teams access to OpenAI’s frontier models within the environment where they already work, enabling enterprises to modernize their software development lifecycle, build agentic workflows, and change how people work. For organizations in regulated industries, deploying AI requires control over who can access sensitive data and how it is used. The integration will pair OpenAI’s frontier models with Google Cloud’s built-in access controls, centralized data governance, and high-performance infrastructure to support demanding enterprise workloads.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/openai-models-google-cloud",
+      "category": "Models",
+      "date": "2026-10-21T12:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://openai.com",
+      "relatedCoverage": [
+        {
+          "source": "Ars Technica AI",
+          "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/"
+        }
+      ]
     },
     {
       "id": "https://blogs.nvidia.com/?p=99244",
@@ -1928,170 +2044,6 @@
       "date": "2026-10-21T04:00:00.000Z",
       "hot": false,
       "officialUrl": "https://blog.google"
-    },
-    {
-      "id": "https://openai.com/index/cloudflare-cyber",
-      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
-      "summary": "Cloudflare uses OpenAI Daybreak with live traffic and security signals to investigate vulnerabilities and propose fixes for customer review. cyber threats blocked daily on average across Cloudflare’s network, Q1 2026 reduced development resources to create a new product ShareScaling security analysis with DaybreakScaling security analysis with DaybreakRebuilding a product in 3 days with CodexShaping cyber defense around AI and human judgmentScaling security analysis with DaybreakRebuilding a product in 3 days with CodexShaping cyber defense around AI and human judgmentCloudflare operates one of the world’s largest networks and proxies roughly 20% of the web’s traffic. Organizations depend on that network to keep their applications and services secure, fast, and reliable. Cloudflare combines OpenAI models accessed through Daybreak with its global network and threat context in Vulnerability Discovery and Remediation⁠(opens in a new window), an early-access service offered through Cloudflare Managed Defense.",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/cloudflare-cyber",
-      "category": "Models",
-      "date": "2026-10-21T00:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://openai.com/index/empowering-cyber-defenders",
-      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-      "summary": "(opens in a new window)Loading…ShareAI is changing the speed, scale, and economics of cybersecurity. It can help defenders find and fix vulnerabilities, detect intrusions, and respond to attacks—but those same capabilities can enable malicious actors and create new risks when AI systems act beyond their intended boundaries. OpenAI is in a defender’s window: a limited opportunity to put advanced AI into defenders’ hands and strengthen protections before advanced cyber offensive capabilities become widely available. Today, OpenAI is publishing a blueprint for empowering cyber defenders, building on OpenAI's earlier cybersecurity action plan and frontier safety blueprint⁠(opens in a new window). OpenAI's experience with misalignment and security incidents involving OpenAI's own models underscores the need for stronger safeguards and accountability across the industry. Drawing on those lessons, the blueprint puts forward concrete proposals for governments and industry in three areas:",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/empowering-cyber-defenders",
-      "category": "Models",
-      "date": "2026-10-21T00:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
-      "title": "Physicist Christopher Stubbs joins Anthropic&#x27;s Long-Term Benefit Trust",
-      "summary": "Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement. He has also advised the US government on national security and arms control. “I am honored to join Anthropic’s Long-Term Benefit Trust and to help the company deliver on its public benefit mission,” said Stubbs. “I use AI tools in my research every day and see what they make possible, and as an educator I have confronted some of the hard questions they raise. As a grandfather, I want to help ensure that AI is developed and deployed for the long-term benefit of humanity.”",
-      "source": "Anthropic News",
-      "sourceUrl": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
-      "category": "Models",
-      "date": "2026-10-21T00:00:00.000Z",
-      "hot": true
-    },
-    {
-      "id": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Railway Discloses Security Breach Exposing Customer Environment Variables and API Keys",
-      "summary": "Earlier this morning, Railway detected anomalous activity involving systems that store customer environment variables. After further investigation, our investigation to date indicates that an unauthorized third party may have accessed encrypted environment variables and, for some of them, obtained the decrypted contents. Environment variables may contain secrets such as API keys or database and registry credentials. We believe this is part of a series of attacks recently targeting platform companies with the aim of compromising AI inference providers. We have notified these upstream providers to revoke all keys proactively, as we take these kinds of events extremely seriously. While our initial analysis suggests the impact may be limited to a subset of users, we are nevertheless recommending that all users take the actions described below as a precaution to protect your systems while we complete our review.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-10-21T00:00:00.000Z",
-      "hot": true
-    },
-    {
-      "id": "https://claude.com/resources/articles/claude-duet?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Anthropic Launches Claude Duet, a Proactive AI Agent App for Pro and Max Users",
-      "summary": "CategoryAnnouncementsDateOctober 21, 2026Reading time5 minShareCopy linkToday, we’re opening a research preview of Claude Duet, a new app where Claude works as a proactive agent. It comes to you with what needs your attention, completes tasks you ask of it, keeps working even when you step away, and checks with you before it acts on your behalf. We built Claude Duet for professionals and small business owners with more on their plates than they can track. It’s available as a standalone app on iOS and Android, and on claude.ai. For this research preview, Claude Duet is included in Pro and Max plans and uses the same usage limits as the rest of Claude. To get access, join the waitlist (opens in new tab).",
-      "source": "FutureTools News",
-      "sourceUrl": "https://claude.com/resources/articles/claude-duet?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-10-21T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://claude.com/resources/articles/claude-security-now-scans-continuously-and-tracks-fixes?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Claude Security adds continuous repo scanning, fix tracking, API & MCP for Enterprise",
-      "summary": "Claude Security now scans continuously and tracks fixesClaude Security now keeps up with your repositories as code changes, tracks findings until they’re fixed, learns from the context your team adds, and connects to your tools through an API and MCP. Available in public beta for Claude Enterprise customers. CategoryAnnouncementsProductClaude SecurityDateOctober 21, 2026Reading time5 minShareCopy linkSince Claude Security entered public beta in April, thousands of organizations have used it to find over a million vulnerabilities. Instead of waiting for someone to start a scan, Claude Security now keeps up with your repositories as your code changes, keeps track of which findings get fixed, and uses what your team tells it about your environment to decide what matters. Claude Security is powered by our full family of models, including Claude Mythos, with no Cyber Verification Program access required. The latest version of Claude Security is available today in public beta for Claude Enterprise customers.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://claude.com/resources/articles/claude-security-now-scans-continuously-and-tracks-fixes?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-10-21T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Google brings Gemini AI to Apple CarPlay for hands-free Google Maps navigation in US",
-      "summary": "CarPlay users in the US can now use Gemini to chat with Google Maps. CarPlay users in the US can now use Gemini to chat with Google Maps. After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with “rollout happening globally too,” according to Google (we’ve asked for specific regional availability details). It’s taken almost 12 months for Google to bring this to CarPlay users, but now they can talk to the voice assistant in Google Maps to get some hands-free help while driving. That includes asking it multi-step questions, such as recommendations on places to visit and then prompting it to direct you there while avoiding toll roads.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-10-21T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "OpenAI's Patch the Planet Uses GPT-5.6 to Fix Critical PHP Vulnerabilities Globally",
-      "summary": "ShareCoordinating a global responseCoordinating a global responseGiving maintainers the capacity and resources to respondBuilding more secure software foundationsHelp us improve this approachCoordinating a global responseGiving maintainers the capacity and resources to respondBuilding more secure software foundationsHelp us improve this approachOver the past two months, we led a coalition of maintainers, researchers, and security providers to address critical vulnerabilities in PHP, an open-source programming language used to run websites and web applications. Calif identified a critical flaw using GPT‑5.6 Sol as part of our Patch the Planet⁠(opens in a new window) initiative, with Wiz also independently discovering and reporting both vulnerabilities. PHP’s maintainers led the fixes and release, with our teams and partners like Wiz, Cloudflare, and others contributing research, technical support, and coordination to prepare protections ahead of disclosure. For organizations using PHP, the priority now is applying the fixes. We’re sharing a PHP version checker as a Codex skill⁠(opens in a new window) to help operators identify potentially vulnerable PHP versions and, alongside PHP’s and their providers’ guidance, determine which updates apply. Given the severity of these flaws and PHP’s widespread use, we consider this one of the most impactful security issues in recent memory.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-10-21T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://www.youtube.com/watch?v=InsqQFUWyXI&utm_source=futuretools.io&utm_medium=newspage",
-      "title": "ElevenLabs Launches Chimera: New AI Voice and Video Workflow Platform",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://www.youtube.com/watch?v=InsqQFUWyXI&utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-10-21T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://openai.com/index/openai-models-google-cloud/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "OpenAI Brings Frontier Models and Codex to Google Cloud's Model Garden",
-      "summary": "ShareOpenAI and Google Cloud⁠(opens in a new window) are partnering to bring OpenAI’s frontier models and Codex⁠(opens in a new window) agentic workflows into Google Cloud’s Model Garden. The integration will give customers native access to these models to power complex agentic workflows at scale, backed by Google Cloud’s data governance and high-performance infrastructure. Google Cloud’s longstanding investment in machine learning and AI has made it a destination for AI workloads and the developers and data scientists building them. Bringing OpenAI models to its model garden gives these teams access to OpenAI’s frontier models within the environment where they already work, enabling enterprises to modernize their software development lifecycle, build agentic workflows, and change how people work. For organizations in regulated industries, deploying AI requires control over who can access sensitive data and how it is used. The integration will pair OpenAI’s frontier models with Google Cloud’s built-in access controls, centralized data governance, and high-performance infrastructure to support demanding enterprise workloads.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://openai.com/index/openai-models-google-cloud/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-10-21T00:00:00.000Z",
-      "hot": false,
-      "relatedCoverage": [
-        {
-          "source": "OpenAI News",
-          "url": "https://openai.com/index/openai-models-google-cloud"
-        }
-      ]
-    },
-    {
-      "id": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "OpenAI & PerturbAI Deploy Thousands of GPT-Rosalind Agents to Analyze Brain Cell Data",
-      "summary": "How OpenAI, PerturbAI, and Scripps Research used distributed AI agents to help scientists identify promising research leads in data from millions of brain cells (opens in a new window)See how OpenAI, PerturbAI, and Scripps Research deployed thousands of AI agents in parallel to identify promising biological connections in complex data from millions of brain cells. ShareBig experiments, unexpected cluesBig experiments, unexpected cluesDivide the work, deepen the reasoningFinding the next experiment worth doingBig experiments, unexpected cluesDivide the work, deepen the reasoningFinding the next experiment worth doingWhat if scientists could uncover new clues about Alzheimer’s and Parkinson’s in minutes instead of months? Working together, OpenAI, PerturbAI⁠(opens in a new window), and Scripps Research⁠(opens in a new window) used thousands of AI agents powered by GPT‑Rosalind⁠(opens in a new window) to analyze and interpret existing experimental data from millions of mouse brain cells⁠(opens in a new window) in just 32 minutes. The agents connected the effects of gene disruptions with findings from scientific literature, uncovering unexpected biological connections that can help scientists understand disease and identify research directions for new treatments. The work shows how AI can help researchers explore more of what large biological experiments reveal.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-10-21T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://mistral.ai/news/voxtral-3/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Mistral Launches Voxtral 3 Voice Agent SDK with 50+ Language Speech Models",
-      "summary": "Merci de recevoir ce patient pour un avis dermatologique. Traitement en cours : crème à l’hydrocortisone. Dr Martin, Clinique du Parc. It says, \"Merci de recevoir ce patient pour un avis dermatologique.\" Your doctor is asking a dermatologist, Dr Martin, to see you. The next slot is Tuesday at 5:45 pm. book_appointment(slot=\"Nov 3 17:45\")",
-      "source": "FutureTools News",
-      "sourceUrl": "https://mistral.ai/news/voxtral-3/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-10-21T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://openai.com/index/building-chatgpt-ad-stack/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "OpenAI Reveals How ChatGPT's LLM-Powered Ad Stack Works, Hits $1B Revenue",
-      "summary": "By Ritendra Datta and Karthik Gopalratnam, Members of Technical Staff ShareHow should ads work in agentic chat?How should ads work in agentic chat?Conversation memory, without influencing ChatGPT answersAn LLM interprets conversations and calls toolsHow the orchestrator calls ad tools in an agentic loopPreparing retrieval queries that capture intentRetrieving possible adsFiltering ineligible candidatesEvaluating relevance and qualityRunning the ads auctionFinal eligibility checksThe final step: showing the ads to the userWhat happens after the ad is shownHigh-power models evaluate and improve the entire stackHuman feedback steers tasteful directionWhat’s nextHow should ads work in agentic chat?Conversation memory, without influencing ChatGPT answersAn LLM interprets conversations and calls toolsHow the orchestrator calls ad tools in an agentic loopPreparing retrieval queries that capture intentRetrieving possible adsFiltering ineligible candidatesEvaluating relevance and qualityRunning the ads auctionFinal eligibility checksThe final step: showing the ads to the userWhat happens after the ad is shownHigh-power models evaluate and improve the entire stackHuman feedback steers tasteful directionWhat’s nextTraditional advertising systems are built to respond to discrete units of user intent. A user searches for or views something online, the ads system receives those queries and page views as events, and the system looks for matching ads based on those events. Building an ads st",
-      "source": "FutureTools News",
-      "sourceUrl": "https://openai.com/index/building-chatgpt-ad-stack/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-10-21T00:00:00.000Z",
-      "hot": false
-    },
-    {
-      "id": "https://openai.com/index/chatgpt-ads-expands-26-new-countries/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "ChatGPT Ads Expands to 89 Countries as 100K+ Advertisers Join Platform",
-      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT. (opens in a new window)Loading…ShareSupporting more businesses around the worldSupporting more businesses around the worldReach people as they explore their optionsGuided by our ads principlesWhat’s nextSupporting more businesses around the worldReach people as they explore their optionsGuided by our ads principlesWhat’s nextMore than 1.2 billion people use ChatGPT each week to explore ideas, compare options and make decisions. Ads can help people discover products and services that fit their needs, including options they might not have found otherwise. Since we launched ads just over eight months ago, over 100,000 advertisers have run campaigns on ChatGPT. Today, we’re expanding ChatGPT Ads to 26 additional countries, extending availability to 89 countries worldwide. This launch builds on our recent expansions across Europe and Southeast Asia and Taiwan.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://openai.com/index/chatgpt-ads-expands-26-new-countries/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-10-21T00:00:00.000Z",
-      "hot": false,
-      "relatedCoverage": [
-        {
-          "source": "OpenAI News",
-          "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries"
-        }
-      ]
-    },
-    {
-      "id": "https://x.com/UnitreeRobotics/status/2112819774573179175?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Unitree Unveils H2-X Humanoid Robot With 8-Hour Battery Life and Kung Fu Capabilities",
-      "summary": "Unitree Introducing: H2-X Kung Fu Legend Guardian🤖 Powerful performance to serve and guard you, with a maximum endurance of approximately 8 hours. Please use the robot safely and in a friendly manner.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://x.com/UnitreeRobotics/status/2112819774573179175?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-10-21T00:00:00.000Z",
-      "hot": false
     }
   ]
 }
