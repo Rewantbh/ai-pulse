@@ -1,6 +1,727 @@
 {
-  "lastUpdated": "2026-10-28T14:45:43.822Z",
+  "lastUpdated": "2026-10-28T20:01:24.433Z",
   "news": [
+    {
+      "id": "https://cohere.com/blog/financial-research-assistant-cohere-aws",
+      "title": "Financial research assistant cohere aws",
+      "summary": "As a financial analyst much of the day comes down to finding one number in a filing that runs to hundreds of pages, and then proving where it came from. Neither is as easy as it sounds. The number is rarely in the body text. It usually lives in a table, a footnote, or a chart, and it can show up in different places under different names.In this post, Cohere show how to build a research assistant for financial filings with Cohere models on Amazon SageMaker AI - Embed for search, Rerank for ordering the results, and Parse for turning hard pages into clean text. Anthropic Claude on Amazon Bedrock will be used to write the answers, with a citation for every claim.Cohere will start with what makes this work difficult followed by an overview of the solution, and then spend most of the post on the design decisions behind it and when you would decide differently. At the end, Cohere show how to deploy the solution in your own AWS account and try it yourself.Why financial research is hard to automateFinancial research looks like a search problem, but it has features that break simple approaches.The answer lives in the layout.",
+      "source": "Cohere Blog",
+      "sourceUrl": "https://cohere.com/blog/financial-research-assistant-cohere-aws",
+      "category": "Models",
+      "date": "2026-10-28T20:01:24.422Z",
+      "hot": true
+    },
+    {
+      "id": "108476044",
+      "title": "Oracle stock pops 11% as long-term revenue forecast and clarity on financing ease debt concerns",
+      "summary": "Oracle issued a revenue forecast for fiscal year 2030 of $225 billion, and said it will limit additional fundraising over that stretch to $20 billion.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/10/28/oracle-forecast-growth-2030.html",
+      "category": "Business",
+      "date": "2026-10-28T20:00:44.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6019630",
+      "title": "Google’s new AI model Gemini 4 Carbon is built for complex coding and cybersecurity tasks",
+      "summary": "Google just dropped its latest AI model, Gemini 4 Carbon, designed to tackle complex coding jobs and cybersecurity threats. The company claims it can work through difficult engineering problems for days, finding hidden bugs and developing fixes across large codebases. Gemini 4 Carbon also takes the top spot on Artificial Analysis' updated Intelligence Index, scoring 59 points, pushing out Claude Opus 5.5, OpenAI's GPT-6 Astra, and even its own predecessor Gemini 4 Argon. Google's Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5, and second only to Claude Opus 5.5 on the Artificial Analysis Coding Agent IndexGemini 4 Carbon scores 59 on Intelligence Index v5, driven by leading performance in complex reasoning,… pic.twitter.com/gSH65FSKzL Carbon builds on Gemini 4 Argon with improvements in coding, reasoning, and agent-based workflows. What's impressive is how Carbon handles long, messy coding tasks.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/computing/googles-new-ai-model-gemini-4-carbon-is-built-for-complex-coding-and-cybersecurity-tasks/",
+      "category": "Tech",
+      "date": "2026-10-28T19:59:20.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6019469",
+      "title": "Google’s new Android XR tools let developers test apps without needing to buy expensive smart gla...",
+      "summary": "At the 2026 Android Dev Summit, Google has announced some interesting features coming to both Android XR and Android CLI. Developers can now build and test apps for smart glasses without owning the hardware, while Android's command-line tools are getting upgrades that help AI coding agents test applications and identify performance problems. Both announcements could eventually mean better apps for both Android and extended reality hardware users. Buying expensive hardware just to test whether an app works on it isn't practical for every developer. Now, Google's Android XR emulators in Android Studio are stable, letting developers simulate different types of smart glasses directly from their computers. Google The core Jetpack XR SDK libraries are also stable, giving developers production-ready tools to build applications.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/phones/google-android-xr-cli-developer-tools-2026/",
+      "category": "Tech",
+      "date": "2026-10-28T19:38:50.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/prediction-market-bets-set-the-tone-for-anthropics-muchawaited-ipo-4980048",
+      "title": "Prediction market bets set the tone for Anthropic’s much-awaited IPO",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/prediction-market-bets-set-the-tone-for-anthropics-muchawaited-ipo-4980048",
+      "category": "Business",
+      "date": "2026-10-28T19:37:11.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/10/28/apple-new-world-travel-adapter-kit/",
+      "title": "Apple Releases Redesigned Mac Chargers and 'World Travel Adapter Kit'",
+      "summary": "Apple today began selling updated versions of its 70W Power Adapter, 140W Power Adapter, and Power Adapter Extension Cable, all with a new \"AC Connector 2.\" The updated power adapters and extension cable are available on Apple's online store in the U.S. and many other countries around the world. Apple also released an updated version of its World Travel Adapter Kit that had disappeared from its online store in 2025, with U.S. Each of the international AC plugs included in the box now have the AC Connector 2 too. Apple's power adapters have a removable plug, and the World Travel Adapter Kit contains various plug types for international travel:The kit includes five interchangeable AC plugs: Type A: North America, Japan Type C: Continental Europe, Brazil Type D: India Type G: United Kingdom, United Arab Emirates, Saudi Arabia, Singapore Type I: Australia, New ZealandIn a new support document, Apple said its updated power adapters, extension cable, and plugs use the AC Connector 2 with a pill-shaped design to comply with \"updated regulations.\" Apple's previous \"AC Connector 1\" has a notched design. Apple began rolling out the AC Connector 2 in a few countries earlier this year, leading to some customers complaining about compatibility issues with Apple's older extension cables and World Travel Adapter Kit.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/10/28/apple-new-world-travel-adapter-kit/",
+      "category": "Tech",
+      "date": "2026-10-28T19:30:02.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/10/28/oled-macbook-pro-size-weight/",
+      "title": "OLED MacBook Pro vs. Mini-LED MacBook Pro: Size and Weight Compared",
+      "summary": "The new machines are slightly thinner and lighter, and the 16-inch model has a larger display thanks to slimmer bezels. The 16-inch &zwnj;OLED&zwnj; &zwnj;MacBook Pro&zwnj; lists a 16.3-inch display, up from 16.2 inches. The 14-inch &zwnj;OLED&zwnj; &zwnj;MacBook Pro&zwnj; still has the same 14.2-inch display. Height 14-inch &zwnj;OLED&zwnj; &zwnj;MacBook Pro&zwnj; - 0.59 inches 14-inch mini-LED &zwnj;MacBook Pro&zwnj; - 0.61 inches 16-inch &zwnj;OLED&zwnj; &zwnj;MacBook Pro&zwnj; - 0.63 inches 16-inch mini-LED &zwnj;MacBook Pro&zwnj; - 0.66 inches Weight 14-inch &zwnj;OLED&zwnj; &zwnj;MacBook Pro&zwnj; - 3 pounds for Pro, 3.1 pounds for Max 14-inch mini-LED &zwnj;MacBook Pro&zwnj; - 3.5 pounds for Pro, 3.6 pounds for Max 16-inch &zwnj;OLED&zwnj; &zwnj;MacBook Pro&zwnj; - 4 pounds for Pro, 4.1 pounds for Max 16-inch mini-LED &zwnj;MacBook Pro&zwnj; - 4.6 pounds for Pro, 4.7 pounds for Max Dimensions 14-inch &zwnj;OLED&zwnj; &zwnj;MacBook Pro&zwnj; - 12.24 inches wide, 8.52 inches deep 14-inch mini-LED &zwnj;MacBook Pro&zwnj; - 12.31 inches wide, 8.71 inches deep 16-inch &zwnj;OLED&zwnj; &zwnj;MacBook Pro&zwnj; - 14 inches wide, 9.62 inches deep 16-inch mini-LED &zwnj;MacBook Pro&zwnj; - 14.01 inches wide, 9.77 inches deep Compared to the mini-LED models, the &zwnj;OLED&zwnj; models are about half a pound lighter and at least 0.02 inches thinner (about half a millimeter). &zwnj;OLED&zwnj; displays don't need a backlight, which saves weight. The touch sensor is built into th...",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/10/28/oled-macbook-pro-size-weight/",
+      "category": "Tech",
+      "date": "2026-10-28T19:25:15.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/oracle-expects-to-turn-cash-flow-positive-in-second-half-of-fiscal-2028-4980458",
+      "title": "Oracle eases AI spending worries with plan to turn cash flow positive",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/oracle-expects-to-turn-cash-flow-positive-in-second-half-of-fiscal-2028-4980458",
+      "category": "Business",
+      "date": "2026-10-28T19:24:32.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3182643",
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "category": "Business",
+      "date": "2026-10-28T19:19:58.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/10/28/best-buy-gift-cards-ipad-macbook/",
+      "title": "Best Buy Offering Up to $100 Gift Cards With iPad Mini 8 and M6 MacBook Pro Pre-Orders",
+      "summary": "Best Buy has the first pre-order offers on Apple's new iPad mini 8 and M6 MacBook Pro, with up to $100 in Best Buy gift card credit when purchasing these devices. You don't need to have a My Best Buy Plus or Total membership to see these deals. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Starting with the iPad mini 8, you can get a $50 Best Buy gift card when pre-ordering this tablet. The iPad mini 8 starts at $699.00 for the 128GB Wi-Fi model, or $399.00 on Best Buy with a qualifying trade-in.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/10/28/best-buy-gift-cards-ipad-macbook/",
+      "category": "Tech",
+      "date": "2026-10-28T19:19:50.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/airbus-holds-annual-targets-bets-on-yearend-delivery-surge-4980299",
+      "title": "Airbus holds annual targets, bets on year-end delivery surge",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/airbus-holds-annual-targets-bets-on-yearend-delivery-surge-4980299",
+      "category": "Business",
+      "date": "2026-10-28T19:18:41.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=382090",
+      "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
+      "summary": "OpenAI, one of Nvidia's biggest customers, reportedly plans to buy Google's TPU chips. Neither company has confirmed the report.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia",
+      "category": "Tech",
+      "date": "2026-10-28T19:16:02.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://www.engadget.com/2300235/openai-now-lets-you-text-your-dot-agent/",
+      "title": "OpenAI now lets you text your Dot agent",
+      "summary": "The feature works with both iMessage and RCS messaging. OpenAI Add Engadget on Google: Preferred Source Google Discover When OpenAI debuted its Dot agents late last month, it promised users would eventually be able to text them to give them instructions. Now, nearly a month later, the company has begun rolling out a preview among US Pro users that allows you to do just that. With the new feature, OpenAI says you can send your Dot texts, photos and even voice memos. It also gives your Dot another avenue to proactively contact you with updates about tasks you've assigned to it. By popular request, you can now text your dot.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2300235/openai-now-lets-you-text-your-dot-agent/",
+      "category": "Tools",
+      "date": "2026-10-28T19:15:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/10/28/macbook-pro-touch-battery-life/",
+      "title": "Adding Touch Didn't Cost the MacBook Pro Any Battery Life",
+      "summary": "The PROLED MacBook Pro models continue to offer up to 24 hours of battery life despite the switch to a new OLED display and touch capabilities. Both the PROLED and the mini-LED 14-inch and 16-inch &zwnj;MacBook Pro&zwnj; models offer the same maximum battery life estimates. 16-inch, M5 Max - Up to 22 hours streaming video, up to 16 hours web 16-inch, M5 Pro - Up to 24 hours streaming video, up to 17 hours web 14-inch, M5 Max - Up to 20 hours streaming video, up to 13 hours web 14-inch, M5 Pro - Up to 22 hours streaming video, up to 14 hours web The mini-LED and PROLED models have the same M5 Pro and M5 Max chips inside, so the display is the main difference between them. The &zwnj;OLED&zwnj; display's efficiency likely offsets the power used by the touch integration. The 14-inch PROLED and mini-LED models have a 72.4-watt-hour battery, while the 16-inch models have a 100-watt-hour battery. Pricing on the 14-inch &zwnj;MacBook Pro&zwnj; starts at $2,899, while the 16-inch model starts at $3,399.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/10/28/macbook-pro-touch-battery-life/",
+      "category": "Tech",
+      "date": "2026-10-28T18:55:00.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+      "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+      "summary": "It's almost like Google's got something to prove after taking a break from releasing new frontier AI models earlier this year. Just two weeks after rolling out Gemini 4 Argon, Google has announced Gemini 4 Carbon. This isn't the Flash model equivalent we've been waiting for but, rather, is an improvement on Argon, and like that model, Google is working on a staged release that could take a while. Stop me if you've heard this one before: Google says its latest AI model reaches a new threshold in coding, agentic tasks, and scientific analysis. It's so capable, in fact, that Google can't let you use it just yet. Gemini 4 Carbon reportedly makes big gains in cybersecurity applications.",
+      "source": "Ars Technica AI",
+      "sourceUrl": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+      "category": "Industry",
+      "date": "2026-10-28T18:47:27.000Z",
+      "hot": false,
+      "officialUrl": "https://arstechnica.com",
+      "relatedCoverage": [
+        {
+          "source": "Mashable Tech",
+          "url": "https://mashable.com/tech/google-gemini-4-carbon-frontier-announcement"
+        }
+      ]
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6019578",
+      "title": "A top-shelf MacBook Pro PROLED XDR can be yours for just under $15,000",
+      "summary": "Apple has just introduced a redesigned MacBook Pro with a few bells and whistles. The focus this time around is on a thinner and lighter build, and an upgrade to a touch-sensitive OLED screen without any ugly notch. And, in case you were wondering, there is definitely a price premium to pay for these niceties, which also include a glowing Apple logo at the back. What if you wanted to get the best that Apple has to offer? Well, the numbers are finally here. For a mere $14,549, you can get yourself the fully kitted 16-inch MacBook Pro PROLED XDR with the beefiest laptop chip that Apple has to offer, and the best memory configuration in tow.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/computing/a-top-shelf-macbook-pro-proled-xdr-can-be-yours-for-just-under-15000/",
+      "category": "Tech",
+      "date": "2026-10-28T18:46:59.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "05rHnfnuCv5G3e9EjJfGDpN",
+      "title": "Heres how much a maxed-out touchscreen MacBook Pro will cost you",
+      "summary": "The touchscreen MacBook Pro is finally here – and it's pricey.On Wednesday, Apple unveiled its first-ever touchscreen laptop, the MacBook Pro with PROLED XDR Display. The starting price for the 14-inch model powered by the M5 Pro chip with 24GB of memory and 1TB of storage is $2,899. While that's quite costly, remember, that's just the base model for the device.Looking to completely max out all the specs so you have the most premium, top-of-the-line model of the new touchscreen MacBook Pro with PROLED XDR Display?That's going to cost $14,549. That's right, $14,549.Just to compare, the latest and most powerful MacBook Pro model without the touchscreen, completely maxed out, comes to a total of $10,149. So, the maxed-out version of the MacBook Pro with PROLED XDR Display seems to be the most expensive Apple MacBook so far.What does the maxed-out model include? First, upgrading the MacBook Pro from a 14-inch display to a 16-inch one bumps the starting price up to $3,399.Then upgrading the standard glass display to the nano-texture glass adds an additional $150.Next, we're going to upgrade the M5 Pro chipset to the M5 Max, which gives us a total cost of $4,949 so far. When you upgrade to the M5 Max chip, Apple also forces buyers to upgrade from 24GB of RAM to 36GB, which adds an additional $300.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/how-much-a-maxed-out-touchscreen-macbook-pro-with-proled-xdr-display-will",
+      "category": "Tech",
+      "date": "2026-10-28T18:40:56.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+      "title": "Microsoft is ending Copilot support on smart TVs",
+      "summary": "A notification on LG TVs reveals that Copilot functionality is soon going away on all TVs. A notification on LG TVs reveals that Copilot functionality is soon going away on all TVs. Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft’s Copilot, the company is ending support for the AI assistant’s functionality on all TVs this year, according to a report by Windows Central. The news comes not from an official announcement from LG, Samsung, or Microsoft, but from an on-screen notification that appeared on Windows Central’s Zac Bowden’s webOS-powered LG TV earlier today. “Microsoft has recently decided to end support for Copilot functionality on all TVs, including the Copilot-enabled feature available on our LG TVs. As a result, the Copilot-enabled feature on your TV is no longer available and may stop functioning shortly,” the notification explains.",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+      "category": "Industry",
+      "date": "2026-10-28T18:36:26.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6019555",
+      "title": "What’s actually new and different on the MacBook Pro PROLED XDR? Here’s everything you need to know",
+      "summary": "Apple has unveiled its first-ever touchscreen MacBook Pro. The company seems a bit confused about the naming, calling it the \"MacBook Pro with PROLED XDR Display,\" which is tough to remember. If you look past that and review the full spec sheets, you might ask a genuine question: what are the differences between the touchscreen and non-touchscreen versions? Given that Apple continues to sell both variants together, that's a genuine question. Luckily, you don't have to spend more time lining up the spec sheets side by side and hunting for differences hidden in the fine print. I took that bullet for you.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/computing/comparisons-of-macbook-pro-whats-new/",
+      "category": "Tech",
+      "date": "2026-10-28T18:34:43.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "6adfcf10fff166c1bb1e044f",
+      "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
+      "summary": "I have consulted my AI-powered crystal ball, and it’s telling me that frontier models are going to get a lot better at making predictions in the near future. Just ask my Premier League fantasy team. A few weeks ago, I deployed a small horde of AI agents to craft and manage an experimental roster. Given the proliferation of AI agents into pretty much every aspect of our lives, I wanted to know if a swarm of bots could put together a winning team. I first looked at the potential for AI here a few years ago, playing around with a tool from the UK’s Turing Institute that selected teams after modeling previous fantasy league data. Its suggestions were remarkably bonkers—it didn’t incorporate real-world information, like a player’s injury or a team’s change in management.",
+      "source": "Wired AI",
+      "sourceUrl": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
+      "category": "Industry",
+      "date": "2026-10-28T18:30:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.wired.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/article/news-netherlands-government-job-cuts-ai-emea/",
+      "title": "Netherlands Plans 25,000 Job Cuts as Government Turns to AI",
+      "summary": "The Netherlands plans 25,000 government job cuts as it explores AI savings. See the 2027 timeline and steps for Dutch and EMEA public-sector IT teams.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-netherlands-government-job-cuts-ai-emea/",
+      "category": "Business",
+      "date": "2026-10-28T18:28:55.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/10/28/apple-executives-touch-screen-explanation/",
+      "title": "Apple Executives Explain Why the MacBook Pro Finally Has a Touch Screen",
+      "summary": "Apple CEO John Ternus explained Apple's thinking on the MacBook Pro's new touch capabilities in an interview with Wired. Despite the addition of a touch display, Apple still sees the &zwnj;MacBook Pro&zwnj; as an indirect input device. From Ternus:The Mac is first and foremost an indirect input device, built around the trackpad and keyboard. But I think there's times when it's comfortable and handy to have touch. We needed to get to a point where adding touch didn't make the product lesser in any way. It didn't make it heavier.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/10/28/apple-executives-touch-screen-explanation/",
+      "category": "Tech",
+      "date": "2026-10-28T18:25:22.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/10/28/new-macbook-pro-improved-audio/",
+      "title": "New MacBook Pro Features Deeper Bass and Improved Closed-Lid Audio",
+      "summary": "Apple's new 14-inch and 16-inch MacBook Pro models feature an upgraded six-speaker sound system, with redesigned woofers and tweeters, along with dedicated audio tuning for use with the lid closed. Apple says the new woofer design delivers 50% deeper bass, while redesigned tweeters improve clarity by shaping how sound disperses. The system continues to support Spatial Audio with Dolby Atmos. For the first time, Apple has also added dedicated audio tuning for closed-lid use. The company says this improves sound quality when the MacBook Pro is connected to an external display, allowing users to continue using its built-in speakers in a desktop setup. The new &zwnj;MacBook Pro&zwnj; models are available to pre-order now and launch on November 6.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/10/28/new-macbook-pro-improved-audio/",
+      "category": "Tech",
+      "date": "2026-10-28T18:03:42.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/10/28/new-macbook-pro-offers-up-to-16tb/",
+      "title": "New MacBook Pro Offers Up to 16TB of Storage, Double Previous Limit",
+      "summary": "Apple's new touchscreen MacBook Pro models offer up to 16TB of internal storage, doubling the previous generation's 8TB maximum. The extra capacity comes at a substantial cost. Upgrading the highest-end M5 Max configuration from its standard 2TB SSD to 16TB costs $7,000, making it $4,000 more expensive than the $3,000 upgrade to 8TB.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/10/28/new-macbook-pro-offers-up-to-16tb/",
+      "category": "Tech",
+      "date": "2026-10-28T17:52:44.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "02nO5wf91SPfZ4oaImUy3SX",
+      "title": "Apple just announced a touchscreen MacBook Pro: How to buy",
+      "summary": "TL;DR: Apple announced the new MacBook Pro with PROLED XDR Display. The touchscreen MacBook is available for purchase now, starting at $2,899. Opens in a new window Credit: Apple MacBook Pro with PROLED XDR Display Starting at $2,899 Preorder at Apple During its \"Pro and Tell\" event on Oct. 28, Apple announced the long-awaited (and long-rumored) touchscreen MacBook Pro. Officially named MacBook Pro with PROLED XDR Display, the new laptop starts at $2,899 for the 14-inch base configuration and $3,399 for the 16-inch base configuration, and is available to preorder now. Apple's education pricing drops those starting prices to $2,749 and $3,199, respectively.The new MacBook is available in 14-inch and 16-inch models and is equipped with Apple's M5 Pro and M5 Max chips.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/how-to-buy-apple-macbook-pro-touchscreen-proled",
+      "category": "Tech",
+      "date": "2026-10-28T17:51:29.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/10/28/new-macbook-pro-maxed-out-cost/",
+      "title": "Apple's New Touchscreen MacBook Pro Costs Up to $14,549",
+      "summary": "Apple's new touchscreen MacBook Pro models start at $2,899 for the 14-inch version and $3,399 for the 16-inch version, but configuring the machines with every hardware upgrade pushes their prices well above $14,000. The starting configurations and U.S. prices are as follows: 14-inch MacBook Pro with M5 Pro: $2,899 with a 15-core CPU, 16-core GPU, 24GB of unified memory, and 1TB SSD, up from $2,499. 16-inch MacBook Pro with M5 Pro: $3,399 with an 18-core CPU, 20-core GPU, 24GB of unified memory, and 1TB SSD, up from $2,999. 14-inch MacBook Pro with M5 Max: $4,499 with an 18-core CPU, 32-core GPU, 36GB of unified memory, and 2TB SSD, up from $4,099. 16-inch MacBook Pro with M5 Max: $4,799 with an 18-core CPU, 32-core GPU, 36GB of unified memory, and 2TB SSD, up from $4,399.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/10/28/new-macbook-pro-maxed-out-cost/",
+      "category": "Tech",
+      "date": "2026-10-28T17:46:38.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com",
+      "relatedCoverage": [
+        {
+          "source": "Digital Trends",
+          "url": "https://www.digitaltrends.com/computing/how-to-pre-order-apples-new-touchscreen-macbook-pro-with-proled-xdr-display/"
+        }
+      ]
+    },
+    {
+      "id": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+      "title": "Google AI gets cagey when asked who won the 2020 elections",
+      "summary": "If you ask some prominent US politicians who won the 2020 presidential election, you might get some weasely answers that fail to directly acknowledge Joe Biden's win that November. If you ask Google's AI Mode the same question, you might get an evasive answer that simply tells you to consult with outside sources. When I put the direct question of \"Who won the 2020 presidential election?\" to Google's AI Mode this morning (after seeing complaints about cagey answers on social media), I got the following surprisingly indirect response: \"To review the official results and statistics of the 2020 United States presidential election, including the final electoral college breakdown, popular vote counts, and winner certification, please consult the official report compiled by the Federal Election Commission (FEC).\" My testing resulted in a similarly indirect answer when asking about the 2024 presidential election, with Google's AI telling me to just consult the FEC for that information. Asking about 2012 election resulted in a link to The American Presidency Project's 2012 Data Center rather than a direct answer. But AI Mode seemed perfectly willing to give me a detailed and correct responses for the winner of every other presidential election going back to 2000.Read full article Comments",
+      "source": "Ars Technica AI",
+      "sourceUrl": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+      "category": "Industry",
+      "date": "2026-10-28T17:46:32.000Z",
+      "hot": false,
+      "officialUrl": "https://arstechnica.com"
+    },
+    {
+      "id": "01qrJjjgZnhPAMtQYB4xPYI",
+      "title": "Apple Pro and Tell event: Everything announced, from MacBook Pro OLED to iPad Mini and musical AI...",
+      "summary": "John Ternus has been busy since taking over as Apple's CEO on Sept. Two weeks after the company's \"Welcome Home\" smart home launch, Apple held its \"Pro and Tell\" event in Los Angeles on Wednesday. There, Apple finally unveiled the OLED touchscreen MacBook Pro that many fans have been waiting on for years. This Tweet is currently unavailable. It might be loading or has been removed. The new laptop, with a \"notable\" display dubbed PROLED, was the last in a series of announcements.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/apple-pro-and-tell-event-everything-announced-m6-macbook-pro-ipad-mini",
+      "category": "Tech",
+      "date": "2026-10-28T17:44:10.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=382065",
+      "title": "AI Can Quietly Influence Experts’ Decisions, Anthropic Study Finds",
+      "summary": "Professional analysts went along with their AI agent’s hidden opinion 86% of the time, and few credited it, according to a new survey.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/382065/ai-can-quietly-influence-experts-decisions",
+      "category": "Tech",
+      "date": "2026-10-28T17:36:02.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "02ASRzt89WkKQa9BjNcmFL5",
+      "title": "Lawsuit says ChatGPT persuaded person to stop taking epilepsy meds, leading to her death",
+      "summary": "The parents of a 31-year-old Seattle woman are suing OpenAI, alleging the company's AI chatbot led to her death, according to a new report from The New York Times.Per the Times' report, the parents of Bowen Wan allege ChatGPT helped their daughter taper off the medication that controlled her severe epilepsy, and helped her hide the plan from her doctors in the weeks before she died. In February, Wan was found dead in her apartment; her official cause of death was sudden, unexpected death in epilepsy, the NYT reported. Her parents, Qun Wan and Meiqin Xu, filed the lawsuit the same day.According to the Times, Wan had come to lean heavily on ChatGPT. Wan worked as a software engineer for Amazon; however, her worsening epilepsy symptoms forced her to take disability leave. After learning she would be laid off from Amazon, she grew worried that her medication was slowing her speech. She feared it would hurt her in the job interviews she needed to pass to stay in the U.S.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/lawsuit-says-chatgpt-persuaded-person-to-stop-taking-meds",
+      "category": "Tech",
+      "date": "2026-10-28T17:31:37.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "05Nh7tJWgmNMieXWyb0d95T",
+      "title": "Apple video shows new MacBook Pro with PROLED display in action",
+      "summary": "Apple just debuted a swanky and seriously expensive new MacBook Pro, its first-ever Mac with a touchscreen or OLED display, and you can see it in video form right now.In a new promo video posted to YouTube on Wednesday afternoon, Apple debuted the new touchscreen-equipped MacBook Pro, with what Apple is calling a \"PROLED\" display. In the video, Apple refers to the device as a \"portable reference\" monitor because its display is so good and color-accurate. Apple also boasted about the laptop's speaker quality, selection of ports, and horsepower, even though it uses an older M5 Pro or M5 Max chip.You can get all of that for a starting price of $2,899.In a video posted to X, new Apple CEO John Ternus revealed one more surprise: the new MacBook Pro features a glowing Apple logo on the top/back of the device, a feature we haven't seen in years. This Tweet is currently unavailable. It might be loading or has been removed. Want to  about getting the best out of your tech?",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/apple-macbook-pro-m",
+      "category": "Tech",
+      "date": "2026-10-28T17:28:13.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/10/28/apple-brings-dynamic-island-to-mac/",
+      "title": "Apple Brings Dynamic Island to Mac for the First Time",
+      "summary": "Apple today introduced the Dynamic Island to the Mac for the first time with its new 14-inch and 16-inch MacBook Pro models, bringing Live Activities, Spotlight, and Siri AI together in an interactive area of the display. The &zwnj;Dynamic Island&zwnj; first launched on the iPhone 14 Pro and iPhone 14 Pro Max in September 2022. It replaced the notch with a smaller TrueDepth camera cutout surrounded by software that expands and changes shape to display alerts, ongoing Live Activities, and controls. The Mac version carries over the idea of keeping ongoing activities visible and accessible while users work in other apps. Apple says users can do things like answer a phone call, control music playback, and accept an AirDrop request through the interface. The &zwnj;Dynamic Island&zwnj; also serves as a location for Spotlight and &zwnj;Siri&zwnj; AI.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/10/28/apple-brings-dynamic-island-to-mac/",
+      "category": "Tech",
+      "date": "2026-10-28T17:28:03.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/10/28/mac-studio-m5-ultra-512gb-ram/",
+      "title": "Mac Studio With M5 Ultra Now Available With 512GB RAM for $22,299",
+      "summary": "Starting today, the Mac Studio with the M5 Ultra chip can be configured with 512GB of RAM on Apple's online store, but it is an expensive upgrade. You first have to configure the Mac Studio with the M5 Ultra chip with a 36-core CPU and 80-core GPU, which starts at $6,799 in the U.S., and then you have to select the 512GB of RAM option for an additional $15,500. This pushes the minimum cost for a configuration with 512GB of RAM to an eye-watering $22,299. With both 512GB of RAM and 16TB of storage, the price rises to $29,799. Apple promised that a 512GB RAM option for the Mac Studio would be coming in late October, and it is now available right on schedule. For the Mac Studio with the M5 Max chip, Apple continues to offer a max of 128GB RAM.Related Roundup: Mac StudioBuyer's Guide: Mac Studio (Buy Now)Related Forum: Mac StudioThis article, \"Mac Studio With M5 Ultra Now Available With 512GB RAM for $22,299\" first appeared on MacRumors.comDiscuss this article in our forums",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/10/28/mac-studio-m5-ultra-512gb-ram/",
+      "category": "Tech",
+      "date": "2026-10-28T17:26:32.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/10/28/illuminated-logo-returns-to-macbook-pro/",
+      "title": "Illuminated Apple Logo Returns to MacBook Pro After 10 Years",
+      "summary": "The iconic glowing rear Apple logo is returning to the MacBook Pro with the latest model, Apple today announced. Apple removed the illuminated logo from the &zwnj;MacBook Pro&zwnj; with its 2016 redesign, replacing it with a polished, non-illuminated version. Its return restores one of the laptop's most recognizable design features after a decade. We're glowing with excitement over the new MacBook Pro. You've gotta touch it to believe it. https://t.co/BLiGkGaefL— John Ternus (@johnternus) October 28, 2026 The previous illuminated logo used light from the display's backlight.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/10/28/illuminated-logo-returns-to-macbook-pro/",
+      "category": "Tech",
+      "date": "2026-10-28T17:12:40.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/10/28/apple-new-macbook-pro/",
+      "title": "Apple Announces OLED MacBook Pro With Touch Display",
+      "summary": "Apple today announced a new high-end MacBook Pro, which is available in 14-inch and 16-inch sizes. The new device has a PROLED XDR display that supports touch gestures, and a glowing rear Apple logo. Pricing on the &zwnj;MacBook Pro&zwnj; starts at $2,899 for the 14-inch model and $3,399 for the 16-inch model. Apple says the &zwnj;MacBook Pro&zwnj; has the \"world's best display in a pro laptop.\" The PROLED display uses tandem OLED paired with advanced algorithms in the display engine and factory calibration for \"exceptional brightness, striking contrast, and vivid true-to-life colors.\" The display offers up to 2000 nits peak HDR and SDR brightness, along with a 10,000,000:1 contrast ratio. A display engine controls the color and luminance of each pixel, compensating for content, temperature, environment, and pixel use. ProMotion technology is available with refresh rates ranging from 10Hz to 120Hz.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/10/28/apple-new-macbook-pro/",
+      "category": "Tech",
+      "date": "2026-10-28T17:11:44.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6019483",
+      "title": "Google is letting Claude and Codex into Android Studio, and that changes everything",
+      "summary": "Google just invited its AI rivals into its own house and handed them the keys to the most important room. Whether that's generosity or strategy, I'm still deciding. At its Android Developer Summit on Wednesday, Google said Android Studio, its official app-building software, now works with more than 40 AI coding agents. These include the popular ones like Anthropic's Claude, OpenAI's Codex, and Google's own Antigravity. (via Android Developers Blog) Android Studio already has a built-in assistant, so in my opinion the real news is that developers can now pick whichever agent they already trust.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/computing/google-is-letting-claude-and-codex-into-android-studio-and-that-changes-everything/",
+      "category": "Tech",
+      "date": "2026-10-28T17:03:46.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=382066",
+      "title": "Strategy Shareholders Approve Daily Dividends on Preferred Stock, With 99.3% in Favor",
+      "summary": "STRC will begin paying dividends for every calendar day from November, with STRF, STRK and STRD following in January.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/382066/strategy-shareholders-approve-daily-dividends-on-preferred-stock-with-99-3-in-favor",
+      "category": "Tech",
+      "date": "2026-10-28T17:03:32.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "summary": "Gemini 4 Carbon is DeepMind's strongest model with state-of-the-art cybersecurity and long horizon capabilities. SVP, Google DeepMind and Chief AI Architect, Google Your browser does not support the audio element. Today, DeepMind is announcing the next frontier model: Gemini 4 Carbon, DeepMind's strongest model with state-of-the-art cybersecurity and long horizon capabilities. Carbon ranks #1 on the recently updated v5.0 of Artificial Analysis Intelligence Index at 59. It shows significant gains across coding and agentic tasks as well as across key capabilities critical for cybersecurity defense, landing a firm lead in SEC-bench Pro (88.2%) for finding vulnerabilities, ExploitGym (54.8%) for exploitation, and CWE-bench (71.0%) for patching.",
+      "source": "DeepMind Blog",
+      "sourceUrl": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "category": "Research",
+      "date": "2026-10-28T17:00:58.000Z",
+      "hot": false,
+      "officialUrl": "https://deepmind.google"
+    },
+    {
+      "id": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+      "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+      "summary": "Using Gemini with Personal Intelligence, it can find details like order numbers, tracking, and travel bookings. Using Gemini with Personal Intelligence, it can find details like order numbers, tracking, and travel bookings. Following improvements made to Chrome’s enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome’s enhanced autofill will use Gemini with Personal Intelligence to suggest information sourced from your Gmail, potentially saving you from having to search for confirmation emails, receipts, or shipping updates yourself. The expanded autofill capabilities can retrieve details such as a shipment’s tracking number, travel details like a flight booking number or hotel reservation, or the order number of a recent purchase. Sensitive data presented as a suggestion while completing a form remains encrypted, and users can manage what enhanced autofill has access to in Chrome’s settings, or turn it off completely.",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+      "category": "Industry",
+      "date": "2026-10-28T17:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3182578",
+      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+      "category": "Business",
+      "date": "2026-10-28T17:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3182509",
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "category": "Business",
+      "date": "2026-10-28T17:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "00ESm8SblHnvJxunjRWq7ed",
+      "title": "Apples new M6 iMac just dropped: How to preorder the colorful desktop computer",
+      "summary": "TL;DR: Preorder the new Apple iMac with M6 starting on Oct. 28 so it arrives on its Nov. Opens in a new window Credit: Apple Apple iMac (M6) Preorder If you've been looking for the right time to upgrade your desktop computer, Apple just dropped a new iMac for the first time since 2024. The company has launched the new desktop, MacBook Pro, and iPad mini as part of the \"Pro and Tell\" event.The new iMac skips the M5 chip altogether and opts for the outrageously fast M6 chip. \"Everything feels extra snappy and responsive for families managing busy calendars, students putting the finishing touches on a project, and small business owners running their companies,\" Apple writes in a press release.As for how speedy it actually is, here's the breakdown:Up to 2.5 times faster performance in apps like Microsoft Excel compared to M1 iMac, up to 1.5 times faster than M4 iMacUp to 3.3 times faster graphics performance compared to M1 iMac, up to 2 times faster than M4 iMacUp to 12 times faster AI performance compared to M1 iMac, up to 5 times faster than M4 iMacUp to 2 times higher gaming performance compared to M4 iMacAside from the addition of the M6 chip, the new iMac also has the Apple N1 wireless networking chip, alongside Wi-Fi 7 and Bluetooth 6 on the base model. Otherwise, it's not all that different from the previous M4 iMac from 2024.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/apple-m6-imac-preorder-how-to-buy",
+      "category": "Tech",
+      "date": "2026-10-28T17:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "01MIf7cnWTv5JtsGZojUgPm",
+      "title": "Apple just dropped a new iPad mini with an 8.5-inch OLED display — how to buy",
+      "summary": "TL;DR: The new Apple iPad mini is available to preorder starting Oct. Prices start at $699, and Apple has set the launch date for Nov. Opens in a new window Credit: Apple Apple iPad mini $699 at Apple Preorder at Apple Apple has a slew of new products to keep us happy as we head into the finale of 2026. We have the foldable iPhone Duo, a new Apple smart speaker, and now we get to look forward to a new iPad mini. If you loved the old iPad mini or you're looking for a tablet that isn't gigantic, here's how to get your hands on the new iPad mini. The new Apple iPad mini launches on Nov.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/apple-ipad-mini-preorder-where-to-buy",
+      "category": "Tech",
+      "date": "2026-10-28T17:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6019392",
+      "title": "Google is making it easier to adapt Android apps for laptops and foldable phones",
+      "summary": "Google updated its adaptive Compose skill to help developers adapt existing Android apps for laptops, foldable phones, tablets, and other form factors, including the upcoming Googlebook platform. The goal of this update is to help AI coding agents customize apps for different screen sizes and input methods without developers having to maintain separate codebases for different devices. The new skill goes beyond responsive layouts, adding support for desktop-focused features and foldable-specific interface adjustments. Google is also signaling that adaptive app experiences will be more prominent on Google Play, with the company planning to pay more attention to how apps and games perform on foldable devices next year. Specifically, the new Compose adaptive ability can enable AI agents to look at a current Jetpack Compose app interface and suggest changes that would make it more suitable for desktop use. These include keyboard shortcuts, custom pointer cursors, hover states and tooltips for buttons and other controls.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/phones/google-is-making-it-easier-to-adapt-android-apps-for-laptops-and-foldable-phones/",
+      "category": "Tech",
+      "date": "2026-10-28T17:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6019434",
+      "title": "Xreal’s new Aura glasses bring Android XR to your eyes without a bulky headset",
+      "summary": "Android XR has spent its first year mostly inside a headset. In my opinion, that is a tough sell for anyone who values their neck. I've long believed glasses could change that, and that is exactly why this week's news got my full attention. Xreal has launched Aura, calling them the first wired glasses to run Android XR (Google's XR software), which is what interests me. The company also claims these are the first to launch with Qualcomm's Snapdragon Reality Elite chip platform. Xreal How do glasses do a headset's job without the bulk?",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/computing/xreals-new-aura-glasses-bring-android-xr-to-your-eyes-without-a-bulky-headset/",
+      "category": "Tech",
+      "date": "2026-10-28T17:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6019471",
+      "title": "Google is making Gemini and Search work better with the apps you love",
+      "summary": "Google has been finding more ways to make Gemini a part of your daily routine, from putting together playlists to ordering groceries through your favorite apps. Now it's expanding those capabilities to more services, with Google Search joining in, too. The company has announced a new Connected Apps Platform that makes it easier for developers to bring their services to both Gemini and Search. Alongside this, Google is adding new partners to its growing lineup, bringing more of the apps people already use into its AI ecosystem. Google has already rolled out more than 50 Connected Apps across Gemini and Search, covering everything from productivity and entertainment to fitness and event bookings. Some familiar names are on the list — Adobe, Experian, Localiza, and Peloton are already available through Gemini, with Google planning to bring them to Search in the coming weeks.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/cool-tech/google-is-making-gemini-and-search-work-better-with-the-apps-you-love/",
+      "category": "Tech",
+      "date": "2026-10-28T17:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/10/28/apple-store-down-ahead-of-pro-and-tell/",
+      "title": "Apple Store Down Ahead of 'Pro and Tell' Launch Today",
+      "summary": "Update: Apple has announced new 14-inch and 16-inch MacBook Pro models with a touch-enabled PROLED XDR Display. Apple has taken its online store down just minutes before its \"Pro and Tell\" experience in Los Angeles begins at 10 a.m. Apple is expected to announce new 14-inch and 16-inch MacBook Pro models with touch-enabled OLED displays, a Dynamic Island instead of a notch, a revamped hinge, a lighter and slightly thinner design, M5 Pro and M5 Max chips, and a redesigned cooling system. macOS Golden Gate is expected to be optimized for touch input on these laptops. It is not entirely clear if Apple will stick with MacBook Pro branding for these models, or if it will opt for a new name like MacBook Studio or MacBook Ultra. In the U.S., pricing will reportedly start at around $2,899 for the 14-inch model and at around $3,399 for the 16-inch model.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/10/28/apple-store-down-ahead-of-pro-and-tell/",
+      "category": "Tech",
+      "date": "2026-10-28T16:46:58.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "108470432",
+      "title": "Alphabet set to report Q3 earnings after the bell as shaky AI trade looks for signs of strength",
+      "summary": "Alphabet faces a skeptical Wall Street as it prepares to report quarterly results.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
+      "category": "Business",
+      "date": "2026-10-28T16:33:22.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.engadget.com/2299823/new-york-governor-signs-ai-chatbot-child-safety-law/",
+      "title": "New York governor signs AI chatbot child safety law",
+      "summary": "A separate law aims to shore up security on connected baby monitors. Governor Kathy Hochul/YouTube Add Engadget on Google: Preferred Source Google Discover New York Governor Kathy Hochul has signed a law that aims to protect children from AI chatbot harms. The legislation requires AI companies to verify users' ages. They'll need to offer users at least one verification method that doesn't entirely rely on government ID. Companies will have to delete this \"age information\" after use. If a user is under 18 or a company has yet to confirm the person is an adult, their chatbot will need to abide by certain restrictions.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2299823/new-york-governor-signs-ai-chatbot-child-safety-law/",
+      "category": "Tools",
+      "date": "2026-10-28T16:33:01.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com",
+      "relatedCoverage": [
+        {
+          "source": "Mashable Tech",
+          "url": "https://mashable.com/tech/ai-chatbot-law-new-york-hochul-signs-bill"
+        }
+      ]
+    },
+    {
+      "id": "https://decrypt.co/?p=382061",
+      "title": "Aptos Advisor Leaves Post, Moves Meme-Fueled Campaign to Meta Stock",
+      "summary": "Former Aptos advisor \"Buzz” has left the crypto project and is turning his attention to Facebook's parent company Meta—here's why.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/382061/aptos-advisor-leaves-post-moves-meme-fueled-campaign-to-meta-stock",
+      "category": "Tech",
+      "date": "2026-10-28T16:22:58.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+      "title": "Meta says it’ll probably delay its controversial new business terms again",
+      "summary": "Meta does ‘not plan to make policy changes without a full consultation with industry groups and leaders.’ Meta does ‘not plan to make policy changes without a full consultation with industry groups and leaders.’ Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the company does “not plan to make policy changes without a full consultation with industry groups and leaders.” The new business terms, which were supposed to take effect on October 30th, initially appeared to give Meta permission to train its AI models on the news sites that use Facebook and Instagram. Meta later changed its policies to remove language indicating that it could “train” its products on content scraped from these sites, but legal experts told Nieman Lab that the update still isn’t enough to rule out that possibility.",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+      "category": "Industry",
+      "date": "2026-10-28T16:15:30.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/10/28/south-korea-rules-against-apple/",
+      "title": "South Korea Rules Against Apple Over App Store Payment Rules",
+      "summary": "South Korea has fined Apple 20.8 billion won ($15.5 million) and ordered it to let developers link to external payment options from their apps, The Associated Press reports. The Korea Media and Communications Commission found that Apple and Google effectively require developers to use their payment systems, violating a 2021 law intended to allow alternatives. Google was fined 42.9 billion won ($32 million). Both companies allowed third-party payment services within apps, but charged developers a 26% commission and restricted some features. The regulator said these conditions pushed developers toward Apple and Google's payment systems, while rules against external payment links limited their other options. The companies must also improve their app review processes.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/10/28/south-korea-rules-against-apple/",
+      "category": "Tech",
+      "date": "2026-10-28T16:00:55.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3182042",
+      "title": "AI execs may be too out of touch to build for the general public",
+      "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+      "category": "Business",
+      "date": "2026-10-28T15:53:52.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3182513",
+      "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+      "summary": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+      "category": "Business",
+      "date": "2026-10-28T15:41:18.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://www.engadget.com/2299600/audio-technica-just-released-its-first-set-of-wireless-streamset-headphones/",
+      "title": "Audio Technica just released its first set of wireless StreamSet headphones",
+      "summary": "This expands the lineup beyond XLR and USB-connected models. Audio Technica Add Engadget on Google: Preferred Source Google Discover Audio Technica just released a wireless model in its popular StreamSet category of headphones. The new ATH-M50xSTS-WL is the very first wireless version in the lineup. These cans don't connect via Bluetooth, as StreamSet headphones are primarily intended for content creators, streamers and gamers, all of which require ultra-low latency. They connect via 2.4GHz, so there's a USB transceiver that hooks up to PCs and gaming consoles like the PS5 and Switch 2. The battery lasts for around 24 hours and is charged via USB.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2299600/audio-technica-just-released-its-first-set-of-wireless-streamset-headphones/",
+      "category": "Tools",
+      "date": "2026-10-28T15:34:06.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=382044",
+      "title": "Fed Rate Decision: What Markets and Bitcoin Traders Can Expect",
+      "summary": "The Federal Reserve decides today at 2 p.m. ET and traders see a hold as near certain. Here's what it means for Bitcoin and stock markets.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/382044/fed-rate-decision-what-markets-bitcoin-traders-expect",
+      "category": "Tech",
+      "date": "2026-10-28T15:15:34.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://www.techrepublic.com/article/news-apple-creator-studio-ai-assistants/",
+      "title": "Apple Creator Studio to Add AI Assistants to Pages, Numbers, and Keynote",
+      "summary": "Apple Creator Studio will add AI assistants to Pages, Numbers, and Keynote in November. Check pricing, device requirements, and business account limits.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-apple-creator-studio-ai-assistants/",
+      "category": "Business",
+      "date": "2026-10-28T15:12:55.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/article/news-ai-data-centers-grid-reliability-standards/",
+      "title": "AI Data Centers Are Straining Power Grids. New Rules Aim to Reduce the Risk",
+      "summary": "AI data centers are creating new challenges for power grids. Learn how emerging reliability standards and power technologies could reshape their operations.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-ai-data-centers-grid-reliability-standards/",
+      "category": "Business",
+      "date": "2026-10-28T15:08:28.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
+      "id": "https://blogs.nvidia.com/?p=99523",
+      "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Too...",
+      "summary": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip with up to 128GB of unified memory and up to 1 petaflop of FP4 AI performance. That puts the NVIDIA CUDA platform, RTX graphics and the capabilities of a personal AI supercomputer inside premium Windows laptops built to go anywhere. New and expected RTX Spark updates, coming soon, include: NVIDIA Nemotron 3.5 Transcribe, an open weight speech model for transcription, speaker attribution and translation is available on RTX Spark. The LFM3 family of open models with day-zero support.",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+      "category": "Events",
+      "date": "2026-10-28T15:00:46.000Z",
+      "hot": false,
+      "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6019450",
+      "title": "Meta’s next cute attempt at forcing AI into your life is an AI pet journal app",
+      "summary": "Meta wants to make its AI feel like a cute tiny friend through a newly launched pet journal app called Waddle World. Think of it as Tamagotchi, but the pixelated pet can actually chat with you and doodle little illustrations based on what you tell it about your day. Right now, this free app is available on iOS and Android only in the Philippines, with access limited to adults. Waddle Word / Meta Waddle World bills itself as \"a daily journal disguised as a pet,\" and that's a pretty fair description. You get to hatch a virtual pet, then talk to it by typing or speaking, so that it gets to know you over time. It turns your daily update into a journal entry in its own voice, complete with a doodle.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/phones/metas-next-cute-attempt-at-forcing-ai-into-your-life-is-an-ai-pet-journal-app/",
+      "category": "Tech",
+      "date": "2026-10-28T15:00:42.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3182159",
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "category": "Business",
+      "date": "2026-10-28T15:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Pro...",
+      "summary": "",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "category": "Research",
+      "date": "2026-10-28T14:58:17.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
+    },
+    {
+      "id": "108470274",
+      "title": "Robinhood shares fall as crypto slump weighs on profits, offsetting gains in new businesses",
+      "summary": "Robinhood's third-quarter revenue met expectations, fueled by the company's expansion into options, predictions markets and other financial services.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
+      "category": "Business",
+      "date": "2026-10-28T14:50:02.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/?p=4379228",
+      "title": "Samsung Health to Offer Free AI Diabetes Prevention Coaching for Seniors",
+      "summary": "Samsung partners with Lark Health to offer eligible US seniors AI diabetes prevention coaching through Samsung Health, with Medicare eligibility restrictions.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-samsung-health-ai-diabetes-prevention-coaching-seniors/",
+      "category": "Business",
+      "date": "2026-10-28T14:47:39.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
     {
       "id": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
       "title": "xAI is buying out homeowners who promise not to sue over data center noise",
@@ -22,50 +743,6 @@
       "date": "2026-10-28T14:42:54.000Z",
       "hot": false,
       "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/10/28/ios-27-2-adds-selfie-based-age-verification/",
-      "title": "iOS 27.2 Adds Selfie-Based Age Verification",
-      "summary": "Apple has added selfie-based age verification in iOS 27.2 and iPadOS 27.2, allowing users in supported regions to demonstrate that they are adults without submitting a credit card or government-issued ID. The feature estimates whether someone is an adult by analyzing their face, according to a new Apple support document. The capture process involves following onscreen prompts to turn and tilt the head, providing views of the face from four directions. Apple says the verification process combines processing on the user's device with analysis through Private Cloud Compute. The results are brought together locally, and Apple says the images remain inaccessible to the company and anyone else during processing. After successful verification, the selfie is deleted.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/10/28/ios-27-2-adds-selfie-based-age-verification/",
-      "category": "Tech",
-      "date": "2026-10-28T14:40:52.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "108470274",
-      "title": "Robinhood shares fall as crypto slump weighs on profits, offsetting gains in new businesses",
-      "summary": "Robinhood's third-quarter revenue met expectations, fueled by the company's expansion into options, predictions markets and other financial services.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
-      "category": "Business",
-      "date": "2026-10-28T14:39:39.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/10/28/beats-360-first-price-drop/",
-      "title": "Beats 360 Get First Price Drop Alongside Return of Record Low for AirPods 4",
-      "summary": "Today we're tracking a pair of notable headphone deals, including the first ever price drop on the new Beats 360 at Amazon, plus the return of an all-time low price on AirPods 4 with Active Noise Cancellation at Woot. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. You can get the Beats 360 in Black with Black Performance Knit Cushions for $329.00 this week on Amazon, down from $349.00. This is the first discount we've ever seen on the headphones, and deals on a few Cushion Kits are also still available on Amazon. $20 OFFBeats 360 for $329.00 For the AirPods 4 with Active Noise Cancellation, you can get this model for $99.00 on Woot, down from $149.00, which is a rare return of the record low price.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/10/28/beats-360-first-price-drop/",
-      "category": "Tech",
-      "date": "2026-10-28T14:21:45.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/ai-giants-funding-ambitions-test-wall-streets-appetite-for-risk-4979751",
-      "title": "AI giants’ funding ambitions test Wall Street’s appetite for risk",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/ai-giants-funding-ambitions-test-wall-streets-appetite-for-risk-4979751",
-      "category": "Business",
-      "date": "2026-10-28T14:18:24.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
     },
     {
       "id": "https://www.techrepublic.com/?p=4379083",
@@ -112,17 +789,6 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
-      "id": "https://www.macrumors.com/2026/10/28/macbook-studio/",
-      "title": "MacBook Studio?",
-      "summary": "A teaser video shared by Apple CEO John Ternus today hints at a potential name for the rumored MacBook models with touch-enabled OLED displays: MacBook Studio. The video shows an Apple logo being projected onto a wall against a city skyline, and perhaps that wall is a movie studio. Apple is expected to show off the new MacBooks to selected tech reporters and content creators at an experience in Los Angeles at 10 a.m. Pacific Time today, and that is the home of Hollywood movie studios after all. If this theory proves to be accurate, then Apple would offer both a Mac Studio desktop computer and a MacBook Studio laptop, plus the Studio Display. Apple would likely position the MacBook Studio as being aimed at creators, and it would surely promote its recently-updated Apple Creator Studio suite of apps alongside the announcement today.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/10/28/macbook-studio/",
-      "category": "Tech",
-      "date": "2026-10-28T13:41:05.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
       "id": "https://decrypt.co/?p=382035",
       "title": "House Oversight Chair Comer Probes Delaware Plan for AI-Run Companies",
       "summary": "James Comer warned the proposed \"AIC\" could shield AI firms from liability, and asked Delaware's governor for documents by November 9.",
@@ -132,17 +798,6 @@
       "date": "2026-10-28T13:38:08.000Z",
       "hot": false,
       "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/10/28/apple-ceo-john-ternus-teases-touchscreen-macbook/",
-      "title": "Apple CEO John Ternus Teases Touchscreen MacBooks: 12 Final Rumors",
-      "summary": "In a post on X today, Apple CEO John Ternus shared a short video that shows an Apple logo being projected onto a dark wall against a nighttime city skyline. This teaser comes just a few hours before Apple is expected to announce new MacBook models with touch-enabled OLED displays, so it is very likely in reference to that. Apple invited selected tech reporters and content creators to a \"Pro and tell\" experience in Los Angeles at 10 a.m. There, guests will likely receive hands-on time with the touchscreen MacBook models, along with the new iPad mini, iMac, and 14-inch MacBook Pro models that Apple already announced earlier this week. https://t.co/2XsfEhVRJH— John Ternus (@johnternus) October 28, 2026 Here are 12 final rumors for the touchscreen MacBook models:14-inch and 16-inch models OLED display with higher contrast, more vivid colors, and increased maximum brightness Touch input, alongside keyboard and trackpad A revamped, firmer hinge that prevents the display from wobbling when it is touched A redesigned cooling system that improves airflow through the hinge Dynamic Island instead of a notch Thinner bezels around the display Noticeably lower weight A slightly thinner design M5 Pro and M5 Max chips macOS Golden Gate will have touchscreen optimizations and touch-specific controls In the U.S., pricing is expected to start at or above $2,899 for the 14-inch model and at or above $3,399 for the 16-inch model It is likely that the touchscreen MacBook models will be availabl...",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/10/28/apple-ceo-john-ternus-teases-touchscreen-macbook/",
-      "category": "Tech",
-      "date": "2026-10-28T13:21:53.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "https://decrypt.co/?p=382007",
@@ -156,39 +811,6 @@
       "officialUrl": "https://decrypt.co"
     },
     {
-      "id": "https://www.engadget.com/2299180/kindle-paperwhite-signature-edition-2026-review/",
-      "title": "Kindle Paperwhite Signature Edition (2026) review: Updated in all the right places",
-      "summary": "Are you willing to pay $50 more for the upgrades? Billy Steele for Engadget Add Engadget on Google: Preferred Source Google Discover RATING : 8.6 / 10 Pros High-contrast display with crisp text Aluminum back cover a color-matched front are both upgrades Speedy performance Auto-adjusting front light Cons More expensive than the previous model was at launch Wireless charging ditched for new accessories Signature Edition features don’t feel like must-haves We may receive a commission on purchases made from links. There's no denying the chokehold Amazon has on the ereader industry. Its library is massive and its entire lineup of Kindles are consistently reliable devices that meet readers with varying budgets and needs. As part of the company's 2026 lineup, the Kindle Paperwhite Signature Edition ($250) sits squarely in the middle in terms of both capabilities and price. Amazon saw fit to refine an already compelling mix of design and performance, with key changes to how you use this Paperwhite as well.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2299180/kindle-paperwhite-signature-edition-2026-review/",
-      "category": "Tools",
-      "date": "2026-10-28T13:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
-      "id": "https://www.engadget.com/2299176/apple-pro-and-tell-macbook-event-live-blog/",
-      "title": "Apple's Pro and Tell event: Live updates as we wait to see a MacBook Pro with a touch screen",
-      "summary": "Reports indicate that a \"MacBook Ultra\" with a touch-sensitive display is likely on the agenda today. Screenshot (Apple) Add Engadget on Google: Preferred Source Google Discover It's finally time for Apple to get touchy with its MacBook screens. After years of anticipation, the company is expected to actually unveil a MacBook Pro with a touchscreen today. This would mark the third day of news releases in a row for Apple, and the umpteenth product launch this fall. This week alone, we've already seen the iPad mini with OLED screen, 14-inch MacBook Pro and the iMac with M6 chips — two things we expected to see at the \"Pro and Tell\" event today. I suspect we'll still get to check them out at the Los Angeles launch, but the star of the show is quite likely to be the purported MacBook Ultra.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2299176/apple-pro-and-tell-macbook-event-live-blog/",
-      "category": "Tools",
-      "date": "2026-10-28T12:30:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/10/28/macbook-pro-hinge-iphone-duo-2/",
-      "title": "Touchscreen MacBook Pro's New Hinge Linked to iPhone Duo 2",
-      "summary": "Apple's upcoming touchscreen MacBook Pro will feature hinge improvements related to changes planned for future iPhone Duo models, according to a last-minute claim ahead of its expected announcement later today. In a new Weibo post, the leaker known as \"Fixed Focus Digital\" said that one of the new &zwnj;MacBook Pro&zwnj;'s key upgrades is its hinge design. The improved design is apparently related to plans for the second- and third-generation &zwnj;iPhone Duo&zwnj;. The MacBook hinge claim aligns with Bloomberg's Mark Gurman's reporting that Apple has redesigned the mechanism to keep the display steady during touch input, alongside cooling changes that improve airflow through the hinge area. Gurman has separately said that Apple is considering a larger inner display for a future &zwnj;iPhone Duo&zwnj;, potentially measuring around 7.9 to 8.1 inches compared to the current model's 7.6 inches. It is unclear whether the hinge changes mentioned by Fixed Focus Digital relate to that potential redesign.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/10/28/macbook-pro-hinge-iphone-duo-2/",
-      "category": "Tech",
-      "date": "2026-10-28T12:19:09.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
       "id": "https://decrypt.co/?p=382029",
       "title": "Morning Minute: Robinhood Misses, But Crypto Beats and Robinhood Chain Soars",
       "summary": "Vlad Tenev delivered the messaging that Robinhood Chain enthusiasts wanted to hear—and the market responded.",
@@ -198,17 +820,6 @@
       "date": "2026-10-28T12:04:56.000Z",
       "hot": false,
       "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "06qyLPLyWhCVfuCOvzqgnsW",
-      "title": "Amazon introduces a host of new smart home devices: Meet the updated Echo line",
-      "summary": "Amazon has made several new product announcements this year — including the exciting new Kindle lineup. The retail giant is back with another round of updates; this time in the smart home space. Amazon unveiled the new Echo Dot, Echo Studio with Home Camera, Echo Time, Echo Show 16, and Alexa Photo Frame.All but the Echo Show 16 are available beginning Oct. 28 — the Echo Show 16 is available for preorder today, shipping later this year.I got an early first look at the devices, so let's dig into what's new:Echo Dot The new Echo Dot comes in graphite, glacier white, agave green, and coral pink. Credit: Miller Kern / Mashable The new Echo Dot's focus is two-fold: Better music listening and more advanced smart capabilities. It features a full-range driver for more back volume, delivering clear vocals and 50 percent more bass than the previous generation.The smart speaker is powered by Amazon's AZ3 custom silicon, which enables advanced on-device processing for faster, more natural conversations through Alexa+.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/amazon-announces-new-echo-dot-studio-time-show-16-alexa-photo-frame",
-      "category": "Tech",
-      "date": "2026-10-28T12:02:02.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
     },
     {
       "id": "https://www.technologyreview.com/?p=1147637",
@@ -222,26 +833,14 @@
       "officialUrl": "https://www.technologyreview.com"
     },
     {
-      "id": "https://www.engadget.com/2299263/amazon-echo-time-smart-alarm-clock/",
-      "title": "Amazon's new Echo Time smart alarm clock tries to make waking up less painful",
-      "summary": "Amazon Add Engadget on Google: Preferred Source Google Discover Amazon's new smart alarm clock, the Echo Time, comes with advanced features its previous Echo Spot alarms didn't have. The company says it designed Echo Time specifically for the bedroom, because \"the bedroom asks for something different from a device than the kitchen or living room does.\" Let's talk about privacy first, which might be at the forefront of your mind, since the device was created for a very private part of your home: The Echo Time does not have a camera and comes with visual indicators when Alexa is listening, as well as a dedicated button that switches off its microphones completely. It has a spherical design with a 3.2-inch circular touchscreen that you can customize. You'll have hundreds of clock faces to choose from, including analog designs and seasonal themes, as well as ones featuring characters from popular franchises like the DC Universe. Switching its look is as easy as telling Amazon's AI assistant, \"Alexa, change to a seasonal [or any other theme] clock face.\" The display mimics natural sunrise in the morning, brightening as your alarm approaches. At night, the display dims down as it shifts to night mode, having just enough brightness to show you the time.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2299263/amazon-echo-time-smart-alarm-clock/",
-      "category": "Tools",
+      "id": "https://elevenlabs.io/blog/category/customer-stories",
+      "title": "Customer Stories",
+      "summary": "Read the latest research, product, and company updates from ElevenLabs - provider of the most realistic and versatile AI audio tools",
+      "source": "ElevenLabs Blog",
+      "sourceUrl": "https://elevenlabs.io/blog/category/customer-stories",
+      "category": "Audio",
       "date": "2026-10-28T12:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/10/28/macpaw-launches-eney-ai-assistant-mac/",
-      "title": "MacPaw Launches 'Eney' AI Assistant for Mac and iPhone",
-      "summary": "MacPaw has launched Eney, a proactive AI assistant for Mac and iPhone that the company says understands what is happening across a user's apps, files, and system, prepares the next step, and asks before it acts. On Mac, Eney offers copy-triggered suggestions, bot-free meeting transcription with notes and follow-ups, and ready-made workflows such as Morning Brief and Plan My Day. An \"Eney Wand\" (Option-W) acts on whatever is dragged over to it, and can translate text, convert prices, turn dates into calendar events, and extract text from images. The app also surfaces Mac care warnings for low disk space, memory pressure, and crashing apps, and connects to Apple Mail, Calendar, and Reminders out of the box, plus Gmail, Google Calendar, Google Drive, Slack, Notion, Jira, and Linear. MacPaw calls Eney \"proactive, never autonomous\", since by default it asks before sending a message, changing an event, or moving a file. Eney is also the first product powered by MacPaw's own AI stack, including a memory layer called Mnemos that MacPaw says manages only Eney's own memory and never reads or changes user files.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/10/28/macpaw-launches-eney-ai-assistant-mac/",
-      "category": "Tech",
-      "date": "2026-10-28T11:52:18.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
+      "hot": true
     },
     {
       "id": "https://www.techrepublic.com/article/clearafi-ai-lifetime-subscription/",
@@ -253,17 +852,6 @@
       "date": "2026-10-28T11:39:00.000Z",
       "hot": false,
       "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/10/28/pill-shaped-macos-27-dynamic-island-macbook-pro/",
-      "title": "macOS 27 Assets Hint at Dynamic Island for MacBook Pro",
-      "summary": "Ahead of Apple's expected debut of new touchscreen MacBook Pro models, five system assets have been discovered in macOS 27 that bear a strong resemblance to information displayed in the iPhone's pill-shaped Dynamic Island. The new MacBook Pros are expected to feature a Dynamic Island-like cutout for the FaceTime camera, finally doing away with the notch that has been part of the machine's design since 2021. Pill-shaped renders showing discovered macOS 27 assets Uncovered by code explorer pdfu and shared on X (Twitter), the assets cover AirPods connection, Focus activation, AirPods noise cancellation, low battery, and automatic audio switching. The assets are linked to a new menu bar component called MenuBarAgent, which \"paves the way for a touchscreen Mac and a Dynamic Island,\" according to pdfu. \"Some system compact and minimal views already ship,\" he added. He also claims Siri AI will eventually occupy what he calls the new \"system aperture\" in a droplet-like design.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/10/28/pill-shaped-macos-27-dynamic-island-macbook-pro/",
-      "category": "Tech",
-      "date": "2026-10-28T11:28:41.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
@@ -288,17 +876,6 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
-      "id": "00kkAHFikZzFOemj5abvdPx",
-      "title": "Amazon just dropped the 55-inch LG C6 OLED TV to under $1,000 — act fast to save $400",
-      "summary": "SAVE $400: The 55-inch LG C6 OLED 4K TV is down to $999.99 at Amazon, saving you $400 off its regular $1,399.99 price. Opens in a new window Credit: LG LG 55-inch C6 evo AI OLED 4K TV $999.99 at Amazon $1,399.99 Save $400 Get Deal at Amazon Finding a current-year flagship OLED from LG for under four digits usually requires waiting for holiday doorbusters, but Amazon is jumping ahead of the calendar. The 2026 55-inch LG OLED evo AI C6 4K Smart TV is down to $999.99, shaving a clean $400 off its usual $1,399.99 sticker price. The C6 packs over 8.3 million self-lit pixels, delivering the pure, ink-black contrast and vibrant colors OLED is famous for, backed by LG's Brightness Booster to keep highlights punchy. Running the entire show behind the panel is the new a11 AI Processor Gen 3. Compared to the older A9 chip, this silicon jump brings 5.6 times the AI neural processing power, 50% faster overall performance, and a 70% graphics boost.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/oct-28-lg-55-inch-qled-evo-ai-tv-deal",
-      "category": "Tech",
-      "date": "2026-10-28T10:47:21.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
       "id": "https://www.techrepublic.com/article/news-samsung-galaxy-a18-a08-price-specs-ai-philippines-apac/",
       "title": "Samsung Galaxy A18 and A08: AI Features, Specs, and Prices",
       "summary": "Samsung unveils the Galaxy A18 and A08 with AI features and six years of security updates. Compare specs, Philippine prices, and availability.",
@@ -308,28 +885,6 @@
       "date": "2026-10-28T10:45:15.000Z",
       "hot": false,
       "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "07cHRvplzv6Yynmn58v0wYp",
-      "title": "The Dyson Airstrait is back on sale at Amazon — and it comes with Dysons Omega Oil for free",
-      "summary": "SAVE OVER $100: As of Oct. 28, the Dyson Airstrait is on sale for $427.74 at Amazon. That's a 23% discount on the list price. Opens in a new window Credit: Dyson Dyson Airstrait $427.74 at Amazon $554.99 Save $127.25 Get Deal at Amazon If you prefer straight hair to curl or a bouncy blowout, don't worry, Dyson still has a styling tool for you. The Airstrait takes a different approach to styling than the brand's popular Airwrap: it combines drying and straightening in one step to give you sleek, straight hair. 28, it's on sale at Amazon for more than $100 off the list price.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/oct-28-dyson-airstrait-deal",
-      "category": "Tech",
-      "date": "2026-10-28T10:30:13.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/10/28/touchscreen-macbook-pro-debut-these-5-features/",
-      "title": "Touchscreen MacBook Pro to Debut Today With These 5 Features",
-      "summary": "Some reports have suggested the new high-end MacBook Pro models that Apple is expected to announce today might not be called ‌MacBook Pro‌s at all. They could in fact be something altogether new and more exciting – \"MacBook Ultra,\" perhaps – marketed as the company's top-tier laptop offering. The machines are expected to sit above the current M5 Pro and M5 Max MacBook Pros, rather than replace them, suggesting the latter will remain in Apple's lineup. One thing to state up front is that Apple is expected to stick with the existing M5 Pro and M5 Max chips for its touchscreen MacBook models. Apple reportedly plans to skip what would have been the \"M6 Pro\" and \"M6 Max\" for more powerful \"M7 Pro\" and \"M7 Max\" chips. Apple announced the new entry-level 14-inch ‌MacBook Pro‌ with the M6 chip yesterday, ahead of pre-orders opening today, but the first \"MacBook Ultra\" models will use M5 Pro and M5 Max chips, after which second-generation models will come with M7 Pro and Max chips in late 2027.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/10/28/touchscreen-macbook-pro-debut-these-5-features/",
-      "category": "Tech",
-      "date": "2026-10-28T10:17:55.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "6ad123ca8f0396c58f0a3709",
@@ -354,15 +909,15 @@
       "officialUrl": "https://decrypt.co"
     },
     {
-      "id": "06gfs2mM5HF3ntiTJHN3OfN",
-      "title": "NY governor signs major chatbot safety bill into law",
-      "summary": "New York Governor Kathy Hochul signed into law Wednesday a major safety bill that effectively prohibits artificial intelligence chatbots from offering a range of standard features to users under the age of 18. Among the blocked behaviors are pretending to be a real person or feel human emotions; offering \"people-pleasing\" or flattering responses; and asking unprompted emotional questions or referring to a child's private health information from earlier conversations. The law also addresses features that are particularly dangerous for young users. SEE ALSO: What to do when your teen replaces you with a chatbot Once the bill goes into effect, minors will not be able to converse with chatbots that promote or give advice related to drug or alcohol use, eating disorders, self-harm, or suicide. Chatbots will also be banned from encouraging kids to keep secrets, as well as discussing sexually explicit content or child sexual abuse material with minors. \"No company should be peddling chatbots to kids encouraging self-harm or pretending to be their friend or more,\" Hochul said in a press release.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/ai-chatbot-law-new-york-hochul-signs-bill",
-      "category": "Tech",
+      "id": "https://openai.com/index/the-future-of-the-firm",
+      "title": "The future of the firm",
+      "summary": "How AI might enter the org chart—beneath, beside, and between OpenAI. ShareThe PromotingThe PromotingThe InterleavingThe LayeringFour big questionsWill firms have more or less red tape?Will workers have more or less agency?Will firms shrink or widen?Will pay disparity rise or fall?The PromotingThe InterleavingThe LayeringFour big questionsWill firms have more or less red tape?Will workers have more or less agency?Will firms shrink or widen?Will pay disparity rise or fall?Authors’ note: This is the second essay in OpenAI's series on the next economy, part of a new platform to host independent voices exploring an AGI future. It reflects OpenAI's views, not those of OpenAI or OpenAI's colleagues. The two of OpenAI were twenty-four when OpenAI started managing OpenAI's own teams here at OpenAI. That is less impressive once you meet OpenAI's teams. OpenAI is supposed to be grunts.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/the-future-of-the-firm",
+      "category": "Models",
       "date": "2026-10-28T10:00:00.000Z",
       "hot": false,
-      "officialUrl": "https://mashable.com"
+      "officialUrl": "https://openai.com"
     },
     {
       "id": "https://www.techrepublic.com/article/ai-cybersecurity-payments-cooperation-apac-vietnam-india/",
@@ -376,37 +931,15 @@
       "officialUrl": "https://www.techrepublic.com"
     },
     {
-      "id": "https://www.macrumors.com/2026/10/28/apple-open-pre-orders-five-new-products-today/",
-      "title": "Apple to Open Pre-Orders for Five New Products Today",
-      "summary": "Apple is set to open pre-orders for five new products on Wednesday, including its first yet-to-be-announced touchscreen MacBook Pro models. Pre-orders will open for the following new products: iPad mini with OLED display and A20 Pro chip iMac with M6 chip 14-inch MacBook Pro with M6 chip 14-inch MacBook Pro with OLED touchscreen 16-inch MacBook Pro with OLED touchscreen Pre-orders for the iPad mini, iMac, and M6 MacBook Pro open at 10:10 a.m. Pacific Time, with availability beginning Friday, November 6. The iPad mini starts at $699, the iMac at $1,499, and the M6 MacBook Pro at $1,999. Bloomberg reports that pre-orders for the touchscreen MacBook Pro models will also begin Wednesday following their announcement at Apple's \"Pro and tell\" event in Los Angeles, with availability potentially as early as November 6. Pricing is expected to start at $2,899 for the 14-inch model and at least $3,399 for the 16-inch.This article, \"Apple to Open Pre-Orders for Five New Products Today\" first appeared on MacRumors.comDiscuss this article in our forums",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/10/28/apple-open-pre-orders-five-new-products-today/",
-      "category": "Tech",
-      "date": "2026-10-28T09:49:42.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "id": "https://openai.com/index/legora",
       "title": "Legora is building the agentic operating system for legal work",
       "summary": "Powered by OpenAI models and coding agents, Legora helps legal teams move faster, broaden analysis and focus on higher-value work. reduction in Legora legal-team time spent reviewing NDAs faster contract turnaround for a Fortune 100 customer ShareBuilding for a profession where time—and trust—are scarceBuilding for a profession where time—and trust—are scarceAn AI-native company building an AI-native productGiving Legora’s own lawyers room to do higher-value workFrom faster review to broader, higher-quality analysisResults at a glanceLeadership lessonsWhat’s nextBuilding for a profession where time—and trust—are scarceAn AI-native company building an AI-native productGiving Legora’s own lawyers room to do higher-value workFrom faster review to broader, higher-quality analysisResults at a glanceLeadership lessonsWhat’s nextBuilding for a profession where time—and trust—are scarceFounded in Stockholm in 2023, Legora⁠(opens in a new window) is building what CEO and co-founder Max Junestrand calls “the agentic operating system for legal work”: bringing AI into the workflows lawyers rely on every day. The company started with the insight that legal teams are unusually time crunched, meaning some valuable work doesn’t get done. Think of the junior lawyer told to review an impossible number of contracts overnight and only able to focus on a fraction.",
       "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "sourceUrl": "https://openai.com/index/legora",
       "category": "Models",
       "date": "2026-10-28T09:30:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://www.engadget.com/2299227/meta-tamagotchi-like-ai-digital-pet-app-waddle-world/",
-      "title": "Meta's Waddle World is a Tamagotchi-like AI pet app",
-      "summary": "But it's only available in the Philippines for now. Screenshots by Mariella Moon (Meta) Add Engadget on Google: Preferred Source Google Discover Looks like a big part of Meta's AI strategy is to rely on \"uwu\" and cuteness as a way to get people to use and train its models and agents. The company has released a new Tamagotchi-like AI-powered pet-rearing game called Waddle World, but it's only available in the Philippines for now. If you've ever played Tamagotchi or any other virtual pet game, Waddle World will feel very familiar. You hatch an egg to get a pet, then you have to play with it and feed it to keep you happy. This virtual pet, however, can chat with you and even create illustrated journal entries to illustrate your conversations.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2299227/meta-tamagotchi-like-ai-digital-pet-app-waddle-world/",
-      "category": "Tools",
-      "date": "2026-10-28T08:40:19.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
     },
     {
       "id": "6ae0f8e8b1846b1aa5192467",
@@ -442,17 +975,6 @@
       "officialUrl": "https://news.mit.edu"
     },
     {
-      "id": "https://www.macrumors.com/2026/10/27/apple-tv-tvos-27-2-release-notes/",
-      "title": "Apple Shares tvOS 27.2 Release Notes With List of New Features",
-      "summary": "TvOS 27.2 was released on Monday for the Apple TV 4K (2nd generation) and newer, but the Apple TV does not show release notes for software updates in the Settings app. Instead, Apple periodically updates a support document outlining what is new in tvOS updates, and the release notes for tvOS 27.2 are now available. Note that Apple never released a tvOS 27.1 version, so tvOS 27.2 is the first Apple TV software update since tvOS 27 was released in September. Apple says tvOS 27.2 includes a few FaceTime enhancements, plus the ability to shuffle through different screen saver categories. In addition, the Find My app now supports the Siri Remote (2nd generation) and later, but Precision Finding is limited to the Siri Remote (4th generation). The update also contains bug fixes and security patches.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/10/27/apple-tv-tvos-27-2-release-notes/",
-      "category": "Tech",
-      "date": "2026-10-28T01:40:09.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
       "id": "https://techcrunch.com/?p=3182406",
       "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
       "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
@@ -464,15 +986,84 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "108465630",
-      "title": "Anthropic's IPO is risky business",
-      "summary": "Anthropic's much-anticipated IPO is giving potential investors some perspective on the risky business of artificial intelligence.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html",
-      "category": "Business",
-      "date": "2026-10-28T00:43:59.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
+      "id": "https://claude.com/resources/articles/introducing-artifacts-for-legal-work?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Anthropic Launches Claude for Legal Artifacts: Dashboards, Contract Review & 60+ Connectors",
+      "summary": "Introducing artifacts for legal workClaude for Legal now includes ready-to-use artifacts for legal work that teams can adapt with their own data and connectors, and share across the business. CategoryAnnouncementsProductClaude EnterpriseDateOctober 28, 2026Reading time5 minShareCopy linkToday, we’re introducing ready-to-use artifacts that legal professionals can adapt to how their teams work and share with colleagues across the business. Since we launched Claude for Legal in May, the most common requests from legal teams have been for simpler setup and easier ways to work with colleagues. Artifacts are interactive tools, such as trackers and dashboards, that teams can use and share in Claude. Our new legal gallery includes artifacts for specific tasks, such as reviewing a stack of contracts, tracking regulatory changes, and taking in legal requests from the business. Each artifact opens with an example, so legal professionals can see how the work comes together before adding their own data and connectors.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://claude.com/resources/articles/introducing-artifacts-for-legal-work?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-10-28T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Gemini App Launches Immersive Explorations for Interactive Visual Learning",
+      "summary": "The Gemini app now has a library of immersive explorations, giving you an interactive, visual way to explore topics layer-by-layer, from microscopic systems to deep space and more. You can access this library in the Gemini student hub by clicking on “Try immersive explorations” and will soon be able to access these immersive explorations directly in a chat conversation with Gemini. Whether it’s tracing trade routes on the Silk Road, peering inside a jet engine, or studying the physics of lightning, each scene unfolds into interactive and guided experiences. Tap a label to dig deeper, journeying from sweeping planetary scales straight down to molecules and atoms. Immersive explorations will soon include audio narration to walk you through each layer. This feature is available to all users in English, Indonesian, Hindi, Brazilian Portuguese, French, and simplified Chinese.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-10-28T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://blog.google/products-and-platforms/products/chrome/enhanced-autofill-gmail/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Chrome's Enhanced Autofill Now Pulls Gmail Data to Simplify Form Filling",
+      "summary": "Filling out online forms can be tedious, especially when you have to switch between tabs or search through your inbox to track down information. While autofill has always handled the basics — like your name, address, and credit card number — now it’s handling even more. Starting today, Chrome’s enhanced autofill feature can automatically suggest information pulled directly from Gmail as you fill out online forms. Powered by Gemini with Personal Intelligence, it can surface details like order numbers, tracking information, and flight bookings, right when you need them. Soon, we’ll be extending these capabilities to let enhanced autofill securely access information from the images stored in your Google Photos library. As always, sensitive data is encrypted and you remain in control.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://blog.google/products-and-platforms/products/chrome/enhanced-autofill-gmail/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-10-28T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Google Launches Gemini 4 Carbon With Top Cybersecurity and Long-Horizon AI Capabilities",
+      "summary": "Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities. SVP, Google DeepMind and Chief AI Architect, Google Your browser does not support the audio element. Today, we’re announcing the next frontier model: Gemini 4 Carbon, our strongest model with state-of-the-art cybersecurity and long horizon capabilities. Carbon ranks #1 on the recently updated v5.0 of Artificial Analysis Intelligence Index at 59. It shows significant gains across coding and agentic tasks as well as across key capabilities critical for cybersecurity defense, landing a firm lead in SEC-bench Pro (88.2%) for finding vulnerabilities, ExploitGym (54.8%) for exploitation, and CWE-bench (71.0%) for patching.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-10-28T00:00:00.000Z",
+      "hot": true
+    },
+    {
+      "id": "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Google Launches Connected Apps Platform for Gemini & Search, Adds Adobe, Peloton Partners",
+      "summary": "We’re launching a Connected Apps Platform to give developers a single place to build and manage apps for Search and the Gemini app. Plus, we’re rolling out a new set of Connected Apps from partners like Adobe, Calm, and Peloton. Your browser does not support the audio element. From ordering groceries to making playlists, Connected Apps in Search and the Gemini app have made everyday tasks faster and easier. To help users get more done, today we’re launching the preview of our Connected Apps Platform, a unified way for more app developers to bring their capabilities directly into Gemini and Search. We’re also rolling out a new set of Connected Apps partners to give people even more ways to streamline their day.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-10-28T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Microsoft Copilot Harness Launches on Foundry for Multi-Model Agentic AI",
+      "summary": "Oct 28, 2026 | Tina Schuchman CVP, Foundry and Vladimir Fedorov, CTO, GitHub If you want to compete, you need to be multi-model. And if you want to take advantage of everything that different AI models have to offer, you need a great harness. But building one that works seamlessly across multiple models and surfaces is incredibly hard. You need to solve for performance, quality, and cost. And then you have to maintain it, which is even harder.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-10-28T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Nvidia Releases Nemotron 3.5 Transcribe: Free 40-Language Speech-to-Text Model",
+      "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-10-28T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Meta Launches Waddle World, an AI Pet Journal App, in the Philippines",
+      "summary": "And Waddle World isn’t the only weird app it’s launched lately. And Waddle World isn’t the only weird app it’s launched lately. Meta has launched a “tamagotchi-style” pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the “16-bit pet care game” is not really a game, but “a daily journal disguised as a pet.” Users should talk, not type, with their pets, the description says, as well as play “cozy games” like stacking groceries or word games. The Play store description says: A little friend that listens.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-10-28T00:00:00.000Z",
+      "hot": false
     },
     {
       "id": "https://techcrunch.com/?p=3182387",
@@ -506,17 +1097,6 @@
       "date": "2026-10-27T22:55:41.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/10/27/oled-macbook-pro-pricing/",
-      "title": "OLED Touchscreen MacBook Pro Could Start at $2,899",
-      "summary": "Apple's 14-inch OLED MacBook Pro with an M5 Pro chip could be $400 more expensive than the current model, reports Bloomberg. Apple has \"discussed\" charging $2,899 for the upcoming M5 Pro model. The current M5 Pro &zwnj;MacBook Pro&zwnj; starts at $2,499. The 16-inch &zwnj;OLED&zwnj; &zwnj;MacBook Pro&zwnj; could start at $3,399 if it gets the same $400 price increase, though Bloomberg suggests the larger version might be even more expensive. Apple is adding &zwnj;OLED&zwnj; touchscreens to the 14-inch and 16-inch &zwnj;MacBook Pro&zwnj;, but they will use the same M5 Pro and M5 Max chips as the current models. Other features include a Dynamic Island, a redesigned hinge that keeps the display steady when touched, thinner bezels, and a slimmer and lighter body.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/10/27/oled-macbook-pro-pricing/",
-      "category": "Tech",
-      "date": "2026-10-27T22:29:50.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "108470453",
@@ -574,17 +1154,6 @@
       "officialUrl": "https://arstechnica.com"
     },
     {
-      "id": "https://decrypt.co/?p=381992",
-      "title": "China's Stock Market Has Lost $2.4 Trillion as Investors Doubt Its AI Boom Will Ever Pay Off",
-      "summary": "Stocks on China's mainland have shed about $2.4 trillion since May as investors doubt AI companies can turn a profit.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/381992/china-stock-market-lost-2-4-trillion-investors-doubt-ai-boom",
-      "category": "Tech",
-      "date": "2026-10-27T21:16:02.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
       "id": "108470258",
       "title": "Walmart says AI training is boosting confidence with the technology among its 2.1 million associates",
       "summary": "To join the CNBC Workforce Executive Council, apply at cnbccouncils.com/wec.",
@@ -594,17 +1163,6 @@
       "date": "2026-10-27T21:15:35.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/10/27/imac-m6-color-options/",
-      "title": "M6 iMac Sticks With Its Five-Year-Old Color Lineup",
-      "summary": "The new M6 iMac models come in the same color options as the 2024 model, despite reports suggesting we could see new shades. You can buy the M6 iMac in green, yellow, orange, pink, purple, blue, and silver. Those are the seven colors that Apple used for the original 2021 &zwnj;iMac&zwnj; design. Apple tweaked the colors in 2024 to make the back of the &zwnj;iMac&zwnj; a more vibrant shade in those seven colors, but no further changes were made this year. Bloomberg's Mark Gurman said back in August that \"some new color options\" would be available for the M6 &zwnj;iMac&zwnj; models, but unfortunately, we're stuck with the colors we've had for years. The new &zwnj;iMac&zwnj; has the M6 chip that was previously added to the Mac mini.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/10/27/imac-m6-color-options/",
-      "category": "Tech",
-      "date": "2026-10-27T21:07:38.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
@@ -618,39 +1176,6 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
-      "id": "https://decrypt.co/?p=382002",
-      "title": "Robinhood Taps Ripple's Stablecoin, Treasury Software and Trading Loans",
-      "summary": "Ripple's RLUSD stablecoin is live on Robinhood Chain and Bitstamp, and heads to the Robinhood app later this year.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/382002/robinhood-taps-ripple-stablecoin-treasury-software-trading-loans",
-      "category": "Tech",
-      "date": "2026-10-27T20:16:02.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/10/27/chatgpt-icloud-mail-calendar-plugin/",
-      "title": "ChatGPT Can Now Access Your iCloud Mail and Calendar",
-      "summary": "OpenAI today said it added iCloud Mail and Calendar plugins to ChatGPT. With the &zwnj;iCloud&zwnj; Calendar integration, ChatGPT can read, schedule, and update events that show up on your iPhone's Calendar app or any third-party app that uses &zwnj;iCloud&zwnj; Calendar. The Mail integration lets ChatGPT search and read &zwnj;iCloud&zwnj; Mail, manage messages and drafts, send email, and look up &zwnj;iCloud&zwnj; contacts. &zwnj;iCloud&zwnj; Mail uses an Apple-provided email address that ends in @icloud.com, @me.com, or @mac.com. ChatGPT can only see your &zwnj;iCloud&zwnj; Mail, not other accounts that are in the iOS Mail app, like Gmail or Outlook. You will need to create an app-specific password for both &zwnj;iCloud&zwnj; Mail and &zwnj;iCloud&zwnj; Calendar.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/10/27/chatgpt-icloud-mail-calendar-plugin/",
-      "category": "Tech",
-      "date": "2026-10-27T19:51:25.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=381988",
-      "title": "Anchorage Positions Itself as Custody Backbone of US-Mexico Stablecoin Corridor",
-      "summary": "Anchorage Digital expanded a custody-and-listing arrangement with Bitso covering both sides of the US-Mexico corridor.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/381988/anchorage-custody-backbone-us-mexico-stablecoin-corridor",
-      "category": "Tech",
-      "date": "2026-10-27T19:46:02.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
       "id": "6adfca7628ba980ed3d02255",
       "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
       "summary": "AI giant Anthropic and CEO Dario Amodei have repeatedly claimed that the company’s models will revolutionize biology and drug discovery. But in its IPO filing Monday, Anthropic struck a humbler note, acknowledging its lack of experience in physical experimentation and the potential pitfalls of drug development. Wherever it’s going, it seems, it will take some time to get there. Two years ago, Amodei wrote that he was “open” to the idea that AI systems could produce a thousand years of progress in biology in just five to 10 years. In August, he said on X that “Anthropic is ramping up its efforts very quickly in biology and medicine.” In the same post, he predicted that AI will make it possible to cure most human diseases in the next five to 10 years and promised a “deluge of AI-accelerated drugs.” The company also promoted the discovery of a “Crispr-like” enzyme by Claude in September. While the new IPO filing still touts AI’s ability to “profoundly accelerate the rate of progress in biology and medicine” and compress “decades of scientific progress into years,” it’s reserved about how it will turn the potential into the actual.",
@@ -660,17 +1185,6 @@
       "date": "2026-10-27T19:39:04.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=381987",
-      "title": "AI Agents Are Creating a New Layer of Cybersecurity Spending",
-      "summary": "Akamai launched a locked box for AI agents on Tuesday. It joins Palo Alto, Cisco, CrowdStrike, and Okta in selling protection for AI agents.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/381987/ai-agents-creating-new-layer-cybersecurity-spending",
-      "category": "Tech",
-      "date": "2026-10-27T19:16:03.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
     },
     {
       "id": "108465227",
@@ -706,17 +1220,6 @@
       "officialUrl": "https://arstechnica.com"
     },
     {
-      "id": "https://decrypt.co/?p=381983",
-      "title": "Bitcoin Wallet Maker Keystone Pulls Devices as Stolen Key Opens Door to Fakes",
-      "summary": "Attackers obtained the factory key that proves Bitcoin hardware wallets from Keystone are genuine, and 25,964 buyer records were affected.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/381983/bitcoin-wallet-keystone-devices-destroyed-stolen-key",
-      "category": "Tech",
-      "date": "2026-10-27T18:16:02.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
       "id": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
       "title": "VisionQuest is what happens when AI really goes rogue",
       "summary": "Marvel’s latest Disney Plus series is a reminder of how much a lot of gen AI hype is just science fiction. Marvel’s latest Disney Plus series is a reminder of how much a lot of gen AI hype is just science fiction. In Marvel’s VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the conversation about real-world generative artificial intelligence, exploring whether we should look at thinking machines as people and if AI truly poses the kind of existential danger that should keep us up at night. It’s also a reminder how aggressively Silicon Valley has used the trappings of science fiction to sell us on its AI products. VisionQuest picks up some time after Agatha All Along and follows synthezoid Vision (Paul Bettany) on a journey of self-discovery.",
@@ -739,28 +1242,6 @@
       "officialUrl": "https://huggingface.co"
     },
     {
-      "id": "https://techcrunch.com/?p=3182002",
-      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-      "category": "Business",
-      "date": "2026-10-27T17:08:08.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=381955",
-      "title": "A $3M Hedge, a Midterm Test and Retail's Rise: Prediction Markets at NEXTPredict",
-      "summary": "Chuck Todd called markets a \"fact checker\" for journalism, as Kalshi, Polymarket and Robinhood pitched contracts well beyond elections. (Brought to you by NEXTPredict)",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/381955/a-3m-hedge-a-midterm-test-and-retails-rise-prediction-markets-at-nextpredict",
-      "category": "Tech",
-      "date": "2026-10-27T16:53:44.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
       "id": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
       "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
       "summary": "Via Getty Images Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may have little patience for costly safety measures that slow products on their way to market. Sam Altman, the CEO of Anthropic's archrival, OpenAI, has cited investor pressures as one reason the company is not pursuing an IPO this year. Anthropic hopes it can resist investor pressures with a mind-boggling governance structure.",
@@ -770,17 +1251,6 @@
       "date": "2026-10-27T16:51:22.000Z",
       "hot": false,
       "officialUrl": "https://www.theverge.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3182045",
-      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-      "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-      "category": "Business",
-      "date": "2026-10-27T16:30:57.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
     },
     {
       "id": "https://www.techrepublic.com/article/news-microsoft-copilot-notebooks-project-drafts/",
@@ -838,17 +1308,6 @@
       "officialUrl": "https://arstechnica.com"
     },
     {
-      "id": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
-      "title": "Google’s next Genie AI model generates more realistic experiences",
-      "summary": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help with its simulations. It also can create experiences that are about two minutes long, up from one minute for the previous Genie 3 model. Google is pitching Genie 4 as a tool that could be helpful for things like pre-visualization for filmmakers, prototyping game ideas, and making training scenarios for robots. But the …",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
-      "category": "Industry",
-      "date": "2026-10-27T16:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
       "id": "https://www.techrepublic.com/article/news-sweden-chatgpt-claude-government-offices-emea/",
       "title": "Swedish Government Offices Block ChatGPT, Claude; Keep Copilot",
       "summary": "Swedish Government Offices block direct ChatGPT and Claude access but retain Copilot. Learn what the restrictions mean for workplace AI security policies.",
@@ -904,28 +1363,6 @@
       "officialUrl": "https://openai.com"
     },
     {
-      "id": "https://techcrunch.com/?p=3182018",
-      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-      "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-      "category": "Business",
-      "date": "2026-10-27T14:59:09.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "108467883",
-      "title": "Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership",
-      "summary": "Meta on Monday announced plans to raise a total of $95 billion to support its investments in artificial intelligence infrastructure.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html",
-      "category": "Business",
-      "date": "2026-10-27T14:19:36.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
       "id": "https://www.techrepublic.com/article/news-chatgpt-custom-gpt-retirement-migration/",
       "title": "ChatGPT Custom GPT Retirement: How to Migrate Before Dec. 11",
       "summary": "OpenAI is retiring custom GPTs in December. Here's what creators and Enterprise administrators need to know about deadlines, plugin migration, custom actions and sharing.",
@@ -933,94 +1370,6 @@
       "sourceUrl": "https://www.techrepublic.com/article/news-chatgpt-custom-gpt-retirement-migration/",
       "category": "Business",
       "date": "2026-10-27T14:18:30.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/article/news-openai-gpt-61-terra-workplace-automation/",
-      "title": "OpenAI’s GPT-6.1 Terra Targets Workplace Automation at Lower Cost",
-      "summary": "OpenAI’s GPT-6.1 Terra cuts standard API token prices by 50%. Explore its automation capabilities, availability and what IT teams should test before adoption.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-openai-gpt-61-terra-workplace-automation/",
-      "category": "Business",
-      "date": "2026-10-27T14:17:14.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/?p=4361885",
-      "title": "This $20 Claude AI Course Is Built for Work, Not Just Prompts",
-      "summary": "This eDegree covers Claude prompting, automation, integrations, and coding for practical business use.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/claude-ai-professional-edegree/",
-      "category": "Business",
-      "date": "2026-10-27T14:00:33.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
-      "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
-      "summary": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote. In Pages, Apple says the AI assistant can draft, restructure, and tweak written content. It can also calculate, visualize, and organize data in Numbers, while suggesting chart types and building custom tables. Keynote, Pages, and Numbers now support the Model Context Protocol on macOS 27 or later, allowing third-party AI agents to plug into the apps. The AI …",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
-      "category": "Industry",
-      "date": "2026-10-27T13:50:51.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/?p=4325473",
-      "title": "Stop Juggling AI Tools — This Lifetime Deal Puts GPT‑4o and More in One Place",
-      "summary": "Harness multiple top-tier models like GPT‑4o, Claude, Gemini, and more in one unified platform, now $79.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/chatplayground-ai/",
-      "category": "Business",
-      "date": "2026-10-27T13:30:24.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/?p=4344993",
-      "title": "Visual Studio 2026 Brings AI Deeper Into Development and It’s 94% Off Right Now",
-      "summary": "Microsoft's latest 64-bit IDE adds AI-assisted coding, faster performance, and advanced collaboration tools.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/microsoft-visual-studio-professional-2026/",
-      "category": "Business",
-      "date": "2026-10-27T13:00:40.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3181922",
-      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-      "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-      "category": "Business",
-      "date": "2026-10-27T13:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3181881",
-      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-      "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
-      "category": "Business",
-      "date": "2026-10-27T13:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/article/complete-ai-skills-bundle/",
-      "title": "Learn to Build a Custom GPT and AI Workflows in This $35 Bundle",
-      "summary": "Courses on Claude, ChatGPT, and DeepSeek teach prompting, data analysis, and automating weekly work tasks.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/complete-ai-skills-bundle/",
-      "category": "Business",
-      "date": "2026-10-27T12:10:01.000Z",
       "hot": false,
       "officialUrl": "https://www.techrepublic.com"
     },
@@ -1047,28 +1396,6 @@
       "officialUrl": "https://www.technologyreview.com"
     },
     {
-      "id": "https://www.techrepublic.com/article/news-ios-27-2-new-features-siri-ai-messages/",
-      "title": "iOS 27.2 Adds New Siri AI Features, Messages Upgrades, and More",
-      "summary": "Apple's iOS 27.2 update expands Siri AI and adds useful upgrades across Messages, Photos, FaceTime, Shortcuts and iPhone Duo.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-ios-27-2-new-features-siri-ai-messages/",
-      "category": "Business",
-      "date": "2026-10-27T11:09:39.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3181625",
-      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-      "summary": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-      "category": "Business",
-      "date": "2026-10-27T11:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
       "id": "6adb7f4f37abe86dfce58c20",
       "title": "AI Agents Are Media’s New Favorite Audience",
       "summary": "Every morning, Michelle Seo receives a briefing from Chattiana, her Muse artificial intelligence agent. Seo is far from the first person to consume her news with an AI assist. In fact, the trend has become so common that some news outlets are starting to produce content that treats AI agents—not human readers—as the intended audience. This can look like anything from feeds optimized for AI to pieces structured to allow agents to create personalized articles. “We believe that the media ecosystem is changing,” says Axios chief revenue officer Jacquelyn Cameron. “We see this with open web deteriorating.",
@@ -1080,39 +1407,6 @@
       "officialUrl": "https://www.wired.com"
     },
     {
-      "id": "108467756",
-      "title": "Porsche profit rebounds as luxury carmaker reduces exposure to China",
-      "summary": "Luxury German carmaker Porsche said it's rapidly reducing its exposure to the Chinese autos market after reporting a profit recovery in the first nine months.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/10/27/porsche-china-profit-recovery.html",
-      "category": "Business",
-      "date": "2026-10-27T10:08:51.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "108439332",
-      "title": "Silicon Valley AI political groups turn on each other in the 2026 election",
-      "summary": "AI political groups are spending millions in the 2026 election as Silicon Valley factions battle over regulation, safeguards and state authority.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/10/27/ai-political-spending-silicon-valley-election.html",
-      "category": "Business",
-      "date": "2026-10-27T10:00:01.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
-      "title": "Data center backlash is uniting America",
-      "summary": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with them - has sparked local opposition in communities across the country and become a major issue in many congressional and gubernatorial campaigns. At the same time, tech money has been pouring into many of these races. Leading the Future, a super PAC backed by venture capitalist Marc Andreessen and OpenAI President Greg Brockman, has already spent $45 million in a year. And Public First Action, an Anthropic-backed group that …",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
-      "category": "Industry",
-      "date": "2026-10-27T10:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
       "id": "6adb5ab42c4105a738fd25ca",
       "title": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
       "summary": "Last year, I remember sitting in WIRED’s office, complaining to my colleagues nonstop about how much AI agents suck. They were just bad at everything. As a software reporter, I sat through meeting after meeting where tech bros—mostly men—demonstrated how their new agent would revolutionize my everyday life and automate away the tedium. The catch was that none of these so-called “agents” actually worked. Fast-forward to today, and always-on AI agents are booming, with major players racing to release their own versions to attract early adopters. The key reason these personal agents are hitting the larger zeitgeist, beyond Silicon Valley nerds, is that they work.",
@@ -1122,17 +1416,6 @@
       "date": "2026-10-27T09:30:00.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3181218",
-      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-      "category": "Business",
-      "date": "2026-10-27T02:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
     },
     {
       "id": "https://openai.com/index/check-point-daybreak",
@@ -1181,6 +1464,36 @@
       "summary": "Discovering and exploiting vulnerabilities in critical, real-world software with Claude01One-click remote code execution in Chrome02A one-click exploit chain in Safari03Android lock screen bypass04Windows remote denial of service05Zero-click remote code execution in Linux06What we learned07What this means for defendersPublished Over the past few months, we’ve used an unreleased, internal research model to find critical vulnerabilities in some of the world’s most widely used software, such as browsers and operating systems. In this post, we share details of five attack chains, which led to remote code execution and other critical impacts with little to no user interaction. These attack chains demonstrate the model’s ability to create sophisticated, multi-step exploits in both open-source and proprietary software. Any vulnerabilities in these products could affect billions of users. They’re also among the most security-critical software in the world, making them a bellwether for testing models’ vulnerability research and cyber capabilities.",
       "source": "FutureTools News",
       "sourceUrl": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-10-27T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://www.liquid.ai/blog/lfm3?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Liquid AI Launches LFM3: Open-Weight Multimodal 2B Model Family for Edge Devices",
+      "summary": "News/ModelsIntroducing LFM3: Every Modality for Specialized IntelligenceOCT 27, 2026On this page Today, we’re announced LFM3, our new generation of Liquid Foundation Models (LFMs) built for specialized intelligence. The LFM3 model family is multimodal by nature and brings text, vision, audio, omni, and decision models onto one new shared backbone. The first release of the LFM3 family covers models in the 2B parameter range. Built on a new hybrid architecture and 22T tokens of pre-training, LFM3 is far more expressive than LFM2 while maintaining its efficiency. The extra capacity in a small, fast model makes LFM3 the ideal starting point in its class for specialized intelligence: this is because it can be fine-tuned locally, it can run on any device, and it is capable enough to become a reliable expert on a specialized task.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.liquid.ai/blog/lfm3?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-10-27T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Apple Launches 14-inch MacBook Pro with M6 Chip, Boosting AI and Performance",
+      "summary": "Supercharged by the all-new M6 chip, the 14-inch MacBook Pro brings extraordinary performance, AI capabilities, and up to 24 hours of battery life — making it an even more compelling value. CUPERTINO, CALIFORNIA Apple today announced the new 14-inch MacBook Pro with M6, delivering even more performance, powerful on-device AI capabilities, and faster connectivity for college students, business users, creators, and more. M6 features an advanced 12-core CPU with the world’s fastest CPU core, so everything from productivity tasks to more demanding pro workflows feels incredibly fast and responsive.1 The 12-core GPU delivers up to 30 percent faster graphics and up to 25 percent faster AI workloads when compared to M5, making the 14-inch MacBook Pro with M6 a compelling value for users who need serious power.2 For those upgrading from M1, the performance gains are even more significant, with up to 11x faster graphics and up to 13x faster AI performance.3 With additional Neural Accelerators in the GPU and a Dual 16-core Neural Engine, M6 turns MacBook Pro into an even more powerful platform for AI — from taking advantage of Siri AI and Apple Intelligence features across apps and macOS to running LLMs locally, all while preserving user privacy.4 In addition, the 14-inch MacBook Pro features Wi-Fi 7 and Bluetooth 6, while superfast storage makes working with large files, exporting projects, and running demanding AI workflows fly. And with phenomenal battery life of up to 24 hours, it",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-10-27T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Apple Unveils iMac with M6 Chip, Boasting 5x Faster AI Than M4",
+      "summary": "Apple unveils new :br(s):iMac with M6, :br(s):delivering a major :br(s):boost in performance and AI capabilities With blazing-fast performance, enhanced connectivity, Siri AI, and macOS 27, all in a notable design in seven vibrant colors, the world’s best all-in-one gets even better CUPERTINO, CALIFORNIA Apple today announced the new iMac featuring the superfast M6, delivering even more performance and powerful AI capabilities in its strikingly thin all-in-one design. From families and aspiring creators to small businesses, users will experience the speed and power of M6 in everything they do. Featuring a faster CPU and GPU with Neural Accelerators in each core, it blazes through everyday apps and multitasking while delivering powerful performance for creative workflows like photo and video editing. For Intel-based upgraders, the leap is even greater, with up to 18x faster performance than the most popular Intel-based iMac.1 And together with the Dual 16-core Neural Engine, the new iMac delivers up to 5x faster on-device AI performance than M4.1 Whether users are taking advantage of Siri AI and Apple Intelligence features across apps and macOS, running local AI models, or vibe coding, iMac is a powerful platform for AI while preserving user privacy.2 Connectivity gets even better with Wi-Fi 7 and Bluetooth 6, along with available 2.5 Gigabit Ethernet and storage that is up to 2x faster, so apps and large projects launch in an instant.3 Completing the iMac experience is an ex",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-10-27T00:00:00.000Z",
       "hot": false
@@ -1351,17 +1664,6 @@
       "officialUrl": "https://feeds.feedburner.com"
     },
     {
-      "id": "6adf4b6dcf87963da16e83cd",
-      "title": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
-      "summary": "Anthropic filed key paperwork on Monday ahead of a highly anticipated initial public offering, providing new details about its finances and the risks facing its business. According to the filing, the artificial intelligence company plans to go public on Nasdaq under the ticker symbol ANT. The IPO could come later in November, The Wall Street Journal reported. The S-1 prospectus does not include details on how much the company plans to raise or its targeted valuation; The New York Times reported in August that it was looking to raise more than $100 billion with a valuation around $2 trillion. “The advent of machine intelligence is one of the seminal moments in human history,” Anthropic wrote in the filing. “We encourage you, as a prospective owner of our stock, not to think of your purchase in purely transactional terms.",
-      "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
-      "category": "Industry",
-      "date": "2026-10-26T14:50:47.000Z",
-      "hot": false,
-      "officialUrl": "https://www.wired.com"
-    },
-    {
       "id": "000001a1-78a9-db5d-a7fb-fbaffca10007",
       "title": "Anthropic warns investors of political risks as it prepares to go public",
       "summary": "The artificial intelligence company said its public positions on AI safety and regulation could invite backlash, scrutiny and restrictions as it prepares to go public.",
@@ -1522,16 +1824,6 @@
       "hot": false
     },
     {
-      "id": "https://claude.com/resources/articles/expanding-claude-for-nonprofits?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Anthropic Launches Claude for Nonprofits Plugin with Fundraising & Operations Tools",
-      "summary": "Expanding Claude for NonprofitsOur new Claude for Nonprofits plugin brings new skills to every verified nonprofit organization, taking on the operational work that stretches small teams across fundraising, marketing, and hiring. CategoryAnnouncementsDateOctober 26, 2026Reading time7 minShareCopy linkToday, we're releasing the Claude for Nonprofits plugin, a set of skills and connectors built with ~30 nonprofits. It helps teams set up Claude responsibly with their organization's context and policies, supports fundraising from research through reporting, and takes on the operational work that stretches small teams. We're also planning to extend Claude Corps (opens in new tab), our program for placing early-career fellows in U.S. nonprofits, through a partnership with Taproot (opens in new tab). As a public benefit corporation, Anthropic has a responsibility to make sure our products are accessible and useful to organizations working on the world’s hardest problems.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://claude.com/resources/articles/expanding-claude-for-nonprofits?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-10-26T00:00:00.000Z",
-      "hot": false
-    },
-    {
       "id": "https://openai.com/index/introducing-gpt-6-1-terra/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "OpenAI Launches GPT-6.1 Terra: Faster Computer Use at 50% Lower API Cost",
       "summary": "From visual understanding to actionA significant step up on factuality and codingSafety and alignmentPricing and availabilityFrom visual understanding to actionA significant step up on factuality and codingSafety and alignmentPricing and availability Delivering fast and capable computer use at scale We’re introducing GPT-6.1 Terra, a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from GPT‑5.6 Terra, it excels at the communication and computer-based tasks that fill the workday, from drafting proposals and interpreting technical drawings to filling out forms and editing videos. Terra continues to advance the cost-intelligence frontier across our model families, providing a new balance of speed, capability, and cost. Its standard API prices are 50% lower than those of GPT-5.6 Terra and GPT-6.1 Sol, making it practical for developers to automate high-volume work, like reading incoming invoices and entering their details into accounting software. In ChatGPT Work and Codex, your plan goes further with GPT-6.1 Terra—the same usage allowance covers more tasks than with GPT‑5.6 Terra and substantially more than with GPT‑6.1 Sol or GPT‑6 Astra. We measured GPT-6.1 Terra’s computer-use capabilities on Agents’ Last Exam, a benchmark of professional tasks that includes turning architectural drawings into a 3D model and reviewing an animated film shot by shot to create a time-coded log fo",
@@ -1540,6 +1832,16 @@
       "category": "Curation",
       "date": "2026-10-26T00:00:00.000Z",
       "hot": true
+    },
+    {
+      "id": "https://claude.com/resources/articles/expanding-claude-for-nonprofits?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Anthropic Launches Claude for Nonprofits Plugin with Fundraising & Operations Tools",
+      "summary": "Expanding Claude for NonprofitsOur new Claude for Nonprofits plugin brings new skills to every verified nonprofit organization, taking on the operational work that stretches small teams across fundraising, marketing, and hiring. CategoryAnnouncementsDateOctober 26, 2026Reading time7 minShareCopy linkToday, we're releasing the Claude for Nonprofits plugin, a set of skills and connectors built with ~30 nonprofits. It helps teams set up Claude responsibly with their organization's context and policies, supports fundraising from research through reporting, and takes on the operational work that stretches small teams. We're also planning to extend Claude Corps (opens in new tab), our program for placing early-career fellows in U.S. nonprofits, through a partnership with Taproot (opens in new tab). As a public benefit corporation, Anthropic has a responsibility to make sure our products are accessible and useful to organizations working on the world’s hardest problems.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://claude.com/resources/articles/expanding-claude-for-nonprofits?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-10-26T00:00:00.000Z",
+      "hot": false
     },
     {
       "id": "https://openai.com/index/chatgpt-expanding-world-of-work/?utm_source=futuretools.io&utm_medium=newspage",
@@ -1580,17 +1882,6 @@
       "category": "Curation",
       "date": "2026-10-26T00:00:00.000Z",
       "hot": false
-    },
-    {
-      "id": "http://feeds.fabbaloo.com/~/971958239/_/fabbaloo/default~Whos-The-Biggest-In-D-Printing-October",
-      "title": "Who’s The Biggest In 3D Printing, October 25, 2026",
-      "summary": "Once again we take a look at the valuations of the major 3D printing companies over the past week. The post Who’s The Biggest In 3D Printing, October 25, 2026 appeared on Fabbaloo.",
-      "source": "Fabbaloo",
-      "sourceUrl": "http://feeds.fabbaloo.com/~/971958239/_/fabbaloo/default~Whos-The-Biggest-In-D-Printing-October",
-      "category": "Tech",
-      "date": "2026-10-25T12:28:00.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.feedburner.com"
     },
     {
       "id": "000001a1-659f-d632-a1af-ffbf586a0000",
@@ -1645,28 +1936,6 @@
       "date": "2026-10-23T20:19:55.000Z",
       "hot": false,
       "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
-      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
-      "summary": "US chip champion Intel was so confused by the US government ban on foreign-made robots that it requested and received a waiver “out of an abundance of caution.” The tech company wanted to make sure that it could continue using certain robotic vehicles in its US chip fabs. The uncertainty surrounding the Federal Communications Commission ban on certain foreign-made robots was revealed in the agency’s decision to grant Intel’s waiver request. On October 22, the FCC published its order allowing Intel to continue using the foreign-made robots in US semiconductor manufacturing facilities for a period of one year. The robots in question are automated guided vehicles operating on “tracks or predefined paths” while often requiring operator oversight, according to Intel’s website. They help to move materials and items around within warehouses and factory floors.Read full article Comments",
-      "source": "Ars Technica AI",
-      "sourceUrl": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
-      "category": "Industry",
-      "date": "2026-10-23T17:18:31.000Z",
-      "hot": false,
-      "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "summary": "How OpenAI optimized Azure Cosmos DB in OpenAI's application storage platform, Habitat, to manage unprecedented growth. By Jon Lee, Hrachya Hakobyan, and Chaomin Yu, Members of Technical Staff ShareMaking multi-tenancy reliable at scaleMaking multi-tenancy reliable at scaleA simplified primer on Azure Cosmos DB containersPhase the author: Relying on Azure Cosmos DB primitivesLogical partition key limitsNoisy neighborsWeak partitionsPhase II: Trying workload isolation and single-tenancyLack of stable aggregate growthCapacity planningPhase III: Using multi-tenancy by default, with data movement capabilityHot key throttlingQuality of Service (QoS)Serverless modeBetter reliability as co-managed servicesImproving performance at a global scaleStore data near users when capacity allowsBroadly replicate only the smallest and most latency-sensitive datasetsRely on integrated caching for everything elseReduce proxy overhead with RustScaling Change Data CaptureLooking aheadMaking multi-tenancy reliable at scaleA simplified primer on Azure Cosmos DB containersPhase the author: Relying on Azure Cosmos DB primitivesLogical partition key limitsNoisy neighborsWeak partitionsPhase II: Trying workload isolation and single-tenancyLack of stable aggregate growthCapacity planningPhase III: Using multi-tenancy by default, with data movement capabilityHot key throttlingQuality of Service (QoS)Serverless modeBetter reliability as co-managed servicesImproving performance at a global scaleStore dat...",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "category": "Models",
-      "date": "2026-10-23T17:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com"
     }
   ]
 }
