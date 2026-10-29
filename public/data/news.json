@@ -1,26 +1,345 @@
 {
-  "lastUpdated": "2026-10-29T17:30:05.105Z",
+  "lastUpdated": "2026-10-29T21:57:11.547Z",
   "news": [
+    {
+      "id": "108477479",
+      "title": "Intel stock plunges 16% as chipmaker blames PC slowdown for weak guidance",
+      "summary": "Intel has been a Wall Street darling this year due to its emergence as a player in AI, but the company is being weighed down by a struggling PC market.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
+      "category": "Business",
+      "date": "2026-10-29T21:55:44.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.engadget.com/2301786/vrchat-says-its-not-adding-ai-labels-despite-user-survey-showing-people-want-that/",
+      "title": "VRChat says it's not adding AI labels despite user survey showing people want that",
+      "summary": "Trying to make everyone happy could make no one happy. VRChat Add Engadget on Google: Preferred Source Google Discover VRChat has published a support post explaining the results from a survey of users regarding artificial intelligence on the platform. Despite 95 percent of its respondents stating that they want some form of label to designate AI usage, the company said that at this time, it will not be implementing any tags in that vein. VRChat is an app for creating and sharing virtual worlds for hosting social interactions. The post says that VRChat will continue weighing the addition of a label for \"Human-authored\" content as well as a \"Tools used\" field, but it has not adopted a definitive stance yet. Similarly, it will not add a tag for labeling AI-generated content or for filtering it out of search results.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2301786/vrchat-says-its-not-adding-ai-labels-despite-user-survey-showing-people-want-that/",
+      "category": "Tools",
+      "date": "2026-10-29T21:48:05.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/coinbase-snaps-losing-streak-with-thirdquarter-profit-on-crypto-trading-rebound-4985073",
+      "title": "Coinbase returns to profit as crypto investment gains cushion trading weakness",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/coinbase-snaps-losing-streak-with-thirdquarter-profit-on-crypto-trading-rebound-4985073",
+      "category": "Business",
+      "date": "2026-10-29T21:36:38.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=382191",
+      "title": "Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion",
+      "summary": "An on-chain tally puts the suspected Binance drain at $5.57 billion across three blockchains, as Tether and Circle froze $1.8 billion.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto",
+      "category": "Tech",
+      "date": "2026-10-29T21:36:24.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "108481172",
+      "title": "Amazon AWS posts 39% revenue growth as cloud rivals also accelerate",
+      "summary": "Amazon's cloud signed deals with Meta and OpenAI during the quarter, helping revenue to exceed consensus.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/10/29/aws-q3-earnings-report-2026.html",
+      "category": "Business",
+      "date": "2026-10-29T21:17:29.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/10/29/apple-executive-on-ipad-mini-lacking-120hz/",
+      "title": "Apple Executive Comments on New iPad Mini Lacking 120Hz Display",
+      "summary": "While the new iPad mini has an OLED display, the device does not support ProMotion, meaning the display's refresh rate is limited to 60Hz instead of 120Hz. ProMotion support would have allowed for the iPad mini's refresh rate to automatically adjust from 10Hz to 120Hz depending on the content being displayed, but evidently Apple has kept the feature exclusive to the iPad Pro among iPad models for now. In an interview with YouTuber and podcaster Christopher Lawley, Apple's vice president of hardware design David Pakula commented on the new iPad mini lacking 120Hz support, noting that its OLED display still has significantly faster pixel response times compared to the previous model with an LCD, resulting in reduced motion blur. \"Display experience is about more than just a single spec,\" said Pakula. \"One of the things that's really cool about OLED is it actually has this really fast pixel response time. So it's like more than an order of magnitude faster than the pixel response time for an LCD display.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/10/29/apple-executive-on-ipad-mini-lacking-120hz/",
+      "category": "Tech",
+      "date": "2026-10-29T21:14:19.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
     {
       "id": "https://cohere.com/blog/financial-research-assistant-cohere-aws",
       "title": "Financial research assistant cohere aws",
-      "summary": "As a financial analyst much of the day comes down to finding one number in a filing that runs to hundreds of pages, and then proving where it came from. Neither is as easy as it sounds. The number is rarely in the body text. It usually lives in a table, a footnote, or a chart, and it can show up in different places under different names.In this post, Cohere show how to build a research assistant for financial filings with Cohere models on Amazon SageMaker AI - Embed for search, Rerank for ordering the results, and Parse for turning hard pages into clean text. Anthropic Claude on Amazon Bedrock will be used to write the answers, with a citation for every claim.Cohere will start with what makes this work difficult followed by an overview of the solution, and then spend most of the post on the design decisions behind it and when you would decide differently. At the end, Cohere show how to deploy the solution in your own AWS account and try it yourself.",
+      "summary": "As a financial analyst much of the day comes down to finding one number in a filing that runs to hundreds of pages, and then proving where it came from. Neither is as easy as it sounds. The number is rarely in the body text. It usually lives in a table, a footnote, or a chart, and it can show up in different places under different names.In this post, Cohere show how to build a research assistant for financial filings with Cohere models on Amazon SageMaker AI — Embed for search, Rerank for ordering the results, and Parse for turning hard pages into clean text. Anthropic Claude on Amazon Bedrock will be used to write the answers, with a citation for every claim.Cohere will start with what makes this work difficult followed by an overview of the solution, and then spend most of the post on the design decisions behind it and when you would decide differently. At the end, Cohere show how to deploy the solution in your own AWS account and try it yourself.",
       "source": "Cohere Blog",
       "sourceUrl": "https://cohere.com/blog/financial-research-assistant-cohere-aws",
       "category": "Models",
-      "date": "2026-10-29T17:30:05.090Z",
+      "date": "2026-10-29T21:02:00.000Z",
       "hot": true
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/crocs-shares-surge-on-raised-forecast-as-heydude-turnaround-gains-traction-4984820",
-      "title": "Crocs shares surge on raised forecast as HEYDUDE turnaround gains traction",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/crocs-shares-surge-on-raised-forecast-as-heydude-turnaround-gains-traction-4984820",
-      "category": "Business",
-      "date": "2026-10-29T17:24:19.000Z",
+      "id": "https://www.macrumors.com/2026/10/29/apple-avoids-pinched-finges-for-ipad-mini-korea/",
+      "title": "Apple Avoids Showing Pinched Fingers on iPad Mini Page in South Korea",
+      "summary": "And most other countries, Apple's website shows the new iPad mini being held by pinched fingers, but this is not the case in South Korea. The new iPad mini shown with pinched fingers on Apple's website in the U.S. On its South Korean website, Apple simply shows an image of the iPad mini on its own. The new iPad mini shown without pinched fingers on Apple's website in South Korea Apple also omitted the pinched fingers from its South Korean website for the iPhone Air in 2025, but they remain visible on its U.S. In South Korea, a pinched-fingers gesture or emoji has reportedly been interpreted by some as a symbol used to mock the size of men's genitals. Apple has not commented on this matter.Related Roundup: iPad miniBuyer's Guide: iPad Mini (Buy Now)Related Forum: iPadThis article, \"Apple Avoids Showing Pinched Fingers on iPad Mini Page in South Korea\" first appeared on MacRumors.comDiscuss this article in our forums",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/10/29/apple-avoids-pinched-finges-for-ipad-mini-korea/",
+      "category": "Tech",
+      "date": "2026-10-29T20:53:59.000Z",
       "hot": false,
-      "officialUrl": "https://www.investing.com"
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=382188",
+      "title": "Coinbase Swings to $719 Million Q3 Profit on Crypto Gains",
+      "summary": "Coinbase reported third-quarter net income of $719 million, driven largely by gains on its crypto holdings.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/382188/coinbase-beats-719-million-q3-profit-crypto-gains",
+      "category": "Tech",
+      "date": "2026-10-29T20:46:43.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://www.engadget.com/2301687/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic/",
+      "title": "Reddit will force users to log in as AI is killing search traffic",
+      "summary": "The company is starting with tests outside of the US. Cheng Xin/Getty Images Add Engadget on Google: Preferred Source Google Discover Reddit will no longer allow logged out users or those without an account to view content on its platform, CEO Steve Huffman shared in an update. The change, which the company said will initially be tested in \"select markets\" outside the US, comes as the company says that search traffic has declined significantly. \"A key piece of work to retain new audiences is shifting Reddit to a logged-in-only experience,\" Huffman wrote in a shareholder letter. \"Moving to primarily logged-in will ensure our users have the best Reddit experience possible, and can find the content and communities most relevant to them.\" The change is the most dramatic shift the company has made as it battles AI scraping and changes to internet search.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2301687/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic/",
+      "category": "Tools",
+      "date": "2026-10-29T20:32:49.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://www.engadget.com/2301660/google-brings-ai-mode-advertisements-to-more-countries/",
+      "title": "Google brings AI Mode advertisements to more countries",
+      "summary": "Adding sponsored content in more markets could make the feature profitable. FotoField/Shutterstock Add Engadget on Google: Preferred Source Google Discover Google announced that its AI Mode will start showing advertisements in more markets. This feature of the company's search tool will display ads for users in Australia, Canada, India, Kenya, Malaysia, New Zealand, Nigeria, Pakistan, the Philippines, and Singapore. Later this year, people in Brazil, Mexico, and the United Kingdom will start seeing ads, too. In addition, the US will be getting \"multiturn\" ads, meaning that the sponsored content would also appear in follow-up queries. This development follows a mention in parent company Alphabet's recent earnings call for the third quarter of the year.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2301660/google-brings-ai-mode-advertisements-to-more-countries/",
+      "category": "Tools",
+      "date": "2026-10-29T20:18:24.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "108477335",
+      "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
+      "summary": "Wall Street hammered Alphabet for an earnings miss that included weaker-than-expected revenue out of the company's core business.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
+      "category": "Business",
+      "date": "2026-10-29T20:16:03.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "108479149",
+      "title": "Alphabet tanks nearly 13% for worst day ever, losing $500 billion in value",
+      "summary": "Alphabet reported a larger negative free cash flow than analysts had expected while maintaining its spending gudiance for the year.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
+      "category": "Business",
+      "date": "2026-10-29T20:15:19.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3183224",
+      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+      "category": "Business",
+      "date": "2026-10-29T20:08:31.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3183253",
+      "title": "Rivian expands joint venture with VW to include AI assistant",
+      "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+      "category": "Business",
+      "date": "2026-10-29T20:05:47.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/10/29/homepod-mini-2-two-tone-colors/",
+      "title": "Here's a Hands-On Look at HomePod Mini 2's New Two-Tone Colors",
+      "summary": "The HomePod mini 2 is launching tomorrow (or in a few hours in Australia and New Zealand) and a new hands-on video from Craig's Tech Talk gives a clear look at the two-tone color design Apple added with some of the color options. For the pink, blue, and green HomePod mini models, the two layers of acoustic fabric are different colors. In pink, the outer layer is a light pink and the inner fabric is more of a coral. For the blue &zwnj;HomePod mini 2&zwnj;, the mesh is blue and the fabric underneath is green. The green &zwnj;HomePod mini 2&zwnj; has the green color outside and blue underneath, so it's the opposite of the blue model. You can get a close-up look at the colors at the one-minute mark in the video.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/10/29/homepod-mini-2-two-tone-colors/",
+      "category": "Tech",
+      "date": "2026-10-29T20:04:54.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "108480820",
+      "title": "ServiceNow shares plunge 27% to worst day ever after earnings revive AI disruption fears",
+      "summary": "ServiceNow's stock recorded its worst day ever on underwhelming third-quarter results.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/10/29/servicenow-now-earnings-q3-2026.html",
+      "category": "Business",
+      "date": "2026-10-29T20:02:32.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3183214",
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "category": "Business",
+      "date": "2026-10-29T19:56:19.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=382183",
+      "title": "Chrome Can Now Pull Details From Your Gmail to Fill Out Web Forms",
+      "summary": "Chrome's new autofill uses Google's Gemini AI to search your Gmail for order numbers and other details and fill them into web forms.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/382183/chrome-pull-details-from-your-gmail-web-forms",
+      "category": "Tech",
+      "date": "2026-10-29T19:46:02.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "108481080",
+      "title": "Nvidia responds to report Jensen Huang was target of Chinese asset, says diversion allegations we...",
+      "summary": "Nvidia disputed a New York Times report that U.S. intelligence agencies surveilled a person close to CEO Jensen Huang over concerns she could be a Chinese spy.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/10/29/nvidia-jensen-huang-chinese-intelligence-asset.html",
+      "category": "Business",
+      "date": "2026-10-29T19:16:32.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+      "title": "Trump declares robot imports a national security threat",
+      "summary": "President Donald Trump has declared the imports of foreign-made factory robots to be a national security threat—ordering new US negotiations with trading partners while holding out the possibility of imposing new tariffs on such robot imports in the future. Issued on October 28, Trump’s presidential proclamation represents heightened government scrutiny of foreign-made industrial robots that could complicate the manufacturing operations of major US corporations that rely on such robots. Those companies include Detroit automakers General Motors and Ford, electric vehicle manufacturer Tesla, and aerospace and defense giants like Boeing and Lockheed Martin. Trump’s proclamation describes industrial robots and machinery as being crucial for producing US military weapon systems along with representing a “driving force” behind all critical infrastructure sectors within the US economy. The proclamation cites an investigation under US Secretary of Commerce Howard Lutnick as having found that US imports of such robots “pose[] risks to the United States industrial base and threatens the long-term competitiveness of the United States in a sector that is increasingly vital to national security.”Read full article Comments",
+      "source": "Ars Technica AI",
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+      "category": "Industry",
+      "date": "2026-10-29T19:07:53.000Z",
+      "hot": false,
+      "officialUrl": "https://arstechnica.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/10/29/app-store-fees-taiwan/",
+      "title": "Apple Lowers App Store Fees in Taiwan Starting October 31",
+      "summary": "Apple is lowering the commission that it collects in Taiwan to 26 percent, down from 30 percent. Apple plans to drop the rate for in-app purchase and paid app transactions on the iOS and iPadOS Taiwan storefront starting on October 31. The commission update comes after Apple held discussions with the Taiwan Fair Trade Commission (TFTC). In a statement to MacRumors, Apple said the fee reduction reflects its ongoing commitment to developers. We're making updates to the Taiwan storefront of the App Store following constructive discussions with the Taiwan Fair Trade Commission. These changes reflect our ongoing commitment to providing developers with a thriving marketplace and ensuring the App Store remains the safest, most trusted platform for users.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/10/29/app-store-fees-taiwan/",
+      "category": "Tech",
+      "date": "2026-10-29T19:06:08.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.engadget.com/2301500/hacker-may-have-stolen-millions-in-a-malware-attack-against-online-poker-players/",
+      "title": "Hacker may have stolen millions in a malware attack against online poker players",
+      "summary": "Has the story of a superuser cheating scandal. celenk88/Shutterstock Add Engadget on Google: Preferred Source Google Discover Professional poker is the latest community to reckon with the impact of a high-profile cyberattack. Wired reports that hundreds of online poker players have allegedly been targeted in a malware attack that allowed a cheater to see their screens. Cases where a player manages to cheat by getting unfair access to another person's cards is known as the \"superuser\" strategy, and it has popped up from time to time in the poker scene over the years. This most recent attack appears to have been a long-term campaign that may have seen millions of dollars stolen from across major online poker platforms. The Wired story claims that the hacker exploited third-party tools allowing people to run multiple poker games at once to install a malware program called MeshAgent on specific players' computers.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2301500/hacker-may-have-stolen-millions-in-a-malware-attack-against-online-poker-players/",
+      "category": "Tools",
+      "date": "2026-10-29T19:03:18.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/10/29/homeview-pre-order-289/",
+      "title": "HomeView Pre-Order Returns to $289.99 on Amazon",
+      "summary": "Amazon's $9 pre-order discount on the HomeView has returned for the Space Gray color, allowing you to get the home hub for $289.99, down from $299.00. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Although only a $9 discount, this is still biggest deal we've seen on the HomeView, and as of writing only Amazon is offering any sort of discount on the device. Amazon's delivery estimates have begun stretching into late November, past the HomeView's launch date of November 13. $9 OFFHomeView for $289.99 In terms of pre-order discounts, Amazon also has the new Apple TV 4K for $289.99, down from $299.00, with an estimated delivery date on launch day of November 13.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/10/29/homeview-pre-order-289/",
+      "category": "Tech",
+      "date": "2026-10-29T18:55:04.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=382181",
+      "title": "Hackers Publish Work Details of 41,000 Homeland Security Employees",
+      "summary": "A hacktivist group says it took names, titles, and phone numbers of 41,000-plus DHS staff from a login system.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/382181/hackers-publish-work-details-homeland-security-employees",
+      "category": "Tech",
+      "date": "2026-10-29T18:46:02.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+      "summary": "Editing files you generate with Gemini no longer requires leaving the app. Editing files you generate with Gemini no longer requires leaving the app. Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file formats are only in the web version for now. Google added support for generating and downloading files in Gemini earlier this year, but now you can tweak those files without leaving the Gemini app. Google says you can expand documents to edit them in full-screen mode and highlight text in files to ask Gemini questions or prompt it to make changes to the file, like highlighting a table and asking Gemini to turn it into a graph.",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+      "category": "Industry",
+      "date": "2026-10-29T18:45:31.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "6adf41f52b5fc20f5f0e3547",
+      "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+      "summary": "Earlier this year, sources tell WIRED, a contractor caused a security incident at the Department of Defense by connecting a secure centralized system used by multiple intelligence agencies to their personal account for Claude Code, Anthropic’s AI coding agent. It appears that the agent used by the contractor, who is employed by global consulting firm Accenture, then sent information about the DOD system, including login credentials, to a high-risk third-party website. The centralized system contains controlled unclassified information (CUI), which is considered sensitive and not to be released to the public without review. CUI can include information about critical infrastructure, nuclear submarine propulsion, and vulnerabilities to chemical and biological terrorism. Additionally, security experts say, access to the system could allow for the exploitation of even more sensitive ones. “It puts all the data that’s in there at risk,” says a source aware of the incident, who requested anonymity as they were not authorized to speak to the press.",
+      "source": "Wired AI",
+      "sourceUrl": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+      "category": "Industry",
+      "date": "2026-10-29T18:39:43.000Z",
+      "hot": false,
+      "officialUrl": "https://www.wired.com"
+    },
+    {
+      "id": "https://www.engadget.com/2301447/nvidia-ceo-jensen-huang-may-have-been-the-target-of-a-chinese-government-spy/",
+      "title": "NVIDIA CEO Jensen Huang may have been the target of a Chinese government spy",
+      "summary": "President Trump reportedly chose to do nothing in response. Kevin Dietsch/Getty Images Add Engadget on Google: Preferred Source Google Discover As if Big Tech in 2026 wasn't already crazy enough, we can now add \"Jensen Huang espionage scandal\" to the list. The New York Times reports that US officials see the NVIDIA CEO as the target of a Chinese government spy. Wilder still, the report says that President Trump was briefed on the matter a year ago and decided to just.. US intelligence agencies reportedly surveilled Alice Huang (no relation to Jensen Huang), a Chinese citizen and executive at Singapore data center firm Megaspeed. That surveillance turned up contact with an American citizen, later identified as Jensen Huang.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2301447/nvidia-ceo-jensen-huang-may-have-been-the-target-of-a-chinese-government-spy/",
+      "category": "Tools",
+      "date": "2026-10-29T18:34:43.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/",
+      "title": "Meta will now alert parents if teens 'repeatedly' search for self-harm content on Facebook",
+      "summary": "The company will also notify parents about conversations with Meta AI. Meta Add Engadget on Google: Preferred Source Google Discover Meta is now expanding its parental notifications that appear when teens search for content related to suicide and self-harm. After adding the alerts to Instagram earlier this year, the company is now rolling out similar capabilities to parents who supervise teens with Facebook accounts, as well as chats with its AI assistant. With the update, Meta will notify parents if their teen \"repeatedly\" searches for self-harm content \"within a short period of time.\" Likewise, if a teen chats with Meta AI in a way that \"suggests they may be at risk of suicide or self-harm,\" parents will also be notified. The company is intentionally vague about what the exact criteria are for triggering these notifications. It previously said it \"chose a threshold that requires a few searches within a short period of time, while still erring on the side of caution\" and that it hoped to \"avoid sending these notifications unnecessarily.\" Should a teen meet that threshold, parents receive an alert via text, email or WhatsApp, and a push notification in their own app.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/",
+      "category": "Tools",
+      "date": "2026-10-29T18:20:21.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3183181",
+      "title": "Granola crunches up a dictation feature to compete with Wispr",
+      "summary": "After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+      "category": "Business",
+      "date": "2026-10-29T17:54:38.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/10/29/macbook-pro-touch-input-can-be-turned-off/",
+      "title": "You Can Turn Off the New MacBook Pro's Touchscreen Functionality",
+      "summary": "The new MacBook Pro models with OLED displays have an accessibility setting that allows you to turn off touch input entirely, according to MacStories editor-in-chief Federico Viticci. He also said there is an option to turn on pinch-to-zoom functionality across the macOS Golden Gate interface.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/10/29/macbook-pro-touch-input-can-be-turned-off/",
+      "category": "Tech",
+      "date": "2026-10-29T17:47:11.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "https://www.macrumors.com/2026/10/29/old-popcorn-time-app-macs-at-risk/",
@@ -34,37 +353,26 @@
       "officialUrl": "https://feeds.macrumors.com"
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-026-4984805",
-      "title": "Spain stocks lower at close of trade; IBEX 35 down 0.26%",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-026-4984805",
-      "category": "Business",
-      "date": "2026-10-29T17:08:29.000Z",
+      "id": "https://openai.com/index/updated-model-spec",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "summary": "(opens in a new window)Loading…ShareOrganizing the Spec around core valuesOrganizing the Spec around core valuesNew and retired sectionsWhat comes nextOrganizing the Spec around core valuesNew and retired sectionsWhat comes nextAs OpenAI's models get smarter and take more consequential actions in the world, it becomes increasingly important that they go beyond just interpreting the specific instructions they receive. Models also need to understand human intentions and values, so they can exercise good judgment in situations their instructions don’t explicitly address while remaining faithful to human intent and oversight. Today OpenAI is updating the Model Spec⁠(opens in a new window), OpenAI's public description of how OpenAI want OpenAI's models to behave. The update reorganizes its guidance around five underlying values: faithfulness to human intent, harm minimization, honesty and transparency, human agency, and care. This reflects an aim of OpenAI's work on value alignment: for models to understand and apply human values in unfamiliar situations, while remaining faithful to human intent. Alongside clearer explanations of existing principles, the revision adds guidance on context, oversight, and agency, adjusts some behavioral defaults, and retires much of the detailed style guidance.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/updated-model-spec",
+      "category": "Models",
+      "date": "2026-10-29T17:00:00.000Z",
       "hot": false,
-      "officialUrl": "https://www.investing.com"
+      "officialUrl": "https://openai.com"
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/wall-streets-ai-bet-own-the-infrastructure-collect-the-rent-4984798",
-      "title": "Wall Street’s AI bet: Own the infrastructure, collect the rent",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/wall-streets-ai-bet-own-the-infrastructure-collect-the-rent-4984798",
+      "id": "https://techcrunch.com/?p=3182668",
+      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
       "category": "Business",
-      "date": "2026-10-29T17:06:26.000Z",
+      "date": "2026-10-29T17:00:00.000Z",
       "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/10/29/macbook-pro-touch-input-can-be-turned-off/",
-      "title": "You Can Turn Off the New MacBook Pro's Touchscreen Functionality",
-      "summary": "The new MacBook Pro models with OLED displays have an accessibility setting that allows you to turn off touch input entirely, according to MacStories editor-in-chief Federico Viticci. He also said there is an option to turn on pinch-to-zoom functionality across the macOS Golden Gate interface.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/10/29/macbook-pro-touch-input-can-be-turned-off/",
-      "category": "Tech",
-      "date": "2026-10-29T16:58:53.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
+      "officialUrl": "https://techcrunch.com"
     },
     {
       "id": "https://techcrunch.com/?p=3183099",
@@ -76,17 +384,6 @@
       "date": "2026-10-29T16:42:32.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "108479149",
-      "title": "Alphabet falls 12%, putting it on course for its biggest ever post-earnings drop",
-      "summary": "Alphabet reported a larger negative free cash flow than analysts had expected while maintaining its spending gudiance for the year.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
-      "category": "Business",
-      "date": "2026-10-29T16:35:25.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "https://decrypt.co/?p=382161",
@@ -111,17 +408,6 @@
       "officialUrl": "https://www.techrepublic.com"
     },
     {
-      "id": "108477335",
-      "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
-      "summary": "Wall Street hammered Alphabet for an earnings miss that included weaker-than-expected revenue out of the company's core business.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
-      "category": "Business",
-      "date": "2026-10-29T16:25:40.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
       "id": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
       "title": "Google admits AI search makes less money, but it's fixing that with more ads",
       "summary": "Google parent Alphabet reported its Q3 financial results on Wednesday afternoon, showing a healthy rise in revenue for the months of July to September. But the company's stock price has taken a beating, marking one of the largest post-earnings drops in its history. It comes down to several troubling aspects of the new report, including an admission by the company that AI search isn't earning as much as organic search, and despite that, Google expects to spend even more on AI next year. The company took in almost $128 billion in Q3 2026, earning more than $26 billion in net income. These may sound like good numbers, but financial markets are not impressed. While revenue is up 25 percent versus last year, net income is almost $9 billion lower.",
@@ -131,17 +417,6 @@
       "date": "2026-10-29T16:24:55.000Z",
       "hot": false,
       "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "108481080",
-      "title": "Nvidia responds to report Jensen Huang was target of Chinese asset, says diversion allegations we...",
-      "summary": "Nvidia disputed a New York Times report that U.S. intelligence agencies surveilled a person close to CEO Jensen Huang over concerns she could be a Chinese spy.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/10/29/nvidia-jensen-huang-chinese-intelligence-asset.html",
-      "category": "Business",
-      "date": "2026-10-29T16:22:19.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "https://techcrunch.com/?p=3183106",
@@ -166,6 +441,17 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
+      "id": "http://feeds.fabbaloo.com/~/972095462/_/fabbaloo/default~SKYLABD-Explains-How-To-Choose-A-Complete-D-Scanning-Setup",
+      "title": "SKYLAB3D Explains How To Choose A Complete 3D Scanning Setup",
+      "summary": "Doing the 3D scanning is never the whole job. The post SKYLAB3D Explains How To Choose A Complete 3D Scanning Setup appeared on Fabbaloo.",
+      "source": "Fabbaloo",
+      "sourceUrl": "http://feeds.fabbaloo.com/~/972095462/_/fabbaloo/default~SKYLABD-Explains-How-To-Choose-A-Complete-D-Scanning-Setup",
+      "category": "Tech",
+      "date": "2026-10-29T16:19:00.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.feedburner.com"
+    },
+    {
       "id": "https://blogs.nvidia.com/?p=98677",
       "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
       "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through natural-language instructions, review results and guide changes. Omniverse libraries provide GPU-accelerated physics, rendering and sensor simulation capabilities. Explore the projects below to see frontier AI models such as GPT-6 Astra at work, and check back for new examples from NVIDIA teams and developers across the ecosystem. Create an Editable Building Model From Site Scans https://blogs.nvidia.com/wp-content/uploads/2026/10/relay-video-v14-1080p.mp4 Planning warehouse automation requires a model of the building itself, but shelving and machinery can obscure its structure in site scans.",
@@ -175,17 +461,6 @@
       "date": "2026-10-29T16:00:35.000Z",
       "hot": false,
       "officialUrl": "https://blogs.nvidia.com"
-    },
-    {
-      "id": "108475144",
-      "title": "Amazon to report Q3 earnings after the bell with AI spend under scrutiny",
-      "summary": "Amazon Web Services sales are projected to grow 38%, marking a fifth consecutive quarter of revenue expansion.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
-      "category": "Business",
-      "date": "2026-10-29T16:00:01.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
@@ -210,17 +485,6 @@
       "officialUrl": "https://feeds.macrumors.com"
     },
     {
-      "id": "108480820",
-      "title": "ServiceNow shares plunge 25% after earnings revive AI disruption fears",
-      "summary": "ServiceNow's stock headed its worst day ever on underwhelming third-quarter results.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/10/29/servicenow-now-earnings-q3-2026.html",
-      "category": "Business",
-      "date": "2026-10-29T15:54:12.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
       "id": "https://www.techrepublic.com/article/news-proton-ai-skills-employee-reinterviews/",
       "title": "Proton to Re-Interview Employees on AI Skills as Jobs Hang in Balance",
       "summary": "Proton plans to reassess employees' AI skills in interviews that could affect their jobs, raising questions about AI adoption and workforce evaluations.",
@@ -232,15 +496,15 @@
       "officialUrl": "https://www.techrepublic.com"
     },
     {
-      "id": "https://www.digitaltrends.com/?p=6019792",
-      "title": "Amazon’s Alexa can now manage shopping lists, subscriptions, and check refund status just by asking",
-      "summary": "The Holiday season is upon us, and Amazon is making its AI shopping assistant a lot more useful ahead of major shopping events like Black Friday. The company has announced over 100 new Alexa for Shopping capabilities, letting customers manage subscriptions, create gift lists, change delivery instructions, and ask billing questions simply by asking. The new features are already available to Amazon customers in the US. Alexa for Shopping could already help you find products, compare prices, and track discounts. Now, Amazon is making it useful for some of the less exciting parts of online shopping, which I think is where an AI assistant could come in handy. You can tell Alexa to update your delivery instructions, check your gift card balance, find out where a refund is, or get help with an unfamiliar charge.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/computing/amazon-alexa-for-shopping-100-new-features/",
+      "id": "http://feeds.fabbaloo.com/~/972093392/_/fabbaloo/default~Anycubic-Uses-Thingiverse-To-Fill-Makeronline%e2%80%99s-Model-Gap",
+      "title": "Anycubic Uses Thingiverse To Fill Makeronline’s Model Gap",
+      "summary": "Anycubic has made a very quite but potentially important ecosystem move. The post Anycubic Uses Thingiverse To Fill Makeronline’s Model Gap appeared on Fabbaloo.",
+      "source": "Fabbaloo",
+      "sourceUrl": "http://feeds.fabbaloo.com/~/972093392/_/fabbaloo/default~Anycubic-Uses-Thingiverse-To-Fill-Makeronline%e2%80%99s-Model-Gap",
       "category": "Tech",
-      "date": "2026-10-29T15:17:07.000Z",
+      "date": "2026-10-29T15:15:00.000Z",
       "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
+      "officialUrl": "https://feeds.feedburner.com"
     },
     {
       "id": "6adf749c866c48a82946e7f2",
@@ -341,17 +605,6 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
-      "id": "https://techcrunch.com/?p=3182668",
-      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-      "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-      "category": "Business",
-      "date": "2026-10-29T14:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
       "id": "6ae2117191edfe18440518da",
       "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
       "summary": "A few weeks ago, French company Mistral released an early version of its new artificial intelligence model, nicknamed Le Chonk. At the time, the company said it was the most advanced open-weight offering outside of China. After further refinement, Mistral now says Le Chonk is the “world’s best” open-weight model for automated coding and cybersecurity. The advances, Mistral says, were made possible by feeding the model increasingly difficult cybersecurity and coding problems, which allowed the trillion-parameter Le Chonk to match or surpass models from leading Chinese labs like DeepSeek and Z.ai. “It’s a pivotal moment in the global AI leadership race,” Pierre Stock, VP of science at Mistral, told reporters during a press briefing. “It offers frontier capabilities for enterprises and governments to defend against an increasing threat level in cyber.”",
@@ -418,28 +671,6 @@
       "officialUrl": "https://mashable.com"
     },
     {
-      "id": "https://www.digitaltrends.com/?p=6019798",
-      "title": "Claude helped bring a PS2 emulator to the browser, and it can run GTA San Andreas",
-      "summary": "Two friends have used Claude to help bring the open-source PS2 emulator PCSX2 to a browser. Their project, TabStationToo, has been tested with games including GTA San Andreas and Final Fantasy XII. The developers say Claude did most of the programming while they directed the work and tested the results. It's still experimental, but games run locally without installing a desktop emulator. We've seen Claude help build smaller projects, including a Mac app that tracks posture through AirPods. Adapting a PS2 emulator brings a different set of technical challenges.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/gaming/claude-ps2-emulator-browser-tabstationtoo/",
-      "category": "Tech",
-      "date": "2026-10-29T13:24:43.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=6019779",
-      "title": "Doordash is acquiring Instacart. For you, that means one less subscription, eventually.",
-      "summary": "DoorDash has announced that it is acquiring grocery giant Instacart at an equity valuation of $17 billion, in a cash-and-stock deal. Subject to regulatory and shareholder approvals, the deal is expected to close by the end of 2027 or in the first half of 2028. DoorDash claims that, thanks to the deal, customers will have the flexibility to buy daily essentials from more stores, which also increases their chances of getting bargain deals and faster deliveries. \"The combined company will offer grocers and retailers of every size DoorDash's delivery network and Instacart's grocery and fulfillment technology, in both apps and on stores' own websites, along with the advertising and AI tools each company has built,\" the company said in a press statement. For an average customer, there are a couple of tangible benefits emerging from this multi-billion dollar deal. Today we're announcing @DoorDash's intent to acquire @Instacart.Both DoorDash and Instacart share a mission to help local businesses succeed.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/computing/doordash-is-acquiring-instacart-for-you-that-means-one-less-subscription-eventually/",
-      "category": "Tech",
-      "date": "2026-10-29T13:01:55.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
       "id": "https://decrypt.co/?p=381850",
       "title": "Polygon Extends Its Stablecoin Payments Infrastructure to Solana",
       "summary": "Polygon Labs announced today it has expanded its Open Money Stack—a bundle of stablecoin payments tools—to Solana.",
@@ -473,28 +704,6 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "https://www.digitaltrends.com/?p=6017403",
-      "title": "What Mattress Firmness Is Right for Back Pain?",
-      "summary": "This post is brought to you in paid partnership with Sleep Number. Waking up with a stiff back is a miserable way to start the day. The usual advice is to buy the firmest mattress you can find. It sounds reasonable, but your spine, shoulders, and hips don't work that way. The needs differ for each person, but there are a few ways you can get that healthy sleep with the right mattress. Quick answer: A medium-firm mattress is a sensible starting point for many people dealing with nonspecific lower back pain.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/home/what-mattress-firmness-is-right-for-back-pain/",
-      "category": "Tech",
-      "date": "2026-10-29T13:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=6019766",
-      "title": "Phantom Blade Zero joins GeForce NOW, and your old PC can join the party",
-      "summary": "Phantom Blade Zero is finally here, bringing its slick martial arts combat and striking kungfupunk world to PC. If you're worried that your PC can't run it, Nvidia has a cloud solution. The game is joining GeForce NOW at launch, allowing players to experience S-GAME's ambitious action RPG without investing in expensive new hardware. The announcement is part of Nvidia's latest GFN Thursday update, which brings nine games to its cloud gaming service this week, alongside modding support for two popular RPGs and new subscription options for players in India. With Phantom Blade Zero arriving on GeForce NOW, players can stream the game directly to supported laptops, desktops, smartphones, and other compatible devices. There's no need to download the game locally.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/gaming/phantom-blade-zero-joins-geforce-now-and-your-old-pc-can-join-the-party/",
-      "category": "Tech",
-      "date": "2026-10-29T13:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
       "id": "https://decrypt.co/?p=382138",
       "title": "Justin Sun's HTX Agrees to Leave UK in Settlement With Financial Watchdog",
       "summary": "The FCA says the Justin Sun-linked exchange will no longer target UK consumers, ending its first case against a crypto firm over marketing.",
@@ -506,28 +715,6 @@
       "officialUrl": "https://decrypt.co"
     },
     {
-      "id": "https://www.digitaltrends.com/?p=6019744",
-      "title": "Samsung’s new clip-on earbuds are coming to the US, and they’re not cheap",
-      "summary": "Earlier this month, Samsung unveiled its first clip-on earbuds called the Galaxy Buds On. Initially, it announced pricing and availability details only for Korea, but now the brand has revealed them for the US market as well. As per Samsung, the Galaxy Buds On will cost $229 and will be available to buy in early November. Only one color option, Black, will be available initially. That is quite a steep price, considering the flagship Galaxy Buds 4 Pro go for $250. The Buds On also has no active noise cancellation, weaker bass response, and lower dust and water resistance.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/home-theater/samsungs-new-clip-on-earbuds-are-coming-to-the-us-and-theyre-not-cheap/",
-      "category": "Tech",
-      "date": "2026-10-29T12:54:18.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=6019780",
-      "title": "AI has come for the psychics’ jobs and they are not happy about it",
-      "summary": "AI psychic readings are available around the clock, and human practitioners are having to explain why customers should still pay to speak with them. The Guardian found psychics responding with AI-free promises and arguments that chatbots lack the human connection central to their work. Psychic and coach Lauryn Kellett was addressing that competition in April 2025. She urged spiritual business owners to emphasize qualities she believes AI can't replicate, including intuition and personal connection. Psychic Vision makes its position clear across its website and app listing. It rejects AI-generated readings and promises customers a live person.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/computing/ai-psychics-readings-human-pushback/",
-      "category": "Tech",
-      "date": "2026-10-29T12:42:39.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
       "id": "https://www.macrumors.com/2026/10/29/macos-adapts-controls-touch-macbook-pro/",
       "title": "How macOS Adapts Its Controls for Touch on the New MacBook Pro",
       "summary": "Apple announced a new MacBook Pro with PROLED XDR Display on Wednesday. It's Apple's first Mac with a screen that supports touch, and demonstrations Apple gave to the media show how macOS reshapes its controls for finger input. Menu bar items expand under a fingertip, window controls get bigger, and the Dynamic Island pulls down into a floating widget, amongst other changes. Back in 2016, then-senior VP of marketing Phil Schiller (now Apple Fellow) argued that putting touch on a Mac display would mean \"totally redesigning the menu bar for fingers\" – something he said would clash with pointer devices. Apple's modern solution, however, is more subtle. The menu bar looks the same, but when you move a finger over a menu item, it expands to let you make a selection with more precision.",
@@ -537,17 +724,6 @@
       "date": "2026-10-29T12:33:47.000Z",
       "hot": false,
       "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=6019762",
-      "title": "China’s latest tiny EV costs just $6,735 and somehow squeezes in five doors",
-      "summary": "FAW's five-door Bestune Pony has launched in China from 44,900 yuan, roughly $6,735. The tiny EV packs four seats into a cheerful little box just 3.35 meters long. It looks like something you'd buy in a gift shop, but the layout makes room for everyday chores. There are four passenger doors and a rear hatch, so getting into the back doesn't require folding a front seat out of the way. The new Pony is 350mm longer than the original three-door model. Much of that stretch goes between the wheels to improve rear legroom, while boot space grows from 81 to 265 liters.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/cars/bestune-pony-five-door-tiny-ev-china-price/",
-      "category": "Tech",
-      "date": "2026-10-29T12:05:51.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
     },
     {
       "id": "https://mistral.ai/news/mistral-large-4-oss/",
@@ -571,17 +747,6 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
-      "id": "https://www.digitaltrends.com/?p=6019742",
-      "title": "Google Chrome can now find what you need in Gmail before you even ask",
-      "summary": "Google Chrome's autofill has always been pretty handy for filling in addresses, passwords, and payment information. Now, the feature could be getting ever better thanks to better integration with Gmail. The company will soon allow the browser to dig through your Gmail inbox and pull out information you would otherwise spend several minutes hunting for. According to Google's official announcement, Chrome's enhanced autofill can now use Gemini with Personal Intelligence to retrieve order numbers, package tracking details, and flight booking information directly from Gmail. When you're filling out an online form, Chrome can recognize what information is needed and offer relevant details from your emails. These appear under a \"Suggested by Gemini\" option, allowing you to insert the information without opening Gmail.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/computing/google-chrome-can-now-find-what-you-need-in-gmail-before-you-even-ask/",
-      "category": "Tech",
-      "date": "2026-10-29T11:36:08.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
       "id": "http://feeds.fabbaloo.com/~/972084623/_/fabbaloo/default~From-D-Printer-Fans-to-HVAC-Innovation-Madison-Air-Makes-a-US-Billion-Move",
       "title": "From 3D Printer Fans to HVAC Innovation: Madison Air Makes a US$5.4 Billion Move",
       "summary": "Goulding and Preeti Sulibhavi look at the surprising 3D printing connections behind Madison Air’s acquisition of German fan giant ebm-papst. The post From 3D Printer Fans to HVAC Innovation: Madison Air Makes a US$5.4 Billion Move appeared on Fabbaloo.",
@@ -602,17 +767,6 @@
       "date": "2026-10-29T11:16:52.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=6019748",
-      "title": "The new MacBook Pro has a stabilized camera and it’s a practical perk hiding in plain sight",
-      "summary": "The new MacBook Pro has a camera upgrade worth a closer look amid the touchscreen and OLED excitement. Apple says its advanced video stabilization keeps the camera feed steady when you touch the display, so tapping through a document during a call shouldn't send a tremor through everyone else's screen. A touchscreen invites people to prod the lid while its camera is pointed at their face. Accounting for what the person watching sees is a sensible detail to build around that change. The 12MP camera includes Center Stage, which keeps you framed as you move around or someone else joins you in front of the laptop. Desk View lets you show your workspace during a call.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/computing/macbook-pro-camera-stabilization-touchscreen-hinge/",
-      "category": "Tech",
-      "date": "2026-10-29T11:12:26.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
     },
     {
       "id": "https://decrypt.co/?p=382124",
@@ -692,17 +846,6 @@
       "officialUrl": "https://www.wired.com"
     },
     {
-      "id": "https://www.engadget.com/2300677/google-gemini-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity/",
-      "title": "Google's Gemini 4 Carbon promises 'significant leap' in AI coding and cybersecurity",
-      "summary": "The company's new frontier model tops Claude Opus 5.5 in several key benchmarks. Google Add Engadget on Google: Preferred Source Google Discover OpenAI and Anthropic's frontier models have been trading blows of late, with each claiming bragging rights in different categories. Now, Google has barged in with its latest Gemini 4 Carbon model, boasting of top benchmark scores in key areas like cybersecurity and coding. \"Building on Gemini 4 Argon, which was launched two weeks ago, Carbon illustrates the pace at which we're pushing the frontier forward,\" the company wrote in a blog post. The company's benchmarks show Gemini 4 Carbon hitting the highest AA Index v5.0 score (a general AI benchmark) at 59, just ahead of Claude Opus 5.5 and GPT-6 Astra. Google also claims a near sweep across categories including agentic coding, computer use, knowledge work, science and math, and others.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2300677/google-gemini-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity/",
-      "category": "Tools",
-      "date": "2026-10-29T09:41:58.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
       "id": "010q4mKgm5BHx8ou3NQ4PdJ",
       "title": "Best audio players for kids: Screen-free entertainment for the whole family",
       "summary": "No shade to those who prefer this kind of personal tech for their kids, as there are benefits: computer literacy, skill-building for math and reading, plus some well-deserved peace for the parents. We have three kids: the oldest is 6, the middle one is 3, and the youngest is about to turn 1. Early in our parenting journey, my husband and I decided to delay these handheld devices for as long as we possibly could. Part of the decision came from reading about the long-term effects of tablet use, but a more immediate reason was the way our kids absolutely melt down once it's time to turn off the TV. If they can't handle saying bye to Bluey, then an overstimulating tablet would be a living hell. So what is the alternative?",
@@ -747,37 +890,15 @@
       "officialUrl": "https://www.techrepublic.com"
     },
     {
-      "id": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
-      "title": "Hackers leaked details of more than 41,000 Homeland Security personnel",
-      "summary": "They include email addresses and phone numbers of ICE agents and border police. Casimiro PT/Shutterstock Add Engadget on Google: Preferred Source Google Discover A hacktivist group stole records for more than 41,000 Homeland Security personnel and got help to release it on the web, according to Wired, the Washington Post and NPR. The leaked records contain email addresses, phone numbers and office addresses of the personnel, but they also include sensitive information about the agency's undercover and surveillance programs. Of the records that were leaked, 21,000 identify people working with the US Customs and Border Protection, while 10,000 records belong to Immigration and Customs Enforcement (ICE) personnel. A third of those records is related to the Homeland Security Investigations unit, the criminal investigative arm of ICE. Overall, the leaks expose the details of a seventh of Homeland Security's workforce.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
-      "category": "Tools",
-      "date": "2026-10-29T08:33:46.000Z",
+      "id": "https://openai.com/index/ropes-gray-ai-diligence",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "summary": "Law firm Ropes & Gray is developing a transactional diligence AI tool in partnership with OpenAI. ShareBuilding a first pass for commercial contract diligenceBuilding a first pass for commercial contract diligenceApplying AI to complex transactionsResults at a glanceLeadership lessonsWhat’s nextBuilding a first pass for commercial contract diligenceApplying AI to complex transactionsResults at a glanceLeadership lessonsWhat’s nextIn transactional diligence, lawyers need to work through large volumes of documents under tight deadlines. Ropes & Gray was an early adopter of AI in the legal industry, and in partnership with OpenAI, they are now developing a proprietary AI tool to provide more expertise to more clients. Before finalizing any acquisition, the buyer must carry out a thorough investigation to validate the seller’s financial and legal claims. That process of transactional diligence uncovers risks and liabilities, requiring data-heavy research that usually involves an entire team of lawyers. From parsing through an enormous number of documents to analyzing patterns, putting together a bid on a short timeline can take days of intensive work.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/ropes-gray-ai-diligence",
+      "category": "Models",
+      "date": "2026-10-29T07:00:00.000Z",
       "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
-      "id": "06poZ7rqt1vP8DAUkHMj7xP",
-      "title": "Claudes new smart reports tell bosses when workers are off-topic",
-      "summary": "Anthropic has announced new Claude reporting tools, allowing employers to see exactly how and why their employees are using the AI tool. Smart reports are available now for users on paid Claude Enterprise plans, and can be enabled in an organisation's settings. SEE ALSO: T-Mobile is still giving away the Apple iPhone 17 for free — how to qualify Announced on Wednesday, Claude's smart reports feature produces graphs showing how a team has been using the AI tool, what they've produced, and how much they've spent on it. Managers simply specify the team, a date range up to the last 28 days, and Claude products they'd like to be included in the report. Credit: Anthropic The products that can be selected are chat, Claude Code, Claude Cowork, or the \"unified chat and Cowork experience.\" (The recently announced Claude Duet AI agent isn't available on Claude Enterprise.) Smart reports will then pull data from the chosen tools and create an overview of what workers have been doing. This involves reading the team's conversation transcripts, grouping them into workstreams and types of output (such as vibe code or technical documents), and determining how much they've been spending.\"If a spend limit is holding someone back, admins with billing permission can raise it from the report,\" wrote Anthropic. On Monday, the company submitted an IPO filing stating that its existing customers had increased their spending by 900 percent since last year — though it still reported $80 billion loss ...",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/claude-smart-reports-anthropic-ai-worker-overview",
-      "category": "Tech",
-      "date": "2026-10-29T03:04:35.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=6019710",
-      "title": "Google’s Gemini can now make complex topics more fun with new interactive learning feature",
-      "summary": "Reading about complicated subjects can get a little dry, especially when diagrams and textbook explanations leave you scratching your head. Google wants to make that experience more fun and engaging with Immersive Explorations, a new Gemini feature that turns complex topics into interactive visual experiences. You can explore everything from ancient trade routes to jet engines, uncovering details layer by layer. Dive into new topics with immersive explorations in Gemini.Whether it's tracing trade routes on the Silk Road, peering inside a jet engine, or studying the physics of lightning, each scene unfolds into interactive layers with guided explanations that let you dig even deeper. Immersive Explorations in Gemini lets you explore a subject through layered visual explanations. Tapping different parts reveals more information, taking you from big-picture concepts to smaller details involving molecules and atoms.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/computing/googles-gemini-can-now-make-complex-topics-more-fun-with-interactive-visual-explorations/",
-      "category": "Tech",
-      "date": "2026-10-29T02:28:07.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
+      "officialUrl": "https://openai.com"
     },
     {
       "id": "https://huggingface.co/blog/announcing-project-protostar",
@@ -833,6 +954,42 @@
       "hot": true
     },
     {
+      "id": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Reddit Shifts to Logged-In Experience as AI Search Kills Open-Web Traffic",
+      "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-10-29T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Meta Launches Style Sketch AI Fashion App with Instagram Closet Integration",
+      "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-10-29T00:00:00.000Z",
+      "hot": false,
+      "relatedCoverage": [
+        {
+          "source": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/"
+        }
+      ]
+    },
+    {
+      "id": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Granola Adds Dictation Feature to Meeting Notetaker App, Rivaling Wispr",
+      "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-10-29T00:00:00.000Z",
+      "hot": false
+    },
+    {
       "id": "https://openai.com/index/updated-model-spec/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "OpenAI Updates Model Spec With 5 Core Values to Guide More Capable AI Systems",
       "summary": "(opens in a new window)Loading…ShareOrganizing the Spec around core valuesOrganizing the Spec around core valuesNew and retired sectionsWhat comes nextOrganizing the Spec around core valuesNew and retired sectionsWhat comes nextAs our models get smarter and take more consequential actions in the world, it becomes increasingly important that they go beyond just interpreting the specific instructions they receive. Models also need to understand human intentions and values, so they can exercise good judgment in situations their instructions don’t explicitly address while remaining faithful to human intent and oversight. Today we’re updating the Model Spec⁠(opens in a new window), our public description of how we want our models to behave. The update reorganizes its guidance around five underlying values: faithfulness to human intent, harm minimization, honesty and transparency, human agency, and care. This reflects an aim of our work on value alignment: for models to understand and apply human values in unfamiliar situations, while remaining faithful to human intent. Alongside clearer explanations of existing principles, the revision adds guidance on context, oversight, and agency, adjusts some behavioral defaults, and retires much of the detailed style guidance.",
@@ -848,6 +1005,16 @@
       "summary": "We’re introducing new ways to create and refine documents, PDFs, presentations, spreadsheets, code, and more in the Gemini app. You can now generate, preview, and edit files right within your chat — expand to full screen to type edits directly, highlight text to ask questions, or have Gemini refine your files. PDF preview and editing is supported on both the web and mobile, while all other formats (Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code) are supported on the web only. As shown in the video below, you can now ask Gemini to create a PDF study guide from your uploaded handwritten lecture notes and then you can easily manually edit, highlight specific sections to have Gemini make edits to text or visuals, and even ask further questions. These capabilities are now available to all users in all languages where Gemini app is available.",
       "source": "FutureTools News",
       "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-10-29T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://venturebeat.com/technology/mistral-large-4-le-chonk-arrives-as-the-top-open-model-outside-china-with-improved-coding-performance-and-63-lower-cost-per-task?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Mistral Large 4 tops open models outside China with 63% cost cut and stronger coding",
+      "summary": "Mistral has released open weights for its trillion-parameter Large 4 model, nicknamed Le Chonk, under a custom license. Independent evaluator Artificial Analysis scores it 26 points on Intelligence Index v5, making it the top open-weight model developed outside China, though it trails DeepSeek and GLM-5.3 globally. Cost per task dropped 63% from $5.54 to $2.06. On the Coding Agent Index, ML4 ranks second among open-weight models, using 47% fewer tokens than leader GLM-5.3. The license requires a separate commercial agreement for model-as-a-service operators.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://venturebeat.com/technology/mistral-large-4-le-chonk-arrives-as-the-top-open-model-outside-china-with-improved-coding-performance-and-63-lower-cost-per-task?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-10-29T00:00:00.000Z",
       "hot": false
@@ -879,6 +1046,16 @@
       "hot": false
     },
     {
+      "id": "https://www.youtube.com/watch?v=O4662zuKj2A&utm_source=futuretools.io&utm_medium=newspage",
+      "title": "ElevenLabs Launches SFX v3 Sound Effects Generator with Text Prompt Control",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.youtube.com/watch?v=O4662zuKj2A&utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-10-29T00:00:00.000Z",
+      "hot": false
+    },
+    {
       "id": "108477039",
       "title": "As Waymo expands overseas, it remains a niche cash-burning business",
       "summary": "Alphabet's Other Bets segment, which includes Waymo, accounted for 0.3% of total revenue in the quarter.",
@@ -888,28 +1065,6 @@
       "date": "2026-10-28T23:53:58.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "05UAJkSgRxtyjZ7Fpu58QQK",
-      "title": "Xreal Aura: Preorders open for smart glasses powered by Google Android XR",
-      "summary": "The Xreal Aura, spatial computing glasses made in partnership with Google for the Android XR platform, are now available to order. We first learned about these XR glasses at Google I/O 2026, and early adopters can finally try them in a matter of weeks. The futuristic XR device combines elements of augmented reality and virtual reality in a pair of smart glasses. They're the first wired smart glasses to run on the new Android XR operating system from Google. The glasses and accessories are available for preorder at the Xreal website as of today, and they're scheduled to ship in mid-November, according to a press release shared with Mashable. Customers who preorder the glasses can save $180 on the hefty $1,279 price tag.\"Xreal Aura is finally here, and we're so proud to unlock new ways for people to work, watch, play, and build,\" said Chi Xu, co-founder and CEO of XREAL, in a press release.The Xreal Aura utilizes dual Sony Micro-OLED displays to create a virtual display with a 70-degree field of view, up to 1,050 nits of brightness, and up to a 120Hz refresh rate.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/xreal-aura-xr-glasses-release-preorder-deals",
-      "category": "Tech",
-      "date": "2026-10-28T23:24:10.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
-      "id": "https://www.engadget.com/2300569/fcc-chair-wants-to-let-prisons-jam-illegal-cellphones/",
-      "title": "FCC chair wants to let prisons jam illegal cellphones",
-      "summary": "The agency will vote next month on relaxing its long-standing opposition to jammers. Kevin Dietsch/Getty Images Add Engadget on Google: Preferred Source Google Discover The US Federal Communications Commission announced today that it will vote on a new rule that would allow state prisons and jails to use cellphone jammers. The goal of the change would be to block use of illegal cellphones by inmates, since having outside contact could allow them to continue engaging in criminal activity. The planned vote during the agency's open meeting on November 19 would consider allowing state and local incarceration facilities to opt in to using jammers; use of the tech would not be required. Any tech that interferes with communications signals is illegal for non-federal parties to use. In 2018, the Federal Bureau of Prisons began testing \"micro-jamming\" in federal prisons as a way to block unauthorized cellphone use by inmates.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2300569/fcc-chair-wants-to-let-prisons-jam-illegal-cellphones/",
-      "category": "Tools",
-      "date": "2026-10-28T23:09:22.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
     },
     {
       "id": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
@@ -934,17 +1089,6 @@
       "officialUrl": "https://feeds.macrumors.com"
     },
     {
-      "id": "108475753",
-      "title": "Jim Cramer sees major implications from SK Hynix's home-run quarter",
-      "summary": "CNBC’s Jim Cramer said SK Hynix’s blockbuster earnings showed that AI stocks can still rally.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/10/28/cramer-sk-hynix-ai-chip-stocks.html",
-      "category": "Business",
-      "date": "2026-10-28T23:00:27.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
       "id": "https://www.macrumors.com/2026/10/28/apple-announcements-october-2026/",
       "title": "Here's Everything Apple Announced This Week",
       "summary": "It's been a busy October for Apple, and just this week, we got a new OLED iPad mini, an &zwnj;OLED&zwnj; MacBook Pro with a touch display, a new M6 &zwnj;MacBook Pro&zwnj;, and an M6 iMac. If you missed the news over the last three days, we've rounded up all our coverage in one spot, so it's easy to take a look back. The &zwnj;MacBook Pro&zwnj; got the biggest update, and it's now the first Mac with an &zwnj;OLED&zwnj; display and touch support. It's a little bit thinner and lighter than the mini-LED models, which are also still on sale, but it unfortunately uses the M5 Pro and M5 Max chips Apple introduced earlier this year. It also got a Dynamic Island, a glowing Apple logo, and a new speaker setup, but prices went up too. The &zwnj;OLED&zwnj; models have a $400 premium over comparable mini-LED models.",
@@ -952,50 +1096,6 @@
       "sourceUrl": "https://www.macrumors.com/2026/10/28/apple-announcements-october-2026/",
       "category": "Tech",
       "date": "2026-10-28T22:45:11.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "108476499",
-      "title": "Jim Cramer says these tech giants can weather market turbulence",
-      "summary": "Cramer said a select group of technology stocks are less vulnerable to economic pressures.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/10/28/jim-cramer-tech-giants-nation-states.html",
-      "category": "Business",
-      "date": "2026-10-28T22:26:48.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/10/28/macbook-pro-glowing-apple-logo/",
-      "title": "Here's a Real-World Look at the New MacBook Pro's Glowing Apple Logo",
-      "summary": "The new 14-inch and 16-inch MacBook Pro models with OLED displays have a glowing Apple logo, a beloved feature that was phased out a decade ago. In a hands-on video shared on his YouTube channel UrAvgConsumer, Judner Aura showed off the glowing Apple logo and revealed that its brightness is tied to the MacBook Pro's display brightness. If you turn up the display brightness, the logo gets brighter, and vice versa. The glowing logo worked the same way on older MacBooks. Skip ahead to the one-minute mark of the video to see the glowing Apple logo. Apple never publicly commented on why it removed the glowing logo, but many customers have long wanted it back, and the company has evidently listened.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/10/28/macbook-pro-glowing-apple-logo/",
-      "category": "Tech",
-      "date": "2026-10-28T22:24:25.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/10/28/macbook-pro-touchscreen-rumors/",
-      "title": "How Accurate Were Rumors About Apple's OLED Touchscreen MacBook Pro?",
-      "summary": "Rumors about Apple's work on a touchscreen OLED MacBook Pro started in 2023, when Bloomberg's Mark Gurman said there would be a MacBook Pro with an &zwnj;OLED&zwnj; display and a touchscreen, but &zwnj;OLED&zwnj; rumors date back even further. We heard a lot about the new Mac over the last few years, and we thought we'd take a look back to see what was right and what was wrong. OLED 2016 - In 2016, ETNews said Apple was considering &zwnj;OLED&zwnj; displays for future MacBooks. 2019 - The Elec said Apple was in talks with Samsung about &zwnj;OLED&zwnj; displays for a future 16-inch &zwnj;MacBook Pro&zwnj;. 2021 - The Elec said a future MacBook would use an &zwnj;OLED&zwnj; display with a two-stack tandem structure, which is what Apple announced today. 2023 - ETNews claimed Apple was sourcing OLED panels in 14-inch and 16-inch sizes for the &zwnj;MacBook Pro&zwnj;, which turned out to be accurate.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/10/28/macbook-pro-touchscreen-rumors/",
-      "category": "Tech",
-      "date": "2026-10-28T22:04:52.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/10/28/apple-8-new-products-available-for-pre-order/",
-      "title": "Apple Has 8 New Products Available for Pre-Order",
-      "summary": "Pacific Time today started accepting pre-orders for five new products that will all be released on Friday, November 6. Here are the pre-order pages: iPad mini with OLED display iMac with M6 chip 14-inch MacBook Pro with M6 chip 14-inch MacBook Pro with OLED display 16-inch MacBook Pro with OLED displayThis is in addition to Apple still accepting pre-orders for the HomePod mini 2, which launches this Friday, October 30, and the Apple HomeView smart home hub and fourth-generation Apple TV 4K, which launch on Friday, November 13. Here are those pre-order pages:HomePod mini 2 Apple HomeView Apple TV 4K (4th generation)You can also order the fourth-generation Siri Remote separately and use it with the second-generation Apple TV 4K or newer, but the Precision Finding feature requires a paired iPhone Duo, iPhone Air, iPhone 17, iPhone 17 Pro, or iPhone 17 Pro Max. Apple also released a special-edition Beats Pill × Pokémon speaker, a new iPad mini Smart Folio, an updated World Travel Adapter Kit, and more this month. Last, but certainly not least, the iPhone Duo was released on Friday, October 23. What a month.Related Roundups: iMac, iPad mini, MacBook ProBuyer's Guide: iMac (Buy Now), iPad Mini (Buy Now), MacBook Pro (Buy Now)Related Forums: iMac, iPad, MacBook ProThis article, \"Apple Has 8 New Products Available for Pre-Order\" first appeared on MacRumors.comDiscuss this article in our forums",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/10/28/apple-8-new-products-available-for-pre-order/",
-      "category": "Tech",
-      "date": "2026-10-28T21:51:19.000Z",
       "hot": false,
       "officialUrl": "https://feeds.macrumors.com"
     },
@@ -1009,17 +1109,6 @@
       "date": "2026-10-28T21:48:37.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=382116",
-      "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
-      "summary": "Datavault AI says it has been unable to withdraw its Bitcoin from Biconomy since June and will restate four financial reports.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc",
-      "category": "Tech",
-      "date": "2026-10-28T21:46:02.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
     },
     {
       "id": "https://techcrunch.com/?p=3182880",
@@ -1055,17 +1144,6 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "https://decrypt.co/?p=382114",
-      "title": "Chip Maker SK Hynix Posts Record Quarter as AI Memory Demand Overwhelms Supply",
-      "summary": "SK Hynix's quarterly revenue topped 100 trillion won for the first time, and the chipmaker says memory demand will outrun supply.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/382114/sk-hynix-record-quarter-ai-memory-demand",
-      "category": "Tech",
-      "date": "2026-10-28T21:16:03.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
       "id": "https://www.techrepublic.com/article/news-humanoid-robots-2027-real-world-deployment/",
       "title": "Humanoid Robots in 2027: Tesla, Figure AI, and Agility Race to Deploy",
       "summary": "Which humanoid robots are closest to deployment in 2027? Compare Tesla, Figure AI, Agility Robotics, and other leaders in industrial automation.",
@@ -1086,78 +1164,6 @@
       "date": "2026-10-28T20:32:02.000Z",
       "hot": false,
       "officialUrl": "https://www.technologyreview.com"
-    },
-    {
-      "id": "https://www.macrumors.com/how-to/iphone-duo-app-launch-on-open?post_date=1793230044/",
-      "title": "iPhone Duo: Turn the Hinge Into an App Launcher",
-      "summary": "If you're eager to change your screen time habits – like staying off Instagram or reading more books – the iPhone Duo may offer a solution. It's the first iPhone with two screens, and there's a trick that you can use to make it consistently open a specific app whenever you unfold it and look at the bigger display. In the Shortcuts app, there's a new iPhone Duo trigger called \"Opened or Closed\" that runs an automated action when the device is unfolded or folded. One of the best uses for it, I've found, is launching a specific app the moment you open your Duo – so that unfolding the phone takes you straight into the app experience you're expecting, and nothing else distracts. It makes flipping the phone open feel like opening a book to where you left off. But you can substitute any app you like.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/how-to/iphone-duo-app-launch-on-open/",
-      "category": "Tech",
-      "date": "2026-10-28T20:27:24.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=382101",
-      "title": "AI Security Startup Upwind Raises $400M at $3.8B Valuation",
-      "summary": "The cloud and AI security firm Upwind says revenue quadrupled in 2026 as it targets risks from autonomous AI agents.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/382101/ai-security-startup-upwind-raises-400m",
-      "category": "Tech",
-      "date": "2026-10-28T20:16:03.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/10/28/oled-macbook-pro-size-weight/",
-      "title": "OLED MacBook Pro vs. Mini-LED MacBook Pro: Size and Weight Compared",
-      "summary": "The new machines are slightly thinner and lighter, and the 16-inch model has a larger display thanks to slimmer bezels. The 16-inch &zwnj;OLED&zwnj; &zwnj;MacBook Pro&zwnj; lists a 16.3-inch display, up from 16.2 inches. The 14-inch &zwnj;OLED&zwnj; &zwnj;MacBook Pro&zwnj; still has the same 14.2-inch display. Height 14-inch &zwnj;OLED&zwnj; &zwnj;MacBook Pro&zwnj; - 0.59 inches 14-inch mini-LED &zwnj;MacBook Pro&zwnj; - 0.61 inches 16-inch &zwnj;OLED&zwnj; &zwnj;MacBook Pro&zwnj; - 0.63 inches 16-inch mini-LED &zwnj;MacBook Pro&zwnj; - 0.66 inches Weight 14-inch &zwnj;OLED&zwnj; &zwnj;MacBook Pro&zwnj; - 3 pounds for Pro, 3.1 pounds for Max 14-inch mini-LED &zwnj;MacBook Pro&zwnj; - 3.5 pounds for Pro, 3.6 pounds for Max 16-inch &zwnj;OLED&zwnj; &zwnj;MacBook Pro&zwnj; - 4 pounds for Pro, 4.1 pounds for Max 16-inch mini-LED &zwnj;MacBook Pro&zwnj; - 4.6 pounds for Pro, 4.7 pounds for Max Dimensions 14-inch &zwnj;OLED&zwnj; &zwnj;MacBook Pro&zwnj; - 12.24 inches wide, 8.52 inches deep 14-inch mini-LED &zwnj;MacBook Pro&zwnj; - 12.31 inches wide, 8.71 inches deep 16-inch &zwnj;OLED&zwnj; &zwnj;MacBook Pro&zwnj; - 14 inches wide, 9.62 inches deep 16-inch mini-LED &zwnj;MacBook Pro&zwnj; - 14.01 inches wide, 9.77 inches deep Compared to the mini-LED models, the &zwnj;OLED&zwnj; models are about half a pound lighter and at least 0.02 inches thinner (about half a millimeter). &zwnj;OLED&zwnj; displays don't need a backlight, which saves weight. The touch sensor is built into th...",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/10/28/oled-macbook-pro-size-weight/",
-      "category": "Tech",
-      "date": "2026-10-28T20:11:01.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3182643",
-      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-      "category": "Business",
-      "date": "2026-10-28T19:19:58.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=382090",
-      "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
-      "summary": "OpenAI, one of Nvidia's biggest customers, reportedly plans to buy Google's TPU chips. Neither company has confirmed the report.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia",
-      "category": "Tech",
-      "date": "2026-10-28T19:16:02.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "https://www.engadget.com/2300235/openai-now-lets-you-text-your-dot-agent/",
-      "title": "OpenAI now lets you text your Dot agent",
-      "summary": "The feature works with both iMessage and RCS messaging. OpenAI Add Engadget on Google: Preferred Source Google Discover When OpenAI debuted its Dot agents late last month, it promised users would eventually be able to text them to give them instructions. Now, nearly a month later, the company has begun rolling out a preview among US Pro users that allows you to do just that. With the new feature, OpenAI says you can send your Dot texts, photos and even voice memos. It also gives your Dot another avenue to proactively contact you with updates about tasks you've assigned to it. By popular request, you can now text your dot.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2300235/openai-now-lets-you-text-your-dot-agent/",
-      "category": "Tools",
-      "date": "2026-10-28T19:15:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com",
-      "relatedCoverage": [
-        {
-          "source": "Digital Trends",
-          "url": "https://www.digitaltrends.com/computing/openai-now-lets-you-text-your-chatgpt-dot-agent-to-get-things-done/"
-        }
-      ]
     },
     {
       "id": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
@@ -1224,39 +1230,6 @@
       "date": "2026-10-28T17:00:58.000Z",
       "hot": false,
       "officialUrl": "https://deepmind.google"
-    },
-    {
-      "id": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
-      "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
-      "summary": "Using Gemini with Personal Intelligence, it can find details like order numbers, tracking, and travel bookings. Using Gemini with Personal Intelligence, it can find details like order numbers, tracking, and travel bookings. Following improvements made to Chrome’s enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome’s enhanced autofill will use Gemini with Personal Intelligence to suggest information sourced from your Gmail, potentially saving you from having to search for confirmation emails, receipts, or shipping updates yourself. The expanded autofill capabilities can retrieve details such as a shipment’s tracking number, travel details like a flight booking number or hotel reservation, or the order number of a recent purchase. Sensitive data presented as a suggestion while completing a form remains encrypted, and users can manage what enhanced autofill has access to in Chrome’s settings, or turn it off completely.",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
-      "category": "Industry",
-      "date": "2026-10-28T17:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3182578",
-      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
-      "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
-      "category": "Business",
-      "date": "2026-10-28T17:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3182509",
-      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-      "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-      "category": "Business",
-      "date": "2026-10-28T17:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
     },
     {
       "id": "https://www.techrepublic.com/article/news-apple-creator-studio-ai-assistants/",
@@ -1454,16 +1427,6 @@
       "hot": false
     },
     {
-      "id": "https://claude.com/resources/articles/introducing-artifacts-for-legal-work?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Anthropic Launches Claude for Legal Artifacts: Dashboards, Contract Review & 60+ Connectors",
-      "summary": "Introducing artifacts for legal workClaude for Legal now includes ready-to-use artifacts for legal work that teams can adapt with their own data and connectors, and share across the business. CategoryAnnouncementsProductClaude EnterpriseDateOctober 28, 2026Reading time5 minShareCopy linkToday, we’re introducing ready-to-use artifacts that legal professionals can adapt to how their teams work and share with colleagues across the business. Since we launched Claude for Legal in May, the most common requests from legal teams have been for simpler setup and easier ways to work with colleagues. Artifacts are interactive tools, such as trackers and dashboards, that teams can use and share in Claude. Our new legal gallery includes artifacts for specific tasks, such as reviewing a stack of contracts, tracking regulatory changes, and taking in legal requests from the business. Each artifact opens with an example, so legal professionals can see how the work comes together before adding their own data and connectors.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://claude.com/resources/articles/introducing-artifacts-for-legal-work?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-10-28T00:00:00.000Z",
-      "hot": false
-    },
-    {
       "id": "https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Gemini App Launches Immersive Explorations for Interactive Visual Learning",
       "summary": "The Gemini app now has a library of immersive explorations, giving you an interactive, visual way to explore topics layer-by-layer, from microscopic systems to deep space and more. You can access this library in the Gemini student hub by clicking on “Try immersive explorations” and will soon be able to access these immersive explorations directly in a chat conversation with Gemini. Whether it’s tracing trade routes on the Silk Road, peering inside a jet engine, or studying the physics of lightning, each scene unfolds into interactive and guided experiences. Tap a label to dig deeper, journeying from sweeping planetary scales straight down to molecules and atoms. Immersive explorations will soon include audio narration to walk you through each layer. This feature is available to all users in English, Indonesian, Hindi, Brazilian Portuguese, French, and simplified Chinese.",
@@ -1474,21 +1437,21 @@
       "hot": false
     },
     {
-      "id": "https://x.com/ChatGPT/status/2115496387613786374?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "ChatGPT's \"dot\" AI Can Now Text Users Proactively via iMessage or RCS for Pro Members",
-      "summary": "By popular request, you can now text your dot. Give it a task to take off your plate or something to keep an eye on, using text, photos, or even voice notes. It will text you proactively with relevant updates. Safe, secure texting via iMessage or RCS. You’re the only one who can text your dot, an…",
+      "id": "https://claude.com/resources/articles/introducing-artifacts-for-legal-work?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Anthropic Launches Claude for Legal Artifacts: Dashboards, Contract Review & 60+ Connectors",
+      "summary": "Introducing artifacts for legal workClaude for Legal now includes ready-to-use artifacts for legal work that teams can adapt with their own data and connectors, and share across the business. CategoryAnnouncementsProductClaude EnterpriseDateOctober 28, 2026Reading time5 minShareCopy linkToday, we’re introducing ready-to-use artifacts that legal professionals can adapt to how their teams work and share with colleagues across the business. Since we launched Claude for Legal in May, the most common requests from legal teams have been for simpler setup and easier ways to work with colleagues. Artifacts are interactive tools, such as trackers and dashboards, that teams can use and share in Claude. Our new legal gallery includes artifacts for specific tasks, such as reviewing a stack of contracts, tracking regulatory changes, and taking in legal requests from the business. Each artifact opens with an example, so legal professionals can see how the work comes together before adding their own data and connectors.",
       "source": "FutureTools News",
-      "sourceUrl": "https://x.com/ChatGPT/status/2115496387613786374?utm_source=futuretools.io&utm_medium=newspage",
+      "sourceUrl": "https://claude.com/resources/articles/introducing-artifacts-for-legal-work?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-10-28T00:00:00.000Z",
       "hot": false
     },
     {
-      "id": "https://blog.google/products-and-platforms/products/chrome/enhanced-autofill-gmail/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Chrome's Enhanced Autofill Now Pulls Gmail Data to Simplify Form Filling",
-      "summary": "Filling out online forms can be tedious, especially when you have to switch between tabs or search through your inbox to track down information. While autofill has always handled the basics — like your name, address, and credit card number — now it’s handling even more. Starting today, Chrome’s enhanced autofill feature can automatically suggest information pulled directly from Gmail as you fill out online forms. Using Gemini with Personal Intelligence, it can surface details like order numbers, tracking information, and flight bookings, right when you need them. As always, sensitive data is encrypted and you remain in control. You can manage whether enhanced autofill is enabled and what it can access via your Chrome settings.",
+      "id": "https://x.com/ChatGPT/status/2115496387613786374?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "ChatGPT's \"dot\" AI Can Now Text Users Proactively via iMessage or RCS for Pro Members",
+      "summary": "By popular request, you can now text your dot. Give it a task to take off your plate or something to keep an eye on, using text, photos, or even voice notes. It will text you proactively with relevant updates. Safe, secure texting via iMessage or RCS. You’re the only one who can text your dot, an…",
       "source": "FutureTools News",
-      "sourceUrl": "https://blog.google/products-and-platforms/products/chrome/enhanced-autofill-gmail/?utm_source=futuretools.io&utm_medium=newspage",
+      "sourceUrl": "https://x.com/ChatGPT/status/2115496387613786374?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-10-28T00:00:00.000Z",
       "hot": false
@@ -1518,6 +1481,16 @@
           "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
         }
       ]
+    },
+    {
+      "id": "https://blog.google/products-and-platforms/products/chrome/enhanced-autofill-gmail/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Chrome's Enhanced Autofill Now Pulls Gmail Data to Simplify Form Filling",
+      "summary": "Filling out online forms can be tedious, especially when you have to switch between tabs or search through your inbox to track down information. While autofill has always handled the basics — like your name, address, and credit card number — now it’s handling even more. Starting today, Chrome’s enhanced autofill feature can automatically suggest information pulled directly from Gmail as you fill out online forms. Using Gemini with Personal Intelligence, it can surface details like order numbers, tracking information, and flight bookings, right when you need them. As always, sensitive data is encrypted and you remain in control. You can manage whether enhanced autofill is enabled and what it can access via your Chrome settings.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://blog.google/products-and-platforms/products/chrome/enhanced-autofill-gmail/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-10-28T00:00:00.000Z",
+      "hot": false
     },
     {
       "id": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/?utm_source=futuretools.io&utm_medium=newspage",
@@ -1697,17 +1670,6 @@
       "date": "2026-10-27T11:19:18.000Z",
       "hot": false,
       "officialUrl": "https://www.technologyreview.com"
-    },
-    {
-      "id": "6adb7f4f37abe86dfce58c20",
-      "title": "AI Agents Are Media’s New Favorite Audience",
-      "summary": "Every morning, Michelle Seo receives a briefing from Chattiana, her Muse artificial intelligence agent. Seo is far from the first person to consume her news with an AI assist. In fact, the trend has become so common that some news outlets are starting to produce content that treats AI agents—not human readers—as the intended audience. This can look like anything from feeds optimized for AI to pieces structured to allow agents to create personalized articles. “We believe that the media ecosystem is changing,” says Axios chief revenue officer Jacquelyn Cameron. “We see this with open web deteriorating.",
-      "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
-      "category": "Industry",
-      "date": "2026-10-27T11:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.wired.com"
     },
     {
       "id": "https://openai.com/index/check-point-daybreak",
@@ -1933,17 +1895,6 @@
       "officialUrl": "https://blog.google"
     },
     {
-      "id": "http://feeds.fabbaloo.com/~/971994419/_/fabbaloo/default~A-New-Way-to-D-Print-the-Surface-of-Other-Worlds",
-      "title": "A New Way to 3D Print the Surface of Other Worlds",
-      "summary": "I ran across a very interesting 3D model service, OrbitStudio. The post A New Way to 3D Print the Surface of Other Worlds appeared on Fabbaloo.",
-      "source": "Fabbaloo",
-      "sourceUrl": "http://feeds.fabbaloo.com/~/971994419/_/fabbaloo/default~A-New-Way-to-D-Print-the-Surface-of-Other-Worlds",
-      "category": "Tech",
-      "date": "2026-10-26T15:03:00.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.feedburner.com"
-    },
-    {
       "id": "000001a1-78a9-db5d-a7fb-fbaffca10007",
       "title": "Anthropic warns investors of political risks as it prepares to go public",
       "summary": "The artificial intelligence company said its public positions on AI safety and regulation could invite backlash, scrutiny and restrictions as it prepares to go public.",
@@ -2048,17 +1999,6 @@
       "sourceUrl": "https://openai.com/index/openai-cut-incident-investigation",
       "category": "Models",
       "date": "2026-10-26T07:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://openai.com/index/introducing-gpt-6-1-terra",
-      "title": "Introducing GPT-6.1 Terra",
-      "summary": "From visual understanding to actionA significant step up on factuality and codingSafety and alignmentPricing and availabilityFrom visual understanding to actionA significant step up on factuality and codingSafety and alignmentPricing and availability Delivering fast and capable computer use at scale OpenAI is introducing GPT-6.1 Terra, a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from GPT‑5.6 Terra, it excels at the communication and computer-based tasks that fill the workday, from drafting proposals and interpreting technical drawings to filling out forms and editing videos. Terra continues to advance the cost-intelligence frontier across OpenAI's model families, providing a new balance of speed, capability, and cost. Its standard API prices are 50% lower than those of GPT-5.6 Terra and GPT-6.1 Sol, making it practical for developers to automate high-volume work, like reading incoming invoices and entering their details into accounting software. In ChatGPT Work and Codex, your plan goes further with GPT-6.1 Terra—the same usage allowance covers more tasks than with GPT‑5.6 Terra and substantially more than with GPT‑6.1 Sol or GPT‑6 Astra. OpenAI measured GPT-6.1 Terra’s computer-use capabilities on Agents’ Last Exam, a benchmark of professional tasks that includes turning architectural drawings into a 3D model and reviewing an animated film shot by shot to create a t...",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/introducing-gpt-6-1-terra",
-      "category": "Models",
-      "date": "2026-10-26T00:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
     },
