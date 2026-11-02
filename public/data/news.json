@@ -1,71 +1,593 @@
 {
-  "lastUpdated": "2026-11-02T11:55:50.892Z",
+  "lastUpdated": "2026-11-02T21:15:22.626Z",
   "news": [
     {
-      "id": "https://www.macrumors.com/2026/11/02/iphone-duo-missing-display-zoom-option/",
-      "title": "This iPhone Duo Screen Setting Is Proving Hard to Change",
-      "summary": "Some iPhone Duo owners have discovered that Apple's first foldable is missing a pretty important appearance setting that you can adjust during the initial setup process, but not afterwards. Display Zoom setting on iPhone 18 Pro (left) vs. iPhone Duo When you first set up an iPhone Duo (or indeed any iPhone), an option screen called Appearance lets you choose how you would like text and icons to look on the screen. You can choose Default, Medium, or Large. Usually, you can adjust your initial choice at any time by going into Settings ➝ Appearance and tapping Display Zoom. On the iPhone Duo, however, that option is missing, so you're basically stuck with the setting you chose during setup.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/11/02/iphone-duo-missing-display-zoom-option/",
+      "id": "https://elevenlabs.io/blog/category/customer-stories",
+      "title": "Customer Stories",
+      "summary": "Read the latest research, product, and company updates from ElevenLabs - provider of the most realistic and versatile AI audio tools",
+      "source": "ElevenLabs Blog",
+      "sourceUrl": "https://elevenlabs.io/blog/category/customer-stories",
+      "category": "Audio",
+      "date": "2026-11-02T21:15:22.618Z",
+      "hot": true
+    },
+    {
+      "id": "108503877",
+      "title": "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell",
+      "summary": "The AI infrastructure deal is expected to close during the first half of 2028.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
+      "category": "Business",
+      "date": "2026-11-02T21:00:59.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "108505405",
+      "title": "Feeling isolated? Half of in-office workers describe their jobs as 'remote,' NY Fed survey finds",
+      "summary": "Employees describing jobs as 'remote' are now often in-office, as companies fail to create the collaboration they claim is critical, NY Fed research shows.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/11/02/remote-work-in-office-mandate-new-york-fed.html",
+      "category": "Business",
+      "date": "2026-11-02T20:44:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=382375",
+      "title": "Claude-Built Linux Exploit Targets Bug That Ubuntu Still Hasn't Patched",
+      "summary": "Anthropic says Claude wrote an attack that can take over a Linux server with no password. Red Hat patched on Sunday, but not Ubuntu.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/382375/claude-built-linux-exploit-bug-ubuntu",
       "category": "Tech",
-      "date": "2026-11-02T11:54:39.000Z",
+      "date": "2026-11-02T20:36:03.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/asia-shares-bend-under-ai-stress-apple-earnings-loom-4989790",
+      "title": "US tech selloff drags global stocks back into the red",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/asia-shares-bend-under-ai-stress-apple-earnings-loom-4989790",
+      "category": "Business",
+      "date": "2026-11-02T20:31:20.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-060-4992666",
+      "title": "U.S. stocks mixed at close of trade; Dow Jones Industrial Average up 0.60%",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-060-4992666",
+      "category": "Business",
+      "date": "2026-11-02T20:30:34.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6020587",
+      "title": "Hyundai isn’t giving up on hydrogen cars, but don’t expect one in your driveway anytime soon",
+      "summary": "Hydrogen cars have spent years in the same waiting room as flying taxis. They're always almost here, but no commercially available product exists for interested buyers. So when a Hyundai manager pushed back on the obituary, I was immediately curious. To be clear, Hyundai hasn't announced a new car. The big news here is that its Australian arm says hydrogen is \"not dead\" for passenger cars. Apparently, the automaker is still evaluating a next-generation hydrogen fuel-cell car if it can find buyers (via CarExpert).",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/cars/hyundai-isnt-giving-up-on-hydrogen-cars-but-dont-expect-one-in-your-driveway-anytime-soon/",
+      "category": "Tech",
+      "date": "2026-11-02T20:23:50.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/us-senator-wants-full-accounting-of-air-force-one-white-house-flyover-4992574",
+      "title": "US senator wants ’full accounting’ of Air Force One White House flyover",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/us-senator-wants-full-accounting-of-air-force-one-white-house-flyover-4992574",
+      "category": "Business",
+      "date": "2026-11-02T19:54:21.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=382357",
+      "title": "Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience",
+      "summary": "Fundstrat strategist and Bitmine chairman Tom Lee says constraints on AI spending have slowed growth without ending the boom.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/382357/tom-lee-calls-bottom-ai-stock-selloff-crypto",
+      "category": "Tech",
+      "date": "2026-11-02T19:46:02.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/us-stock-futures-edge-high-after-bruising-oct-earnings-elections-in-focus-4989789",
+      "title": "Nasdaq turns red as tech slumps again, offsetting rotation trade and slide in oil",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/us-stock-futures-edge-high-after-bruising-oct-earnings-elections-in-focus-4989789",
+      "category": "Business",
+      "date": "2026-11-02T19:37:41.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.engadget.com/2300367/what-apple-airpods-chirping-noise-means-battery/",
+      "title": "Your Apple AirPods' chirping noise doesn't just mean low battery",
+      "summary": "It could indicate other things, but you can turn it off if you want to. Apple Add Engadget on Google: Preferred Source Google Discover Have you ever heard your AirPods chirp randomly even though you weren't doing anything? The most common reason why your AirPods are trying to get your attention is that they're low in battery. You can easily check if that's what's going on by flipping their case open and looking at the phone they're paired with. However, your AirPods could be emitting sounds due to other reasons, and those sounds could range from cute little chirps to ear-piercing screeches. Sometimes, your AirPods will keep on chirping even after being plugged in due to power fluctuations, interruptions to the electricity flowing into the device and other battery issues.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2300367/what-apple-airpods-chirping-noise-means-battery/",
+      "category": "Tools",
+      "date": "2026-11-02T19:30:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/11/02/john-ternus-first-apple-earnings-call/",
+      "title": "John Ternus Hosting His First Earnings Call as Apple CEO Today",
+      "summary": "John Ternus will participate in his first Apple earnings call as the company's CEO today. Ternus and Apple's CFO Kevan Parekh will discuss the company's earnings results for the third quarter of the 2026 calendar year on the live-streamed conference call. While the call is primarily intended for Apple shareholders and Wall Street analysts, anyone can listen live for free on Apple's Investor Relations website, with no registration required. The call should last around one hour. Ternus and Parekh will read their prepared remarks, and then they will take questions from analysts. Apple released the following products in the quarter, which ran from June 28 to September 26: Mac Mini With M6 and M5 Pro Chips Mac Studio With M5 Max and M5 Ultra Chips New Apple Polishing Cloth iPhone 18 Pro and iPhone 18 Pro Max Apple Watch Series 12 Apple Watch Ultra 4 AirPods 5 Beats 360 Wrist Strap for iPhone 18 Pro and AirPods Pro 3 New Apple Watch Charging PuckiPhone Duo was announced during the quarter, but pre-orders did not begin until October 16, so the quarter does not include any revenue from that device.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/11/02/john-ternus-first-apple-earnings-call/",
+      "category": "Tech",
+      "date": "2026-11-02T19:24:52.000Z",
       "hot": false,
       "officialUrl": "https://feeds.macrumors.com"
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/goldman-upgrades-bat-on-clearer-path-to-sustained-revenue-growth-4990995",
-      "title": "Goldman upgrades BAT on clearer path to sustained revenue growth",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/goldman-upgrades-bat-on-clearer-path-to-sustained-revenue-growth-4990995",
-      "category": "Business",
-      "date": "2026-11-02T11:45:45.000Z",
+      "id": "https://www.digitaltrends.com/?p=6020530",
+      "title": "[EXCLUSIVE]: How Lexar made Muse, the world’s thinnest portable SSD that looks like a metal card",
+      "summary": "For decades, Lexar has been one of the most reliable names in memory and storage. From the era of megabyte-class storage cards and picture card drives to industry-first high-capacity cards, NVMe drives, and a stainless steel SD card as recently as 2024, the company has seen — and done — it all. Lexar's legacy has been a mainstay in the camera enthusiast community for years, and it's easy to see the brand's logo in a professional's kit. So, it was only poetic that for its 30th anniversary, Lexar created something special. And this time around, that something special was targeted at smartphones, the device that has quickly become the camera of choice for the entire world. That reveal came at IFA 2026, where Lexar launched Muse, the world's thinnest SSD.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/phones/exclusive-how-lexar-made-muse-the-worlds-thinnest-portable-ssd-that-looks-like-a-metal-card/",
+      "category": "Tech",
+      "date": "2026-11-02T19:21:18.000Z",
       "hot": false,
-      "officialUrl": "https://www.investing.com"
+      "officialUrl": "https://www.digitaltrends.com"
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/estee-lauder-raises-annual-forecasts-on-resilient-demand-ahead-of-holiday-season-4990805",
-      "title": "Estee Lauder raises annual forecasts on resilient demand ahead of holiday season",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/estee-lauder-raises-annual-forecasts-on-resilient-demand-ahead-of-holiday-season-4990805",
-      "category": "Business",
-      "date": "2026-11-02T11:37:33.000Z",
+      "id": "0416YaobSCFOzP6XCnNcZhr",
+      "title": "Is it legit? How to tell if that website or social media account is a scam",
+      "summary": "There is a 30 percent chance this article is fake. It's not, of course. You can trust me. Or can you?According to a recent study from Pew Research, around one-third of recent web content is AI-generated. Around 10 percent of \".com\" sites now have AI's fingerprints on them. Fake news sources peddling misinformation or propaganda (commonly referred to as \"pink slime\") have long outnumbered real news publishers — and are continuing to multiply with the help of AI. Even legit websites and social platforms can steer you toward misinformation, scams, and other online dangers. A platform built to keep you hooked to an endless feed, fed by engagement and seeking to capture your attention, is a recipe for bots, phishing, and disinformation campaigns. Social media \"experts\" — sometimes entirely AI-generated people, other times real humans with ulterior motives — are building followings in the millions. In this increasingly confusing environment, here's how to get to the truth.Why fake sources are proliferating \"High quality misinformation and deception were largely the domain of nation-states and well resourced groups,\" explained Donnie Hasseltine, chief information security officer at Arkstone Defense.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/how-to-verify-website-account-is-legit-or-scam",
+      "category": "Tech",
+      "date": "2026-11-02T19:19:02.000Z",
       "hot": false,
-      "officialUrl": "https://www.investing.com"
+      "officialUrl": "https://mashable.com"
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/jefferies-sees-airbus-stock-october-deliveries-down-17-yearoveryear-93CH-4990909",
-      "title": "Jefferies sees Airbus stock October deliveries down 17% year-over-year",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/jefferies-sees-airbus-stock-october-deliveries-down-17-yearoveryear-93CH-4990909",
-      "category": "Business",
-      "date": "2026-11-02T11:32:12.000Z",
+      "id": "04MB8Jn0scpS8ZCrrGOsE9S",
+      "title": "OpenAI is making a major change to ChatGPT interface",
+      "summary": "ChatGPT is preparing to give users one fewer tab to think about.OpenAI plans to merge ChatGPT's Chat and Work tabs into a single experience, bringing everyday conversations and more complex tasks into the same place. The company outlined the change in an email to users, according to TechCrunch, with a limited test planned before a wider rollout.Currently, OpenAI describes Chat as the place for everyday questions and conversational help, while Work handles longer tasks, including research, analyzing information, and creating documents, presentations, and websites. The desktop app also includes a separate Codex experience for coding, which will remain separate after the merger. SEE ALSO: CapCut is adding a ChatGPT plugin. \"This will enable you to move from exploring an idea to having ChatGPT carry it through, all in one place,\" OpenAI reportedly said in the email. Usage will be measured in tokens, the units of information AI models process and generate.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/openai-chatgpt-chat-work-merger-usage-limits",
+      "category": "Tech",
+      "date": "2026-11-02T19:00:10.000Z",
       "hot": false,
-      "officialUrl": "https://www.investing.com"
+      "officialUrl": "https://mashable.com"
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/bofa-securities-keeps-software-top-picks-despite-ai-worries-4990826",
-      "title": "BofA Securities Keeps Software Top Picks Despite AI Worries",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/bofa-securities-keeps-software-top-picks-despite-ai-worries-4990826",
-      "category": "Business",
-      "date": "2026-11-02T11:19:02.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
-      "id": "https://www.engadget.com/2303590/apple-is-reportedly-launching-three-new-ipads-early-next-year/",
-      "title": "Apple is reportedly launching three new iPads early next year",
-      "summary": "Engadget Add Engadget on Google: Preferred Source Google Discover After launching its new iPad mini last week (along with the iPad-like iPhone Duo last month), Apple may launch up to three new iPad models early next year, according to Bloomberg's Mark Gurman. Those will likely cover the rest of Apple's iPad lineup, including the base iPad, top-of-the-line iPad Pro and mid-range iPad Air, the report states. Each model will get key upgrades. To start, the base iPad will reportedly gain access to Apple Intelligence, with an upgrade to the A19 processor and 8GB of RAM. It will also include Apple's new N1 chip and C1X modem, enabling Wi-Fi 7, sub-6 GHz 5G, faster speeds and reduced battery draw. The iPad Air, meanwhile, will get an OLED screen to match the iPad mini, along with the usual chip upgrades.",
+      "id": "https://www.engadget.com/2300357/websites-blocking-ai-agents-from-web/",
+      "title": "Why some websites are blocking AI agents from accessing the web",
+      "summary": "Amazon is blocking rival shopping agents, and even websites that welcome AI assistants can stop them with an ordinary CAPTCHA. Erlin Diah/Shutterstock Add Engadget on Google: Preferred Source Google Discover An AI agent can take over your grocery shopping, right up until a website asks it to prove it's human. That's the problem Meta's Muse has encountered at Walmart (one of its retail partners), which says the verification checks weren't intended to stop the assistant. Amazon has been more direct, deliberately blocking the tool from shopping on its site, according to TechCrunch. The appeal of personal AI agents like Meta's Muse is that these assistants can navigate websites, fill shopping carts and book travel instead of handing you recommendations and leaving the rest to you. However, giving an agent permission to act on your behalf doesn't mean a website has agreed to deal with it.",
       "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2303590/apple-is-reportedly-launching-three-new-ipads-early-next-year/",
+      "sourceUrl": "https://www.engadget.com/2300357/websites-blocking-ai-agents-from-web/",
       "category": "Tools",
-      "date": "2026-11-02T11:12:11.000Z",
+      "date": "2026-11-02T19:00:00.000Z",
       "hot": false,
       "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/11/02/early-black-friday-cases/",
+      "title": "Early Black Friday Brings Steep Price Drops on Apple's Latest iPhone Cases",
+      "summary": "Amazon this week has big discounts across Apple's Clear, Silicone, and TechWoven Cases for the iPhone 18 Pro lineup. These deals are part of ongoing early Black Friday deals, which we've begun keeping tabs on in our main post on all the best early Black Friday Apple deals. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Across the board these are the best prices we've tracked to date on the new cases for iPhone 18 Pro and iPhone 18 Pro Max. This time around the deals do not require any coupon codes to see the final sale prices.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/11/02/early-black-friday-cases/",
+      "category": "Tech",
+      "date": "2026-11-02T18:42:41.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
+      "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+      "summary": "Apple’s new CEO, John Ternus, is apparently pushing the tech company’s development of household robots—and the first to debut may be a home robot designed to autonomously roam around while supporting FaceTime calls and switching lights on whenever a person enters the room. People who worked on Apple’s robotic projects told The Information that the AI-driven home robot, code-named J595, could be named HomeView Ultra in line with Apple’s new HomeView stationary smart display. The company is reportedly aiming to launch the robotic product with a possible price tag of $1,000 or more by 2027, although development delays may push that back to 2028. The earliest prototypes of the home robot first came out in 2018 and received approval from former Apple CEO Tim Cook to continue the project. The Information describes Apple’s engineers as trying to give the robot more capabilities beyond being a “fancy way to make FaceTime calls” in order to justify a high price tag, even as the team has spent years refining the software and incorporating more AI technologies.Read full article Comments",
+      "source": "Ars Technica AI",
+      "sourceUrl": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
+      "category": "Industry",
+      "date": "2026-11-02T18:32:21.000Z",
+      "hot": false,
+      "officialUrl": "https://arstechnica.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6020554",
+      "title": "Apple’s next home robot could turn its screen to follow you, but it might cost you $1,000 to do so",
+      "summary": "Remember the hopping Pixar lamp that famously squashes the letter \"I\" in the studio logo at the beginning of almost every Pixar movie? Apple may be building something similar, except this Pixar-inspired device won't actually hop or roll around your room. Instead, its motorized robotic arm could swivel the screen around (basically moving it left to right, or vice versa, on an axis). According to a new report from The Information, the Cupertino giant is working on a larger, robotic version of its recently-announced HomeView smart display, and it might arrive as soon as next year. Apple What would this robotic HomeView actually do? The device could be called \"HomeView Ultra\" or \"HomeView Max.\" The prototype reportedly resembles Apple's old iMac G4.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/home/apples-next-home-robot-could-turn-its-screen-to-follow-you-but-it-might-cost-you-1000-to-do-so/",
+      "category": "Tech",
+      "date": "2026-11-02T18:24:10.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=382353",
+      "title": "Proton Users Revolt After CEO Calls Security Caution 'Loser Thinking' Amid AI Push",
+      "summary": "Proton customers say they are canceling subscriptions after reports of pressure to adopt AI coding, as the privacy company defends its shift.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/382353/proton-users-revolt-ceo-calls-security-caution-loser-thinking-ai",
+      "category": "Tech",
+      "date": "2026-11-02T18:16:02.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://www.engadget.com/2302571/think-twice-before-putting-gaming-console-inside-cabinet/",
+      "title": "Think twice before putting your gaming console inside a cabinet",
+      "summary": "Cabinets are a great way to keep your game console hot, which is terrible for it. Joeri Mostmans/Shutterstock Add Engadget on Google: Preferred Source Google Discover One of the reasons often cited for the failure of the original Xbox in Japan is that the console (and its original bulky controller) was too big for many Japanese homes. Now, there was more to it, such as a lack of the genres and franchises Japanese gamers preferred. But this highlights an important point that space matters; some modern consoles could be an awkward fit if you're living in a cramped studio apartment. Even in the West, gamers often need to optimize the space around their TV to make it livable for everyone in the home. Aside from comfort, you might be worried about style, aiming for a sleek, minimalist look.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2302571/think-twice-before-putting-gaming-console-inside-cabinet/",
+      "category": "Tools",
+      "date": "2026-11-02T18:15:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+      "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
+      "summary": "Last week, Anthropic introduced a new system prompt designed to stop its Claude models from re-creating specific, existing video games. While that move could help shield Anthropic from some liability, it's unlikely to slow much of the massive wave of AI-assisted game porting and copying that has emerged in recent months. A social media user and AI decompilation enthusiast going by the name \"chasm\" was among the first to note the prompt change late last week, saying a new rule seemed to be added to the Claude Code prompt on or around October 27. That rule—included in a json file under the name \"tengu_heron_brook\"—reads as follows: Do build original games, games in a genre, and games from the user’s own designs and assets. Don’t build a recreation of a specific existing game, even if it is renamed or called original. XDA later independently verified that the new rule appears in version 2.1.314 of the Claude Code binary, which was released on October 30.",
+      "source": "Ars Technica AI",
+      "sourceUrl": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+      "category": "Industry",
+      "date": "2026-11-02T18:05:31.000Z",
+      "hot": false,
+      "officialUrl": "https://arstechnica.com"
+    },
+    {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+      "summary": "As public opinion has soured on data centers, it’s selling ‘AI campuses’ as protectors, instead of noisy polluters. As public opinion has soured on data centers, it’s selling ‘AI campuses’ as protectors, instead of noisy polluters. In an announcement on Monday, OpenAI says it will pilot its “Grid Protectors Program” at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes. The announcement comes as opposition to data centers spreads across the US, in response to massive projects that have begun development and construction, frequently with little or no input from local residents. In Utah, residents protested after Box Elder County commissioners signed off on a data center expected to consume more than double the state’s peak electricity demand in 2025, and spread hot air in the desert valley surrounding the data center. Now OpenAI’s approach is to pitch the construction of power plants that feed the electricity required by the new AI data centers it’s building as “a resource that utilities can call on when communities need it most.”",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "category": "Industry",
+      "date": "2026-11-02T18:01:30.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "108504297",
+      "title": "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1",
+      "summary": "Anthropic unveiled its S-1 prospectus last week, but the initial filing only included the company's financials through the first half of the year.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+      "category": "Business",
+      "date": "2026-11-02T17:52:01.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. Brave also promotes “hundreds of top publishers” as being accessible through its “Paywall blocker” feature in its browser. “AI giants are now desperate to avoid getting caught red-handed stealing news from publishers, so Brave Software is selling them a back door to the journalism they know they have no right to,” says Steven Lieberman, the attorney who filed the lawsuit on behalf of the other three publications. “Buying stolen goods secondhand doesn’t make them legitimate. Brave must be held responsible for laundering pirated reporting for the AI industry.” Brave, Anthropic, Mistral, SpaceXSI, and Cohere, didn’t immediately reply to a request for comment.",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "category": "Industry",
+      "date": "2026-11-02T17:51:19.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com",
+      "relatedCoverage": [
+        {
+          "source": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "title": "The latest AI news we announced in October 2026",
+      "summary": "Here’s a recap of some of Google AI's biggest AI updates from October, led by Gemini 4 Argon and Carbon, alongside Google AI's new world model Genie 4. Your browser does not support the audio element. In October, Google AI released new AI tools to help you work, stay safe, and learn. Google AI introduced Gemini 4 Argon for complex tasks, Genie 4 for building interactive simulations, and updated Android to block sophisticated scams. You can also use Google AI's new SynthID Detector to verify if content is AI-generated. These updates aim to make technology more helpful for your daily projects, personal security, and creative hobbies.",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "category": "Research",
+      "date": "2026-11-02T17:45:00.000Z",
+      "hot": false,
+      "officialUrl": "https://blog.google"
+    },
+    {
+      "id": "https://decrypt.co/?p=382348",
+      "title": "Nvidia and Nike Lead Biggest Wave Yet of Tokenized Stock Objections",
+      "summary": "Nvidia, Costco, Nike and nine other companies objected to trading of their shares on the planned OKX-ICE tokenized stock venue.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/382348/nvidia-nike-biggest-wave-yet-tokenized-stock-objections",
+      "category": "Tech",
+      "date": "2026-11-02T17:36:03.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/11/02/iphone-duo-november/",
+      "title": "Mark Gurman: Apple Initially Aimed to Release iPhone Duo in November",
+      "summary": "Apple initially aimed to \"wait until November\" to release the iPhone Duo in the U.S. and China only, according to Bloomberg's Mark Gurman, but it ultimately launched the device in more than 70 countries on Friday, October 23. \"Apple rushed the Duo to market without enough inventory to meet demand,\" he said. The device currently has a January 25 delivery estimate and is hard to find in stores.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/11/02/iphone-duo-november/",
+      "category": "Tech",
+      "date": "2026-11-02T17:24:22.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.engadget.com/2300353/google-gemini-poking-through-email-how-to-stop/",
+      "title": "Gemini could be poking through your emails - here's how to stop it",
+      "summary": "To think \"Don't be evil\" used to be Google's motto. S3studio/Getty Images Add Engadget on Google: Preferred Source Google Discover The AI revolution is coming for everything, especially your data. With Big Tech placing AI at the center of every application, the industry foists a Faustian deal upon its customers: hand over your privacy, and we'll deliver productivity gains you never dreamed of. And while those leaps in efficiency are still very much debated, it's clear that companies are set on pushing AI features one way or another. So, is Google feeding your emails to Gemini? The answer is both yes and no.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2300353/google-gemini-poking-through-email-how-to-stop/",
+      "category": "Tools",
+      "date": "2026-11-02T17:15:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/11/02/spotify-on-apple-homeview/",
+      "title": "Here's What Spotify Looks Like on Apple's HomeView",
+      "summary": "Apple's new HomeView smart home hub lacks an App Store, but it can still run some third-party audio and video apps that support CarPlay. HomeView can automatically mirror CarPlay-enabled audio and video apps from a nearby, paired iPhone, with no modifications to the app required. In a video shared on Mastodon, Broadcasts app developer Steve Troughton-Smith demonstrated what Spotify looks like on a virtualized HomeView. The full list of built-in Apple apps on the HomeView: CarPlay-enabled apps from iPhone available on HomeView: HomeView is available to pre-order now and launches Friday, November 13.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/11/02/spotify-on-apple-homeview/",
+      "category": "Tech",
+      "date": "2026-11-02T17:09:43.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=382345",
+      "title": "Elon Musk Mocks Sam Altman Over Claim Home PCs Are Wasting RAM",
+      "summary": "The OpenAI CEO said it's \"quite terrible\" for DRAM to sit largely idle in personal computers while AI data centers face a supply crunch.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/382345/elon-musk-mocks-sam-altman-over-claim-home-pcs-are-wasting-ram",
+      "category": "Tech",
+      "date": "2026-11-02T17:07:28.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "01TPvwCDnx7XfV4SEdlzAnm",
+      "title": "The best early Black Friday grooming deals for anyone whos tired of fighting their body hair",
+      "summary": "Best early Black Friday grooming deals at a glance: Best electric shaver deal Philips Norelco Head Shaver Pro 9000 $67.96 (save $82.03) Get Deal Best razor deal Amazon Basics 5-Blade MotionSphere Men's Razor (1 Handle + 16 Cartridges) $20.06 (save $3.61) Get Deal Best waxing kit deal GiGi All Purpose Waxing Kit $59.71 (save $5.29) Get Deal As a woman of Italian descent (who also happens to have hormonal issues), I'm no stranger to unwanted hair growth. I've tried hair removal creams, wax strips, the fanciest razors money could buy, and, most recently, IPL devices. And despite my best efforts to find one thing that does it all, keeping my skin smooth and hairless takes a combination of tools. Apparently, this is a group project. SEE ALSO: Amazon is dropping early Black Friday beauty tech deals way ahead of schedule It's also an expensive one. Between replacing razors and buying a device that promises less shaving in the future, the cost of grooming adds up.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/best-early-black-friday-grooming-deals-2026",
+      "category": "Tech",
+      "date": "2026-11-02T17:04:47.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://www.technologyreview.com/?p=1147660",
+      "title": "Raising the quality of insights in agentic analytics",
+      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate leaves much to be desired. Fewer than half of agent-generated insights at the organizations surveyed for this report lead to business improvement. And while most respondents praise the quality of their agents’ descriptive insights, reviews of their prescriptive insights—those on which actions are based—are decidedly mixed. DOWNLOAD THE REPORT Failure to produce insights that improve the business deprives organizations of their desired return on investment in agentic analytics.",
+      "source": "MIT Technology Review AI",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "category": "Research",
+      "date": "2026-11-02T17:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.technologyreview.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/11/02/ios-27-2-1-and-ios-27-3-beta-coming-soon/",
+      "title": "iOS 27.2.1 Coming Soon, iOS 27.3 Beta Likely Available Tomorrow",
+      "summary": "Apple has started testing iOS 27.2.1, according to the MacRumors visitor logs, which have been a reliable indicator of upcoming iOS versions. iOS 27.2.1 should be a minor update that includes bug fixes and/or security patches, including for the iPhone Duo that launched Friday, October 23. We do not know exactly when the update will be released, but usually upcoming iOS versions begin to show up in our logs a few days to a few weeks before they are made available to the public. There may also be a macOS 27.2.1 update with a fix that prevents macOS command-line tools from accepting eMudhra's compromised web certificates. The certificates have already been blocked in Safari, Mail, and apps that use Apple's networking and security frameworks since October 19, with no software update required for that. In addition, we expect the first iOS 27.3 developer beta to be released tomorrow.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/11/02/ios-27-2-1-and-ios-27-3-beta-coming-soon/",
+      "category": "Tech",
+      "date": "2026-11-02T16:49:06.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6020515",
+      "title": "Ford says it doesn’t sell your driving data, but opting out comes with a catch",
+      "summary": "Ford says its connected vehicles collect three types of information: vehicle diagnostics, driving characteristics, and location data. The automaker uses this information to power features such as embedded navigation, real-time traffic updates, and Roadside Assistance. This data also helps Ford troubleshoot problems, improve future vehicles, and personalize your driving experience. Ford Ford says it has built privacy protections for the data, such as anonymizing or grouping data to reduce exposure of personal information. According to industry polling, only 14% of customers fully understand what their car collects. Meanwhile, Ford surveyed over 1,000 consumers for this launch and found 91% believe data privacy is a key consideration when choosing a vehicle.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/cars/ford-privacy-promise-says-it-doesnt-sell-driving-data-but-opting-out-disables-features-like-bluecruise/",
+      "category": "Tech",
+      "date": "2026-11-02T16:46:43.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3184087",
+      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "category": "Business",
+      "date": "2026-11-02T16:30:00.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=382340",
+      "title": "Bitmine Buys More Ethereum as Tom Lee Calls the Binance Hack Bullish",
+      "summary": "Tom Lee laid out six reasons the market’s “muted” 4% Ethereum drop after the record Binance theft shows crypto is “increasingly resilient.\"",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/382340/bitmine-buys-more-ethereum-tom-lee-binance-hack-bullish",
+      "category": "Tech",
+      "date": "2026-11-02T16:23:24.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "00yBivNxvUxQmtoSPzTi12m",
+      "title": "Three AirPods deals worth picking up before Black Friday, plus one to wait on",
+      "summary": "Black Friday may not be until Nov. 27, but headphones deals — including on AirPods — are already popping up ahead of the year's biggest shopping holiday. Granted, Black Friday sales start much earlier than the day itself. Though we haven't yet received any official confirmation of sale dates, we are seeing Black Friday-worthy deals: the AirPods Max 2 are $100 off, while the AirPods 4 and Pro 3 both have markdowns as well.So what's the best way to approach your AirPods purchasing journey this holiday season? In addition to gathering the best deals live now, we also used our deals expertise and years of experience covering shopping holidays and Black Friday deals to give context on which deals we're still holding out on. Best AirPods deal Opens in a new window Credit: Apple Apple AirPods Max 2 $449 at Amazon $549 Save $100 Get Deal at Amazon Why we like itAdmittedly, the AirPods Max 2 aren't Mashable's favorite headphones, especially in comparison to the price and feature set of other premium options.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/best-early-black-friday-airpods-deals-2026",
+      "category": "Tech",
+      "date": "2026-11-02T16:04:54.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://www.engadget.com/2303975/nagoshi-studio-from-the-creator-of-the-yakuza-series-officially-shuts-down/",
+      "title": "Nagoshi Studio, from the creator of the Yakuza series, officially shuts down",
+      "summary": "It’s unclear what will happen to the studio’s work on Gang of Dragon. Nagoshi Studio Add Engadget on Google: Preferred Source Google Discover Less than a year after the announcement of its first game Gang of Dragon, Nagoshi Studio has officially closed its doors. The studio, which was founded by Toshihiro Nagoshi of Yakuza franchise fame, announced its conclusion in the Japan government's official gazette Kanpo, stating the company was dissolved on October 31 during a shareholders meeting. After the success of the Yakuza series, Nagoshi went on to create Nagoshi Studio and began work on Gang of Dragon, releasing the game's first trailer in December 2025. The upcoming game looked to be an evolution of the franchise that still covered the organized crime scene in Tokyo's Kabuchiko district through the lens of the new protagonist, Shin Ji-Seong, but potentially with a more serious tone. Despite the hype from the trailer, one of the game's backers, NetEase, decided to pull funding from the studio, according to a Bloomberg report.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2303975/nagoshi-studio-from-the-creator-of-the-yakuza-series-officially-shuts-down/",
+      "category": "Tools",
+      "date": "2026-11-02T16:03:12.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/11/02/best-early-black-friday-deals-2026/",
+      "title": "Best Early Black Friday Deals on Apple Products Available Now",
+      "summary": "We're officially in the month of Black Friday, which will take place on Friday, November 27 in 2026. As always, this will be the best time of the year to shop for great deals, including popular Apple products like AirPods, iPad, Apple Watch, and more. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Specifically, in this article we're sharing all of the Apple products that currently have all-time low prices, or discounts that are at least close to their record-low prices. Of course, these are early Black Friday deals, so even better discounts could emerge later in the month, but if you're shopping right now these are all the best prices around.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/11/02/best-early-black-friday-deals-2026/",
+      "category": "Tech",
+      "date": "2026-11-02T15:56:22.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/11/02/apple-isnt-done-with-2026-heres-whats-still-coming/",
+      "title": "Apple Isn't Done With 2026: Here's What's Still Coming",
+      "summary": "Apple's busiest season isn't over yet. With two hardware launch dates still to come in November, plus software updates and new smart home accessories running into December, there's more on the way from Apple before the end of 2026, so be sure to stick around. Below, we've rounded up what's still coming, along with one date in particular that's worth watching if you're a holiday shopper. Apple Intelligence testing in China – November 4: The first Apple Intelligence features for users in China enter testing in the latest iOS developer beta from Wednesday, November 4. Apple has partnered with Alibaba to add Qwen support to Siri, Writing Tools, and Visual Intelligence. Five new products – November 6: Apple is launching five products this Friday: the OLED iPad mini with A20 Pro (from $699), the M6 iMac (from $1,499), the 14-inch MacBook Pro with M6 (from $1,999), and all-new 14-inch and 16-inch &zwnj;MacBook Pro&zwnj; models with &zwnj;OLED&zwnj; touchscreens (from $2,899 and $3,399).",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/11/02/apple-isnt-done-with-2026-heres-whats-still-coming/",
+      "category": "Tech",
+      "date": "2026-11-02T15:27:14.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/11/02/homeview-ultra-report/",
+      "title": "Apple 'HomeView Ultra' With 9-Inch 360º Screen Detailed in New Report",
+      "summary": "The Information's Aaron Tilley today reported that Apple has been developing a larger, robotic version of the HomeView. This device has been called a \"HomeView Ultra\" or \"HomeView Max\" in rumors, but the final name might be different. Tilley said a prototype of the device is equipped with a 9-inch display on a swiveling arm, with its overall design said to look similar to Apple's old iMac G4 or Pixar's lamp mascot. Like the HomeView, the device would have standard features like FaceTime, but it would also be \"fully aware of its environment and act autonomously.\" \"The current design for the robot envisions it using a camera and sensors to be fully aware of its environment and act autonomously, allowing it to turn on the lights when someone walks into a room—or perhaps even try to tell a cat to get off a table,\" the report said. \"It is meant to be smart enough to avoid accidentally hitting objects around it.\" The report said the device's hardware has largely been finalized for around two years, but there have apparently been \"internal disagreements\" within Apple, particularly in regards to which software features should be available on the first-generation model or postponed until a second-generation model already being discussed. The report said Apple is hoping to release the larger HomeView in 2027 for around $1,000 in the U.S., but the device might not be ready to launch until 2028.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/11/02/homeview-ultra-report/",
+      "category": "Tech",
+      "date": "2026-11-02T15:08:55.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=382147",
+      "title": "How T7X Is Building the Infrastructure for a New Era of Capital Markets",
+      "summary": "T7X records ownership directly on-chain instead of wrapping assets held elsewhere, keeping token and asset under one legal framework.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/382147/how-t7x-is-building-the-infrastructure-for-a-new-era-of-capital-markets",
+      "category": "Tech",
+      "date": "2026-11-02T15:01:03.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3184108",
+      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+      "category": "Business",
+      "date": "2026-11-02T15:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use/",
+      "title": "Why it's important to use a microSD Express card with your Nintendo Switch 2",
+      "summary": "The Switch 2 has a lot more space than the original Switch, but that won't go as far in today's world. laur2321/Shutterstock Add Engadget on Google: Preferred Source Google Discover The Nintendo Switch 2 comes with 256GB of storage, where ~249GB is usable after accounting for system software. That's more than enough to start playing games immediately, but considering today's standards, 256GB is pretty slim. Physical Switch 2 games now cost more than digital releases for first-party games, a frustrating foil to their benefit of not using as much internal space. Updates and downloadable content also take up space, while some Switch 2 releases use Game-Key Cards, which require downloading the game to the console instead of running it from the cartridge. Most indie games are relatively small, and Nintendo-made games are generally well-optimized, but AAA games are a different story.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use/",
+      "category": "Tools",
+      "date": "2026-11-02T14:45:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/11/02/apple-tv-4k-pre-order/",
+      "title": "Apple TV 4K Pre-Order Discount Returns at Amazon",
+      "summary": "Amazon today is back with the a pre-order discount on the brand new A19 Apple TV 4K, available for $289.99, down from $299.00. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Amazon provides an estimated delivery on launch day, which is next Friday, November 13. Although only a $9 discount, this is the best price we've tracked on the device, and as of writing Amazon is the only place offering any sort of markdown. $9 OFFApple TV 4K for $289.99 For anyone who just wants to upgrade their existing Apple TV 4K with the new Find My-enabled Siri Remote, Amazon has that accessory for pre-order at $59.00.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/11/02/apple-tv-4k-pre-order/",
+      "category": "Tech",
+      "date": "2026-11-02T14:35:25.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6020498",
+      "title": "The wearable on your wrist can predict blood pressure crisis events days in advance",
+      "summary": "In the domain of wearable devices, we have reached a stage where they are available in a variety of form factors. You can go with a smartwatch, something a little more subtle like a smart band without a screen, or even a smart ring. And as the form factors have continued to evolve, so have the capabilities and the sensing hardware. What started with basic light-based heart rate tracking has now reached a stage where smartwatches are capable of tracking multiple metrics, such as taking electrocardiogram readings, tracking sleep, looking for signs of sleep apnea, or even detecting spikes in blood pressure levels. Now, fresh research courtesy of the American Heart Association claims that these mass-market wearable devices can help predict episodes of dangerously high blood pressure, or hypertensive crisis, up to three days in advance. The research was conducted over a period of 12 months and involved more than 4,000 participants living with stage 2 high blood pressure.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/wearables/the-wearable-on-your-wrist-can-predict-blood-pressure-crisis-events-days-in-advance/",
+      "category": "Tech",
+      "date": "2026-11-02T14:09:49.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/11/02/canva-free-affinity-app-ipad/",
+      "title": "Canva Brings Free All-in-One Affinity App to iPad",
+      "summary": "Canva today released Affinity for iPad, bringing its free all-in-one design app to Apple's tablet, along with a new Sketch Studio built for touch and Apple Pencil. The release follows last year's desktop app relaunch, which combined the previously separate Affinity Designer, Photo, and Publisher apps into a single app for Mac and Windows. Canva had promised an iPad version in 2026, and says the desktop app has since attracted more than seven million sign-ups. The iPad app brings sketching, vector graphics, photo editing, and page layout together in one interface. Users can switch between Sketch, Vector, Pixel, and Layout studios while working in the same .af file, which can also be opened on desktop. Sketch Studio adds freehand drawing with a customizable brush library, while Sketch to Shapes turns hand-drawn forms into editable vector shapes.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/11/02/canva-free-affinity-app-ipad/",
+      "category": "Tech",
+      "date": "2026-11-02T14:00:14.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3184089",
+      "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
+      "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "category": "Business",
+      "date": "2026-11-02T13:57:53.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://www.technologyreview.com/?p=1147702",
+      "title": "Stop counting tokens, start counting what ships",
+      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls it makes. With per-token pricing, the workflows creating the most value can also become the most expensive. The financial pressure is already visible.",
+      "source": "MIT Technology Review AI",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "category": "Research",
+      "date": "2026-11-02T13:10:32.000Z",
+      "hot": false,
+      "officialUrl": "https://www.technologyreview.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/11/02/iphone-duo-latest-buyer-wait-times/",
+      "title": "iPhone Duo: Latest Buyer Wait Times",
+      "summary": "IPhone Duo order wait times averaged 89 days despite falling by a week, according to UBS Investment Bank data as of October 30. (Via Investing.com.) The USB Evidence Lab tracker covers iPhone availability across more than 30 markets, and puts the iPhone Duo buyer wait time at nearly three months, even after the slight improvement. By comparison, iPhone 18 Pro wait times averaged around five days, down three days from the previous week, while the Pro Max held steady at roughly 18 days. UBS said reports of cracked screens were unlikely to be the main reason for shorter Duo waits. But on their own, the figures don't tell us whether demand has weakened or supply has improved. iPhone Duo pre-orders slipped to late January within minutes on the device's October 16 launch, but most people who queued on launch day walked away with a new phone.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/11/02/iphone-duo-latest-buyer-wait-times/",
+      "category": "Tech",
+      "date": "2026-11-02T12:32:29.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "6ad7d51fa4cc6513f80c0e64",
+      "title": "When You Should—and Shouldn’t—Use AI to Search the Web",
+      "summary": "If you've interacted with the likes of Claude, ChatGPT, and Gemini, you've noticed that in addition to everything else they do, these AI chatbots can search the web for you. Depending on what you’re looking for, it can be easier to find more relevant results through a chatbot, which may explain why Google is so keen to push AI Mode for its own search engine. When asked to search the web, the latest versions of these bots are combining elements of traditional web search (they're essentially just googling on your behalf) with knowledge they are able to pull out of their training data. Everything is then packaged and formatted in the now-familiar, polished generative AI style. It's the added AI elements on top of the traditional googling where the differences come in, and that means AI-powered search may not always be the best option. If you're looking up something simple and widely known—like the height of the Empire State Building—then AI search is a pretty safe bet.",
+      "source": "Wired AI",
+      "sourceUrl": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
+      "category": "Industry",
+      "date": "2026-11-02T12:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.wired.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/11/02/iphone-duo-missing-display-zoom-option/",
+      "title": "iPhone Duo Owners Can't Change Display Zoom After Setup",
+      "summary": "Some iPhone Duo owners have discovered that Apple's first foldable is missing a pretty important appearance setting that you can adjust during the initial setup process, but not afterwards. Display Zoom setting on iPhone 18 Pro (left) vs. iPhone Duo When you first set up an iPhone Duo (or indeed any iPhone), an option screen called Appearance lets you choose how you would like text and icons to look on the screen. You can choose Default, Medium, or Large. Usually, you can adjust your initial choice at any time by going into Settings ➝ Appearance and tapping Display Zoom. On the iPhone Duo, however, that option is missing, so you're basically stuck with the setting you chose during setup.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/11/02/iphone-duo-missing-display-zoom-option/",
+      "category": "Tech",
+      "date": "2026-11-02T11:54:33.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "108502453",
@@ -88,28 +610,6 @@
       "date": "2026-11-02T10:36:19.000Z",
       "hot": false,
       "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "01IvkVP5oLWyZPdlNxespAP",
-      "title": "Early Black Friday robot vacuum deal: The self-emptying Dreame L40 Ultra Gen 2 is $250 off",
-      "summary": "2, the Dreame L40 Ultra Gen 2 Robot Vacuum and Mop is down to $499.98 at Amazon (was $749.99). That's a 33% discount on a hands-off cleaner with massive 25,000Pa suction, an extendable mop, and a self-cleaning dock. Opens in a new window Credit: Dreame Dreame L40 Ultra Gen 2 Robot Vacuum and Mop $499.98 at Amazon $749.99 Save $250.01 Get Deal at Amazon Robot vacuums should make life easier, but cheap ones usually just get stuck on socks and make a bigger mess. If you want a hands-off machine that vacuums and mops well, it usually costs near a thousand bucks. Right now, Amazon has the Dreame L40 Ultra Gen 2 down to $499.98. That knocks $250 off its standard $749.99 sticker price — a huge 33% discount on a bot that cleans your floors and cleans itself.This robot vacuum delivers 25,000Pa of suction across five adjustable levels, so it easily lifts stubborn pet hair, tracked-in dirt, and fine dust from high-traffic carpets and hard floors.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/nov-2-dreame-l40-ultra-robot-vacuum-mop-early-black-friday-deal",
-      "category": "Tech",
-      "date": "2026-11-02T10:05:14.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
-      "id": "03ItYmJT07K3myun7A0mEgL",
-      "title": "Sam Altman wants all the worlds RAM to himself, and the memes are hilarious",
-      "summary": "Got a computer, phone, or a tablet with some memory chips inside? You shouldn't be doing that. Well, at least not according to OpenAI's Sam Altman, who shared his view on the rampant memory shortage in an interview on the YouTube Cheeky Pint and Stripe channel.The entire interview is an interesting listen if you're into AI, but the fun part starts at about 29:20 in the video. \"From a global allocation perspective, actually it's quite terrible to have everybody have a bunch of the world's limited DRAM supply sitting in their own computer,\" said Altman without batting an eyelash. True, Altman was making a broader point, and he did speak after a few pints of beer, but the comment is still pretty cheeky at a moment in which everyone buying any sort of electronic device that uses RAM memory is facing higher prices, precisely because the big business' hunger for AI compute is sucking in all of the world's RAM chips. The internet, of course, had something to say about Altman's seemingly never-ending lust for DRAM chips.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/sam-altman-ram-memes",
-      "category": "Tech",
-      "date": "2026-11-02T10:03:35.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
     },
     {
       "id": "6ace3a4387812505ce91e493",
@@ -145,20 +645,9 @@
       "officialUrl": "https://feeds.macrumors.com"
     },
     {
-      "id": "034PMRNFRmIbsK8iLwKjXAY",
-      "title": "T-Mobile is giving away the Apple iPhone for free — how to claim",
-      "summary": "TL;DR: The Apple iPhone 17 and Apple iPhone 18 Pro are free right now with T-Mobile. Opens in a new window Credit: Apple T-Mobile: Best deals on Apple iPhones Get Deal The 2026 Apple Event feels like it took place a long time ago, but the dust is still settling. Apple announced a wave of new hardware and software, headlined by its first foldable iPhone. We're still digging deep into all the new features and stylistic touches, but we know what you really want — deals.We know that's the priority after new models launch. With this in mind, we've lined up the best deals this week so you can get your hands on the iPhone 18 Pro (or the iPhone 17) for the lowest possible rate.These are the best iPhone deals from T-Mobile this week:iPhone 17e — free when you switch to almost any T-Mobile plan with no trade-in required.iPhone 17 — free when you trade in an eligible phone in good condition on an Experience More or Experience Beyond plan.iPhone 17 Pro — free when you trade in an eligible phone in any condition on an Experience Beyond plan.iPhone 18 Pro — free when you switch and bring your number on an Experience Beyond plan.iPhone 18 Pro Max — save $1,200 when you switch and bring your number, or trade in an eligible device in any condition, on an Experience Beyond plan.iPhone Duo — save $1,200 when you switch and bring your number, or trade in an eligible device in any condition, on an Experience Beyond plan.T-Mobile will charge taxes on these deals, as well as a $35 device connect...",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/free-apple-iphone-deal",
-      "category": "Tech",
-      "date": "2026-11-02T09:39:59.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
       "id": "https://www.technologyreview.com/?p=1147846",
       "title": "The agentic web is here",
-      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous software agents that could address our every need, without requiring us to muck about with browsers and search engines ourselves. To illustrate what this might look like, Berners-Lee and his colleagues told a story about a pair of siblings who use their agents to automatically research and book a physical therapy appointment for their mother, making sure it would be covered by insurance and fit their busy calendars. At the turn of the millennium, this vision seemed far-fetched: Google had only been online for a couple of years, and most people were still on dial-up connections. But a quarter-century on, the dream of autonomous software agents that use the internet and carry out tasks for us has finally been realized. New tools such as Meta’s blockbuster Muse agent and OpenAI’s Dots are logging record downloads and being given access to people’s bank accounts and email inboxes, and Anthropic launched a research preview of its own Claude Duet agent in October. And in a worrying incident, agents created by OpenAI broke free of their badly protected sandbox and caused havoc on the open web. Just as the rise of smartphones sparked the development of a more atomized and attention-grabbing ...",
+      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous software agents that could address our every need, without requiring us to muck about with browsers and search engines ourselves. To illustrate what this might look like, Berners-Lee and his colleagues told a story about a pair of siblings who use their agents to automatically research and book physical therapy appointments for their mother, making sure they would be covered by insurance and fit their busy calendars. At the turn of the millennium, this vision seemed far-fetched: Google had only been online for a couple of years, and most people were still on dial-up connections. But a quarter-century on, the dream of autonomous software agents that use the internet and carry out tasks for us has finally been realized. New tools such as Meta’s blockbuster Muse agent, OpenAI’s Dots, and Anthropic’s Claude Duet are being given access to people’s email inboxes and bank accounts, Meanwhile, in a series of worrying incidents, agents created by OpenAI broke free of their sandboxes and caused havoc online. Just as the rise of smartphones sparked the development of a more atomized and attention-grabbing internet, the advent of powerful AI systems heralds a new era: We’re facing not the semant...",
       "source": "MIT Technology Review AI",
       "sourceUrl": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
       "category": "Research",
@@ -169,13 +658,35 @@
     {
       "id": "https://www.macrumors.com/2026/11/02/apple-launching-five-new-products-this-friday/",
       "title": "Apple Launching Five New Products This Friday",
-      "summary": "Apple is releasing five new products this Friday, November 6, following pre-orders that opened last week, including its first touchscreen MacBook Pro models. The following new products will be available from Friday: iPad mini with OLED display and A20 Pro chip iMac with M6 chip 14-inch MacBook Pro with M6 chip 14-inch MacBook Pro with OLED touchscreen 16-inch MacBook Pro with OLED touchscreen The iPad mini starts at $699, the iMac starts at $1,499, and the M6 MacBook Pro at $1,999. Pricing for the MacBook Pro with OLED touchscreen starts at $2,899 for the 14-inch model and $3,399 for the 16-inch model. All five remain available to pre-order, with shipping dates generally looking good for launch-day delivery. The only exception is the base 14-inch touchscreen MacBook Pro – Space Black, ships in 3-4 weeks, while Silber ships in 7-10 business days. This article, \"Apple Launching Five New Products This Friday\" first appeared on MacRumors.comDiscuss this article in our forums",
+      "summary": "Apple is releasing five new products this Friday, November 6, following pre-orders that opened last week, including its first touchscreen MacBook Pro models. The following new products will be available from Friday: iPad mini with OLED display and A20 Pro chip iMac with M6 chip 14-inch MacBook Pro with M6 chip 14-inch MacBook Pro with OLED touchscreen 16-inch MacBook Pro with OLED touchscreen The iPad mini starts at $699, the iMac starts at $1,499, and the M6 MacBook Pro at $1,999. Pricing for the MacBook Pro with OLED touchscreen starts at $2,899 for the 14-inch model and $3,399 for the 16-inch model. All five remain available to pre-order, with shipping dates generally looking good for launch-day delivery. The only exception is the base 14-inch touchscreen MacBook Pro – Space Black ships in 3-4 weeks, while Silver ships in 7-10 business days. This article, \"Apple Launching Five New Products This Friday\" first appeared on MacRumors.comDiscuss this article in our forums",
       "source": "MacRumors",
       "sourceUrl": "https://www.macrumors.com/2026/11/02/apple-launching-five-new-products-this-friday/",
       "category": "Tech",
       "date": "2026-11-02T09:22:23.000Z",
       "hot": false,
       "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://openai.com/index/lifeval",
+      "title": "LifeVal",
+      "summary": "Measuring AI progress on the tasks that matter in everyday life. ShareOpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. For the more than one billion people who currently use ChatGPT every week, OpenAI want to build AI that can help with the practical challenges of everyday life, like finding childcare, accessing government services, creating a budget, preparing for school, modifying recipes, ordering groceries, designing workout plans, and more. When someone is looking for help making their life easier, they need more than advice or a chat response. To be a truly helpful personal assistant, ChatGPT should be able to take actions that actually get things done. To measure model performance over time on everyday tasks, OpenAI built an evaluation of tasks covering areas where users wanted the most help from AI and personal agents.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/lifeval",
+      "category": "Models",
+      "date": "2026-11-02T09:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://openai.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6020442",
+      "title": "Meta is already working on its second-gen humanoid robot, but don’t expect it to land in homes an...",
+      "summary": "Meta appears to be getting serious about bringing artificial intelligence out of the screen and into the physical world. The company has built a humanoid robot prototype with Chinese robotics firm Fourier, and it is already developing a second-generation version. However, before anyone starts imagining a robot folding laundry or handling household chores, there is a fairly important caveat: this is still research and development, with no launch date in sight. According to The Information, which cited people familiar with the project, Meta and Fourier built the prototype, internally called Max, in around three months. The roughly 48kg robot is part of Meta's broader ambition to develop humanoids that could eventually carry out everyday tasks in people's homes. Standing around 1.5 metres tall, Max runs on Nvidia's Jetson Thor chip and features a screen that can mimic facial expressions, built-in speakers and five-fingered hands.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/computing/meta-is-already-working-on-its-second-gen-humanoid-robot-but-dont-expect-it-to-land-in-homes-anytime-soon/",
+      "category": "Tech",
+      "date": "2026-11-02T08:46:12.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
     },
     {
       "id": "108500929",
@@ -189,6 +700,23 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
+      "id": "https://www.digitaltrends.com/?p=6020433",
+      "title": "Anthropic cracks down on video game cloning with new Claude restrictions",
+      "summary": "AI has been making its way into video game development for a while now, but the recent developments have started raising some serious concerns. Popular games are being reverse-engineered with AI assistance, recreated for web browsers, and made playable on platforms they were never released for. Between all that, indie developers have started pulling down their demos over fears of getting copied. Anthropic has now stepped in with new restrictions for Claude Code. The change was first spotted on X and subsequently confirmed by Anthropic's Addy Osmani. The new instructions prevent Claude from recreating specific existing games, even if they are renamed or presented as original projects.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/computing/anthropic-cracks-down-on-video-game-cloning-with-new-claude-restrictions/",
+      "category": "Tech",
+      "date": "2026-11-02T06:00:34.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com",
+      "relatedCoverage": [
+        {
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones"
+        }
+      ]
+    },
+    {
       "id": "108500668",
       "title": "Sam Altman makes surprise South Korea visit as OpenAI builds on chip partnerships",
       "summary": "OpenAI CEO Sam Altman made an unannounced visit to South Korea over the weekend, meeting with Samsung executives and reportedly SK Group executives.",
@@ -200,37 +728,26 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
-      "id": "https://www.engadget.com/2300332/how-long-new-apple-tv-last-lifespan/",
-      "title": "How long is a new Apple TV actually supposed to last?",
-      "summary": "Older Apple TVs have received up to a decade of updates, but Apple doesn't promise that. Karlis Dambrans/Shutterstock Add Engadget on Google: Preferred Source Google Discover At $299, the new Apple TV 4K is a lot to pay for a little black box that sits under your TV waiting for you to pick a show to watch. The fourth-generation model will be available November 13 with an A19 chip, an improved Siri Remote and hands-free Siri controls. For that price, how many years can you expect it to last before the next upgrade beckons? Apple doesn't guarantee how many updates will be available for tvOS or how long its streaming boxes will be supported. But its history is a pretty good indication.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2300332/how-long-new-apple-tv-last-lifespan/",
-      "category": "Tools",
-      "date": "2026-11-02T01:30:00.000Z",
+      "id": "https://www.digitaltrends.com/?p=6020424",
+      "title": "AI doesn’t have to turn evil to put you at risk",
+      "summary": "An AI assistant that agrees with everything you say might feel like the perfect companion — until you need someone to tell you you're wrong. That's one of the more immediate dangers behind the idea of AI \"going rogue.\" A chatbot can cause harm without developing intentions of its own. It can reinforce a false belief, encourage an unhealthy attachment, or follow instructions planted by someone trying to hijack it. On October 15, AI safety company Alice announced new software to address those everyday risks. Working separately with Inflection AI and AI21, the company says it helped train NVIDIA's Nemotron models to resist harmful conversational behavior and malicious instructions while preserving their usefulness. The potential consumer benefit is straightforward: assistants that know when to push back, and that are harder to trick.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/cool-tech/ai-doesnt-have-to-turn-evil-to-put-you-at-risk/",
+      "category": "Tech",
+      "date": "2026-11-02T01:00:00.000Z",
       "hot": false,
-      "officialUrl": "https://www.engadget.com"
+      "officialUrl": "https://www.digitaltrends.com"
     },
     {
-      "id": "https://www.engadget.com/2300324/android-auto-next-update-could-upset-work-life-balance/",
-      "title": "Android Auto could upset your work-life balance with its next update",
-      "summary": "A hidden Work Mode tile hints at support for employer-managed apps, but no word on when it might arrive. Reyanaska/Shutterstock Add Engadget on Google: Preferred Source Google Discover Your commute could soon come with a little more office baggage. An Android Authority teardown of Android Auto version 18.0.664204 revealed a Work Mode tile, suggesting Google may be testing new Work Profile controls. The site's team managed to bring up the tile, which lit up a briefcase icon over the app drawer, but tapping the tile didn't do anything. Supporting Work Profiles could make it easier to join work calls between appointments. Then again, it could also give the office another way to follow you into the car, which isn't exactly everyone's idea of a peaceful drive.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2300324/android-auto-next-update-could-upset-work-life-balance/",
-      "category": "Tools",
-      "date": "2026-11-02T00:30:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
-      "id": "https://www.engadget.com/2300320/ai-glasses-replace-prescription-should-they/",
-      "title": "AI glasses can replace your prescription glasses, but should they?",
-      "summary": "AI glasses have a lot of benefits, but they're still not the best option for everyday glasses. TannySolt/Shutterstock Add Engadget on Google: Preferred Source Google Discover AI-powered smart glasses have become quite popular — and also quite controversial, with a German nonprofit files criminal complaint over Meta smart glasses privacy already. And if you wear glasses every day, chances are you've probably already wondered if you can replace your prescription glasses with a pair of AI glasses. The short answer is yes, you can get AI glasses with prescription lenses. But there are a lot of factors you should consider before making that decision — from weight and privacy to battery life. AI glasses require a bit of extra care that you don't need with regular glasses, and not everyone may be willing to deal with that.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2300320/ai-glasses-replace-prescription-should-they/",
-      "category": "Tools",
+      "id": "https://openai.com/index/qodo-codex-plugin",
+      "title": "Qodo builds context into AI code review with Codex",
+      "summary": "Qodo brings organizational context and codebase standards into Codex, helping developers catch P0 issues across repositories. (opens in a new window)Company size: StartupRegion: North AmericaIndustry: TechnologyProducts: API, CodexLoading…ShareFinding P0 bugs across repositories with CodexFinding P0 bugs across repositories with CodexAutomating review while keeping human judgmentPutting Codex to work every dayChoosing which coding rules apply with the Decisions APIBuilding software factories customers can ownFinding P0 bugs across repositories with CodexAutomating review while keeping human judgmentPutting Codex to work every dayChoosing which coding rules apply with the Decisions APIBuilding software factories customers can ownQodo⁠(opens in a new window) builds AI tools for code review and software quality, giving coding agents the organizational knowledge they need to understand the code they change. Co-founder and CEO Itamar Friedman calls it “the coding agent’s best friend.” Qodo uses OpenAI models including GPT‑6 Astra to gather engineering knowledge, review code, and monitor software quality. Its Codex plugin brings that context and review into developers’ coding sessions. Itamar describes customer environments that can span 10,000 or more repositories, where a local code change can break a downstream service, even if it looks correct on its own.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/qodo-codex-plugin",
+      "category": "Models",
       "date": "2026-11-02T00:00:00.000Z",
       "hot": false,
-      "officialUrl": "https://www.engadget.com"
+      "officialUrl": "https://openai.com"
     },
     {
       "id": "https://aiweekly.co/issues/ai-week-ahead-data-center-pause-backers-could-win-15",
@@ -244,26 +761,86 @@
       "officialUrl": "https://aiweekly.co"
     },
     {
-      "id": "https://www.engadget.com/2300309/how-to-clean-playstation-5-without-damaging/",
-      "title": "How to clean your PlayStation 5 without damaging it",
-      "summary": "There’s no need to tear down your PlayStation 5 to do a basic maintenance cleaning, but you shouldn't neglect this either. Lightspruch/Shutterstock Add Engadget on Google: Preferred Source Google Discover Cleaning a PlayStation 5 isn't as exciting as playing its best games, but it's important to do on occasion. With PlayStation 5 prices climbing, you don't want to suddenly be in the market for a new console because of a total lack of maintenance. Dust buildup in the system restricts airflow and makes your system work harder to cool itself. But overzealous cleaning can be dangerous, too. When cleaning your PS5, it's best to keep it simple and only go deeper if needed.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2300309/how-to-clean-playstation-5-without-damaging/",
-      "category": "Tools",
-      "date": "2026-11-01T23:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
+      "id": "https://x.ai/news/data-bot?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Grok Bot's Data Bot Gives Every Team On-Demand Data Science Expertise",
+      "summary": "At SpaceXSI, our data science team works across the company, helping teams answer difficult questions and finding new ways to incorporate data into our products. Over time, we've developed an intuition for our data, including how to interpret it and where its limitations lie. But our small team cannot answer every question that arises in a fast-growing company. People come to us throughout the day with questions that may be straightforward but still require our expertise to answer accurately. This can easily make us a bottleneck. A few months back, we started exploring how AI agents could change that relationship.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://x.ai/news/data-bot?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-11-02T00:00:00.000Z",
+      "hot": false
     },
     {
-      "id": "004bwj2XJ2QFkzDC3iPmOQK",
-      "title": "Become a Claude power user with this $20 E-Degree",
-      "summary": "TL;DR: Stop underutilizing Claude and unlock its full potential with some help from the Claude AI Professional E-Degree, on sale now for just $19.99 (reg. Opens in a new window Credit: Eduonix Learning Solutions Claude AI Professional E-Degree $19.99 $159 Save $139.01 Get Deal Learning to use AI efficiently is becoming increasingly important, whether you're working on personal projects or trying to incorporate it into your workflow. The Claude AI Professional E-Degree gives you a structured way to master one of the most popular AI models, with lessons on prompting, coding, and integrations to help you put your knowledge into practice.Right now, you can secure the Claude AI Professional E-Degree for just $19.99.When it comes to AI, you don't want to miss the boat. The Claude AI Professional E-Degree lets you keep up without having to head back to school or spend hours doing your own research. This 8-hour E-Degree shows you how it works, how to prompt, how to use it for coding and integrations, and a whole lot more.The Claude AI Professional E-Degree is taught by Eduonix Learning Solutions, a professional team of technology trainers who teach you how to use these skills the way they're used in the real world.You can work through the four hands-on modules at your own pace and go from a Claude beginner to an expert user. Start with Claude Chat: Best Practices, where you learn how to craft the most effective prompts and achieve the best results.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/nov-1-claude-ai-professional-e-degree",
-      "category": "Tech",
-      "date": "2026-11-01T22:00:00.000Z",
+      "id": "https://claude.com/resources/articles/message-threads?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Anthropic's Claude API Adds Message Threads Beta to Cut Agent Latency by 35%",
+      "summary": "Make long-running agents faster with message threadsNew in the Messages API, send your conversation once, and the API receives only what’s new with every turn. CategoryAnnouncementsProductClaude PlatformDateNovember 2, 2026Reading time3 minShareCopy linkMessage threads is now available in public beta on the Claude Platform. With message threads, agents no longer need to resend the full conversation history on every turn, reducing latency for long-running sessions. A coding agent might make hundreds of requests in one session, and each request resends every earlier message and tool result. Once a conversation reaches hundreds of thousands of tokens, resending all of it adds time before Claude starts responding. With message threads, agents send only what’s new since the last turn, which reduces time to first token (TTFT).",
+      "source": "FutureTools News",
+      "sourceUrl": "https://claude.com/resources/articles/message-threads?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-11-02T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://openai.com/index/grid-protectors-program/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "OpenAI Launches Grid Protectors Program to Balance AI Power Demand on US Electric Grid",
+      "summary": "Launching a national program to help our future compute campuses support reliable, affordable electricity. ShareA model in GeorgiaA model in GeorgiaLooking forwardA model in GeorgiaLooking forwardToday we’re launching the Grid Protectors Program, a national effort to support affordable, reliable electricity for families and businesses in the communities where we build. Working with utilities, regulators and policymakers, we’ll develop arrangements for our future campuses to reduce electricity demand when the grid is under strain. Whether it’s heating homes during a northern cold snap or running air conditioning through a southern heat wave, families need reliable electricity. Our goal is to make campus flexibility a resource that utilities can call on when communities need it most. data center capacity projected to exceed 100 gigawatts by 2030⁠(opens in a new window), we have a once-in-a-generation opportunity to strengthen the electric grid by building campuses that can adjust their power use when communities need it most.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://openai.com/index/grid-protectors-program/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-11-02T00:00:00.000Z",
       "hot": false,
-      "officialUrl": "https://mashable.com"
+      "relatedCoverage": [
+        {
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/grid-protectors-program"
+        }
+      ]
+    },
+    {
+      "id": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "42AI Exits Stealth With $62.5M to Build Behavioral World Model Predicting Human Decisions",
+      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+      "source": "FutureTools News",
+      "sourceUrl": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-11-02T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "SpaceX's Grok Bot Usage Limits Cut as Musk Cites \"Unsustainably High\" Costs",
+      "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+      "source": "FutureTools News",
+      "sourceUrl": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-11-02T00:00:00.000Z",
+      "hot": false,
+      "relatedCoverage": [
+        {
+          "source": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/"
+        }
+      ]
+    },
+    {
+      "id": "https://www.hume.ai/blog/introducing-hume-audio-decision-api?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Hume AI Launches Audio Decision API to Analyze Speech Emotion and Sound in Real Time",
+      "summary": "Hume AI has launched its Audio Decision API, an audio-native model that answers custom questions about speech and sound in real time. Unlike transcript-based systems, it processes raw audio directly, returning structured probability scores for yes/no, multiple choice, scale, or span questions — no retraining required. Use cases include detecting caller frustration, identifying AI-generated voices, and searching 40,000 recordings in minutes. The model achieved 70.7% agreement with human panel judgments, outperforming existing methods on accuracy, speed, and cost.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.hume.ai/blog/introducing-hume-audio-decision-api?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-11-02T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "OpenAI Merges ChatGPT and Codex Usage Limits Into Shared Token Allowance",
+      "summary": "Starting in December, Plus, Pro, and Business plans’ usage allowance will be shared across ChatGPT and Codex as we bring the agentic capabilities of Work into the main ChatGPT experience. Your usage for ChatGPT and Codex will be measured in tokens, the units of information a model processes and generates. How much of your allowance you use will depend on the model you choose and the task you ask it to do. More advanced models and complex tasks generally use more of your allowance. Instant chat will not draw from your usage. We’re preparing carefully for this transition to help prevent disruption to your workflows.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-11-02T00:00:00.000Z",
+      "hot": false
     },
     {
       "id": "https://techcrunch.com/?p=3184048",
@@ -277,17 +854,6 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "https://www.engadget.com/2303469/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/",
-      "title": "Anthropic updates Claude to stop it from recreating existing video games",
-      "summary": "Users can still lean on Claude to help with designing original or genre games. Cheng Xin/Getty Images Add Engadget on Google: Preferred Source Google Discover Claude will no longer allow its users to make AI recreations of their favorite video games. As first discovered by an X user, Anthropic updated Claude with some new lines of code that read, \"Do build original games, games in a genre, and games from the user's own designs and assets. Do not build a recreation of a specific existing game, even if it is renamed or called original.\" The changes were confirmed by Addy Osmani, a member of Anthropic's technical staff, on X, who said the company wants to \"to steer it away from recreating someone else's specific game because using Claude to infringe IP is against our usage policy.\" Osmani clarified that any original game, genre game or games that are made with a user's own designs and assets should be unaffected, adding that Anthropic will \"continue to iterate to ensure we're striking the right balance.\" The changes come at a time when there's been a surge of AAA games being decompiled with the help of AI and made available to play on browsers.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2303469/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/",
-      "category": "Tools",
-      "date": "2026-11-01T21:08:32.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
       "id": "https://techcrunch.com/?p=3184041",
       "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
       "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
@@ -299,34 +865,6 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "https://www.macrumors.com/2026/11/01/m5-macbook-air-200-off/",
-      "title": "Nearly Every M5 MacBook Air Now $200 Off on Amazon",
-      "summary": "Amazon is taking $200 off nearly every model of the M5 MacBook Air this weekend, with matches of the best post-hike prices we've ever seen on the computer. Prices now start at $1,099.99 for the 512GB 13-inch model and $1,299.99 for the 512GB 15-inch model. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Not only is every storage configuration on sale at these all-time low prices, but Amazon has nearly every color in stock as well. Free delivery estimates place most computers arriving around early next week, while Prime members should see it sooner.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/11/01/m5-macbook-air-200-off/",
-      "category": "Tech",
-      "date": "2026-11-01T17:33:43.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com",
-      "relatedCoverage": [
-        {
-          "source": "Mashable Tech",
-          "url": "https://mashable.com/tech/nov-2-macbook-air-early-black-friday-deal"
-        }
-      ]
-    },
-    {
-      "id": "075V4INpwVPdHtOv6qUwmZF",
-      "title": "Anthropic expands text watermarking to older Claude versions beginning November 3",
-      "summary": "As we first reported in early August, Anthropic has bowed to demands from EU legislators that AI-generated text carry a hidden watermark, to help eventually distinguish between human- and AI-generated content. The initial watermark rollout only applied to the latest and greatest versions of Claude, but on Friday Anthropic alerted its users that an expansion of the watermark would soon roll out to Claude Mythos 5, Claude Opus 4.7, Claude Opus 4.6 and Claude Sonnet 4.6, starting on November 3. According to the AI giant, it will be the same watermarking technology already in use in Opus 5.5, based on \"an imperceptible pattern in word choice\" that won't change the accuracy or readability of its output, or contain any identifying information about the user or organization working with Claude. But it's one thing to worry about the function of artificial intelligence and another to worry about the human element. Lawyers have been caught using AI-generated citations, novelists have been caught relying on AI to write entire books, and scientific researchers have been caught using AI in the peer review process. For all the problems solved by AI use, and the mundane busywork it so ably processes in seconds rather than hours, it also creates a powerful incentive for humans to cut corners and lie about it, so it will be interesting to see if widespread watermarking helps keep the human element honest.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/anthropic-expands-text-watermarking-to-older-claude-versions",
-      "category": "Tech",
-      "date": "2026-11-01T16:59:47.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
       "id": "108465397",
       "title": "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-term strategy",
       "summary": "As companies from Amazon to JPMorgan block AI personal agents like Meta's Muse, retail experts warn that technology that removes customer friction usually wins.",
@@ -336,17 +874,6 @@
       "date": "2026-11-01T16:34:43.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/11/01/three-new-ipads-in-first-half-of-2027/",
-      "title": "Three New iPads Rumored to Launch in First Half of 2027",
-      "summary": "After announcing a new iPad mini with an OLED display earlier this month, Apple plans to release new iPad Air, iPad Pro, and entry-level iPad models in the first half of 2027, according to the latest word from Bloomberg's Mark Gurman. As for the entry-level iPad 12, previously rumored features for the device include an A19 chip that enables Apple Intelligence support, an N1 chip with Wi-Fi 7 support, and Apple's power-efficient C1X modem in cellular models.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/11/01/three-new-ipads-in-first-half-of-2027/",
-      "category": "Tech",
-      "date": "2026-11-01T15:27:23.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "108483056",
@@ -393,17 +920,6 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
-      "id": "https://www.macrumors.com/2026/11/01/apple-offers-steps-to-fix-dst-apple-watch-bug/",
-      "title": "Apple Offers Steps to Fix Daylight Saving Time Bug on Apple Watch",
-      "summary": "Apple has published a support document describing what to do if your Apple Watch continues to show time that's off by one hour after daylight savings time changes. \"This incorrect time appears only on the Always On display when your wrist is down,\" says Apple. \"When you activate the display by tapping it or raising your wrist, the time changes to the correct hour.\" To fix the issue, Apple says to switch to another watch face then back again, or to restart your watch. MacRumors previously reported Apple Watch users similarly affected in Europe when clocks went back there the other week. Clocks went back across most of the U.S. on Sunday, November 1.Related Roundups: Apple Watch 12, Apple Watch SE 3, Apple Watch Ultra 4Buyer's Guide: Apple Watch (Buy Now), Apple Watch SE (Neutral), Apple Watch Ultra (Buy Now)Related Forum: Apple WatchThis article, \"Apple Offers Steps to Fix Daylight Saving Time Bug on Apple Watch\" first appeared on MacRumors.comDiscuss this article in our forums",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/11/01/apple-offers-steps-to-fix-dst-apple-watch-bug/",
-      "category": "Tech",
-      "date": "2026-11-01T11:34:49.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
       "id": "6ae100238620da29e32c576d",
       "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
       "summary": "Courtesy of high Country News This story originally appeared on High Country News and is part of the Climate Desk collaboration. By the time the three hikers called for help from a rocky face on Mount Shasta in Northern California, they’d made a series of bad decisions. They didn’t bring enough food, and they’d overestimated their fitness. Instead of turning back in late afternoon when they hadn’t yet reached the top, they summited at 7:30 pm and had to descend in the dark. Their lack of preparation and poor planning, as they admitted later, came partly from relying on Google’s artificial intelligence chatbot Gemini. By morning, they were lost on a gnarly part of the mountain, and one hiker had banged up his knee.",
@@ -415,26 +931,35 @@
       "officialUrl": "https://www.wired.com"
     },
     {
-      "id": "04VuTgXTGC38HnE2K3SxfBX",
-      "title": "Voice cloning scams: How to protect yourself from audio deepfakes",
-      "summary": "Your phone rings, and without thinking, you answer it. Maybe the friend you're always posting TikToks with online. And they're asking for your help. They've been in a car accident, and you have to provide some personal information as their emergency contact. They're in jail and need you to bail them out. Or maybe it's even simpler than that: Grandma can't log into her account and needs to send you a code. Can you please read it to her? The familiar lilt of their voices catch you off guard — only none of them are real. Their voices have been cloned, and malicious actors are donning their audio likenesses to scam you out of your personal information, and sometimes cold, hard cash.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/how-to-protect-yourself-voice-clones-audio-deepfake",
-      "category": "Tech",
-      "date": "2026-11-01T10:00:00.000Z",
+      "id": "https://techcrunch.com/?p=3183712",
+      "title": "Data centers are now a midterm issue, even in Brooklyn",
+      "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+      "category": "Business",
+      "date": "2026-11-01T02:22:10.000Z",
       "hot": false,
-      "officialUrl": "https://mashable.com"
+      "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "007QcXHY3i376lNpVPe7WeZ",
-      "title": "The Apple iPhone 17 is yours for free this weekend — how to claim",
-      "summary": "TL;DR: The iPhone 17 is free when you trade in an eligible phone in good condition on T-Mobile's Experience More or Experience Beyond plans. The iPhone 17 Pro is also free when you trade in an eligible phone in any condition on an Experience Beyond plan. Opens in a new window Credit: Apple Apple iPhone 17 Free when you trade in an eligible phone in good condition on T-Mobile's Experience More or Experience Beyond plans. Shop Now Opens in a new window Credit: Apple iPhone 17 Pro Free when you trade in an eligible phone in any condition on an Experience Beyond plan. Shop Now Apple has spent recent months dropping an overwhelming flood of hardware, but if you aren't trying to drop four figures on the latest model, carrier promo season has officially entered its prime window.For those interested in investing in the Apple iPhone 17 or iPhone 17 Pro, we strongly recommend checking out T-Mobile right now. The popular carrier is offering free iPhone deals this weekend.The iPhone 17 is totally free when you trade in an eligible phone in good condition on T-Mobile's Experience More or Experience Beyond plans.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/nov-1-free-apple-iphone-17-early-black-friday-deal",
-      "category": "Tech",
-      "date": "2026-11-01T09:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
+      "id": "https://x.com/karpathy/status/2116957135661945283?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Karpathy Builds HackerTube With Claude in 2 Hours, Filtering 43M HN Comments for Better YouTube Recs",
+      "summary": "Weekend hack: HackerTube. I was annoyed with YouTube's recommendations so I had Claude filter down 43M comments over 20 years of HN to 6,454 videos that keep being recommended. *Significantly* better viewing experience, ~2 hours with Opus 5.5: https://t.co/JIhXN7OSh1 - Excellent recs without any l…",
+      "source": "FutureTools News",
+      "sourceUrl": "https://x.com/karpathy/status/2116957135661945283?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-11-01T00:00:00.000Z",
+      "hot": false
+    },
+    {
+      "id": "https://docs.x.ai/developers/advanced-api-usage/watermarking?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "SpaceXSI Adds Invisible Watermarks to Grok Model Outputs for EU AI Act Compliance",
+      "summary": "How the SpaceX Super Intelligence API marks text generated by Grok models with an invisible watermark, which outputs it covers, and how team admins opt out in the SpaceXSI Console.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://docs.x.ai/developers/advanced-api-usage/watermarking?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-11-01T00:00:00.000Z",
+      "hot": false
     },
     {
       "id": "https://techcrunch.com/?p=3184023",
@@ -514,105 +1039,6 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
-      "id": "https://www.macrumors.com/2026/10/31/apple-watch-ultra-4-99-discounts/",
-      "title": "Apple Watch Ultra 4 Hits All-Time Low Price With Amazon's $99 Discount",
-      "summary": "The Apple Watch Ultra 4 has dropped to $699.99 on Amazon, down from $799.00. This is a match of the all-time low price on the new Ultra 4, which just launched in September. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. There are three Ultra 4 models that are on sale at this price, including the Black model with Burgundy Alpine Loop (Large), the Black model with Burgundy Trail Loop (M/L), and the Natural model with Desert Alpine Loop (Medium). These are the lowest prices we've ever tracked on the brand new Apple Watch Ultra 4.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/10/31/apple-watch-ultra-4-99-discounts/",
-      "category": "Tech",
-      "date": "2026-10-31T15:54:52.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/10/31/beats-360-ear-cushions-discount-ends-today/",
-      "title": "Reminder: Apple's Big Discount on Beats 360 Ear Cushions Ends Today",
-      "summary": "Until the end of today, Performance Knit and UltraPlush ear cushions with matching headbands for the Beats 360 are available on Apple's online store in the U.S. for $9.99 each, with customers limited to three kits per order. Lower pricing extends to other countries. Starting November 1, regular pricing of $49.99 will apply.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/10/31/beats-360-ear-cushions-discount-ends-today/",
-      "category": "Tech",
-      "date": "2026-10-31T15:50:00.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/10/31/apple-homeview-software-tour/",
-      "title": "Here's a New Tour of Apple's HomeView Software",
-      "summary": "Broadcasts app developer Steve Troughton-Smith has shared a Halloween treat for us today: a tour of the software on Apple's upcoming HomeView smart home hub. Apple has already demoed the HomeView to selected tech reporters and content creators, but Troughton-Smith offers a closer look at several features, interfaces, and apps. Using a virtualized HomeView created by Guilherme Rambo, Troughton-Smith provided a closer look at the home screen, Control Center, clock faces like Flow and Snoopy, and apps like Timers, Alarms, World Clock, and Settings. Note that while the virtualized HomeView shows an Ethernet menu, the device actually supports Wi-Fi only. HomeView supports up to six users. The device has a built-in camera that can recognize people and display their personal content in apps like Messages, Calendar, Reminders, FaceTime, and Find My.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/10/31/apple-homeview-software-tour/",
-      "category": "Tech",
-      "date": "2026-10-31T15:47:40.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "108486744",
-      "title": "Stocks started the week with promise but ended in despair. Our take on the big reversal",
-      "summary": "Big Tech earnings reignited AI spending fears, sending investors into defensive stocks.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/investingclub/2026/10/31/stocks-started-the-week-with-promise-but-ended-in-despair.html",
-      "category": "Business",
-      "date": "2026-10-31T15:37:11.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=382306",
-      "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
-      "summary": "Here’s what we know so far about the Binance hack: how it happened, who’s behind it, and what comes next after the biggest crypto heist ever.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
-      "category": "Tech",
-      "date": "2026-10-31T15:01:02.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/10/31/ipad-mini-8-battery-capacity-mah-wh/",
-      "title": "Apple Reveals New iPad Mini's Battery Capacity",
-      "summary": "Apple has published an EU energy label for the iPad mini 8 that reveals the device has a battery capacity of 4,900 mAh, which is slightly lower than the 5,034 mAh capacity of the previous model's battery. Apple's website lists identical battery life estimates for both models, so it appears that the improved power efficiency of the A20 Pro chip in the new iPad mini helps to offset its slightly smaller battery. The new model is also equipped with an OLED display, which can be more power efficient than an LCD when displaying darker content, as there is no backlight and individual pixels turn off completely for the color black. For those who prefer watt-hour figures, Apple's tech specs show the new iPad mini has an 18.9 Wh battery, down from 19.3 Wh for the previous model. Model Battery Capacity (mAh) Battery Capacity (Wh) iPad mini 8 4,900 mAh 18.9 Wh iPad mini 7 5,034 mAh 19.3 Wh The new iPad mini features an 8.5-inch OLED display, a new Acoustic Display audio system instead of speaker holes, Wi-Fi 7 support, a 15% thinner and lighter design compared to the previous model, and more. The device is available to pre-order now and launches on Friday, November 6, with U.S.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/10/31/ipad-mini-8-battery-capacity-mah-wh/",
-      "category": "Tech",
-      "date": "2026-10-31T14:24:08.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=382274",
-      "title": "Why AI Models Cheat: Reward Hacking, Explained",
-      "summary": "From boat-racing bots to OpenAI models inside Hugging Face, here's how AI reward hacking works and why it matters.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/382274/why-ai-models-cheat-reward-hacking-explained",
-      "category": "Tech",
-      "date": "2026-10-31T13:01:03.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/10/31/top-stories-apple-macbook-pro-ipad-mini-imac-updates/",
-      "title": "Top Stories: Apple's Big MacBook Pro, iPad mini and iMac Updates",
-      "summary": "One busy week after another for Apple has left our heads spinning, with this week seeing several Mac updates as well as a revamped iPad mini. All of this week's craziness comes right on the heels of last Friday's iPhone Duo launch, not to mention all of the other products now available or still in pre-order status, so read on below for all of the details! Top Stories Everything Apple Announced This Week It's been a busy October for Apple, and the company ended the month with a bang by introducing a number of new products even as some of the previously announced ones from earlier this month have yet to become available. If you missed the news over the first three days of this week, we've rounded up all our coverage in one spot, so it's easy to take a look back. All of the new products are available for pre-order now, with a launch set for Friday, November 6. Apple Announces OLED MacBook Pro With Touch Display The headliner for the week was Wednesday's introduction of the MacBook Pro with PROLED XDR Display.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/10/31/top-stories-apple-macbook-pro-ipad-mini-imac-updates/",
-      "category": "Tech",
-      "date": "2026-10-31T13:00:12.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "108488216",
-      "title": "Humans are still doing the work behind some AI agents",
-      "summary": "AI agents from startups including Dazzle, Duckbill and Wajo still rely on human workers for calls and other real-world tasks when software falls short.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/10/31/ai-agents-humans-dazzle-duckbill-meta.html",
-      "category": "Business",
-      "date": "2026-10-31T12:00:01.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
       "id": "6ae370037389580e6da942a4",
       "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
       "summary": "New research shared exclusively with Kernel Panic shows that hackers have started adding AI functionality into a new strain of infostealer malware, making it possible for the system to automatically profile victims and quickly surface the highest value targets and their information. Dubbed “Volta-Autodoxer” because of how the malware refers to itself internally, the finding by Cisco Talos researchers sheds light on the ways that commercial LLMs are being used to augment and enhance the capabilities of established types of malware. “Volta is pretty mature as a stealer. It casts a pretty wide net for what it collects,” says Ryan Fetterman, a security researcher at Cisco Talos. “It compiles all of those things together, ultimately producing a serialized dossier that it can send to a couple LLM models. It’s asking the model to act like an intelligence analyst and produce structured citation-backed assessment of the victim.",
@@ -646,28 +1072,6 @@
       "officialUrl": "https://www.wired.com"
     },
     {
-      "id": "https://www.macrumors.com/2026/10/31/pluribus-season-2-starts-production-today/",
-      "title": "'Pluribus' Season 2 Reportedly Starts Production Today",
-      "summary": "Filming for the second season of Apple TV's \"Pluribus\" is expected to start today in Albuquerque, New Mexico, according to a report from Production List. The acclaimed sci-fi drama stars Rhea Seehorn and was created by Vince Gilligan. Its first season debuted on November 7, 2025, with a second season already commissioned. Apple has yet to announce when season two will premiere.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/10/31/pluribus-season-2-starts-production-today/",
-      "category": "Tech",
-      "date": "2026-10-31T06:41:45.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/10/31/iphone-18-pro-sales-surge-in-china/",
-      "title": "iPhone 18 Pro Sales Surge in China, Offsetting Decline in U.S. and Japan",
-      "summary": "China is doing much of the heavy lifting for Apple's iPhone 18 Pro launch, with a 29% sales increase helping offset declines in the U.S. and Japan, according to Counterpoint Research. Combined global sales of the &zwnj;iPhone 18 Pro&zwnj; and &zwnj;iPhone 18 Pro&zwnj; Max rose 3.1% during their first three weeks of availability compared with the equivalent launch period last year. sales fell 4%, while Japan recorded a 27% decline. Counterpoint attributed China's growth to better initial supply and higher prices for competing Android flagships. In the U.S., the firm said buyers perceived insufficient changes to features and design, despite additions such as the variable aperture camera.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/10/31/iphone-18-pro-sales-surge-in-china/",
-      "category": "Tech",
-      "date": "2026-10-31T05:55:35.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
       "id": "https://techcrunch.com/?p=3183989",
       "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
       "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
@@ -677,17 +1081,6 @@
       "date": "2026-10-31T01:20:05.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/10/30/homeview-software-27-2/",
-      "title": "HomeView Software 27.2: Wallpapers, Control Center, and More",
-      "summary": "Apple today released HomeView Software 27.2, which is the software that runs on the upcoming HomeView device set to launch on November 13. The HomeView was announced earlier in October, but the early software release gives us a look at features like wallpapers and reveals a few tidbits we didn't previously know. Wallpapers There are 20 default wallpapers to choose from on HomeView, with a range of colors. Users will also likely be able to set their own photo wallpaper. The HomeView uses faces, but the wallpapers may be shown on the Home Screen. View all 20 photos in the full article → Face Editing Guilherme Rambo shared an image of the HomeView's face editing interface, where users can choose the design they want to use on the HomeView's Lock Screen.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/10/30/homeview-software-27-2/",
-      "category": "Tech",
-      "date": "2026-10-30T23:15:55.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "https://techcrunch.com/?p=3183846",
@@ -712,39 +1105,6 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
-      "id": "108487479",
-      "title": "Cramer’s week ahead: Expect more volatility as tech earnings, midterms loom",
-      "summary": "Investors await earnings from Apple, AMD, and other major companies, as well as the midterm elections and the monthly jobs report.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/10/30/jim-cramer-week-ahead-apple-amd-jobs-report.html",
-      "category": "Business",
-      "date": "2026-10-30T22:17:13.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3183862",
-      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-      "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-      "category": "Business",
-      "date": "2026-10-30T21:54:34.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3183715",
-      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-      "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-      "category": "Business",
-      "date": "2026-10-30T21:52:03.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
       "id": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
       "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
       "summary": "Boom Supersonic CEO Blake Scholl recently declared “it’s time for a renaissance in energy and in supersonic flight” as the supersonic airliner company unveiled a Colorado factory dedicated to making gas turbines for AI data centers. But Boom may be facing turbulence after early backers for both ventures have questioned the company’s delivery timeline or backed out entirely. One of the company’s first customers, United Airlines CEO Scott Kirby, has expressed doubts about Boom’s original plan to deliver the first Overture supersonic airliner in 2029. Kirby’s latest frank assessment came during an interview with the Office Hours: Business Edition podcast that appeared on October 28, 2026. “‘29 is their official timeline,” Kirby told podcast host Monica Langley. “It’s not going to happen in ‘29—it’s going to take longer.”Read full article Comments",
@@ -754,17 +1114,6 @@
       "date": "2026-10-30T21:41:54.000Z",
       "hot": false,
       "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3183738",
-      "title": "Last-minute Halloween costumes for tech nerds",
-      "summary": "Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-      "category": "Business",
-      "date": "2026-10-30T21:26:59.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
     },
     {
       "id": "6ae2572fb8b2eb024a124f0c",
@@ -778,48 +1127,15 @@
       "officialUrl": "https://www.wired.com"
     },
     {
-      "id": "https://techcrunch.com/?p=3183832",
-      "title": "Cracks are emerging in the AI spending boom",
-      "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-      "category": "Business",
-      "date": "2026-10-30T21:17:40.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=382285",
-      "title": "Binance Hack Shows Why Offshore Exchanges Need US Oversight, CFTC Chair Says",
-      "summary": "The record-breaking hack of Binance is exactly why offshore crypto exchanges need U.S. oversight, CFTC Chairman Michael Selig argued.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/382285/binance-hack-why-offshore-exchanges-need-us-oversight-cftc-chair",
-      "category": "Tech",
-      "date": "2026-10-30T21:16:04.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
       "id": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
       "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-      "summary": "An official extension for Anthropic’s Claude model was backdoored and threatened as many as 5,000 developers' machines, multiple sources reported Friday. Anthropic so far has yet to warn customers of the incident. The compromised package was a VS Code extension available in the marketplace of Cursor, a maker of AI-assisted developer tools, the company said Friday. The malicious version, 2.1.313, subsequently affected “at most 5,000 users,” presumably when they either downloaded it or their systems automatically fetched and installed it. Anthropic pushed version 2.1.314 several hours after the previous version became available on Cursor, according to independent researcher Kevin Beaumont. Both Beaumont and the CTO and co-founder of security firm Phorio n said that version 2.1.313 was distributed through Anthropic’s official account on Cursor.",
+      "summary": "An official extension for Anthropic’s Claude model was backdoored and threatened as many as 5,000 developers' machines, multiple sources reported Friday. Anthropic so far has yet to warn customers of the incident. The compromised package was a VS Code extension available in the marketplace of Cursor, a maker of AI-assisted developer tools, the company said Friday. The malicious version, 2.1.313, subsequently affected “at most 5,000 users,” presumably when they either downloaded it or their systems automatically fetched and installed it. Anthropic pushed version 2.1.314 several hours after the previous version became available on Cursor, according to independent researcher Kevin Beaumont. Both Beaumont and the CTO and co-founder of security firm Phorion said that version 2.1.313 was distributed through Anthropic’s official account on Cursor.",
       "source": "Ars Technica AI",
       "sourceUrl": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
       "category": "Industry",
       "date": "2026-10-30T21:09:54.000Z",
       "hot": false,
       "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=382287",
-      "title": "Intel Stock Suffers Worst Crash in 50 Years as Weak Forecast Overshadows AI Chip Demand",
-      "summary": "Intel beat third-quarter earnings expectations, but warned of a prolonged PC slump, sending shares to their worst daily decline in 50 years.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/382287/intel-stock-suffers-worst-crash-in-50-years-as-weak-forecast-overshadows-ai-chip-demand",
-      "category": "Tech",
-      "date": "2026-10-30T20:53:23.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
     },
     {
       "id": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
@@ -835,7 +1151,7 @@
     {
       "id": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
       "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
-      "summary": "On August 9, 2026, Dartmouth College provost Santiago Schnell wrote a Washington Post op-ed called \"Universities are fighting AI cheating. But there’s a deeper problem.\" This week, Schnell discovered the depths of the problem himself as he resigned from the university after an advisory committee found that he failed to disclose significant AI use in an academic paper and in the Washington Post op-ed, even though publishers required such disclosure. Schnell didn't make it especially easy for the committee to investigate his AI use; the report uses the term \"insufficient cooperation.\" He did turn over his Dartmouth laptop, but he did not turn over logs from his personal LLM accounts related to the writings in question. Nor did he agree to meet with the committee. The committee did get access to the Claude enterprise account Schnell had used through Dartmouth, though. This shows him using the LLM as a tool for revising his papers, finding and fixing bugs in code, and editing or generating figures.",
+      "summary": "On August 9, 2026, Dartmouth College Provost Santiago Schnell wrote a Washington Post op-ed called \"Universities are fighting AI cheating. But there’s a deeper problem.\" This week, Schnell discovered the depths of the problem himself as he resigned from the university after an advisory committee found that he failed to disclose significant AI use in an academic paper and in the Washington Post op-ed, even though publishers required such disclosure. Schnell didn't make it especially easy for the committee to investigate his AI use; the report uses the term \"insufficient cooperation.\" He did turn over his Dartmouth laptop, but he did not turn over logs from his personal LLM accounts related to the writings in question. Nor did he agree to meet with the committee. The committee did get access to the Claude enterprise account Schnell had used through Dartmouth, though. This shows him using the LLM as a tool for revising his papers, finding and fixing bugs in code, and editing or generating figures.",
       "source": "Ars Technica AI",
       "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
       "category": "Industry",
@@ -855,28 +1171,6 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
-      "id": "https://decrypt.co/?p=382282",
-      "title": "Worried About Crypto Hacks? Buy Bitcoin Proxies in Stock Market Instead, Say Wall Street Firms",
-      "summary": "Wall Street analysts are telling clients the record-breaking hack of Binance is a buying opportunity, not a reason to flee.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/382282/crypto-hacks-buy-bitcoin-proxies-stock-market-wall-street",
-      "category": "Tech",
-      "date": "2026-10-30T20:06:03.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "https://decrypt.co/?p=382276",
-      "title": "Reddit Stock Plunges 30% as Google's AI Search Hits Traffic and User Growth",
-      "summary": "Reddit shares are down 44% this week after CEO Steve Huffman warned that Google's AI-powered search features are cutting referrals.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/382276/reddit-stock-plunges-30-googles-ai-search",
-      "category": "Tech",
-      "date": "2026-10-30T19:31:02.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
       "id": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
       "title": "Basically no one is using AI agents for their DoorDash orders",
       "summary": "Basically no one is using AI agents for their DoorDash orders But it’s still early days for the relatively new e-commerce use case. In a third-quarter earnings call Thursday, DoorDash co-founder and CEO Tony Xu responded to an analyst question by noting that “AI agents are generating several hundred orders [on DoorDash] across the time that they’ve been up and running.” In a marked understatement, Xu called this a “very low use case” for a company that handled just shy of 1 billion orders total in the third quarter of 2026 alone. Speaking generally, Xu said he sees the potential for AI agents to be genuinely helpful for “long consideration purchases” and major decisions where agents would be “doing work on your behalf proactively in the background.” However, Xu added, “when it comes to a task that’s as simple as ordering food, we tend to see that come directly to DoorDash.” To be fair to the AI boosters, DoorDash only rolled out its Model Context Protocol (MCP) connector less than a month ago. The connector provides a standardized, open-standard way for third-party AI tools to easily order through DoorDash’s platform. Without that kind of linkup—which is still only available to a small number of “early beta partners” and mainly used to streamline corporate lunch orders—AI agents have to go through a bit more effort to access DoorDash through a web interface, for instance.",
@@ -886,17 +1180,6 @@
       "date": "2026-10-30T19:30:52.000Z",
       "hot": false,
       "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=382257",
-      "title": "Binance Hack: Why Bitcoin Didn't Crash Like It Did in 2018",
-      "summary": "Binance lost about $6.4 billion, the largest crypto hack on record, yet Bitcoin fell about 3%, against nearly 11% in 2018 after an attack.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/382257/binance-hack-why-bitcoin-didnt-crash",
-      "category": "Tech",
-      "date": "2026-10-30T18:45:03.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
     },
     {
       "id": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
@@ -932,17 +1215,6 @@
       "officialUrl": "https://www.techrepublic.com"
     },
     {
-      "id": "https://techcrunch.com/?p=3183083",
-      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-      "category": "Business",
-      "date": "2026-10-30T17:47:12.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
       "id": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
       "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
       "summary": "Tape Revival Fujifilm to boost tape production 5x as AI fuels archiving demand Low costs and offline security mean magnetic tape still has a job. Fujifilm attributes the surge in archiving demand to the spread of generative AI, which the company remarked is producing “exponential growth” in data needs worldwide. The 5x increase in production capacity will be measured against fiscal year 2025 production levels. The investment in Fujifilm’s Kanagawa Factory, Odawara site will make it “the largest investment Fujifilm has made to date in dedicated LTO tape facilities.” The project will run from fiscal years 2026 through 2028 to fund manufacturing expansion and additional personnel, primarily to produce the latest-generation “FUJIFILM LTO Ultrium10” tape. Mainstream consumers may have abandoned tape decades ago, but the enterprise world never did. Cloud giants rely on tape to back up vast troves of data.",
@@ -965,17 +1237,6 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
-      "id": "https://techcrunch.com/?p=3183584",
-      "title": "Google’s first data center satellite is online and writing poetry",
-      "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-      "category": "Business",
-      "date": "2026-10-30T17:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
       "id": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
       "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
       "summary": "The US has charged five individuals as part of the first broad federal crackdown on “ghost students”—fraudsters who steal the identities of hundreds of Americans to pose as fake college students and steal student loans. In a press release Thursday, the Department of Justice said it had uncovered a large-scale scheme relying partly on AI. The DOJ seized more than $750,000 in cryptocurrency from “a network associated with Kenyan nationals\" after data analysis helped flag likely fraudsters. Assistant Attorney General Colin M. McDonald of the DOJ’s National Fraud Enforcement Division credited new fraud-detection measures implemented by the Trump administration for the arrests. He said that “this is the first international seizure of its kind in Kenya,” while warning fraudsters that the crackdown has only just begun.",
@@ -985,17 +1246,6 @@
       "date": "2026-10-30T16:53:49.000Z",
       "hot": false,
       "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=382237",
-      "title": "Binance Sets Aside $6.34B to Cover Hack Losses, CEO Says 'Your Assets Are Safe'",
-      "summary": "Richard Teng said the attacker used a self-destruct mechanism and an EIP-7702 delegation that bypassed Binance's normal approval controls.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/382237/binance-sets-aside-6-34b-to-cover-hack-losses-ceo-says-your-assets-are-safe",
-      "category": "Tech",
-      "date": "2026-10-30T16:34:21.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
     },
     {
       "id": "http://feeds.fabbaloo.com/~/972125816/_/fabbaloo/default~OpenFilament-Offers-New-Life-For-Aging-Stratasys-D-Printers",
@@ -1018,17 +1268,6 @@
       "date": "2026-10-30T16:10:30.000Z",
       "hot": false,
       "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3183613",
-      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive ...",
-      "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-      "category": "Business",
-      "date": "2026-10-30T16:03:45.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
     },
     {
       "id": "https://www.techrepublic.com/article/news-google-gemini-chrome-autofill-gmail/",
@@ -1085,38 +1324,6 @@
       "hot": true
     },
     {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-      "title": "Silicon Valley wants you to invest in miracles",
-      "summary": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose catastrophic or existential risks to humanity,\" or best case, \"bring forth an age of miracles\"? To some extent, Anthropic suggests in a letter at the top of its S-1 filing, you have to just believe. Anthropic's 335-page S-1 prospectus, filed Monday, is part of a steady hype escalation in Silicon Valley's interactions with Wall Street. In some ways, it's not even that bizarre; SpaceX IPO'd in June after filing an S-1 that referenced din …",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-      "category": "Industry",
-      "date": "2026-10-30T13:11:05.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-      "summary": "Altman says OpenAI has spent hundreds of millions on math — and has more discoveries up its sleeve. Altman says OpenAI has spent hundreds of millions on math — and has more discoveries up its sleeve. After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping — and hints there could be much more to come from the company’s stockpile of discoveries. “I think, on net, the world deserves to understand how the universe works,” Altman said during an episode of the Cheeky Pint podcast released Thursday. “But I do have empathy for the method.”",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-      "category": "Industry",
-      "date": "2026-10-30T13:01:14.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
-      "id": "https://elevenlabs.io/blog/category/customer-stories",
-      "title": "Customer Stories",
-      "summary": "Read the latest research, product, and company updates from ElevenLabs - provider of the most realistic and versatile AI audio tools",
-      "source": "ElevenLabs Blog",
-      "sourceUrl": "https://elevenlabs.io/blog/category/customer-stories",
-      "category": "Audio",
-      "date": "2026-10-30T12:00:00.000Z",
-      "hot": true
-    },
-    {
       "id": "https://www.techrepublic.com/article/news-google-gemini-4-carbon-access/",
       "title": "Google Unveils Gemini 4 Carbon With Advanced Cybersecurity Skills — Who Gets Access First?",
       "summary": "Google's Gemini 4 Carbon brings advanced cybersecurity capabilities to selected defenders first. Here's who's eligible and what comes next.",
@@ -1126,17 +1333,6 @@
       "date": "2026-10-30T11:10:42.000Z",
       "hot": false,
       "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
-      "title": "Maine’s data center revolt will decide who controls the Senate",
-      "summary": "Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data centers are destroying our climate. They are poisoning our water.\" Collins brushed off the outburst, tying the man to her Democratic challenger, Troy Jackson. But the fear echoing through the auditorium wasn't so easily dismissed. Just days before voters head to the polls, the rapid expansion of resource-hungry data centers has exploded into one of Maine's most volatile campaign issues.",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
-      "category": "Industry",
-      "date": "2026-10-30T11:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
     },
     {
       "id": "000001a1-89f5-d312-abed-ebf7d0480000",
@@ -1347,6 +1543,16 @@
       "officialUrl": "https://blogs.nvidia.com"
     },
     {
+      "id": "https://suno.com/blog/studio-chat-assistant",
+      "title": "Meet Chat: Our In-house Studio Assistant",
+      "summary": "By Jake Bowman, VIP Support Lead·Oct 29, 2026·3 min read Assistants have been a part of the music making process since recording studios have been around. Geoff Emerick joined EMI Studios in London (aka Abbey Road Studios) as an assistant engineer at 15 and was the Beatles’ main engineer on their album Revolver four years later. Before his entrepreneurial success, Jimmy Iovine assisted many recording sessions with artists such as John Lennon, Bruce Springsteen and Tom Petty, to name a few, in the 1970s. Their input has sped up, inspired and even challenged music producers in unique and creative ways. But as Digital Audio Workstations (DAWs) took over, the reliance on assistants dwindled.",
+      "source": "Suno Blog",
+      "sourceUrl": "https://suno.com/blog/studio-chat-assistant",
+      "category": "Audio",
+      "date": "2026-10-29T16:00:00.000Z",
+      "hot": true
+    },
+    {
       "id": "https://www.techrepublic.com/article/news-proton-ai-skills-employee-reinterviews/",
       "title": "Proton to Re-Interview Employees on AI Skills as Jobs Hang in Balance",
       "summary": "Proton plans to reassess employees' AI skills in interviews that could affect their jobs, raising questions about AI adoption and workforce evaluations.",
@@ -1477,17 +1683,6 @@
       "hot": true
     },
     {
-      "id": "http://feeds.fabbaloo.com/~/972084623/_/fabbaloo/default~From-D-Printer-Fans-to-HVAC-Innovation-Madison-Air-Makes-a-US-Billion-Move",
-      "title": "From 3D Printer Fans to HVAC Innovation: Madison Air Makes a US$5.4 Billion Move",
-      "summary": "Goulding and Preeti Sulibhavi look at the surprising 3D printing connections behind Madison Air’s acquisition of German fan giant ebm-papst. The post From 3D Printer Fans to HVAC Innovation: Madison Air Makes a US$5.4 Billion Move appeared on Fabbaloo.",
-      "source": "Fabbaloo",
-      "sourceUrl": "http://feeds.fabbaloo.com/~/972084623/_/fabbaloo/default~From-D-Printer-Fans-to-HVAC-Innovation-Madison-Air-Makes-a-US-Billion-Move",
-      "category": "Tech",
-      "date": "2026-10-29T11:22:00.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.feedburner.com"
-    },
-    {
       "id": "https://www.technologyreview.com/?p=1147824",
       "title": "We urgently need to monitor AI agents’ actions in real time",
       "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem that’s by no means confined to OpenAI. In the months since, Anthropic, Google, and Meta have also disclosed incidents in which their agents have gone off track. And worryingly, in many cases the agents eluded the very researchers and safety teams tasked with monitoring them. AI agents are taking unauthorized actions, and the companies building and running them are mostly relying on luck and hindsight to mitigate any harmful impacts.",
@@ -1497,17 +1692,6 @@
       "date": "2026-10-29T10:11:12.000Z",
       "hot": false,
       "officialUrl": "https://www.technologyreview.com"
-    },
-    {
-      "id": "6ac53d249637ad55744650f4",
-      "title": "I Gave My Blood to the AI Death Clock",
-      "summary": "ILLUSTRATION: Khoren Matevosyan I am scheduled to die on August 10, 2060, at the age of 74. So says my iPhone screen, where Death Clock, an AI-powered longevity app that predicts life expectancy based on your medical habits and lifestyle, has produced an image of a smiling grim reaper to celebrate my expiration date. There he was one September morning, looking especially thrilled about the reveal, gesturing with a peace sign as he reclined in a doughnut-shaped pool inflatable under that giant number: 74. I have never resented getting older, but I suppose that’s younger than I’d like to be when my time is up. In the last four years—years that brought the passing of my grandmother and aunt within 18 months—I’ve become hyperaware of how finite my days are. Since turning 40 in January, I’ve also experienced daily reminders of aging: inexplicable pains that rotate between my back, neck, and hips.",
-      "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
-      "category": "Industry",
-      "date": "2026-10-29T10:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.wired.com"
     },
     {
       "id": "https://www.techrepublic.com/article/news-samsung-one-ui-9-vs-coloros-17/",
@@ -1545,7 +1729,7 @@
     {
       "id": "https://huggingface.co/blog/announcing-project-protostar",
       "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-      "summary": "Agents 4 Protostar Challenge: Climate Risk Intelligence 🌡 4 Manage challenge registration, submissions, and judging",
+      "summary": "Agents 5 Protostar Challenge: Climate Risk Intelligence 🌡 5 Register, submit, and judge competition entries",
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/announcing-project-protostar",
       "category": "Research",
@@ -1656,6 +1840,16 @@
       "hot": false
     },
     {
+      "id": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Gemini Notebook Adds Hundreds of Free Textbooks from OpenStax & S Chand for Students",
+      "summary": "Last month, we introduced Expert Intelligence, a cross-Google initiative that helps you engage with your trusted sources through Google AI products. While you can already add eligible ebooks purchased from Google Play Books, today we’re expanding that experience so students can easily add materials for their courses. Students can now access hundreds of textbooks from providers in the U.S. and India including OpenStax, Open Textbook Library, and S Chand Publishing, right in Gemini Notebook at no charge. Once you add a textbook, every answer is grounded directly in the textbook, with inline citations and direct links back to the original source. Gemini Notebook also lets you transform textbook content into tailored study guides, practice quizzes, flashcards, and more.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-10-29T00:00:00.000Z",
+      "hot": false
+    },
+    {
       "id": "https://openai.com/index/how-we-detect-frontier-model-misalignment/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "OpenAI Deploys Layered Monitoring System to Catch Frontier Model Misalignment in Real Time",
       "summary": "ShareOur internal monitoring system todayOur internal monitoring system todayLayer 0: activation probesLayer 1: model-based reviewerLayer 2: investigative agentLayer 3: automated investigationHuman responseWhat our monitors have been finding in internal trafficHow we’re evaluating and improving our monitoring systemTests on recorded incidents and simulated attacksAudits of current internal trafficRed-teamingMonitoring agents without incentivizing obfuscation or evasionSafeguarding external usage of AstraLooking forwardOur internal monitoring system todayLayer 0: activation probesLayer 1: model-based reviewerLayer 2: investigative agentLayer 3: automated investigationHuman responseWhat our monitors have been finding in internal trafficHow we’re evaluating and improving our monitoring systemTests on recorded incidents and simulated attacksAudits of current internal trafficRed-teamingMonitoring agents without incentivizing obfuscation or evasionSafeguarding external usage of AstraLooking forwardAs we train increasingly capable AI models, we need reliable ways to detect when their behavior departs from what we intended. Agents can misbehave and take unauthorized actions during training, evaluation, or deployment, with potentially serious consequences. In order to detect these failures—and, where necessary, to intervene in time—we monitor how agents reason, what actions they take, and how those actions affect their environment. While we’ve been monitoring our internal coding agent",
@@ -1672,16 +1866,6 @@
       ]
     },
     {
-      "id": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Gemini Notebook Adds Hundreds of Free Textbooks from OpenStax & S Chand for Students",
-      "summary": "Last month, we introduced Expert Intelligence, a cross-Google initiative that helps you engage with your trusted sources through Google AI products. While you can already add eligible ebooks purchased from Google Play Books, today we’re expanding that experience so students can easily add materials for their courses. Students can now access hundreds of textbooks from providers in the U.S. and India including OpenStax, Open Textbook Library, and S Chand Publishing, right in Gemini Notebook at no charge. Once you add a textbook, every answer is grounded directly in the textbook, with inline citations and direct links back to the original source. Gemini Notebook also lets you transform textbook content into tailored study guides, practice quizzes, flashcards, and more.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-10-29T00:00:00.000Z",
-      "hot": false
-    },
-    {
       "id": "https://www.youtube.com/watch?v=O4662zuKj2A&utm_source=futuretools.io&utm_medium=newspage",
       "title": "ElevenLabs Launches SFX v3 Sound Effects Generator with Text Prompt Control",
       "summary": "ElevenLabs has launched SFX v3, a new sound effects generator integrated into its ElevenCreative platform. The tool allows users to create original sound effects from text prompts, offering greater control over the detail, context, and character of each generation. Described as enabling richer and more precise sound design, SFX v3 lets creators describe exactly what they need, whether specific ambient sounds, sharp mechanical effects, or complex audio environments, making professional sound design more accessible through natural language input.",
@@ -1690,116 +1874,6 @@
       "category": "Curation",
       "date": "2026-10-29T00:00:00.000Z",
       "hot": false
-    },
-    {
-      "id": "https://www.techrepublic.com/article/news-humanoid-robots-2027-real-world-deployment/",
-      "title": "Humanoid Robots in 2027: Tesla, Figure AI, and Agility Race to Deploy",
-      "summary": "Which humanoid robots are closest to deployment in 2027? Compare Tesla, Figure AI, Agility Robotics, and other leaders in industrial automation.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-humanoid-robots-2027-real-world-deployment/",
-      "category": "Business",
-      "date": "2026-10-28T20:43:18.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.technologyreview.com/?p=1147709",
-      "title": "Creating AI value with enterprise context",
-      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a proper understanding of the business. Many organizations find themselves in this situation—and it could be one of key reasons they struggle to extract returns on their AI investments. DOWNLOAD THE REPORT An MIT Technology Review Insights poll finds that while every organization surveyed is using AI today to some degree, fewer than one in five (16%) are extracting transformative value from their deployments. The largest percentage of respondents (40%) say they are seeing moderate gains in specific tasks or teams, while 21% report meaningful gains, leaving 23% that are seeing minimal returns or none at all.",
-      "source": "MIT Technology Review AI",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-      "category": "Research",
-      "date": "2026-10-28T20:32:02.000Z",
-      "hot": false,
-      "officialUrl": "https://www.technologyreview.com"
-    },
-    {
-      "id": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
-      "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
-      "summary": "It's almost like Google's got something to prove after taking a break from releasing new frontier AI models earlier this year. Just two weeks after rolling out Gemini 4 Argon, Google has announced Gemini 4 Carbon. This isn't the Flash model equivalent we've been waiting for but, rather, is an improvement on Argon, and like that model, Google is working on a staged release that could take a while. Stop me if you've heard this one before: Google says its latest AI model reaches a new threshold in coding, agentic tasks, and scientific analysis. It's so capable, in fact, that Google can't let you use it just yet. Gemini 4 Carbon reportedly makes big gains in cybersecurity applications.",
-      "source": "Ars Technica AI",
-      "sourceUrl": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
-      "category": "Industry",
-      "date": "2026-10-28T18:47:27.000Z",
-      "hot": false,
-      "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/article/news-netherlands-government-job-cuts-ai-emea/",
-      "title": "Netherlands Plans 25,000 Job Cuts as Government Turns to AI",
-      "summary": "The Netherlands plans 25,000 government job cuts as it explores AI savings. See the 2027 timeline and steps for Dutch and EMEA public-sector IT teams.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-netherlands-government-job-cuts-ai-emea/",
-      "category": "Business",
-      "date": "2026-10-28T18:28:55.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-      "title": "Google AI gets cagey when asked who won the 2020 elections",
-      "summary": "If you ask some prominent US politicians who won the 2020 presidential election, you might get some weasely answers that fail to directly acknowledge Joe Biden's win that November. If you ask Google's AI Mode the same question, you might get an evasive answer that simply tells you to consult with outside sources. When I put the direct question of \"Who won the 2020 presidential election?\" to Google's AI Mode this morning (after seeing complaints about cagey answers on social media), I got the following surprisingly indirect response: \"To review the official results and statistics of the 2020 United States presidential election, including the final electoral college breakdown, popular vote counts, and winner certification, please consult the official report compiled by the Federal Election Commission (FEC).\" My testing resulted in a similarly indirect answer when asking about the 2024 presidential election, with Google's AI telling me to just consult the FEC for that information. Asking about 2012 election resulted in a link to The American Presidency Project's 2012 Data Center rather than a direct answer. But AI Mode seemed perfectly willing to give me a detailed and correct responses for the winner of every other presidential election going back to 2000.Read full article Comments",
-      "source": "Ars Technica AI",
-      "sourceUrl": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-      "category": "Industry",
-      "date": "2026-10-28T17:46:32.000Z",
-      "hot": false,
-      "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "title": "Gemini 4 Carbon: Our next frontier model",
-      "summary": "Gemini 4 Carbon is DeepMind's strongest model with state-of-the-art cybersecurity and long horizon capabilities. SVP, Google DeepMind and Chief AI Architect, Google Today, DeepMind is announcing the next frontier model: Gemini 4 Carbon, DeepMind's strongest model with state-of-the-art cybersecurity and long horizon capabilities. Carbon ranks #1 on the recently updated v5.0 of Artificial Analysis Intelligence Index at 59. It shows significant gains across coding and agentic tasks as well as across key capabilities critical for cybersecurity defense, landing a firm lead in SEC-bench Pro (88.2%) for finding vulnerabilities, ExploitGym (54.8%) for exploitation, and CWE-bench (71.0%) for patching. On internal benchmarks, Carbon drives a strong uplift in generating secure code, and in live coding environments with DeepMind's own teams it shows reduced misalignment and fabrication rates.",
-      "source": "DeepMind Blog",
-      "sourceUrl": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "category": "Research",
-      "date": "2026-10-28T17:00:58.000Z",
-      "hot": false,
-      "officialUrl": "https://deepmind.google"
-    },
-    {
-      "id": "https://blogs.nvidia.com/?p=99523",
-      "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Too...",
-      "summary": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip with up to 128GB of unified memory and up to 1 petaflop of FP4 AI performance. That puts the NVIDIA CUDA platform, RTX graphics and the capabilities of a personal AI supercomputer inside premium Windows laptops built to go anywhere. New and expected RTX Spark updates, coming soon, include: NVIDIA Nemotron 3.5 Transcribe, an open weight speech model for transcription, speaker attribution and translation is available on RTX Spark. The LFM3 family of open models with day-zero support.",
-      "source": "NVIDIA Blog",
-      "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
-      "category": "Events",
-      "date": "2026-10-28T15:00:46.000Z",
-      "hot": false,
-      "officialUrl": "https://blogs.nvidia.com"
-    },
-    {
-      "id": "000001a1-7f9f-dcfd-a3e1-7fff91f20001",
-      "title": "OpenAI launching election war room to track interference efforts",
-      "summary": "The company is bringing hundreds of employees together to respond to suspected efforts to use its tools to disrupt the midterms.",
-      "source": "Politico Tech",
-      "sourceUrl": "https://www.politico.com/news/2026/10/28/openai-election-war-room-interference-01137690",
-      "category": "Industry",
-      "date": "2026-10-28T14:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://rss.politico.com"
-    },
-    {
-      "id": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "summary": "ServiceNow will bring OpenAI models and agents into workflows from development to security, and expand ChatGPT Work and Codex to employees. A new ServiceNow integration will bring business context and workflow actions directly into ChatGPT, helping teams investigate issues and take the next step in the same conversation. An IT team member will be able to find similar incidents, assess the risk of a change and update a ServiceNow record without leaving ChatGPT. Customers connect ChatGPT to their own ServiceNow instance and choose which capabilities to make available. ServiceNow’s Action Fabric applies existing business rules and permissions, so the actions people can take reflect their organization’s configuration and access. ServiceNow is also previewing interactive experiences inside ChatGPT.",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "category": "Models",
-      "date": "2026-10-28T13:15:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://www.technologyreview.com/?p=1147637",
-      "title": "Pairing industrial AI autonomy and human control",
-      "summary": "Living digital twins are helping industrial plants run more like living systems, and setting the stage for industries that work in sync.",
-      "source": "MIT Technology Review AI",
-      "sourceUrl": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-      "category": "Research",
-      "date": "2026-10-28T12:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.technologyreview.com"
     }
   ]
 }
