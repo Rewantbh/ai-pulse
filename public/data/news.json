@@ -1,16 +1,71 @@
 {
-  "lastUpdated": "2026-11-05T00:42:56.630Z",
+  "lastUpdated": "2026-11-05T07:37:44.540Z",
   "news": [
     {
-      "id": "https://www.investing.com/news/stock-market-news/australian-retailer-david-jones-enters-administration-and-faces-sale-media-reports-5001887",
-      "title": "Australian retailer David Jones enters administration and faces sale, media reports",
+      "id": "https://www.investing.com/news/stock-market-news/microsoft-rejects-multibilliondollar-ai-deal-with-uks-nscale-ft-reports-5002300",
+      "title": "Microsoft rejects multibillion-dollar AI deal with UK’s Nscale, FT reports",
       "summary": "",
       "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/australian-retailer-david-jones-enters-administration-and-faces-sale-media-reports-5001887",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/microsoft-rejects-multibilliondollar-ai-deal-with-uks-nscale-ft-reports-5002300",
       "category": "Business",
-      "date": "2026-11-05T00:24:25.000Z",
+      "date": "2026-11-05T06:18:36.000Z",
       "hot": false,
       "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/ai-sharpens-catandmouse-hacking-battle-as-companies-strengthen-defences-5002290",
+      "title": "AI sharpens cat-and-mouse hacking battle as companies strengthen defences",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/ai-sharpens-catandmouse-hacking-battle-as-companies-strengthen-defences-5002290",
+      "category": "Business",
+      "date": "2026-11-05T06:12:24.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105",
+      "title": "Clearing up a robot’s fuzzy memory",
+      "summary": "In an emergency, a human might someday ask a robotic assistant to fetch a wall-mounted defibrillator located down the hall. But if the robot has incorrectly labeled the defibrillator as a fire extinguisher in its stored memory, it may not know where to find the life-saving device.This robotic assistant could benefit from a new memory system created by MIT researchers. The system identifies entries in a robot’s memory that might be wrong and corrects the descriptions of mislabeled objects. In the future, this method could make household or industrial robots better able to perform complex, multistep tasks, such as clearing a dining room table or working alongside human collaborators to assemble a piece of machinery. Called UQ-DAAAM (which stands for Uncertainty Quantification for Describe Anything, Anywhere, at Any Moment), the system compares multiple descriptions of the same object, seen from different viewpoints, to quantify the robot’s uncertainty about what it saw. It then selects additional views to reduce the uncertainty and combines these captions into a more accurate description of the object, which it saves to memory.The researchers also employed a special technique to streamline this process so a mobile robot can continually update uncertain memory entries in real time. When compared to baseline methods, UQ-DAAAM boosted the robot’s confidence and improved the accuracy of its answers to questions about objects, their locations, and when it saw them. “Contrary to C...",
+      "source": "MIT News ML",
+      "sourceUrl": "https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105",
+      "category": "Research",
+      "date": "2026-11-05T05:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://news.mit.edu"
+    },
+    {
+      "id": "108459320",
+      "title": "Inside the chip talent war: Trade secrets and rising Chinese rivals",
+      "summary": "Growing competition for semiconductor talent is fueling a battle over trade secrets as Chinese chipmakers gain ground.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/11/05/semiconductor-china-korea-talents-rivalry.html",
+      "category": "Business",
+      "date": "2026-11-05T03:53:18.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "02RWNDi4fSdGvlJuCYBqN92",
+      "title": "ChatGPT now lets you generate GIFs",
+      "summary": "ChatGPT will now allow users to make GIFs from text prompts or uploaded images. The new feature is powered by Images 2.6, OpenAI's latest AI image generation model, unveiled on Wednesday. SEE ALSO: OpenAI is making a major change to ChatGPT interface Rolling out globally to ChatGPT and coding tool Codex today, Images 2.6 enables users to either describe the GIF they would like it to generate or upload an image to be animated. Users can also upload a rough drawing, and have the AI model to generate a more complete version to animate.Once generated, The Verge reports that ChatGPT's new feature will allow users to adjust the GIF's animation speed, as well as view and edit individual frames. OpenAI stated in a since-deleted X post that users can also have Images 2.6 save their uploaded pictures to be reused as prompts in the future. Credit: Mashable screenshot: @ChatGPT via X Significantly, Images 2.6's GIF-generating capability is not an AI video generator.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/chatgpt-gif-generator-openai-image-26",
+      "category": "Tech",
+      "date": "2026-11-05T02:21:10.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3185305",
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "category": "Business",
+      "date": "2026-11-05T01:26:22.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
     },
     {
       "id": "https://www.macrumors.com/2026/11/04/apple-releases-safari-technology-preview-256/",
@@ -59,24 +114,13 @@
     {
       "id": "6aeb5a0c899aefeeb033196c",
       "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
-      "summary": "A wave of Democratic candidates across the country—and notably in Texas, a national data center hotspot and home to Elon Musk’s SpaceX—won their state and congressional races on Tuesday, including many candidates who voiced opposition to the data center industry. The results have sent some corners of the tech industry looking to the heavens for answers. In recent hours, data center enthusiasts have proclaimed on social media that they’re still “bullish” on building data centers—just not necessarily in Texas, or even on Earth at all. Instead, they say, it’s time to focus on data centers in space. Elon Musk—who sank more than $400 million of his fortune supporting Republican candidates who all went on to lose their midterms races—has been among those leading the charge. “Data centers in space looking pretty appealing right now,” Musk posted on X in the early hours of Wednesday, after it was clear that Democrats had taken the House and Senate.",
+      "summary": "A wave of Democratic candidates across the country—and notably in Texas, a national data center hot spot and home to Elon Musk’s SpaceX—won their state and congressional races on Tuesday, including many candidates who voiced opposition to the data center industry. The results have sent some corners of the tech industry looking to the heavens for answers. In recent hours, data center enthusiasts have proclaimed on social media that they’re still “bullish” on building data centers—just not necessarily in Texas, or even on Earth at all. Instead, they say, it’s time to focus on data centers in space. Elon Musk—who spent more than $400 million of his fortune supporting Republican candidates who all went on to lose their midterms races—has been among those leading the charge. “Data centers in space looking pretty appealing right now,” Musk posted on X in the early hours of Wednesday, after it was clear that Democrats had taken the House and Senate.",
       "source": "Wired AI",
       "sourceUrl": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
       "category": "Industry",
       "date": "2026-11-04T23:13:14.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/arm-beats-secondquarter-revenue-estimates-on-ai-and-datacenter-demand-5001267",
-      "title": "Arm forecasts third-quarter revenue above estimates on AI spending boom",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/arm-beats-secondquarter-revenue-estimates-on-ai-and-datacenter-demand-5001267",
-      "category": "Business",
-      "date": "2026-11-04T23:12:40.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
     },
     {
       "id": "108519620",
@@ -156,6 +200,17 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
+      "id": "https://www.techrepublic.com/article/news-ai-data-center-boom-election-backlash/",
+      "title": "AI Data Center Boom Faces Backlash After US Election Results",
+      "summary": "US voters are pushing back against AI data centers, raising concerns about construction delays, energy costs, and the future of AI infrastructure.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-ai-data-center-boom-election-backlash/",
+      "category": "Business",
+      "date": "2026-11-04T22:19:40.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
       "id": "https://decrypt.co/?p=382574",
       "title": "ChatGPT Is Getting a GIF Maker Powered by OpenAI's Unannounced Images 2.6 Model",
       "summary": "OpenAI is rolling out animated GIF creation in ChatGPT, with frame-by-frame editing and speed controls. Most users won't have it yet.",
@@ -222,6 +277,17 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
+      "id": "https://www.techrepublic.com/?p=4380308",
+      "title": "AI Agent Governance: Who Owns Access and Accountability?",
+      "summary": "AI agent governance requires clear ownership. Learn how IT leaders can manage sensitive data access, preserve audit trails, and test shutdown controls.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-ai-agent-governance-access-accountability/",
+      "category": "Business",
+      "date": "2026-11-04T21:30:16.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
       "id": "https://techcrunch.com/?p=3185152",
       "title": "OpenAI is already trying to shape the 2028 election",
       "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
@@ -277,17 +343,6 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "https://www.digitaltrends.com/?p=6021223",
-      "title": "Mac users will soon get the Dynamic Island experience without buying a new MacBook Pro",
-      "summary": "A timer ticking, a song playing, a recording running: I lose track of these the second I switch windows. Well, it looks like Apple wants my Mac to keep them in view, and I'm all up for it. Apple's first macOS 27.3 developer beta, released this week, adds Live Activities to the menu bar of Macs without Dynamic Island. It's hard to imagine the feature at first, since we're used to seeing it with the Dynamic Island, but here's how it works (and looks). Nadeem Sarwar / Digital Trends What is Apple changing in the Mac menu bar? Apple's new MacBook Pro models, with touch-enabled OLED displays, swapped the notch for a Dynamic Island, similar to the one on recent iPhone models, that supports Live Activities.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/computing/mac-users-will-soon-get-the-dynamic-island-experience-without-buying-a-new-macbook-pro/",
-      "category": "Tech",
-      "date": "2026-11-04T21:03:57.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
       "id": "https://www.macrumors.com/2026/11/04/ios-27-3-icloud-link-check/",
       "title": "Apple Will Check Public iCloud Links for Harmful Content Starting in iOS 27.3",
       "summary": "Apple says it will start checking public iCloud links for harmful content in iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3. Images in iCloud Photos and files in iCloud Drive shared using the \"Anyone with the link\" option will be \"made accessible to Apple\" for a content check. Apple doesn't define harmful content, but it could mean malware, malicious files, and/or child sexual abuse material (CSAM) given Apple's mention of law enforcement involvement. If you try to upload harmful content, Apple reserves the right to move, refuse, modify, remove, or delete the content at any time. Apple may also take action against your Apple Account, including blocking or disabling your Apple Account, blocking the ability to create a new Apple Account with the associated email address or phone number, or if necessary, involving law enforcement. iCloud files can be shared with \"Send a Copy,\" which sends a file directly, or \"Share a Link,\" which lets someone download it.",
@@ -296,13 +351,7 @@
       "category": "Tech",
       "date": "2026-11-04T20:59:44.000Z",
       "hot": false,
-      "officialUrl": "https://feeds.macrumors.com",
-      "relatedCoverage": [
-        {
-          "source": "Digital Trends",
-          "url": "https://www.digitaltrends.com/computing/apple-will-check-your-public-icloud-links-for-harmful-content-and-it-doesnt-rule-out-banning-accounts/"
-        }
-      ]
+      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
@@ -327,17 +376,6 @@
       "officialUrl": "https://decrypt.co"
     },
     {
-      "id": "https://www.digitaltrends.com/?p=6021215",
-      "title": "Can a Screen-Free Smart Ring Help You Fight Notification Fatigue and Stay Grounded in Faith?",
-      "summary": "Elah Ring S1 is a screen-free, faith-centered smart ring. This faith-based Smart Ring combines health tracking, devotional Anchors, and daily reflection, using its Cross-Light and gentle vibration to support prayer and devotional routines without requiring users to look at a screen. The Elah Ring S1 is said to pair Grade 5 aerospace-grade titanium with medical-grade resin in a lightweight, minimalist design. Built for all-day wear, it brings health tracking and faith-based reminders into a compact accessory intended to fit into everyday routines, whether at work, during worship, while exercising, or on the road. Its screen-free approach is a deliberate part of that design, keeping interactions limited to subtle light and touch rather than another display competing for attention. The signature LED Cross-Light is a central part of the ring's design.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/contributor-content/can-a-screen-free-smart-ring-help-you-fight-notification-fatigue-and-stay-grounded-in-faith/",
-      "category": "Tech",
-      "date": "2026-11-04T20:43:07.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
       "id": "6ae4a770bd1058bb39c86ec2",
       "title": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
       "summary": "Leading the Future, the biggest pro-AI super PAC network, is walking away from the midterm elections with just over $20 million still in the bank and a roster of dozens of successful congressional candidates from both sides of the aisle. At first glance, that looks like a win. The details tell another story, though. The donations went overwhelmingly to safe candidates, and the results in the small handful of riskier races that Leading the Future got involved with indicate that its plans to shape the election fell flat. When Leading the Future entered the scene in August 2025 vowing to “oppose policies that stifle innovation,\" it had a war chest of around $100 million thanks to some of Silicon Valley’s biggest tech billionaires—including Andreessen Horowitz, Palantir cofounder Joe Lonsdale, and OpenAI’s Greg Brockman—and was led by major political strategists. Designed as a “structured ecosystem,” it set a goal of having ”maximum flexibility to engage in the 2026 election cycle and beyond.” The network is made up of 501(c)(4) organizations and federal and state super PACs catering to both sides of the aisle: American Mission largely gives to Republicans, while Think Big largely gives to Democrats.",
@@ -358,17 +396,6 @@
       "date": "2026-11-04T20:28:18.000Z",
       "hot": false,
       "officialUrl": "https://www.engadget.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=6021205",
-      "title": "Big Screens, Bigger Possibilities as The TV Shield Scales TV Protection to 110 Inches",
-      "summary": "Televisions of 80 inches and up are moving into the mainstream. Research firm Omdia expects global shipments in that size class to climb from about 9 million units in 2025 to more than 13 million by 2029, and its analysts credit much lower prices for the growth. TrendForce put sets of 60 inches and larger at 28.2 percent of all TVs shipped worldwide in 2025, the first year that share passed 28 percent. As those screens get cheaper, more of them end up outside the living room. A set on a patio or a pool deck has to deal with rain, splashes, sun, humidity, and insects, none of which a standard indoor TV is built for. For a homeowner planning an 85-inch TV by the pool, the harder decision now is how to protect it.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/contributor-content/big-screens-bigger-possibilities-as-the-tv-shield-scales-tv-protection-to-110-inches/",
-      "category": "Tech",
-      "date": "2026-11-04T20:24:16.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
     },
     {
       "id": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
@@ -426,17 +453,6 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
-      "id": "https://www.digitaltrends.com/?p=6021174",
-      "title": "Nothing’s first AI gadget arrives in December, and I don’t want it to be another Humane AI Pin",
-      "summary": "I've reached a point where every new AI gadget announcement feels like a solution in search of a problem. So when Nothing hinted at its first AI-native device, I wasn't exactly excited, but I was curious. Nothing CEO Carl Pei said on Wednesday that the company's first AI-native product ships sooner than you'd expect. The device ships next month, which means December 2026. However, that is the extent of the information we know (via Carl Pei on X). Nothing's AI device teaser Carl Pei / X What did Pei actually reveal about the device?",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/phones/nothings-first-ai-gadget-arrives-in-december-and-i-dont-want-it-to-be-another-humane-ai-pin/",
-      "category": "Tech",
-      "date": "2026-11-04T19:34:25.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
       "id": "https://techcrunch.com/?post_type=tc_video&p=3185186",
       "title": "Open source AI is booming. Hugging Face explains who profits.",
       "summary": "Watch as Hugging Face's Irene Solaiman joins Equity to explain what startups need to know when building on open AI models, and how to evaluate the tools around them and keep the open ecosystem secure.",
@@ -468,17 +484,6 @@
       "date": "2026-11-04T19:16:25.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=6021111",
-      "title": "EcoFlow’s new power stations can keep devices running even when the battery hits 0%",
-      "summary": "EcoFlow has launched four new portable power stations under its DELTA Gen4 and RIVER Gen4 series. And there is a rather interesting trick they can pull off when the battery runs out. All four models come with Emergency Power Mode, which keeps a small amount of electricity in reserve even when the battery indicator shows 0%. That's enough to charge a phone or keep an emergency light running on the DELTA models during a power outage. The lineup covers both ends of portable power needs. There are two high-capacity models for home backup, and two smaller ones for camping, road trips, and other outdoor activities.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/outdoors/ecoflows-new-power-stations-can-keep-devices-running-even-when-the-battery-hits-0/",
-      "category": "Tech",
-      "date": "2026-11-04T19:08:53.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
     },
     {
       "id": "015y9DXz3v0ExbO0FElWAQe",
@@ -558,6 +563,17 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
+      "id": "https://www.techrepublic.com/?p=4380271",
+      "title": "Apple and Google Face Scrutiny Over 400 Apps and Websites Linked to AI Deepfakes",
+      "summary": "A WIRED investigation links more than 400 apps and websites to AI deepfake abuse, raising questions about Apple, Google, and app-store security reviews.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-ai-nudify-apps-apple-google-deepfake-investigation/",
+      "category": "Business",
+      "date": "2026-11-04T18:17:15.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
       "id": "https://decrypt.co/?p=382554",
       "title": "Canton Coin Gets SEC Nod as Wall Street Tokenization Heats Up",
       "summary": "SEC staff said they view Canton Coin as a digital commodity and won’t recommend enforcement over how it’s minted.",
@@ -567,17 +583,6 @@
       "date": "2026-11-04T18:16:02.000Z",
       "hot": false,
       "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "108513230",
-      "title": "Google responds to political backlash over removing search from schools that ban AI",
-      "summary": "After elected officials voiced outrage over Google turning off search at schools that ban AI, the company said search can be turned back on with AI Overviews.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
-      "category": "Business",
-      "date": "2026-11-04T18:13:10.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
@@ -633,17 +638,6 @@
       "date": "2026-11-04T17:40:46.000Z",
       "hot": false,
       "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=6021123",
-      "title": "Pangram, the gold standard for AI text checks, releases Image 1.0 tool to sniff fake pics and videos",
-      "summary": "Pangram, one of the most widely used and trusted AI text detectors out there, is finally releasing its multimedia detection tools to the masses. Pangram Image 1.0, which was previously available as a research preview, is now widely available on the web, through the company's API, and via its eponymous Chrome extension. The company claims its image detector can identify AI-generated pictures with an astounding 99.96% accuracy on its own evaluation set. Pangram also notes that it has improved the model's accuracy over the past few months, especially against edited images, low-resolution pictures, and pictures made by the most advanced AI models out there. As far as the competition goes, TruthScan achieves an accuracy of 96.33%, followed by AI or Not at 91.38% and Sightengine at 88.33%. Our video detection is powered by Pangram Image 1.0 Flash, a lighter-weight model that makes frame-by-frame detection possible.Pangram Image 1.0 Flash achieves 98.57% accuracy on AI videos, vs.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/cool-tech/pangram-the-gold-standard-for-ai-text-checks-releases-image-1-0-tool-to-sniff-fake-pics-and-videos/",
-      "category": "Tech",
-      "date": "2026-11-04T17:30:36.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
     },
     {
       "id": "05ZAnWyXSxtYR3PE0pKLg0B",
@@ -1057,6 +1051,17 @@
       "officialUrl": "https://openai.com"
     },
     {
+      "id": "https://www.techrepublic.com/?p=4349564",
+      "title": "Claude Cheat Sheet: A Complete Guide to Models, Tools, and Pricing",
+      "summary": "Learn about Claude’s latest AI models, research and coding tools, task automation features, subscription costs, privacy controls, and how to get started.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-claude-cheat-sheet-complete-guide/",
+      "category": "Business",
+      "date": "2026-11-04T06:00:13.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
       "id": "https://openai.com/index/introducing-images-2-6",
       "title": "Introducing Images 2.6",
       "summary": "Generate images faster and with more control over editing rounds. ShareFaster iteration and more professional visualsFaster iteration and more professional visualsAnimate your ideas with GIFsMore ways to create and edit in the APIPricing and availabilityFaster iteration and more professional visualsAnimate your ideas with GIFsMore ways to create and edit in the APIPricing and availabilityWe’re introducing Images 2.6 in ChatGPT, Codex, and the API, bringing your ideas to life faster. With this, you can bring motion to your images with GIFs — from animating a brand mascot or character to turning a product shot into an eye-catching loop. You can also create polished visuals faster and refine them with greater precision — keeping characters, products, and brand details consistent as you edit. People around the world now create 4 billion images per week across ChatGPT, Codex, and the API. On average, that’s more than half a billion images created per day.",
@@ -1089,6 +1094,16 @@
       "hot": false
     },
     {
+      "id": "https://www.anthropic.com/research/investigating-vault-particles-with-claude?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Anthropic's Claude Maps First 3D Prokaryotic Vault Particle Structure in Biology Breakthrough",
+      "summary": "Investigating vault particles with Claude01A vault-like structure in prokaryotes02Finding, isolating, and mapping a new vault with Claude03A new way of doing science04Work with usPublished We’re sharing another finding from Anthropic’s biology research lab: the first 3D structure of a vault particle found in prokaryotic cells. Vaults are large, hollow barrels of protein found in cells across the tree of life, and their function is still unknown. Below, we describe how Claude helped at each step of this research: searching across sequence literature, optimizing a method of isolating particles, and mapping the vault’s structure. More information is in our preprint, which we’ve submitted to bioRxiv; we’ll update the link as soon as it goes live.Biological cells were first detected in 1665, but more than three and a half centuries later, much of how they work remains unknown. Until relatively recently, the existence of some crucial components, let alone their function, was controversial.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://www.anthropic.com/research/investigating-vault-particles-with-claude?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-11-04T00:00:00.000Z",
+      "hot": false
+    },
+    {
       "id": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6?utm_source=futuretools.io&utm_medium=newspage",
       "title": "ChatGPT Now Generates Animated GIFs With OpenAI's New Images 2.6 Model",
       "summary": "You can use ChatGPT to edit a GIF’s animation speed and individual frames. You can use ChatGPT to edit a GIF’s animation speed and individual frames. ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI’s new Images 2.6 model, allows you to adjust the GIF’s animation speed, edit individual frames, and share it with others. Before this change, ChatGPT couldn’t natively generate GIFs in a single step. An example shared by the company shows how ChatGPT can generate a GIF in response to the prompt, “can you make a gif of a cat dancing?” while also providing you with the option to change the playback speed and view it frame by frame.",
@@ -1113,17 +1128,6 @@
       "category": "Curation",
       "date": "2026-11-04T00:00:00.000Z",
       "hot": false
-    },
-    {
-      "id": "108513077",
-      "title": "Jim Cramer sees signs of life in tech stocks — but not from the usual winners",
-      "summary": "Cramer said a new group of technology stocks may be emerging as market leaders.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/11/03/jim-cramer-sees-signs-of-life-in-tech-stocks-but-not-from-the-usual-winners.html",
-      "category": "Business",
-      "date": "2026-11-03T23:58:09.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "http://feeds.fabbaloo.com/~/972310196/_/fabbaloo/default~D-Printing-Meets-%e2%80%9cMade-in-Italy%e2%80%9d-The-Next-Industrial-Renaissance",
@@ -1155,17 +1159,6 @@
       "sourceUrl": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
       "category": "Business",
       "date": "2026-11-03T22:19:53.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3184842",
-      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-      "category": "Business",
-      "date": "2026-11-03T21:43:08.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
     },
@@ -1340,17 +1333,6 @@
       "sourceUrl": "https://www.techrepublic.com/article/news-google-ai-satellite-space-data-center-poetry/",
       "category": "Business",
       "date": "2026-11-03T10:38:29.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/article/news-ios-27-3-release-date-features-beta-apac-china/",
-      "title": "iOS 27.3 Coming in December: Release Date, Features, and What to Expect",
-      "summary": "Apple confirms iOS 27.3 for December, with a developer beta planned for November. Here's what to know about new features, Apple Intelligence, and availability.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-ios-27-3-release-date-features-beta-apac-china/",
-      "category": "Business",
-      "date": "2026-11-03T08:37:34.000Z",
       "hot": false,
       "officialUrl": "https://www.techrepublic.com"
     },
@@ -1567,17 +1549,6 @@
       "date": "2026-11-02T15:30:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/article/news-waymo-toyota-bz4x-robotaxi-apac-japan-2027/",
-      "title": "Waymo and Toyota to Test Self-Driving SUVs in Japan in 2027",
-      "summary": "Waymo and Toyota plan to test self-driving bZ4X robotaxis in Japan in 2027, with factory-integrated technology supporting future international expansion.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-waymo-toyota-bz4x-robotaxi-apac-japan-2027/",
-      "category": "Business",
-      "date": "2026-11-02T14:37:56.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "https://www.technologyreview.com/?p=1147702",
