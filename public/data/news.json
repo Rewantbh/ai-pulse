@@ -1,115 +1,126 @@
 {
-  "lastUpdated": "2026-11-09T03:58:29.825Z",
+  "lastUpdated": "2026-11-09T07:55:44.729Z",
   "news": [
+    {
+      "id": "https://www.investing.com/news/stock-market-news/asia-stocks-roar-back-as-taiwan-jumps-6-nvidia-probe-rattles-ai-trade-5010437",
+      "title": "Asia stocks roar back as Taiwan jumps 6%, Nvidia probe rattles AI trade",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/asia-stocks-roar-back-as-taiwan-jumps-6-nvidia-probe-rattles-ai-trade-5010437",
+      "category": "Business",
+      "date": "2026-11-09T07:34:09.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/airbus-kicks-off-5-bln-buyback-with-first-800-mln-tranche-5010628",
+      "title": "Airbus kicks off €5 bln buyback with first €800 mln tranche",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/airbus-kicks-off-5-bln-buyback-with-first-800-mln-tranche-5010628",
+      "category": "Business",
+      "date": "2026-11-09T07:24:36.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/explainerwhat-we-know-about-nvidias-probe-into-ceo-jensen-huang-5010580",
+      "title": "Explainer-What we know about Nvidia’s probe into CEO Jensen Huang",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/explainerwhat-we-know-about-nvidias-probe-into-ceo-jensen-huang-5010580",
+      "category": "Business",
+      "date": "2026-11-09T06:54:27.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3186150",
+      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "category": "Business",
+      "date": "2026-11-09T05:26:29.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://blogs.nvidia.com/?p=99712",
+      "title": "Korea Advances Physical AI Across Industries With NVIDIA",
+      "summary": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and autonomous vehicles. These efforts are helping bring physical AI from development into real-world production. Samsung Advances Semiconductor Engineering With Accelerated Computing and AI Physics Samsung Electronics is expanding its collaboration with NVIDIA to advance semiconductor innovation through accelerated computing and AI physics. The work spans materials research, process development and device engineering. In technology computer-aided design, Samsung is working with NVIDIA cuISS and NVIDIA cuDSS to accelerate computations involving sparse linear systems.",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
+      "category": "Events",
+      "date": "2026-11-09T05:00:40.000Z",
+      "hot": false,
+      "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
+      "id": "https://blogs.nvidia.com/?p=99736",
+      "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+      "summary": "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell to support secure AI agents for employee productivity and enterprise workflows. A key component of the NVIDIA Open Agent Safety Platform, OpenShell provides a secure runtime with sandboxed execution and policy-based controls to safeguard sensitive data, manage access to enterprise tools and govern autonomous agent actions. AIM Intelligence, a Korean AI security company, is integrating its Starfort agent control platform with NVIDIA OpenShell. The goal is to combine OpenShell’s runtime access controls with Starfort’s detection of malicious instructions and data leakage. The company is also considering a preliminary proof of concept for the public energy sector, with potential applications across enterprise, industrial and robotics environments.",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
+      "category": "Events",
+      "date": "2026-11-09T05:00:39.000Z",
+      "hot": false,
+      "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
+      "id": "https://blogs.nvidia.com/?p=99721",
+      "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+      "summary": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. The collaboration lays the groundwork for Korean NPU and XPU companies to explore participation in the NVIDIA NVLink Fusion ecosystem, and includes NVIDIA training and certification programs, hackathons and technical seminars to strengthen GPU utilization. Through Korea’s AI for All initiative, NVIDIA will collaborate with three selected consortia and four leading Korean foundation model builders, using NVIDIA Dynamo software to optimize and scale AI inference. In addition, NVIDIA today announced a collaboration with SK Telecom and Rebellions, supported by MSIT, to advance sovereign AI infrastructure for Korean models and workloads with NVIDIA NVLink Fusion.",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
+      "category": "Events",
+      "date": "2026-11-09T05:00:04.000Z",
+      "hot": false,
+      "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
+      "id": "https://blogs.nvidia.com/?p=99731",
+      "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+      "summary": "NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models grow beyond the capacity of a single GPU, they must be split across multiple GPUs, requiring careful coordination of request routing and communication to maintain performance. NVIDIA Dynamo is an open source, distributed inference-serving framework built to deploy models in multi-node environments at data center scale. It handles this routing and communication to maximize inference performance. Optimized for NVIDIA B200 GPUs, these recipes take the guesswork out of deployment, delivering up to 2x performance out of the box. They help developers bring Korea’s open models into production faster and turn them into broadly accessible AI for All services.",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
+      "category": "Events",
+      "date": "2026-11-09T05:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
+      "id": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
+      "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
+      "summary": "Today, a scientist who wants to simulate a physical process must pick the right tool for that one job, such as a solver built for flowing water or another designed to model the way a protein folds. Each one is hand-coded around the specific equations that dictate how that process behaves.Researchers at MIT, the University of British Columbia (UBC), and elsewhere have now replaced that patchwork with a single deep-learning system, called WorldParticle, that could help engineers model different physical phenomena, from sliding sand to folding proteins, with one unified artificial intelligence architecture.Scientists and engineers could use this system to model processes that typically require separate simulators, such as a fluid sloshing against a deformable solid. This could offer a faster, more accurate way to simulate how sloshing oil might impact an elastic valve in a storage tank, for instance. It could also help engineers study where and how granular materials, like sand or soil, could move when a soft robot touches them.The system represents every material it simulates, from a dune of sand to a protein molecule, as tiny particles and predicts where those particles will move one step at a time. Because it learns the underlying dynamics rather than being programmed with an equation, the model can adapt to materials, forces, and environments it never encountered during training. In the long term, the researchers hope this work helps scientists discover new materials and ...",
+      "source": "MIT News ML",
+      "sourceUrl": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
+      "category": "Research",
+      "date": "2026-11-09T05:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://news.mit.edu"
+    },
+    {
+      "id": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
+      "title": "AI-assisted learning platform helps robots reason beyond literal commands",
+      "summary": "Humans are intuitive by nature. We can sense meaning beyond the literal words that we encounter. Now, a new artificial intelligence-assisted learning platform developed by MIT engineers is enabling robots to read larger meaning into a human’s natural language commands. In a study to be presented at the annual Conference on Robot Learning this month, researchers from MIT and New York University introduce FLEX, a flexible feature-editing pipeline for robot motion-planning. With FLEX, humans can interact with a robot by giving it instructions in natural, conversational language. The robot can not only follow the instructions literally but also read into the words to draw larger generalizations that help to improve its motion-planning task. The team demonstrated FLEX in several simulated scenarios, including one in which a robot serves a cup of coffee. In these virtual scenarios, a person interacts with a robotic arm by typing commands in natural language. As the robot moves the coffee cup over a cluttered table, the person might type “Don’t spill on the laptop!” In response, the robot will reason about why it should avoid the laptop.",
+      "source": "MIT News ML",
+      "sourceUrl": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
+      "category": "Research",
+      "date": "2026-11-09T05:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://news.mit.edu"
+    },
     {
       "id": "https://www.macrumors.com/2026/11/08/apple-store-subscription-controversy/",
       "title": "Apple Store Subscription Sign-Up Controversy Exposed",
-      "summary": "Here is how the process works at Apple Stores in the United States:A customer visits an Apple Store. An employee at the store asks if the customer would like to scan a QR code for a personalized shopping experience (\"Connect and Personalize\"). The employee can proceed to show the customer their available subscription offers, presented with \"Agree\" and \"Decline\" buttons on the employee's device. The default payment method associated with the customer's Apple Account is automatically available for subscription sign-ups, so long as it has not expired.Until early last week, Apple was tracking a metric known as the \"services attach rate,\" with a target of 40% for each retail employee at at least some U.S. The problem is that some employees allegedly activated these trials without adequately explaining to the customers that they would be automatically charged at a later date, according to tipsters who contacted Rossman. Apple does email customers when a new trial has been activated on their accounts, but unsuspecting customers might not pay attention or realize that the email pertains to a subscription that will automatically renew later.",
+      "summary": "Here is how the process works at Apple Stores in the United States:A customer visits an Apple Store. An employee at the store asks if the customer would like to scan a QR code for a personalized shopping experience (\"Connect and Personalize\"). The employee can proceed to show the customer their available subscription offers, presented with \"Agree\" and \"Decline\" buttons on the employee's device. The default payment method associated with the customer's Apple Account is automatically available for subscription sign-ups, so long as it has not expired.The problem is that some employees allegedly activated these trials without adequately explaining to the customers that they would be automatically charged at a later date, according to tipsters who contacted Rossmann. For example, some employees would allegedly rush through the process or were even told to position the trials as \"gifts.\" Until early last week, Apple was tracking a metric known as the \"services attach rate,\" with a target of 40% for each retail employee at at least some U.S. Apple does email customers when a new trial has been activated on their accounts, but unsuspecting customers might not pay attention or realize that the email pertains to a subscription that will automatically renew later.",
       "source": "MacRumors",
       "sourceUrl": "https://www.macrumors.com/2026/11/08/apple-store-subscription-controversy/",
       "category": "Tech",
-      "date": "2026-11-09T03:28:15.000Z",
+      "date": "2026-11-09T03:28:09.000Z",
       "hot": false,
       "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/nvidia-falls-about-3-in-afterhours-and-perpetual-futures-trade-5010425",
-      "title": "Nvidia falls about 3% in after-hours and perpetual futures trade",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/nvidia-falls-about-3-in-afterhours-and-perpetual-futures-trade-5010425",
-      "category": "Business",
-      "date": "2026-11-09T03:06:20.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/rbas-hunter-sees-limited-ai-productivity-gains-so-far-93CH-5010406",
-      "title": "RBA’s Hunter sees limited AI productivity gains so far",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/rbas-hunter-sees-limited-ai-productivity-gains-so-far-93CH-5010406",
-      "category": "Business",
-      "date": "2026-11-09T01:47:53.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=6021962",
-      "title": "Nvidia chief Huang confirms cheating on wife as rumors of Chinese honeypot spy trap heat up",
-      "summary": "Nvidia's CEO, Jensen Huang, has admitted that he cheated on his wife and engaged in a romantic relationship with a woman suspected of being a Chinese spy. Just over a week ago, The New York Times reported that Nvidia CEO Jensen Huang had a close relationship with Alice Huang, a senior executive at a Singapore-based data center company. \"I was unfaithful to my wife. My actions hurt her and our children. There is no excuse for what I did. Throughout my life, my family has given me love and support.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/computing/nvidia-chief-huang-confirms-cheating-on-wife-as-rumors-of-chinese-honeypot-spying-trap-heat-up/",
-      "category": "Tech",
-      "date": "2026-11-09T01:47:30.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/how-a-digital-banks-collapse-toppled-paraguays-president-5010316",
-      "title": "How a digital bank’s collapse toppled Paraguay’s president",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/how-a-digital-banks-collapse-toppled-paraguays-president-5010316",
-      "category": "Business",
-      "date": "2026-11-09T01:00:41.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=6021951",
-      "title": "Archive of Our Own, one of the world’s biggest fan fiction sites, got hacked. AI is just making i...",
-      "summary": "One of the world's biggest fan fiction sites, Archive of Our Own, has been down since October 29, and so far, services have not been restored after what the team has confirmed was a security breach. In an update shared on October 30, the website said it had detected evidence of a security incident and that the team was working on fixing the issue, while assuring users that no data had been deleted from its massive library of fan-contributed stories. In the latest update, shared three days ago, the site's operators said the work to bring it back is still in progress. They didn't provide an exact date for when the site will go live, only mentioning that the original estimate of two to four weeks for restoration is still on track. On social media sites, multiple users have shared their dismay over the site being down for so long, while also highlighting a concerning trend supercharged by AI. I'm genuinely tweaking rnFanfic authors, please be aware there is a website 👉 https://t.co/w6hgZhxRwE that is scraping fics from Ao3 and turning them into Ai audiobooks and selling them for profit They have an option to have your fics taken down but from what I'm seeing you… https://t.co/oGKrfvgBPj pic.twitter.com/cdwpKlSvY3",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/cool-tech/archive-of-our-own-one-of-the-worlds-biggest-fan-fiction-sites-got-hacked-ai-is-just-making-it-worse/",
-      "category": "Tech",
-      "date": "2026-11-09T01:00:05.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/national-australia-bank-names-ian-saines-as-next-chair-5010345",
-      "title": "National Australia Bank names Ian Saines as next chair",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/national-australia-bank-names-ian-saines-as-next-chair-5010345",
-      "category": "Business",
-      "date": "2026-11-09T00:56:07.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/wall-st-futures-mixed-amid-ai-spending-concerns-inflation-data-awaited-5010386",
-      "title": "Wall St futures mixed amid AI spending concerns; inflation data awaited",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/wall-st-futures-mixed-amid-ai-spending-concerns-inflation-data-awaited-5010386",
-      "category": "Business",
-      "date": "2026-11-09T00:50:09.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=6021912",
-      "title": "Call of Duty Modern Warfare 4 review: Infinity Ward finally returns to making a good CoD game",
-      "summary": "Being a Call of Duty fan in recent years has felt nothing short of being trapped in a toxic relationship. Most titles over the past few years have disappointed me, lacking creativity and authenticity. But truth be told, how creative can you honestly get with a Call of Duty title at this point? The player base is pretty much galvanized, and we have all seen that going futuristic is not the answer, so I was pretty pumped when Activision announced the reboot of the Modern Warfare games back in 2019. The first two games were genuinely among the best the franchise has managed to put out in a long while, but along came the third game and all that newfound hope went out the window. Whatever residual hopium I had in my system was drained by the blunder that was Black Ops 7.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/gaming/call-of-duty-modern-warfare-4-review/",
-      "category": "Tech",
-      "date": "2026-11-09T00:26:25.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/trump-calls-nvidias-huang-honorable-says-he-has-not-discussed-allegations-with-him-5010358",
-      "title": "Trump calls Nvidia’s Huang ’honorable,’ says he has not discussed allegations with him",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/trump-calls-nvidias-huang-honorable-says-he-has-not-discussed-allegations-with-him-5010358",
-      "category": "Business",
-      "date": "2026-11-08T23:54:21.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
     },
     {
       "id": "https://www.engadget.com/2309308/spacexai-grok-bot-availability-plans/",
@@ -154,17 +165,6 @@
       "date": "2026-11-08T22:19:00.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=6021936",
-      "title": "Siri AI could become more like Meta’s Muse and ChatGPT Dots in the near future",
-      "summary": "Siri AI can now understand what's happening on your screen, dig through messages, and perform actions inside apps. Apple, however, seems to have much bigger plans for what Siri should be capable of. A new report from Bloomberg's Mark Gurman suggests Apple is exploring giving Siri abilities similar to an autonomous AI agent that can handle ongoing tasks without constant instructions. CEO John Ternus is also reportedly pushing software chief Craig Federighi to move faster on AI development. At present, Siri can handle multiple actions in one request, but you still have to ask it to do something. Keeping track of a task for several days, monitoring changes, and acting when needed is something it cannot do yet.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/computing/siri-ai-could-become-more-like-metas-muse-and-chatgpt-dots-in-the-near-future/",
-      "category": "Tech",
-      "date": "2026-11-08T21:54:48.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
     },
     {
       "id": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
@@ -350,17 +350,6 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
-      "id": "https://www.digitaltrends.com/?p=6021875",
-      "title": "BYD’s new Rolls-Royce-inspired EV can float, turn like a tank, and costs over $300,000",
-      "summary": "Yangwang Auto, the Chinese luxury electric car brand owned by BYD, has just pulled back the curtain on its most ambitious and certainly its most luxurious car yet, dubbed the Yangwang Altior. The massive all-electric luxury sedan was unveiled at an event in Abu Dhabi. Just looking at the design, the inspiration is quite clear, a bit on the nose, even. The car looks like something Rolls-Royce would make. The first look gives me an impression that I'm looking at an electric version of the Rolls-Royce Ghost, and at 5.6 meters long, it's actually slightly bigger. There's the imposing grille, long bonnet, rear-hinged coach doors, and a front emblem made from 24-karat gold.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/cars/byds-new-rolls-royce-inspired-ev-can-float-turn-like-a-tank-and-costs-over-300000/",
-      "category": "Tech",
-      "date": "2026-11-08T00:02:42.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
       "id": "108544579",
       "title": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
       "summary": "Dave Wehner, Meta’s chief strategy officer, is leaving the company to become CFO of Fireworks, the AI infrastructure startup valued at $17.5 billion in July.",
@@ -460,17 +449,6 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
-      "id": "https://www.digitaltrends.com/?p=6021853",
-      "title": "Samsung’s Galaxy S27 Ultra might stick with Snapdragon after all",
-      "summary": "Samsung's Galaxy S27 processor plans are turning into a rather confusing affair. Earlier reports suggested the company was preparing to bring Exynos back to its Ultra flagship, and the Exynos 2700 even managed to beat Qualcomm's best chip in alleged internal tests. But it appears Samsung might have other plans, at least for customers in its home market. According to Korean tipster Lanzuk, also known as yeux1122, Samsung is reportedly sticking with Snapdragon for the Galaxy S27 Ultra in South Korea. In a Naver post, the tipster claims that changing the processor choice at this stage would be difficult. Samsung is said to be focusing heavily on cutting costs during hardware development.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/phones/samsungs-galaxy-s27-ultra-might-stick-with-snapdragon-after-all/",
-      "category": "Tech",
-      "date": "2026-11-07T14:41:23.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
       "id": "https://www.macrumors.com/2026/11/07/top-stories-apple-product-launches/",
       "title": "Top Stories: Apple Product Launches, iOS 27.3 Beta, and More",
       "summary": "Apple is still rocking and rolling a week into November, with five new products having launched this week and two more still on tap for next week. Things are also moving forward on the software side with Apple releasing the first betas of iOS 27.3 and related updates, bringing a number of tweaks and new features. We're also looking ahead to new products coming in the first half of 2027, so read on below for all of the details on these stories and more! Top Stories Apple Launched Five New Products This Week Apple released five new products on Friday, November 6, following pre-orders that opened last week, including its first touchscreen MacBook Pro models. The following new products are now available: iPad mini with OLED display and A20 Pro chip iMac with M6 chip 14-inch MacBook Pro with M6 chip 14-inch MacBook Pro with OLED touchscreen 16-inch MacBook Pro with OLED touchscreen Apple's HomeView smart home hub and updated Apple TV 4K box will follow next week on Friday, November 13. Everything New in the iOS 27.3 Beta Apple this week started testing iOS 27.3, the biggest update to iOS 27 since it launched in September.",
@@ -537,17 +515,6 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
-      "id": "https://www.digitaltrends.com/?p=6021838",
-      "title": "Call of Duty: Warzone has finally said goodbye to PS4 and Xbox One",
-      "summary": "Call of Duty: Warzone has had a pretty long run on PS4 and Xbox One, considering both consoles are well over a decade old. Unfortunately, the battle royale action on these consoles appears to be coming to an end, as Activision officially shut down Warzone on November 6. The shutdown was announced back in May, when Activision had already decided to leave both consoles behind for Modern Warfare 4. Warzone players were allowed to continue playing until Black Ops 7 Season 06 ended. For anyone who hasn't upgraded their console yet, that deadline has now passed. With every new Call of Duty entry, Warzone receives major changes in engine, maps, and the gameplay itself.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/gaming/call-of-duty-warzone-ps4-xbox-one-shutdown/",
-      "category": "Tech",
-      "date": "2026-11-07T11:13:24.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
       "id": "6ae8fcff93d0a10b8d7f1f15",
       "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
       "summary": "My husband and I are caregivers for our middle son, who has multiple disabilities and requires full-time support. We do our best to keep one another up to date on the activities that fill his daily life while also managing his numerous medical specialists, procedures, and therapies. We have to stay in constant communication while also working our jobs, caring for three teenagers, and managing a household. We’re not alone in our struggles. According to AARP, in 2025, an estimated 63 million Americans cared for adults or children with a medical condition or disability. On average, these caregivers spend up to 27 hours per week providing care.",
@@ -601,17 +568,6 @@
       "date": "2026-11-07T10:00:00.000Z",
       "hot": false,
       "officialUrl": "https://mashable.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=6018022",
-      "title": "How Do I Make a Video From Text With AI?",
-      "summary": "Making a video used to involve a lot more work before. You had to pick up a camera, shoot footage, and spend hours editing everything together. But in the age of AI, the starting point is as simple as dropping a message filled with your creativity. Simply write a scene in a few sentences and watch an AI video generator bring it to life, complete with movement, lighting, and camera effects. These results are definitely not replacing human-made masterpieces, but even an amateur can create something for themselves. You can make a video from text using an AI video generator such as Adobe Firefly.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/computing/how-do-i-make-a-video-from-text-with-ai/",
-      "category": "Tech",
-      "date": "2026-11-07T09:25:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
     },
     {
       "id": "https://techcrunch.com/?p=3186051",
@@ -700,17 +656,6 @@
       "date": "2026-11-06T21:48:46.000Z",
       "hot": false,
       "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=6016423",
-      "title": "How I used Filmora 16 to build a solid video from raw clips without wracking my brain for hours",
-      "summary": "Bridging the gap between basic clip trimmers and complex studio suites, Wondershare Filmora is designed to help you produce polished videos without a steep learning curve. Whether you are cutting social media clips or assembling a project from scratch, it balances accessible drag-and-drop mechanics with advanced controls. Backed by Wondershare Technology's two decades of software development since its founding in 2003, Filmora 16 gives you the reliable, streamlined performance you need to move from raw ideas to finished cuts faster. Filmora 16 Instead of bogging you down with tedious busywork, Filmora 16 is built to cut out the friction points that usually drain the fun out of editing. Take asset organization, where you can right-click imported media to run AI Media Analysis, quickly sorting and tagging your footage with keywords, descriptions, and quality ratings. If your shot has a moving subject, Camera Tracking adjusts the framing to follow your selected subject and keep it prominent in the frame.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/brc/how-i-used-filmora-16-to-build-a-solid-video-from-raw-clips-without-wracking-my-brain-for-hours/",
-      "category": "Tech",
-      "date": "2026-11-06T21:47:49.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
     },
     {
       "id": "https://www.techrepublic.com/?p=4380660",
@@ -1231,7 +1176,7 @@
     {
       "id": "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Anthropic AI for Science Grantees Develop AI Tools to Build and Interpret Scientific Models",
-      "summary": "Teaching AI to build scientific models01A three-step program02Splitting the bill, or how to constrain models03The bill, one level up, or how to build models04Lost in translation, or how to interpret models05Cells and scalesPublished AI for Science grantees Jakob Macke, Daniel Gedon, and Stefan Wahl are researchers at the ELLIS Institute Tübingen and the University of Tübingen, where they build AI tools for developing scientific models in neuroscience and beyond. In this guest post, they discuss how AI is starting to change scientific modeling. In 1951, Cambridge University’s computer went out of action for six months. This was inconvenient for physiologist Andrew Huxley, who, alongside his colleague Alan Hodgkin, had just built a set of equations to describe how a particular squid nerve cell fired. The scientists wanted to understand the “action potential” of these nerve cells: the electrical pulses they use to communicate, which underlie everything brains do, from perception to intelligence.",
+      "summary": "Teaching AI to build scientific models01A three-step program02Splitting the bill, or how to constrain models03The bill, one level up, or how to build models04Lost in translation, or how to interpret models05Cells and scalesPublishedNov 6, 2026TeamScienceTopicsDiscoveryResearch programsLife sciencesSee more..AI for Science grantees Jakob Macke, Daniel Gedon, and Stefan Wahl are researchers at the ELLIS Institute Tübingen and the University of Tübingen, where they build AI tools for developing scientific models in neuroscience and beyond. In this guest post, they discuss how AI is starting to change scientific modeling. In 1951, Cambridge University’s computer went out of action for six months. This was inconvenient for physiologist Andrew Huxley, who, alongside his colleague Alan Hodgkin, had just built a set of equations to describe how a particular squid nerve cell fired. The scientists wanted to understand the “action potential” of these nerve cells: the electrical pulses they use to communicate, which underlie everything brains do, from perception to intelligence. The only way to find out whether the equations worked was to solve them and compare the solutions to data.",
       "source": "FutureTools News",
       "sourceUrl": "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
@@ -1241,7 +1186,7 @@
     {
       "id": "https://youtu.be/IrAHINf0M6E?utm_source=futuretools.io&utm_medium=newspage",
       "title": "The 14 Most Important AI Stories From This Week",
-      "summary": "Watch Matt Wolfe's latest YouTube video where he breaks down all of the most important AI news from the past week.",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
       "source": "FutureTools News",
       "sourceUrl": "https://youtu.be/IrAHINf0M6E?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
@@ -1271,7 +1216,7 @@
     {
       "id": "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Anthropic's Claude Plays EVE Online MMORPGs to Study AI Market Trading and Teamwork",
-      "summary": "Project EVE: Claude plays MMORPGs01Claude trades on an EVE Online market02Claude fleets in EVE Frontier03Reflections from New EdenPublished This post shares research done as part of the Anthropic Fellows Program, April–July 2026. AI models may one day participate in real companies and markets, and several of our projects explored what that might look like. Claude has run a shop in our office, haggled on behalf of colleagues, and written code to fly a drone. In this project, we turned to a different setting: massively multiplayer online role-playing games (MMORPGs). MMORPGs are virtual worlds that in many ways reflect the complexity of the real world.",
+      "summary": "Project EVE: Claude plays MMORPGs01Claude trades on an EVE Online market02Claude fleets in EVE Frontier03Reflections from New EdenPublishedNov 6, 2026TeamFrontier Red TeamTopicsAgentsEconomic FuturesResearch programsSafety evaluationsClaude OpusCodingSee more..Related articlesScience This post shares research done as part of the Anthropic Fellows Program, April–July 2026. AI models may one day participate in real companies and markets, and several of our projects explored what that might look like. Claude has run a shop in our office, haggled on behalf of colleagues, and written code to fly a drone. In this project, we turned to a different setting: massively multiplayer online role-playing games (MMORPGs). MMORPGs are virtual worlds that in many ways reflect the complexity of the real world.",
       "source": "FutureTools News",
       "sourceUrl": "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
@@ -1287,17 +1232,6 @@
       "category": "Curation",
       "date": "2026-11-06T00:00:00.000Z",
       "hot": false
-    },
-    {
-      "id": "https://techcrunch.com/?p=3185656",
-      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-      "category": "Business",
-      "date": "2026-11-05T22:40:55.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
     },
     {
       "id": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
@@ -1851,17 +1785,6 @@
       "sourceUrl": "https://openai.com/index/a-thousand-fewer-paths-to-root",
       "category": "Models",
       "date": "2026-11-04T08:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://openai.com"
-    },
-    {
-      "id": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "summary": "ShareBringing frontier cybersecurity capabilities to government teamsBringing frontier cybersecurity capabilities to government teamsGet startedBringing frontier cybersecurity capabilities to government teamsGet startedBuilding on the availability of Daybreak models on Amazon Bedrock, GPT‑5.6 Cyber is now available to approved customers in AWS GovCloud (US-East)⁠(opens in a new window) through Daybreak Red. This expansion gives government security teams a new way to apply advanced cybersecurity capabilities within the AWS environments they use to support critical missions. Daybreak Red provides access to OpenAI’s purpose-trained cybersecurity models for authorized vulnerability research, exploit validation, and security testing. GPT‑5.6 Cyber can help defenders investigate complex software weaknesses, reproduce vulnerabilities in controlled settings, and develop mitigations. Qualified security practitioners should review findings and proposed fixes before implementation. For government organizations, adopting advanced cybersecurity capabilities requires more than model performance.",
-      "source": "OpenAI News",
-      "sourceUrl": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "category": "Models",
-      "date": "2026-11-04T07:00:00.000Z",
       "hot": false,
       "officialUrl": "https://openai.com"
     }
