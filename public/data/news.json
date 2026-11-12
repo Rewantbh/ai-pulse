@@ -1,27 +1,944 @@
 {
-  "lastUpdated": "2026-11-12T11:37:55.046Z",
+  "lastUpdated": "2026-11-12T19:24:49.133Z",
   "news": [
     {
-      "id": "079gil0BZlrzRbq4VZPo8ON",
-      "title": "LGs 34-inch UltraGear WQHD gaming monitor hits best-ever price on Amazon — save $120 before Black...",
-      "summary": "SAVE OVER $100: As of Nov. 12, the LG 34-inch Ultragear WQHD curved gaming monitor has returned to its lowest-ever price of $279.99 at Amazon. That's $120 off its full price of $399.99. Opens in a new window Credit: LG LG 34-inch Ultragear WQHD Curved Gaming Monitor $279.99 at Amazon $399.99 Save $120 Get Deal at Amazon This year has been particularly pricey in the world of tech, but Black Friday sales are fast approaching with some very welcome price cuts. If a new gaming monitor is at the top of your shopping list, Amazon already has plenty of early deals. That includes a big discount on the sleek LG 34-inch Ultragear WQHD curved gaming monitor.As of Nov.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/nov-12-lg-gaming-monitor-early-black-friday-deal",
+      "id": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+      "summary": "Google is continuing its elemental AI naming scheme with the new Gemini 4 Hydrogen. These names are less descriptive than the Pro/Flash monikers of earlier releases, but Hydrogen's purpose is clear: It replaces the faster, more economical Flash models most people in Google's ecosystem use. With Google's recent Argon and Carbon releases, the rollout was staged and began with cybersecurity researchers. Even when general availability began, Google restricted access to users paying for its most expensive AI subscription. The limits for Hydrogen are much more relaxed, with access beginning immediately. This model has replaced Gemini 3.8 Flash across the company's products.",
+      "source": "Ars Technica AI",
+      "sourceUrl": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+      "category": "Industry",
+      "date": "2026-11-12T19:23:03.000Z",
+      "hot": false,
+      "officialUrl": "https://arstechnica.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/explainertougher-curbs-on-ai-chip-sales-to-china-likely-after-nvidia-ceo-resigns-5022981",
+      "title": "Explainer-Tougher curbs on AI chip sales to China likely after Nvidia CEO resigns",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/explainertougher-curbs-on-ai-chip-sales-to-china-likely-after-nvidia-ceo-resigns-5022981",
+      "category": "Business",
+      "date": "2026-11-12T19:12:27.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3187494",
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "category": "Business",
+      "date": "2026-11-12T19:11:00.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "summary": "A Blog post by IBM Granite on Hugging Face",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "category": "Research",
+      "date": "2026-11-12T19:07:35.000Z",
+      "hot": false,
+      "officialUrl": "https://huggingface.co"
+    },
+    {
+      "id": "000001a1-d127-def8-a5f7-f33f57210008",
+      "title": "Key House intel lawmakers urge probe of Huang’s relationship with alleged Chinese spy",
+      "summary": "Reps. Darin LaHood and Josh Gottheimer are asking intelligence agencies to investigate whether the former Nvidia chief’s relationship with Alice Huang jeopardized national security.",
+      "source": "Politico Tech",
+      "sourceUrl": "https://www.politico.com/news/2026/11/12/house-intel-probe-nvidia-01162608",
+      "category": "Industry",
+      "date": "2026-11-12T19:07:11.000Z",
+      "hot": false,
+      "officialUrl": "https://rss.politico.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/nvidia-and-alibaba-among-market-cap-stock-movers-on-thursday-93CH-5023003",
+      "title": "Nvidia and Alibaba among market cap stock movers on Thursday",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/nvidia-and-alibaba-among-market-cap-stock-movers-on-thursday-93CH-5023003",
+      "category": "Business",
+      "date": "2026-11-12T19:05:34.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/11/12/apple-homeview-software-27-2-24v526/",
+      "title": "Apple Releases Updated HomeView Software 27.2 Before Launch",
+      "summary": "With the HomeView set to start arriving to some users in just a matter of hours, Apple has released a new HomeView Software 27.2 update. The software has a build number of 24V526, and it is the second 27.2 update Apple has released for the device. Customers receiving the HomeView this week will need to install a software update during the setup process. The HomeView ships with HomeView Software 26.5, which is approximately six months old. Apple planned to release the HomeView earlier than November 2026 but held back because it wanted to debut Siri AI in iOS 27 first. Apple today said it plans to release a HomeView software update to fix a &zwnj;Siri&zwnj; AI issue that prevents &zwnj;Siri&zwnj; from controlling smart home products like locks, but that update isn't coming until next month.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/11/12/apple-homeview-software-27-2-24v526/",
       "category": "Tech",
-      "date": "2026-11-12T11:28:16.000Z",
+      "date": "2026-11-12T19:05:22.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "6af4ca888d64ac848f9ca154",
+      "title": "Jensen Huang’s $470 Billion Affair",
+      "summary": "This week, Nvidia CEO Jensen Huang admitted to an affair with Alice Huang, a businesswoman US intelligence says was recruited by China’s Ministry of State Security. On Uncanny Valley, Brian Barrett, Zoë Schiffer, and Leah Feiger break down what this means for Nvidia, for the AI industry, and for the chip export controls Huang has long pushed back against. Plus, now that the Democrats have swept the midterms, white nationalists, Christian nationalists, and the Proud Boys are declaring the MAGA movement dead and saying the Republican Party is theirs for the taking. You can follow Brian Barrett on Bluesky at @brbarrett, Zoë Schiffer on Bluesky at @zoeschiffer, and Leah Feiger on Bluesky at @leahfeiger. Write to us at [email protected]. If you're on an iPhone or iPad, open the app called Podcasts, or just tap this link.",
+      "source": "Wired AI",
+      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/",
+      "category": "Industry",
+      "date": "2026-11-12T18:59:58.000Z",
+      "hot": false,
+      "officialUrl": "https://www.wired.com"
+    },
+    {
+      "id": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+      "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+      "summary": "CHICAGO—Families joined protests in seven cities nationwide on Wednesday, rallying against what they see as Google’s bid to entrench its AI models in schools, turn kids of all ages into Gemini guinea pigs, and hook them on AI. The backlash follows a Google statement last week, confirming that there will be no way for students to use Google Search without AI. While Google claimed it was giving schools “more choice, not less”—by turning off Search, Gemini, and Gemini Notebook by default—it would not provide an option that allowed Search without AI. For students, the only way to avoid interacting with AI was to remember to add “-ai” to every query, parents worried. In Chicago, many families showed up to protest Google, despite cold, rainy weather. Waving signs, dozens of protesters marched up to Google’s downtown office as workers seemed to be leaving for the day, shouting chants like “Hey Google, nice try, we don’t want your Gemini” and “Hey, Google, leave our kids alone!”Read full article Comments",
+      "source": "Ars Technica AI",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+      "category": "Industry",
+      "date": "2026-11-12T18:57:45.000Z",
+      "hot": false,
+      "officialUrl": "https://arstechnica.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/analysisfrom-spacex-to-anthropic-markets-have-a-new-playbook-for-megashare-debuts-5020374",
+      "title": "Analysis-From SpaceX to Anthropic, markets have a new playbook for mega-share debuts",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/analysisfrom-spacex-to-anthropic-markets-have-a-new-playbook-for-megashare-debuts-5020374",
+      "category": "Business",
+      "date": "2026-11-12T18:50:01.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6023061",
+      "title": "Google’s next-gen Gemini 4 Hydrogen AI model is here, touting faster intelligence for all",
+      "summary": "Google's Gemini AI division has been on a roll lately. Merely weeks after introducing the Gemini 4 Carbon and Gemini 4 Argon frontier AI models, the company has today launched Gemini 4 Hydrogen. In an official blog post, Google describes the new Hydrogen model as its daily driver for agentic workflows, with a focus on speed and efficiency, while Carbon and Argon handle deep, long-horizon reasoning. Starting today, Gemini 4 Hydrogen is rolling out in the Gemini app, and powers Google Search for all users globally. It has also been deployed in Google AI Studio, and in Google Antigravity for users who pay for a Google AI Pro or Ultra subscription. Google Carbon and Argon do the deep thinking.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/cool-tech/googles-next-gen-gemini-4-hydrogen-ai-model-is-here-touting-faster-intelligence-for-all/",
+      "category": "Tech",
+      "date": "2026-11-12T18:46:01.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/is-investor-appetite-for-ai-running-out-why-ranmore-is-turning-to-asia-5022974",
+      "title": "Is investor appetite for AI running out? Why Ranmore is turning to Asia",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/is-investor-appetite-for-ai-running-out-why-ranmore-is-turning-to-asia-5022974",
+      "category": "Business",
+      "date": "2026-11-12T18:43:50.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/corteva-shares-slide-after-brazil-weakness-prompts-annual-profit-forecast-cut-5022630",
+      "title": "Corteva shares plunge as CEO warns Brazil slump will drag on",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/corteva-shares-slide-after-brazil-weakness-prompts-annual-profit-forecast-cut-5022630",
+      "category": "Business",
+      "date": "2026-11-12T18:43:37.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/nvidia-options-traders-bank-on-longerterm-stock-recovery-5022967",
+      "title": "Nvidia options traders bank on longer-term stock recovery",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/nvidia-options-traders-bank-on-longerterm-stock-recovery-5022967",
+      "category": "Business",
+      "date": "2026-11-12T18:42:52.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "108549801",
+      "title": "‘A dark day for Nvidia’: Here’s what analysts have been saying about Jensen Huang’s departure",
+      "summary": "The company's board convened Wednesday evening after reports emerged of Huang engaging in an affair with an employee.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html",
+      "category": "Business",
+      "date": "2026-11-12T18:41:49.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3188037",
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "category": "Business",
+      "date": "2026-11-12T18:39:23.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "00pzb7qXwAhoKpR2vTntsFs",
+      "title": "Is Outlook down? Possible Microsoft outage locks down email inboxes.",
+      "summary": "ET — Microsoft initially described the issue as primiarily affecting mailboxes \"in the Americas.\" However, in an update posted to X, the company acknowledged other services and locations were also affected.\"While we're working to mitigate impact, we've confirmed the issue may affect Microsoft 365 service connectivity for users in any region, more information will be provided in the Microsoft 365 admin center under EX1550543.\" The company added, \"a portion of infrastructure is experiencing elevated load across multiple regions, which is likely contributing to the connectivity errors.\"Thousands of Microsoft Outlook users reported an outage on Thursday afternoon, with user error reports for Microsoft products spiking sharply.The platform DownDetector showed error reports spiking around 12:30 p.m. ET, the service had received more than 130,000 reports, indicating serious problems with the popular email service. Virtually all Microsoft services showed elevated error reports, including Microsoft 365, Microsoft Copilot, and Microsoft Teams. Credit: Screenshot courtesy of DownDetector At this time, it's not clear if those reports are related to an Outlook outage or indicate that these services are also down.However, there are signs of a more widespread problem. Case in point: The Microsoft service status page was not loading for Mashable reporters, as of this writing.However, the Microsoft 365 Status account on X posted a message acknowledging an outage at 12:54 p.m. ET: \"We're in...",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/microsoft-outlook-outage-nov-12-2026",
+      "category": "Tech",
+      "date": "2026-11-12T18:37:51.000Z",
       "hot": false,
       "officialUrl": "https://mashable.com"
     },
     {
+      "id": "https://www.investing.com/news/stock-market-news/nvidia-ceo-jensen-huang-to-step-down-in-big-blow-to-ai-boom-5021980",
+      "title": "Nvidia CEO Jensen Huang resigns, in blow to AI boom he helped foster",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/nvidia-ceo-jensen-huang-to-step-down-in-big-blow-to-ai-boom-5021980",
+      "category": "Business",
+      "date": "2026-11-12T18:37:45.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6023060",
+      "title": "Alloop’s smart ring turns into a fitness band, but its AI trick is even cooler",
+      "summary": "Alloop Trio is a shape-shifting health wearable with a tiny sensor, a voice-enabled AI agent, and a few clever ideas about how wearables might be used in the future. Imagine finishing a workout, tapping your wrist, and telling your fitness tracker, \"Just finished four sets of bench presses at 150 pounds. Feeling great today.\" That's the kind of interaction Alloop wants to make routine with Trio, a new wearable unveiled in New York City on October 21. It combines a smart ring, fitness band, and voice-enabled AI module into one modular system, but the real ambition goes beyond making another device that tracks your sleep and heart rate. Alloop wants to turn your fitness tracker into a personal health agent you can talk to.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/contributor-content/alloops-smart-ring-turns-into-a-fitness-band-but-its-ai-trick-is-even-cooler/",
+      "category": "Tech",
+      "date": "2026-11-12T18:26:05.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/11/12/walmart-black-friday-sale-begins/",
+      "title": "Walmart Black Friday Sale Begins With Early Deals on TVs, Laptops, and More",
+      "summary": "Walmart's Black Friday sale has officially kicked off today, with an online shopping event that's also seeing some matching deals in retail locations. There are quite a few major discounts in this sale, including savings on headphones, TVs, and more. Note: MacRumors is an affiliate partner with Walmart. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Walmart's Black Friday Schedule The first part of Walmart's Black Friday sale has begun online for Walmart+ members, and it will expand to all shoppers later tonight at 11:59 p.m. Eastern Time, ending on November 15.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/11/12/walmart-black-friday-sale-begins/",
+      "category": "Tech",
+      "date": "2026-11-12T18:20:43.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "00Ux0Cjz3ig4lOzvCFuDvN9",
+      "title": "Jensen Huang resigns as Nvidia CEO: Successor, reactions, live updates",
+      "summary": "Jensen Huang officially resigned as Nvidia CEO on Thursday morning, a seismic event in the tech industry.Nvidia is one of the most valuable companies in the world, with a nearly $4 trillion valuation, and Huang was the company's original CEO and co-founder. The company's board of directors shared a CEO transition plan on its website, saying Huang has also resigned as president and as a member of the board, effective immediately.The company's CFO, Colette Kress, will serve as interim CEO, while also maintaining her CFO responsibilities. The board has begun searching for a new CEO, looking both inside and outside the company.The tech industry has been closely watching Nvidia and its stock ever since news first broke by the New York Times that Huang had not one, but two affairs, including one with an accused Chinese spy. Nvidia chips provide much of the compute that powers the fast-growing AI industry, and so Huang's alleged entanglement with a possible Chinese spy wasn't just a typical executive PR scandal, but a national security issue.The story is still developing, so keep checking back at Mashable for the latest Nvidia news and live updates.The Jensen Huang affair: What happenedLast Friday, New York Times and Financial Times reported dropped a bomb on the tech industry. The publications reported that Huang had an affair with a woman the U.S. intelligence community believed to be a Chinese spy.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/nvidia-jensen-huang-affair-resignation-live-blog",
+      "category": "Tech",
+      "date": "2026-11-12T18:16:37.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=383146",
+      "title": "Nvidia, AMD, Broadcom: The AI Stock Winners and Losers After Jensen Huang’s Ousting",
+      "summary": "Nvidia shares tumbled after Jensen Huang’s exit, while AMD and Broadcom climbed and Nvidia-backed CoreWeave sank.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/383146/nvidia-amd-broadcom-ai-stock-winners-loses-jensen-huang",
+      "category": "Tech",
+      "date": "2026-11-12T18:06:03.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6023046",
+      "title": "This Tineco Smart Wet/Dry Vac Deal Is the Ultimate Hard Floor Upgrade",
+      "summary": "If you're tired of pushing dirty water around your kitchen, it's time to upgrade your floor cleaning routine. The Tineco FLOOR ONE S7 Suite is a premium wet/dry vacuum available on Amazon that completely eliminates the need for outdated cleaning supplies. It combines vacuuming and mopping into a single smart system, making it the perfect excuse to finally streamline your chores and save yourself some serious time. The FLOOR ONE S7 Suite is a hard floor powerhouse. It packs an impressive 28kPa of suction power to pull up stubborn dirt, while its dual-block anti-tangle brush roller ensures you aren't constantly pulling pet fur out of the machine. One of its best design features is the 180-degree lay-flat capability.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/home/tineco-smart-wet-dry-vac-deal/",
+      "category": "Tech",
+      "date": "2026-11-12T18:01:40.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "summary": "Hydrogen brings cutting-edge intelligence to everyone. SVP, Google DeepMind and Chief AI Architect, Google Your browser does not support the audio element. Today, DeepMind is introducing Gemini 4 Hydrogen, bringing cutting-edge intelligence to everyone — with speed and efficiency for everyday coding and agentic workflows. Hydrogen surpasses Argon on the Artificial Analysis Intelligence Index at its default high thinking level (51 vs. 50, and reaching 54 at its highest xhigh thinking setting), while often completing tasks faster than models in its class.",
+      "source": "DeepMind Blog",
+      "sourceUrl": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "category": "Research",
+      "date": "2026-11-12T18:00:50.000Z",
+      "hot": false,
+      "officialUrl": "https://deepmind.google"
+    },
+    {
+      "id": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "summary": "Your browser does not support the audio element. Google AI is bringing Gemini 4 Hydrogen to Google Search globally to provide you with more intuitive, visual, and precise answers. This update helps you navigate complex questions by understanding your intent, conducting simultaneous queries, and displaying structured information like tables and images. You can try these improved capabilities by visiting Google Search today to ask your most nuanced questions. Google AI is bringing Gemini 4 Hydrogen to Google Search to help you find exactly what you need. This update understands complex, multi-part questions and provides clear answers with helpful images, tables, and links.",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "category": "Research",
+      "date": "2026-11-12T18:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://blog.google"
+    },
+    {
+      "id": "6af5d7a1793a10c6a168c9b3",
+      "title": "Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month",
+      "summary": "On Thursday morning, Nvidia announced that Jensen Huang resigned from the company that had become, in many ways, synonymous with its chief executive. Less than an hour later, when the markets opened, Nvidia’s stock had lost roughly $546 billion in market value. Though it has rebounded somewhat, the last weeks of scandal—including a reported second affair with an Nvidia employee—have tanked the chip maker’s valuation by more than $1 trillion. Huang’s very public downfall began in late October, when the The New York Times reported that the CEO had a “close relationship” with Alice Huang, a former executive at the Singapore-based chip buyer Megaspeed and alleged asset of China’s Ministry of State Security. (The two are not known to be related.) At that time, Nvidia’s market cap was around $5.2 trillion. On November 8, Nvidia announced it was investigating its CEO, after Jensen publicly acknowledged the affair.",
+      "source": "Wired AI",
+      "sourceUrl": "https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/",
+      "category": "Industry",
+      "date": "2026-11-12T17:59:15.000Z",
+      "hot": false,
+      "officialUrl": "https://www.wired.com"
+    },
+    {
+      "id": "https://www.engadget.com/2315072/zelenskyy-says-starshield-has-been-slowed-again-endangering-ukraine-defense/",
+      "title": "Zelenskyy says Starshield has been slowed again, endangering Ukraine's defense",
+      "summary": "It comes three weeks after Ukraine’s speeds were restored following the last throttling incident. Charles Mcquillan/Getty Images Add Engadget on Google: Preferred Source Google Discover As media headlines focus on Jensen Huang's resignation and the midterms fallout, you could almost forget that Ukraine is still fighting for its life — with all of Europe nervously watching. According to President Volodymyr Zelenskyy, his job just got harder again. The country's access to Starshield, the military version of Starlink, has been hit with \"systematic speed restrictions\" for several days. And it just so happens to be while Trump's envoys are in Moscow for talks with Russian President Vladimir Putin. Zelenskyy posted on X that the speed limits are being imposed along the war's entire front line and in Russian-occupied territory.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2315072/zelenskyy-says-starshield-has-been-slowed-again-endangering-ukraine-defense/",
+      "category": "Tools",
+      "date": "2026-11-12T17:45:03.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
       "id": "108549799",
-      "title": "Nvidia stock falls 7% as investors await Jensen Huang’s fate",
-      "summary": "Nvidia's board met on Wednesday to discuss whether to oust Jensen Huang as CEO.",
+      "title": "Nvidia stock pares morning losses after CEO Jensen Huang announces resignation",
+      "summary": "Chief Financial Officer Colette Kress will serve as interim CEO until a new leader is appointed.",
       "source": "CNBC Tech",
       "sourceUrl": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
       "category": "Business",
-      "date": "2026-11-12T11:25:09.000Z",
+      "date": "2026-11-12T17:40:40.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "108549160",
+      "title": "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
+      "summary": "Nvidia CEO Jensen Huang has been a singular figure in the development of the AI industry, which suddenly has to survive without him.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html",
+      "category": "Business",
+      "date": "2026-11-12T17:37:36.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3187922",
+      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+      "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "category": "Business",
+      "date": "2026-11-12T17:36:40.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "05mjvFc1GUE4ICXiX98zSji",
+      "title": "I dare anyone to beat Walmarts Black Friday deal on the Shark FlexStyle",
+      "summary": "12, the ruby red Shark FlexStyle Air Multi-Styler & Drying System is on sale for the record-low price of $199 during Walmart's Black Friday sale — a 50% savings. Opens in a new window Credit: Shark Shark FlexStyle Air Multi-Styler & Drying System (Ruby Red Diamond) $199 at Walmart $399.99 Save $200.99 Get Deal at Walmart Need a no-fail Christmas gift idea for your wife, girlfriend, mom, or sister? Several Mashable staffers swear by the Shark FlexStyle, a popular multistyler with a unique swiveling base that works like a regular hair dryer. Our reviewer deemed it the best Dyson Airwrap dupe available. We've spotted a lot of great deals on the FlexStyle so far this holiday season, but this one takes the Christmas fruitcake: During Walmart's first Black Friday Deals event, live now through Nov. 15, a ruby red FlexStyle that comes with five attachments, a heat mat, and a carrying case is on sale for just $199.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/nov-12-shark-flexstyle-bundle-early-black-friday-deal-walmart",
+      "category": "Tech",
+      "date": "2026-11-12T17:16:57.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=383141",
+      "title": "'A Massive Mistake': Tech, AI and Crypto Founders React to Jensen Huang’s Nvidia Exit",
+      "summary": "Nvidia’s founder Jensen Huang is out, and tech and crypto leaders are furious. Some fear for open-source AI, others question the board.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/383141/massive-mistake-tech-ai-crypto-founders-react-jensen-huang-nvidia-exit",
+      "category": "Tech",
+      "date": "2026-11-12T17:14:42.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "05tXJ90tf4UdIMujWZHJK07",
+      "title": "Jensen Huang resigns: A timeline of the Nvidia affair",
+      "summary": "The AI boom has put chatbots at work, AI-generated videos in our feeds, and data centers on the agenda at town halls. Nvidia, a company that got its start making computer games look better, now supplies the chips that power much of the AI industry. That made Nvidia one of the world's most valuable companies and its chips some of the most sought-after technology in the world. 12, the company announced that it had lost the only CEO it had ever had. The story goes back more than a year and reads a little like an HBO drama, with alleged spies, extramarital affairs, and corporate intrigue. Let's break down the timeline of the Jensen Huang resignation based on what came to light and when.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/jensen-huang-affairs-nvidia-resignation-timeline",
+      "category": "Tech",
+      "date": "2026-11-12T17:09:04.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3187955",
+      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+      "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+      "category": "Business",
+      "date": "2026-11-12T17:00:52.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "108549917",
+      "title": "Coinbase CEO says industry collaboration can help contain fallout from hacks like Binance breach",
+      "summary": "Coinbase CEO Brian Armstrong joined \"Squawk Box\" for his first TV interview since the Binance hack to share his perspective on cybersecurity.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/11/12/coinbase-ceo-brian-armstrong-talks-binance-hack-democrats-sweep.html",
+      "category": "Business",
+      "date": "2026-11-12T17:00:49.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "title": "AI chatbots are recommending fake retail websites, study finds",
+      "summary": "A study testing Gemini, Perplexity, and ChatGPT found that in as many as 15 percent of conversations, chatbots displayed ‘risky’ URLs. A study testing Gemini, Perplexity, and ChatGPT found that in as many as 15 percent of conversations, chatbots displayed ‘risky’ URLs. Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of shopping-related questions involving a selection of 151 brands. Questions included “What are the top websites for buying [brand]?”; “Where can I find [brand] online?”; and “Does [brand] ship internationally? What are their regional websites?” The test ran over the course of two testing periods in September and asked about 151 small and large companies like fashion brands Lululemon, Birkenstock, Stüssy, and Madhappy (a client of Podqi) and homeware brand Le Creuset.",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "category": "Industry",
+      "date": "2026-11-12T17:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+      "title": "More game developers are starting to use generative AI",
+      "summary": "A photo from the GDC Festival of Gaming 2026 event. More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it \"as part of their job,\" an increase from 36 percent in 2025. Usage was higher with game developers that work on free-to-play games at 58 percent and mobile-only studio workers at 70 percent. The survey is being published as the game industry continues to reckon with generative AI tools. While many game developers, particularly indie developers, have spoken out strongly against the technology, AI is at the center of indie awa …",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+      "category": "Industry",
+      "date": "2026-11-12T17:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3185934",
+      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+      "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+      "category": "Business",
+      "date": "2026-11-12T17:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6022555",
+      "title": "How to choose the right mattress for side sleepers",
+      "summary": "This post is brought to you in paid partnership with Sleep Number. A good night's sleep is essential to how we feel and function the next day. The mattress we sleep on plays an important role in that experience, particularly for people who spend most of the night on their side. A mattress for side sleepers needs to balance cushioning around the shoulders and hips with enough support to keep the body comfortably aligned. A mattress that feels great for someone who sleeps on their back may not offer the same comfort to a side sleeper. Finding the right mattress comes down to more than choosing between soft and firm.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/home/how-to-choose-the-right-mattress-for-side-sleepers/",
+      "category": "Tech",
+      "date": "2026-11-12T17:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "07pDM8oca74gJxEfpVzU3cq",
+      "title": "Nvidia stock plunges as CEO Jensen Huang resigns: How low it might go",
+      "summary": "Nvidia CEO Jensen Huang has just resigned from the company he co-founded amid reports of two alleged affairs, including one with a woman that U.S. intelligence believes is a Chinese spy, according to a bombshell New York Times report.Thanks to the AI boom, Nvidia has become one of the most valuable companies in the world. And, as a result, Huang had seemingly become the de facto head of the AI industry. Huang's resignation will not only send reverberations through the tech world, but the broader global economy as well.As one could assume, Wall Street didn't take the news well.As of Thursday morning, Nvidia stock had plunged on the news of the affairs and rumors about a possible resignation from Huang. So far, the stock has struggled to rebound after Nvidia's board of directors announced the official CEO transition.Nvidia stock hit as low as $152 per share when the stock market opened. It's currently trading around $162 per share as of publication time, showing some recovery now that the resignation is official.Nvidia's Wall Street woes began on Nov.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/nvidia-stock-plunges-ceo-jensen-huang-resigns-how-low-did-it-go",
+      "category": "Tech",
+      "date": "2026-11-12T16:45:10.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/11/12/apple-adds-samsung-foldables-to-trade-in-program/",
+      "title": "Apple Adds Samsung Foldables to Trade-In Program",
+      "summary": "Apple today revised its U.S. trade-in estimates, with increases for many older iPhones, reductions for several Pro models, and newly listed offers for six Samsung foldables. The iPhone 17 Pro has the largest dollar reduction among the affected iPhones, dropping $45 to a maximum of $740. The iPhone 17 Pro Max falls $30 to $855, while the iPhone Air and standard iPhone 17 each gain $30, bringing both to $615. Many older models recover some of the value lost in September's reductions. Most remain below their pre-September maximums, although the second-generation iPhone SE returns to $45, fully reversing its $5 cut.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/11/12/apple-adds-samsung-foldables-to-trade-in-program/",
+      "category": "Tech",
+      "date": "2026-11-12T16:43:45.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3187911",
+      "title": "Jensen Huang agrees to testify before Congress",
+      "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+      "category": "Business",
+      "date": "2026-11-12T16:36:37.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com",
+      "relatedCoverage": [
+        {
+          "source": "Engadget AI",
+          "url": "https://www.engadget.com/2315091/ex-nvidia-ceo-jensen-huang-is-set-to-testify-before-congress-this-month/"
+        },
+        {
+          "source": "Politico Tech",
+          "url": "https://www.politico.com/news/2026/11/12/jensen-huang-agrees-to-testify-01162650"
+        }
+      ]
+    },
+    {
+      "id": "https://decrypt.co/?p=383139",
+      "title": "Tron, Tether and Chainalysis Form a New Crypto-Crime Task Force—Replacing One That Just Collapsed",
+      "summary": "Tron, Tether, and blockchain analytics firm Chainalysis have launched a joint effort to hunt down and disrupt criminal crypto activity.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/383139/tron-tether-chainalysis-new-crypto-crime-task-force-replacing-trm",
+      "category": "Tech",
+      "date": "2026-11-12T16:36:02.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/11/12/apple-sports-app-ufc/",
+      "title": "Apple Sports App Now Features UFC",
+      "summary": "Apple Sports was updated today with support for the UFC, allowing mixed martial arts (MMA) fans to keep track of fights in the free iPhone app. The latest version of the Apple Sports app provides live, real-time stats for UFC fights. The app displays full cards of men's and women's fights, round-by-round updates, a heat map of strikes during fights, and more. The app also gained support for three more soccer leagues today: China's Super League, Russia's Premier League, and Sweden's Allsvenskan. Launched in 2024, the Apple Sports app shows scores, stats, standings, and more for a variety of leagues and events, including the NFL, MLB, NBA, NHL, NASCAR, F1, Premier League, PGA TOUR, and more. The app remains available on the iPhone only.Tag: Apple SportsThis article, \"Apple Sports App Now Features UFC\" first appeared on MacRumors.comDiscuss this article in our forums",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/11/12/apple-sports-app-ufc/",
+      "category": "Tech",
+      "date": "2026-11-12T16:34:22.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com",
+      "relatedCoverage": [
+        {
+          "source": "Digital Trends",
+          "url": "https://www.digitaltrends.com/phones/missed-the-big-ufc-finish-apples-sports-app-wants-to-make-sure-that-never-happens-again/"
+        }
+      ]
+    },
+    {
+      "id": "https://techcrunch.com/?p=3187523",
+      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+      "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+      "category": "Business",
+      "date": "2026-11-12T16:32:33.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6022323",
+      "title": "Eney, the Mac AI Assistant That Actually Gets Things Done",
+      "summary": "We all know the familiar pattern of settling in for a focused work session. You sit down with a hot cup of coffee, ready to dive in, only to watch digital clutter instantly hijack your focus. Half an hour vanishes as you bounce between news tabs, hunt down buried downloads, and piece together messy email threads. Traditional web chatbots promised to solve this daily friction, but they often add more steps by forcing you to constantly copy, paste, and reformat text in a browser window. To eliminate this frustration, the team at MacPaw created Eney. Known for polished apps like CleanMyMac and Setapp, they built Eney as a truly action-oriented assistant designed exclusively for Apple Silicon Macs running macOS.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/brc/eney-the-mac-ai-assistant-that-actually-gets-things-done/",
+      "category": "Tech",
+      "date": "2026-11-12T16:31:10.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
+      "title": "Jensen Huang is out. What did China want from him?",
+      "summary": "Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang just resigned from his position as CEO of Nvidia as news of his affairs, including with an alleged Chinese spy, threatened to engulf the company. We’ll have more on that story as things develop and we learn how Nvidia will restructure itself after Jensen — he had something like 60 direct reports, after all, and the entire AI financial ecosystem flows through the company. This is pure Decoder bait. But just two days ago I talked to Kyle Chan, a foreign policy fellow at the Brookings Institution’s John L. Thornton China Center, about the real heart of the scandal: What would China even seek to accomplish by having a spy so close to Jensen?",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
+      "category": "Industry",
+      "date": "2026-11-12T16:30:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/11/12/trump-says-tim-cook-should-be-nvidia-ceo/",
+      "title": "Trump Says Tim Cook Should Be Nvidia CEO as Jensen Huang Resigns",
+      "summary": "In a post on his Truth Social platform today, U.S. President Donald Trump said he thinks that Apple's chairman Tim Cook should become Nvidia's CEO. Nvidia today announced that Jensen Huang has resigned as the company's CEO effective immediately following reports that he had two extramarital affairs, including one that the U.S. government believes involved a spy working for the Chinese government. Nvidia has appointed its CFO Colette Kress as interim CEO. Nvidia's board of directors has initiated a search for a new CEO and said that it will consider both internal and external candidates.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/11/12/trump-says-tim-cook-should-be-nvidia-ceo/",
+      "category": "Tech",
+      "date": "2026-11-12T16:21:09.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6023017",
+      "title": "Google’s new Gemini-powered smart glasses let you get AI help without pulling out your phone",
+      "summary": "Google has teamed up with Gentle Monster, Warby Parker, and Samsung for its Gemini-powered smart glasses, and these actually look like something you would want to put on your face. The glasses work with iPhones as well as Pixel and Samsung phones, and they are up for pre-order right now. Here's everything you need to know about Google's smart glasses before you hit the pre-order button. If you want your glasses to stand out, Gentle Monster has six eye-catching designs, with colors ranging from dark red and pink to gray and yellow. Lens choices include tinted, clear, blue, and brown, and most of them support prescription lenses. Prices start at $449 in the US and South Korea.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/wearables/google-ai-smart-glasses-bring-gemini-live-translation-and-a-12mp-camera/",
+      "category": "Tech",
+      "date": "2026-11-12T16:18:56.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6022996",
+      "title": "GENTO Debuts a 21-DoF Hand at CoRL 2026 as NVIDIA Launches GR00T 2 With TIANJI Marvin Pro",
+      "summary": "Hand someone an object, wipe a surface, or guide a mechanical part into place, and you are constantly — and unconsciously — adjusting your grip. You feel resistance, ease your pressure, and change direction on the fly. For modern robots, that seemingly ordinary interaction remains a monumental engineering hurdle. While AI models have made massive strides in \"thinking,\" physical execution often falls short because robots frequently lack a nuanced sense of touch. That is the challenge behind GENTO's proprietary 21-degree-of-freedom dexterous hand, making its global debut at CoRL 2026 (Conference on Robot Learning), running November 9–12 in Austin, Texas. At Booth 602 (Level 3 of the JW Marriott Austin), Tianji Intelligence is presenting the GENTO hand alongside its TIANJI force-controlled arms, TIANJI Marvin Pro platform, and GENTO Luna, extending its approach to robotic manipulation from arms to fingertips.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/brc/gento-debuts-a-21-dof-hand-at-corl-2026-as-nvidia-launches-gr00t-2-with-tianji-marvin-pro/",
+      "category": "Tech",
+      "date": "2026-11-12T16:17:05.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3187860",
+      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+      "summary": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+      "category": "Business",
+      "date": "2026-11-12T16:12:44.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "05KQ4efP0LQlo7QFCwDRXxo",
+      "title": "We found 45 early Black Friday deals already live: Get $250 off MacBooks, 53% off Bose headphones",
+      "summary": "The best early Black Friday deals: Best Apple Deal Apple MacBook Air, 13-inch (M5, 16GB RAM, 512GB SSD) $1,349.99 (save $250) Shop Now Best headphones deal Bose QuietComfort noise-cancelling headphones $254.10 (save $104.90) Shop Now Best TV deal TCL 75-inch QM8L SQD-Mini-LED QLED 4K TV $1,397.99 (save $1,602) Shop Now Best Amazon device deal Amazon Kindle Bundle (16GB Kindle, Knit Case, Kindle Click) $190.97 (save $34) Shop Now Best kitchen deal Ninja Crispi Air Fryer $159.99 (save $20) Shop Now Best Lego deal Lego Pok&eacute;mon Eevee $47.99 (save $12) Shop Now The moment Halloween wraps, we turn to the holiday season. For most people, that means Hallmark holiday specials, planning Thanksgiving, and Christmas music on the radio. But for Mashable's shopping team, it means only one thing: It's time to prep for Black Friday sales. Yes, we know that Black Friday 2026 doesn't technically start until Nov. 27, but that hasn't stopped retailers.So, we are officially on the hunt for the best early Black Friday deals. And as of this writing, we've found huge $200 discounts on MacBook Air laptops, 53% discounts on Bose noise-canceling headphones, and 50% savings on award-winning QLED TVs, not to mention discounts on Pok&eacute;mon Lego sets and other items on our holiday wishlists.So, if you don't want to wait for Thanksgiving to get your hands on the best gifts of the year, retailers like Amazon, Walmart, Sephora, and Best Buy already have plenty of early deals to entice you.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/best-early-black-friday-deals-2026",
+      "category": "Tech",
+      "date": "2026-11-12T16:12:24.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6023013",
+      "title": "Jensen Huang steps down as Nvidia chief and the hunt for a new CEO begins",
+      "summary": "The speculation has finally turned into reality. Nvidia has just announced that its CEO, Jensen Huang, has resigned as the company's chief and is also leaving its board of directors. With Huang gone, the company has appointed Colette Kress, currently its executive vice president and chief financial officer, as interim CEO while the board searches for a permanent chief for the AI chip giant. \"Jensen's contributions to NVIDIA are profound. NVIDIA is one of the most consequential technology companies in the world. The Board and the company thank Jensen for his immeasurable contributions to the company and the industry,\" the company said in a statement.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/computing/jensen-huang-steps-down-as-nvidia-chief-and-the-hunt-for-a-new-ceo-begins/",
+      "category": "Tech",
+      "date": "2026-11-12T16:10:09.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=383098",
+      "title": "Anchorage Digital’s Stablecoins Can Now Settle Payments on Visa’s Network",
+      "summary": "Anchorage Digital is extending its stablecoin reach into one of the world’s largest payment networks, teaming up with Visa.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/383098/anchorage-digital-stablecoins-settle-payments-visa-network",
+      "category": "Tech",
+      "date": "2026-11-12T16:01:03.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
+      "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
+      "summary": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple extramarital affairs Huang had with a direct report and an alleged Chinese spy. The new, and first, Chair of the Board, Harvey Jones, shared news of Huang's resignation with the company in an email, which also announced CFO Colette Kress as interim CEO. You can read the full text of the board's internal memo and Kress's first message to employees as interim CEO below. Subject: Statement from NVIDIA Board Chair Dear NVIDIA Employees, I am writing to share an impo …",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
+      "category": "Industry",
+      "date": "2026-11-12T15:48:12.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/11/12/apple-accessories-amazon-sale/",
+      "title": "Apple's Official iPhone 18 Pro Cases and Watch Bands Get Big Discounts on Amazon",
+      "summary": "Today we're tracking a major sale on official Apple accessories at Amazon, with the best prices of the year on iPhone 18 Pro and Pro Max cases, Apple Watch Bands, and more. iPhone Cases Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Amazon has further discounted Apple's iPhone 18 Pro and Pro Max cases this week, with prices starting as low as $29.33 for the iPhone 18 Pro Silicone Case. These deals also include savings on Clear Cases and TechWoven Cases for the latest iPhones. iPhone 18 Pro Clear Case - $36.00, down from $49.00 Silicone Case - $29.33, down from $49.00 TechWoven Case - $46.00, down from $59.00 iPhone 18 Pro Max Clear Case - $36.00, down from $49.00 Silicone Case - $32.83, down from $49.00 TechWoven Case - $46.00, down from $59.00 iPhone Duo If you're on the hunt for protection for your new iPhone Duo, we've also been keeping track of all the best cases and screen protectors for the new device.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/11/12/apple-accessories-amazon-sale/",
+      "category": "Tech",
+      "date": "2026-11-12T15:46:08.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3187797",
+      "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+      "summary": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+      "category": "Business",
+      "date": "2026-11-12T15:37:29.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com",
+      "relatedCoverage": [
+        {
+          "source": "Decrypt AI",
+          "url": "https://decrypt.co/383189/who-colette-kress-jensen-huang-successor-nvidia-ceo"
+        }
+      ]
+    },
+    {
+      "id": "https://www.macrumors.com/2026/11/12/nintendo-to-end-sign-in-with-apple-support/",
+      "title": "Nintendo to End 'Sign in With Apple' Support in January",
+      "summary": "Nintendo will stop allowing users to sign in to their Nintendo Account with an Apple or Google account on January 26, 2027, the company has announced. Users will also no longer be able to create a Nintendo Account through either service. Nintendo has not explained why it is removing the options, but notes that the exact cutoff could be delayed depending on the progress of its system updates. After the change, users will need to sign in with their Nintendo Account email address or Sign-In ID and password, or use a passkey. Nintendo says users who are already signed in on a device may not need to sign in again immediately. Anyone who usually signs in through Apple or Google should check that they know their Nintendo Account login details before the deadline.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/11/12/nintendo-to-end-sign-in-with-apple-support/",
+      "category": "Tech",
+      "date": "2026-11-12T15:32:07.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3187651",
+      "title": "Norwest pushes deeper into AI with new $4B fund",
+      "summary": "This is the investment firm's largest fund to date.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+      "category": "Business",
+      "date": "2026-11-12T15:18:14.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3187828",
+      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+      "summary": "This is Fireworks' second data breach in as many months.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+      "category": "Business",
+      "date": "2026-11-12T15:02:28.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
+      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, The New York Times reported on Wednesday that there was evidence of another affair, this time with an Nvidia executive who reported directly to him. A board meeting that night ended with Huang’s resignation, and Nvidia CFO Colette Kress was installed as the new interim CEO. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to Nvidia GPUs, but also a spy for China’s Ministry of State Security. The second report focused on Huang and Nvidia vice president of healthcare Kimberly Powell, claiming that a bystander who recorded the two being “affectionate” at the hotel hosting Nvidia’s GTC developer conference in May was met by Huang’s security workers and asked to sign a non-disclosure agreement. In recent years, Nvidia has become a key part of the Trump administration’s AI push, a central figure in negotiations over potential Chinese access to cutting-edge AI hardware, and a company that has used its now $4 trillion-plus market cap to finance other AI companies, including the “neoclouds” like Coreweave who have been some of its biggest customers.",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "category": "Industry",
+      "date": "2026-11-12T15:01:31.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/11/12/apple-home-collection-orders/",
+      "title": "Apple Home Collection: Select Accessories Available to Order This Friday",
+      "summary": "Apple today announced that select Apple Home Collection accessories will be available to order starting Friday, November 13, with availability beginning in December. Apple did not say exactly which accessories can be ordered tomorrow, so . Introduced alongside Apple's new HomeView smart home hub last month, the Apple Home Collection is a new lineup of smart home accessories that LG and Schneider Electric designed in collaboration with Apple. There are indoor and outdoor cameras, thermostats, temperature sensors, a video doorbell, and a door lock. All of the Apple Home Collection accessories work with the HomeView: LG Video Doorbell ($249.95) - The Video Doorbell has dual cameras that capture views of visitors and packages. The front camera has a 2.5K resolution and the bottom camera is full HD resolution.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/11/12/apple-home-collection-orders/",
+      "category": "Tech",
+      "date": "2026-11-12T14:50:37.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
+      "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
+      "summary": "Smartglasses have always faced an uphill road to acceptance. Not only is propping a computer up on your nose an uncomfortable proposition, but the privacy aspect has been vexing people since the Google Glass days. Now, Google is ready to take another swing at \"intelligent eyewear\" for the Gemini era after previewing its plans a couple of times. The first glasses are up for preorder today from Gentle Monster and Warby Parker, but they're no impulse buy. These devices are a collaboration between Google, Samsung, and the aforementioned eyewear designers. Gentle Monster and Warby Parker have each designed a few different frames, with options for transparent and tinted lenses.",
+      "source": "Ars Technica AI",
+      "sourceUrl": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
+      "category": "Industry",
+      "date": "2026-11-12T14:50:17.000Z",
+      "hot": false,
+      "officialUrl": "https://arstechnica.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/11/12/apple-plans-homeview-update-with-siri-fix/",
+      "title": "Apple Says HomeView Software Update Coming Next Month With Siri Fix",
+      "summary": "Apple confirmed to Stern that it plans to release a software update in December with a fix for this issue. Siri AI also refused to open Stern's garage door or unlock her front door, even though the HomeView recognized her. Apple told her that the software update coming next month will enable this functionality. In the meantime, you can unlock door locks and garage doors by opening the Home app on the HomeView and tapping on-screen controls. \"Today users recognized by HomeView can unlock security accessories, including door locks and garage doors, directly on their HomeView screen,\" an Apple spokesperson told Stern. \"With a software update next month, this will extend to Siri AI, giving users more ways to manage security accessories once they've been recognized.\" HomeView launches this Friday, with U.S.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/11/12/apple-plans-homeview-update-with-siri-fix/",
+      "category": "Tech",
+      "date": "2026-11-12T14:44:15.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/?p=4248378",
+      "title": "This $80 Subscription Will Bring AI Into Your Business",
+      "summary": "Tap into the power of OpenAI, Meta, Midjourney, and additional powerful AI models with 1min.AI.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/1minai-pro-plan-lifetime-subscription/",
+      "category": "Business",
+      "date": "2026-11-12T14:30:36.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3186475",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "category": "Business",
+      "date": "2026-11-12T14:30:01.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com",
+      "relatedCoverage": [
+        {
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling"
+        }
+      ]
+    },
+    {
+      "id": "https://cohere.com/blog/cohere-welcomes-jaya-baloo-as-first-ciso",
+      "title": "Cohere welcomes jaya baloo as first ciso",
+      "summary": "As AI becomes foundational infrastructure for governments and enterprises, trust is becoming just as important as capability. Organizations aren't simply evaluating model performance, they're asking whether the systems they deploy can be trusted with their most sensitive data, critical operations, and strategic assets. Today, Cohere is excited to welcome Jaya Baloo, co-founder of AISLE and one of the world's foremost cybersecurity leaders, to Cohere as Cohere's first Chief Information Security Officer (CISO). In this role, Jaya will help advance Cohere's mission to build the world's most trusted Sovereign AI platform. Organizations around the world are moving AI from pilots into production. As they do, security, governance, and compliance are becoming central requirements for deployment.",
+      "source": "Cohere Blog",
+      "sourceUrl": "https://cohere.com/blog/cohere-welcomes-jaya-baloo-as-first-ciso",
+      "category": "Models",
+      "date": "2026-11-12T14:30:00.000Z",
+      "hot": true
+    },
+    {
+      "id": "108549815",
+      "title": "Nerves around Nvidia as investors await the outcome of Board's crisis CEO meeting",
+      "summary": "Shares in Nvidia are back in the red in premarket trading as Huang's future hangs in the balance",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/11/12/nvidia-boards-crisis-meeting.html",
+      "category": "Business",
+      "date": "2026-11-12T14:15:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "6af5b45c11d8a61e3722e119",
+      "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
+      "summary": "Nvidia’s CEO and cofounder Jensen Huang is officially out, and longtime chief financial officer Colette Kress is in. The chipmaker’s board of directors announced Thursday that Kress, who joined Nvidia in 2013, has been named interim CEO following Huang’s resignation amid a scandal over his extramarital affair with a Chinese businesswoman believed by US officials to be an asset of China’s Ministry of State Security. Harvey Jones, the newly appointed chair of Nvidia’s board, said in a statement that Kress “has helped lead Nvidia through a period of extraordinary growth and has a deep understanding of our business, customers, operations and financial position.” He added that Kress will be supported by an “experienced leadership team” and that the board has “full confidence” in her. Kress was among the most obvious candidates to fill the void after Huang’s departure, according to multiple tech executives and industry analysts who follow Nvidia closely, given her long tenure at the company, credibility on Wall Street and across the tech industry, and, perhaps most importantly, her deep familiarity with Nvidia’s business and finances. “She’s extremely strong-willed, professional, and whip-smart. She doesn’t tolerate nonsense.",
+      "source": "Wired AI",
+      "sourceUrl": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/",
+      "category": "Industry",
+      "date": "2026-11-12T14:14:33.000Z",
+      "hot": false,
+      "officialUrl": "https://www.wired.com",
+      "relatedCoverage": [
+        {
+          "source": "Decrypt AI",
+          "url": "https://decrypt.co/383134/jensen-huang-resigns-as-nvidia-ceo-with-cfo-colette-kress-named-interim-chief"
+        },
+        {
+          "source": "CNBC Tech",
+          "url": "https://www.cnbc.com/2026/11/12/nvidia-kress-jones-employee-emails.html"
+        }
+      ]
+    },
+    {
+      "id": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
+      "title": "I reviewed the Apple HomeView, ask me anything",
+      "summary": "Hi! I'm Jen Tuohy, The Verge's senior smart home reviewer. I've tested every smart display Amazon and Google have ever made, and for the past week I've been testing Apple's first: The $299 HomeView. I put the tabletop and wall-mounted versions through their paces, on my kitchen counter, bedside table, in my office, and on my coffee table. I also mounted one as a smart home control panel in my entryway.",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
+      "category": "Industry",
+      "date": "2026-11-12T14:10:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "https://blogs.nvidia.com/?p=99861",
+      "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
+      "summary": "Rally the ranks this GFN Thursday. Warhammer 40,000: Dawn of War IV is coming to GeForce NOW, allowing players to experience the battle for Kronus through cloud gaming. There’s more on the horizon, with NVIDIA DLSS 5 technology coming to War Thunder and Where Winds Meet. Meanwhile, Dragon’s Dogma 2: Dark Arisen brings new tales and encounters, alongside 10 games joining the GeForce NOW library this week. Kronus Calls for Reinforcements Warhammer 40,000: Dawn of War IV, developed by KING Art Games and published by Deep Silver, is coming to GeForce NOW. Launching on Steam Thursday, Dec.",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
+      "category": "Events",
+      "date": "2026-11-12T14:00:59.000Z",
+      "hot": false,
+      "officialUrl": "https://blogs.nvidia.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/11/12/apple-homeview-review/",
+      "title": "Review: Is Apple's All-New HomeView Smart Home Hub Worth $299?",
+      "summary": "On our YouTube channel today, Dan Barbera shared a review of Apple's all-new HomeView smart home hub ahead of the device launching on Friday. As a refresher, the HomeView features a 7-inch square display connected to an aluminum speaker base by a stainless steel tilting hinge. Apple says it is ideal for a kitchen counter, nightstand, or side table. You can use the device to interact with Siri AI, control smart home accessories, go on FaceTime video calls, listen to music, and more. Preinstalled apps on the HomeView include Alarms, Calendar, FaceTime, Find My, Home, Intercom, Messages, Music, Podcasts, Reminders, Safari, Settings, Timers, Weather, and World Clock. The device does not have an App Store, but it does support CarPlay-enabled audio and video apps, such as Apple TV, Spotify, and Apple Music Classical.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/11/12/apple-homeview-review/",
+      "category": "Tech",
+      "date": "2026-11-12T14:00:12.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "04McXS9an036HuqPE3iisXq",
+      "title": "Hands-on: The Apple HomeView is gorgeous, costs $299, and has no App Store",
+      "summary": "The Apple HomeView finally arrives on doorsteps (and in Apple Stores) on Friday, and I think this gorgeous little smart display is about to become a common sight in homes around the world. I've been testing the HomeView ahead of its release, and I would definitely recommend it to homeowners, parents, and anyone looking for Christmas gift ideas.From the moment I saw the HomeView up close, I've had a premonition: Apple is going to sell a million of these things. And after adding it to my own home, I'm even more confident in that prediction. Opens in a new window Credit: Apple Apple HomeView smart display $289.99 at Amazon $299.99 Save $10 Get Deal at Amazon Opens in a new window Credit: Apple Apple HomeView smart display (wall-mounted) $299 at Amazon Shop Now at Amazon As a product reviewer, you get a sixth sense for this. The last time I felt this way about a product? Back in March, when Apple debuted the MacBook Neo, which proved to be extremely popular.Is the Apple HomeView really worth $300?",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/apple-homeview-smart-display-hands-on-first-impressions",
+      "category": "Tech",
+      "date": "2026-11-12T14:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "https://www.engadget.com/2314410/apple-tv-4k-4th-gen-review/",
+      "title": "Apple TV 4K (4th gen) review: Still great, but drastically more expensive",
+      "summary": "The $150 price increase is hard to swallow. Billy Steele for Engadget Add Engadget on Google: Preferred Source Google Discover RATING : 8.5 / 10 Pros A19 chip delivers speedy performance Find My Precision Finding for the remote Smart home hub functionality HomePod surround sound Built-in mics for Siri Cons Significantly more expensive Cheaper Wi-Fi-only model is gone The Apple TV 4K has been our pick for the best premium streaming device since the third-gen model arrived in 2022. In terms of pure performance, it was undoubtedly the best you could buy, thanks to the combination of picture quality, speed and features you wouldn't find on any of the more affordable competition. That was true four years ago and it's still true now. Unfortunately, the global tech landscape has changed massively over the last two years. Nearly every device is more expensive, especially if it needs RAM or its own processor.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2314410/apple-tv-4k-4th-gen-review/",
+      "category": "Tools",
+      "date": "2026-11-12T14:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3187646",
+      "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+      "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+      "category": "Business",
+      "date": "2026-11-12T13:26:25.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://decrypt.co/?p=383132",
+      "title": "DTCC to Bring Tokenized Stocks and Treasuries to Solana in 2027",
+      "summary": "Wall Street's main settlement firm will add Solana to its tokenization service, which went live last month on Canton and a private network.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/383132/dtcc-to-bring-tokenized-stocks-and-treasuries-to-solana-in-2027",
+      "category": "Tech",
+      "date": "2026-11-12T13:25:47.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://decrypt.co/?p=383129",
+      "title": "Morning Minute: Tokenized Stock Venues Are Launching Without Big Tech’s Approval",
+      "summary": "Plus, a second Jensen Huang affair is rocking markets while MSCI’s MSTR removal decision sends crypto lower.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/383129/morning-minute-tokenized-stock-venues-are-launching-without-big-techs-approval",
+      "category": "Tech",
+      "date": "2026-11-12T13:06:24.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6022963",
+      "title": "Best AI Reputation Management Firms in 2026: Top Picks for AI Visibility & LLM Reputation (vs. Tr...",
+      "summary": "When someone asks ChatGPT, Gemini or Perplexity about your business, the answer they get is now your first impression. ChatGPT alone reached 900 million weekly active users in February 2026. Traditional online reputation management was built to push bad links off page one. AI visibility and LLM reputation management is about what the answer itself says. That shift has created a new category, and only a handful of companies work in it. Some are service firms that change what AI says.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/contributor-content/best-ai-reputation-management-firms-in-2026-top-picks-for-ai-visibility-llm-reputation-vs-traditional-orm/",
+      "category": "Tech",
+      "date": "2026-11-12T12:43:24.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/11/12/johny-srouji-eyed-as-potential-nvidia-ceo/",
+      "title": "Apple's Johny Srouji Eyed to Replace Nvidia CEO Jensen Huang",
+      "summary": "Apple's chief hardware officer Johny Srouji is being considered as a potential successor to Nvidia CEO Jensen Huang as the chipmaker's board prepares to remove its co-founder, according to Semafor. Citing a person familiar with the matter, the publication identified Srouji as one of the people under consideration for Nvidia's top job. It is unclear if Srouji has yet been approached or expressed interest in leaving Apple. Nvidia has reportedly hired an outside firm to identify potential replacements for Huang, according to Bloomberg. The succession discussions follow reports of multiple extramarital affairs involving Huang, including one with a woman reportedly suspected of spying for China. Some directors apparently favor appointing chief financial officer Colette Kress as interim CEO if Huang is removed.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/11/12/johny-srouji-eyed-as-potential-nvidia-ceo/",
+      "category": "Tech",
+      "date": "2026-11-12T12:29:41.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.techrepublic.com/article/news-starlink-mini-2-price-specs-availability/",
+      "title": "Starlink Mini 2: $999 Preorder Bundle, Specs, and Availability Explained",
+      "summary": "Starlink Mini 2 introduces a removable battery offering up to 4.5 hours of connectivity. Here's what buyers should know about the $999 preorder bundle, specifications, and availability.",
+      "source": "TechRepublic AI",
+      "sourceUrl": "https://www.techrepublic.com/article/news-starlink-mini-2-price-specs-availability/",
+      "category": "Business",
+      "date": "2026-11-12T12:26:13.000Z",
+      "hot": false,
+      "officialUrl": "https://www.techrepublic.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6022942",
+      "title": "Your smartwatch can already do full-body motion tracking. Researchers just unlocked it at zero co...",
+      "summary": "But what if your smartwatch could track your full-body movement without any additional hardware? Well, that's exactly what researchers at Cornell University's Smart Computer Interfaces for Future Interactions (SciFi) Lab have just accomplished. The team developed a system called EchoMotion that relies solely on ultrasonic sound waves, emitted and captured by the built-in speaker and microphone of a mass-market smartwatch, to work out a person's body position. Cornell University It works much like sonar. On a commercial smartwatch, it's an entirely software-driven system, and all it needs is the watch's existing speaker and microphone to send out sound waves and pick up their echoes. Another huge benefit is that the whole system is developed atop a lightweight AI model and the whole package is less than 30MB in size.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/wearables/researchers-turn-a-galaxy-watch-into-a-full-body-motion-tracking-system-at-zero-cost-its-the-most-exciting-wearable-breakthrough-ive-seen-in-years/",
+      "category": "Tech",
+      "date": "2026-11-12T11:44:08.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "http://feeds.fabbaloo.com/~/972877769/_/fabbaloo/default~Google-Wants-Spirit-Airlines%e2%80%99-Data-What-Could-D-Printing-Data-Be-Worth",
+      "title": "Google Wants Spirit Airlines’ Data. What Could 3D Printing Data Be Worth?",
+      "summary": "Goulding and Ari Willick examine the growing competition for Spirit Airlines’ business data and what it may tell us about the value of additive manufacturing datasets. The post Google Wants Spirit Airlines’ Data. What Could 3D Printing Data Be Worth?",
+      "source": "Fabbaloo",
+      "sourceUrl": "http://feeds.fabbaloo.com/~/972877769/_/fabbaloo/default~Google-Wants-Spirit-Airlines%e2%80%99-Data-What-Could-D-Printing-Data-Be-Worth",
+      "category": "Tech",
+      "date": "2026-11-12T11:30:00.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.feedburner.com"
     },
     {
       "id": "108549777",
@@ -33,105 +950,6 @@
       "date": "2026-11-12T11:23:04.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/analysisai-shakeout-lands-convertible-investors-better-terms-5021024",
-      "title": "Analysis-AI shakeout lands convertible investors better terms",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/analysisai-shakeout-lands-convertible-investors-better-terms-5021024",
-      "category": "Business",
-      "date": "2026-11-12T11:18:43.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
-      "id": "108549801",
-      "title": "‘A dark day for Nvidia’: Here’s what analysts are saying as markets brace for news on Huang's fate",
-      "summary": "The company's board convened Wednesday evening after reports emerged of Huang engaging in an affair with an employee.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html",
-      "category": "Business",
-      "date": "2026-11-12T11:17:37.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "05pTmQgbCAfiZW0h09DMTRl",
-      "title": "Walmarts early Black Friday sale is live: Save on Apple AirPods, Hisense TVs, Lego, and more",
-      "summary": "The best early Black Friday Walmart deals: ENJOY THE PERKS Walmart+ 30-Day Trial Membership $1 (Save $11.95) Get Deal Best Apple deal Apple AirPods Pro 3 $199 (save $50) Get Deal Best TV deal Hisense 75-inch H5R1 Series 4K Roku TV $328 (save $340) Get Deal Best gaming deal Asus TUF Gaming A16 (AMD Ryzen 7 8745HX, RTX 5060) $1,299 (save $500) Get Deal BEST KITCHEN DEAL Nespresso Vertuo Pop Coffee and Espresso Maker by De'Longhi $69 (save $50) Get Deal Best robot vacuum deal Roborock Qrevo S5V Robot Vacuum and Mop $459.99 (save $440 ) Get Deal Lego Harry Potter Book Nook: Hogwarts Express $50 (save $29.95) Get Deal Walmart's Black Friday sale is arriving in three waves this year, and the first major event is live now, running Nov. While ad scans gave shoppers a sneak peek at the lineup earlier this week, the real discounts have officially hit the site.This multi-day event is just the start, though. The retailer also has its main Black Friday sale planned for Nov. 23-29, followed by a Cyber Monday sale running from Nov. Walmart+ members also get early access to select online-only deal drops during the first 24 hours of each event before remaining stock opens to everyone else. SEE ALSO: Everything you need to know about Walmart's Black Friday 2026 sale: Store hours, early access, best deals There are already plenty of standout deals worth a look while this first wave is live.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/best-early-black-friday-walmart-live-deals-2026",
-      "category": "Tech",
-      "date": "2026-11-12T11:14:12.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/howanthropic-stacks-up-against-some-of-the-biggest-us-ipos-5021001",
-      "title": "How Anthropic stacks up against some of the biggest US IPOs",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/howanthropic-stacks-up-against-some-of-the-biggest-us-ipos-5021001",
-      "category": "Business",
-      "date": "2026-11-12T11:12:36.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-as-nvidia-slides-on-report-of-possible-ceo-ouster-5020125",
-      "title": "Nasdaq futures retreat as Nvidia slides on report of possible CEO ouster",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-as-nvidia-slides-on-report-of-possible-ceo-ouster-5020125",
-      "category": "Business",
-      "date": "2026-11-12T11:08:03.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/talanx-lifts-2026-forecast-again-targets-3-billion-in-2027-93CH-5020957",
-      "title": "Talanx lifts 2026 forecast again, targets €3 billion in 2027",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/talanx-lifts-2026-forecast-again-targets-3-billion-in-2027-93CH-5020957",
-      "category": "Business",
-      "date": "2026-11-12T11:07:20.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/nasdaq-futures-fall-as-nvidia-turmoil-rattles-ai-stocks-5020761",
-      "title": "Nasdaq, S&P 500 futures fall as Nvidia turbulence unsettles AI stocks",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/nasdaq-futures-fall-as-nvidia-turmoil-rattles-ai-stocks-5020761",
-      "category": "Business",
-      "date": "2026-11-12T11:06:59.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/european-shares-hit-record-highs-as-defensive-appeal-offsets-nvidia-shock-5020450",
-      "title": "European shares hit record highs as defensive appeal offsets Nvidia shock",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/european-shares-hit-record-highs-as-defensive-appeal-offsets-nvidia-shock-5020450",
-      "category": "Business",
-      "date": "2026-11-12T11:05:07.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/as-anthropics-14t-test-arrives-these-aipicked-tech-plays-have-already-doubled-5020911",
-      "title": "As Anthropic’s $1.4T test arrives, these AI-picked tech plays have already doubled",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/as-anthropics-14t-test-arrives-these-aipicked-tech-plays-have-already-doubled-5020911",
-      "category": "Business",
-      "date": "2026-11-12T11:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
     },
     {
       "id": "https://www.digitaltrends.com/?p=6022897",
@@ -178,28 +996,6 @@
       "officialUrl": "https://www.wired.com"
     },
     {
-      "id": "02NDZoXLnXgZzNRu9WWLmto",
-      "title": "Early Black Friday laptop deals are trickling in. Heres what I would buy already.",
-      "summary": "The best early Black Friday laptop deals at a glance: Best MacBook deal Apple MacBook Air, 13-inch (M5, 16GB RAM, 1TB SSD) $1,349.99 (save $249.01) Get Deal Best Windows laptop deal HP OmniBook Ultra 14 (Intel Core Ultra 7 356H, 16GB RAM, 512GB SSD) $1,319.99 (save $500) Get Deal Best gaming laptop deal Lenovo Legion Pro 5i 16 (Intel Core Ultra 7 251HX, Nvidia GeForce RTX 5060, 16GB RAM, 1TB SSD) $1,649.99 (save $1,017) Get Deal Black Friday has always been the best time to buy a laptop, and we expect that to hold true in 2026. While the holiday season's top discounts on MacBooks and Windows PCs may not look as great as usual due to industry-wide price hikes — thanks, RAMageddon — they should still be retailers' most competitive offers of the year.Black Friday laptop deals aren't plentiful just yet, but some of the initial markdowns I've spotted are worth adding to your cart. Amazon is already offering its usual Black Friday discount on certain variants of the MacBook Air, for instance. And Lenovo has several on-sale laptops marked with a \"Black Friday Price Guarantee\" badge. (That means they for sure won't get any cheaper through Saturday, Nov. 28, the day after Black Friday.) Meanwhile, HP has fully kicked off its Black Friday Sale already, and it features discounts of up to $550 on one of the best MacBook alternatives I've tested, the OmniBook Ultra 14.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/best-early-black-friday-laptop-deals-2026",
-      "category": "Tech",
-      "date": "2026-11-12T10:00:11.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
-      "id": "02ZVSyFaQWvCxrA9SRzebgS",
-      "title": "Apple iPhone Duo, one month in: Im never going back to the Pro",
-      "summary": "Apple's iPhone Duo has been my main phone for a month. I switched from the iPhone 17 Pro Max (I only tested the iPhone 18 Pro and Pro Max for a week), set up all my apps (including online banking and other finance apps, which typically require a more complicated setup) on the Duo, and put my other phones in a drawer.This is a different type of test than a typical phone review. When you're writing a review, you're looking for the new and exciting. Once you've switched to a new phone entirely, you're looking for apps that don't work and annoyances that can't be fixed. Had I found enough of these, I would've gone back to the Pro.But I feel zero desire to do so. The iPhone Duo has plenty of quirks, but none that would make me go back.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/apple-iphone-duo-not-going-back",
-      "category": "Tech",
-      "date": "2026-11-12T10:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
       "id": "https://decrypt.co/?p=383114",
       "title": "Pressure Mounts on Nvidia's Jensen Huang Amid Reports of Second Affair",
       "summary": "Nvidia's board is reportedly preparing to oust its CEO, sending the chipmaker's shares down more than 5% in premarket trading.",
@@ -222,28 +1018,6 @@
       "officialUrl": "https://openai.com"
     },
     {
-      "id": "026w4tV18KdTINKRmmsJF7J",
-      "title": "Black Friday 2026 at Walmart: See the ad and check out early deals",
-      "summary": "The best early Walmart Black Friday deals: Best Apple Deal Apple AirPods Pro 3 $199.00 (save $50) Get Deal Best Home Deal Roborock Qrevo S5V Robot Vacuum and Mop $499.99 (save $400) Get Deal Best TV Deal LG 65-inch C6 Series 4K UHD OLED AI Smart webOS 26 TV $1,399.99 (save $1,300) Get Deal Best Lego Deal Lego Pok&eacute;mon Pikachu and Pok&eacute; Ball $159.95 (save $40.04) Get Deal Best Kitchen Deal Ninja Luxe Caf&eacute; Premier Series Espresso Machine and Drip Coffee Maker $489.00 (save $60) Get Deal Best Speaker Deal JBL Flip 6 $79.95 (Save $50) Get Deal Best Laptop Deal Lenovo IdeaPad 5i 15.3\" Touchscreen 2-in-1 Laptop, (Intel Core Ultra 5, 16GB Ram, 512GB SSD) $729 (Save $470.99) Get Deal Best Home Security Deal Wyze Wireless Video Doorbell $49.98 (Save $15.99) Get Deal Walmart's Black Friday sale is arriving in three waves this year, with the first big deals drop kicking off on Nov. The retailer's ad scans have been live for some time, offering shoppers a sneak peek at what's to come during its early Black Friday sale. Credit: Walmart This three-day-long event is just the start, though. The retailer also has a Black Friday sale planned for Nov. 23-29, plus a Cyber Monday sale running from Nov. Walmart+ members can even get early access to the sale (plus exclusive online-only deals during the first 24 hours).",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/walmart-black-friday-ad-scans-early-deals-2026",
-      "category": "Tech",
-      "date": "2026-11-12T09:21:29.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
-      "id": "01b55mgtPfsUGSyLwKTRj4J",
-      "title": "Zelda Switch 2 restock: Live restock updates at Walmart, Target, and Best Buy (Nov. 12)",
-      "summary": "Where to check for Zelda Switch 2 stock: Nintendo Nintendo Switch 2 — The Legend of Zelda — 40th Anniversary Edition $519.99 at Nintendo Shop Now Amazon Nintendo Switch 2 — The Legend of Zelda — 40th Anniversary Edition $519.99 at Amazon Shop Now Walmart Nintendo Switch 2 — The Legend of Zelda — 40th Anniversary Edition $519.99 at Walmart Shop Now Target Nintendo Switch 2 — The Legend of Zelda — 40th Anniversary Edition $519.99 at Target Shop Now Best Buy Nintendo Switch 2 — The Legend of Zelda — 40th Anniversary Edition $519.99 at Best Buy Shop Now GameStop Nintendo Switch 2 — The Legend of Zelda — 40th Anniversary Edition $519.99 at GameStop Shop Now If your current morning ritual involves violently hitting refresh on a dozen retail tabs, you already know the vibe: finding the Nintendo Switch 2: The Legend of Zelda 40th Anniversary Edition is turning into an Olympic sport.Between automated bot armies scooping digital drops, surprise order cancellations at Walmart, and inventory vanishing in seconds on Amazon, this custom black-and-gold console feels like a myth. But while digital storefronts look completely barren, stock is actively circulating behind the scenes.Where to check for Zelda Switch 2 stock right nowBefore getting into the restock details, bookmark these retailer pages to check for surprise drops:Nintendo Store — Out of stock right now, but you can add it to your wishlist to get pinged the second a restock hits.Amazon — Dropping tiny batches of consoles random...",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/zelda-switch-2-retailers-live-restock-where-to-buy",
-      "category": "Tech",
-      "date": "2026-11-12T09:15:52.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
       "id": "108548977",
       "title": "Ukrainian defense tech startup hits $6 billion valuation as investors bet on battle-tested drones",
       "summary": "UFORCE's NEMESIS drones have completed 300,000 combat flights, and its MAGURA naval vessels have contributed to the destruction of Russian warships.",
@@ -253,17 +1027,6 @@
       "date": "2026-11-12T09:05:22.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "019YKtGyYYTOdAR9oB73cEx",
-      "title": "Use AI offline and keep conversations and documents stored locally with this $63.20 lifetime tool",
-      "summary": "TL;DR: Get a lifetime Pansophy Base license for $63.20 with code DEAL20 through Nov. $199), with local AI chat, writing, coding, and document analysis and no recurring fees. Opens in a new window Credit: Mind2Matter Pansophy Private Personal AI Desktop Assistant - Base Plan: Lifetime Subscription $63.20 $199 Save $135.80 Get Deal AI tools can be incredibly useful, but there's a trade-off worth thinking about: when you use a cloud-based assistant, your conversations and uploaded documents may be processed outside your own computer. If you'd rather keep more control over your information — and skip another monthly AI bill — Pansophy offers a different approach. The Pansophy Private Personal AI Desktop Assistant Base Plan is on sale for $63.20 with code DEAL20 through Nov. 15.Instead of sending your prompts and files to a cloud service, Pansophy runs its AI processing locally on your computer.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/nov-12-pansophy-private-personal-ai-desktop-assistant",
-      "category": "Tech",
-      "date": "2026-11-12T09:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
     },
     {
       "id": "https://www.digitaltrends.com/?p=6022900",
@@ -321,17 +1084,6 @@
       "officialUrl": "https://www.digitaltrends.com"
     },
     {
-      "id": "108549476",
-      "title": "Nvidia board meeting to decide CEO Jensen Huang’s fate stretches into evening",
-      "summary": "Nvidia's board is meeting days after CEO Jensen Huang admitted to an affair with a woman who is believed by U.S. intelligence of being a Chinese spy.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
-      "category": "Business",
-      "date": "2026-11-12T06:11:16.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
       "id": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112",
       "title": "New research could lead to faster, trustworthy AI models for climate prediction",
       "summary": "Accurate, up-to-date climate projections are essential for planning decisions that enhance the resilience of power grids, protect public health, maximize agricultural yields, and more.Now, MIT researchers have developed a technique that streamlines the production of fast, trustworthy, and adaptable artificial intelligence models for climate prediction.These specialized AI models, known as climate emulators, can rapidly simulate the effects of human activities onto a future climate, predicting impacts on temperatures or sea level, for example. Because emulators run in a matter of seconds, scientists use them to efficiently test thousands of varied climate scenarios. This provides more reliable estimates and can identify unexpected outcomes of regional interventions.The MIT researchers developed a training technique that boosts the performance and adaptability of a climate emulator while using only a fraction of the data typically required. This significantly cuts production time for these practical scientific tools.They show that an emulator trained with a much smaller amount of carefully selected synthetic data accurately predicts outcomes of scenarios it did not see during training, while traditional emulators failed to adapt to new situations.“Climate emulators are especially well-suited for modeling policy-relevant scenarios. By using our method to generate optimized training data for an emulator, we can speed up the production of much more reliable emulators, so we can...",
@@ -376,28 +1128,6 @@
       "officialUrl": "https://techcrunch.com"
     },
     {
-      "id": "108548785",
-      "title": "What we know so far about Nvidia partner Megaspeed’s Asia footprint",
-      "summary": "Megaspeed is at the center of a U.S. probe over its role in sending billions of restricted Nvidia chips to China, and its executive's alleged affair with Jensen Huang.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/11/12/nvidia-megaspeed-alice-huang-jensen-.html",
-      "category": "Business",
-      "date": "2026-11-12T03:02:03.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=6022864",
-      "title": "Anker’s tiny AI recorder gets voice dictation support with Typeless",
-      "summary": "Typeless, the AI-powered voice dictation and text-processing app, has just announced an official partnership with Anker to bring its AI voice dictation app to the Soundcore Work wearable microphone. The tiny recorder isn't exactly new, though. Anker introduced it at CES 2026, and it has been on sale for quite some time. The latest integration lets users dictate emails, messages, AI prompts, and even lengthy documents using the wearable. Obviously, Typeless already works with regular smartphone and computer microphones. The argument for Soundcore Work is that you can wear it on your collar and speak naturally, even in a whisper.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/computing/anker-soundcore-work-typeless-ai-dictation/",
-      "category": "Tech",
-      "date": "2026-11-12T01:44:14.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
       "id": "https://openai.com/index/children-first-declaration",
       "title": "Supporting research on AI and children’s safety",
       "summary": "OpenAI pledges $2 million as part of a global effort to better understand AI’s impact on children and support their safety and wellbeing. ShareEarlier this week at the Paris Peace Forum, OpenAI signed the Charter of Engagement for Safer AI for Children⁠(opens in a new window) and committed $2 million to support the scientific research network under the Coalition for Children’s Rights and Protection in the Age of AI. This builds on OpenAI's call for global standards on youth AI safety, and sustained collaboration among governments, researchers, civil society and industry to translate shared evidence into practical safeguards. OpenAI's contribution supports shared measurement work: developing tools researchers can use to better understand and measure AI’s risks and opportunities for children, helping inform safer products and better policy. The charter sets out shared principles for safe, age-appropriate AI, alongside a research programme and safeguards for its independence. Research teams retain control over their conclusions, and findings will be published, including negative or inconclusive results.",
@@ -406,7 +1136,13 @@
       "category": "Models",
       "date": "2026-11-12T00:00:00.000Z",
       "hot": false,
-      "officialUrl": "https://openai.com"
+      "officialUrl": "https://openai.com",
+      "relatedCoverage": [
+        {
+          "source": "FutureTools News",
+          "url": "https://openai.com/index/children-first-declaration/?utm_source=futuretools.io&utm_medium=newspage"
+        }
+      ]
     },
     {
       "id": "https://openai.com/index/gilbert-tobin-sam-nickless",
@@ -420,103 +1156,72 @@
       "officialUrl": "https://openai.com"
     },
     {
-      "id": "https://www.digitaltrends.com/?p=6022847",
-      "title": "Google Gemini can now ride along in your car and catch you up on everything you missed",
-      "summary": "I've always wanted a copilot, someone who knows my calendar and never touches the radio. Turns out, Google just applied for the job. On November 11, 2026, Google began rolling out its Gemini app on Apple CarPlay. The app puts hands-free Gemini Live chats on your car's dashboard (via Google Blog). The Gemini app is now available directly on Apple CarPlay. iOS users can have free-flowing conversations with Gemini Live right from their car's display, hands-free.Use Gemini in CarPlay to catch-up on what you have coming up in your schedule, talk through your inbox, or… pic.twitter.com/1s4luZ6q0v",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/computing/google-gemini-can-now-ride-along-in-your-car-and-catch-you-up-on-everything-you-missed/",
-      "category": "Tech",
-      "date": "2026-11-11T23:51:31.000Z",
+      "id": "https://huggingface.co/blog/3d-lora-finetuning",
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "summary": "Hugging Face is on a journey to advance and democratize artificial intelligence through open source and open science.",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/3d-lora-finetuning",
+      "category": "Research",
+      "date": "2026-11-12T00:00:00.000Z",
       "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
+      "officialUrl": "https://huggingface.co"
     },
     {
-      "id": "https://techcrunch.com/?p=3186475",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "category": "Business",
-      "date": "2026-11-11T23:50:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
+      "id": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Google Launches Gemini 4 Hydrogen for Cost-Efficient Agentic Coding & Debugging",
+      "summary": "Starting today, developers can build with Gemini 4 Hydrogen, bringing cutting-edge intelligence to everyone — with speed and efficiency for everyday coding and agentic workflows. Built for rapid iteration, Hydrogen handles repository coding and debugging, interactive web development, and multimodal workflows — running standalone across four configurable thinking levels or alongside frontier models like Gemini 4 Carbon and Gemini 4 Argon. With tighter instruction following and fewer fabricated claims, it helps you ship cleaner, production-ready code faster.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-11-12T00:00:00.000Z",
+      "hot": false
     },
     {
-      "id": "108549373",
-      "title": "Jim Cramer says investors need to pay attention to CoreWeave. Here's why",
-      "summary": "Cramer said he's becoming less skeptical of CoreWeave after strong earnings and reassuring comments from its CEO.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/11/11/jim-cramer-coreweave-earnings-ceo-interview.html",
-      "category": "Business",
-      "date": "2026-11-11T23:41:46.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
+      "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Google Launches Gemini 4 Hydrogen for Fast Agentic Workflows at $1.50/M Tokens",
+      "summary": "Hydrogen brings cutting-edge intelligence to everyone. SVP, Google DeepMind and Chief AI Architect, Google Your browser does not support the audio element. Today, we’re introducing Gemini 4 Hydrogen, bringing cutting-edge intelligence to everyone — with speed and efficiency for everyday coding and agentic workflows. Hydrogen surpasses Argon on the Artificial Analysis Intelligence Index at its default high thinking level (51 vs. 50, and reaching 54 at its highest xhigh thinking setting), while often completing tasks faster than models in its class.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-11-12T00:00:00.000Z",
+      "hot": false
     },
     {
-      "id": "108549274",
-      "title": "Jim Cramer: This is the bet you're making if you buy the Anthropic IPO",
-      "summary": "CNBC's Jim Cramer said that Anthropic must sustain extraordinary growth to cover its mounting infrastructure costs.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/11/11/anthropic-ipo-profit-computing-commitments.html",
-      "category": "Business",
-      "date": "2026-11-11T23:30:48.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
+      "id": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "NVIDIA CEO Jensen Huang Resigns Immediately, Board Announces Transition",
+      "summary": "NVIDIA (NASDAQ: NVDA) Board of Directors announced today that Jensen Huang has resigned as President, Chief Executive Officer, and a member of the Board, effective immediately.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-11-12T00:00:00.000Z",
+      "hot": true,
+      "relatedCoverage": [
+        {
+          "source": "Mashable Tech",
+          "url": "https://mashable.com/tech/jensen-huang-resigns-nvidia-ceo"
+        }
+      ]
     },
     {
-      "id": "https://techcrunch.com/?p=3187556",
-      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-      "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-      "category": "Business",
-      "date": "2026-11-11T23:28:45.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3187540",
-      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-      "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-      "category": "Business",
-      "date": "2026-11-11T23:17:05.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "108549304",
-      "title": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports",
-      "summary": "Huang was notably opposed to strict export controls on AI chips to China, which ruffled feathers with congressional China hawks.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html",
-      "category": "Business",
-      "date": "2026-11-11T22:46:29.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
+      "id": "https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Google's Gemini-Powered Smart Glasses From Warby Parker & Gentle Monster Now Available",
+      "summary": "Designed in collaboration with Warby Parker, Gentle Monster, and Samsung, intelligent eyewear gives you hands-free help from Gemini when you're on the go. Your browser does not support the audio element. Shahram Izadi, VP and GM of XR, announced that pre-orders are now open for new Intelligent Eyewear collections from Gentle Monster and Warby Parker. These frames integrate Gemini to provide hands-free assistance, real-time translations, and visual descriptions throughout your day. You can visit the Gentle Monster, Warby Parker, or Google Store websites to place your order or find a location to try on a pair before the December 10 launch. Shahram Izadi, VP and GM of XR, explains that our new Intelligent Eyewear collections from Gentle Monster and Warby Parker bring Gemini directly to your frames.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-11-12T00:00:00.000Z",
+      "hot": false
     },
     {
       "id": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
       "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from The New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who reports to him, Nvidia's vice president of health care, Kimberly Powell, according to the Times. The Nvidia board will meet as soon as today to decide on Huang's future at the company, according to the Journal. Nvidia did not immediately respond to a request for comment from The Verge. Huang and Powell, who are both marrie …",
+      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from The New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who reports to him, Nvidia's vice president of health care, Kimberly Powell, according to the Times. The Nvidia board will meet as soon as Wednesday night to decide on Huang's future at the company, according to the Journal. Nvidia did not immediately respond to a request for comment from The Verge. On Thursday morning, Nvidia ann …",
       "source": "The Verge AI",
       "sourceUrl": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
       "category": "Industry",
       "date": "2026-11-11T22:44:36.000Z",
       "hot": false,
       "officialUrl": "https://www.theverge.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=6022823",
-      "title": "I found the best Early Black Friday deals on top-rated chargers and power banks",
-      "summary": "Early Black Friday deals are stacking up on the chargers and power banks most of us use daily. However, the better ones are easy to miss in the crowd. Compact, high-wattage options, the ones that make your phone spend less time plugged-in, usually sit higher, so I sorted through the available deals and discounts for you. From a tiny 45W charger with a screen and GaN bricks that charge multiple devices at once to high-capacity magnetic power banks, these are the ones I'd pack for travel, desk use, or long shopping days. Digital Trends If you're tired of generic chargers, I have exactly what you need: the Anker Nano Charger with a smart display that shows real-time charging status. With foldable prongs, the charger is rated at 45W and claims to charge an iPhone 17 Pro to 50% in around 20 minutes, so it's not that slow either.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/computing/i-found-the-best-early-black-friday-deals-on-top-rated-chargers-and-power-banks/",
-      "category": "Tech",
-      "date": "2026-11-11T22:39:04.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
     },
     {
       "id": "https://decrypt.co/?p=383099",
@@ -541,28 +1246,6 @@
       "officialUrl": "https://www.theverge.com"
     },
     {
-      "id": "https://www.digitaltrends.com/?p=6022774",
-      "title": "A new camera technology could dramatically improve how smartphones take photos at night",
-      "summary": "Smartphone cameras have come a long way in the past decade, going from grainy images to near-DSLR quality for casual, social media, and everyday photography. Daylight photography in particular seems to have hit a ceiling on flagship smartphones, as you can't really distinguish much beyond color tones at first glance. That said, night photography still has plenty of room for improvement, and an interesting piece of tech called HoloCoder could deliver the next breakthrough in this area. According to a WIRED report, Boston-based company Metalenz has acquired PxE Holographic Imaging, which developed the technology. It basically makes better use of incoming light by redirecting more of it toward the sensor, potentially improving low-light photography and dynamic range. Most smartphone cameras, even expensive flagships, struggle with harsh lights and dark areas in the same frame.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/phones/smartphone-camera-technology-holocoder-night-photography/",
-      "category": "Tech",
-      "date": "2026-11-11T21:53:38.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=383094",
-      "title": "Stablecoin Drain, ETF Outflows Leave Bitcoin 'Running on Empty'",
-      "summary": "Total stablecoin supply fell by $14.2 billion over the 30 days through Nov. 9, the fastest contraction since June 2022.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/383094/stablecoin-drain-etf-outflows-bitcoin-running-empty",
-      "category": "Tech",
-      "date": "2026-11-11T21:46:03.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
       "id": "https://www.macrumors.com/2026/11/11/apple-statement-on-fatal-crash/",
       "title": "Apple on Fatal Vehicle Crash Near Apple Park: 'Our Hearts Are Broken'",
       "summary": "Apple employee Eric Chen Su was arrested and charged with suspicion of gross vehicular manslaughter last week following a fatal collision near the intersection of North Tantau Avenue and Pruneridge Avenue, right next to the Apple Park Visitor Center, according to the Santa Clara County Sheriff's Office and the San Francisco Chronicle. Shortly after noon on Friday, Su was reportedly traveling between 90 and 100 miles per hour when he struck the back of a stopped vehicle occupied by a two-year-old girl and her babysitter, an adult woman. Both were seriously injured and transported to a nearby hospital, where tragically the child later died despite lifesaving efforts. Su suffered minor injuries, according to authorities. His charges have since been upgraded to murder and assault with a deadly weapon. Apple responded to the incident in a statement shared with MacRumors today.",
@@ -585,39 +1268,6 @@
       "officialUrl": "https://www.techrepublic.com"
     },
     {
-      "id": "https://www.macrumors.com/2026/11/11/apple-invites-gets-two-new-features/",
-      "title": "Apple Invites App Updated With Two New Features",
-      "summary": "The free Apple Invites app for the iPhone was updated today with two new features: hosts can now add polls to invitations so guests can vote on details such as a party's theme and food, and hosts can now add an \"emoji effect\" that floats across invitations. Released in February 2025, the Apple Invites app makes it easy to invite people to events, such as birthday parties and baby showers. The ability to create an event in the app requires subscribing to an iCloud+ plan with at least 50GB of storage for $0.99 per month, but anyone who receives an event link can RSVP for free on any device.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/11/11/apple-invites-gets-two-new-features/",
-      "category": "Tech",
-      "date": "2026-11-11T21:01:05.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=383070",
-      "title": "This New AI Music Model Is Already Better Than Suno—We Put ACE to the Test",
-      "summary": "ACE Music v1 tops the AI music rankings with more natural vocals and stronger song structure. Our tests found impressive results.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/383070/new-ai-music-model-already-better-than-suno-ace-review",
-      "category": "Tech",
-      "date": "2026-11-11T20:16:02.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "https://techcrunch.com/?post_type=tc_video&p=3187347",
-      "title": "Why the data center you dread might never even be built",
-      "summary": "He data center boom looks huge on paper, but how much will actually get built? On this episode of Equity, an energy expert breaks down the projects likely to happen and the ones that never will.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
-      "category": "Business",
-      "date": "2026-11-11T20:15:15.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
       "id": "https://www.engadget.com/2314121/united-is-restricting-ai-agents-from-booking-flights/",
       "title": "United is restricting AI agents from booking flights",
       "summary": "The airline believes AI poses security risks and may violate DOT and FAA rules. Gary Hershorn/Getty Images Add Engadget on Google: Preferred Source Google Discover United Airlines has announced it will change ticking policies to restrict AI agents' from booking flights through its website, third-party travel agencies and flight aggregators. The airline joins a growing number of businesses, including JPMorgan Chase and Amazon, which block agents from using their products to avoid the security and privacy issues associated with them. Giving something like your payment details or log-in credentials to an agent can expose sensitive information and lead to \"unintended purchases, account changes or use of MileagePlus miles,\" United says. Allowing an AI agent to complete a booking could also violate existing airline regulations from the Department of Transportation and Federal Aviation Administration. For example, United says only a human can acknowledge that their bag doesn't contain explosives during flight check-in.",
@@ -626,18 +1276,13 @@
       "category": "Tools",
       "date": "2026-11-11T20:09:44.000Z",
       "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
-      "id": "https://techcrunch.com/?post_type=tc_podcast&p=3187346",
-      "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
-      "summary": "Not every proposed AI data center will get built. On Equity, Ascend Analytics’ Brent Nelson explains how to separate realistic projects from speculative ones, and what it takes to win over lenders, power providers, and neighbors.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
-      "category": "Business",
-      "date": "2026-11-11T20:02:14.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
+      "officialUrl": "https://www.engadget.com",
+      "relatedCoverage": [
+        {
+          "source": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/"
+        }
+      ]
     },
     {
       "id": "6af201a78edcf6c224e08d61",
@@ -649,28 +1294,6 @@
       "date": "2026-11-11T19:55:54.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3187437",
-      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-      "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
-      "category": "Business",
-      "date": "2026-11-11T19:54:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/11/11/google-gemini-apple-carplay/",
-      "title": "Google Says Gemini App Rolling Out on Apple CarPlay Starting Today",
-      "summary": "Google has announced that a dedicated Gemini app on Apple CarPlay is rolling out around the world in several languages starting today, allowing you to have conversations with the AI assistant right from your vehicle's dashboard. Gemini conversations on your iPhone automatically sync to CarPlay, so you can continue a previous conversation or start a new one. For example, you can ask Gemini to \"Give me my daily brief for today\" and it can give you a personalized answer based on your information in apps such as Gmail and Google Calendar. Or if you are driving around and looking for a restaurant, you could ask \"What's a quick lunch spot in downtown Austin that's easy to get in and out of?\" To get started, make sure you have the latest version of the Gemini app on your iPhone. Then, tap on the Gemini icon on CarPlay to start a conversation. CarPlay gained support for voice-based conversational AI apps starting with iOS 26.4.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/11/11/google-gemini-apple-carplay/",
-      "category": "Tech",
-      "date": "2026-11-11T19:50:14.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "https://www.techrepublic.com/article/news-uber-ai-shopping-agents-orders-rides/",
@@ -693,39 +1316,6 @@
       "date": "2026-11-11T19:42:19.000Z",
       "hot": false,
       "officialUrl": "https://www.engadget.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=383066",
-      "title": "Tether's Tiny AI Agent Beats Models 2.5 Times Its Size at Controlling Your Phone",
-      "summary": "Tether's BotPsy AI model packs 800 million parameters into an AI assistant designed to manage everyday tasks locally.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/383066/tether-tiny-ai-agent-beats-models-phone",
-      "category": "Tech",
-      "date": "2026-11-11T19:36:02.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3187339",
-      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
-      "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
-      "category": "Business",
-      "date": "2026-11-11T19:34:55.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://www.digitaltrends.com/?p=6022776",
-      "title": "Google and Henry Cavill’s Mustache Protocol game is retro, silly, and a lot of fun",
-      "summary": "Imagine a game where you don't fight for a noble cause, like saving a princess, redeeming a lost world, or just punching through a bunch of hellish villains for the sheer gory fun of it. Flip the whole script, turn it into something silly, like collecting mustaches, and then cast Hollywood superstar Henry Cavill as the lead. That's broadly the premise of a new game called Mustache Protocol, which Cavill built with Google to promote its new Googlebook laptops. In case you're unaware, Googlebook is Google's new category of AI-first laptops, a spiritual successor to Chromebooks, but with more powerful hardware and a premium build to go with it. Gemini AI leads the charge, and as part of its latest marketing push to show off the AI chops of these devices, Google had the former Superman build a game on one. Cavill used AI tools on a Googlebook to turn his ideas into working 16-bit game mechanics.",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/gaming/google-and-henry-cavills-mustache-protocol-game-is-retro-silly-and-a-lot-of-fun/",
-      "category": "Tech",
-      "date": "2026-11-11T19:31:13.000Z",
-      "hot": false,
-      "officialUrl": "https://www.digitaltrends.com"
     },
     {
       "id": "https://www.engadget.com/2314045/how-many-spacex-starship-rocket-tests-failed/",
@@ -761,17 +1351,6 @@
       "officialUrl": "https://arstechnica.com"
     },
     {
-      "id": "https://www.macrumors.com/guide/is-it-worth-buying-a-ceramic-apple-watch?post_date=1794427499/",
-      "title": "Is It Worth Buying a Ceramic Apple Watch?",
-      "summary": "The Apple Watch Series 12's ceramic casing option is its most luxurious, offering a distinctive finish and highly scratch-resistant material at a price above both aluminum and titanium. The ceramic Apple Watch starts at $899, compared to $399 for aluminum and $699 for titanium. Available in Pearl White and Night Blue, it brings ceramic back to the lineup for the first time since the Series 5. It is aimed at buyers who want a more unusual and special Apple Watch, and are willing to pay for the material and appearance rather than additional features. Pearl White is particularly distinctive, with a lustrous, nonmetallic finish unlike anything offered in aluminum or titanium. For earlier ceramic Apple Watch models, Apple described a manufacturing process that combined zirconia powder with alumina before molding the case, heating it to form a dense solid, and polishing it with a diamond slurry.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/guide/is-it-worth-buying-a-ceramic-apple-watch/",
-      "category": "Tech",
-      "date": "2026-11-11T17:05:11.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
       "id": "6af201ee77b79684f4754674",
       "title": "A Startup Wants to Fight AI Bioweapons With AI",
       "summary": "Frontier AI labs have warned that their technology could help develop dangerous bioweapons. Now, a startup says it has developed a defense. On Wednesday, Radical Numerics announced that it has developed a new edge model called Omnii Defense that is designed to flag natural and AI-engineered pathogens using a laptop and a USB gene sequencer. It can also run without an internet connection, allowing researchers in the field with spotty connections to use it. Though many scientists say AI-made bioweapons are a low-likelihood threat, Radical Numerics hopes its technology will help researchers and public health officials identify emerging biological threats. Eric Nguyen, cofounder and CEO of Radical Numerics, says he sees a coming arms race in biodefense similar to what’s playing out in cybersecurity, where threat actors and security defenders are leveraging AI in an attempt to gain an edge.",
@@ -781,28 +1360,6 @@
       "date": "2026-11-11T17:00:00.000Z",
       "hot": false,
       "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3187323",
-      "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
-      "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
-      "category": "Business",
-      "date": "2026-11-11T16:16:07.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3187315",
-      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
-      "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-      "category": "Business",
-      "date": "2026-11-11T16:14:44.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
     },
     {
       "id": "6af1f46557a16d776d9d4525",
@@ -827,50 +1384,6 @@
       "officialUrl": "https://blog.google"
     },
     {
-      "id": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
-      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
-      "summary": "Tabletop provides customizable, collaborative spaces for all your personal planning needs. Tabletop provides customizable, collaborative spaces for all your personal planning needs. Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by describing them, such as savings trackers, chore charts, event plans, and more. “Just add in your links, files and ideas, then prompt @tabletop — or pick a starter template — to generate custom interactive trip itineraries, dinner polls, expense splitters and tournament brackets,” Google Labs design and engineering lead Roman Nurik said in the blog post. “Once your space is ready, drop the invite link in your group chat to let everyone jump in and use it at the same time like a Google Doc.”",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
-      "category": "Industry",
-      "date": "2026-11-11T16:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/11/11/samsung-early-black-friday/",
-      "title": "Samsung Early Black Friday Event Brings Major Sales to Frame TVs and More",
-      "summary": "Samsung recently kicked off its own early Black Friday sale, offering big sitewide discounts on TVs, monitors, storage accessories, Galaxy smartphones and watches, home appliances, and more. Note: MacRumors is an affiliate partner with Samsung. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Highlights from this event include quite a few models of The Frame TV on sale, including all-time low prices on The Frame Pro models. You can get the 2026 65-inch The Frame TV for $1,199.99 ($300 off), as well as the 85-inch The Frame Pro for $2,999.99 ($1,000 off). SITEWIDE SALESamsung Early Black Friday Other deals include savings on monitors like the 32-inch Smart Monitor M9 for $1,299.99 ($300 off), the 27-inch Odyssey OLED G8 Gaming Monitor for $799.99 ($300 off), and more.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/11/11/samsung-early-black-friday/",
-      "category": "Tech",
-      "date": "2026-11-11T15:37:52.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "6af37522ebc8960a0be1d743",
-      "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
-      "summary": "There’s a specific mantra drilled into government workers, military officers, and intelligence personnel during counterintelligence briefings: “If she’s a 10 and you’re a 5, she’s a spy!” Or, as the US Army’s Counterintelligence Command posted on Valentine’s Day: “It doesn’t take a mathematician to figure out ‘10 + 5 = honeytrap.’” The very beautiful woman who is suddenly interested in your very ordinary existence probably has ulterior motives, is the message. Jensen Huang surely doesn’t live a typical life—he’s a centibillionaire, the swashbuckling CEO of Nvidia, one of the hottest and most geopolitically consequential companies of the 21st century. Surely he’s aware of the possibility that he’d cross paths with intelligence assets. In fact, it’s hard to think of many companies in the world that would be a higher priority target for foreign intelligence agencies. All of that makes the stock-shaking news this week all the more surprising. How did Huang get embroiled in a spy scandal that mixes infidelity, international espionage, the Trump administration, and the economic behemoth of the multitrillion-dollar AI industry?",
-      "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
-      "category": "Industry",
-      "date": "2026-11-11T15:30:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/11/11/iphone-18-pro-max-wins-battery-test/",
-      "title": "iPhone 18 Pro Max Wins Battery Test Involving 32 Smartphones",
-      "summary": "Apple's iPhone 18 Pro Max placed first overall in a battery comparison of 32 smartphones, with other iPhone models leading individual tests and matching significantly more expensive devices. CNET assessed each phone using two tests totaling three hours and 45 minutes. One measured battery consumption during three hours of video streaming over Wi-Fi at maximum screen brightness. The other combined video playback, video calls, gaming, and social media use over 45 minutes. Both began at 100% charge, and the publication averaged the remaining percentages to produce its overall rankings. The iPhone 18 Pro Max and Apple's first foldable, the iPhone Duo, each finished the mixed-use test with 99% remaining, sharing first place.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/11/11/iphone-18-pro-max-wins-battery-test/",
-      "category": "Tech",
-      "date": "2026-11-11T15:20:52.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
       "id": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
       "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
       "summary": "AlphaGenome 2 is DeepMind's next-generation DNA sequence model that bridges single-cell biology and human genetics, predicting how variants affect human cell types.",
@@ -880,39 +1393,6 @@
       "date": "2026-11-11T15:00:15.000Z",
       "hot": false,
       "officialUrl": "https://deepmind.google"
-    },
-    {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
-      "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
-      "summary": "DeepMind’s new DNA model better predicts how mutations affect different cells, potentially opening paths to treatment. DeepMind’s new DNA model better predicts how mutations affect different cells, potentially opening paths to treatment. Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease — and point the way to new treatments. AlphaGenome 2 is the successor to DeepMind’s genome-predicting AI model AlphaGenome, which was released last year. While nearly every cell in the human body carries the same DNA, different types of cells — from heart muscle cells and skin cells to immune cells fighting an infection — switch different genes on and off, and those patterns can change depending on what a cell is doing. As a result, the same genetic variant can have very different effects depending on the type and state of the cell.",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
-      "category": "Industry",
-      "date": "2026-11-11T15:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3186547",
-      "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
-      "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
-      "category": "Business",
-      "date": "2026-11-11T15:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://www.engadget.com/2313329/europe-wants-to-ban-dark-patterns-in-apps-and-loot-boxes-for-minors/",
-      "title": "Europe wants to ban 'dark patterns' in apps and loot boxes for minors",
-      "summary": "Tech companies in breach could face fines up to six percent of their global revenue. Anna Barclay/Getty Images Add Engadget on Google: Preferred Source Google Discover Europe just released a proposal for a new set of consumer protection rules called the Digital Fairness Act (DFA), the EU Commission wrote in a news release. The bloc is targeting practices that harm children and push people into spending more, including things like unclear pricing, addictive design features, ads aimed at minors and \"dark patterns\" like hard-to-cancel subscriptions. The penalty for non-compliance could be up to six percent of a company's annual revenue, according to the draft copy. \"Our consumer protection rules will ​help ensure that businesses compete on the merits ⁠of their products and services, not on their ability ​to exploit consumers or their ability to evade the ​rules,\" said EU justice chief Michael McGrath in a statement. \"We are not making it harder to do business, we are making it harder to do ​business unfairly.\"",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2313329/europe-wants-to-ban-dark-patterns-in-apps-and-loot-boxes-for-minors/",
-      "category": "Tools",
-      "date": "2026-11-11T14:29:03.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
     },
     {
       "id": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
@@ -926,50 +1406,6 @@
       "officialUrl": "https://arstechnica.com"
     },
     {
-      "id": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
-      "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
-      "summary": "Here are some of the experimental ‘sneaks’ being showcased at Adobe Max. Here are some of the experimental ‘sneaks’ being showcased at Adobe Max. Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it’s developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn photo editing into a copy/paste process. The first (and weirdest, in my opinion) is Project Screen Test, which is designed to make AI-generated characters easier to develop and use for video content. Instead of just describing how the character should sound and behave in text prompts, the tool lets you talk to the character and direct them in an audition-like environment. You start by describing some base personality traits, such as “anxious, shy, awkward,” and giving the character a voice, either by selecting a preset, describing how it sounds in a prompt, or uploading sample audio for it to reference.",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
-      "category": "Industry",
-      "date": "2026-11-11T14:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3187089",
-      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving c...",
-      "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
-      "category": "Business",
-      "date": "2026-11-11T14:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/11/11/airtag-2-record-low-black-friday/",
-      "title": "AirTag 2 4-Pack Hits Record Low $69.99 Price Ahead of Black Friday",
-      "summary": "One of the best early Black Friday deals has arrived, with Apple's AirTag 2 available for $69.99 on Amazon, down from $99.00. This deal is on the 4-Pack of the AirTag 2, and it's a match of the record low price for the accessory. Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. We're also tracking a smaller deal on the AirTag 2 1-Pack, available for $23.00, down from $29.00. This is another record low price on the AirTag 2.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/11/11/airtag-2-record-low-black-friday/",
-      "category": "Tech",
-      "date": "2026-11-11T13:50:00.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/11/11/apple-smart-glasses-mentioned-by-suppliers/",
-      "title": "Rumored Apple Smart Glasses Mentioned in Supplier's Earnings Briefing",
-      "summary": "Apple's rumored smart glasses and AirPods with cameras may have been referenced by Chinese manufacturing equipment supplier Quick Intelligent Equipment, according to a Securities Times report on the company's quarterly earnings briefing. The company claimed it has been involved in \"Apple's AI glasses and new smart earphones projects,\" which could boost demand for its machine vision inspection equipment. Apple is reportedly targeting a late 2027 launch for its first smart glasses, expected to help answer questions about the wearer's surroundings and translate languages. Apple is also reportedly developing AirPods with cameras, set to arrive alongside the 20th-anniversary iPhone.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/11/11/apple-smart-glasses-mentioned-by-suppliers/",
-      "category": "Tech",
-      "date": "2026-11-11T13:49:53.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
       "id": "https://www.techrepublic.com/article/news-nvidia-openshell-cncf-ai-infrastructure-tools/",
       "title": "NVIDIA Takes Aim at Two AI Agent Problems: Security and Cost",
       "summary": "NVIDIA brings OpenShell to CNCF and introduces open-source AI infrastructure tools aimed at improving agent security, workload efficiency and startup times.",
@@ -979,50 +1415,6 @@
       "date": "2026-11-11T13:01:53.000Z",
       "hot": false,
       "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.engadget.com/2313202/microsoft-automatic-super-resolution-comes-to-rog-xbox-ally-x/",
-      "title": "Microsoft's Automatic Super Resolution is now officially out for the ROG Xbox Ally X",
-      "summary": "It’s the company’s response to NVIDIA’s DLSS and other similar upscaling tech. Image by Sam Rutherford for Engadget Add Engadget on Google: Preferred Source Google Discover Back in April, Microsoft revealed that it had started testing Automatic Super Resolution (Auto SR) on the ROG Xbox Ally X. Now, the upscaling technology designed to compete with similar video game tools like NVIDIA's DLSS, is officially rolling out to the Ally X, ROG Xbox Ally X20 and select Windows Copilot+ PCs powered by AMD Ryzen. The official version of Auto SR works even when the console is undocked, unlike the preview version that doesn't support handheld play. Auto SR allows the docked handheld to offer \"1440p-like detail alongside smooth framerates on larger screens.\" It means it can upscale your game up to 1440p in resolution to make it look sharper if you're playing on the TV. While that was its original purpose, Microsoft said it made the upscaling tech available even in handheld mode due to popular demand.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2313202/microsoft-automatic-super-resolution-comes-to-rog-xbox-ally-x/",
-      "category": "Tools",
-      "date": "2026-11-11T12:59:44.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
-      "id": "https://decrypt.co/?p=383001",
-      "title": "Morning Minute: What Anthropic’s $1.4 Trillion IPO Means for Crypto",
-      "summary": "Hint: if it plays out similarly to the SpaceX IPO, it means the Bitcoin bottom is very close.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/383001/morning-minute-what-anthropics-1-4-trillion-ipo-means-for-crypto",
-      "category": "Tech",
-      "date": "2026-11-11T12:55:18.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "https://decrypt.co/?p=383000",
-      "title": "Kraken Parent Payward Brings 200 UK and EU Stocks Onchain as xStocks",
-      "summary": "The expansion takes xStocks past 1,500 tokenized assets, though the new UK tokens still can't be bought by investors in the UK.",
-      "source": "Decrypt AI",
-      "sourceUrl": "https://decrypt.co/383000/kraken-parent-payward-brings-200-uk-and-eu-stocks-onchain-as-xstocks",
-      "category": "Tech",
-      "date": "2026-11-11T12:46:24.000Z",
-      "hot": false,
-      "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "https://www.engadget.com/2313187/grok-build-leaked-sensitive-spacexsi-data/",
-      "title": "A Grok vibe-coding agent leaked sensitive SpaceXSI data",
-      "summary": "The way Grok handles links to apps allowed them to be exposed publicly. Cheng Xin/Getty Images Add Engadget on Google: Preferred Source Google Discover A flaw in SpaceXSI's Grok Build vibe-coding agent allowed sensitive data to leak from thousands of users including.. SpaceXSI, security fraud firm Claroc told Ars Technica. The way Grok handles links to apps allowed them to be exposed publicly by certain types of DNS services, according to the security team. As a result, sensitive information involving employees was leaked out from a hospital group, a fire department and SpaceXSI itself. \"We were shocked,\" the researchers wrote in a blog post.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2313187/grok-build-leaked-sensitive-spacexsi-data/",
-      "category": "Tools",
-      "date": "2026-11-11T12:35:10.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
     },
     {
       "id": "https://elevenlabs.io/blog/nyc-summit",
@@ -1055,39 +1447,6 @@
       "date": "2026-11-11T11:05:00.000Z",
       "hot": false,
       "officialUrl": "https://feeds.feedburner.com"
-    },
-    {
-      "id": "6aee59f2d9407a3cfa2ceb7d",
-      "title": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
-      "summary": "A 13-year-old girl spent three months using her school-issued laptop to discuss depression, research suicide, and plan her funeral before self-harm-monitoring software finally prompted school officials to alert her parents, who intervened and stopped her, according to a lawsuit filed this month by her parents. The lawsuit alleges that Google and parent company Alphabet were negligent in their rollout of a Gemini model, claiming that the AI chatbot “coached” the North Carolina teenager to consider taking her own life. The case, which was previously reported by The New York Times, is one of several that allege harm from AI chatbot use, including claims of delusions and suicide. But it also illustrates the limitations of surveillance tools that thousands of schools have adopted in recent years, which are ostensibly designed to protect students from themselves when browsing and chatting online. Andrew Liddell, a lawyer for the family, tells WIRED that, according to information the school provided to the family, the alert went to the personal phone of a former counselor who had left the school nine months before. The ex-employee was diligent in passing the alert along to current staff, who then notified the girl’s mother, he says.",
-      "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
-      "category": "Industry",
-      "date": "2026-11-11T11:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "https://www.macrumors.com/how-to/enable-sound-recognition-apple-watch-listen?post_date=1794402224/",
-      "title": "Make Apple Watch Listen for Sounds Like the Doorbell",
-      "summary": "One of Apple's accessibility features on iPhone can listen for important sounds around you, such as a doorbell, siren or alarm, and it sends you a notification when it hears one. The feature has been extended to Apple's new Apple Watch Series 12 and Apple Watch Ultra 4 models, so the alert reaches your wrist even when your iPhone isn't with you. It's especially useful for people who are deaf or hard of hearing, but it has everyday uses too. If you wear noise-cancelling headphones while working and don't want to miss the doorbell – if you're expecting a delivery, for example – your Apple Watch can alert you. Sounds Your Apple Watch Can Detect Sound Recognition can detect the following 15 sounds. Any you switch on in the iPhone's Sounds list are also detected by your Apple Watch when \"Detect using Apple Watch\" is enabled: Fire Alarm Siren Smoke Alarm Cat Dog Appliances Car Horn Doorbell Door Knock Glass Breaking Kettle Water Running Baby Crying Coughing Shouting If a sound isn't recognized automatically, you can also teach your iPhone a Custom Alarm or Custom Appliance or Doorbell from the same Sounds list.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/how-to/enable-sound-recognition-apple-watch-listen/",
-      "category": "Tech",
-      "date": "2026-11-11T10:03:54.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/11/11/tsmc-approves-ai-investment/",
-      "title": "Apple Chip Supplier TSMC Approves $1 Billion AI Investment",
-      "summary": "Apple chip supplier TSMC has announced board approval to invest up to $1 billion in AI companies OpenAI and Anthropic. The decision allows TSMC to buy up to $500 million of shares in each company. The board also authorized up to $500 million to create a company that will invest in semiconductor businesses and the wider industry. TSMC manufactures Apple's custom chips, while OpenAI and Anthropic are developing processors of their own. The investments deepen TSMC's ties with companies that compete with Apple for its most advanced manufacturing capacity, as well as in the AI space more broadly. OpenAI is rumored to be working on hardware to rival Apple directly.Tags: Anthropic, OpenAI, TSMCThis article, \"Apple Chip Supplier TSMC Approves $1 Billion AI Investment\" first appeared on MacRumors.comDiscuss this article in our forums",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/11/11/tsmc-approves-ai-investment/",
-      "category": "Tech",
-      "date": "2026-11-11T10:00:54.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "000001a1-c83d-def8-a5f7-fa3ddc67000c",
@@ -1134,17 +1493,6 @@
       "officialUrl": "https://openai.com"
     },
     {
-      "id": "https://techcrunch.com/?p=3187258",
-      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
-      "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
-      "category": "Business",
-      "date": "2026-11-11T07:30:51.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
       "id": "https://huggingface.co/blog/qvac/botpsy",
       "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
       "summary": "",
@@ -1154,17 +1502,6 @@
       "date": "2026-11-11T05:01:16.000Z",
       "hot": false,
       "officialUrl": "https://huggingface.co"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/11/10/apple-support-community-closing-november-20/",
-      "title": "'Apple Support Community' Permanently Closing on November 20",
-      "summary": "Apple today announced that the long-running Apple Support Community discussion forums will be permanently closing on Friday, November 20. Effectively immediately, the Apple Support Community forums are in a read-only state, with new posts no longer being accepted. The final message posted to the site appears to have been submitted at 5:49 p.m. There is still a sign-in button, but it leads to an internal portal for Apple's corporate employees. Apple's full notice added to the site:The Apple Support Community will permanently close on November 20, 2026. Starting today, the site will no longer accept new posts and is available in a read-only state.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/11/10/apple-support-community-closing-november-20/",
-      "category": "Tech",
-      "date": "2026-11-11T03:50:59.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "000001a1-c89d-dc5e-abb5-faff09f50000",
@@ -1200,28 +1537,6 @@
       "officialUrl": "https://rss.politico.com"
     },
     {
-      "id": "https://www.macrumors.com/2026/11/10/apple-hoilday-gift-guide/",
-      "title": "Apple's Holiday Gift Guide Highlights iPhone Duo and More",
-      "summary": "Apple this week updated its homepage in the U.S. and other countries to start promoting holiday gift suggestions as the shopping season approaches. The website has colorful, festive imagery featuring Apple devices, along with suggestions on what you can buy for your loved ones and friends. Apple's top highlighted products are its newest devices: iPhone 18 Pro - $1,199 Apple Watch Series 12 - $399 MacBook Pro - $1,999 Apple HomeView - $299 iPad mini - $699 iPhone Duo - $1,999 Apple Watch Ultra 4 - $799 PROLED &zwnj;MacBook Pro&zwnj; - $2,899 Apple also suggests personalized gifts that can be engraved, like the AirPods Pro 3, AirTags, and iPad. The company suggests you can pick out an Apple Watch and band to match their style, or customize a Mac by choosing the chip, memory, storage, and color. There are new holiday accessories Apple is promoting in pink, navy, gray, purple, light blue, and yellow (though Apple calls it green).",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/11/10/apple-hoilday-gift-guide/",
-      "category": "Tech",
-      "date": "2026-11-11T00:57:36.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.macrumors.com/2026/11/10/india-tata-electronics-gas-incident/",
-      "title": "Three Workers Die at Tata iPhone Parts Plant in India",
-      "summary": "Three contract workers died on Monday at a factory owned by Indian Apple supplier Tata Electronics, reports Reuters. The facility in Hosur, Tamil Nadu, manufactures components for the iPhone. The workers were performing maintenance at a wastewater treatment plant at the Tata facility when they inhaled gas while inspecting a nano-filtration tank. The plant was operated by Nalco Water, and the workers were employed by a subcontractor. Apple, Tata Electronics, and state officials will look into the incident, with Apple sending a \"team\" to assist in the investigation. Back in 2024, the same facility had a fire in a chemical storage area, with production disrupted for several days.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/11/10/india-tata-electronics-gas-incident/",
-      "category": "Tech",
-      "date": "2026-11-11T00:46:16.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
       "id": "https://openai.com/index/jiostar-vijay-seshadri",
       "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
       "summary": "A conversation with Vijay Seshadri, Chief Architect at JioStar. ShareWhat convinced you that AI would fundamentally change how people discover content?What convinced you that AI would fundamentally change how people discover content?How did you turn that idea into a product in time for a major cricket tournament?At JioStar’s scale, what tradeoffs shaped the technical design?What does an effective evaluation system look like in production?How did a small team build and launch the experience in about eight weeks?Looking back, what would you do differently?What should executives keep in mind as they move from AI experiments to production systems?What convinced you that AI would fundamentally change how people discover content?How did you turn that idea into a product in time for a major cricket tournament?At JioStar’s scale, what tradeoffs shaped the technical design?What does an effective evaluation system look like in production?How did a small team build and launch the experience in about eight weeks?Looking back, what would you do differently?What should executives keep in mind as they move from AI experiments to production systems?OpenAI's Executive Function series features perspectives from leaders driving transformation through AI. JioStar operates entertainment and live-sports platforms used by more than 500 million consumers and has supported as many as 72.5 million concurrent live-sports viewers. At that scale, AI has to be fast, reliable, and ready for production.",
@@ -1246,13 +1561,19 @@
     {
       "id": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html?utm_source=futuretools.io&utm_medium=newspage",
       "title": "Nvidia CEO Jensen Huang Allegedly Had Affair With VP Who Reports to Him",
-      "summary": "Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy. Listen · 4:39 min Share full articleVideo{\"fit\":\"cover\",\"play\":false,\"muted\":false,\"loop\":false,\"visibleOnPageLoad\":true,\"enableWakeLock\":true,\"aspectRatio\":\"3:2\",\"src\":[{\"src\":\"https://vp.nyt.com/video/2026/11/12/183307_1_11vid-huang-second-relationship_wg_1080p.mp4\",\"type\":\"mp4\",\"height\":1080,\"width\":1620},{\"src\":\"https://vp.nyt.com/video/2026/11/12/183307_1_11vid-huang-second-relationship_wg_720p.mp4\",\"type\":\"mp4\",\"height\":720,\"width\":1080},{\"src\":\"https://vp.nyt.com/video/2026/11/12/183307_1_11vid-huang-second-relationship_wg_480p.mp4\",\"type\":\"mp4\",\"height\":480,\"width\":720},{\"src\":\"https://vp.nyt.com/video/2026/11/12/183307_1_11vid-huang-second-relationship_wg_360p.mp4\",\"type\":\"mp4\",\"height\":360,\"width\":540},{\"src\":\"https://vp.nyt.com/video/2026/11/12/183307_1_11vid-huang-second-relationship_wg_240p.mp4\",\"type\":\"mp4\",\"height\":240,\"width\":360},{\"src\":\"https://vp.nyt.com/video/hls/2026/11/12/183307_1_11vid-huang-second-relationship_wg/master.m3u8\",\"type\":\"hls\",\"specificQuality\":1080},{\"src\":\"https://vp.nyt.com/video/hlsfmp4/2026/11/12/183307_1_11vid-huang-second-relationship_wg/master.m3u8\",\"type\":\"hlsfmp4\",\"specificQuality\":1080},{\"src\":\"https://vp.nyt.com/video/2026/11/12/183307_1_11vid-huang-second-relationship_wg_av1-1080p.mp4\",\"type\":\"mp4_av1\",\"height\":1080,\"width\":1620},{\"src\":\"https://vp.nyt.com/video/2026/11/12/1",
+      "summary": "Nvidia CEO Jensen Huang allegedly had an extramarital affair with Kimberly Powell, the company's vice president of health care, who reports directly to him, according to five former employees. The relationship was reportedly captured on video at a San Jose hotel during Nvidia's March GTC conference, with a bystander allegedly pressured to sign an NDA. This comes as Huang already faces a board investigation led by Wachtell, Lipton, Rosen & Katz over a separate affair with a woman U.S. intelligence identified as a Chinese spy.",
       "source": "FutureTools News",
       "sourceUrl": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-11-11T00:00:00.000Z",
       "hot": false,
-      "access": "paywalled"
+      "access": "paywalled",
+      "relatedCoverage": [
+        {
+          "source": "Politico Tech",
+          "url": "https://www.politico.com/news/2026/11/12/nvidia-ousts-jensen-huang-amid-reports-of-affairs-with-two-women-01161630"
+        }
+      ]
     },
     {
       "id": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/?utm_source=futuretools.io&utm_medium=newspage",
@@ -1297,6 +1618,16 @@
       "hot": false
     },
     {
+      "id": "https://runway.com/news/company-news/praxis-1-is-now-available?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Runway Releases Praxis-1 Open-Weight Robotics Model Under Apache 2.0",
+      "summary": "Praxis-1, our state-of-the-art world action model, is now available to everyone with open weights under the Apache 2.0 license. We introduced Praxis-1 in September as our first world action model, built on the same large-scale video pretraining behind our general world models. Our launch partners including Noble Machines, Standard Bots and Ultra have been running it on their own hardware: a legged humanoid, a six-axis industrial arm and a dual-arm warehouse robot. Today, the same model is open to every robotics developer and researcher. Praxis-1 is a 27B-parameter mixture-of-experts diffusion transformer that predicts video and actions together. It is the top-performing world action model on NVIDIA’s RoboLab-120 leaderboard, and it outperforms every open-weight VLA.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://runway.com/news/company-news/praxis-1-is-now-available?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-11-11T00:00:00.000Z",
+      "hot": false
+    },
+    {
       "id": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "DeepMind's AlphaGenome 2 Predicts DNA Variant Effects Across Hundreds of Human Cell Types",
       "summary": "AlphaGenome 2 is our next-generation DNA sequence model that bridges single-cell biology and human genetics, predicting how variants affect human cell types.",
@@ -1315,17 +1646,6 @@
       "category": "Curation",
       "date": "2026-11-11T00:00:00.000Z",
       "hot": false
-    },
-    {
-      "id": "https://www.macrumors.com/2026/11/10/apple-icloud-calendar-outage/",
-      "title": "iCloud Mail, Calendar, Contacts and More Experiencing Outage [Updated]",
-      "summary": "Some iCloud services are experiencing an outage, according to Apple's System Status page. &zwnj;iCloud&zwnj; Calendar, &zwnj;iCloud&zwnj; Contacts, &zwnj;iCloud&zwnj; Mail, iWork for &zwnj;iCloud&zwnj;, and Game Center are affected. Apple says some users are experiencing issues with the services. The outage began at 5:49 p.m. Find My is also having problems and Apple says it may be slow or unavailable. We'll update this article when the services are back online.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/11/10/apple-icloud-calendar-outage/",
-      "category": "Tech",
-      "date": "2026-11-10T23:53:31.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
     },
     {
       "id": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
@@ -1372,17 +1692,6 @@
       "officialUrl": "https://arstechnica.com"
     },
     {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
-      "title": "The US is winning the AI race. Jensen Huang could have blown it",
-      "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool leather jacket. Which makes Huang's admission that he had an affair with a woman suspected of being a Chinese spy - reportedly while her spying was known to US intelligence and even President Donald Trump - all the more shocking. The fallout goes well beyond his marriage, his reputation, or Nvidia itself. Experts tell The Verge the incident threate …",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
-      "category": "Industry",
-      "date": "2026-11-10T19:04:05.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
       "id": "https://www.techrepublic.com/article/news-nvidia-gr00t-2-robot-training-human-demonstrations/",
       "title": "Nvidia Introduces GR00T 2 to Train Robots With Human Demonstrations",
       "summary": "Nvidia’s GR00T 2 learns from human video and robot demonstrations. Explore its training results, limitations and what businesses should test before adoption.",
@@ -1405,39 +1714,6 @@
       "officialUrl": "https://rss.politico.com"
     },
     {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
-      "title": "ChatGPT is getting verified AI ‘Business Agents’",
-      "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being announced today in beta. You can start talking with a Business Agent if a business that has created one appears in a response from ChatGPT. While chatting with a custom agent, you can ask about a business's offerings and ask follow-up questions, like asking about differences between two different products. Businesses can specify a Busi …",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
-      "category": "Industry",
-      "date": "2026-11-10T18:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
-      "id": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
-      "title": "The indie game community is in disarray over AI and Big Walk",
-      "summary": "Big Walk’s developers said that they used AI ‘sparingly’ to help work through ‘difficult technical challenges.’ Big Walk’s developers said that they used AI ‘sparingly’ to help work through ‘difficult technical challenges.’ Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in “any capacity.” Soon after, the developer of indie hit Big Walk has published a statement saying it “sparingly” used AI in the “final stretch” of the game’s development to “help work through difficult technical challenges and bugs.” According to the jurors’ statement, a copy of which was posted by Austin Walker, while this year’s IGF entries have been “notable,” there has been “a significant increase” in the number of games “developed with generative AI tools,” leading to “fairly intense discussion and disagreement” with no “universal consensus.” The statement includes a list of beliefs, including that generative AI has “negative effects,” that AI-generated code is “not an exception to these harms,” and that use of AI tools is “not a forgone conclusion in our industry.” IGF jurors that signed include Telling Lies and Immortality creator Sam Barlow and Celeste composer Lena Raine. The jurors say that the statement doesn’t speak for IGF as an organization or for all IGF jury members, noting that some voiced concern about being able to safely sign “without professional blowback.”",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
-      "category": "Industry",
-      "date": "2026-11-10T17:32:47.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
-      "title": "Anthropic has its own AI-powered office suite now",
-      "summary": "The company is courting white-collar workers ahead of its IPO. The company is courting white-collar workers ahead of its IPO. For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs — like OpenAI, SpaceXSI, and Meta — to copy its strategies. Earlier this year, Claude Code went through its own particular hype cycle. And now, Anthropic is trying to expand its footprint to other knowledge workers with an AI-powered suite of office tools. At an event in San Francisco on Tuesday, Anthropic unveiled new tools for non-technical workers who spend a lot of time attending meetings, brainstorming new ideas, and analyzing metrics: Claude Meetings, Claude Sheets, and Claude Whiteboards.",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
-      "category": "Industry",
-      "date": "2026-11-10T17:30:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
       "id": "https://www.techrepublic.com/?p=4381090",
       "title": "Claude Fable 5.2 vs GPT-6: Which AI Is Better for Work?",
       "summary": "Claude Fable 5.2 vs GPT-6: Compare coding, productivity, AI agents, pricing, and security to find the best AI for your business.",
@@ -1447,17 +1723,6 @@
       "date": "2026-11-10T16:35:12.000Z",
       "hot": false,
       "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
-      "title": "eBay appears to have shut the door on third-party AI agents",
-      "summary": "Silicon Valley is promising an AI agent revolution, but retailers and service providers keep blocking them. Silicon Valley is promising an AI agent revolution, but retailers and service providers keep blocking them. eBay appears to have blocked AI agents, including Meta’s Muse, from browsing on the platform — the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he’s had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a link to listings, price, shipping details, and relevant notes about condition or style. This weekend, though, Muse was unable to pull any links or details from eBay, with Muse saying it was blocked from the site. The Verge was able to re-create the experience using other search requests, and in some cases we found that Muse instead directed users to outside sites that mirrored eBay listings.",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
-      "category": "Industry",
-      "date": "2026-11-10T16:20:30.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
     },
     {
       "id": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
@@ -1472,7 +1737,7 @@
     },
     {
       "id": "https://blogs.nvidia.com/?p=99797",
-      "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+      "title": "NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure",
       "summary": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open source at KubeCon + CloudNativeCon, the flagship conference for the Kubernetes and cloud-native communities. NVIDIA is contributing NVIDIA OpenShell, an open source runtime for securing and governing autonomous agents, to the Cloud Native Computing Foundation (CNCF), a nonprofit that is part of the Linux Foundation and the host of KubeCon. As a CNCF Sandbox project, OpenShell will be governed by the organizations building it into their products and strengthened by the expertise of security professionals worldwide. NVIDIA is also contributing to Agent Substrate, an open source Google-led framework for operating long-running agent workloads at scale on Kubernetes that has been accepted into the CNCF Sandbox. Additionally, NVIDIA announced new components of the NVIDIA DSX AI Factory Platform: NVIDIA Kubernetes Engine, NVIDIA Kubernetes Recipes and NVIDIA Snapshot.",
       "source": "NVIDIA Blog",
       "sourceUrl": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
@@ -1513,17 +1778,6 @@
       "date": "2026-11-10T14:00:00.000Z",
       "hot": false,
       "officialUrl": "https://blog.google"
-    },
-    {
-      "id": "6af2103b190ffd33e9466a6e",
-      "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
-      "summary": "Kirt McMaster knows that his new operating system—Kora—won’t be for everyone, and he’s fine with that. Kora, announced on Tuesday, is designed as a desktop alternative to Windows or macOS for “the AI native, not mass market,” he says. McMaster, the company’s CEO and cofounder—who also cofounded Boost Mobile—likens his strategy to how Steve Jobs targeted creators when overhauling desktop publishing with the Mac. This “next-generation” desktop OS can integrate context from user interactions across multiple AI tools. Targeted to creators and developers, Kora’s central idea is to bring AI models together at the system level and help power users interact more seamlessly with multiple providers, rather than siloing everything off into desktop apps and browser tabs. It’s scheduled to launch sometime in 2027.",
-      "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
-      "category": "Industry",
-      "date": "2026-11-10T14:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.wired.com"
     },
     {
       "id": "000001a1-c5b1-def8-a5f7-f7b9c7180000",
@@ -1590,28 +1844,6 @@
       "date": "2026-11-10T11:27:00.000Z",
       "hot": false,
       "officialUrl": "https://feeds.feedburner.com"
-    },
-    {
-      "id": "6ace8269ef03129fd13b25aa",
-      "title": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
-      "summary": "Animation: Irene Suosalo Devon Thomas hardly seems like a renegade. Members of his bible study group, he tells me, would probably describe him as unfailingly kind and polite. And yet Thomas is doing something that many in the AI world consider borderline blasphemous. His new company, Abliteration AI, removes safeguards from the world’s most powerful open-weight models. It also makes these models available to anyone. As someone who covers AI and constantly hears about the need for increased safety, I was fascinated to learn about this subversive business venture.",
-      "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
-      "category": "Industry",
-      "date": "2026-11-10T11:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.wired.com"
-    },
-    {
-      "id": "6aecd72ef3a6c68d608651ac",
-      "title": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
-      "summary": "ILLUSTRATION: IAN MOORE In early fall, I felt my anxiety rising from its usual baseline. Was it September’s back-to-school energy? The looming midterm elections? Nope, I realized with annoyance: It was AI—again. Only this time, instead of its purveyors warning of massive job displacement, they were foretelling mass extinction. Who needs jobs when we’re all dead?",
-      "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
-      "category": "Industry",
-      "date": "2026-11-10T11:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.wired.com"
     },
     {
       "id": "https://openai.com/index/introducing-businesses-chatgpt",
@@ -1878,7 +2110,7 @@
     {
       "id": "000001a1-c2ad-dc5e-abb5-f2ef11200006",
       "title": "Nvidia sued over Jensen Huang’s alleged spy affair",
-      "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
+      "summary": "The scandal engulfing Jensen Huang is fueling calls for tighter restrictions on China's access to advanced AI chips, just days before the Trump-Xi summit.",
       "source": "Politico Tech",
       "sourceUrl": "https://www.politico.com/news/2026/11/09/nvidia-sued-jensen-huang-alleged-spy-affair-01157660",
       "category": "Industry",
@@ -1887,12 +2119,12 @@
       "officialUrl": "https://rss.politico.com",
       "relatedCoverage": [
         {
-          "source": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/"
-        },
-        {
           "source": "CNBC Tech",
           "url": "https://www.cnbc.com/2026/11/12/nvidia-trump-jensen-chip-export-controls-china-xi-.html"
+        },
+        {
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns"
         }
       ]
     },
@@ -1928,28 +2160,6 @@
       "date": "2026-11-09T19:35:33.000Z",
       "hot": false,
       "officialUrl": "https://www.technologyreview.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/article/news-nvidia-jensen-huang-espionage-inquiry-apac-china/",
-      "title": "Nvidia Backs Jensen Huang as Board Examines Espionage Reports",
-      "summary": "Nvidia backs Jensen Huang as its board investigates espionage reports. Here’s what IT buyers should watch on security, supplier risk, and AI chip access.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/news-nvidia-jensen-huang-espionage-inquiry-apac-china/",
-      "category": "Business",
-      "date": "2026-11-09T19:08:28.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://www.techrepublic.com/?p=4380928",
-      "title": "Learn the Language Your International Clients Speak for $60",
-      "summary": "Lingzio Premium pairs a full A1 to C2 curriculum with AI speaking practice in up to three of six languages.",
-      "source": "TechRepublic AI",
-      "sourceUrl": "https://www.techrepublic.com/article/lingzio-language-learning-lifetime-subscription/",
-      "category": "Business",
-      "date": "2026-11-09T18:45:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.techrepublic.com"
     },
     {
       "id": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
@@ -2049,17 +2259,6 @@
       "date": "2026-11-09T12:34:29.000Z",
       "hot": false,
       "officialUrl": "https://huggingface.co"
-    },
-    {
-      "id": "http://feeds.fabbaloo.com/~/972687887/_/fabbaloo/default~Design-of-the-Week-Affordable-RAM",
-      "title": "Design of the Week: Affordable RAM",
-      "summary": "This week’s selection is Affordable RAM by Printables contributor Dezain 3D. The post Design of the Week: Affordable RAM appeared on Fabbaloo.",
-      "source": "Fabbaloo",
-      "sourceUrl": "http://feeds.fabbaloo.com/~/972687887/_/fabbaloo/default~Design-of-the-Week-Affordable-RAM",
-      "category": "Tech",
-      "date": "2026-11-09T11:53:00.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.feedburner.com"
     },
     {
       "id": "https://blogs.nvidia.com/?p=99744",
@@ -2257,17 +2456,6 @@
       "hot": false
     },
     {
-      "id": "000001a1-bd00-dc5e-abb5-bf672e5a0000",
-      "title": "Nvidia launches investigation into reported Chinese spy effort targeting Jensen Huang",
-      "summary": "The independent review follows reporting that Chinese intelligence targeted the chipmaker’s CEO.",
-      "source": "Politico Tech",
-      "sourceUrl": "https://www.politico.com/news/2026/11/08/nvidia-investigation-chinese-spy-effort-jensen-huang-01155747",
-      "category": "Industry",
-      "date": "2026-11-08T21:44:33.000Z",
-      "hot": false,
-      "officialUrl": "https://rss.politico.com"
-    },
-    {
       "id": "https://nvidianews.nvidia.com/news/a-message-to-our-company?utm_source=futuretools.io&utm_medium=newspage",
       "title": "NVIDIA CEO Jensen Huang Admits Infidelity as Board Launches National Security Investigation",
       "summary": "I owe my family and all of you an apology. I was unfaithful to my wife. My actions hurt her and our children. There is no excuse for what I did. I am deeply sorry. Throughout my life, my..",
@@ -2275,18 +2463,17 @@
       "sourceUrl": "https://nvidianews.nvidia.com/news/a-message-to-our-company?utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
       "date": "2026-11-08T00:00:00.000Z",
-      "hot": true
-    },
-    {
-      "id": "000001a1-b296-d2f6-adb3-b6be15370006",
-      "title": "Democrats’ sweep puts Brendan Carr in the hot seat",
-      "summary": "The Federal Communications Commission has become a battleground for Democrats afraid the administration is squelching free speech.",
-      "source": "Politico Tech",
-      "sourceUrl": "https://www.politico.com/news/2026/11/07/democrats-sweep-puts-brendan-carr-in-the-hot-seat-01152720",
-      "category": "Industry",
-      "date": "2026-11-07T20:30:00.000Z",
-      "hot": false,
-      "officialUrl": "https://rss.politico.com"
+      "hot": true,
+      "relatedCoverage": [
+        {
+          "source": "Wired AI",
+          "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/"
+        },
+        {
+          "source": "Engadget AI",
+          "url": "https://www.engadget.com/2314584/jensen-huang-is-out-as-nvidia-ceo/"
+        }
+      ]
     }
   ]
 }
