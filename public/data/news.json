@@ -1,6 +1,149 @@
 {
-  "lastUpdated": "2026-11-15T19:01:19.500Z",
+  "lastUpdated": "2026-11-15T23:22:09.978Z",
   "news": [
+    {
+      "id": "https://www.digitaltrends.com/?p=6023745",
+      "title": "Microsoft says its next Xbox is a console first, even if it plays PC games",
+      "summary": "Microsoft is preparing to blur the line between console and PC gaming, but it doesn't want the next Xbox to be mistaken for a gaming PC. In its 25th anniversary magazine, the company has offered a clearer look at Project Helix, confirming that its next-generation console will play PC games while retaining the simplicity of a traditional Xbox. Microsoft wants players to access PC games without dealing with the usual complications of gaming on Windows, such as driver updates, complicated settings, and hardware configurations. The idea is to make jumping into a game as effortless as it is on a traditional Xbox, while still giving enthusiasts access to deeper graphics and performance controls. Xbox The ROG Xbox Ally has already offered a glimpse of this approach, bringing games from different PC storefronts into a unified library. Microsoft wants to take that idea further with Project Helix, while also allowing players to carry their existing Xbox libraries and progress across four generations of consoles.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/gaming/xbox-project-helix-console-pc-games/",
+      "category": "Tech",
+      "date": "2026-11-15T23:16:04.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6023740",
+      "title": "Nvidia’s Jensen Huang may be planning a comeback just days after stepping down",
+      "summary": "Jensen Huang may not be done with Nvidia after all. The former CEO is reportedly discussing a return with confidants, while influential Silicon Valley allies are assembling what one insider calls a \"war room\" to lobby Nvidia's board and seek White House support. According to the Financial Times, the effort has Huang's backing, although neither he nor Nvidia has publicly confirmed any comeback plans. The reported campaign is gathering support from some prominent names in the tech industry. Tesla CEO Elon Musk and Epic Games CEO Tim Sweeney have backed public appeals urging Nvidia's board to bring Huang back. Investors Brad Gerstner of Altimeter Capital and Gavin Baker of Atreides Management have also urged the board to keep the possibility of his return on the table rather than rush into appointing a replacement.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/computing/jensen-huang-nvidia-ceo-comeback-allies/",
+      "category": "Tech",
+      "date": "2026-11-15T22:48:03.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/ubs-says-emerging-markets-are-more-agile-than-fragile-forecasts-2027-gains-5028161",
+      "title": "UBS says emerging markets are ‘more agile than fragile,’ forecasts 2027 gains",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/ubs-says-emerging-markets-are-more-agile-than-fragile-forecasts-2027-gains-5028161",
+      "category": "Business",
+      "date": "2026-11-15T22:45:35.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6023734",
+      "title": "Microsoft’s Windows security fix has a loophole, and hackers could use it to gain full control",
+      "summary": "Windows has another security headache, and this time the irony is hard to miss. A newly disclosed zero-day exploit called SignDrop reportedly allows someone with a standard Windows user account to gain full SYSTEM privileges by abusing a security feature Microsoft introduced to protect the operating system from similar attacks. The exploit targets Windows' Common Log File System (CLFS), with the potential to turn Microsoft's own security fix into a way of taking control of a PC. Microsoft Security researcher Abdelhamid Naceri, who goes by Nightmare Eclipse and MSNightmare, published the proof-of-concept code on GitHub on November 10. Independent researchers have since reproduced the exploit, although its reliability and compatibility appear to be limited. Microsoft says it is investigating the reported vulnerability, while also claiming that Defender can detect and block exploitation attempts.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/computing/windows-11-signdrop-zero-day-exploit/",
+      "category": "Tech",
+      "date": "2026-11-15T22:16:23.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
+      "id": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "summary": "(opens in a new window)ShareWhat is missing from the Standard Model’s definition?What is missing from the Standard Model’s definition?Left-handed particlesAn analogy with light and mirrorsGetting the phase rightBuilding the construction with AstraWhat comes nextWhat is missing from the Standard Model’s definition?Left-handed particlesAn analogy with light and mirrorsGetting the phase rightBuilding the construction with AstraWhat comes nextIn the first guest post on OpenAI's science blog, physicist Nathaniel Craig, a visiting scientist at OpenAI, describes how he worked with GPT‑6 Astra on a candidate lattice definition of the Standard Model. Craig leads the particle theory group at the University of California, Santa Barbara, and is a permanent member of its Kavli Institute for Theoretical Physics. The Standard Model of particle physics is an extraordinarily successful theory of nature, describing the known elementary particles and three of the four fundamental forces—the strong force, the weak force, and electromagnetism. The success of the theory rests on outstanding agreement between theoretical calculations and experiments across eighteen orders of magnitude, from the low energies of hydrogen’s 21-centimeter radio emission to the high energies of collisions at the Large Hadron Collider. And yet for all of its successes over the more than fifty years of its existence, a foundational problem remains: how to give the full theory a nonperturbative definition, one that does...",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "category": "Models",
+      "date": "2026-11-15T22:00:01.000Z",
+      "hot": false,
+      "officialUrl": "https://openai.com"
+    },
+    {
+      "id": "https://openai.com/index/our-new-blog-for-science",
+      "title": "Our new blog for science",
+      "summary": "ShareWe’re starting the OpenAI science blog to give scientists and academic researchers a place to share what they’re discovering with AI and how they’re doing the work. OpenAI's mission is to ensure that AGI benefits all of humanity, and accelerating scientific discovery is one of the most impactful ways OpenAI can work toward that goal. OpenAI will publish work across a broad range of scientific disciplines, including: Research and discoveries: New scientific results and updates on ongoing research from OpenAI, OpenAI's collaborators, and the broader scientific community. Methods and practical guidance: Examples of how scientists use OpenAI's models for tasks such as scientific computing, data analysis, exploring literature, and planning experiments. OpenAI will share approaches others can adapt, including how to check the work and where a method falls short.",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/our-new-blog-for-science",
+      "category": "Models",
+      "date": "2026-11-15T22:00:00.000Z",
+      "hot": false,
+      "officialUrl": "https://openai.com"
+    },
+    {
+      "id": "https://techcrunch.com/?p=3188757",
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "summary": "And so much of this economy is riding on Nvidia.\"",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "category": "Business",
+      "date": "2026-11-15T21:56:35.000Z",
+      "hot": false,
+      "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "summary": "Megaspeed claims Alice Huang hasn’t worked there since August of 2025. Megaspeed claims Alice Huang hasn’t worked there since August of 2025. A free daily digest of the news that matters most.",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "category": "Industry",
+      "date": "2026-11-15T20:43:49.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/jensen-huang-may-return-as-nvidia-chief-executive--report-5028097",
+      "title": "Jensen Huang may return as Nvidia chief executive - report",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/jensen-huang-may-return-as-nvidia-chief-executive--report-5028097",
+      "category": "Business",
+      "date": "2026-11-15T20:39:40.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/us-rocket-fails-after-launch-payload-of-amazon-internet-satellites-destroyed-5028094",
+      "title": "US rocket fails after launch, payload of Amazon internet satellites destroyed",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/us-rocket-fails-after-launch-payload-of-amazon-internet-satellites-destroyed-5028094",
+      "category": "Business",
+      "date": "2026-11-15T20:30:46.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "108549585",
+      "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
+      "summary": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+      "category": "Business",
+      "date": "2026-11-15T19:58:21.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/jensen-huang-discusses-comeback-as-nvidia-ceo-with-allies-ft-reports-5028065",
+      "title": "Jensen Huang discusses comeback as Nvidia CEO with allies, FT reports",
+      "summary": "",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/jensen-huang-discusses-comeback-as-nvidia-ceo-with-allies-ft-reports-5028065",
+      "category": "Business",
+      "date": "2026-11-15T19:30:22.000Z",
+      "hot": false,
+      "officialUrl": "https://www.investing.com"
+    },
+    {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "summary": "Following revelations about Jensen Huang’s relationship with a suspected Chinese spy Congress wants to crack down. Following revelations about Jensen Huang’s relationship with a suspected Chinese spy Congress wants to crack down. Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority Leader Chuck Schumer has already said that Huang and the Trump administration need to answer to Congress. Senate Banking Committee Chairman Tim Scott has also sent letters to both Huang and Commerce Secretary Howard Lutnick calling on them to publicly testify to the committee.",
+      "source": "The Verge AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "category": "Industry",
+      "date": "2026-11-15T19:15:43.000Z",
+      "hot": false,
+      "officialUrl": "https://www.theverge.com"
+    },
     {
       "id": "108551643",
       "title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
@@ -24,6 +167,17 @@
       "officialUrl": "https://feeds.macrumors.com"
     },
     {
+      "id": "https://www.digitaltrends.com/?p=6023684",
+      "title": "I found five gaming monitor deals worth checking out during the early Black Friday sale",
+      "summary": "A good gaming monitor can make a bigger difference to your setup than another RGB accessory or a new desk mat. Whether you're chasing higher frame rates in competitive games, want sharper visuals in open-world titles, or need more screen space for work and entertainment, Amazon's Black Friday monitor deals have a few options worth considering. I've picked five displays across different price points and panel technologies. There's a 4K OLED monitor with a dual-mode 480Hz option, a QD-OLED model from Samsung, two more affordable QHD and Full HD options, and a 34-inch ultrawide for people who prefer a wider field of view. The right choice depends on what you play, the graphics hardware you own, and how much you're willing to spend. Digital Trends This is the premium option in the list, and its dual-mode panel is the headline feature.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/home-theater/i-found-five-gaming-monitor-deals-worth-checking-out-during-the-early-black-friday-sale/",
+      "category": "Tech",
+      "date": "2026-11-15T17:59:52.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
       "id": "https://www.macrumors.com/2026/11/15/apple-smart-glasses-hinge-on-siri/",
       "title": "Apple's Smart Glasses Strategy Hinges on Siri and iPhone Apps",
       "summary": "Apple plans to unveil its first smart glasses at WWDC in June 2027 and begin shipping them before the end of the year, according to Bloomberg's Mark Gurman. Current prototypes of the glasses, internally code-named \"N50,\" are reportedly slightly thinner than Meta's second-generation Ray-Bans. Some test units have oval camera openings integrated into the frame without protruding housings. A front light indicates use or charging, while Apple is experimenting with additional privacy features. Apple is apparently developing multiple styles and colors, with an emphasis on materials, sensors, and audio quality. Employees have described the sound as \"industry-leading,\" with the glasses supporting music playback, calls, and FaceTime audio.",
@@ -33,39 +187,6 @@
       "date": "2026-11-15T17:55:32.000Z",
       "hot": false,
       "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
-      "id": "https://www.engadget.com/2313761/open-ear-vs-in-ear-earbuds-which-is-better/",
-      "title": "Open-ear vs. in-ear earbuds: Which is actually better for your ears?",
-      "summary": "Each type of earbud has its perks and pitfalls. Zamrznuti tonovi/Shutterstock Add Engadget on Google: Preferred Source Google Discover With the very different designs of open-ear and in-ear earbuds, you might be wondering if one kind is better for your ears than the other. Since in-ear buds go in your ears, similar to earplugs, they offer a tight seal and direct sound into your ear canal. This can provide some level of pressure, especially if you wear them for hours. They are also more prone to getting dirty from secretions like earwax. By contrast, open-ear buds sit atop your ears so there's minimal contact.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2313761/open-ear-vs-in-ear-earbuds-which-is-better/",
-      "category": "Tools",
-      "date": "2026-11-15T17:45:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
-      "id": "https://www.engadget.com/2317185/italy-orders-meta-to-pay-887m-for-not-obtaining-specific-consent-over-user-photos/",
-      "title": "Italy orders Meta to pay $887M for not obtaining specific consent over user photos",
-      "summary": "Meta is reportedly planning to appeal the fine. FotoField/Shutterstock Add Engadget on Google: Preferred Source Google Discover The Italian Data Protection Authority (IDPA) has hit Meta with one of its highest fines to date. According to the Italian data regulatory body, Meta failed to specifically disclose that it had access to user photos, videos and the related metadata for those using the Facebook app on Android devices. The IDPA fined Meta Platforms Ireland Limited 805 million euros, or approximately $887 million, which represents 0.47 percent of the company's global revenue.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2317185/italy-orders-meta-to-pay-887m-for-not-obtaining-specific-consent-over-user-photos/",
-      "category": "Tools",
-      "date": "2026-11-15T17:44:06.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
-      "id": "https://www.engadget.com/2313758/phone-airplane-mode-save-unexpected-charges-cruise-ships/",
-      "title": "Your phone's 'Airplane Mode' can save you from unexpected charges on cruise ships",
-      "summary": "A few simple steps can keep your phone online at sea without the extra charges. Ozgurcankaya/Getty Images Add Engadget on Google: Preferred Source Google Discover Cruise ships are a fun way to see the world and explore the open seas. And while you want to remain connected when you're away, it's important to use Airplane Mode on your phone to avoid unexpected charges. You might pay for the ship's Wi-Fi plan, but that isn't always reliable. But you should still use Airplane Mode when the cruise ship is on the move. Another potential problem is that because cruise ships travel through open waters, they can pick up cellular signals from different countries and regions along the way.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2313758/phone-airplane-mode-save-unexpected-charges-cruise-ships/",
-      "category": "Tools",
-      "date": "2026-11-15T17:30:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
     },
     {
       "id": "https://www.macrumors.com/2026/11/15/airpods-pro-3-discounted/",
@@ -79,15 +200,15 @@
       "officialUrl": "https://feeds.macrumors.com"
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/us-air-travel-disruptions-continue-into-third-day-5028023",
-      "title": "US air travel disruptions continue into third day",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/us-air-travel-disruptions-continue-into-third-day-5028023",
-      "category": "Business",
-      "date": "2026-11-15T16:54:18.000Z",
+      "id": "https://www.digitaltrends.com/?p=6020732",
+      "title": "A Smarter Bathroom Starts With the SANYIPACE SD03Pro",
+      "summary": "Smart home technology isn't limited to the living room or kitchen anymore. Even toilets are getting an upgrade, and some of the newer features are more useful than you might think. The SANYIPACE Aira Cearo SD03Pro offers a heated seat, built-in bidet, and automatic flushing. A smart toilet might not be the first upgrade you think about, but it's something you'll use every day. One of the biggest reasons to consider a smart toilet is the ability to customize your experience. With a traditional toilet, there isn't much to adjust, but the SD03Pro lets you personalize quite a few things.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/brc/a-smarter-bathroom-starts-with-the-sanyipace-sd03pro/",
+      "category": "Tech",
+      "date": "2026-11-15T17:00:00.000Z",
       "hot": false,
-      "officialUrl": "https://www.investing.com"
+      "officialUrl": "https://www.digitaltrends.com"
     },
     {
       "id": "https://www.macrumors.com/2026/11/15/apple-aims-to-upgrade-iphone-duo-in-four-ways/",
@@ -101,28 +222,6 @@
       "officialUrl": "https://feeds.macrumors.com"
     },
     {
-      "id": "https://www.engadget.com/2313717/vibe-coding-changing-how-musicians-customize-gear/",
-      "title": "Vibe coding is changing how musicians customize their gear",
-      "summary": "AI's influence on music gear may be bigger than we thought. Dragos Condrea/Getty Images Add Engadget on Google: Preferred Source Google Discover Much has been made of artificial intelligence's intrusion into the music space. Most have focused on agentic AI's song generation capabilities, with proponents proclaiming the dawn of horizonless creativity and detractors decrying mass intellectual theft. And although the AI-slop flooding your Spotify app grabs all the headlines, it is the waves of AI-generated software flooding the audio engineering landscape that may have a more lasting impact. Increasingly common, vibe coding is the practice of generating code by inputting common-language prompts into an AI chatbot. Somewhere between computer programming and wish fulfillment, it's a cheap, easy way to create new software, whether you are an amateur or hold a master's in computer science.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2313717/vibe-coding-changing-how-musicians-customize-gear/",
-      "category": "Tools",
-      "date": "2026-11-15T16:30:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
-      "id": "https://www.engadget.com/2313709/gaming-pc-vs-console-gpu-difference-between/",
-      "title": "Gaming PC GPUs vs. console GPUs: What's the difference between them?",
-      "summary": "Both have the same underlying tech, but console versions share more with the CPU. Luke James for Engadget Add Engadget on Google: Preferred Source Google Discover Take the side panel off a gaming PC and the graphics card is the first thing you'll see. It's a slab the size of a hardback book slotted into the motherboard with fans bolted to it. But open up a PlayStation 5 or Xbox Series X and you'll see nothing of the kind. Instead, beneath the heatsink sits an AMD chip doing the work of both processor and graphics card. Both consoles draw their pictures via the same AMD Radeon technology found in PC graphics cards.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2313709/gaming-pc-vs-console-gpu-difference-between/",
-      "category": "Tools",
-      "date": "2026-11-15T16:15:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
-    },
-    {
       "id": "https://decrypt.co/?p=383284",
       "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
       "summary": "For years, stablecoins were crypto’s business, dominated by Tether and Circle and used mostly to trade digital assets.",
@@ -132,17 +231,6 @@
       "date": "2026-11-15T16:01:02.000Z",
       "hot": false,
       "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "https://www.engadget.com/2313707/ai-glasses-banned-places-list-keeps-growing/",
-      "title": "Some places have already banned AI glasses, and the list just keeps growing",
-      "summary": "Courts, schools and other public places are increasingly banning AI glasses. Alexander Fedosov/Shutterstock Add Engadget on Google: Preferred Source Google Discover AI glasses with cameras can look like just a normal pair of glasses, but they are becoming more and more unwelcome in courthouses, schools and other public places for safety and privacy reasons. While no country has a permanent, outright ban on AI glasses, Pakistan's Punjab province imposed a 30-day ban. This includes the use and sale of camera-equipped smart glasses with \"hidden recording ability\" and began in October 2026. The order also includes miniature cameras disguised in the form of pens or keychains, and retailers will not be able to evade it by selling the affected devices online. Punjab authorities claimed they received complaints of spying devices being used for illegal surveillance, harassment and blackmail.",
-      "source": "Engadget AI",
-      "sourceUrl": "https://www.engadget.com/2313707/ai-glasses-banned-places-list-keeps-growing/",
-      "category": "Tools",
-      "date": "2026-11-15T16:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.engadget.com"
     },
     {
       "id": "https://www.investing.com/news/stock-market-news/faa-orders-nationwide-ground-stop-citing-extraordinary-safety-concerns-5026489",
@@ -156,26 +244,26 @@
       "officialUrl": "https://www.investing.com"
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/bessent-says-nvidia-needs-dramatic-leadership-shakeup-5027992",
-      "title": "Bessent says Nvidia needs \"dramatic\" leadership shakeup",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/bessent-says-nvidia-needs-dramatic-leadership-shakeup-5027992",
-      "category": "Business",
-      "date": "2026-11-15T15:39:58.000Z",
+      "id": "https://www.digitaltrends.com/?p=6023670",
+      "title": "iPhone Duo 2 prototypes with Face ID are apparently ready at Apple, but the market might have to ...",
+      "summary": "One of the biggest criticisms Apple has received for its first foldable is the lack of a face unlock feature. Ever since the iPhone X made its way to the market, users have grown used to the convenience of a snappy Face ID system that identifies them and unlocks their device in less than a second. On the iPhone Duo, however, Apple went with a fingerprint sensor embedded in the side-mounted power button. It's definitely a learning curve for users accustomed to Face ID, and it appears Apple is already at work to fix that wrinkle, as per Bloomberg. \"I'm told that Apple has already developed prototypes of the iPhone Duo 2 with Face ID, and engineers are still actively working to integrate the facial-recognition system into the outer display of the second-generation model,\" says the report. According to a report by Bloomberg, Apple has already developed prototype units of the second-generation iPhone Duo with Face ID, and engineers are actively working to integrate the system into the phone's outer display.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/phones/iphone-duo-2-prototypes-with-face-id-are-apparently-ready-at-apple-but-the-market-might-have-to-wait/",
+      "category": "Tech",
+      "date": "2026-11-15T15:46:52.000Z",
       "hot": false,
-      "officialUrl": "https://www.investing.com"
+      "officialUrl": "https://www.digitaltrends.com"
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/megaspeed-says-exec-tied-to-exnvidia-ceo-left-in-2025-amid-us-chip-scrutiny-5027830",
-      "title": "Megaspeed says ex-Nvidia CEO-linked executive left in 2025 amid U.S. scrutiny",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/megaspeed-says-exec-tied-to-exnvidia-ceo-left-in-2025-amid-us-chip-scrutiny-5027830",
-      "category": "Business",
-      "date": "2026-11-15T14:05:57.000Z",
+      "id": "https://www.digitaltrends.com/?p=6023657",
+      "title": "Apple’s first smart glasses will have you talking with apps through Siri AI in 2027",
+      "summary": "Apple is apparently going full steam ahead with the development of its first smart glasses. And it appears the company is betting on a far more rewarding and well-knit software experience to set them apart from rivals. According to a report by Bloomberg, Apple's first smart glasses, which are expected to be unveiled at WWDC next June, will let users talk to Siri and get work done in their apps. Apple has already started laying the foundation with iOS 27.3, which brings precise voice control over Apple's own apps through Siri, with support for third-party apps set to arrive next year. Instead of asking developers to build custom glasses apps or rely on third-party AI agents, Apple's approach means developers simply have to enable Siri interactions in their existing iPhone apps. Once that's done, users will be able to interact with those apps through their smart glasses and perform a variety of tasks, such as placing orders or making reservations.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/wearables/apples-first-smart-glasses-will-have-you-talking-with-apps-through-siri-in-2027/",
+      "category": "Tech",
+      "date": "2026-11-15T15:28:03.000Z",
       "hot": false,
-      "officialUrl": "https://www.investing.com"
+      "officialUrl": "https://www.digitaltrends.com"
     },
     {
       "id": "https://decrypt.co/?p=383282",
@@ -187,17 +275,6 @@
       "date": "2026-11-15T14:01:02.000Z",
       "hot": false,
       "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/why-falling-ai-token-prices-arent-the-negative-for-ai-providers-one-might-assume-5027935",
-      "title": "Why falling AI token prices aren’t the negative for AI providers one might assume",
-      "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/why-falling-ai-token-prices-arent-the-negative-for-ai-providers-one-might-assume-5027935",
-      "category": "Business",
-      "date": "2026-11-15T13:05:31.000Z",
-      "hot": false,
-      "officialUrl": "https://www.investing.com"
     },
     {
       "id": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
@@ -277,6 +354,17 @@
       "officialUrl": "https://mashable.com"
     },
     {
+      "id": "https://www.digitaltrends.com/?p=6023624",
+      "title": "Need a vacuum for your home? I found the best early Black Friday deals on Amazon",
+      "summary": "Vacuum shopping is rarely exciting, but early Black Friday deals, the one that helps you save hundreds of dollars, can make it a lot less boring, in my opinion. To make things easier, I've sifted through the available vacuum cleaner deals and picked the ones worth considering right now. Since I can't see your floors, I don't know whether you have pets or how much you're willing to spend on a vacuum cleaner, so I've highlighted which model suits each situation best. Digital Trends If I were furnishing a dorm, a rental, or a closet-sized spare, I'd start here. This stick weighs under 4 pounds, so your hand won't hurt from carrying it around. It converts to a hand vacuum for the tighter spaces.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/home/need-a-vacuum-for-your-home-i-found-the-best-early-black-friday-deals-on-amazon/",
+      "category": "Tech",
+      "date": "2026-11-15T09:45:18.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
       "id": "06Cn0Ym2HTdd4FWDZ318E4B",
       "title": "Prime members can get $20 off dinner with this new Uber Eats deal — how to claim",
       "summary": "TL;DR: Amazon Prime members can get $20 off each of their first two qualifying Uber Eats restaurant orders through Amazon until Nov. Each order must total at least $25 before taxes and fees and after any other qualifying discounts. Opens in a new window Credit: Amazon Uber Eats: $20 off each of your first two orders Get Deal at Amazon This may just be the frugal part of me talking, but I've always thought Uber Eats was one of the more expensive food delivery apps (right up there with Postmates). So when I heard Amazon Prime members could now get $0 delivery fees through Uber Eats, I was pretty excited. I still have questions about some of those clearly inflated restaurant prices, but free delivery is a step in the right direction. SEE ALSO: Walmart quietly dropped epic deals ahead of Black Friday: Save on Apple, Ninja, Tonies, and more Right now, eligible Prime members can get $20 off each of their first two Uber Eats restaurant orders through Amazon, for up to $40 off across two orders.",
@@ -332,6 +420,17 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
+      "id": "https://www.digitaltrends.com/?p=6023545",
+      "title": "These early Black Friday headphone deals give you the most bang for your buck",
+      "summary": "Early Black Friday headphone deals are already here, and the range, I'd say, is wider than usual. I've spent time reviewing current prices and pulled six deals that clearly stand out. They run from a $44.99 Anker Soundcore to the $449.99 AirPods Max 2, with great models from Beats, Nothing, Bose, and Sony in between. Digital Trends I'd recommend the Soundcore Q20i to a commuter or student who wants noise-canceling but doesn't want to empty their wallet. The headphones offer up to 40 hours of listening time with ANC on, and that's one of the reasons I like them. You can pair them with a phone and a laptop at once, or use them with one device.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/home-theater/these-early-black-friday-headphone-deals-give-you-the-most-bang-for-your-buck/",
+      "category": "Tech",
+      "date": "2026-11-14T21:55:24.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
+    },
+    {
       "id": "https://techcrunch.com/?p=3188741",
       "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
       "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
@@ -341,6 +440,17 @@
       "date": "2026-11-14T21:41:22.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6023525",
+      "title": "Gemini can now help you fix your bad spending habits if you use Google Wallet",
+      "summary": "Earlier this year, Google turned Gemini into something of a personal shopping assistant, letting it find products and even handle checkout without jumping between websites and apps. Now, the search giant wants to help you figure out where all that money went. Its latest Gemini feature can look into your Google Wallet transactions, and even your bank accounts, to help you keep your spending habits in check. On November 13, Google announced that users can now connect Google Wallet to Gemini through Personal Intelligence. You can also link bank accounts and credit cards using Plaid. Google actually tried something similar in India with Ask Google Pay back in July, but the latest integration brings all that financial information directly into Gemini.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/computing/google-gemini-wallet-spending-analysis/",
+      "category": "Tech",
+      "date": "2026-11-14T19:45:34.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
     },
     {
       "id": "108551165",
@@ -385,6 +495,17 @@
       "date": "2026-11-14T17:30:00.000Z",
       "hot": false,
       "officialUrl": "https://techcrunch.com"
+    },
+    {
+      "id": "https://www.digitaltrends.com/?p=6023501",
+      "title": "Apple’s first foldable has a problem that even replacements can’t seem to fix",
+      "summary": "Apple's first foldable iPhone has been available for just over three weeks, and while there's plenty to like, some owners are having a frustrating experience. Reports of cracked inner displays started appearing shortly after launch, and although Apple acknowledged the problem and began offering replacements, new complaints suggest the issue hasn't completely gone away. More concerning, some owners are now reporting similar problems with their replacement devices. And when you're spending at least $2,000 on a foldable, worrying about whether its screen will survive everyday use is hardly reassuring. One of the more concerning reports comes from a Reddit user who claims their replacement iPhone Duo developed the exact same display problem as their original device in less than 24 hours. Both phones developed damage in the bottom-right corner of the inner display, accompanied by a vertical line of defective pixels and bubbling along the crease.",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/phones/apples-first-foldable-has-a-problem-that-even-replacements-cant-seem-to-fix/",
+      "category": "Tech",
+      "date": "2026-11-14T17:29:09.000Z",
+      "hot": false,
+      "officialUrl": "https://www.digitaltrends.com"
     },
     {
       "id": "https://decrypt.co/?p=383270",
@@ -605,17 +726,6 @@
       "date": "2026-11-13T23:49:11.000Z",
       "hot": false,
       "officialUrl": "https://www.theverge.com"
-    },
-    {
-      "id": "108549585",
-      "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
-      "summary": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
-      "category": "Business",
-      "date": "2026-11-13T23:42:18.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "https://techcrunch.com/?p=3188596",
@@ -1187,7 +1297,7 @@
     {
       "id": "https://www.youtube.com/watch?v=G_Jrexy_5Bg&utm_source=futuretools.io&utm_medium=newspage",
       "title": "One of the Most Explosive Weeks in AI History - Full Breakdown",
-      "summary": "Watch Matt Wolfe's latest YouTube video where he breaks down all of the most important AI news from the past week.",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
       "source": "FutureTools News",
       "sourceUrl": "https://www.youtube.com/watch?v=G_Jrexy_5Bg&utm_source=futuretools.io&utm_medium=newspage",
       "category": "Curation",
@@ -1268,17 +1378,6 @@
       "officialUrl": "https://rss.politico.com"
     },
     {
-      "id": "https://techcrunch.com/?p=3188128",
-      "title": "Muse can now place calls to US businesses — if you pay",
-      "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
-      "category": "Business",
-      "date": "2026-11-12T22:22:28.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
-    },
-    {
       "id": "6af5df5f8002dae2d83cda97",
       "title": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
       "summary": "Nvidia cofounder Jensen Huang officially resigned after admitting to an affair with an alleged Chinese intelligence asset. He also faces reports of at least two more alleged affairs with Nvidia employees. In this bonus episode, Brian Barrett, Zoë Schiffer, and Leah Feiger break down how Nvidia’s board turned on its founder, what interim CEO Colette Kress means for the company, and how this moment could be a golden opportunity for Nvidia’s competitors. You can follow Brian Barrett on Bluesky at @brbarrett, Zoë Schiffer on Bluesky at @zoeschiffer, and Leah Feiger on Bluesky at @leahfeiger. Write to us at [email protected]. If you're on an iPhone or iPad, open the app called Podcasts, or just tap this link.",
@@ -1290,17 +1389,6 @@
       "officialUrl": "https://www.wired.com"
     },
     {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-      "title": "Google’s new Gemini model is better at understanding complicated questions",
-      "summary": "Google’s Robby Stein says Gemini 4 Hydrogen is ‘the biggest model upgrade to Search yet.’ Google’s Robby Stein says Gemini 4 Hydrogen is ‘the biggest model upgrade to Search yet.’ Google says Gemini 4 Hydrogen also gives users a wider range of links in its responses by “conducting simultaneous queries across all the relevant subtopics.” Its responses have more visuals, too, like images, comparison tables, graphs, and maps. One of Stein’s examples shows the AI generating an interactive animated driving simulation in response to a user’s question about how phones locate which lane of a highway a car is on in areas without cell service. Google says the new model also has improved language understanding “across all supported AI Mode languages.” Users have more thinking level options with Gemini 4 Hydrogen, as well, including low, medium, high, and a new “xhigh” mode.",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-      "category": "Industry",
-      "date": "2026-11-12T21:55:32.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
       "id": "https://www.techrepublic.com/?p=4381437",
       "title": "Windows 11 Photos Will Add Adobe AI Tools: What Users Need to Know",
       "summary": "Adobe AI tools are coming to Windows 11 Photos. Learn what they’ll do, who gets access first, and what Adobe hasn’t announced yet.",
@@ -1310,17 +1398,6 @@
       "date": "2026-11-12T21:27:53.000Z",
       "hot": false,
       "officialUrl": "https://www.techrepublic.com"
-    },
-    {
-      "id": "https://techcrunch.com/?p=3188119",
-      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
-      "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
-      "category": "Business",
-      "date": "2026-11-12T21:27:10.000Z",
-      "hot": false,
-      "officialUrl": "https://techcrunch.com"
     },
     {
       "id": "https://www.techrepublic.com/article/news-apple-ai-glasses-smart-earphones-apac-china/",
@@ -1365,17 +1442,6 @@
       "date": "2026-11-12T19:59:59.000Z",
       "hot": false,
       "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
-      "title": "No, AI agents did not discover a previously unknown Maya site",
-      "summary": "“I woke up and checked the agents' reports. 'DAMN!' They had found lots of villages and other regular shapes that looked like structures or houses,“ Pietro Miotti wrote on his blog. | Image: Pietro Miotti Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year. The incident, which sparked criticism among archeologists online, underscores a growing tension in science as amateurs wielding increasingly powerful AI tools parachute into specialist fields, often without the expertise needed to understand what they are looking at. Local communities are often already well aware of sites in their area.",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
-      "category": "Industry",
-      "date": "2026-11-12T19:42:40.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
     },
     {
       "id": "https://www.techrepublic.com/article/news-apple-harbor-local-ai-macs-explained/",
@@ -1953,50 +2019,6 @@
       "category": "Curation",
       "date": "2026-11-11T00:00:00.000Z",
       "hot": false
-    },
-    {
-      "id": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
-      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-      "summary": "Amazon is betting that many Ring customers will also want an AI-powered security drone and robot patrolling their homes or offices. But the company’s upcoming Ring Robotic products are also certain to intensify privacy concerns previously raised around a prior Amazon attempt to popularize a flying security camera. The Ring Rover Cam and Ring Drone Cam are expected to reach customers starting at the end of 2026 and in early 2027, respectively, according to an Amazon announcement posted on November 10. Amazon describes the devices as relying on an AI Pilot system that uses each device’s cameras along with “specialized vision models, on-device sensors and cloud processing” to plan patrol routes while autonomously navigating around obstacles such as furniture. Both devices also use that AI Pilot system to digitally map the floor plan of the customer’s home or business. This setup process occurs after the customer carries the Ring drone through their indoor spaces or allows the Ring Rover to do some autonomous exploration.Read full article Comments",
-      "source": "Ars Technica AI",
-      "sourceUrl": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
-      "category": "Industry",
-      "date": "2026-11-10T22:35:01.000Z",
-      "hot": false,
-      "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
-      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
-      "summary": "Grok Build, the vibe-coding agent from SpaceXSI, is leaking data—some of it proprietary business information and other sensitive secrets—from thousands of its users, including the very same Elon Musk-owned company that offers the platform, new research shows. The information is revealed through links allowing Grok Build users to share their apps with others. Grok takes steps to randomize the URLs so only people who know the exact URL can access the data stored there. A design decision by developers of the platform, however, completely torpedoes that objective and makes it possible for anyone to enumerate thousands of live Grok Build projects. Except in rare cases, clicking those links opens the app and reveals all data associated with it. You had one job Research from security firm Claroc shows that the exposed data includes things like internal business plans, ad proposals, medical exam results, galley checklists from a celebrity cruise line, and employee names and ID numbers.",
-      "source": "Ars Technica AI",
-      "sourceUrl": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
-      "category": "Industry",
-      "date": "2026-11-10T21:12:59.000Z",
-      "hot": false,
-      "officialUrl": "https://arstechnica.com"
-    },
-    {
-      "id": "000001a1-c73a-d2f6-adb3-e73ef7860000",
-      "title": "Nvidia hires Wachtell Lipton for Jensen Huang investigation",
-      "summary": "The independent investigation follows reports that the CEO had a romantic relationship with an alleged Chinese spy.",
-      "source": "Politico Tech",
-      "sourceUrl": "https://www.politico.com/news/2026/11/10/nvidia-wachtell-lipton-jensen-huang-01159501",
-      "category": "Industry",
-      "date": "2026-11-10T20:52:02.000Z",
-      "hot": false,
-      "officialUrl": "https://rss.politico.com"
-    },
-    {
-      "id": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
-      "title": "What happens to mathematics when AI becomes an oracle?",
-      "summary": "Our modern world runs on math, from social media algorithms, package delivery, and weather prediction to medical imaging and machine learning. The rise of computers helped fuel its dominance, enabling us to work with increasingly large numbers that would otherwise be beyond the capacity of our finite human brains. But with the rise of large language models, AI chatbots, and, soon, quantum computing, so-called \"big math\" is beginning to outstrip its creators entirely. What that means, and how we might adapt, is the focus of a new book, Big Math: The Hidden Codes That Run Our World, by applied mathematicians Steven Strogatz and Alex Townsend. Strogatz is perhaps best known in his field for his co-authorship of a seminal 1998 paper with Duncan Watts on the collective dynamics of small-world networks. He has also studied chaos theory as applied to physics, the geometry of supercoiled DNA, and the biological collective oscillators, such as swarms of synchronously flashing fireflies and crickets that chirp in unison.",
-      "source": "Ars Technica AI",
-      "sourceUrl": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
-      "category": "Industry",
-      "date": "2026-11-10T20:30:01.000Z",
-      "hot": false,
-      "officialUrl": "https://arstechnica.com"
     }
   ]
 }
