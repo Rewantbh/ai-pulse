@@ -1,27 +1,115 @@
 {
-  "lastUpdated": "2026-11-26T09:29:10.647Z",
+  "lastUpdated": "2026-11-26T11:46:54.842Z",
   "news": [
     {
-      "id": "https://www.investing.com/news/stock-market-news/unicredit-clears-final-hurdles-for-commerzbank-takeover-5052161",
-      "title": "UniCredit shares gain 3% as final approvals clear path for Commerzbank deal",
+      "id": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
       "summary": "",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/unicredit-clears-final-hurdles-for-commerzbank-takeover-5052161",
-      "category": "Business",
-      "date": "2026-11-26T09:00:24.000Z",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "category": "Research",
+      "date": "2026-11-26T11:37:17.000Z",
       "hot": false,
-      "officialUrl": "https://www.investing.com"
+      "officialUrl": "https://huggingface.co"
     },
     {
-      "id": "02bpHkefc5zuuGb9r0OxNa0",
-      "title": "Your content workflow gets a $65 early Black Friday lifetime upgrade — ChatGPT, Claude, Gemini, a...",
-      "summary": "TL;DR: Early Black Friday price drop: pay $64.97 once for lifetime 1min.AI Advanced Business Plan access, including four million monthly credits and tools for writing, images, PDFs, audio, and video. Opens in a new window Credit: 1minAI 1min.AI Advanced Business Plan Lifetime Subscription $64.97 $540 Save $475.03 Get Deal AI subscriptions aren't cheap, but it's manageable if you only use one model like ChatGPT. However, if you need tools for generating images, writing copy, analyzing documents, or translating between languages, a platform like 1min.AI is a more viable option.1min.AI gives you lifetime access to some of the most popular AI tools, including ChatGPT, Gemini, Mistral, and many others. It's also only $64.97 for a lifetime subscription during this Early Black Friday price drop (reg. $540).1min.AI runs in your browser and pulls a ton of everyday work into one place. You can research keywords, draft blog posts, rewrite and shorten text, generate social posts, and keep a consistent brand voice across projects.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/nov-26-1minai-advanced-business-plan-lifetime-subscription",
+      "id": "https://decrypt.co/?p=384025",
+      "title": "New York Wins $1.37B Judgment Against NovaTech Founders Who Fled the US",
+      "summary": "Before a default ruling in 2025, so victims of the scheme may struggle to recover their money.",
+      "source": "Decrypt AI",
+      "sourceUrl": "https://decrypt.co/384025/new-york-wins-1-37b-judgment-against-novatech-founders-who-fled-the-us",
       "category": "Tech",
-      "date": "2026-11-26T09:00:00.000Z",
+      "date": "2026-11-26T11:25:58.000Z",
+      "hot": false,
+      "officialUrl": "https://decrypt.co"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/11/26/apple-korea-regulator-iphone-16-ai-advertising/",
+      "title": "Apple Faces Korean Regulator Review Over iPhone 16 AI Advertising",
+      "summary": "Apple is facing a formal probe in South Korea over allegations that its iPhone 16 advertising misled consumers about the availability of Apple Intelligence features. Investigators at the country's Fair Trade Commission (FTC) have referred Apple and Apple Korea for review, alleging that several Apple Intelligence features were not delivered as advertised, including Genmoji, Image Playground, and Siri's ability to understand personal context and onscreen awareness. The allegations focus on whether Apple adequately explained which features were available and when others would arrive. For example, the FTC's report notes that Siri's personal-context capabilities were advertised for Korean availability in early April 2025 but did not arrive until October 2026, approximately 18 months later. According to Yonhap News Agency, Apple has disputed the investigators' conclusions and says it provided advance notice about feature availability. The Commission has yet to issue a final ruling or impose a penalty.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/11/26/apple-korea-regulator-iphone-16-ai-advertising/",
+      "category": "Tech",
+      "date": "2026-11-26T11:19:54.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/11/26/apple-watch-ultra-4-new-price/",
+      "title": "Apple Watch Ultra 4 Hits New Best-Ever Price of $649.99 for Black Friday",
+      "summary": "The Apple Watch Ultra 4 has dropped to a new all-time low price for Black Friday, available for $649.99 in a few colors, down from $799.00. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Colors available at this price include the Natural with Desert Alpine Loop (Medium), Natural with Sand Trail Loop (M/L), and the Natural with Translucent Gray Ocean Band. Amazon provides an estimated delivery date of early December for most models. $149 OFFApple Watch Ultra 4 for $649.99 You can check out our main post on all of the best Apple Black Friday deals for information on sales for Macs, iPads, Apple Watches, and more.",
+      "source": "MacRumors",
+      "sourceUrl": "https://www.macrumors.com/2026/11/26/apple-watch-ultra-4-new-price/",
+      "category": "Tech",
+      "date": "2026-11-26T11:07:27.000Z",
+      "hot": false,
+      "officialUrl": "https://feeds.macrumors.com"
+    },
+    {
+      "id": "https://www.engadget.com/2329071/spacex-gets-fcc-approval-to-deploy-1-million-satellites-for-its-ai-orbital-data-center/",
+      "title": "SpaceX gets FCC approval to deploy 1 million satellites for its AI orbital data center",
+      "summary": "The FCC expects the initiative, called Starmind, to deploy it first satellite by November 2033. Findaview/Shutterstock Add Engadget on Google: Preferred Source Google Discover The Federal Communications Commission (FCC) has approved SpaceX's request to deploy 1 million satellites to build its AI orbital data center. SpaceX filed its application at the beginning of the year, presenting the initiative called Starmind as the better alternative for ground-based data centers. In its filing, the company argued that \"orbital data centers are the most efficient way to meet the accelerating demand for AI computing power,\" since they use \"solar power with little operating and maintenance costs.\" But can space-based data centers for AI really work? Adam Becker, an astrophysicist and a critic of Elon Musk's space and AI ambitions, told AP that \"it's not going to happen.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2329071/spacex-gets-fcc-approval-to-deploy-1-million-satellites-for-its-ai-orbital-data-center/",
+      "category": "Tools",
+      "date": "2026-11-26T11:01:32.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
+    },
+    {
+      "id": "6b07095da2c32fc4ddb30859",
+      "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+      "summary": "Meta declined a suggestion from the UK’s financial regulator last week that they joint-test Muse using their sandbox, according to the watchdog’s head of innovation Colin Payne. It comes as regulators across the UK, including the competition and data watchdogs, warned Meta it needs to ensure its AI products comply with UK consumer protection laws. “It’s another force of attack, agents hitting the streets, most of them coming from the US,” Payne, of the Financial Conduct Authority (FCA), said Tuesday in a panel hosted by AI firm Whitespace. “We’ve got a number of entrants into the market. We want to see what they’re going to be doing in the market. I think it’s just reasonable,” he later explained to WIRED.",
+      "source": "Wired AI",
+      "sourceUrl": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+      "category": "Industry",
+      "date": "2026-11-26T10:51:27.000Z",
+      "hot": false,
+      "officialUrl": "https://www.wired.com"
+    },
+    {
+      "id": "05u5ICpaweejHwBrBX2w37b",
+      "title": "The 87 best Black Friday deals: We found the biggest discounts on Apple, Lego, Kindle, and Sony f...",
+      "summary": "The best Black Friday deals so far: Best Apple deal Apple Watch Series 12 (GPS) $299 (save $100) Get Deal Best headphones deal Bose QuietComfort Noise-Cancelling Headphones (1st Gen) $167 (save $192) Get Deal Best Earbuds Deal Apple AirPods Pro 3 $149 (save $100) Get Deal Best Kindle deal Amazon Kindle Paperwhite (2024) $129.99 (save $70) Get Deal Best outdoor deal Yeti Roadie 15 Hard Cooler $160 (save $40) Get Deal Best portable power station deal Bluetti Elite 100 mini $379.99 (save $419.01) Get Deal Best Amazon device deal Amazon Echo Time $99.99 (Prime members get bonus $40 credit) Get Deal Best TV Deal Hisense 65-inch E7 Mini-LED Hi-QLED 4K TV $499.99 (save $500) Get Deal Best Lego deal Lego Pok&eacute;mon Eevee $47.95 (save $12.04) Get Deal Best Gaming Deal Nintendo Switch 2 + Mario Kart World Bundle $499 (save $50) Get Deal With Thanksgiving fast approaching, new Black Friday deals are going live every day. As you prep for Thanksgiving (or let your sister do all the work), the Mashable shopping team is busy scouring the best Black Friday sales and hunting down the top deals. Yes, we know that Black Friday 2026 doesn't technically start until Nov. 27, but most retailers have already launched their sales. Amazon's Black Friday sale is underway, and we're seeing it lead the charge on savings.The best Black Friday deals so far include lots of discounts on popular Apple products, including AirPods, Apple Watches, and the MacBook Neo. You can take your pick of noise-cance...",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/best-black-friday-live-deals-2026",
+      "category": "Tech",
+      "date": "2026-11-26T10:28:42.000Z",
       "hot": false,
       "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "033dkd72oKkE2Vlnl0hDjNz",
+      "title": "We found 20+ Black Friday deals on SSDs, microSD cards, flash drives, and more storage solutions",
+      "summary": "The best Black Friday SSD deals: best internal ssd deal Samsung 990 PRO Gen4 SSD, 2TB $384.99 (save $255) Get Deal best portable ssd deal SanDisk Extreme Portable SSD, 2TB $354.49 (save $65.51) Get Deal Best Nintendo Switch 2 express card deal Sandisk 512GB microSD Express Card $149.99 (save $50) Get Deal best WD_Black deal WD_BLACK SN770M 2TB Internal SSD, 2TB $399.99 (save $132) Get Deal Best flash drive deal Sandisk 1TB Extreme Fit USB-C Flash Drive $203.99 (save $109) Get Deal Best 1TB portable SSD deal Samsung Portable SSD P7 1TB $227.55 (save $58.44) Get Deal Best micro SD deal Sandisk 512GB Ultra microSD Card $94.76 (save $25.23) Get Deal We've all been wrecked by the global memory crisis, aka RAMageddon, this year. Hard drives, microSD cards, portable SSDs, and other tech essentials have been rapidly rising in price, and there's no sign of that upward trajectory slowing any time soon. In fact, experts warn that things are going to get worse before they get better. Yikes.Whether you've been wanting to build out your PC, secure offline data backups, or give your console a little breathing space, Black Friday is the best time to take advantage of portable SSD and hard drive deals. Compared to prices we saw in early November, these deals are considerably better. We'll be tracking all of the best SSD deals from brands like SanDisk, Lexar, Samsung, Western Digital (WD_Black), and beyond leading up to and throughout Cyber Week.",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/best-black-friday-ssd-deals-2026",
+      "category": "Tech",
+      "date": "2026-11-26T10:25:18.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "03ZbMfRbUWjGIxBilcI2jUa",
+      "title": "Zelda Switch 2 restock: Live restock updates at Walmart, Target, and Best Buy (Nov. 26)",
+      "summary": "Where to check for Zelda Switch 2 stock: Nintendo Nintendo Switch 2 — The Legend of Zelda — 40th Anniversary Edition $519.99 at Nintendo Shop Now Amazon Nintendo Switch 2 — The Legend of Zelda — 40th Anniversary Edition $519.99 at Amazon Shop Now Walmart Nintendo Switch 2 — The Legend of Zelda — 40th Anniversary Edition $519.99 at Walmart Shop Now Target Nintendo Switch 2 — The Legend of Zelda — 40th Anniversary Edition $519.99 at Target Shop Now Best Buy Nintendo Switch 2 — The Legend of Zelda — 40th Anniversary Edition $519.99 at Best Buy Shop Now GameStop Nintendo Switch 2 — The Legend of Zelda — 40th Anniversary Edition $519.99 at GameStop Shop Now If your current morning ritual involves violently hitting refresh on a dozen retail tabs, you already know the vibe: finding the Nintendo Switch 2: The Legend of Zelda 40th Anniversary Edition is turning into an Olympic sport.We're closely monitoring inventory at all the major retailers and are cautiously optimistic it will be restocked for the holiday shopping season. On the question of if/when the limited-edition Zelda Switch 2 will be restocked, a Nintendo spokesperson provided this not-entirely-reassuring statement to Mashable: \"Although we cannot provide detailed information, we are striving to ensure that we can supply our products to those who want them.\"Between automated bot armies scooping digital drops, surprise order cancellations at Walmart, and inventory vanishing in seconds on Amazon, this custom black-and-gold...",
+      "source": "Mashable Tech",
+      "sourceUrl": "https://mashable.com/tech/zelda-switch-2-live-retailer-restock-tracker-where-to-buy",
+      "category": "Tech",
+      "date": "2026-11-26T10:02:52.000Z",
+      "hot": false,
+      "officialUrl": "https://mashable.com"
+    },
+    {
+      "id": "108559691",
+      "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
+      "summary": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
+      "source": "CNBC Tech",
+      "sourceUrl": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+      "category": "Business",
+      "date": "2026-11-26T09:51:40.000Z",
+      "hot": false,
+      "officialUrl": "https://www.cnbc.com"
     },
     {
       "id": "108550928",
@@ -35,17 +123,6 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
-      "id": "108559691",
-      "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters",
-      "summary": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
-      "source": "CNBC Tech",
-      "sourceUrl": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
-      "category": "Business",
-      "date": "2026-11-26T08:42:26.000Z",
-      "hot": false,
-      "officialUrl": "https://www.cnbc.com"
-    },
-    {
       "id": "http://feeds.fabbaloo.com/~/974054819/_/fabbaloo/default~Ricoh-Patent-Matches-Failed-D-Printed-Parts-to-Reduce-Waste",
       "title": "Ricoh Patent Matches Failed 3D Printed Parts to Reduce Waste",
       "summary": "Sometimes two out-of-tolerance parts can make one good assembly. The post Ricoh Patent Matches Failed 3D Printed Parts to Reduce Waste appeared on Fabbaloo.",
@@ -55,17 +132,6 @@
       "date": "2026-11-26T08:18:00.000Z",
       "hot": false,
       "officialUrl": "https://feeds.feedburner.com"
-    },
-    {
-      "id": "00lbVJhGDFlN6cCsHIpZdD9",
-      "title": "Dennys reinstates Nvidia plaque: Jensen, your booth is waiting",
-      "summary": "Nvidia reinstated Jensen Huang to its top job earlier this week, the four-time adulterer pledging he'd be \"a better CEO the second time around.\" Many supporters applauded his return, including prominent figures such as U.S. president Donald Trump, Tesla's Elon Musk, and OpenAI's Sam Altman. Now another fan has spoken up: Denny's. The diner chain has confirmed that a commemorative Nvidia plaque is back in place at its Silicon Valley location, underscoring Huang's return to grace. SEE ALSO: Nvidia reinstates Huang as CEO: Trump, Musk, Altman react while the internet has jokes In 1993, Nvidia co-founders Huang, Chris Malachowsky, and Curtis Priem met in the San Jose Denny's to discuss ideas for the chip that would lead them to launch their company. Ten years later, Denny's erected a commemorative plaque in the booth they'd used.\"The booth that launched a $1 trillion company,\" the plaque read at the time. Nvidia's value has since climbed to over $4 trillion, though recent turmoil has caused significant fluctuation.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/nvidia-dennys-plaque-reinstated-statement",
-      "category": "Tech",
-      "date": "2026-11-26T08:08:27.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
     },
     {
       "id": "108559746",
@@ -90,17 +156,6 @@
       "officialUrl": "https://www.engadget.com"
     },
     {
-      "id": "03p08Ojpqqq4rB0sUprgukk",
-      "title": "China may not have planned Jensen Huangs affair with accused Chinese spy",
-      "summary": "Nvidia CEO Jensen Huang was returned to the job earlier this week, the board reinstating him amidst plummeting stock prices and apparent intervention from President Donald Trump. Now doubt is being cast on allegations that one of Huang's affair partners was a Chinese spy. A former executive at Singapore-based data centre company Megaspeed, Ms. Huang is suspected of being an intelligent agent who shared information with the Chinese government and smuggled Nvidia chips into China, circumventing U.S. restrictions. As such, Nvidia opened an independent investigation once Huang and Ms. Huang's relationship came to light, as well as established a committee to oversee the company's national security policies and export control compliance.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/nvidia-chinese-spy-alice-huang-evidence-jensen-huang",
-      "category": "Tech",
-      "date": "2026-11-26T07:19:23.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
-    },
-    {
       "id": "108559578",
       "title": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
       "summary": "SpaceX said it will donate one share of the company's class A stock to every active Trump Account, and CEO Elon Musk would match it.",
@@ -110,6 +165,17 @@
       "date": "2026-11-26T06:39:34.000Z",
       "hot": false,
       "officialUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "https://www.engadget.com/2328996/new-york-state-bans-ai-chatbot-toys-for-kids/",
+      "title": "New York state bans AI chatbot toys for kids",
+      "summary": "Companies violating the five year ban will face a $15,000 per day fine. lev radin/Shutterstock Add Engadget on Google: Preferred Source Google Discover New York governor Kathy Hochul has signed into law a five-year ban on the sale of AI chatbot toys, including dolls and robots that use the internet to converse with children. The new law comes with some teeth, including steep daily fines for each violation enforced by the state's attorney general. \"Parents shopping for gifts for the holidays or any other occasion should not have to worry that dangerous chatbots disguised as toys could expose their children to inappropriate conversations, manipulate their feelings or put their privacy at risk,\" Hochul said in a statement. Calling herself New York's first \"mom governor,\" Hochul said the new measure was \"deeply personal.\" The governor's press release cited the US Public Interest Research Group Education Fund (PIRG), that tested chatbot toys marketed to children aged three to 12.",
+      "source": "Engadget AI",
+      "sourceUrl": "https://www.engadget.com/2328996/new-york-state-bans-ai-chatbot-toys-for-kids/",
+      "category": "Tools",
+      "date": "2026-11-26T06:02:48.000Z",
+      "hot": false,
+      "officialUrl": "https://www.engadget.com"
     },
     {
       "id": "108559050",
@@ -145,23 +211,6 @@
       "officialUrl": "https://www.cnbc.com"
     },
     {
-      "id": "074xb7WhTFreB93k4SKCj6M",
-      "title": "New York is banning AI chatbot toys for kids. Heres what the law covers.",
-      "summary": "Talking dolls and stuffed animals have been holiday gifts for decades. But with the rapid adoption of AI across all industries, many of the toys on shelves today can answer questions, make up stories, and carry on full conversations with a child.In New York, those toys have a few more months on the shelves. Kathy Hochul signed a law banning the manufacture, distribution, and sale of children's toys with built-in AI companions in the state for five years. 22, 2027, though, so the toys can still be sold over the holidays. Hochul urged parents to think twice before buying an AI toy this holiday season. \"Parents shopping for gifts for the holidays or any other occasion should not have to worry that dangerous chatbots disguised as toys could expose their children to inappropriate conversations, manipulate their feelings or put their privacy at risk,\" she said in a statement.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/new-york-ai-toy-ban",
-      "category": "Tech",
-      "date": "2026-11-26T02:41:25.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com",
-      "relatedCoverage": [
-        {
-          "source": "Engadget AI",
-          "url": "https://www.engadget.com/2328996/new-york-state-bans-ai-chatbot-toys-for-kids/"
-        }
-      ]
-    },
-    {
       "id": "000001a2-155c-d4f2-adef-97fd535e0000",
       "title": "‘Not a close case:’ Judge blocks review of ABC’s broadcast licenses",
       "summary": "A federal judge ruled that the Federal Communications Commission “may not retaliate against or punish Plaintiffs and other broadcast license holders for disfavored speech.”",
@@ -171,17 +220,6 @@
       "date": "2026-11-26T01:00:13.000Z",
       "hot": false,
       "officialUrl": "https://rss.politico.com"
-    },
-    {
-      "id": "05u5ICpaweejHwBrBX2w37b",
-      "title": "The 87 best Black Friday deals: We found the biggest discounts on Apple, Lego, Kindle, and Sony f...",
-      "summary": "The best Black Friday deals so far: Best Apple deal Apple Watch Series 12 (GPS) $299 (save $100) Get Deal Best headphones deal Bose QuietComfort Noise-Cancelling Headphones (1st Gen) $167 (save $192) Get Deal Best Earbuds Deal Apple AirPods Pro 3 $149 (save $100) Get Deal Best Kindle deal Amazon Kindle Paperwhite (2024) $129.99 (save $70) Get Deal Best outdoor deal Yeti Roadie 15 Hard Cooler $160 (save $40) Get Deal Best portable power station deal Bluetti Elite 100 mini $379.99 (save $419.01) Get Deal Best Amazon device deal Amazon Echo Time $99.99 (Prime members get bonus $40 credit) Get Deal Best TV Deal Hisense 65-inch E7 Mini-LED Hi-QLED 4K TV $499.99 (save $500) Get Deal Best Lego deal Lego Pok&eacute;mon Eevee $47.95 (save $12.04) Get Deal Best Gaming Deal Nintendo Switch 2 + Mario Kart World Bundle $499 (save $50) Get Deal With Thanksgiving fast approaching, new Black Friday deals are going live every day. As you prep for Thanksgiving (or let your sister do all the work), the Mashable shopping team is busy scouring the best Black Friday sales and hunting down the top deals. Yes, we know that Black Friday 2026 doesn't technically start until Nov. 27, but most retailers have already launched their sales. Amazon's Black Friday sale is underway, and we're seeing it lead the charge on savings.The best Black Friday deals so far include lots of discounts on popular Apple products, including AirPods, Apple Watches, and the MacBook Neo. You can take your pick of noise-cance...",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/best-black-friday-live-deals-2026",
-      "category": "Tech",
-      "date": "2026-11-25T23:39:36.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
     },
     {
       "id": "https://www.macrumors.com/2026/11/25/oled-macbook-air-2027-2028/",
@@ -215,17 +253,6 @@
       "date": "2026-11-25T22:38:09.000Z",
       "hot": false,
       "officialUrl": "https://decrypt.co"
-    },
-    {
-      "id": "02E5BaIQ4rf5vagvA663IzD",
-      "title": "The 39 best Black Friday tech deals actually worth buying, chosen by a tech editor on a budget",
-      "summary": "As Mashable's tech editor, I get to review some of the coolest gadgets in the world — and I genuinely love my job. The downside to covering tech in 2026? Having to constantly update Mashable readers on an endless stream of price hikes. Well, Black Friday 2026 is your chance to get some well-deserved relief. The best Black Friday tech deals erase many of the price hikes from the past 12 months, and in some cases, go even further. I know a lot of people are wondering whether Black Friday deals are any good this year, and so far, I've been pleasantly surprised.",
-      "source": "Mashable Tech",
-      "sourceUrl": "https://mashable.com/tech/best-black-friday-tech-deals-2026-apple-dji-amazon-samsung",
-      "category": "Tech",
-      "date": "2026-11-25T22:23:16.000Z",
-      "hot": false,
-      "officialUrl": "https://mashable.com"
     },
     {
       "id": "https://www.engadget.com/2328792/can-you-play-gta-6-from-external-hard-drive/",
@@ -322,7 +349,7 @@
       "source": "MacRumors",
       "sourceUrl": "https://www.macrumors.com/2026/11/25/ipad-for-379-black-friday-sale/",
       "category": "Tech",
-      "date": "2026-11-25T20:22:10.000Z",
+      "date": "2026-11-25T20:22:01.000Z",
       "hot": false,
       "officialUrl": "https://feeds.macrumors.com"
     },
@@ -346,7 +373,13 @@
       "category": "Tools",
       "date": "2026-11-25T20:04:07.000Z",
       "hot": false,
-      "officialUrl": "https://www.engadget.com"
+      "officialUrl": "https://www.engadget.com",
+      "relatedCoverage": [
+        {
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
+        }
+      ]
     },
     {
       "id": "https://techcrunch.com/?p=3192524",
@@ -384,7 +417,7 @@
     {
       "id": "https://www.techrepublic.com/article/news-nvidia-621-40-ssd-write-bug-fix-affected-gpus/",
       "title": "Nvidia 621.40 Targets SSD-Writing Bug: Which GPUs Are Affected?",
-      "summary": "Nvidia's 621.40 driver includes another fix for excessive SSD writes after its earlier hotfix left some users reporting problems. Here's which GPUs have reports and how to check your system.",
+      "summary": "A graphics driver shouldn’t be writing gigabytes of unnecessary data to your SSD while your PC sits idle. But that’s what some Nvidia users reported after recent GeForce updates, and the company’s first attempt to fix the problem didn’t stop every complaint. Nvidia released GeForce Game Ready Driver 621.40 on Nov. 24, adding a fix for excessive background writes to a logging file called nvlog.nvlgstg. The new WHQL-certified driver follows an emergency 621.35 hotfix released Nov. 20, which reduced the activity for at least one user but didn’t eliminate it.",
       "source": "TechRepublic AI",
       "sourceUrl": "https://www.techrepublic.com/article/news-nvidia-621-40-ssd-write-bug-fix-affected-gpus/",
       "category": "Business",
@@ -450,7 +483,7 @@
     {
       "id": "https://www.techrepublic.com/article/news-dell-ai-server-revenue-q3-fy27-backlog/",
       "title": "Dell Q3 FY27 AI Server Revenue Hits $22B as Backlog Tops $132B",
-      "summary": "Dell's AI server revenue rose 291% to $22 billion in Q3 FY27, while its backlog reached $132.3 billion. Here's what the updated forecasts and delivery claims mean for IT buyers.",
+      "summary": "Dell generated $22 billion in AI server revenue in a single quarter. But another number tells a different part of the story: The company ended the quarter with a record $132.3 billion AI backlog. The company’s AI-Optimized Servers revenue jumped 291% year over year in its fiscal 2027 third quarter. For IT buyers, that growth confirms strong demand for Dell’s AI infrastructure, but it doesn’t tell them when their own systems will arrive. A large order backlog isn’t the same as a confirmed delivery date. Dell reported the results on Nov.",
       "source": "TechRepublic AI",
       "sourceUrl": "https://www.techrepublic.com/article/news-dell-ai-server-revenue-q3-fy27-backlog/",
       "category": "Business",
@@ -632,7 +665,7 @@
     {
       "id": "https://www.techrepublic.com/article/news-gpt-6-2-protein-design-lab-binding-results/",
       "title": "GPT-6.2 Protein Design: What the Lab Binding Data Show",
-      "summary": "OpenAI's GPT-6.2 produced protein binders against five biological targets, but only 35 of 322 new designs showed binding. Here's what the lab results establish and what researchers still need to test.",
+      "summary": "OpenAI’s GPT-6.2 managed to design proteins that attached to five different biological targets in lab tests. That’s a promising result, but there’s a catch: Of the 322 AI-designed minibinders selected for testing, only 35 successfully bound their intended targets. The findings, announced Nov. 24 following experiments with research partner Onava, suggest that a general-purpose AI model can contribute to protein design. But for biotech teams hoping to speed up drug discovery, a 10.9% binding rate is only a starting point. A protein that attaches to its target isn’t necessarily safe, effective, or suitable for use in a drug.",
       "source": "TechRepublic AI",
       "sourceUrl": "https://www.techrepublic.com/article/news-gpt-6-2-protein-design-lab-binding-results/",
       "category": "Business",
@@ -658,7 +691,7 @@
       "source": "MacRumors",
       "sourceUrl": "https://www.macrumors.com/2026/11/25/amazon-black-friday-proled-macbook-pro/",
       "category": "Tech",
-      "date": "2026-11-25T15:26:23.000Z",
+      "date": "2026-11-25T15:26:13.000Z",
       "hot": false,
       "officialUrl": "https://feeds.macrumors.com"
     },
@@ -698,7 +731,7 @@
     {
       "id": "https://www.techrepublic.com/?p=4325473",
       "title": "Stop Juggling AI Tools — This Lifetime Deal Puts GPT‑4o and More in One Place",
-      "summary": "Harness multiple top-tier models like GPT‑4o, Claude, Gemini, and more in one unified platform, now $55.",
+      "summary": "In an era saturated with subscription-based AI tools, ChatPlayground AI’s lifetime Unlimited plan is a standout. A single one-time purchase delivers access to a broad suite of premium models — GPT‑4o, Claude 3.5 Sonnet, Gemini 1.5 Pro, and others — consolidated under one responsive browser interface. Key features include side-by-side comparisons of up to six AI models, enabling rapid result evaluation without juggling multiple tabs. The embedded AI sidebar remains active across your browsing sessions, allowing in-context tasks like summarizing articles, drafting messages, or generating code — all without interrupting your flow. Content professionals will appreciate the AI-enhanced document editor, which adapts to your tone — offering single-click options to expand, shorten, or style text. Pair that with the ability to query PDFs, YouTube videos, or page elements, and you get potent tools for quick insight and learning.",
       "source": "TechRepublic AI",
       "sourceUrl": "https://www.techrepublic.com/article/chatplayground-ai/",
       "category": "Business",
@@ -731,7 +764,7 @@
     {
       "id": "https://www.techrepublic.com/article/news-tidal-fully-ai-generated-music-ban/",
       "title": "TIDAL Is Removing 29 Million AI Tracks: What Happens if It Flags Yours?",
-      "summary": "Tidal plans to remove about 29 million fully AI-generated tracks starting Dec. Here’s what the ban means for listeners, artists, and music distributors.",
+      "summary": "TIDAL spent months labeling fully AI-generated music and cutting it off from royalties. Now it plans to take those tracks out of its catalog. The streaming service will start removing tracks it identifies as fully AI-generated on Dec. 9 and will reject new submissions that meet the same criteria. TIDAL lead Robert Andersen expects about 29 million tracks to come down by the start of 2027. TIDAL’s music lead, Robert Andersen, announced the decision on X on Nov.",
       "source": "TechRepublic AI",
       "sourceUrl": "https://www.techrepublic.com/article/news-tidal-fully-ai-generated-music-ban/",
       "category": "Business",
@@ -784,17 +817,6 @@
       "officialUrl": "https://feeds.macrumors.com"
     },
     {
-      "id": "https://www.macrumors.com/2026/11/25/apple-2026-heres-whats-still-coming/",
-      "title": "Apple Is Far From Done With 2026: Here's What's Still Coming",
-      "summary": "Apple's busiest season isn't over yet – far from it. With Black Friday kicking off this week, plus new products, software updates, and new smart home accessories running into December, there's more on the way from Apple before the end of 2026, so be sure to stick around. Below, we've rounded up what's still coming, along with one date in particular that's worth watching if you're a holiday shopper. Black Friday – November 27: Not a product launch unfortunately, but a date likely worth marking. Apple's annual four-day shopping event runs from Friday, November 27 through Monday, November 30, with gift cards worth up to $300 offered with eligible purchases. Our Black Friday roundup will be tracking all the deals.",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/11/25/apple-2026-heres-whats-still-coming/",
-      "category": "Tech",
-      "date": "2026-11-25T12:40:02.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
       "id": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
       "title": "AI may soon change what it means to be a theoretical physicist",
       "summary": "About six months ago, Suvrat Raju, a professor of theoretical physics at the International Centre for Theoretical Sciences in Bengaluru, India, asked a frontier AI model to solve a physics problem. He didn’t ask because he needed to know the answer. He had actually solved this particular problem already. But he had never published the solution—which made it a perfect question to test how good AI was at physics. LLMs have been trained on the whole Internet, so if a physics problem has been discussed online, it’s likely the model already knows about it and may have memorized the answer. So a fair test of AI capabilities needs to focus on problems that have never appeared online.",
@@ -830,7 +852,7 @@
     {
       "id": "https://www.techrepublic.com/article/news-pinterest-parental-controls-ai-content-teen-feeds/",
       "title": "Pinterest Gives Parents a Say in How Much AI Content Teens See",
-      "summary": "Pinterest adds a parental control for AI-generated content in teen recommendations, along with settings for autoplay, notifications, and a parental passcode.",
+      "summary": "Pinterest is handing parents a virtual dimmer switch to dial down the flood of synthetic images crowding their teenagers’ feeds. In a company announcement, Pinterest introduced a revamped Parental Controls page that lets caregivers curb how much AI-generated content appears in a teen’s recommendations. The update makes Pinterest one of the first major social platforms to let parents regulate synthetic media across a minor’s general feed, not just restrict chatbot interactions. “We’ve built Pinterest to be a positive, age-appropriate place for teens from the start, with protections built in, not bolted on,” Pinterest CEO Bill Ready said in a statement. “For parents who want more involvement, the controls are easy to find and simple to use.”",
       "source": "TechRepublic AI",
       "sourceUrl": "https://www.techrepublic.com/article/news-pinterest-parental-controls-ai-content-teen-feeds/",
       "category": "Business",
@@ -850,20 +872,9 @@
       "officialUrl": "https://www.wired.com"
     },
     {
-      "id": "https://www.macrumors.com/2026/11/25/threads-app-for-ipad-now-available/",
-      "title": "Threads App for iPad Now Available",
-      "summary": "Threads has released a native iPad app. Threads design head Christopher Clare said on Monday it was coming \"very soon,\" and it has since appeared on the App Store. This first version is a single-column feed, even in landscape. Clare has said the team prioritized \"getting out a v1,\" so expect changes to come. The update also adds cashtags for following stock discussion, buy they are rolling out gradually.Tag: ThreadsThis article, \"Threads App for iPad Now Available\" first appeared on MacRumors.comDiscuss this article in our forums",
-      "source": "MacRumors",
-      "sourceUrl": "https://www.macrumors.com/2026/11/25/threads-app-for-ipad-now-available/",
-      "category": "Tech",
-      "date": "2026-11-25T11:10:54.000Z",
-      "hot": false,
-      "officialUrl": "https://feeds.macrumors.com"
-    },
-    {
       "id": "https://www.techrepublic.com/article/news-anthropic-claude-misuse-monitoring-zero-data-retention/",
       "title": "Anthropic’s Claude Misuse Beta: What Security Teams Can See",
-      "summary": "Anthropic’s Claude beta flags potential misuse while customers keep covered prompts and responses in their own cloud storage and investigate alerts internally.",
+      "summary": "Anthropic wants businesses to catch rogue AI agents without handing over the keys to their most sensitive information. 23, Anthropic opened Enterprise Frontier Safeguards to eligible customers in a public beta. The system looks for signs of misuse across multiple requests and creates a Safety Case when it flags a risk. The customer’s security team reviews the flagged transcripts and reports back to Anthropic. The move addresses a growing problem for companies adopting advanced AI agents, which is detecting coordinated attacks without compromising the data protection policies that govern their operations.",
       "source": "TechRepublic AI",
       "sourceUrl": "https://www.techrepublic.com/article/news-anthropic-claude-misuse-monitoring-zero-data-retention/",
       "category": "Business",
@@ -907,7 +918,7 @@
     {
       "id": "https://www.techrepublic.com/?p=4382608",
       "title": "OpenRouter Removes 3 AI Providers After Prompt Security Review",
-      "summary": "OpenRouter dropped three AI providers and removed 125 endpoints from zero data retention eligibility. Here’s what IT teams should check in their AI routing.",
+      "summary": "Some AI prompts sent through OpenRouter went one hop further than customers expected. Novita, one of the platform’s inference providers, said a routing error sent some MiniMax requests to the model maker’s own API. That was one of several incidents disclosed after a Dragos investigation. 22, OpenRouter said it had removed three providers and revoked Zero Data Retention (ZDR) eligibility for 125 endpoints, some as a precaution. The company said it notified potentially affected customers and that the findings showed no evidence of a breach at OpenRouter itself. For IT teams checking their exposure, the question is where each request went after it left their application.",
       "source": "TechRepublic AI",
       "sourceUrl": "https://www.techrepublic.com/article/news-openrouter-ai-prompt-leaks-zero-data-retention/",
       "category": "Business",
@@ -1102,7 +1113,7 @@
     {
       "id": "https://www.techrepublic.com/article/news-google-nest-app-shutdown/",
       "title": "Google’s 2027 Nest and Gemini Deadlines: What Owners Need to Do",
-      "summary": "Google retires the Nest app Jan. Learn when to migrate your account, how to save camera clips, and when Gemini takes over on speakers and displays.",
+      "summary": "The clips you saved in the Nest web app have an earlier deadline than your Nest account. Google will retire the Nest app on Jan. 25, 2027, and move device management to Google Home. In a separate change starting Aug. 2, Google will begin retiring Assistant on smart speakers and displays. For anyone who still signs in with a legacy Nest account, January is also the deadline to plan around if you want to keep remote access without interruption.",
       "source": "TechRepublic AI",
       "sourceUrl": "https://www.techrepublic.com/article/news-google-nest-app-shutdown/",
       "category": "Business",
@@ -1133,17 +1144,6 @@
       "officialUrl": "https://feeds.feedburner.com"
     },
     {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "summary": "An email sent to freelance photographers says Photoshop’s latest update uses AI ‘in ways that may not be apparent.’ An email sent to freelance photographers says Photoshop’s latest update uses AI ‘in ways that may not be apparent.’ The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI “in ways that may not be apparent to users.” In an email seen by The Verge and posted on Threads, two of the Times’ photography leaders, Meaghan Looram and Josh Haner, write that the use of these features “can result in metadata identifying photographs as AI-generated.” Adobe has spent the past few years filling Photoshop and other apps in its creative suite with a trove of AI-powered tools. The November update cited by the NYT’s email adds several new AI features, including Adobe’s new “AI Assisted Editor” view, which lets users access all of Photoshop’s AI features from a single toolbar. It also adds an AI assistant for step-by-step editing instructions, prompt-based image transformation and editing, new AI upscaling options, and an AI-powered tool that recomposes images for different canvas sizes.",
-      "source": "The Verge AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "category": "Industry",
-      "date": "2026-11-24T16:09:23.000Z",
-      "hot": false,
-      "officialUrl": "https://www.theverge.com"
-    },
-    {
       "id": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
       "title": "How Gemini is changing the game for Golden State's organization and fans.",
       "summary": "The collaboration integrates Gemini across the entire franchise ecosystem. For fans, that means a more interactive game-day experience, both inside Chase Center via interactive videoboard features, and across digital channels for fans following from home. And behind the scenes, Golden State is deploying Gemini for business to build custom AI agents, helping their teams work smarter across both business and basketball operations. As a Founding Partner of Chase Center since 2019, Golden State has used Google AI's gen AI tools to help their operations run smoother, and this next chapter brings the best of Gemini to the team and fans alike.",
@@ -1168,7 +1168,7 @@
     {
       "id": "https://www.techrepublic.com/?p=4344993",
       "title": "Visual Studio 2026 Brings AI Deeper Into Development and It’s 96% Off Right Now",
-      "summary": "Microsoft's latest 64-bit IDE adds AI-assisted coding, faster performance, and advanced collaboration tools.",
+      "summary": "TL;DR: Microsoft Visual Studio Professional 2026 delivers a modern, AI-assisted, cross-platform IDE — and it’s currently available for $19.97 (MSRP $499.99). Microsoft Visual Studio Professional 2026 is designed for developers who work across platforms, languages, and increasingly complex codebases. As a fully featured 64-bit IDE, it handles large solutions more efficiently while delivering performance improvements that matter in real-world development environments. Visual Studio 2026 supports a wide range of workloads. Developers can build cross-platform desktop and mobile apps using .NET MAUI, create modern web applications with Blazor and ASP.NET Core, and develop .NET and C++ applications targeting Windows, Linux, and containerized environments. Hot reload capabilities allow code changes to be applied instantly, reducing iteration time during debugging and testing.",
       "source": "TechRepublic AI",
       "sourceUrl": "https://www.techrepublic.com/article/microsoft-visual-studio-professional-2026/",
       "category": "Business",
@@ -1179,7 +1179,7 @@
     {
       "id": "https://www.techrepublic.com/article/news-zai-glm-5-4-loop-transformer/",
       "title": "Z.ai’s GLM-5.4 Runs 28 Layers Twice: What Developers Should Test",
-      "summary": "Z.ai’s GLM-5.4 runs 28 layers twice. See what early coding benchmarks show and how to test speed, review effort, and token use against your current model.",
+      "summary": "Twenty-eight layers do double duty in Z.ai’s new coding model. The Chinese AI developer launched GLM-5.4 on Nov. Built from the roughly 750-billion-parameter GLM-5 base, it runs the same block of layers twice during each forward pass. Developers can already try it through the GLM Coding Plan. For teams weighing a switch, the first test is whether that extra processing helps them get to a patch they can merge any faster. Traditional Transformers process each layer once during a forward pass.",
       "source": "TechRepublic AI",
       "sourceUrl": "https://www.techrepublic.com/article/news-zai-glm-5-4-loop-transformer/",
       "category": "Business",
@@ -1557,17 +1557,6 @@
       "officialUrl": "https://www.wired.com"
     },
     {
-      "id": "6afb333a794f6e7c777b2bd6",
-      "title": "Submit Your Questions: Will Anyone Keep You Safe From AI?",
-      "summary": "Ian Moore The AI safety conversation, as Lauren Goode put it, has lost the plot. Will the technology really kill us all? Should each one of us be worried about cyberattacks by rogue agents? Will it bring on total societal collapse? Though there’s room for disagreement about which catastrophe is most salient, experts are aligned on the idea that society is, for one reason or another, in real trouble. This begs one big question: What are industry leaders doing to mitigate the danger they’ve unleashed?",
-      "source": "Wired AI",
-      "sourceUrl": "https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/",
-      "category": "Industry",
-      "date": "2026-11-23T12:00:00.000Z",
-      "hot": false,
-      "officialUrl": "https://www.wired.com"
-    },
-    {
       "id": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
       "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
       "summary": "Buying a new computer in the last few years has meant wading through all manner of AI branding nonsense. Most of the AI pitches for laptops are little more than marketing hype, but the launch of Nvidia RTX Spark could bring a meaningful improvement in AI capabilities to the device you use every day. Asus has adopted Nvidia's new chip in its latest ProArt lineup, offering a staggering amount of memory to run local AI models. While it doesn't have a traditional GPU, the Asus ProArt P16, with up to 128GB of memory, can also be your primary gaming and productivity machine, but this unified experience comes at a high price. If you want to run a small army of agents on your laptop, you're looking at $7,000 for the top-end ProArt P16, and despite being more approachable on Windows, local AI still requires a lot of trial and error. The PC stuff Before we dive into the AI agents, let's talk about the ProArt P16 as a laptop.",
@@ -1633,6 +1622,16 @@
       "hot": false
     },
     {
+      "id": "https://strandsagents.com/blog/introducing-strands-decider-v2/?utm_source=futuretools.io&utm_medium=newspage",
+      "title": "Strands Decider v2 Launches with Higher Accuracy & Calibrated Confidence on Gemma 4",
+      "summary": "All postsNovember 23, 20267 min readIntroducing Strands Decider v2: open, calibrated system one modelsStrands Decider v2 launches with higher accuracy and better-calibrated confidence for making judgements with agents. Today, we’re releasing Strands Decider v2: five system one models built on Gemma 4, from E2B to 31B, under Apache-2.0. The weights are on Hugging Face, and v2 support is in the open-source Strands Decider repository. Decider is a system one model. Instead of generating text, the model picks from a list of options you give it and returns a probability for each in a single forward pass. This unlocks many small decisions and judgments that can run in an agent: which tool to call, where to route a request, whether an answer is good enough.",
+      "source": "FutureTools News",
+      "sourceUrl": "https://strandsagents.com/blog/introducing-strands-decider-v2/?utm_source=futuretools.io&utm_medium=newspage",
+      "category": "Curation",
+      "date": "2026-11-23T00:00:00.000Z",
+      "hot": false
+    },
+    {
       "id": "https://openai.com/index/introducing-shirudo/?utm_source=futuretools.io&utm_medium=newspage",
       "title": "OpenAI & Cisco Launch Shirudo: Open-Source Linux Runtime for Live Patch Protection",
       "summary": "An open-source runtime that helps operators protect running Linux systems without needing to wait for the patch or restarts ShareHow Shirudo worksHow Shirudo worksRethinking infrastructureBuilding in the openHow Shirudo worksRethinking infrastructureBuilding in the openOpenAI and Cisco are launching Shirudo, an open-source runtime that helps teams protect Linux systems while they roll out patches. In a controlled test⁠(opens in a new window), a Codex-generated shield blocked a Java4Shell exploit attempt against a running Elasticsearch service without requiring a restart. We’re inviting developers, security researchers, and infrastructure operators across the industry to help develop the project further. The project brings together OpenAI’s frontier AI, security and infrastructure research and Cisco’s infrastructure and security expertise to help protect the systems people rely on every day. Testing and deploying a patch can still take days or weeks.",
@@ -1651,16 +1650,6 @@
           "url": "https://www.techrepublic.com/article/news-cisco-openai-shirudo-linux-security/"
         }
       ]
-    },
-    {
-      "id": "https://strandsagents.com/blog/introducing-strands-decider-v2/?utm_source=futuretools.io&utm_medium=newspage",
-      "title": "Strands Decider v2 Launches with Higher Accuracy & Calibrated Confidence on Gemma 4",
-      "summary": "All postsNovember 23, 20267 min readIntroducing Strands Decider v2: open, calibrated system one modelsStrands Decider v2 launches with higher accuracy and better-calibrated confidence for making judgements with agents. Today, we’re releasing Strands Decider v2: five system one models built on Gemma 4, from E2B to 31B, under Apache-2.0. The weights are on Hugging Face, and v2 support is in the open-source Strands Decider repository. Decider is a system one model. Instead of generating text, the model picks from a list of options you give it and returns a probability for each in a single forward pass. This unlocks many small decisions and judgments that can run in an agent: which tool to call, where to route a request, whether an answer is good enough.",
-      "source": "FutureTools News",
-      "sourceUrl": "https://strandsagents.com/blog/introducing-strands-decider-v2/?utm_source=futuretools.io&utm_medium=newspage",
-      "category": "Curation",
-      "date": "2026-11-23T00:00:00.000Z",
-      "hot": false
     },
     {
       "id": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director?utm_source=futuretools.io&utm_medium=newspage",
